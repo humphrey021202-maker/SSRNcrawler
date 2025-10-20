@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Boundaries of the Prediction Model in Tax Law's Substantial Authority
+
+71 Tax Law. 33
+
+Brooklyn Law School, Legal Studies Paper No. 518
+
+60 Pages Posted: 24 Aug 2017 Last revised: 10 Jan 2018
+
+Bradley T. Borden
+
+Brooklyn Law School
+
+Sang Lee
+
+Ernst & Young LLP
+
+Date Written: August 22, 2017
+
+Abstract
+
+Tax law imposes a 20-percent penalty on substantial understatements of income tax, but taxpayers avoid that penalty by showing “substantial authority” supports the reporting position that causes the understatement. The substantial-authority standard is meaningful to taxpayers making reporting decisions in the face of uncertainty and confronting IRS challenges to uncertain reporting positions. Over thirty years ago, Congress intentionally adopted substantial authority as a new concept with no precedential interpretation, granting courts broad discretion in determining whether substantial authority exists. Courts have provided little guidance about the concept since, and commentators have focused on narrow aspects of it, so the main source of its meaning exists in a few paragraphs of regulations. In the absence of clear, in-depth consideration of the concept, substantial authority appears to have developed a somewhat mythical public persona, and appears to be misperceived by many. This Article provides a framework for piecing together the legislative history and provisions in the regulations to create a structured analysis of the substantial-authority standard.
+
+The structured analysis accomplishes multiple tasks. First, its shows that even though the regulations frame substantial authority as a prediction-based analysis (the likelihood of a return position being upheld), they limit the factors taxpayers can use to make that prediction. Thus, substantial-authority predictions are different from other types of predictions associated with the law—the Article describes three types of predictions to isolate and focus on substantial-authority predictions. Second, the Article clearly delineates the weight-of-authority method and the well-reasoned method as tools the regulations allow taxpayers to use in their substantial-authority analyses. These methods circumscribe the “internal boundary” of substantial authority, i.e., those factors that a taxpayer may use to consider the likelihood that a reporting position will be upheld. The Article shows that the internal boundary of substantial authority establishes “likelihood of the position being upheld” as a technical term that, at once, invokes and limits the application of probability in the substantial-authority analysis. Third, the Article considers the extent to which the substantial-authority prediction affects tax advisors’ ethical obligations and concludes that the restrictions in the substantial-authority regulations do not apply beyond the substantial-authority analysis. The Article dubs this restriction substantial authority’s “external boundary.” Beyond that boundary, tax advisors may consider a much broader range of factors when counseling taxpayers regarding uncertain reporting positions, including the likelihood that a return will be audited and a matter will be raised on audit, but advisors must ensure such advice regarding those matters does not leach into the substantial-authority analysis.
+
+Keywords: Substantial authority, substantial understatement penalty, tax compliance, risk of audit, audit risk, likelihood of matter being raised on audit
+
+Suggested Citation:
+
+Borden, Bradley T. and Lee, Sang, Boundaries of the Prediction Model in Tax Law's Substantial Authority (August 22, 2017). 71 Tax Law. 33, Brooklyn Law School, Legal Studies Paper No. 518, Available at SSRN: https://ssrn.com/abstract=3024058
+Download This Paper
+ 
+Open PDF in Browser
+5 References
+See Model Rules of Prof 'l Conduct r.2.1 (Am Posted: 2016
+See Id
+The Service can reallocate partnership tax items if the partnership's allocations lack substantial economic effect and are not in accordance with the partners' interests in the partnership. See I.R.C. § 704(b). The rules defining those concepts are complex (in the case of substantial economic effect) and incomplete (in the case of partners
+The inadequacy of those rules appears to dissuade the Service from challenging partner tax-items allocations
+See Reg. § , volume 1 , issue jou_issue[1].xmlText
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+184
+ABSTRACT VIEWS
+1,716
+RANK
+375,525
+5 References
+PlumX Metrics
+Related eJournals
+
+Brooklyn Law School Legal Studies Research Paper Series
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

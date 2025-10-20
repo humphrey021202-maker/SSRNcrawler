@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Social Responsibility and Financial Performance Validation from Listed Indian Companies
+
+The Indian Journal of Commerce, 75(2&3), 56-72
+
+17 Pages Posted: 29 Nov 2023
+
+Prof. Shikha Shikha
+
+Shaheed Bhagat Singh College, University of Delhi
+
+Tanvi Bagadia
+
+affiliation not provided to SSRN
+
+Date Written: 2022
+
+Abstract
+
+Purpose: In the wake of increasing importance being accorded to the notion that corporates should assume socially responsible behaviour, the paper seeks to investigate whether such behaviour results in improved financial performance.
+Methodology: The sample consists of 63 Indian companies listed on NSE 100 ESG Index for the period 2017-18 and 2018-19. ESG score is used as a measure of corporate social responsibility performance of a firm. The financial performance is evaluated by using both accounting-based measures (return on assets and return on capital employed) as well as market-based measure (Tobin Q). Since size, as well as the age of a firm can confound the relationship between CSR and financial performance, the study incorporates them as control variables. A cross-sectional data model was developed and linear regression analysis was used to test the influence of corporate social responsibility on financial performance.
+Findings: The study found a significant positive relationship between corporate social responsibility performance of a firm and its financial performance both in terms of firm profitability (as calculated by accounting-based measures) as well as market value (as calculated by market-based measure). Also, it was found that the size of the company is positively and significantly correlated with CSR and all three measures of financial profitability, but, surprisingly no significant association was found between age and other variables.
+Implications: The study has strong implications for companies to integrate sustainable practices as their core business strategy as it would result in superior financial performance from competitive advantages, customer satisfaction and brand image, lower financing costs, employee retention, etc. It also has practical implications for investors, regulators, practitioners and academicians depending on the purpose.
+Originality/value: The study contributes immensely to existing research as it incorporates both measures of performance assessment and hence is more comprehensive as compared to earlier studies which have mostly used accounting measures. Further, there is a time lag after which corporate social responsibility practices translate into financial returns. The study incorporates this time lag and thus eliminates the inconsistencies of earlier studies.
+
+Keywords: Corporate Social Responsibility, Financial performance, NSE 100 ESG Index, ESG scores, Cross-sectional data model.
+
+Suggested Citation:
+
+Gupta, Shikha and Bagadia, Tanvi, Corporate Social Responsibility and Financial Performance Validation from Listed Indian Companies ( 2022). The Indian Journal of Commerce, 75(2&3), 56-72, Available at SSRN: https://ssrn.com/abstract=4623446
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+Y B Adeneye , M Ahmed
+Corporate social responsibility and company performance
+Journal of Business Studies Quarterly , volume 7 , issue 1 Posted: 2015
+M L Andersen , J S Dejoy
+Corporate social and financial performance: the role of size, industry, risk, R&D and advertising expenses as control variables , volume 116 , p. 237 - 256 Posted: 2011
+B E Ashforth , F Mael
+Social identity theory and the organization
+Academy of Management Review , volume 14 , issue 1 , p. 20 - 39 Posted: 1989
+K E Aupperle , A B Carroll , J D Hatfield
+An empirical examination of the relationship between corporate social responsibility and profitability
+Academy of Management Journal , volume 28 , issue 2 , p. 446 - 463 Posted: 1985
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+192
+ABSTRACT VIEWS
+856
+RANK
+360,957
+48 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Social Responsibility (CSR) eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

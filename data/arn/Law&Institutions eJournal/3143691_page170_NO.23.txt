@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dividend Initiations and Information Content - Revisited
+
+9th Conference on Financial Markets and Corporate Governance (FMCG) 2018
+
+73 Pages Posted: 19 Mar 2018 Last revised: 23 Nov 2021
+
+Balasingham Balachandran
+
+Monash University - Monash University Malaysia; Financial Research Network (FIRN); La Trobe University - School of Economics and Finance
+
+Michael Theobald
+
+University of Birmingham - Department of Accounting and Finance
+
+Yun (Tracy) Zhou
+
+Dept. of Economics and Finance, La Trobe University
+
+Date Written: November 23, 2021
+
+Abstract
+
+We examine the operating performance subsequent to dividend initiations by comparing firms with similar pre-event operating performance and growth opportunities. We find significantly positive abnormal operating performance for each year from the year of DI to three years after for dividend initiations in the post-tax cut period, whereas we find only significantly positive abnormal operating performance for the year of and year after for DIs in the pretax cut period, indicating strong (weak) support for the information content hypothesis for the post (pre) tax cut period. We also utilize Cox-proportional hazard regressions and find support for information content in the post-tax cut period. Further, we show that abnormal operating performances are positively related to post announcement long run abnormal returns for both the pre- and post-tax periods, indicating that the information content of dividend initiations regarding future earnings is reflected in the long-term reaction.
+
+Keywords: Dividend initiations, abnormal operating performance, Information content, long term stock returns
+
+JEL Classification: G14, G35
+
+Suggested Citation:
+
+Balachandran, Balasingham and Theobald, Michael F. and Zhou, Yun (Tracy), Dividend Initiations and Information Content - Revisited (November 23, 2021). 9th Conference on Financial Markets and Corporate Governance (FMCG) 2018, Available at SSRN: https://ssrn.com/abstract=3143691 or http://dx.doi.org/10.2139/ssrn.3143691
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+F Allen , R Michaely , G M Constantinedes , M Harris , R Stulz
+Payout policy
+Handbook of the Economics of Finance , volume 1 , p. 337 - 429 Posted: 2003
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of Financial Markets , volume 5 , p. 31 - 56 Posted: 2002
+P Asquith , D W Mullins
+The impact of initiating dividend payments on shareholders' wealth
+The Journal of Business , volume 56 Posted: 1983
+A J Auerbach , K A Hassett
+Dividend Taxes and Firm Valuation: New Evidence
+American Economic Review , volume 96 , p. 119 - 123 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+114
+ABSTRACT VIEWS
+1,614
+RANK
+560,264
+49 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analysts' Forecasting Models and Uncertainty About the Past
+
+62 Pages Posted: 13 Jan 2025
+
+Min Park
+
+University of Kansas - Accounting and Information Systems Area
+
+Tzachi Zach
+
+Ohio State University (OSU) - Department of Accounting & Management Information Systems
+
+Date Written: November 22, 2024
+
+Abstract
+
+We study the dynamics of the supply and demand of information in capital markets, focusing on how firms' disclosures align with analysts' information needs. Using a novel dataset from Visible Alpha, we analyze granular data from analysts' forecasting models to understand the breadth of information they seek and how firms meet these demands through mandatory and voluntary disclosures. We document significant variations in the complexity of analysts' models and the extent of firms' information supply, leading to some items in analysts' models that remain undisclosed. This unmet information demand gives rise to a novel concept we term "uncertainty about the past" (UP). We investigate the implications of UP on various capital market outcomes, including analyst forecast dispersion, market reactions to earnings announcements, stock market liquidity, and the timeliness of analysts' forecast revisions. Our findings reveal that UP significantly influences market dynamics, suggesting that improved disclosure practices enhance the information environment.
+
+Keywords: Analysts, Uncertainty about the past
+
+Suggested Citation:
+
+Park, Min and Zach, Tzachi, Analysts' Forecasting Models and Uncertainty About the Past (November 22, 2024). Available at SSRN: https://ssrn.com/abstract=5030615 or http://dx.doi.org/10.2139/ssrn.5030615
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+K D Allee , D Erickson , A M Esplin , T L Yohn
+Financial analysts' preferences regarding income statement presentation Posted: 2022
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+S Arif , N T Marshall , J H Schroeder , T L Yohn
+A growing disparity in earnings disclosure mechanisms: The rise of concurrently released earnings announcements and 10-Ks
+Journal of Accounting and Economics , volume 68 , issue 1 Posted: 2019
+G Bensinger
+Amazon Swings to Loss Despite Jump in Sales Posted: 2015-04-23
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+174
+ABSTRACT VIEWS
+1,162
+RANK
+394,837
+25 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

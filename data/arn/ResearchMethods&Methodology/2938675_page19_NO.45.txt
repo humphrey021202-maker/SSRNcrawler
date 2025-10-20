@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+International Accounting Databases on WRDS: Comparative Analysis
+
+42 Pages Posted: 23 Mar 2017
+
+Rui Dai
+
+Wharton Research Data Services (WRDS); The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)
+
+Date Written: March 12, 2012
+
+Abstract
+
+While multiple data vendors have claimed to offer a comprehensive international coverage of accounting and financial items for firms worldwide, there is a growing demand for better understanding of the differences across international databases. This paper compares several international accounting databases on WRDS to address this traditional obstacle confronting empirical researchers. I document important issues on the data coverage at the firm and country level, the sample overlap, and the discrepancies in coverage of various data items for FactSet Fundamentals, Compustat Global, and Bureau Van Dijk’s international databases. The main conclusions are threefold: 1) Compustat Global features greater coverage of large companies in more developed countries and provides a wider range of accounting data items than any other databases; 2) BvD Osiris offers lesser variety of accounting data items, but it also contains a higher number of small firms from developing countries; 3) finally, FactSet Fundamentals Database provides a balance in the firm size and quantity of accounting items with a reasonable geographical coverage.
+
+Keywords: International Finance Databases
+
+JEL Classification: F30, C55
+
+Suggested Citation:
+
+Dai, Rui, International Accounting Databases on WRDS: Comparative Analysis (March 12, 2012). Available at SSRN: https://ssrn.com/abstract=2938675 or http://dx.doi.org/10.2139/ssrn.2938675
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+P Alves , W Beekes , S Young
+A Comparison of Uk Firms' Financial Statement Data from Six Sources Posted: 2007
+Eugene F Fama , Kenneth R French
+Common Risk Factors in the Returns on Stocks and Bonds
+Journal of Financial Economics , volume 33 , issue 1 , p. 3 - 56 Posted: 1993
+Crossref
+Ozgur S Ince , R Burt Porter
+Individual Equity Return Data from Thomson Datastream: Handle with Care!
+Journal of Financial Research , volume 29 , issue 4 , p. 463 - 79 Posted: 2006
+Crossref
+Beth B Kern , Michael H Morris
+Differences in the Compustat and Expanded Value Line Databases and the Potential Impact on Empirical Research
+The Accounting Review , volume 69 , issue 1 , p. 274 - 84 Posted: 1994
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,929
+ABSTRACT VIEWS
+8,169
+RANK
+19,733
+17 Citations
+9 References
+PlumX Metrics
+Related eJournals
+
+Social Sciences Education eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

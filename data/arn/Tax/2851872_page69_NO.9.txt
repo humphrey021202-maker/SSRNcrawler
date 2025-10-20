@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Up-C Revolution
+
+University of Georgia School of Law Legal Studies Research Paper No. 2016-40
+
+38 Pages Posted: 15 Oct 2016 Last revised: 13 Nov 2016
+
+Gregg D. Polsky
+
+University of Georgia School of Law
+
+Adam H. Rosenzweig
+
+Washington University in St. Louis - School of Law
+
+Date Written: October 13, 2016
+
+Abstract
+
+Over the past few years, a revolutionary new tax structure, known as the Up-C, has become increasingly popular, particularly in instances where an LLC is being taken public. In such an Up-C IPO, a newly formed C corporation is placed on top of the existing LLC, which continues to operate the business. Shares of the C corporation are sold to new investors, and the proceeds are used by the C corporation to buy an interest in the LLC. Meanwhile, the legacy owners of the LLC (typically, founders and private investment funds) retain their interests in the LLC, while receiving exchange rights that allow them to swap their LLC interests for equivalent-value shares of the C corporation. In addition, the legacy owners often receive the benefit of tax receivables agreements (TRAs), which provide that the owners will receive a specified percentage (usually 85 percent) of the tax benefits to the C corporation resulting from future exchanges. In combination, these features seem to provide a near-nirvana of tax efficiency. It is therefore unsurprising that the popularity of Up-Cs is growing at an exponential rate.
+
+Nevertheless, the Up-C has received very little attention in the academic literature. This paper endeavors to fill this void. It describes the complicated Up-C IPO structure (and its frequent complement, TRAs) in detail and discusses their many attractive tax features. While Up-Cs and TRAs have faced skepticism from some quarters, the paper explains that there appears to be nothing particularly nefarious about the use of Up-Cs or TRAs per se, at least from a tax policy perspective. In addition, the paper discusses some of the significant implications of the Up-C revolution, including choice-of-entity and international tax implications. We believe that ultimately the Up-C revolution will finally fulfill predictions that the advent of the LLC would fundamentally alter the landscape of business taxation in the United States, not by replacing corporations with LLCs but instead by combining the best features of both entities into a single dominant structure.
+
+Keywords: Up-C structure, initial public offering, tax receivables agreement, IPO, TRA, stepped up basis, choice of entity
+
+Suggested Citation:
+
+Polsky, Gregg D. and Rosenzweig, Adam H., The Up-C Revolution (October 13, 2016). University of Georgia School of Law Legal Studies Research Paper No. 2016-40, Available at SSRN: https://ssrn.com/abstract=2851872 or http://dx.doi.org/10.2139/ssrn.2851872
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+Myth #1: TRAs and Up-Cs Are Synonymous 64
+See Hart Outline supra note , volume 3
+Kimberly S See Generally Blanchard
+Taxman Cometh, The
+Bus. L. Today , volume 6 Posted: 1996
+See Paul and Sabbah supra note [3]; see also LeClaire and Weber supra note , volume 6
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+836
+ABSTRACT VIEWS
+4,987
+RANK
+67,027
+4 Citations
+15 References
+PlumX Metrics
+Related eJournals
+
+University of Georgia School of Law Legal Studies Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

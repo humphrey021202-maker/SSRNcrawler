@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Role of Voluntary Reporting Standards in ESG Reporting
+
+41 Pages Posted: 16 Jan 2024 Last revised: 27 Mar 2024
+
+Hussnain Bashir
+
+NHH Norwegian School of Economics - Department of Accounting, Auditing and Law
+
+David Ogudugu
+
+Norwegian School of Economics (NHH), Department of Accounting, Auditing and Law, Students
+
+Ibrahim Pelja
+
+NHH Norwegian School of Economics
+
+Date Written: December 26, 2023
+
+Abstract
+
+We investigate the role of voluntary reporting standards for the provision of material ESG information. Extant literature suggests that compliance with GRI or SASB requires companies to apply the principle of materiality and disclose material ESG information thereby limiting strategic reporting. Even so, there is also evidence that companies may employ these reporting standards symbolically. We argue that companies that adopt ESG standards report more material information through reported metrics, covered material topics, and reported material metrics. Using a panel data of 614 companies with ESG reports from the year 2014 to 2021 (total n = 3933), we developed a unique data set by hand-mapping the ESG reporting standards followed by these companies. We collected ESG metrics from the Refinitiv database and we used the MSCI materiality map to identify and map material topics against the various ESG metrics. Using generalized staggered DID model, we found that the companies that adopted reporting standards provided ESG information on five additional ESG metrics, covered one additional material topic, and used three additional ESG metrics to cover the respective material topic in comparison with the control group. Furthermore, we found that the positive association between the adoption of ESG standards and the provision of material ESG information is strongest for environmental and social metrics and topics. The results have important implications for companies, standard setters as well as regulators.
+
+Keywords: ESG Reporting, ESG Standards, GRI, SASB, Sustainability
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Bashir, Hussnain and Ogudugu, David and Pelja, Ibrahim, The Role of Voluntary Reporting Standards in ESG Reporting (December 26, 2023). Available at SSRN: https://ssrn.com/abstract=4675566 or http://dx.doi.org/10.2139/ssrn.4675566
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+A Amel-Zadeh , G Serafeim
+Why and how investors use ESG information: Evidence from a global survey
+Financial Analysts Journal , volume 74 , issue 3 , p. 87 - 103 Posted: 2018
+M Arif , A Sajjad , S Farooq , M Abrar , A S Joyo
+The impact of audit committee attributes on the quality and quantity of environmental, social and governance (ESG) disclosures
+Corporate Governance: The International Journal of Business in Society , volume 21 , issue 3 , p. 497 - 514 Posted: 2021
+S Arvidsson , J Dumay
+Corporate ESG reporting quantity, quality and performance: Where to now for environmental policy and practice
+Business Strategy and the Environment , volume 31 , p. 1091 - 1110 Posted: 2022
+S Aureli , M Del Baldo , R Lombardi , F Nappo
+Nonfinancial reporting regulation and challenges in sustainability disclosure and corporate governance practices
+Business Strategy and the Environment , volume 29 , issue 6 , p. 2392 - 2403 Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+254
+ABSTRACT VIEWS
+1,252
+RANK
+275,154
+37 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

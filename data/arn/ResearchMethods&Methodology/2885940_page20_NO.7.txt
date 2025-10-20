@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Crowdsourcing Intelligent Research Participants: A Student versus MTurk Comparison
+
+Posted: 16 Dec 2016 Last revised: 29 Jun 2018
+
+Steve Buchheit
+
+University of Alabama
+
+Derek W. Dalton
+
+Clemson University - Wilbur O. and Ann Powers College of Business
+
+Troy Pollard
+
+University of Alabama - Culverhouse School of Accountancy
+
+Shane Stinson
+
+University of Alabama
+
+Date Written: June 5, 2018
+
+Abstract
+
+The use of online workers as research participants has grown in recent years, prompting interest in how online workers compare to traditional accounting research participants. To date, no study has compared the relative intelligence of online workers to student subjects. Such a comparison may be important to behavioral accounting researchers given the homogeneity and high mental ability of accounting students relative to online workers. While graduate students perform better than both undergraduate and MTurk participants on common intelligence tests, we find that MTurk participants are not low-quality in terms of their reasoning skills. Across two reasonably complex tasks, we find that task performance for MTurk participants is similar to undergraduate accounting students, providing incremental assurance that MTurk participants are suitable subjects when accounting expertise is not explicitly required. We also provide evidence that screening MTurk participants on intelligence scores may benefit researchers who require participants with relatively high cognitive ability.
+
+Keywords: MTurk, online subjects, experimental participants, Amazon Mechanical Turk
+
+JEL Classification: C83, C99, M40
+
+Suggested Citation:
+
+Buchheit, Steve and Dalton, Derek W. and Pollard, Troy and Stinson, Shane, Crowdsourcing Intelligent Research Participants: A Student versus MTurk Comparison (June 5, 2018). Available at SSRN: https://ssrn.com/abstract=2885940 or http://dx.doi.org/10.2139/ssrn.2885940
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,792
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

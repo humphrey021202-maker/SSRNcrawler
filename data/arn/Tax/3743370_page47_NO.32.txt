@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Entity Structure and Taxes: An Analysis of Embedded Pass-Through Entities
+
+The Accounting Review, Forthcoming
+
+50 Pages Posted: 27 Jan 2021
+
+Ashish Agarwal
+
+University of Texas at Austin - McCombs School of Business
+
+Shannon Chen
+
+University of Arizona - Department of Accounting
+
+Lillian F. Mills
+
+The University of Texas at Austin; University of Texas at Austin - McCombs School of Business
+
+Date Written: August 16, 2020
+
+Abstract
+
+We examine the effect of pass-through entities embedded in corporate structures on tax avoidance, tax uncertainty, and tax noncompliance using unique, confidential tax return data that link corporations and pass-through entities together through Schedules K-1. We develop measures of the use of pass-through entities such as the number and “connectedness” of pass-throughs within the structure, the presence of loss pass-throughs or asymmetric allocations of such losses, and connections to entities external to the firm. We predict and find that these features are associated with lower effective tax rates, higher current year additions to tax reserves, and larger amounts of proposed IRS audit adjustments, controlling for probability of audit selection. This large-sample evidence could help the IRS understand how pass-throughs affect compliance and financial statements users anticipate the tax effects related to entity structure.
+
+Keywords: Tax avoidance, tax uncertainty, tax noncompliance, entity structure
+
+JEL Classification: H20, H26, L22, M41
+
+Suggested Citation:
+
+Agarwal, Ashish and Chen, Shannon and Mills, Lillian F. and Mills, Lillian F., Entity Structure and Taxes: An Analysis of Embedded Pass-Through Entities (August 16, 2020). The Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3743370
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+A Abdel-Khalik
+Hierarchies and size: A problem of identification
+Organization Studies , volume 9 , issue 2 , p. 237 - 251 Posted: 1988
+Crossref
+R Altshuler , H Grubert
+Repatriation taxes, repatriation strategies and multinational financial policy
+Journal of Public Economics , volume 87 , issue 1 , p. 73 - 107 Posted: 2003
+Crossref
+H Amberger , S Kohlhase
+International taxation and the role of organizational form choices for group structures of multinationals. Working paper Posted: 2017
+Crossref
+T J Atwood , C Lewellen
+The complementarity between tax avoidance and manager diversion: Evidence from tax haven firms
+Contemporary Accounting Research , volume 36 , issue 1 , p. 259 - 294 Posted: 2019
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+447
+ABSTRACT VIEWS
+1,624
+RANK
+148,308
+48 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

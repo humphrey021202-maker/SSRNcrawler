@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Hidden Costs of Government-Guided Funds: Evidence from Executive-Employee Pay Gaps
+
+Finance Research Letters, 2025[10.1016/j.frl.2025.108468]
+
+23 Pages Posted: 17 Sep 2025 Last revised: 17 Sep 2025
+
+Duan Ji
+
+Shandong University of Finance and Economics
+
+Ming Liu
+
+affiliation not provided to SSRN
+
+Dan Li
+
+Shandong University of Finance and Economics
+
+Hong Fan
+
+Saint Mary's University, Canada
+
+Feng Zhan
+
+Western University
+
+Date Written: June 15, 2025
+
+Abstract
+
+While government support programs are often effective at helping firms achieve their objectives, these programs may have unintended consequences. Motivated by this, this study empirically examines the impacts of receiving investments from government-guided funds (GGFs) on executive-employee pay gaps in Chinese public firms. The results from difference-in-differences analyses show that GGFs investments lead to a significantly greater widening of the pay disparities between executives and employees in recipient firms than in other firms after funding is granted. This widening gap is driven by a larger increase in executive compensation relative to employee wages. The mechanism analysis suggests that increased cash holdings associated with receiving GGFs create financial slack that facilitates managerial opportunism, ultimately resulting in greater pay gaps. These findings reveal an unintended consequence of GGFs, highlighting an overlooked agency cost of government financial support programs.
+
+Keywords: Government-guided funds, Executive-employee pay gap, Government support programs, Agency costs
+
+Funder Statement
+
+Ji, Duan acknowledges the financial support from the Youth Project of Shandong Province Planning Social Science Planning Research (Grant No. 22DGLJ14), the Support Plan for Outstanding Youth Innovation Team in Shandong Higher Education Institutions (Grant No. 2022RW083) and the Youth Project of Shandong Province Natural Science Foundation (Grant No. ZR2020QG020). Dr. Feng Zhan gratefully acknowledges the support of the DANCAP Private Equity Professorship in Change and Innovation from the DAN Department of Management &amp; Organizational Studies, University of Western Ontario.
+
+JEL Classification: G3, G38, J3, J31, J33, D6, H53
+
+Suggested Citation:
+
+Ji, Duan and Liu, Ming and Li, Dan and Fan, Hong and Zhan, Feng, Hidden Costs of Government-Guided Funds: Evidence from Executive-Employee Pay Gaps (June 15, 2025). Finance Research Letters, 2025[10.1016/j.frl.2025.108468], Available at SSRN: https://ssrn.com/abstract=5484227 or http://dx.doi.org/10.2139/ssrn.5484227
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+J S Adams
+Inequity in social exchange
+Advances in experimental social psychology , volume 2 , p. 267 - 299 Posted: 1965
+H Bai , S Ba , W Huang , W Hu
+Expected government support and bank risktaking: Evidence from China
+Finance Research Letters , volume 36 Posted: 2020
+B Chen , Q Pan , S Wu
+Can government guided funds alleviate corporate financing constraints? Evidence from China
+Finance Research Letters , volume 66 Posted: 2024
+F Chen , O.-K Hope , Q Li , X Wang
+Financial reporting quality and investment efficiency of private firms in emerging markets
+The Accounting Review , volume 86 , issue 4 , p. 1255 - 1288 Posted: 2011
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+15
+ABSTRACT VIEWS
+107
+24 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

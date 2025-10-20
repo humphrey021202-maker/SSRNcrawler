@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Internal Control Deficiencies and Audit Staffing
+
+36 Pages Posted: 19 Sep 2023
+
+Sebastian B. Kuhn
+
+Ludwig Maximilian University of Munich (LMU)
+
+Christian Hofmann
+
+Ludwig Maximilian University of Munich (LMU) - Faculty of Business Administration (Munich School of Management)
+
+Jeroen van Raak
+
+University of Amsterdam
+
+Nina Schwaiger
+
+Technical University of Darmstadt; LMU Munich; TRR 266 Accounting for Transparency
+
+Date Written: August 28, 2023
+
+Abstract
+
+We analyze how engagement lead partners staff audits with types of internal control deficiencies (ICD). Previous literature suggests that audit teams react to the discovery of ICDs by increasing effort in order to keep audit quality constant. However, audit effort is a multifaceted construct due to the heterogeneity of auditor characteristics within an audit team. We argue that the hours worked by expert personnel, such as high-ranking auditors and specialists, represent a scarce resource for the audit firm. In the internal control setting, engagement lead partners are likely to use this resource when audit teams encounter wide-scope ICDs, such as entity wide and ITrelated ICDs. Using proprietary data on the audit processes of Big 4 audit firms in the Netherlands, we find evidence in line with this argument. When wide-scope ICDs are encountered during the audit, more audit hours are worked by expert auditors. In contrast, only non-expert auditors work more audit hours in engagements with narrow-scope ICDs, such as account level ICDs. In additional analyses, we find that the combination of expert audit effort and ICD scope is associated with audit outcomes and audit quality. Overall, we provide novel evidence on audit staffing in the presence of internal control deficiencies.
+
+Keywords: internal control, audit effort, audit risk
+
+JEL Classification: M42, M12, M50
+
+Suggested Citation:
+
+Kuhn, Sebastian B. and Hofmann, Christian and van Raak, Jeroen and Schwaiger, Nina, Internal Control Deficiencies and Audit Staffing (August 28, 2023). Available at SSRN: https://ssrn.com/abstract=4554202 or http://dx.doi.org/10.2139/ssrn.4554202
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+H Ashbaugh-Skaife , D W Collins , W R Kinney , R Lafond
+The effect of SOX internal control deficiencies and their remediation on accrual quality
+The Accounting Review , volume 83 , issue 1 , p. 217 - 250 Posted: 2008
+G S Bae , S U Choi , P T Lamoreaux , J E Lee
+Auditors' fee premiums and low-quality internal controls
+Contemporary Accounting Research , volume 38 , issue 1 , p. 586 - 620 Posted: 2021
+T D Bauer , C Estep , B Malsch
+One team or two? Investigating relationship quality between auditors and IT specialists: Implications for audit team identity and the audit process
+Contemporary Accounting Research , volume 36 , issue 4 , p. 2142 - 2177 Posted: 2019
+J C Bedard , L Graham
+Detection and severity classifications of Sarbanes-Oxley Section 404 internal control deficiencies
+The Accounting Review , volume 86 , issue 3 , p. 825 - 855 Posted: 2011
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+137
+ABSTRACT VIEWS
+797
+RANK
+484,103
+42 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

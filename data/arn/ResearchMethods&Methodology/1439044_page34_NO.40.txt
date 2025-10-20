@@ -1,0 +1,146 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dynamic Corporate Capital Stocks: Cross-sectional and Inter-temporal Stock Return Patterns
+
+AFA 2011 Denver Meetings Paper
+
+54 Pages Posted: 26 Jul 2009 Last revised: 16 Mar 2010
+
+Jacob S. Sagi
+
+University of North Carolina (UNC) at Chapel Hill - Finance Area
+
+Matthew I. Spiegel
+
+Yale University - Yale School of Management, International Center for Finance
+
+Masahiro Watanabe
+
+University of Alberta - School of Business; University of Alberta - Department of Finance and Statistical Analysis
+
+Date Written: September 6, 2009
+
+Abstract
+
+We investigate a general multiple security equilibrium model in which firms adjust their capital stock in response to economic shocks. Asset values are determined by competitive risk-averse investors. When corporate capital increases in value, firms react by creating more of it. This leads to additional risk that must be borne by investors. Overall, the model generates a VAR(1) structure for the state variables determining the cross-section of expected returns, and is broadly consistent with stylized facts (e.g., the value premium, size premium, earnings momentum, and investment premium). In addition, the paper tests a new prediction of the model and finds support for it in the data.
+
+Keywords: capital investment, profitability of capital, equity issuance, expected return, overlapping generations model, supply shocks
+
+JEL Classification: G12
+
+Suggested Citation:
+
+Sagi, Jacob and Spiegel, Matthew I. and Watanabe, Masahiro, Dynamic Corporate Capital Stocks: Cross-sectional and Inter-temporal Stock Return Patterns (September 6, 2009). AFA 2011 Denver Meetings Paper, Available at SSRN: https://ssrn.com/abstract=1439044 or http://dx.doi.org/10.2139/ssrn.1439044
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+Todd Houge , Tim Loughran
+Do Investors Capture the Value Premium?
+Financial Management , volume 35 , p. 5 - 19 Posted: 2006
+David Ikenberry , Josef Lakonishok , Theo Vermaelen
+Market Underreaction to Open Market Share Repurchases
+Journal of Financial Economics , volume 39 , p. 181 - 208 Posted: 1995
+Crossref
+Kooyul Jung , Yong Cheol Kim , Rene M Stulz
+Timing, Investment Opportunities, Managerial Discretion, and the Security Issue Decision
+Journal of Financial Economics , volume 42 , p. 159 - 185 Posted: 1986
+Crossref
+Leonid Kogan
+Asset Prices and Real Investment
+Journal of Financial Economics , volume 73 , p. 411 - 431 Posted: 2004
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+299
+ABSTRACT VIEWS
+3,146
+RANK
+232,476
+1 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+American Finance Association Meetings (AFA)
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Optimal Investment, Growth Options, and Security Returns
+
+By Jonathan Berk, Richard C. Green, ...
+
+The Value Premium
+
+By Lu Zhang
+
+A Cross-Sectional Test of a Production-Based Asset Pricing Model
+
+By John H. Cochrane
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

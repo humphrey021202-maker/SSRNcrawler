@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Corporate Risk Disclosure and Audit Fee: A Text Mining Approach
+
+Yang, R., Yu, Y., Liu, M., & Wu, K. (2018). Corporate risk disclosure and audit fee: A text mining approach. European Accounting Review, 27(3), 583-594.
+
+Posted: 28 Jul 2017 Last revised: 18 Feb 2022
+
+Rong Yang
+
+Rochester Institute of Technology
+
+Yang Yu
+
+Rochester Institute of Technology (RIT)
+
+Manlu Liu
+
+Rochester Institute of Technology (RIT) - Saunders College of Business
+
+Kean Wu
+
+Rochester Institute of Technology (RIT) - Saunders College of Business
+
+Date Written: June 5, 2017
+
+Abstract
+
+The aim of this study is to introduce an innovative text mining approach to assess firms’ risks using unstructured textual disclosure from annual reports. Specifically, we use Natural Language Processing techniques to extract firms’ self-identified risks including financial, strategic, operational, and hazard risks based on an enterprise risk management framework. We examine the association between these four risk measures derived from the risk factor section in 10-K filings and audit fees. The results show that audit fees are significantly and positively related to firm-specific financial, strategic, and operational risks, indicating the informativeness of corporate textual risk disclosures. This study provides direct support for the recent US reporting regulatory requirement of adding a new section on risk factors in corporate annual reports.
+
+Keywords: Textual Risk Disclosure, Audit Fee, Risk Management, Text Mining
+
+JEL Classification: M42, G14, G32, D81
+
+Suggested Citation:
+
+Yang, Rong and Yu, Yang and Liu, Manlu and Wu, Kean, Corporate Risk Disclosure and Audit Fee: A Text Mining Approach (June 5, 2017). Yang, R., Yu, Y., Liu, M., & Wu, K. (2018). Corporate risk disclosure and audit fee: A text mining approach. European Accounting Review, 27(3), 583-594., Available at SSRN: https://ssrn.com/abstract=2980919
+ Not Available for Download
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,825
+4 Citations
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

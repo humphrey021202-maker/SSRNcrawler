@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Detecting Financial Misreporting with Real Production Activity: Evidence from an Electricity Consumption Analysis
+
+Contemporary Accounting Research, Forthcoming
+
+53 Pages Posted: 22 Oct 2016 Last revised: 6 Feb 2021
+
+Kristian D. Allee
+
+University of Arkansas, Fayetteville - Department of Accounting
+
+Bok Baik
+
+Seoul National University
+
+Yongoh Roh
+
+McGill University - Desautels Faculty of Management
+
+There are 2 versions of this paper
+
+Date Written: February 5, 2021
+
+Abstract
+
+This study examines whether a real production activity measure, firm-level electricity consumption growth, is useful in detecting firm financial misreporting. We hypothesize that the difference between revenue growth and electricity consumption growth (i.e., growth wedge) is a useful signal of financial misreporting. Using electricity consumption data for Korean firms from 2006 to 2014, we find that the growth wedge is positively associated with discretionary revenues and accruals and the likelihood of financial misreporting as proxied by accounting restatements, qualified audit opinions, and regulatory enforcement actions. The growth wedge provides incremental information over firm characteristics and earnings management signals proposed by prior research. Our findings are robust to a battery of additional tests including within-firm and industry comparisons that do not require access to cross-sectional firm-level electricity data. Overall, our study documents new evidence on the role of a real production activity measure from an independent reporting entity in detecting financial misreporting.
+
+Keywords: Financial misreporting; Fraud; Nonfinancial information; Forensic economics; Accrual accounting; Real production
+
+JEL Classification: M41, M43, M49, G30, G38, K42
+
+Suggested Citation:
+
+Allee, Kristian D. and Baik, Bok and Roh, Yongoh, Detecting Financial Misreporting with Real Production Activity: Evidence from an Electricity Consumption Analysis (February 5, 2021). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2856472 or http://dx.doi.org/10.2139/ssrn.2856472
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+M Anderson , R Banker , S Janakiraman
+Are selling, general, and administrative costs "sticky"?
+Journal of Accounting Research , volume 41 , issue 1 , p. 47 - 63 Posted: 2003
+Crossref
+R C Anderson , D Reeb
+Founding-family ownership and firm performance: evidence from the S&P 500
+Journal of Finance , volume 58 , issue 3 , p. 1301 - 1329 Posted: 2003
+Crossref
+C Armstrong , D Larcker , G Ormazabal , D Taylor
+The relation between equity incentives and misreporting: The role of risk-taking incentives
+Journal of Financial Economics , volume 109 , issue 2 , p. 327 - 50 Posted: 2013
+Crossref
+V Arora , J Lieskovsky
+Electricity use as an indicator of US economic activity Posted: 2016-03
+Load more
+2 Citations
+Peng-Chia Chiu , Siew Hong Teoh , Yinglei Zhang , Xuan Huang
+Using Google Searches of Firm Products to Detect Revenue Management
+Accounting, Organizations and Society, Forthcoming · 50 Pages · Posted: 13 Oct 2018 · Last revised: 17 Apr 2023 · Downloads: 845
+Download PDF  Add Paper to My Library
+Elizabeth Blankespoor , Bradley E. Hendricks , Joseph D. Piotroski , Christina Synn
+Real-time revenue and firm disclosure
+Stanford University Graduate School of Business Research Paper · 60 Pages · Posted: 11 Mar 2021 · Last revised: 8 Feb 2022 · Downloads: 691
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+650
+ABSTRACT VIEWS
+3,803
+RANK
+93,094
+2 Citations
+77 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

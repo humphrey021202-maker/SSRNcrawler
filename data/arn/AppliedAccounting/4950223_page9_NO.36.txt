@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Investment Valuation of Public High Growth Companies in the Context of Global Economic Uncertainty
+
+4 Pages Posted: 14 Oct 2024
+
+Yulia Lukina
+
+MGIMO University
+
+Date Written: February 21, 2024
+
+Abstract
+
+High-growth companies (gazelles) are those that demonstrate faster rates of revenue growth over several subsequent periods compared to other organizations. High-growth firms have social and economic significance, which arouses interest in this group among a wide range of market participants: counterparties, competitors, analysts, scientists, government officials and potential investors. Investors are interested in creating a growth stock portfolio in conditions of global economic uncertainty which will improve the financial well-being of the security holder. Assessment of investment attractiveness plays an important role at the stage of selection of investment targets; assessment mechanisms make it possible to reduce the risks of ineffective investment and identify the most profitable financial investments. The purpose of the study is to determine the most effective valuation methods in the context of high-growth companies and to integrate the specific features of gazelles as an economic group into a financial model. The study included an analysis of the revenue dynamics of high-growth Russian companies, using a systematic approach, as well as comparative and investment analysis methods. The author built a model for assessing the investment attractiveness of a high-growth company using the discounted cash flow method. There is terminological ambiguity in the concept of gazelles; in various studies, the criteria for recognizing companies as high-growth may differ depending on country characteristics and the research question. The article presents the author's definition of high-growth companies and formulates the key features of gazelles as an economic group, which were subsequently integrated into the financial model. Discounted cash flow valuation has been found to be most effective in the context of high-growth companies. The author developed a predictive coefficient for the dynamics of revenue of high-growth companies, which was integrated into the model to obtain more conservative assessment results. The author drew conclusions about the advantages and disadvantages of using a predictive coefficient for revenue dynamics. The main advantages include more conservative assessment results, which will reduce investment risks, and integration into the model historical and sectoral characteristics of revenue dynamics. The main disadvantages include the complexity of calculations and the necessity of having a statistical base for several subsequent periods.
+
+Keywords: accounting and analytical support, investment valuation, investment attractiveness, high growth companies
+
+JEL Classification: C52, G11, M41
+
+Suggested Citation:
+
+Lukina, Yulia, Investment Valuation of Public High Growth Companies in the Context of Global Economic Uncertainty (February 21, 2024). Available at SSRN: https://ssrn.com/abstract=4950223 or http://dx.doi.org/10.2139/ssrn.4950223
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+79
+ABSTRACT VIEWS
+488
+RANK
+719,188
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

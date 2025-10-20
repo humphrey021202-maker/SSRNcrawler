@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Why Firms Announce Good News Late: Earnings Management and Financial Reporting Timeliness
+
+Contemporary Accounting Research, Forthcoming
+
+58 Pages Posted: 18 Jan 2017 Last revised: 7 May 2021
+
+Mark Kim
+
+University of California, Los Angeles - Anderson School of Management
+
+Spencer Pierce
+
+Florida State University - College of Business
+
+Ira Yeung
+
+University of British Columbia (UBC) - Sauder School of Business
+
+There are 2 versions of this paper
+
+Date Written: May 3, 2021
+
+Abstract
+
+Prior studies find that delayed earnings announcements tend to communicate unfavorable news, and investors react negatively when firms delay earnings announcements. However, these findings do not explain why investors discount delayed earnings, even after controlling for the earnings news, and why firms sometimes announce good news late. Motivated by theory from Trueman (1990) that attempts to explain these phenomena, we examine whether announcement delays indicate earnings management. We predict and find that good news firms with higher discretionary accruals are more likely to announce earnings late. Consistent with post fiscal year-end activities driving announcement delays, we fail to find a relation between measures of real earnings management and late announcements. Using a last-chance earnings management measure based on tax expense manipulation, we also predict and find strong evidence that good news firms engaging in last-chance earnings management are more likely to delay earnings announcements. Consistent with Trueman’s (1990) theory that earnings management explains why investors discount delayed earnings announcements, we find that, on average, earnings announcement returns are 1.4 percent lower for late announcers relying on last-chance earnings management to report good news. Overall, our findings suggest that announcement delays provide information about not only the sign of the earnings news but also the potential for earnings management.
+
+Keywords: earnings announcements; announcement timing; earnings management; last-chance earnings management; tax expense; earnings calendar
+
+JEL Classification: G10, G11, G14, M40, M41
+
+Suggested Citation:
+
+Kim, Mark and Pierce, Spencer and Yeung, Ira, Why Firms Announce Good News Late: Earnings Management and Financial Reporting Timeliness (May 3, 2021). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2900740 or http://dx.doi.org/10.2139/ssrn.2900740
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+M Bagnoli , W Kross , S Watts
+The information in management's expected earnings report date: A day late, a penny short
+Journal of Accounting Research , volume 40 , issue 5 , p. 1275 - 96 Posted: 2002
+Crossref
+W R Baber , S Chen , S H Kang
+Stock price reaction to evidence of earnings management: Implications for supplementary financial disclosure
+Review of Accounting Studies , volume 11 , issue 1 , p. 5 - 19 Posted: 2006
+Crossref
+B Baik , K Kim , R Morton , Y Roh
+Analysts' pre-tax income forecasts and the tax expense anomaly
+Review of Accounting Studies , volume 21 , issue 2 , p. 559 - 95 Posted: 2016
+Crossref
+E Bartov , D Givoly , C Hayn
+The rewards to meeting or beating earnings expectations
+Journal of Accounting and Economics , volume 33 , issue 2 , p. 173 - 204 Posted: 2002
+Crossref
+Load more
+7 Citations
+Tuba TOKSOZ , Fevzi Serkan ÖZDEMİR
+Finansal Raporların Zamanlılığına Etki Eden Faktörler: Borsa İstanbul Örneği
+Selçuk Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Dergisi , volume 24 , issue 1 , p. 187 Posted: 2021
+Crossref
+Erik Beardsley , John R. Robinson , Paul A. Wong
+What's My Target? Individual Analyst Forecasts and Last-Chance Earnings Management
+Journal of Accounting & Economics (JAE), Forthcoming · 45 Pages · Posted: 12 Apr 2021 · Last revised: 17 May 2021 · Downloads: 253
+Download PDF  Add Paper to My Library
+Cyrus Aghamolla , Ilan Guttman , Evgeny Petrov
+Sequential Reporting Bias
+The Accounting Review, Vol. 99, No. 5, 2024, HKUST Business School Research Paper No. 2020-015 · 47 Pages · Posted: 3 Feb 2021 · Last revised: 9 Sep 2024 · Downloads: 448
+Download PDF  Add Paper to My Library
+Ryosuke Fujitani
+What Drives Disclosure Costs?: Evidence from Dynamic Adjustments in Reporting Speed
+58 Pages · Posted: 6 Jul 2023 · Last revised: 27 Aug 2023 · Downloads: 114
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+343
+ABSTRACT VIEWS
+2,116
+RANK
+200,166
+7 Citations
+41 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

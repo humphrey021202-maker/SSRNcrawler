@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Extremal Quantiles and Stock Price Crashes
+
+Forthcoming in Econometric Reviews
+
+45 Pages Posted: 31 May 2023 Last revised: 28 Jul 2023
+
+Panayiotis C. Andreou
+
+Cyprus University of Technology
+
+Sofia Anyfantaki
+
+European Central Bank, Financial Research Division; Bank of Greece
+
+Esfandiar Maasoumi
+
+Emory University
+
+Carlo Sala
+
+ESADE Business School
+
+Date Written: December 27, 2022
+
+Abstract
+
+We employ extreme value theory to identify stock price crashes, featuring low-probability events that produce large, firm-specific negative outliers in the conditional distribution. Traditional methods employ approximations under Gaussian assumptions and central moments. This is inherently imprecise and susceptible to misspecifications, especially for tail events. We instead propose new definitions and measures for crash risk based on conditional extremal quantiles (CEQ) of idiosyncratic stock returns. CEQ provide information on quantile specific impact of covariates, and shed light on prior empirical puzzles and shortcomings in identifying crashes. Additionally, to capture the magnitude of crashes, we provide an expected shortfall analysis of the losses due to crash. Our findings have important implications for a burgeoning literature in financial economics that relies on traditional approximations.
+
+Keywords: Stock price crashes, Extremal quantiles, Extreme value theory, Quantile regression
+
+JEL Classification: C14, D81, G11, G12, G32
+
+Suggested Citation:
+
+Andreou, Panayiotis C. and Anyfantaki, Sofia and Maasoumi, Esfandiar Essie and Sala, Carlo, Extremal Quantiles and Stock Price Crashes (December 27, 2022). Forthcoming in Econometric Reviews, Available at SSRN: https://ssrn.com/abstract=4464053 or http://dx.doi.org/10.2139/ssrn.4464053
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+C K Andreou , P C Andreou , N Lambertides
+Financial distress risk and stock price crashes
+Journal of Corporate Finance , volume 67 Posted: 2021
+P C Andreou , C Antoniou , J Horton , C Louca
+Corporate governance and firmspecific stock price crashes
+European Financial Management , volume 22 , p. 916 - 956 Posted: 2016
+P C Andreou , N Lambertides , M Magidou
+A critique of the agency theory viewpoint of stock price crash risk: The opacity and overinvestment channels
+British Journal of Management Posted: 2022
+P C Andreou , C Louca , A P Petrou
+CEO age and stock price crash risk
+Review of Finance , volume 21 , p. 1287 - 1325 Posted: 2017
+Load more
+1 Citations
+Panayiotis C. Andreou , Neophytos Lambertides , Marina Magidou
+A Critique of the Agency Theory Viewpoint of Stock Price Crash Risk: The Opacity and Overinvestment Channels
+British Journal of Management , volume 34 , issue 4 , p. 2158 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+139
+ABSTRACT VIEWS
+856
+RANK
+478,373
+1 Citations
+61 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

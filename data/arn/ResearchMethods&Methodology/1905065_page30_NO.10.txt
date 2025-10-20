@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Test for Long Memory in the Conditional Correlation of Bivariate Returns to Stock and Bond Market Index Futures
+
+22 Pages Posted: 4 Aug 2011
+
+Kirt C. Butler
+
+Michigan State University
+
+William Christopher Gerken
+
+University of Kentucky - Finance
+
+Katsushi Okada
+
+Michigan State University
+
+Date Written: August 3, 2011
+
+Abstract
+
+Long memory is found in the conditional volatilities of financial returns measured at daily or higher frequencies, as well as in residual cross-products in bivariate series. We test for long memory in conditional correlations by extending the fractionally integrated GARCH model to include previous conditional correlations and standardized cross-products in a bivariate system. We apply the model to stock-stock and stock-bond futures index returns using Engle’s (2002) two-stage dynamic conditional correlation approach. We find that cross-products are indeed long memory processes, but that this feature arises from long memory in conditional volatilities and not from long memory in conditional correlation.
+
+Keywords: Long memory, FIGARCH, DCC, conditional volatility, conditional correlation
+
+JEL Classification: G15, G11, C15, C34
+
+Suggested Citation:
+
+Butler, Kirt C. and Gerken, William Christopher and Okada, Katsushi, A Test for Long Memory in the Conditional Correlation of Bivariate Returns to Stock and Bond Market Index Futures (August 3, 2011). Available at SSRN: https://ssrn.com/abstract=1905065 or http://dx.doi.org/10.2139/ssrn.1905065
+Download This Paper
+ 
+Open PDF in Browser
+65 References
+observed long memory in the cross-products of stock market returns is due to long memory behavior in the volatilities
+T G Andersen , T Bollerslev
+Heterogeneous information arrivals and return volatility dynamics: uncovering the long-run in high frequency returns
+Journal of Finance , volume 52 , p. 975 - 1005 Posted: 1997
+Crossref
+T G Andersen , T Bollerslev , F X Diebold , H Ebense
+The distribution of realized stock return volatility
+Journal of Financial Economics , volume 61 , p. 43 - 76 Posted: 2001
+Crossref
+T G Andersen , T Bollerslev , F X Diebold , P Labys
+The distribution of realized exchange rate volatility
+Journal of the American Statistical Association , volume 96 , p. 42 - 55 Posted: 2001
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+129
+ABSTRACT VIEWS
+1,948
+RANK
+508,348
+1 Citations
+65 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

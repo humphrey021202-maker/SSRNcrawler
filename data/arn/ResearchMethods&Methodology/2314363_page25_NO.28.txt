@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Selecting the Correct Number of Factors in Approximate Factor Models: The Large Panel Case with Group Bridge Estimators
+
+37 Pages Posted: 23 Aug 2013
+
+Mehmet Caner
+
+North Carolina State University - Department of Economics
+
+Xu Han
+
+City University of Hong Kong (CityU) - Department of Economics & Finance
+
+Date Written: August 20, 2013
+
+Abstract
+
+This paper proposes a group bridge estimator to select the correct number of factors in approximate factor models. It contributes to the literature on shrinkage estimation and factor models by extending the conventional bridge estimator from a single equation to a large panel context. The proposed estimator can consistently estimate the factor loadings of relevant factors and shrink the loadings of irrelevant factors to zero with a probability approaching one. Hence, it provides a consistent estimate for the number of factors. We also propose an algorithm for the new estimator; Monte Carlo experiments show that our algorithm converges reasonably fast and that our estimator has very good performance in small samples. An empirical example is also presented based on a commonly used US macroeconomic data set.
+
+Keywords: bridge estimation, common factors, selection consistency
+
+Suggested Citation:
+
+Caner, Mehmet and Han, Xu, Selecting the Correct Number of Factors in Approximate Factor Models: The Large Panel Case with Group Bridge Estimators (August 20, 2013). Available at SSRN: https://ssrn.com/abstract=2314363 or http://dx.doi.org/10.2139/ssrn.2314363
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+L Alessi , M Barigozzi , M Capasso
+Improved Penalization for Determining the Number of Factors in Approximate Factor Models
+Statistics and Probability Letters , volume 80 , p. 1806 - 1813 Posted: 2010
+Crossref
+D Amengual , M Watson
+Consistent Estimation of the Number of Dynamic Factors in a Large N And T Panel
+Journal of Business and Economic Statistics , volume 25 , issue 1 , p. 91 - 96 Posted: 2007
+Crossref
+J Bai
+Inferential Theory for Factor Models of Large Dimensions
+Econometrica , volume 71 , p. 135 - 173 Posted: 2003
+Crossref
+J Bai , S Ng
+Determining the Number of Factors in Approximate Factor Models
+Econometrica , volume 70 , p. 191 - 221 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+78
+ABSTRACT VIEWS
+1,560
+RANK
+724,439
+5 Citations
+58 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric Model Construction, Estimation & Selection eJournal
+
+Follow
+Recommended Papers
+
+The Generalized Dynamic Factor Model: One-Sided Estimation and Forecasting
+
+By Mario Forni, Marc Hallin, ...
+
+Arbitrage, Factor Structure, and Mean-Variance Analysis on Large Asset Markets
+
+By Gary Chamberlain and Michael Rothschild
+
+Arbitrage and Mean-Variance Analysis on Large Asset Markets
+
+By Gary Chamberlain and Michael Rothschild
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect Accounting Conservatism in Emerging Market – Using Lo Eko Model
+
+50 Pages Posted: 11 Jul 2017
+
+Marselinus Asri
+
+Atma Jaya Makassar University
+
+Date Written: July 6, 2017
+
+Abstract
+
+The research aim is to examine other variables that also affect the relationship between conservatism and earnings quality in emerging market. Normal Corporate Governance is a set of mechanisms that can protect minority shareholders from expropriation by managers and insider shareholders with an emphasis on legal mechanisms.
+
+Data Population are companies listed in Indonesia Stock Exchange during the period 2010-20015. The sample selection is based on purposive sampling method with the purpose of obtaining a representative sample. An Alternative measure of accounting conservatism used is the instrumental variables of Accounting conservatism (VIKV) developed by Lo Eko (Lo, 2005). The quality of earnings can be measured through discretionary accruals calculated by way of setting aside total accruals (TACC) and nondiscretionary accruals (NDACC). In calculating DACC, Modified Jones Model is used because it is considered better among other models to measure earnings management (Dechow et al., 1995).
+
+The results of this study indicate that the Instrumental Variables Conservatism (VIK) has a significant positive effect on the Earning Quality. This means that management positively signals the application of accounting conservatism within the company and has an impact on improving the quality of earnings. The next investor is expected to provide more valuations by providing a high premium for the company's stock price.
+
+Keywords: Accounting Conservatism, Corporate Governance, Earning Quality, Modified Jones Model
+
+Suggested Citation:
+
+Asri, Marselinus, The Effect Accounting Conservatism in Emerging Market – Using Lo Eko Model (July 6, 2017). Available at SSRN: https://ssrn.com/abstract=2997962 or http://dx.doi.org/10.2139/ssrn.2997962
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+D Pjlnjt
+Posted: 2004
+Crossref
+TACC it / A it 1 / Ait-1 (DREV-dREC) / At-1
+Crossref
+Ppeit
+Posted: 2004
+M Bibliography Asri
+PERSISTENCE ACCRUAL, IDIOSYNCRATIC RISK AND ASSET PRICING (Study at Companies Listed on Indonesia Stock Exchange). Manuscript Submited
+Journal of Financial Regulation Posted: 2017
+Load more
+1 Citations
+Nerissa Arviana , Nofina Sari
+B-Spline Modelling & Fitting the Term Structure
+15 Pages · Posted: 5 Feb 2019 · Downloads: 42
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+149
+ABSTRACT VIEWS
+1,817
+RANK
+451,432
+1 Citations
+43 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

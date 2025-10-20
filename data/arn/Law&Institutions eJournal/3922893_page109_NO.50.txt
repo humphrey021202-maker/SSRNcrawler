@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Amendment Thresholds and Voting Rules in Debt Contracts
+
+The Journal of Accounting Research, forthcoming
+
+62 Pages Posted: 16 Sep 2021 Last revised: 15 Aug 2025
+
+Judson Caskey
+
+Purdue University - Daniels School of Business
+
+Kanyuan (Kevin) Huang
+
+Chinese University of Hong Kong, Shenzhen
+
+Daniel Saavedra
+
+UCLA Anderson School of Management
+
+Date Written: August 10, 2025
+
+Abstract
+
+Most loan contracts in the US contain a provision for lender voting rules. We study the optimal voting rule that allows lenders to waive a covenant violation. When lenders have heterogeneous preferences, lenient voting rules increase the probability of waivers that allow inefficient investments. Stringent voting rules tend to allocate the marginal vote to lenders who deny waivers after false alarms so that they can renegotiate the loan to extract value from the firm, which incurs deadweight costs. In equilibrium, the optimal voting rule balances these two forces to improve contracting efficiency. We derive and empirically test comparative statics on how the optimal voting rule varies with lenders’ preferences and the borrower’s accounting properties. Our model offers a rationale for the prevalent use of voting rule clauses in syndicated loan contracts. 
+
+Keywords: Debt contracting, voting rule, syndicated loan
+
+JEL Classification: D86, G21, G32, K12, M41
+
+Suggested Citation:
+
+Caskey, Judson and Huang, Kanyuan and Saavedra, Daniel, Amendment Thresholds and Voting Rules in Debt Contracts (August 10, 2025). The Journal of Accounting Research, forthcoming, Available at SSRN: https://ssrn.com/abstract=3922893 or http://dx.doi.org/10.2139/ssrn.3922893
+Download This Paper
+ 
+Open PDF in Browser
+70 References
+P Aghion , P Bolton
+An incomplete contracts approach to financial contracting
+Review of Economic Studies , volume 59 , p. 473 - 494 Posted: 1992
+P Asquith , A Beatty; , J Weber
+Performance pricing in bank debt contracts
+Journal of Accounting and Economics , volume 40 , p. 101 - 128 Posted: 2005
+C Armstrong , W Guay; , J Weber , S Ball; R , V Kothari; , Nikolaev
+The role of information and financial reporting in corporate governance and debt contracting
+Journal of Accounting and Economics , volume 50 , p. 1071 - 1097 Posted: 2010
+S Basu
+The conservatism principle and the asymmetric timeliness of earnings
+Journal of Accounting and Economics , volume 24 , p. 3 - 37 Posted: 1997
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+439
+ABSTRACT VIEWS
+2,131
+RANK
+151,482
+70 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

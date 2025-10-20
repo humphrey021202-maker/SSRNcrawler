@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fair Value Reporting Trade-offs
+
+TRR 266 Accounting for Transparency Working Paper Series No. 119
+
+53 Pages Posted: 18 Apr 2023 Last revised: 28 Feb 2025
+
+Sandra Kronenberger
+
+Johannes Gutenberg University Mainz - Gutenberg School of Economics and Management
+
+Sebastian Kronenberger
+
+University of Mannheim; TRR 266 Accounting for Transparency
+
+Anna Waldner
+
+CAMPUS 02 , University of Applied Sciences
+
+Date Written: May 3, 2024
+
+Abstract
+
+This paper analyzes the information content of several fair value measurement options and the manager's and investors' preferences about these options. The fair value hierarchy presented in the current accounting standards requires preparers
+to choose the measurement approach that uses the most observable inputs and the least unobservable inputs. We develop a model of rational expectations, where each available measurement approach includes a public market-wide signal and a private signal to the manager. The company's manager can either report using the approach with more public information, with less public information, or a mix of both (full information approach). We compare these options and find that strictly  following the fair value hierarchy never provides the most decision relevant information. However, when allowing for managerial discretion, the manager would sometimes choose the measurement approach that is also preferred by investors, despite the manager's incentives to manipulate. The insights are important to regulators as they show the relation between inputs and outputs of fair value measurement and emphasize the value of managerial discretion.
+
+Keywords: Fair Value, Value Relevance, managerial bias
+
+Suggested Citation:
+
+Kronenberger, Sandra and Kronenberger, Sebastian and Waldner, Anna, Fair Value Reporting Trade-offs (May 3, 2024). TRR 266 Accounting for Transparency Working Paper Series No. 119, Available at SSRN: https://ssrn.com/abstract=4410326 or http://dx.doi.org/10.2139/ssrn.4410326
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+F Allen , E Carletti
+Markt-to-market accounting and liquidity pricing
+Journal of Accounting and Economics , volume 45 , issue 2-3 , p. 358 - 378 Posted: 2008
+J M Altamuro , H Zhang
+The financial reporting of fair value based on managerial inputs versus market inputs: Evidence from mortage servicing rights
+Review of Accounting Studies , volume 18 , issue 3 , p. 833 - 858 Posted: 2013
+D Barr-Pulliam , J R Joe , S A Mason , K Sanderson
+Unlocking the Black Box of Fair Value Measurement for Financial Instruments: The Role and Perspectives of Accounting Firm-Employed Specialists
+Whitepaper for the IAASB and ICAS Foundation Posted: 2019
+M E Barth , C Hunter , W C Kaufman , G G Tsatsaronis , K
+Fair Values and Financial Statement Volatility in Borio
+The Market Discipline Across Countries and Industries Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+186
+ABSTRACT VIEWS
+1,037
+RANK
+371,780
+20 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

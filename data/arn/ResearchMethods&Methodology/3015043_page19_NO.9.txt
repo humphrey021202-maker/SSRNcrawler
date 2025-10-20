@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Test Power Impacts Research Relevance: The Case of Earnings Management Research
+
+47 Pages Posted: 8 Aug 2017
+
+Zhuoan Feng
+
+Royal Melbourne Institute of Technology (RMIT University); University of Waikato
+
+Yaowen Shan
+
+University of Technology Sydney; Financial Research Network (FIRN)
+
+Stephen L. Taylor
+
+University of Technology Sydney; Financial Research Network (FIRN)
+
+Date Written: August 8, 2017
+
+Abstract
+
+We argue that the broader applicability of accounting research is often limited by the way accounting researchers typically place far greater weight on the relative cost of type I versus type II errors. To illustrate the extent of this problem, we examine the performance of simple financial ratio-type analysis for detecting earnings overstatements when the total misclassification costs are minimized subject to the relative cost of type I versus type II errors. We then contrast the likelihood of type I versus type II errors from this approach with those arising from several widely used measures of unexpected accruals. The results demonstrate how commonly-used unexpected accruals measures reduce the type I error rate by sacrificing the type II error rate. Given that accounting information users and auditors typically face much higher costs of type II errors, we explicitly identify why unexpected accruals models are likely far less useful in detecting earnings overstatements than a relatively simple approach using financial statement analysis red flags. Our results highlight the fundamentally contrasting incentives facing accounting researchers relative to those who might otherwise use the research in practice, and serve as a warning when the broader relevance of accounting research is increasingly under question.
+
+Keywords: Research Relevance, Earnings Management, Test Power, Unexpected Accruals
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Feng, Zhuoan and Shan, Yaowen and Taylor, Stephen L., How Test Power Impacts Research Relevance: The Case of Earnings Management Research (August 8, 2017). Available at SSRN: https://ssrn.com/abstract=3015043 or http://dx.doi.org/10.2139/ssrn.3015043
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+J Gerakos
+Discussion of Detecting Earnings Management: A New Approach
+Journal of Accounting Research , volume 50 , issue 2 , p. 335 - 347 Posted: 2012
+Crossref
+Kris Hoang , Steven E. Salterio , Jim Sylph
+Barriers to Transferring Accounting and Auditing Research to Standard Setters
+Pages: 51 Posted: 7 Mar 2017
+Download PDF  Add Paper to My Library
+A G Hopwood
+Whither accounting research?
+The Accounting Review , volume 82 , issue 5 , p. 1365 - 1374 Posted: 2007
+Crossref
+I P Jansen , S Ramnath , T L Yohn
+A diagnostic for earnings management using changes in asset turnover and profit margin
+Contemporary Accounting Research , volume 29 , issue 1 , p. 221 - 251 Posted: 2012
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+100
+ABSTRACT VIEWS
+1,765
+RANK
+618,599
+30 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

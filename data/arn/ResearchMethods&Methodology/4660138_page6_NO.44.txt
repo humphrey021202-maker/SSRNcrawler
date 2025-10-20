@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A nonparametric test for rough volatility
+
+55 Pages Posted: 20 Dec 2023
+
+Carsten H. Chong
+
+Hong Kong University of Science & Technology (HKUST) - Department of Information Systems, Business Statistics and Operations Management
+
+Viktor Todorov
+
+Northwestern University - Kellogg School of Management
+
+Date Written: December 11, 2023
+
+Abstract
+
+We develop a nonparametric test for deciding whether volatility of an asset follows a standard semimartingale process, with paths of finite quadratic variation, or a rough process with paths of infinite quadratic variation. The test utilizes the fact that volatility is rough if and only if volatility increments are negatively autocorrelated at high frequencies. It is based on the sample autocovariance of increments of spot volatility estimates computed from high-frequency asset return data. By showing a feasible CLT for this statistic under the null hypothesis of semimartingale volatility paths, we construct a test with fixed asymptotic size and an asymptotic power equal to one. The test is derived under very general conditions for the data-generating process. In particular, it is robust to jumps with arbitrary activity and to the presence of market microstructure noise. In an application of the test to SPY high-frequency data, we find evidence for rough volatility.
+
+Keywords: high-frequency data, Itô semimartingale, characteristic function, nonparametric test, rough volatility
+
+JEL Classification: C14, C22, C58, G12
+
+Suggested Citation:
+
+Chong, Carsten H. and Todorov, Viktor, A nonparametric test for rough volatility (December 11, 2023). Available at SSRN: https://ssrn.com/abstract=4660138 or http://dx.doi.org/10.2139/ssrn.4660138
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+Y Aït-Sahalia , J Jacod
+Testing whether jumps have finite or infinite activity
+Ann. Statist , volume 39 , issue 3 , p. 1689 - 1719 Posted: 2011
+Y Aït-Sahalia , J Jacod
+High-Frequency Financial Econometrics Posted: 2014
+T G Andersen , T Bollerslev , F X Diebold , P Labys
+Modeling and forecasting realized volatility
+Econometrica , volume 71 , issue 2 , p. 579 - 625 Posted: 2003
+T G Andersen , T Su , V Todorov , Z Zhang
+Intraday periodic volatility curves
+Journal of the American Statistical Association , volume 119 , issue 546 , p. 1181 - 1191 Posted: 2024
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+260
+ABSTRACT VIEWS
+1,034
+RANK
+268,675
+45 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

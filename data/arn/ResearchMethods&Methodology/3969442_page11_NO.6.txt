@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+New Accounting Standards and the Performance of Quantitative Investors
+
+Forthcoming at the Journal of Accounting and Economics
+
+92 Pages Posted: 23 Nov 2021 Last revised: 26 Dec 2023
+
+Travis Dyer
+
+Brigham Young University
+
+Nicholas Guest
+
+Cornell University - Samuel Curtis Johnson Graduate School of Management; Cornell SC Johnson College of Business
+
+Elisha Yu
+
+CUNY Baruch College
+
+Date Written: August 30, 2024
+
+Abstract
+
+We examine quantitative investors’ ability to navigate a common and occasionally material change to the financial data generating process: new accounting standards. Returns of quantitative mutual funds temporarily decrease relative to funds that rely more heavily on human discretion following the implementation of a few standards that significantly change key financial statement variables; however, other standards do not appear to have a differential effect. Our result is stronger for quantitative funds using more accounting terminology in their prospectuses and using value strategies, which leverage accounting signals. Excess portfolio turnover following the implementation of accounting standards appears to be a driving factor of the quant underperformance. Additional evidence connects the fund-level results to the specific stocks that were affected by the accounting standards. Overall, our results suggest quant funds are generally proficient at adapting to accounting changes, although material changes occasionally put them at a temporary disadvantage relative to discretionary investors.
+
+Suggested Citation:
+
+Dyer, Travis and Guest, Nicholas and Yu, Elisha, New Accounting Standards and the Performance of Quantitative Investors (August 30, 2024). Forthcoming at the Journal of Accounting and Economics, Available at SSRN: https://ssrn.com/abstract=3969442 or http://dx.doi.org/10.2139/ssrn.3969442
+Download This Paper
+ 
+Open PDF in Browser
+88 References
+S Abis
+Man vs. Machine: Quantitative and Discretionary Equity Management Posted: 2022
+P Ahmed , S Nanda
+Performance of Enhanced Index and Quantitative Equity Funds
+The Financial Review , volume 40 , issue 4 , p. 459 - 479 Posted: 2005
+P Akey , A Robertson , M Simutin
+Closet Active Management of Passive Funds Posted: 2021
+E Amir , Y Guan , D Oswald
+The Effect of Pension Accounting on Corporate Pension Asset Allocation
+Review of Accounting Studies , volume 15 , p. 345 - 366 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+918
+ABSTRACT VIEWS
+3,371
+RANK
+58,911
+1 Citations
+88 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

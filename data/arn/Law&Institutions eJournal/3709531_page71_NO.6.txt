@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Online Appendix for Black, de Carvalho, Kim, and Yurtoglu 'How Useful are Commercial Corporate Governance Ratings? Evidence from Emerging Markets'
+
+Black, De Carvalho, Kim, and Yurtoglu, How Useful are Commercial Corporate Governance Ratings: Evidence from Emerging Markets?; Journal of Corporate Finance, Forthcoming
+
+Posted: 10 Feb 2023
+
+Bernard S. Black
+
+Northwestern University - Pritzker School of Law; European Corporate Governance Institute (ECGI)
+
+Antonio Gledson De Carvalho
+
+Fundacao Getulio Vargas School of Business at Sao Paulo
+
+Woochan Kim
+
+Korea University Business School; European Corporate Governance Institute (ECGI); Asian Institute of Corporate Governance (AICG)
+
+B. Burcin Yurtoglu
+
+WHU - Otto Beisheim School of Management
+
+Date Written: December 12, 2022
+
+Abstract
+
+A central issue in evaluating the effects of firm-level corporate governance (FLCG) is how to measure it. We focus here on emerging markets (EMs). One common approach to measuring FLCG uses country-specific (CSIs), tailored to each country’s laws and institutions. Several studies report that CSIs can predict firm outcomes in a panel data framework with two-way (firm and time) fixed effects (TWFE). An alternate approach uses commercial CG ratings (CCGRs) that apply the same or similar elements across many countries. We assess the three best available CCGRs covering EMs (Asset4, Thomson Reuters, and MSCI), and find that they do not predict firm outcomes with TWFE in EMs. We also provide evidence that the likely cause for CCGRs’ lack of performance is their poor construction rather than the inability of FLCG measures to predict outcomes. CSI-based studies suggest that disclosure (beyond country-mandated minimums) is the FLCG aspect that most consistently predicts firm outcomes in EMs. Yet, these CCGRs have no or minimal measures of disclosure. Other important limitations of the CCGRs include the use of elements that are U.S.-centric; reflect firm outcomes rather than CG; are implausible measures of good FLCG, or are vaguely or subjectively defined. We also attempt, but fail, to use element-level information from CCGRs to construct sound measures of FLCG.
+
+Note: This Online Appendix contains additional results for Black, De Carvalho, Kim, and Yurtoglu, How Useful are Commercial Corporate Governance Ratings: Evidence from Emerging Markets? (forthcoming, Journal of Corporate Finance 2023), at http://ssrn.com/abstract=3225888
+
+Keywords: Brazil, Korea, India, Turkey, Corporate Governance, Boards of Directors, Disclosure, Shareholder Rights
+
+JEL Classification: G18, G30, G34, G39, K22, K29
+
+Suggested Citation:
+
+Black, Bernard S. and De Carvalho, Antonio Gledson and Kim, Woochan and Yurtoglu, B. Burcin, Online Appendix for Black, de Carvalho, Kim, and Yurtoglu 'How Useful are Commercial Corporate Governance Ratings? Evidence from Emerging Markets' (December 12, 2022). Black, De Carvalho, Kim, and Yurtoglu, How Useful are Commercial Corporate Governance Ratings: Evidence from Emerging Markets?; Journal of Corporate Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3709531
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+391
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Economics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

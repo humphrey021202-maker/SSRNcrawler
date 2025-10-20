@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Risk-Incentives Trade-Off and Outside Options
+
+OR Spectrum, 2012
+
+23 Pages Posted: 27 Nov 2012
+
+Ying-Ju Chen
+
+Hong Kong University of Science & Technology (HKUST) - Department of Information Systems, Business Statistics and Operations Management
+
+Date Written: November 26, 2012
+
+Abstract
+
+Despite the prominence of the risk-incentives trade-off in the agency theory, empirical evidence provides at best a mixed result. In this paper, we argue that these mixed results may be attributed to the heterogeneity of risk aversion magnitude among the agents and the outside options available on the market. We show that when an increase of the uncertainty amplifies the riskiness of principal's internal project more than the agent's outside option, a positive risk-incentives relationship can be predicted when the internal project is sufficiently risky. On the other hand, when an uncertainty increase amplifies the riskiness of outside option more than the internal project, this positive risk-incentives relationship occurs if the internal project is of limited risk. These results hold irrespective of whether the agent's risk aversion magnitude is publicly observable or privately known. Our analysis leads to a more fine-tuned empirical validation of agency theory and some testable hypotheses on the interactions between internal and external uncertainties.
+
+Keywords: risk-incentives trade-off, compensation, mechanism design, game theory
+
+Suggested Citation:
+
+Chen, Ying-Ju, Risk-Incentives Trade-Off and Outside Options (November 26, 2012). OR Spectrum, 2012, Available at SSRN: https://ssrn.com/abstract=2181220
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+D Allen , D Lueck
+The role of risk in contract choice
+Economics and Organization , volume 15 , issue 3 , p. 704 - 736 Posted: 1999
+Crossref
+E Anderson , D Schmittlein
+Integration of the sales force: An empirical examination
+RAND Journal of Economics , volume 15 , issue 3 , p. 385 - 395 Posted: 1984
+Crossref
+J Core , W Guay
+The use of equity grants to manage optimal equity incentive levels
+Journal of Accounting and Economics , volume 28 , issue 2 , p. 151 - 184 Posted: 1999
+Crossref
+S Dutta
+Managerial expertise, private information, and pay-performance sensitivity
+Management science , volume 54 , issue 3 , p. 429 - 442 Posted: 2008
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+54
+ABSTRACT VIEWS
+1,580
+RANK
+889,053
+20 References
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+Executive Compensation
+
+By Kevin J. Murphy
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

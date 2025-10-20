@@ -1,0 +1,151 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bayesian Approaches to Copula Modelling
+
+Damien, P. P. Dellaportas, N. G. Polson, D. A. Stephens, (2013), Bayesian Theory and Applications, OUP, pp. 336-358.
+
+33 Pages Posted: 19 Dec 2011 Last revised: 30 Mar 2015
+
+Michael S. Smith
+
+University of Melbourne - Melbourne Business School
+
+Date Written: December 12, 2011
+
+Abstract
+
+Copula models have become one of the most widely used tools in the applied modelling of multivariate data. Similarly, Bayesian methods are increasingly used to obtain efficient likelihood-based inference. However, to date, there has been only limited use of Bayesian approaches in the formulation and estimation of copula models. This article aims to address this shortcoming in two ways. First, to introduce copula models and aspects of copula theory that are especially relevant for a Bayesian analysis. Second, to outline Bayesian approaches to formulating and estimating copula models, and their advantages over alternative methods.
+
+Copulas covered include Archimedean, copulas constructed by inversion, and vine copulas; along with their interpretation as transformations. A number of parameterisations of a correlation matrix of a Gaussian copula are considered, along with hierarchical priors that allow for Bayesian selection and model averaging for each parameterisation. Markov chain Monte Carlo sampling schemes for fitting Gaussian and D-vine copulas, with and without selection, are given in detail. The relationship between the prior for the parameters of a D-vine, and the prior for a correlation matrix of a Gaussian copula, is discussed. Last, it is shown how to compute Bayesian inference when the data are discrete-valued using data augmentation. This approach generalises popular Bayesian methods for the estimation of models for multivariate binary and other ordinal data to more general copula models. Bayesian data augmentation has substantial advantages over other methods of estimation for this class of models.
+
+Keywords: Copula, Dependence Modelling, Vines, Gaussian copula, Archimedean copula, Dependence priors, Bayesian selection, Bayesian model averaging, Discrete copulas
+
+JEL Classification: C11, C30, C58
+
+Suggested Citation:
+
+Smith, Michael S., Bayesian Approaches to Copula Modelling (December 12, 2011). Damien, P. P. Dellaportas, N. G. Polson, D. A. Stephens, (2013), Bayesian Theory and Applications, OUP, pp. 336-358., Available at SSRN: https://ssrn.com/abstract=1974297 or http://dx.doi.org/10.2139/ssrn.1974297
+Download This Paper
+ 
+Open PDF in Browser
+76 References
+K Aas , C Czado , A Frigessi , H Bakken
+Pair-copula constructions of multiple dependence
+Insurance: Mathematics and Economics , volume 44 , p. 182 - 198 Posted: 2009
+Crossref
+M Abramowitz , Stegun
+Handbook of Mathematical Functions Posted: 1965
+H Armstrong , C K Carter , K F Wong , R Kohn
+Bayesian covariance matrix estimation using a mixture of decomposable graphical models
+Statistics and Computing , volume 19 , p. 303 - 316 Posted: 2009
+Crossref
+M C Ausin , H F Lopes
+Time-varying joint distribution through copulas. Computational Statistics and Data Analysis , volume 54 , p. 2383 - 2399 Posted: 2010
+Load more
+13 Citations
+Imran Ali Khan , Sami Ur Rahman
+Integrating NeuroFuzzy and Copula Model for Robust Cryptocurrency Exchange Rate Forecasting Using Environmental and Economic Data
+Computational Economics Posted: 2025
+Crossref
+Farshad Jalili Pirani , Mohammad Reza Najafi
+Multivariate Analysis of Compound Flood Hazard Across Canada's Atlantic, Pacific and Great Lakes Coastal Areas
+Earth's Future , volume 10 , issue 8 Posted: 2022
+Crossref
+Andrew Patton
+, volume 2 , p. 899 Posted: 2013
+Crossref
+Andrew J. Patton
+A review of copula models for economic time series
+Journal of Multivariate Analysis , volume 110 , p. 4 Posted: 2012
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+484
+ABSTRACT VIEWS
+2,690
+RANK
+134,833
+13 Citations
+76 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+Recommended Papers
+
+Modelling Longitudinal Data Using a Pair-Copula Decomposition of Serial Dependence
+
+By Michael S. Smith, Aleksey Min, ...
+
+Estimation of Copula Models with Discrete Margins via Bayesian Data Augmentation
+
+By Michael S. Smith and Mohamad A. Khaled
+
+Bayesian Covariance Matrix Estimation Using a Mixture of Decomposable Graphical Models
+
+By Helen Armstrong, Christopher K. Carter, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

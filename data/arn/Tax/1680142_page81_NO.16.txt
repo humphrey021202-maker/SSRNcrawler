@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Trigonometric Relation between Tax Audit and Underreporting Rates
+
+26 Pages Posted: 1 Oct 2010 Last revised: 18 Feb 2015
+
+Jack Manhire
+
+Texas A&M University School of Innovation; Bush School of Government & Public Service
+
+Date Written: January 15, 2015
+
+Abstract
+
+The probabilities associated with a tax return being audited or containing underreported tax are formulated here in a different way. This new formulation is mathematically equivalent to the traditional formulation; however, it reveals a trigonometric relationship between these probabilities that cannot be deduced from the familiar approach. Unconditioned probabilities associated with audits and underreporting are expressed as the square of the magnitudes of probability amplitude vectors. Conditioned probabilities are expressed as the square of trigonometric functions (cosine or sine) of the angle between probability amplitude vectors and the axes of two-dimensional coordinate systems. Although applications are not discussed, this new way of considering tax audit and underreporting rates will hopefully inspire others to find solutions to problems otherwise thought unsolvable.
+
+Keywords: audit rates, tax, taxation, tax compliance, tax underreporting, tax noncompliance, tax evasion, probability theory, probability amplitude, tax administration, measure theory, set theory
+
+JEL Classification: C63, H2, H20, H24, H26, H29, K10, K34
+
+Suggested Citation:
+
+Manhire, Jack, On the Trigonometric Relation between Tax Audit and Underreporting Rates (January 15, 2015). Available at SSRN: https://ssrn.com/abstract=1680142 or http://dx.doi.org/10.2139/ssrn.1680142
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+227
+ABSTRACT VIEWS
+1,674
+RANK
+307,614
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Econometrics: Multiple Equation Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

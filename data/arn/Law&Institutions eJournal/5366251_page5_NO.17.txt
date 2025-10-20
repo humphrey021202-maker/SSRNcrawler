@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+From Comments to Policy: AI-Assisted Analysis on Stakeholder Responses to the SEC's Climate Disclosure Proposal
+
+67 Pages Posted: 30 Jul 2025
+
+Kostas Pappas
+
+University of Liverpool - Accounting and Finance Division
+
+Alice Liang Xu
+
+The University of Manchester - Manchester Business School
+
+Date Written: May 01, 2025
+
+Abstract
+
+This study investigates public perspectives on the SEC's proposed climate disclosure rule by conducting an AI-assisted content analysis of over 4,500 unique comment letters. Using OpenAI's generative language model, we examine sentiment, arguments, suggestions, and influence of the comments. We find wide variation in sentiment across commenter types, industries, and geographic locations, with investor groups and Democratic-leaning states showing more support. Our results support the rulemaking process's input legitimacy but raise concerns about throughput legitimacy, as politically connected stakeholders exhibit greater influence. Additional analyses reveal that market reactions to the rule differ by industry and often diverge from public sentiment. Comparisons with comment letters submitted to the ISSB suggest less polarization outside the U.S. toward climate disclosure. The study contributes to literature on climate disclosure and regulatory lobbying and demonstrates the utility of AI in large-scale policy analysis. It offers practical implications for regulators seeking inclusive and effective climate-related regulations.
+
+Keywords: climate disclosure, climate change, comment letters, sentiment, legitimacy, political science, generative AI, GPT, large language models, content analysis JEL Classification: D70, G18, K32, M41
+
+JEL Classification: D70, G18, K32, M41
+
+Suggested Citation:
+
+Pappas, Kostas and Xu, Alice Liang, From Comments to Policy: AI-Assisted Analysis on Stakeholder Responses to the SEC's Climate Disclosure Proposal (May 01, 2025). Available at SSRN: https://ssrn.com/abstract=5366251 or http://dx.doi.org/10.2139/ssrn.5366251
+Download This Paper
+ 
+Open PDF in Browser
+90 References
+H Amiraslani , X Chen , G Ormazabal , P F Pope
+Climate Disclosure Regulation and Investor Wealth Posted: 2024
+M Arce , B Giner , M A Taleb
+Due Process as a Legitimating Mechanism: Participation and Responsiveness in the Development of IFRS 17: Insurance Contracts
+Journal of Accounting and Public Policy , volume 42 , issue 6 Posted: 2023
+J Armour , L Enriques , T Wetzer
+Mandatory Corporate Climate Disclosures: Now, but How? Columbia Business Law Review , p. 1085 - 1146 Posted: 2021
+J Aswani , A Raghunandan , S Rajgopal
+Are Carbon Emissions Associated with Stock Returns? Review of Finance , volume 28 , p. 75 - 106 Posted: 2024
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+60
+ABSTRACT VIEWS
+274
+RANK
+872,402
+90 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Law eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Computable General Equilibrium Analysis of Environmental Tax Reform in Japan
+
+34 Pages Posted: 3 Jun 2020
+
+Shiro Takeda
+
+Kyoto Sangyo University
+
+Toshi H. Arimura
+
+Waseda University - School of Political Science and Economics
+
+Date Written: April 30, 2020
+
+Abstract
+
+The Japanese government plans to reduce greenhouse gas emissions by 80% by 2050. However, it is not yet clear which policy measures the government will adopt to achieve this goal. In this regard, environmental tax reform, which is the combination of carbon regulation and the reduction of existing distortionary taxes, has attracted much attention. This paper examines the effects of environmental tax reform in Japan. Using a dynamic computable general equilibrium (CGE) model, we analyze the quantitative impacts of environmental tax reform and clarify which types of environmental tax reform are the most desirable. In the simulation, we introduce a carbon tax and consider the following five scenarios for the use of carbon tax revenue: 1) a lump-sum rebate to the household, 2) a cut in social security contributions, 3) a cut in income taxes, 4) a cut in corporate taxes and 5) a cut in consumption taxes. The first scenario is a pure carbon tax, and the other four scenarios are types of environmental tax reform. Our CGE simulation shows that environmental tax reform tends to generate more desirable impacts than the pure carbon tax by improving welfare or increasing GDP while reducing emissions (double dividend). In particular, we show that a cut in corporate taxes leads to the most desirable policy in terms of GDP and national income.
+
+Keywords: Carbon tax; Environmental Tax Reform; Double Dividend; Computable General Equilibrium; Climate Change; Tax Interaction Effects; Paris Agreement
+
+JEL Classification: Q54, Q58, C68, H23
+
+Suggested Citation:
+
+Takeda, Shiro and Arimura, Toshihide H., A Computable General Equilibrium Analysis of Environmental Tax Reform in Japan (April 30, 2020). Available at SSRN: https://ssrn.com/abstract=3593471 or http://dx.doi.org/10.2139/ssrn.3593471
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+89
+ABSTRACT VIEWS
+1,154
+RANK
+668,003
+2 Citations
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Econometrics: Mathematical Methods & Programming eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

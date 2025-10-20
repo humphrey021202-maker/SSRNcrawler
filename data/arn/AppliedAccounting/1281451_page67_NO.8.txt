@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Return to Basics: Cost of Capital Depends on Free Cash Flow
+
+The IUP Journal of Applied Finance, Vol. 16, No. 1, pp. 27-39, January 2010
+
+17 Pages Posted: 12 Oct 2008 Last revised: 25 Jan 2016
+
+Ignacio Velez-Pareja
+
+Grupo Consultor CAV Capital Advisory & Valuation
+
+Date Written: January 22, 2016
+
+Abstract
+
+Most popular corporate finance textbooks (See Benninga and Sarig, 1997, 2007 Brealey, Myers and Marcus, 1996, Brealey, Myers and Allen, 2006, Brealey and Myers, 2000, 2003 and previous editions, Copeland, Koller and Murrin, 1995 and 2000, Damodaran, 1996, Gallagher and Andrew, 2000, Van Horne, 1998, Weston and Copeland, 1992) and practitioners (see World Bank, 2002) present the Weighted Average Cost of Capital WACC calculation as independent from the Free Cash Flow.
+
+It is a common use that practitioners calculate a WACC a priori and use it independently from the firm value (this is, from FCF). In this teaching note we show that FCF affects WACC and that this interrelationship creates circularity, but it can be solved in a very easy way.
+
+There are two appendixes: one explaining the circularity issue and another one for deriving the proper formulation of the cost of equity.
+
+Keywords: Weighted Average Cost of Capital, WACC, firm valuation, capital budgeting, equity cost of capital, circularity
+
+JEL Classification: D61, G31, H43
+
+Suggested Citation:
+
+Velez-Pareja, Ignacio, Return to Basics: Cost of Capital Depends on Free Cash Flow (January 22, 2016). The IUP Journal of Applied Finance, Vol. 16, No. 1, pp. 27-39, January 2010, Available at SSRN: https://ssrn.com/abstract=1281451
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+Simon ; Benninga , Oxford , London , Richard A Brealey , C Stewart , Alan J Myers , Marcus
+Fundamentals of Corporate Finance Posted: 1995
+Richard Brealey , Stewart C Myers
+Principles of Corporate Finance Posted: 2000
+Richard Brealey , Stewart C Myers
+Principles of Corporate Finance Posted: 2003
+Richard Brealey , Stewart C Myers , Franklin Allen
+Principles of Corporate Finance Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,545
+ABSTRACT VIEWS
+7,948
+RANK
+27,750
+20 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Finance Education eJournal
+
+Follow
+ 
+Recommended Papers
+
+An Embarrassment of Riches: Winning Ways to Value with the WACC
+
+By Joseph Tham and Ignacio Velez-pareja
+
+Market Value Calculation and the Solution of Circularity Between Value and the Weighted Average Cost of Capital WACC (A Note on the Weighted Average Cost of Capital WACC)
+
+By Ignacio Velez-pareja and Joseph Tham
+
+Consistency in Valuation: A Practical Guide
+
+By Ignacio Velez-pareja and Antonio Burbano-perez
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

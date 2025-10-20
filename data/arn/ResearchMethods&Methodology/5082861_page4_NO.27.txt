@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Caution Ahead: Numerical Reasoning and Look-ahead Bias in AI Models
+
+Fama-Miller Working Paper
+
+113 Pages Posted: 13 Jan 2025 Last revised: 25 Jan 2025
+
+Bradford Levy
+
+University of Chicago - Booth School of Business
+
+Date Written: December 25, 2024
+
+Abstract
+
+Recent work within accounting and finance has highlighted that modern AI systems exhibit superhuman performance on a variety of foundational activities within these fields. However, the literature often does not provide economic rationale for why AI models seem to outperform, largely because these models are a black box. Through a series of experiments, I set out to open the black box and provide direct evidence on how and why AI models appear to perform so well on accounting and finance-related tasks. I show that much of the superior performance of AI models can be attributed to artifacts of the modeling itself, rather than to mechanisms grounded in economics. Focusing on two key components of AI models which may bias inferences in papers which rely on them, I first show that LLMs exhibit extremely poor numerical reasoning and thus application in these settings should proceed with caution. Second, I highlight that commercial LLMs suffer from significant look-ahead bias, which may explain a large portion of their predictability in various settings. In the final part of the paper, I highlight numerous opportunities where AI systems can advance our research.
+
+Keywords: AI, large language models, numerical reasoning, memorization, look-ahead bias, representation learning, multi-modal models
+
+Declaration of Interest
+
+The author has no conflicts of interest regarding this paper.
+
+Funder Statement
+
+Funding was provided by University of Chicago Booth School of Business and the Center for Applied AI.
+
+Suggested Citation:
+
+Levy, Bradford, Caution Ahead: Numerical Reasoning and Look-ahead Bias in AI Models (December 25, 2024). Fama-Miller Working Paper, Available at SSRN: https://ssrn.com/abstract=5082861 or http://dx.doi.org/10.2139/ssrn.5082861
+Download This Paper
+ 
+Open PDF in Browser
+88 References
+E Abbott
+Flatland: A Romance of Many Dimensions Posted: 1991
+J L Ba , J R Kiros , G E Hinton
+Posted: 2016
+A Baevski , M Auli
+Adaptive input representations for neural language modeling
+International Conference on Learning Representations Posted: 2019
+A Baevski , H Zhou , A Mohamed , M Auli
+wav2vec 2.0: a framework for self-supervised learning of speech representations
+Proceedings of the 34th International Conference on Neural Information Processing Systems, NIPS '20 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,244
+ABSTRACT VIEWS
+6,602
+RANK
+15,449
+4 Citations
+88 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

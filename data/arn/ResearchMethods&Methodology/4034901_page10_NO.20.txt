@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Flexible Predictive Density Combination Model for Large Financial Data Sets in Regular and Crisis Periods
+
+Tinbergen Institute Discussion Paper 2022-013/III
+
+32 Pages Posted: 5 Apr 2022
+
+Roberto Casarin
+
+University Ca' Foscari of Venice - Department of Economics
+
+Stefano Grassi
+
+University of Rome, Tor Vergata, Faculty of Economics, Department of Economics and Finance
+
+Francesco Ravazzollo
+
+BI Norwegian Business School
+
+H. K. van Dijk
+
+Tinbergen Institute; Econometric Institute
+
+Date Written: December 27, 2021
+
+Abstract
+
+A flexible predictive density combination model is introduced for large financial data sets which allows for dynamic weight learning and model set incompleteness. Dimension reduction procedures allocate the large sets of predictive densities and combination weights to relatively small sets. Given the representation of the probability model in extended nonlinear state-space form, efficient simulation-based Bayesian inference is proposed using parallel sequential clustering as well as nonlinear filtering, implemented on graphics processing units. The approach is applied to combine predictive densities based on a large number of individual stock returns of daily observations over a period that includes the Covid-19 crisis period. Evidence on the quantification of predictive accuracy, uncertainty and risk, in particular, in the tails, may provide useful information for investment fund management. Information on dynamic cluster composition, weight patterns and model set incompleteness give also valuable signals for improved modelling and policy specification.
+
+Keywords: Density combination, large set of predictive densities, dynamic factor models, nonlinear state-space, Bayesian inference
+
+JEL Classification: C11, C15, C53, E37
+
+Suggested Citation:
+
+Casarin, Roberto and Grassi, Stefano and Ravazzollo, Francesco and van Dijk, Herman K., A Flexible Predictive Density Combination Model for Large Financial Data Sets in Regular and Crisis Periods (December 27, 2021). Tinbergen Institute Discussion Paper 2022-013/III, Available at SSRN: https://ssrn.com/abstract=4034901 or http://dx.doi.org/10.2139/ssrn.4034901
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+63
+ABSTRACT VIEWS
+531
+RANK
+819,493
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+International Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

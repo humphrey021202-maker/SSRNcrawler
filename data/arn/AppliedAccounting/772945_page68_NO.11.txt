@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Knowing vs. Applying Accounting Causal Relationships: Experimental Evidence on the Decision Performance Effects of Problem Similarity and Comparison
+
+AAA Management Accounting Section 2006 Meeting Paper
+
+55 Pages Posted: 31 Jul 2005
+
+Ella Mae Matsumura
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Sandra C. Vera-Munoz
+
+University of Notre Dame - Department of Accountancy
+
+Abstract
+
+Accountants tend to overlook relevant principles and causal relationships that are commonly taught in education and experienced in practice. This raises the question: Do accountants apply what they know? This study relies on analogical reasoning research to develop and test predictions about the tendency of accountants to omit key causal relationships in a challenging decision setting: recommending revenue-maximizing strategies to a client in the midst of a business-model change. In our experiment, we first elicit comparisons of various source problems from some of our participants (the comparison condition), but not from the others (the advice condition). Next, the participants assume the role of a business consultant and recommend ways to improve a client's revenue in a new setting. The new setting shares with the source problems either (1) a key causal relationship and several literal similarities (the literal similarity condition), or (2) a key causal relationship but no literal similarities (the relational similarity condition). We predict and find that comparison enhances the quality of accountants' recommendations when the source problems are literally similar to the new setting, and that depriving participants of literal similarities enhances the quality of recommendations when participants do not make comparisons. Our findings show that similarity and comparison help reduce the gap between knowing and applying accounting causal relationships in new settings. Additional tests confirm that the findings are not explained by whether a participant is equipped with the key accounting causal relationship. The study has implications for decision making in seemingly familiar but complex settings, such as revenue-enhancement or cost-containment decisions following business-model changes.
+
+Keywords: causal-knowledge representation, literal vs. relational similarity, comparison and advice, accounting causal relationships
+
+Suggested Citation:
+
+Matsumura, Ella Mae and Vera-Munoz, Sandra C., Knowing vs. Applying Accounting Causal Relationships: Experimental Evidence on the Decision Performance Effects of Problem Similarity and Comparison. AAA Management Accounting Section 2006 Meeting Paper, Available at SSRN: https://ssrn.com/abstract=772945 or http://dx.doi.org/10.2139/ssrn.772945
+Download This Paper
+ 
+Open PDF in Browser
+74 References
+W Ahn , W Brewer , R Mooney
+Schema acquisition from a single example
+Journal of Experimental Psychology: Learning, Memory, and Cognition , volume 18 , p. 391 - 412 Posted: 1992
+Crossref
+A Atkinson , R Kaplan , S M Young
+Activity-Based Cost Systems
+Management Accounting , p. 121 - 179 Posted: 2004
+R Baron , D Kenny
+The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations
+Journal of Personality and Social Psychology , volume 51 , p. 1173 - 1182 Posted: 1986-12
+Crossref
+M Bassok , V Chase , S Martin
+Adding apples and oranges: Alignment of semantic and formal knowledge
+Cognitive Psychology , volume 35 , p. 99 - 134 Posted: 1998-03
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+247
+ABSTRACT VIEWS
+3,152
+RANK
+282,998
+74 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Recommended Papers
+
+Going Concern Decisions and Auditor Switches: An Economic Perspective
+
+By Robert R. Tucker and Ella Mae Matsumura
+
+Going-Concern Judgments: An Experimental Test of the Self-Fulfilling Prophecy and Forecast Accuracy
+
+By Robert R. Tucker, Ella Mae Matsumura, ...
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

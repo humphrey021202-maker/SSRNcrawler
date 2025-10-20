@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Role of Process Mining in Business Process Compliance
+
+51 Pages Posted: 11 Apr 2022
+
+Nigel Adams
+
+University of Melbourne
+
+Adriano Augusto
+
+affiliation not provided to SSRN
+
+Michael J Davern
+
+The University of Melbourne - Department of Accounting; University of Melbourne
+
+Marcello La Rosa
+
+University of Melbourne
+
+Abstract
+
+Business Process Compliance (BPC) is a heavily researched domain in academia and one where significant progress has been made. However, there are known challenges. Some of these may be addressed by recent advances in process mining. To assess this proposition, we analyze progress across both fields of research in a banking context. Banks are heavily regulated and ensuring process compliance is expensive, complex and not guaranteed to succeed. In recent years, there have been a significant number of heavily publicized failings in Australia that point to the difficulties of maintaining business process compliance in practice. We proceed by first identifying evaluation criteria from a meta-review of the BPC literature and findings from the banking regulators, and then mapping the BPC studies to these criteria. Alongside, we present a meta-review of critical process mining capabilities and subsequently map these capabilities to the identified evaluation criteria. By leveraging the resulting conceptual map, we analyze known and novel BPC challenges, outlining the roadblocks to be addressed by BPC and process mining research to enable wide-scale deployment in practice.
+
+Keywords: Business Process Compliance, Process Mining, Banking, Australia
+
+Suggested Citation:
+
+Adams, Nigel and Augusto, Adriano and Davern, Michael J. and La Rosa, Marcello, On the Role of Process Mining in Business Process Compliance. Available at SSRN: https://ssrn.com/abstract=4081558 or http://dx.doi.org/10.2139/ssrn.4081558
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+228
+ABSTRACT VIEWS
+997
+RANK
+306,185
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Data Science, Data Analytics & Informatics eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

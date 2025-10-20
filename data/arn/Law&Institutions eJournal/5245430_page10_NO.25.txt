@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accrual-Based Strategies and Alpha Persistence: Insights from U.S. Shariah-Compliant Stocks
+
+72 Pages Posted: 7 May 2025
+
+Asyraf Abdul Halim
+
+University of Malaya (UM)
+
+Mohd Edil Abd Sukor
+
+University of Malaya (UM) - Faculty of Business & Accountancy; University of Melbourne - Faculty of Business and Economics
+
+Abstract
+
+This study examines asset pricing anomalies in U.S. Shariah-compliant (SC) stocks, focusing on the role of accrual-based strategies in generating statistically significant alphas. While prior literature highlights the persistence of accrual anomalies in conventional stock markets, the asset pricing behavior of SC stocks remains underexplored. Using a dataset spanning 1993–2023, we construct 175 size-accrual portfolios and test their performance across standard asset pricing models, including the CAPM, Fama-French three-factor (FF3), five-factor (FF5), and six-factor (FF6) models. Using our newly proposed Trifecta Conditions, we find that the CAPM suffers heavily in model misspecification, and subsequently, should be not used. At the same time, we also found that no single model amongst the FF3, FF5 and FF6 have the best model specification to explain all of our size-accrual portfolios. In other words, there exists no one-size-fits-all model to explain the average excess returns of portfolios in our US SC stocks sample, instead, each model performs best in different sorts of accruals. Then, our results indicate that most accrual definitions generate statistically insignificant alphas, indicating that US SC stocks do not conduct earnings management practices, consistent with its fundamental Islamic values. For certain accrual definitions however, statistically significant alphas may yet be found, this is usually the case for narrow accrual definition related to current and non-current operating assets. Additionally, our findings suggest that the size, value and momentum premiums remain the most critical risk factors in explaining average excess returns US SC stocks, while the market, profitability and investment premiums exhibit negligible explanatory power. These results have important implications for investors seeking to implement accrual-based strategies within the US SC stock universe. The findings suggest that while some accrual anomalies persist, the broader US SC market may exhibit pricing dynamics that differ from US conventional stocks due to unique corporate financial behaviors, wider investor base and narrower investment base. By shedding light on these anomalies, this paper contributes to the ongoing debate on the efficiency of US SC stock markets and the applicability of accrual-based investment strategies in faith-compliant financial environments.
+
+Keywords: Asset pricing, Shariah Compliant Stocks, US stocks, Accruals, Asset Pricing anomalies, multi-factors asset pricing models, Accrual anomaly, Islamic Finance, Earnings management and market mispricing
+
+Suggested Citation:
+
+Halim, Asyraf Abdul and Abd Sukor, Mohd Edil, Accrual-Based Strategies and Alpha Persistence: Insights from U.S. Shariah-Compliant Stocks. Available at SSRN: https://ssrn.com/abstract=5245430 or http://dx.doi.org/10.2139/ssrn.5245430
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+K Chan , L K Chan , N Jegadeesh , J Lakonishok
+Earnings Quality and Stock Returns
+the Journal of Business , volume 79 , issue 3 , p. 1041 - 1082 Posted: 2006
+E F Fama , K R French
+A five-factor asset pricing model
+Journal of Financial Economics , volume 116 , issue 1 , p. 1 - 22 Posted: 2015
+D Hirshleifer , S H Teoh
+Limited attention, information disclosure, and financial reporting
+Journal of accounting and economics , volume 36 , issue 1-3 , p. 337 - 386 Posted: 2003
+S A Richardson , R G Sloan , M T Soliman , I Tuna
+Accrual reliability, earnings persistence and stock prices
+Journal of accounting and economics , volume 39 , issue 3 , p. 437 - 485 Posted: 2005
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+33
+ABSTRACT VIEWS
+173
+49 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

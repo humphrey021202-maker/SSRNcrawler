@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Identifying Accounting Quality
+
+Chicago Booth Research Paper No. 14-28
+
+62 Pages Posted: 23 Aug 2014 Last revised: 15 Jan 2019
+
+Valeri V. Nikolaev
+
+University of Chicago Booth School of Business
+
+Date Written: December 1, 2018
+
+Abstract
+
+I develop a new approach to understanding accounting accruals. I start by introducing a model that explicitly incorporates the role of accruals in measuring firm performance. Using this model, I characterize accounting quality by the degree to which accruals fulfill their performance measurement objective. To identify accounting quality, I exploit the property that both earnings and cash flows represent noisy measures of the unobservable economic performance, and that they converge as the measurement horizon extends. This allows decomposing the variance of accruals into both the performance measurement component and the accounting error component, as well as identifying the variance of the unobservable economic performance itself. I implement several model specifications and consider generalizations. My analysis suggests that the variance of accruals explained by performance measurement significantly exceeds the variance explained by accounting error. I conclude that accruals successfully meet their primary objective.
+
+Keywords: Accounting quality, Earnings quality, Accruals, Identification, Estimation error
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Nikolaev, Valeri V., Identifying Accounting Quality (December 1, 2018). Chicago Booth Research Paper No. 14-28, Available at SSRN: https://ssrn.com/abstract=2484958 or http://dx.doi.org/10.2139/ssrn.2484958
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+16 Citations
+CHRISTIAN LEUZ , PETER D. WYSOCKI
+The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research
+Journal of Accounting Research , volume 54 , issue 2 , p. 525 Posted: 2016
+Crossref
+Anastasia A. Zakolyukina
+How Common Are Intentional GAAP Violations? Estimates from a Dynamic Model
+Journal of Accounting Research, Forthcoming, Chicago Booth Research Paper No. 13-45 · 53 Pages · Posted: 31 Mar 2013 · Last revised: 16 Oct 2017 · Downloads: 1,037
+Download PDF  Add Paper to My Library
+Charles McClure , Anastasia A. Zakolyukina
+Non-GAAP Reporting and Investment
+Forthcoming, The Accounting Review; DOI: 10.2308/TAR-2021-0384, Chicago Booth Research Paper No. 19-27 · 73 Pages · Posted: 20 Dec 2019 · Last revised: 4 Oct 2023 · Downloads: 1,318
+Download PDF  Add Paper to My Library
+Ilia D. Dichev , Edward Owens
+Accrual Duration
+54 Pages · Posted: 29 Sep 2017 · Last revised: 7 Dec 2023 · Downloads: 644
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+4,497
+ABSTRACT VIEWS
+28,294
+RANK
+5,018
+16 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

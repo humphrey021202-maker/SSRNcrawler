@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Sex & Startups
+
+European Corporate Governance Institute - Law Working Paper No. 759/2024
+
+
+
+
+Columbia Law and Economics Working Paper No. 4730878
+
+42 Yale J. Reg. 589 (2025)
+
+71 Pages Posted: 8 Mar 2024 Last revised: 18 Jun 2025
+
+Jens Frankenreiter
+
+Washington University in St. Louis - School of Law
+
+Talia B. Gillis
+
+Columbia University - Law School
+
+Eric L. Talley
+
+Columbia University - Law School; European Corporate Governance Institute (ECGI)
+
+Date Written: February 18, 2024
+
+Abstract
+
+Venture capital is widely perceived to have a gender problem. Both founders seeking capital and the investors themselves are overwhelmingly male, fomenting concerns about how—and how fairly—the VC sector distributes its economic gains. Although gender disparities in funding are well documented, we still know little about whether the governance of VC-backed startups similarly manifests gender imbalances. This knowledge gap is critical, since VC investments often carry strings attached, in the form of cash flow and control rights that can vary substantially from deal to deal.
+This study unveils a first-of-its-kind dataset that offers detailed insights into the governance of VC-backed startups. Our data contain granular information on both cash flow and control rights within startups over a span of nearly two decades. Most significantly, our data permit one to interrogate whether a founder’s gender predicts distinct governance patterns in relation to their VC investors.
+Our analysis yields several intriguing findings. First, with the help of machine learning techniques, we uncover persistent, gender-specific patterns in the linguistic architecture of startup governance documents. Digging deeper into the substantive governance provisions themselves, we show that female founders encounter a mix of advantages and disadvantages. For instance, they tend to face relatively unfavorable conditions in dividend policies and board representation, but more favorable treatment in profit participation and veto rights. On balance, however, our analysis reveals no systematic pattern of gender disparities in either direction, a surprising result in the light of our linguistic findings, and one that confounds theoretical predictions about how gender bias plausibly affects firm governance. Ultimately, our analysis reveals a complicated landscape: While female founders encounter linguistically distinct governance structures, those differences do not appear systematically to exacerbate the challenges women founders face at the initial funding stage. By the same token, startup governance also does not appear to counteract gendered funding disparities, either.
+
+Keywords: Venture Capital, Corporate Governance, Corporate Finance, Law and Finance, Contract Design
+
+JEL Classification: K00, K12, K22, G30, G32, G35
+
+Suggested Citation:
+
+Frankenreiter, Jens and Gillis, Talia B. and Talley, Eric L., Sex & Startups (February 18, 2024). European Corporate Governance Institute - Law Working Paper No. 759/2024,
+, Columbia Law and Economics Working Paper No. 4730878, 42 Yale J. Reg. 589 (2025), Available at SSRN: https://ssrn.com/abstract=4730878 or http://dx.doi.org/10.2139/ssrn.4730878
+Download This Paper
+ 
+Open PDF in Browser
+8 References
+Paul Calder-Wang , Patrick Gompers , Sweeney
+(analyzing how the increase in hiring of female venture capitalists following the Ellen Pao v. Kleiner Perkins gender discrimination trial led to an increase in female venture capitalists investing in female founders but no difference
+Moment (Nat'l Bureau of Econ. Rsch. Working Paper Posted: 2017-03-13
+Nitasha Tiku , Gen Z
+Women Are Breaking into the Venture-Capital Boys Club Posted: 2021-04-23
+A Paul , Sophie Gompers , Calder-Wang
+From 1990-2016 women have been less than 10% of the entrepreneurial and venture capital labor pool
+Diversity in Innovation , volume 10 , issue 11 Posted: 2017
+See Alexandra Niessen-Ruenzi , Stefan Ruenzi , Sex Matters , ; See , Katie Abouzahr , Matt Krentz , John Harthorne , Frances Brooks Taplett
+B]usinesses founded by women ultimately 87 Several other financial provisions were coded up by our research assistant team but are not detailed in the main text. Our emphasis in the main text is on the most important and interesting financial provisions. The additional financial provisions documented include: the original issue price of preferred stock; the entitlement of preferred stock to a share of discretionary dividends
+Gender Bias in the Mutual Fund Industry, 65 MANAGEMENT SCIENCE , volume 3001 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+561
+ABSTRACT VIEWS
+4,136
+RANK
+112,495
+8 References
+PlumX Metrics
+Related eJournals
+
+Columbia Law School, Law & Economics Research Paper Series
+
+Follow
+
+Washington University in St. Louis School of Law Legal Studies Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

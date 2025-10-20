@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Mathematical Analysis and Numerical Methods for Pricing Pension Plans Allowing Early Retirement
+
+19 Pages Posted: 6 Feb 2012
+
+Andrea Pascucci
+
+University of Bologna - Department of Mathematics
+
+Carlos Vázquez Cendón
+
+University of Coruña - Department of Mathematics
+
+Maria del Carmen Calvo-Garrido
+
+University of Coruña - Department of Mathematics
+
+Date Written: February 3, 2012
+
+Abstract
+
+In this paper, we address the mathematical analysis and numerical solution of a model for pricing a defined benefit pension plan. More precisely, the benefits received by the member of the plan depend on the average salary and early retirement is allowed. Thus, the mathematical model is posed as an obstacle problem associated to a Kolmogorov equation in the time region where the salary is being averaged. Previously to the initial averaging date, a nonhomogeneous one factor Black-Scholes equation is posed. After stating the model, existence and regularity of solutions are studied. Moreover, appropriate numerical methods based on a Lagrange-Galerkin discretization and an augmented Lagrangian active set method are proposed. Finally, some numerical examples illustrate the performance of the numerical techniques and the properties of the solution and the free boundary.
+
+Keywords: retirement plans, options pricing, Kolmogorov equations, complementarity problem, numerical methods, augmented Lagrangian formulation
+
+JEL Classification: G00, G13, G23
+
+Suggested Citation:
+
+Pascucci, Andrea and Vázquez Cendón, Carlos and Calvo-Garrido, Maria del Carmen, Mathematical Analysis and Numerical Methods for Pricing Pension Plans Allowing Early Retirement (February 3, 2012). Available at SSRN: https://ssrn.com/abstract=1998841 or http://dx.doi.org/10.2139/ssrn.1998841
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+A Bermúdez , M R Nogueiras , C Vázquez
+Numerical analysis of convection-diffusion-reaction pro-blems with higher order characteristics finite elements. Part I: Time discretization
+SIAM J. Numer. Anal , volume 44 , p. 1829 - 1853 Posted: 2006
+Crossref
+A Bermúdez , M R Nogueiras , C Vázquez
+Numerical analysis of convection-diffusion-reaction problems with higher order characteristics finite elements. Part II: Fully discretized scheme and quadrature formulas
+SIAM J. Numer. Anal , volume 44 , p. 1854 - 1876 Posted: 2006
+Crossref
+A Bermúdez , M R Nogueiras , C Vázquez
+Numerical solution of variational inequalities for pricing Asian options by higher order Lagrange-Galerkin methods
+Appl. Numer. Math , volume 56 , p. 1256 - 1270 Posted: 2006
+Crossref
+A Bermúdez , M R Nogueiras , C Vázquez
+Comparison of two algorithms to solve a fixed-strike Amerasian options pricing problem
+International Series in Numerical Mathematics , volume 154 , p. 95 - 106 Posted: 2006
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+195
+ABSTRACT VIEWS
+2,107
+RANK
+355,741
+21 References
+PlumX Metrics
+Related eJournals
+
+Derivatives eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Pensions as Retirement Income Insurance
+
+By Zvi Bodie
+
+Inflation, Index-Linked Bonds, and Asset Allocation
+
+By Zvi Bodie
+
+Should Private Pensions Be Indexed?
+
+By Martin S. Feldstein
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

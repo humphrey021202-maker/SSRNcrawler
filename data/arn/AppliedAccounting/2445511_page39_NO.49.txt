@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Why are 10-K Filings so Long?
+
+47 Pages Posted: 5 Jun 2014 Last revised: 8 Apr 2015
+
+Richard A. Cazier
+
+University of North Texas
+
+Ray J. Pfeiffer
+
+Texas Christian University - Neeley School of Business
+
+Date Written: April 2015
+
+Abstract
+
+This study provides evidence on relative magnitudes of factors that appear to drive 10-K length. We employ statistical analysis and text analysis software to partition 10-K length into the portions explained by each of three fundamental determinants: 1) firms’ operating complexity, 2) disclosure redundancy, and 3) residual disclosure. Our primary analyses shed light on the relative magnitudes of each of these components and on the extent to which each varies across firms. Disclosure redundancy and operating complexity explain roughly equal amounts of variation in 10-K length within our sample. However, 10-K length unexplained by redundancy or firms’ operating complexity (residual disclosure) accounts for the largest degree of variation in 10-K length. Our results are consistent with the notion that a substantial amount of disclosure volume contained in 10-K reports is attributable to managerial discretion in how firms respond to mandatory disclosure requirements. Our study expands prior literature that has focused largely on the consequences of 10-K length and provides important insights for policy makers and regulators seeking to improve disclosure requirements.
+
+Keywords: Disclosure, Financial reporting regulation, 10-K length, Redundancy
+
+JEL Classification: M41, K22, D82, G18
+
+Suggested Citation:
+
+Cazier, Richard A. and Pfeiffer, Ray J., Why are 10-K Filings so Long? (April 2015). Available at SSRN: https://ssrn.com/abstract=2445511 or http://dx.doi.org/10.2139/ssrn.2445511
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+A Barrón-Cedeño , P Rosso
+On Automatic Plagiarism Detection Based on n-Grams Comparison
+Lecture Notes in Computer Science , volume 5478 , p. 696 - 700 Posted: 2009
+Crossref
+M Bertran , A Schoar
+Managing with Style: The Effect of Managers on Firm Policies
+The Quarterly Journal of Economics , volume 118 , issue 4 , p. 1169 - 1208 Posted: 2003
+Crossref
+J Blouin , L Krull
+Bringing It Home: A Study of the Incentives Surrounding the Repatriation of Foreign Earnings Under the American Jobs Creation Act of
+Journal of Accounting Research , volume 47 , issue 4 , p. 1027 - 1059 Posted: 2004
+Crossref
+Financial Accounting Standards Board (FASB). 2001. GAAP-SEC Disclosure Requirements. Steering Committee Report Series
+Crossref
+Load more
+4 Citations
+Justin Chircop , Monika Tarsalewska
+10-K Filing Length and M&A Returns
+The European Journal of Finance, Forthcoming · 57 Pages · Posted: 23 Oct 2015 · Last revised: 22 Nov 2019 · Downloads: 304
+Download PDF  Add Paper to My Library
+Braiden Coleman , Kenneth J. Merkley , Joseph Pacelli
+Human versus Machine: A Comparison of Robo-Analyst and Traditional Research Analyst Investment Recommendations
+The Accounting Review, Forthcoming&#xd;&#xa; · 50 Pages · Posted: 21 Jan 2020 · Last revised: 8 Oct 2024 · Downloads: 6,238
+Download PDF  Add Paper to My Library
+Nerissa C. Brown , Brian Gale , Stephanie M. Grant
+How Do Disclosure Repetition and Interactivity Influence Investors’ Judgments?
+52 Pages · Posted: 14 Apr 2020 · Last revised: 15 Dec 2021 · Downloads: 421
+Download PDF  Add Paper to My Library
+Matthew C. Cedergren , Changling Chen , Kai Chen , Victor Xiaoqi Wang
+<div> Financial Statement Placement, Note Disclosure, and Value Relevance: <span>Evidence from ASU 2011-05</span> </div>
+Journal of Financial Reporting, Forthcoming · 52 Pages · Posted: 20 Jan 2021 · Last revised: 14 Oct 2025 · Downloads: 135
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+666
+ABSTRACT VIEWS
+2,377
+RANK
+90,251
+4 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

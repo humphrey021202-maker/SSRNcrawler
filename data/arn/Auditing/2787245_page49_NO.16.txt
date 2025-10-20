@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Common Auditors and Relationship-Specific Investment in Supplier-Customer Relationships
+
+British Accounting Review Forthcoming
+
+85 Pages Posted: 2 Jun 2016 Last revised: 16 Oct 2025
+
+Dan S. Dhaliwal
+
+University of Arizona - Department of Accounting (deceased)
+
+Jaideep Shenoy
+
+University of Connecticut - Department of Finance
+
+Ryan Williams
+
+Imperial College London; Enoda
+
+Date Written: August 01, 2025
+
+Abstract
+
+Theory suggests that information asymmetry between supplier and customer firms exacerbates the holdup problem, resulting in suboptimal relationship-specific investments. We hypothesize that an auditor common to a supplier and customer firm improves information flows, thereby alleviating the holdup problem. Consistent with this notion, we document greater financial statement similarity and higher levels of relationship-specific investments in supplier-customer relationships with common auditors. This positive relation manifests in product market settings most prone to holdup risk and in informationally opaque environments.  To address endogeneity concerns, we employ several identification strategies, including tests using placebo supplier-customer relationships, propensity score matching, and analyses exploiting exogenous shocks to auditor-client relationships. Collectively, these tests support a plausible causal interpretation. Overall, we demonstrate that common auditors mitigate investment inefficiencies in relationship-specific assets.
+
+Keywords: Supplier-customer relationships, relationship-specific investments, common auditor, information asymmetry
+
+JEL Classification: M4, L00, L14, L22
+
+Suggested Citation:
+
+Dhaliwal, Dan S. and Shenoy, Jaideep and Williams, Ryan, Common Auditors and Relationship-Specific Investment in Supplier-Customer Relationships (August 01, 2025). British Accounting Review Forthcoming, Available at SSRN: https://ssrn.com/abstract=2787245 or http://dx.doi.org/10.2139/ssrn.2787245
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+D Acemoglu , S Johnson , T Mitton
+Determinants of Vertical Integration: Financial Development and Contracting Costs
+Journal of Finance , volume 64 , p. 1251 - 1290 Posted: 2009
+J Allen , G Phillips
+Corporate equity ownership, strategic alliances, and product market relationships
+Journal of Finance , volume 55 , p. 2791 - 2815 Posted: 2000
+H Armour , D Teece
+Vertical Integration and Technological Innovation
+Review of Economics and Statistics , volume 62 , p. 470 - 474 Posted: 1980
+G Bae , S Choi , D Dhaliwal , P Lamoreaux
+Auditors and client investment efficiency
+The Accounting Review , volume 92 , p. 19 - 40 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+583
+ABSTRACT VIEWS
+3,133
+RANK
+29,100
+16 Citations
+59 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

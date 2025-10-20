@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How to Improve Small Firms' Payroll Tax Compliance? Evidence from a Randomized Field Experiment
+
+119 Pages Posted: 14 Jun 2022 Last revised: 22 Feb 2025
+
+Philipp Dörrenberg
+
+University of Mannheim; IZA Institute of Labor Economics; CESifo (Center for Economic Studies and Ifo Institute); ZEW – Leibniz Centre for European Economic Research
+
+Alina Pfrang
+
+University of Mannheim
+
+Jan Schmitz
+
+Radboud University Nijmegen - Department of Economics
+
+Date Written: June 7, 2022
+
+Abstract
+
+Payroll tax evasion by firms is widespread and threatens the functioning of welfare systems in many countries around the world, yet very little is known about how to combat it. We report results from a large-scale RCT testing strategies to improve payroll tax compliance of small firms in a middleincome country. We randomize announced audit probabilities (1%, 10%, 40% or 60%) on the firm level and implement several novel types of moral appeals (varying information on the benefits of tax-financed public goods). Our monthly tax return data show that both deterrence and moral measures significantly improve payroll tax compliance. A high audit probability thereby generates 50% more additional tax revenue than moral appeals. An additional treatment with ambiguous audit probability shows that behavioral factors (such as probability neglect) play a minor role for increasing compliance in the deterrence treatments.
+
+Keywords: Payroll Tax Compliance, Firms, Audits, Moral Appeals, RCT
+
+JEL Classification: H20, H32, H50, C93
+
+Suggested Citation:
+
+Dörrenberg, Philipp and Pfrang, Alina and Schmitz, Jan, How to Improve Small Firms' Payroll Tax Compliance? Evidence from a Randomized Field Experiment (June 7, 2022). Available at SSRN: https://ssrn.com/abstract=4130097 or http://dx.doi.org/10.2139/ssrn.4130097
+Download This Paper
+ 
+Open PDF in Browser
+87 References
+James Alm , Betty R Jackson ; Almunia , Miguel , Jonas Hjort , Justine Knebelmann , Lin Tian
+Strategic or confused firms? evidence from âmissingâ transactions in Uganda
+Journal of Economic Behavior and Organization , volume 22 , p. 256 - 265 Posted: 1993
+Armenak And Zareh Antinyan , Asatryan
+Nudging for Tax Compliance: A Meta-Analysis , volume 3500744 Posted: 2024
+Andrew C Baker , David F Larcker , Y Charles C , Wang
+How much should we trust staggered difference-in-differences estimates?
+Journal of Financial Economics , volume 144 , p. 370 - 395 Posted: 2022
+Oriana Bandiera , Iwan Barankay , Imran Rasul
+Field Experiments with Firms
+Journal of Economic Perspectives , volume 25 , p. 63 - 82 Posted: 2011
+Load more
+3 Citations
+MARTIN BROWN , JAN SCHMITZ , CHRISTIAN ZEHNDER
+Moral Constraints, Social Norm Enforcement, and Strategic Default in Weak and Strong Economic Conditions
+Journal of Money, Credit and Banking , volume 57 , issue 2-3 , p. 309 Posted: 2025
+Crossref
+Skoura V. Angeliki , Dasaklis K. Thomas
+Tax Compliance Determinants in a Challenging Fiscal Environment: Evidence from a Greek Experiment
+International Journal of Financial Studies , volume 13 , issue 2 , p. 83 Posted: 2025
+Crossref
+Chad Angaretis , Brian D. Galle , Paul Organ , Allen C. Prohofsky
+Non-Monetary Sanctions as Tax Enforcement Tools: Evaluating California’s Top 500 Program
+Journal of Policy Analysis & Management · 80 Pages · Posted: 27 Oct 2021 · Last revised: 31 Jan 2024 · Downloads: 237
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+303
+ABSTRACT VIEWS
+1,416
+RANK
+229,292
+3 Citations
+87 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Randomized Social Experiments eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

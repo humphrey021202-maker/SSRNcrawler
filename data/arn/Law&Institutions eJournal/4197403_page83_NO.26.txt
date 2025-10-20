@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Value of Lending Relationships
+
+OFR 24-02
+
+60 Pages Posted: 7 Sep 2022 Last revised: 9 Mar 2023
+
+Andrew Bird
+
+Chapman University - The George L. Argyros College of Business and Economics
+
+Michael G. Hertzel
+
+Arizona State University (ASU) - Finance Department
+
+Stephen A. Karolyi
+
+Donald G. Costello College of Business at George Mason University
+
+Thomas Ruchti
+
+Virginia Tech - Department of Accounting and Information Systems
+
+Date Written: March 1, 2023
+
+Abstract
+
+Lending relationships are prevalent in credit markets and are a potentially important driver of bank value, but little is known about the quantitative significance of this source of intangible capital. To estimate the value of these relationships, we develop a model of the lender’s decision to enforce a contractual breach of pre-determined covenant thresholds based on the tradeoff between the cost of potential relationship termination and the benefits of increased fees and reduced risk. We find that the implied value of a relationship to the lender is 11.6% of loan principal, on average, and is significantly higher for more opaque borrowers with fewer outside options. At the bank level, relationship capital is estimated to be 6.6% of total assets or 41.2% of total capital (i.e. equity capital plus relationship capital), with significant heterogeneity across banks and over time. Nearly a quarter of aggregate relationship capital was lost in the Great Recession; in contrast with equity capital, relationship capital has not recovered. Finally, we show that banks’ market-to-book ratios are positively associated with relationship capital, consistent with the market recognizing the value of the underlying relationships.
+
+Keywords: syndicated lending, financial covenants, lending relationships, intangible capital
+
+JEL Classification: G21, G32, K12, L14, E32, E44
+
+Suggested Citation:
+
+Bird, Andrew and Hertzel, Michael G. and Karolyi, Stephen A. and Ruchti, Thomas, The Value of Lending Relationships (March 1, 2023). OFR 24-02, Available at SSRN: https://ssrn.com/abstract=4197403 or http://dx.doi.org/10.2139/ssrn.4197403
+Download This Paper
+ 
+Open PDF in Browser
+80 References
+V V Acharya , I Hasan , A Saunders
+Should banks be diversified? Evidence from individual bank loan portfolios
+Journal of Business , volume 79 , issue 3 , p. 1355 - 1412 Posted: 2006
+F Allen
+The market for information and the origin of financial intermediation
+Journal of Financial Intermediation , volume 1 , issue 1 , p. 3 - 30 Posted: 1990
+F Allen , E Carletti , R Marquez
+Credit market competition and capital regulation
+Review of Financial Studies , volume 24 , issue 4 , p. 983 - 1018 Posted: 2011
+D Almond , J J Doyle
+After midnight: A regression discontinuity design in length of postpartum hospital stays
+American Economic Journal: Economic Policy , volume 3 , issue 3 , p. 1 - 34 Posted: 2011
+Load more
+2 Citations
+Robert M. Bowen , Shantanu Dutta , Songlian Tang , Pengcheng Zhu
+Blockholder mutual fund participation in private in‐house meetings
+Journal of Financial Research , volume 46 , issue 3 , p. 631 Posted: 2023
+Crossref
+Piet Eichholtz , Nagihan Mimiroglu , Steven R. G. Ongena , Erkan Yönder
+Banks, Non-Banks, and the Incorporation of Local Information in CMBS Loan Pricing
+Swiss Finance Institute Research Paper No. 19-58 · 58 Pages · Posted: 7 Nov 2019 · Last revised: 25 Apr 2023 · Downloads: 332
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+265
+ABSTRACT VIEWS
+1,389
+RANK
+263,404
+2 Citations
+80 References
+PlumX Metrics
+Related eJournals
+
+Office of Financial Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Four Tax Questions for ChatGPT and Other Language Models
+
+179 Tax Notes Federal 969 (2023)
+
+9 Pages Posted: 8 Jun 2023 Last revised: 26 Jun 2023
+
+Libin Zhang
+
+Fried Frank
+
+Date Written: May 8, 2023
+
+Abstract
+
+Since ChatGPT was released to the public in late 2022, it and other language models have rapidly gained recognition for their ability to respond to queries with natural language text. This non-technical and unsponsored article tests the usefulness of three language models, ChatGPT, Bing Chat, and Google Bard, by asking each four tax-related questions:
+
+1. Can I engage in a section 1031 like-kind exchange if I sell my Picasso painting?
+2. Does a decedent recognize gain if she dies with assets that have debt in excess of tax basis?
+3. Why should the federal government tax stock buybacks?
+4. Can you tell me six original jokes about tax lawyers? [Example: Why did the tax lawyer become a comedian? To deduct the cost of the microphone as a business expense.]
+
+The current iterations of language models have some room for improvement before they are useful to tax professionals. It may take several more years before language models can supersede junior tax associates in performing tax research, even if they are cheaper and more responsive.
+
+In contrast, the language models can more easily handle open-ended questions with lower stakes and no definitive right or wrong answers such as providing recipes, travel suggestions, or tax policy commentary. Once the language models have implemented more advanced footnote technology, they may serve as a cost-effective supplement for legal academics.
+
+The article also discusses a significant mistake in OpenAI's March 14, 2023 livestream demonstration of GPT-4's tax analysis capabilities, which has received over 3.3 million views on YouTube. GPT-4 calculated that a married couple with $78,981 of adjusted gross income has $10,597.68 of federal income tax liability in 2018. Their correct 2018 tax liability should be $9,255, which is a reduction of $1,343.
+
+Keywords: tax research, chatgpt, bing, bard, llm, ai, artificial intelligence, generative AI, tax law, tax jokes
+
+Suggested Citation:
+
+Zhang, Libin, Four Tax Questions for ChatGPT and Other Language Models (May 8, 2023). 179 Tax Notes Federal 969 (2023), Available at SSRN: https://ssrn.com/abstract=4458628
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+1 Citations
+Mengming (Michael) Dong , Theophanis C. Stratopoulos , Victor Xiaoqi Wang
+A Scoping Review of ChatGPT Research in Accounting and Finance
+International Journal of Accounting Information Systems, Volume 55, December 2024, 100715 · 56 Pages · Posted: 8 Jan 2024 · Last revised: 7 Dec 2024 · Downloads: 2,665
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+572
+ABSTRACT VIEWS
+1,943
+RANK
+109,776
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Tax Law & Policy eJournal
+
+Follow
+
+Tax Law: International & Comparative Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

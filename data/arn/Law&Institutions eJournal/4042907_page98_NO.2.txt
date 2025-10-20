@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Institutional Investors Vote Responsibly? Global Evidence
+
+TILEC Discussion Paper No. DP2022-001
+
+Tilburg Law School Research Paper
+
+63 Pages Posted: 1 Mar 2022 Last revised: 24 Apr 2025
+
+Anne Lafarre
+
+Tilburg Law School, Private Business and Labour Law Department, TILEC
+
+Date Written: January 30, 2024
+
+Abstract
+
+This study investigates whether institutional investors support corporate sustainability by analyzing their voting behavior on sustainability-related proposals. It offers both reflections on the drivers of investor sustainability engagement and empirical evidence on institutional investor voting behavior across the globe.
+
+Drawing on a comprehensive dataset of 1,880 ESG-focused voting items from 188 global institutional investors (2018–2023), the paper applies the W-Nominate spatial modeling technique (adapted from political science) to map ideological orientations based on voting patterns. The research maps investor sustainability ideology on a spatial model [-1,+1]. The findings reveal that European institutional investors, confronted with more robust social and legal norms, genuinely exhibit ESG preferences, while many US investors (including the largest asset managers and self-labeled ESG funds) show weaker support, raising concerns about potential greenwashing.
+
+The study contributes to the literature on sustainable finance and investor stewardship by introducing a novel approach to uncovering sustainability ideology. It is the first to use of the W-Nominate model in an international context with a recent sample of ESG voting items, providing a more comprehensive global understanding of the factors influencing sustainable investor behavior. The findings emphasize the importance of the investor’s domicile and type when assessing true sustainability preferences. It demonstrates how legal frameworks, social norms, and institutional characteristics shape investor behavior, and it highlights the limitations of ESG branding in signaling authentic commitment. 
+
+The results carry implications for regulators, asset owners, and beneficiaries seeking to evaluate the credibility of institutional investors’ sustainability practices and enhance accountability in ESG engagement.
+
+Keywords: Engagement; Corporate Sustainability; Institutional investors; ESG; voting; International
+
+JEL Classification: G23, G32, G34, G39, M14
+
+Suggested Citation:
+
+Lafarre, Anne, Do Institutional Investors Vote Responsibly? Global Evidence (January 30, 2024). TILEC Discussion Paper No. DP2022-001, Tilburg Law School Research Paper, Available at SSRN: https://ssrn.com/abstract=4042907 or http://dx.doi.org/10.2139/ssrn.4042907
+Download This Paper
+ 
+Open PDF in Browser
+100 References
+R Abma , D Van Kleef , N Lemmers , M Olaerts , H Monciardini , D
+The Regulatory Dynamics of Sustainable Finance: Paradoxical Success and Limitations of EU Reforms
+Recht en Praktijk Ondernemingsrecht. Kluwer: Deventer, The Netherlands. Ahlström , volume 177 , p. 193 - 212 Posted: 2017
+A Amel-Zadeh , G Serafeim
+Why and How Investors use ESG Information: Evidence from a global survey
+Financial Analysts Journal , volume 74 , issue 3 , p. 87 - 103 Posted: 2018
+D-L Arjaliès , T Bansal
+ESG backlash in the US: what implications for corporations and investors?
+Financial Times Posted: 2023-06
+T Barko , M Cremers , L Renneboog
+Shareholder Engagement on Environmental, Social, and Governance Performance
+Journal of Business Ethics Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+737
+ABSTRACT VIEWS
+3,091
+RANK
+79,220
+2 Citations
+100 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

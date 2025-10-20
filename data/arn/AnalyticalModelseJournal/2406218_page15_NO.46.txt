@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Pay Convexity, Earnings Manipulation, and Project Continuation
+
+Accounting Review, Forthcoming
+
+49 Pages Posted: 9 Mar 2014 Last revised: 4 Jun 2014
+
+Volker Laux
+
+University of Texas at Austin; European Corporate Governance Institute (ECGI)
+
+Date Written: June 3, 2014
+
+Abstract
+
+This paper studies the optimal design of long-term executive pay plans when boards of directors use accounting information for investment decision-making and executives can take costly actions to manipulate this information. The model predicts that a shift to more convex executive pay plans, such as equity plans that rely more on options and less on stock, is associated with higher levels of manipulation, lower reporting quality, and less efficient investment. When designing the optimal contract, the board trades off these effects with the cost of inducing executive effort. The paper also analyzes how the optimal pay convexity and the equilibrium level of manipulation change when the CEO's opportunistic reporting discretion changes. The model predicts that an increase in the CEO's marginal cost of manipulation increases the optimal level of pay convexity and first increases and then decreases the magnitude of manipulation.
+
+Keywords: pay convexity, accounting manipulation, project continuation, reporting discretion
+
+JEL Classification: M12, M41, G31
+
+Suggested Citation:
+
+Laux, Volker, Pay Convexity, Earnings Manipulation, and Project Continuation (June 3, 2014). Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2406218
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+C Armstrong , W Guay , J Weber
+The role of information and financial reporting in corporate governance and debt contracting
+Journal of Accounting and Economics , volume 50 , p. 179 - 234 Posted: 2010
+Crossref
+C Armstrong , A Jagolinzer , D Larcker
+Chief executive ocer equity incentives and accounting irregularities
+Journal of Accounting Research , volume 48 , issue 2 , p. 225 - 271 Posted: 2010
+Crossref
+C Armstrong , D Larcker , G Ormazabal , D Taylor
+The relation between equity incentives and misreporting: The role of risk-taking incentives
+Journal of Financial Economics , volume 109 , p. 327 - 350 Posted: 2013
+Crossref
+A Arya , J Glover , S Sunder
+Earnings management and the revelation principle
+Review of Accounting Studies , volume 3 , p. 7 - 34 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+179
+ABSTRACT VIEWS
+1,676
+RANK
+384,900
+1 Citations
+41 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

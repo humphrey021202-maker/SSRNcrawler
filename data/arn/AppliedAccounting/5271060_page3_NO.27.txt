@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Transformative Synergy: Revolutionizing Healthcare Accounting Information Systems with Ai
+
+https://doi.org/10.1201/9781003503385-13
+
+20 Pages Posted: 20 Jun 2025 Last revised: 15 Jul 2025
+
+Hrishikesh Desai
+
+Arkansas State University
+
+Date Written: May 26, 2024
+
+Abstract
+
+This chapter examines the impact of generative AI on healthcare accounting information systems, focusing on Revenue Cycle Management (RCM). Through analysis of Management Discussion and Analysis (MD&A) sections from 14 US hospitals’ 10-K reports (2021–2023) and several scenarios utilizing ChatGPT and Claude AI, it demonstrates AI's potential to streamline RCM processes including appointment scheduling, patient registration, claims generation, billing, payment collection, data analytics, and fraud detection. The chapter discusses key machine learning algorithms for healthcare RCM, such as Random Forest for predicting no-shows, Gradient Boosting for claims denial prediction, and Neural Networks for fraud detection. It outlines a comprehensive API architecture for integrating AI with existing Electronic Health Records (EHR) and RCM systems, detailing components like API Gateway, Microservices, and Data Transformation Layer. The data flow between AI and legacy systems is illustrated, showing how information moves through various components. AI system training and validation processes specific to healthcare RCM are covered, including data preparation techniques and model evaluation metrics. Challenges of AI implementation, such as data quality, Health Insurance Portability and Accountability Act (HIPAA) privacy concerns, and the need for human oversight, are addressed. The chapter concludes that the successful adoption of generative AI in healthcare accounting requires collaboration between healthcare leaders and EHR and RCM vendors to enhance financial stability and improve patient outcomes.
+
+Suggested Citation:
+
+Desai, Hrishikesh, Transformative Synergy: Revolutionizing Healthcare Accounting Information Systems with Ai (May 26, 2024). https://doi.org/10.1201/9781003503385-13, Available at SSRN: https://ssrn.com/abstract=5271060
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+M I Ahmed , B Spooner , J Isherwood , M Lane , E Orrock , A Dennison
+A systematic review of the barriers to the implementation of artificial intelligence in healthcare
+Cureus , issue 10 Posted: 2023
+A S Albahri , A M Duhaim , M A Fadhel , A Alnoor , N S Baqer , L Alzubaidi
+M Deveci
+A systematic review of trustworthy and explainable artificial intelligence in healthcare: Assessment of quality, bias risk, and data fusion
+Information Fusion , volume 96 , p. 156 - 191 Posted: 2023
+The Financial Stability of America's Hospitals and Health Systems Is at Risk as the Costs of Caring Continue to Rise Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+12
+ABSTRACT VIEWS
+218
+25 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

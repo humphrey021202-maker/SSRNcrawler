@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Sharing The Algorithm: The Tax Solution To Generative AI
+
+Columbia Journal of Tax Law, Volume 17 (forthcoming 2025).
+
+Posted: 16 Apr 2025 Last revised: 16 May 2025
+
+Jeremy Bearer-Friend
+
+George Washington University Law School
+
+Sarah Polcz
+
+University of California, Davis - School of Law
+
+Date Written: February 16, 2025
+
+Abstract
+
+This article argues that tax policy offers a core tool for mitigating the sweeping public policy challenges of generative Artificial Intelligence (“AI”). Specifically, we propose a tax that would allow the public to own a share of AI itself, not just through future income tax liabilities or new excise taxes, but a proposed ownership structure that requires a one-time tax payment by AI operators in the form of equity.
+
+ 
+
+Fractional public ownership of AI would directly address four of the key harms of AI that have been well-documented in a deep and still expanding literature. First, many types of AI were built through the unauthorized use of millions of copyrighted works, allegedly amounting to copyright infringement on an unprecedented scale. Sharing ownership of AI would compensate injured creators alongside the broader public whose data was nonconsensually harvested. Second, AI is expected to pose massive labor market disruptions, but shared ownership would allow displaced workers to benefit from the profits of the technology substituting for their labor. Third, greater public voice in the corporate governance of AI could lead to greater scrutiny and bolder interventions in the ways AI has been shown to reproduce and compound many existing forms of discrimination. And lastly, sharing the ownership of AI through government’s principal tool for redistribution, taxation, directly addresses the rapid wealth concentration and monopolization already underway with AI developers. This proposal can also work in tandem with targeted regulation of AI and private law remedies to AI’s many harms.
+
+ 
+
+Ultimately, the original contribution of this paper is to propose a unique in-kind tax payment structure that would require firms with ownership of AI to remit equity shares to the public. The article describes multiple structures for this arrangement, drawing from existing models of fractional ownership used in private investment to serve as a paradigm for a partial public interest in AI. In total, this article argues that many of the greatest concerns related to AI can be solved through sharing AI. And tax policy is the best tool to achieve this goal.
+
+Keywords: copyright, artificial intelligence, generative artificial intelligence, tax policy, distributive justice, intellectual property
+
+Suggested Citation:
+
+Bearer-Friend, Jeremy and Polcz, Sarah, Sharing The Algorithm: The Tax Solution To Generative AI (February 16, 2025).
+
+Columbia Journal of Tax Law, Volume 17 (forthcoming 2025).
+
+, Available at SSRN: https://ssrn.com/abstract=5141374
+ Not Available for Download
+16 References
+I Ai , Problem
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,224
+PlumX Metrics
+Related eJournals
+
+Entrepreneurship, Innovation, & Growth eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Position and Performance in IFRS 17
+
+41 Pages Posted: 28 Apr 2020 Last revised: 11 May 2020
+
+Mathias Lindholm
+
+Stockholm University
+
+Filip Lindskog
+
+Stockholm University
+
+Lina Palmborg
+
+Stockholm University
+
+Date Written: April 3, 2020
+
+Abstract
+
+The general principles for determining the financial performance of a company is that revenue is earned as goods are delivered or services provided, and that expenses in the period are made up of the costs associated with this earned revenue. To follow these principles in the insurance industry is a complex task.
+
+The premium payments are typically made upfront, and can provide coverage for several years, or be paid many years before the coverage period starts. The associated costs are often not fully know until many years later. Hence, complexity arises both in determining how a premium paid should be earned over time, and in valuing the costs associated with this earned premium. IFRS 17 attempts to align the insurance industry with these general accounting principles.
+
+We bring this new accounting standard into the realm of actuarial science, through a mathematical interpretation of the regulatory texts, and by defining the algorithm for profit or loss in accordance with the new standard. Furthermore, we suggest a computationally efficient risk-based method of valuing a portfolio of insurance contracts and an allocation of this value to sub-portfolios. Finally, we demonstrate the practicability of these methods and the algorithm for profit or loss in a large-scale numerical example.
+
+Keywords: IFRS 17, Financial Performance, Valuation, Allocation
+
+JEL Classification: G22, M41
+
+Suggested Citation:
+
+Lindholm, Mathias and Lindskog, Filip and Palmborg, Lina, Financial Position and Performance in IFRS 17 (April 3, 2020). Available at SSRN: https://ssrn.com/abstract=3567745 or http://dx.doi.org/10.2139/ssrn.3567745
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+K Barigou , J Dhaene
+Fair valuation of insurance liabilities via mean-variance hedging in a multi-period setting
+Scandinavian Actuarial Journal , issue 2 , p. 163 - 187 Posted: 2019
+Crossref
+N Brouhns , M Denuit , J K Vermunt
+A Poisson log-bilinear regression approach to the construction of projected lifetables
+Insurance: Mathematics and Economics , volume 31 , p. 373 - 393 Posted: 2002
+Crossref
+Commission Delegated Regulation (EU) 2015/35 of 10 Posted: 2014-10
+DIRECTIVE 2009/138/EC of the European Parliament Posted: 2009-11
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+614
+ABSTRACT VIEWS
+2,564
+RANK
+100,411
+1 Citations
+19 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

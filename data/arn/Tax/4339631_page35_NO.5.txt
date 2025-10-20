@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Using Taxes to Attract the Creative Class in the Presence of a Region-Specific Rent
+
+MPRA Paper No. 116156, 2023, https://mpra.ub.uni-muenchen.de/116156
+
+15 Pages Posted: 3 Feb 2023
+
+Amitrajeet A. Batabyal
+
+Rochester Institute of Technology
+
+Seung Jick Yoo
+
+Sookmyung Women's University - Department of Climate and Environmental Studies
+
+There are 2 versions of this paper
+
+Date Written: January 27, 2023
+
+Abstract
+
+We analyze interregional competition between two regions A and B that use taxes to attract a representative creative class member (the entrepreneur). This entrepreneur establishes a firm in either region A or B and this action guarantees her profit. However, if the entrepreneur locates in region A then she also obtains a stochastic, location-specific rent that is either high with positive probability or low with positive complementary probability. In this setting, we accomplish three tasks. First, given values of the two tax rates, we determine the payoff to the entrepreneur in the two regions for the two possible values of the location-specific rent in A. Second, we ascertain when the entrepreneur will locate in A for both values of the rent and when she will locate in B. Finally, we compute the tax rate that B will set and then specify a condition which ensures that the entrepreneur locates in B.
+
+Keywords: Creative Class, Entrepreneur, Interregional Competition, Region-Specific Rent, Tax
+
+JEL Classification: R12, H25
+
+Suggested Citation:
+
+Batabyal, Amitrajeet A. and Yoo, Seung Jick, Using Taxes to Attract the Creative Class in the Presence of a Region-Specific Rent (January 27, 2023). MPRA Paper No. 116156, 2023, https://mpra.ub.uni-muenchen.de/116156, Available at SSRN: https://ssrn.com/abstract=4339631 or http://dx.doi.org/10.2139/ssrn.4339631
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+52
+ABSTRACT VIEWS
+340
+RANK
+906,353
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

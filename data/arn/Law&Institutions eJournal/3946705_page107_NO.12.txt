@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Which Multiples Matter in M&A? An Overview
+
+Review of Accounting Studies, Forthcoming
+
+40 Pages Posted: 25 Oct 2021 Last revised: 18 Mar 2023
+
+Matthew Shaffer
+
+University of Virginia - Darden School of Business
+
+Date Written: March 1, 2023
+
+Abstract
+
+This paper provides an overview of valuation multiples in M&A advisory. I review prior literature and legal controversies and the theoretical basis for their role. I then standardize all the advisor multiples available in SDC Platinum along four dimensions, and report rich descriptive statistics on each dimension over time and across industries. I highlight eight findings that are notable in light of current knowledge and debates. This paper answers the call from Gow, Larcker, and Reiss (2016) for thorough descriptive research, to provide a foundation and prompts for future hypothesis development. It includes an explicit guide for using this data, an overview of the key institutional details, and a discussion of tractable and open research questions.
+
+Keywords: Valuation, Accounting, M&A
+
+JEL Classification: G30, G32, M41, G34
+
+Suggested Citation:
+
+Shaffer, Matthew, Which Multiples Matter in M&A? An Overview (March 1, 2023). Review of Accounting Studies, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3946705 or http://dx.doi.org/10.2139/ssrn.3946705
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+R Bartell , C Janssen , R P Beatty , R E Verrecchia
+The effect of a mandated accounting change on the capitalization process
+Defense of Fairness Opinions. Duff and Phelps White Paper , volume 5 , p. 472 - 493 Posted: 1989
+L Bebchuk , A Cohen , C C Wang
+Golden parachutes and the wealth of shareholders
+Journal of Corporate Finance , volume 25 , p. 140 - 154 Posted: 2014
+L A Bebchuk , M Kahan
+Fairness Opinions: How Fair Are They and What Can Be Done about It?
+Duke Law Journal , issue 1 , p. 27 - 53 Posted: 1989
+D E Black , T E Christensen , J T Ciesielski , B C Whipple
+Non-GAAP reporting: Evidence from academia and current practice
+Journal of Business Finance and Accounting , volume 45 , issue 3-4 , p. 259 - 294 Posted: 2018
+Load more
+4 Citations
+Atif Ellahie , Shenje Hshieh , Feng Zhang
+Measuring the Quality of Mergers and Acquisitions
+<a href="https://doi.org/10.1287/mnsc.2023.01225" rel="nofollow">Management Science, 0</a> [10.1287/mnsc.2023.01225] · 77 Pages · Posted: 29 Jan 2021 · Last revised: 13 Aug 2024 · Downloads: 1,019
+Download PDF  Add Paper to My Library
+Matthew Shaffer
+Contentious Valuations: Accounting Reports as Schelling Points
+46 Pages · Posted: 9 Aug 2022 · Last revised: 14 Nov 2023 · Downloads: 172
+Download PDF  Add Paper to My Library
+Matthew Shaffer
+Contentious Valuations: Accounting Reports as Schelling Points
+USC Marshall School of Business Research Paper Sponsored by iORB · 46 Pages · Posted: 30 Nov 2023 · Downloads: 169
+Download PDF  Add Paper to My Library
+John L. Campbell , Erik Elfrink , Charles Irons , James Moon
+What is the Deal?: Predicting M&A Outcomes with Machine Learning
+61 Pages · Posted: 6 Nov 2024 · Last revised: 16 Jun 2025 · Downloads: 822
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+857
+ABSTRACT VIEWS
+3,299
+RANK
+64,952
+4 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

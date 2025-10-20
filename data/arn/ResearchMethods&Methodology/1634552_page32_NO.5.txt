@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Computing Exact Score Vectors for Linear Gaussian State Space Models
+
+13 Pages Posted: 5 Jul 2010 Last revised: 23 Apr 2019
+
+Daisuke Nagakura
+
+Keio University - Faculty of Economics
+
+Date Written: March 1, 2013
+
+Abstract
+
+A recursive formula for computing the exact value of score vectors is proposed, which is more desirable than approximate values in some statistical analyses, for a general form of the linear Gaussian state space model. Unlike most extant methods, our formula calculates all components of the score vector simultaneously. This approach significantly simplifies its programing, in particular, with some matrix-oriented programing languages, such as MATLAB. We also consider a way of handling initial conditions that depend on unknown parameters. This issue has not yet been explicitly addressed in the existing literature in the context of exact score computing for a general case, such as the one that we consider in this paper. It is also shown that our formula is especially useful for calculating score tests with an outer product of gradient asymptotic covariance matrix estimator.
+(A former title is "Exact Gradient Vector of Log Likelihood for Linear Gaussian State Space Models")
+
+Keywords: recursive formula, state space model, score vector, score test, initial condition
+
+JEL Classification: C10
+
+Suggested Citation:
+
+Nagakura, Daisuke, Computing Exact Score Vectors for Linear Gaussian State Space Models (March 1, 2013). Available at SSRN: https://ssrn.com/abstract=1634552 or http://dx.doi.org/10.2139/ssrn.1634552
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+K J Astrom
+Maximum Likelihood and Prediction Error Methods, in Trends and Progress in System Identification , p. 145 - 168 Posted: 1981
+R Davidson , J G Mackinnon
+Estimation and Inference in Econometrics Posted: 1993
+A C Harvey
+Forecasting
+Structural Time Series Models and the Kalman Filter Posted: 1989
+M A Hooker
+Analytic first and second derivatives for the recursive prediction error algorithm's log likelihood function
+IEEE Transactions on Automatic Control , volume 39 , issue 3 , p. 662 - 664 Posted: 1994
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+244
+ABSTRACT VIEWS
+1,996
+RANK
+286,433
+1 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

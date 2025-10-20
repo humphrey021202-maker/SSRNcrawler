@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Characteristics of Cybersecurity and it Involvement by the Ia Activity
+
+32 Pages Posted: 15 Sep 2023
+
+Christopher Calvin
+
+University of Dayton
+
+Marc Eulerich
+
+University of Duisburg-Essen
+
+Matthew Holt
+
+University of Dayton
+
+Abstract
+
+We provide the first, large scale, global study on the characteristics associated with an internal audit function’s involvement in IT and cybersecurity assurance. Using a unique dataset of 1,142 survey responses, we identify internal audit development (i.e., level of maturity) and two characteristics of internal audit knowledge availability (CAE IT certification and external sourcing) as being positively associated with the performance of IT assurance, cybersecurity assurance, or both. Our findings are informative to academia, laying the groundwork for further exploration of internal audit’s engagement in IT and cybersecurity assurance. They are also informative to practice, as they provide insight to standard setters, practitioners, management, and governance bodies about characteristics that can enhance internal audit’s ability to provide IT and cybersecurity assurance.
+
+Keywords: Internal Audit Function, Cybersecurity, IT Audit
+
+Suggested Citation:
+
+Calvin, Christopher and Eulerich, Marc and Holt, Matthew, Characteristics of Cybersecurity and it Involvement by the Ia Activity. Available at SSRN: https://ssrn.com/abstract=4572560 or http://dx.doi.org/10.2139/ssrn.4572560
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+L J Abbott , B Daugherty , S Parker , G F Peters
+Internal audit quality and financial reporting quality: The joint importance of independence and competence
+Journal of Accounting Research , volume 54 , issue 1 , p. 3 - 40 Posted: 2016
+L J Abbott , S Parker , G F Peters , D V Rama
+Corporate governance, audit quality, and the Sarbanes-Oxley Act: Evidence from internal audit outsourcing , volume 82 , p. 803 - 835 Posted: 2007
+U Bantleon , A Arcy , M Eulerich , A Hucke , B Pedell , N V S Ratzinger-Sakel
+Coordination Challenges in Implementing the Three Lines of Defense Model
+International Journal of Auditing , volume 25 , issue 1 , p. 59 - 74 Posted: 2020
+J Boehm , N Curcio , P Merrath , L Shenton , T Stähle
+The risk-based approach to cybersecurity Posted: 2019-03-03
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+94
+ABSTRACT VIEWS
+559
+RANK
+644,694
+33 References
+PlumX Metrics
+Related eJournals
+
+Cyberspace Law eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

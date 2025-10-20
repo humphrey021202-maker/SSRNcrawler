@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Neglecting the Slope Parameters Heterogeneity on Dynamic Models of Corporate Capital Structure
+
+Quantitative Finance, Forthcoming
+
+40 Pages Posted: 18 Aug 2012
+
+Maria Elena Bontempi
+
+University of Bologna - Department of Economics
+
+Roberto Golinelli
+
+University of Bologna - Department of Economics
+
+Date Written: 2011
+
+Abstract
+
+We present a parsimonious representation of debt-ratio dynamics which is able to nest the Trade-Off, Pecking-Order and Market-Timing theoretical models, at the same time avoiding the poolability of the slope parameters. The inference on firm heterogeneous speed of adjustment of effective towards target debt-ratio is based on a comparison of the unit root results from both individual-company and (this is a relative novelty in the case of micro-data) panel data. Results show that company behaviour is largely heterogeneous with regard to the theory underlying the historical data. Our proposed methodology may be usefully employed in order to identify sub-samples of companies behaving in an homogeneous manner, and can be extended to study the empirical capital structure models with more appropriate quantitative instruments. This would avoid the arbitrary a priori selections of sub-samples and the imposition of untested poolability assumptions as the empirical literature usually does.
+
+Keywords: Dynamic models of corporate capital structure, Heterogeneity, Time series and panel data unit root tests, Nested models, Trade off, pecking order and market timing theories
+
+JEL Classification: C12, G32, C22, C23
+
+Suggested Citation:
+
+Bontempi, Maria Elena and Golinelli, Roberto, The Effect of Neglecting the Slope Parameters Heterogeneity on Dynamic Models of Corporate Capital Structure (2011). Quantitative Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2131576
+Download This Paper
+ 
+Open PDF in Browser
+82 References
+A Alti
+How persistent is the impact of market timing on capital structure?
+Journal of Finance , volume 61 , issue 4 , p. 1681 - 1710 Posted: 2006
+Crossref
+T W Anderson , C Hsiao
+Formulation and estimation of dynamic models using panel data
+Journal of Econometrics , volume 18 , p. 47 - 82 Posted: 1982
+Crossref
+D W K Andrews
+Heteroskedasticity and autocorrelation consistent covariance matrix estimation
+Econometrica , volume 59 , p. 817 - 858 Posted: 1991
+Crossref
+A Antoniou , Y Guney , C Paudyal
+The determinants of capital structure: capital market oriented versus bank oriented institutions
+Journal of Financial and Quantitative Analysis , volume 43 , p. 59 - 92 Posted: 2008
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+96
+ABSTRACT VIEWS
+1,245
+RANK
+635,835
+82 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

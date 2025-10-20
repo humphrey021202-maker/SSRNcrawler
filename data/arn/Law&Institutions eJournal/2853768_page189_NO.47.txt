@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Rise of Corporate Governance
+
+19 Pages Posted: 19 Oct 2016 Last revised: 13 Jan 2017
+
+Alon Bebchuk
+
+Data Lab, Columbia Law School
+
+Robert J. Jackson, Jr.
+
+New York University School of Law; European Corporate Governance Institute (ECGI)
+
+Date Written: October 17, 2016
+
+Abstract
+
+We provide a quantitative metric for assessing the increase in the importance of and attention to corporate governance over the past two decades. The metric is based on the use of the terms corporate governance or governance by publicly traded companies. In particular, we use Python natural-language processing to examine the number of times such terms were used in the 10,000 annual proxy statements of S&P 500 companies filed between 1994 and 2015. We document a dramatic increase: the percentage of companies that use the term governance increased from below 20% to close to 100%, and the average number of mentions per page increased eightfold — from 0.10 to 0.82. This dramatic increase in the use of governance terms took place during 1994–2004, with especially steep increases in 2003 and 2004 after the 2002 passage of the Sarbanes-Oxley legislation following the Enron and Worldcom scandals, and such use has remained at a high level since then. We conclude by suggesting alternative explanations for the documented rise in governance discourse, and we propose tests for investigating these explanations.
+
+JEL Classification: G30, G38, K22
+
+Suggested Citation:
+
+Bebchuk, Alon and Jackson, Jr., Robert J., The Rise of Corporate Governance (October 17, 2016). Available at SSRN: https://ssrn.com/abstract=2853768
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+449
+ABSTRACT VIEWS
+2,193
+RANK
+147,479
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

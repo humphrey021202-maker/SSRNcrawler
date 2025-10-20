@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Antitakeover Statutes and Internal Corporate Governance
+
+Corporate Governance: An International Review, Forthcoming
+
+56 Pages Posted: 10 Dec 2015
+
+Choonsik Lee
+
+University of Rhode Island
+
+Kee H. Chung
+
+State University of New York at Buffalo - School of Management
+
+Date Written: December 8, 2015
+
+Abstract
+
+Manuscript Type: Empirical
+
+Research Question/Issue: This paper examines the relation between internal corporate governance and the market for corporate control by analyzing how firms’ internal governance mechanisms are related to states’ antitakeover statutes (ATS). Specifically, we test two competing hypotheses concerning the effect of ATS on internal governance: the substitution hypothesis and the complementarity hypothesis.
+
+Research Findings/Insights: We provide evidence that is consistent with the complementarity hypothesis that exposure to a possible takeover increases rather than decreases the need for better internal governance mechanisms. Specifically, firms that are exposed to takeover threats (i.e., firms in states without ATS or firms that opt out of states’ ATS) have stronger internal governance mechanisms (i.e., adopt a greater number of governance standards) than do firms that are not exposed to takeover threats (i.e., firms in states with ATS). In a similar vein, firms adopt more internal governance standards when states abolish existing ATS.
+
+Theoretical/Academic Implications: Although prior research suggests that exposure to takeover threats reduces managerial entrenchment through its disciplinary effect, our study provides evidence that exposure to a possible takeover could exacerbate the managerial myopia problem and that firms mitigate this problem through internal governance mechanisms. The results of the present study suggest that certain governance mechanisms (e.g., state-level ATS) are more effective in addressing the agency problem in the presence of other complementary governance mechanisms (e.g., firm-level governance standards), contributing to the growing literature that calls attention to the importance of viewing various governance mechanisms from a bundle perspective. In addition, our study contributes to the literature with a new identification strategy. Our identification strategy makes use of the fact that firms would not be subject to the same shock from the abolition of ATS if they had already opted out, which enables us to analyze the relation between ATS and internal governance mechanisms more accurately. This identification strategy may benefit future studies that consider state-level changes in ATS to be exogenous shocks.
+
+Practitioner/Policy Implications: Our study provides empirical evidence concerning the complex ramifications of states’ antitakeover statutes for corporate governance that policymakers and market regulators should consider in their decision-making. The complementarity, particularly between state-level laws and firm-level board functions, may deserve better attention from policymakers, regulators, and corporate managers.
+
+Keywords: Corporate Governance, Antitakeover Statutes, Internal Monitoring
+
+JEL Classification: G30, G34
+
+Suggested Citation:
+
+Lee, Choonsik and Chung, Kee H., Antitakeover Statutes and Internal Corporate Governance (December 8, 2015). Corporate Governance: An International Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2700830
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+A Agrawal , C R Knoeber
+Managerial compensation and the threat of takeover
+Journal of Financial Economics , volume 47 , p. 219 - 239 Posted: 1998
+Crossref
+R V Aguilera , K A Desender , L R Kabbach De Castro
+A bundle perspective to comparative corporate governance. The SAGE Handbook of Corporate Governance , p. 379 - 405 Posted: 2012
+R V Aguilera , I Filatotchev , H Gospel , G Jackson
+An organizational approach to comparative corporate governance: Costs, contingencies, and complementarities
+Organization Science , volume 19 , p. 475 - 492 Posted: 2008
+Crossref
+H Almeida , M Campello
+Financial constraints, asset tangibility, and corporate investment
+Review of Financial Studies , volume 20 , p. 1429 - 1460 Posted: 2007
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+125
+ABSTRACT VIEWS
+1,779
+RANK
+521,283
+37 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

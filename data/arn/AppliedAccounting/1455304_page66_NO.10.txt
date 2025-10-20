@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Constructing Consistent Financial Planning Models for Valuation
+
+IIMS Journal of Management of Science, Vol. 1, January-June 2010 (Inaugural Issue)
+
+29 Pages Posted: 19 Aug 2009 Last revised: 24 Jun 2012
+
+Ignacio Velez-Pareja
+
+Grupo Consultor CAV Capital Advisory & Valuation
+
+Date Written: August 15, 2009
+
+Abstract
+
+In this work we show a simplified financial planning model. In reality, financial planning models are huge and cumbersome. This is a very simplified model compared with what is found in practice. We present some basic principles for constructing the financial statements needed for valuation. We show in detail all the items of the financial model and show the formulas to be used for constructing the financial planning model. The relevant financial statements are: the Balance Sheet (BS), the Income statement (IS) and the Cash Budget (CB). The construction of the financial statements starts from input data and policies and/or targets (i.e. accounts receivable policy or target). With these targets or policies we can construct the financial statements. The contribution of this work is double: one is to show that we can construct financial statements without the use of plugs and circularity and the second is that we can use a very simple approach to construct cash flows and to value them. The model shown has two parts. One is the proper financial statements forecast. The second one is a simple cash flow calculation and valuation exercise using the Capital Cash Flow and assuming the risk of the tax savings equal to Ku, the cost of unlevered equity.
+
+Keywords: Accounting, Forecasting Financial Statements, Decision Making, plugs, Planning and control, double entry principle, unbalancing problem, cash flows, firm valuation, cost of unlevered equity
+
+JEL Classification: D60, E47, G31, H43
+
+Suggested Citation:
+
+Velez-Pareja, Ignacio, Constructing Consistent Financial Planning Models for Valuation (August 15, 2009). IIMS Journal of Management of Science, Vol. 1, January-June 2010 (Inaugural Issue), Available at SSRN: https://ssrn.com/abstract=1455304
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+Simon Benninga
+Conference: Teaching of Finance with Excel
+Guest Speaker in 4 th National and 1 st International Symposium for the Teaching in Finance Posted: 2007-06-20
+Simon Benninga
+Principles of Finance with Excel Posted: 2006
+Crossref
+Richard Brealey , Stewart C Myers
+Principles of Corporate Finance, 7 Posted: 2003
+F Modigliani , M Miller
+The Cost of Capital, Corporation Finance and the Theory of Investment
+American Economic Review , volume 48 , issue 3 , p. 261 - 297 Posted: 1958
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,555
+ABSTRACT VIEWS
+8,265
+RANK
+27,499
+9 References
+PlumX Metrics
+Related eJournals
+
+Finance Education eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Recommended Papers
+
+Return to Basics: Are You Properly Calculating Tax Shields?
+
+By Ignacio Velez-pareja
+
+Cost of Capital When Dividends are Deductible
+
+By Ignacio Velez-pareja and Julián Benavides Franco
+
+Risky Tax Shields and Risky Debt: A Monte Carlo Approach
+
+By Ignacio Velez-pareja
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

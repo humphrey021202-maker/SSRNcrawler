@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Consumer Bankruptcy Audits
+
+84 Pages Posted: 12 Dec 2024
+
+Fabian Nagel
+
+Stanford University
+
+Date Written: October 12, 2024
+
+Abstract
+
+Bankruptcy insures consumers against large and unexpected wealth shocks. However, debtors may abuse this insurance. Indeed, close to 20% of consumer bankruptcy filings contain at least one material misstatement. I exploit the conditionally random assignment of audits to estimate the effect of mandatory audits on debt forgiveness in consumer bankruptcy. I find that audits reduce debt forgiveness, but only when alternative oversight is low (Chapter 7). Audits come at the cost of increased case complexity for filers, deteriorating the long-run financial health of unsophisticated filers. Generally, audits drive a reallocation of debt relief from non-compliers and misreporters to truthful filers. Aggregate calculations show that the reduction in debt forgiveness due to misstatements and deterrence exceeds the direct cost of increasing the audit rate when oversight is low. Reductions in debt relief due to deterrence exceed reductions due to identified misstatements twofold.
+
+Keywords: Consumer Credit, Consumer Bankruptcy, Audits
+
+Suggested Citation:
+
+Nagel, Fabian, Consumer Bankruptcy Audits (October 12, 2024). Available at SSRN: https://ssrn.com/abstract=4991384 or http://dx.doi.org/10.2139/ssrn.4991384
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A Abadie , J Spiess
+Robust post-matching inference
+Journal of the American Statistical Association , volume 117 , issue 538 , p. 983 - 995 Posted: 2022
+J Abeler , D Nosenzo , C Raymond
+Preferences for truth-telling
+Econometrica , volume 87 , issue 4 , p. 1115 - 1153 Posted: 2019
+M Adelino , M A Ferreira , M Oliveira
+The heterogeneous effects of household debt relief Posted: 2024
+A Advani , W Elming , J Shaw
+The dynamic effects of tax audits
+Review of Economics and Statistics , p. 1 - 45 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+163
+ABSTRACT VIEWS
+807
+RANK
+420,501
+31 References
+PlumX Metrics
+Related eJournals
+
+Forensic Accounting eJournal
+
+Follow
+
+Household Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

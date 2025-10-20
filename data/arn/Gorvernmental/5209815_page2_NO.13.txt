@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Towards a Data-Driven Public Sector Audit: from the Number to a Digital Age
+
+14 Pages Posted: 6 May 2025
+
+Renan Sousa
+
+Brazilian Federal Court of Accounts
+
+Aroldo Cedraz
+
+Brazilian Federal Court of Accounts
+
+Date Written: April 17, 2024
+
+Abstract
+
+The audit work of Supreme Audit Institutions (SAIs) in the public sector is pivotal for democracy, fostering transparency, accountability, and good governance. This literature review explores the evolution of public sector auditing, from its mathematical foundations to modern technological advancements. It highlights the need for a new audit paradigm centered on data, amidst the pervasive digital transformation and the rise of artificial intelligence. Our findings underscore a lack of research on integrating emerging technologies into public sector auditing and emphasize the challenges in adopting a data-driven approach. This study expands existing literature by addressing these issues and proposing future research directions.
+
+Keywords: public sector audit, mathematics, artificial intelligence, big data, blockchain, data analytics, digital transformation
+
+Suggested Citation:
+
+Sousa, Renan and Cedraz, Aroldo, Towards a Data-Driven Public Sector Audit: from the Number to a Digital Age (April 17, 2024). Available at SSRN: https://ssrn.com/abstract=5209815 or http://dx.doi.org/10.2139/ssrn.5209815
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+51
+ABSTRACT VIEWS
+247
+RANK
+923,699
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

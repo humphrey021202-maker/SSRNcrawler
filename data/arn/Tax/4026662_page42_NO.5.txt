@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Purchase - $8
+CEPR Subscribers Download
+ Add Paper to My Library
+Share:    
+Optimal Taxation with Multiple Incomes and Types
+
+CEPR Discussion Paper No. DP16797
+
+57 Pages Posted: 4 Feb 2022
+
+Etienne Lehmann
+
+Université Paris II - Panthéon-Assas - ERMES
+
+Sander Renes
+
+Erasmus University Rotterdam (EUR)
+
+Kevin Spiritus
+
+KU Leuven; Erasmus University Rotterdam (EUR) - Erasmus School of Economics (ESE)
+
+Floris Zoutman
+
+NHH Norwegian School of Economics
+
+There are 4 versions of this paper
+
+Date Written: December 2021
+
+Abstract
+
+We analyze the optimal nonlinear income tax schedule when taxpayers earn multiple incomes and differ along many unobserved dimensions. We derive the necessary conditions for the government's optimum using both a tax perturbation and a mechanism design approach, and show that both methods produce the same results. Our main contribution is to propose a numerical method to find the optimal tax schedule. Applied to the optimal taxation of couples, we find that optimal isotax curves are very close to linear and parallel. The slope of isotax curves is strongly affected by the relative tax-elasticity of male and female income. We make several additional contributions, including a test for Pareto efficiency and a condition on primitives that ensures the government's necessary conditions are sufficient and the solution to the problem is unique.
+
+Keywords: Household Income Taxation, multidimensional screening, Nonlinear Optimal Taxation
+
+JEL Classification: D82, H21, H23, H24
+
+Suggested Citation:
+
+Lehmann, Etienne and Renes, Sander and Spiritus, Kevin and Spiritus, Kevin and Zoutman, Floris, Optimal Taxation with Multiple Incomes and Types (December 2021). CEPR Discussion Paper No. DP16797, Available at SSRN: https://ssrn.com/abstract=4026662
+Purchase - $8
+CEPR Subscribers Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+7
+ABSTRACT VIEWS
+407
+PlumX Metrics
+Related eJournals
+
+CEPR Discussion Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+
+
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Disclosure Substitution
+
+Management Science, forthcoming
+
+41 Pages Posted: 23 May 2018 Last revised: 14 Feb 2022
+
+Mirko Stanislav Heinle
+
+University of Pennsylvania - Accounting Department
+
+Delphine Samuels
+
+University of Chicago -- Booth School of Business
+
+Daniel J. Taylor
+
+The Wharton School, University of Pennsylvania
+
+Date Written: January 22, 2022
+
+Abstract
+
+This study develops and tests a simple model of voluntary disclosure where managers can choose to withhold (i.e., redact) certain elements from mandatory disclosure. We consider a setting where mandatory disclosure is a disaggregated disclosure (e.g., a financial statement), voluntary disclosure is an aggregate disclosure (e.g., an earnings forecast), and the costs of each type of disclosure are distinct. In this setting, we show that managers endogenously substitute between the two types of disclosure—managers that chose to withhold information from mandatory disclosure are more likely to provide voluntary disclosure. We test our predictions using a comprehensive sample of mandatory disclosures where the SEC allows the firm to redact information that would otherwise jeopardize its competitive position. Consistent with our predictions, we find strong evidence that redacted mandatory disclosure is associated with greater voluntary disclosure.
+
+Suggested Citation:
+
+Heinle, Mirko Stanislav and Samuels, Delphine and Taylor, Daniel, Disclosure Substitution (January 22, 2022). Management Science, forthcoming, Available at SSRN: https://ssrn.com/abstract=3173664 or http://dx.doi.org/10.2139/ssrn.3173664
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+C Armstrong , J Kepler , D Samuels , D Taylor
+The Evolution of Empirical Methods in Accounting Research and the Growth of Quasi-Experiments Posted: 2021
+M Bagnoli , S Watts
+Financial reporting and supplemental voluntary disclosures
+Journal of Accounting Research , volume 45 , issue 5 , p. 885 - 913 Posted: 2007
+K Balakrishnan , J Blouin , W Guay
+Does tax aggressiveness reduce corporate transparency? The Accounting Review, forthcoming Posted: 2018
+D Bao , Y Kim , L Su
+Do firms redact information from material contracts to conceal bad news? The Accounting Review, forthcoming Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,795
+ABSTRACT VIEWS
+7,070
+RANK
+22,049
+8 Citations
+51 References
+PlumX Metrics
+Related eJournals
+
+The Wharton School, University of Pennsylvania Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

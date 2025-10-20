@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Concepts-Based Accounting Standards
+
+35 Pages Posted: 13 Sep 2019 Last revised: 10 May 2021
+
+Mark Penno
+
+University of Iowa - Department of Accounting
+
+Date Written: May 10, 2021
+
+Abstract
+
+While comparability across firms and consistency over time are generally held to be fundamental goals of financial reporting, I provide an analytic representation of a concept that explains why concepts-based accounting standards cannot assure comparability and why their induced consistency may not always be desirable. While the term, concepts-based accounting standards, has not caught on in the academic and professional literatures, its use here emphasizes the foundational role that language-based concepts play in constructing accounting standards. I appeal to the academic literature in machine learning, neural networks and especially cognitive science – all of which may represent concepts by S-curve (sigmoid) signatures. I then show how S-curves can explain an accounting standard’s (1) precision, (2) comparability across firms, (3) demands placed on judgment, and (4) consistency across time. Accordingly, an S-curve formulation may guide both analytical modelling of accounting standards and add structure to empirical research designs..
+
+Keywords: Concepts-based standards, S-curve; Consistency; Comparability; Hysteresis.
+
+JEL Classification: M4
+
+Suggested Citation:
+
+Penno, Mark C., Concepts-Based Accounting Standards (May 10, 2021). Available at SSRN: https://ssrn.com/abstract=3448562 or http://dx.doi.org/10.2139/ssrn.3448562
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+AAA Financial Accounting Standards Committee
+Crossref
+E Bartov , P Fairfield , D Hirst , T Iaanaconi , R Mallett , C Schrand , D Skinner , L Vincent
+Evaluating Concepts-Based vs. Rules-Based Approaches to Standard Setting, Accounting Horizons Posted: 2003-03
+C Agoglia , T Doupnik , T Tsakumis
+Principles-Based versus Rules-Based Accounting Standards: The Influence of Standard Precision and Audit Committee Strength on Financial Reporting Decisions
+The Accounting Review , volume 86 , p. 747 - 767 Posted: 2011
+Crossref
+AICPA, Reports on Audited Financial Statements; Statement on Auditing Standards , volume 58 Posted: 1988
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+198
+ABSTRACT VIEWS
+1,693
+RANK
+350,748
+67 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

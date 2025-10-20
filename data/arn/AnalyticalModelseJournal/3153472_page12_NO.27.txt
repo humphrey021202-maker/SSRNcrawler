@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Timing of Information Acquisition and Decision Making on New Product Development Under Decentralized Organization
+
+16 Pages Posted: 17 Apr 2018
+
+Yasuhiro Mazda
+
+Tohoku University - Graduate School of Economics & Management
+
+Date Written: March 31, 2018
+
+Abstract
+
+When an investment is in goodwill, a divisional performance measurement based on residual income is subject to what is included in assets, as IFRS requires.
+
+Especially in case the project may be shut down on its way, investment base for the calculation of residual income measures is dependent of the continuation decision on such projects.
+
+I investigate residual income performance measure and capital charge rate in the situation where there may be continuation decision on a project whose prospect looks bad.
+
+In the analysis of this problem, I compare two schemes on continuation decision on such a project in a bad condition: deliberate scheme under which the manager can refer more detailed but delyed information; precommitment scheme under which the manager makes a prompt decision without any further relevant information.
+
+Under deliberate scheme, capital charge rate plays a role of controlling a continuation decision but decreases the incentive of additional expenditure. Under precommitment scheme, capital charge rate has neither role nor negative effect but causes any project in a bad condition to be continued.
+
+Which scheme is more desirable depends on two parameters: return when a project fails and principal's opportunity loss caused by continuation of a failed project.
+
+In an extended model, I investigate influence of noisy signals and show that the validity of conservative accounting system depends on the principal's opportunity loss.
+
+Keywords: Capital charge, Goodwill, Performance measurement, Residual income
+
+JEL Classification: M41, M21, M12
+
+Suggested Citation:
+
+Mazda, Yasuhiro, Timing of Information Acquisition and Decision Making on New Product Development Under Decentralized Organization (March 31, 2018). Available at SSRN: https://ssrn.com/abstract=3153472 or http://dx.doi.org/10.2139/ssrn.3153472
+Download This Paper
+ 
+Open PDF in Browser
+2 References
+M Dewatripont , E Maskin
+Credit and Efficiency in Centralized and Decentralized Economies
+Review of Economic Studies , volume 62 , issue 4 , p. 541 - 555 Posted: 1995
+Crossref
+C T Horngren , S Datar , M Rajan
+Cost Accounting: A Managerial Emphasis Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+88
+ABSTRACT VIEWS
+1,499
+RANK
+672,649
+2 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

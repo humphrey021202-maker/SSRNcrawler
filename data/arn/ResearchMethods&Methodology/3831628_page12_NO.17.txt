@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Effects of Earning Manipulation, Strength of Financial Position and Financial Distress on Firm Value (Case of Listed Manufacturing Firms in Indonesia)
+
+International Journal of Innovation, Creativity and Change, Volume 12, Issue 8, 2020
+
+13 Pages Posted: 30 Apr 2021
+
+Armanto Witjaksono
+
+Bina Nusantara University (BINUS) - Faculty of Economics
+
+Date Written: June 24, 2020
+
+Abstract
+
+Financial accounting information is often used by researchers and investors to measures firms value. The objective of this research is to investigate whether earning manipulation, strength of financial position and financial distress effect firm value. In this research earning manipulation is measured using Beneish M-Score, strength of financial position is measured using Piotroski F - Score, Financial distress measured using Altmann Z-score, and firm value is measured using Price Book Value (PBV). We used 125 observations from publicly listed manufacturing companies in Indonesia Stock Exchange (Bursa Efek Indonesia) in 2014, 2015, and 2016. Our research uses panel data analysis, and as the hypothesis test using E-VIEW. Results of our research show that only financial distress influences firm value. However, all independent variables simultaneously influence firm value. This finding also indicates that financial distress is more important than the other earning manipulation and strength of financial position in determining firm value.
+
+Keywords: Beneish M-Score, Piotroski F-Score, Altmann Z-score, Firm Value
+
+Suggested Citation:
+
+Witjaksono, Armanto, Effects of Earning Manipulation, Strength of Financial Position and Financial Distress on Firm Value (Case of Listed Manufacturing Firms in Indonesia) (June 24, 2020). International Journal of Innovation, Creativity and Change, Volume 12, Issue 8, 2020, Available at SSRN: https://ssrn.com/abstract=3831628
+Download This Paper
+ 
+Open PDF in Browser
+8 References
+E Altman , R G Haldeman , P Narayanan
+ZETA analysis: A new Model to identify bankruptcy risk of corporations
+Journal of Banking and Finance , p. 19 - 54 Posted: 1997
+Crossref
+E I Altman
+Discriminant Analysis and The Prediction of Corporate Bankruptcy
+The Journal of Finance , volume 23 , p. 589 - 609 Posted: 1969
+Crossref
+Edward I. Altman , Malgorzata Iwanicz-Drozdowska , Erkki K. Laitinen , Arto Suvas
+Distressed Firm and Bankruptcy Prediction in an International Context: A Review and Empirical Analysis of Altman's Z-Score Model
+Pages: 47 Posted: 11 Dec 2014
+Download PDF  Add Paper to My Library
+M D Beneish
+The Detection of Earning Manipulations Posted: 1999-10
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+209
+ABSTRACT VIEWS
+868
+RANK
+333,065
+8 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

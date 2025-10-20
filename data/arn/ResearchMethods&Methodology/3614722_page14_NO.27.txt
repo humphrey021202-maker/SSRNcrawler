@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Earnings Beta
+
+Review of Accounting Studies, 2021, 26 (1), 81-122
+
+49 Pages Posted: 8 Jun 2020 Last revised: 29 Apr 2021
+
+Atif Ellahie
+
+University of Utah - David Eccles School of Business
+
+There are 2 versions of this paper
+
+Date Written: July 1, 2020
+
+Abstract
+
+The literature on ‘cash flow’ or ‘earnings’ beta is theoretically well-motivated in its use of fundamentals, instead of returns, to measure systematic risk. However, empirical measures of earnings beta based on either log-linearizing the return equation or log-linearizing the clean-surplus accounting identity are often difficult to construct. I construct simple earnings betas based on various measures of realized and expected earnings, and find that an earnings beta based on price-scaled expectations shocks performs consistently well in explaining the cross-section of returns over 1981–2017. I also examine the relation between different measures of beta and several firm characteristics that are either theoretically connected to systematic risk or are empirically associated with returns, and find evidence in support of the construct validity of an earnings beta based on price-scaled expectations shocks. Overall, the findings suggest that this easy-to-construct earnings beta can be suitable for future researchers requiring a measure of systematic risk.
+
+Keywords: cash flow beta, earnings beta, systematic risk, expected returns, aggregate earnings
+
+JEL Classification: G10, G12, M41
+
+Suggested Citation:
+
+Ellahie, Atif, Earnings Beta (July 1, 2020). Review of Accounting Studies, 2021, 26 (1), 81-122, Available at SSRN: https://ssrn.com/abstract=3614722 or http://dx.doi.org/10.2139/ssrn.3614722
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+396
+ABSTRACT VIEWS
+1,887
+RANK
+137,014
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

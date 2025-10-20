@@ -1,0 +1,160 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Spiderweb of Partnership Tax Structures
+
+Stanford University Graduate School of Business Research Paper No. 4998604
+
+63 Pages Posted: 21 Nov 2024
+
+Ryan Hess
+
+University of Georgia - Terry College of Business
+
+Emily Black
+
+New York University (NYU) - New York University
+
+Zaynah Javed
+
+Stanford University
+
+Jonathan Hennessy
+
+Stanford University
+
+Rebecca Lester
+
+Stanford Graduate School of Business
+
+Jacob Goldin
+
+University of Chicago - Law School
+
+Daniel E. Ho
+
+Stanford Law School
+
+Annette Portz
+
+Government of the United States of America - Internal Revenue Service (IRS)
+
+Date Written: September 06, 2024
+
+Abstract
+
+U.S. partnerships control more than $40 trillion in assets, vastly outnumber U.S. public firms, and contribute significantly to the U.S. tax non-compliance of pass-through entities, which is larger than the non-compliance of publicly traded corporations. However, the prior literature provides extremely little evidence explaining the pervasive use of such entities and which specific characteristics enable the lightly taxed nature of partnership business income. Using administrative U.S. tax data, we first create graphical organizational structures by tracing income through millions of partnership entities. We show that 80 percent of partnership groups are simple structures composed of one single partnership owned directly by individual taxpayers. In contrast, the most complex structures resemble "webs," characterized by multiple tiers of ownership and clusters of overlapping partners. Second, we determine the entity attributes associated with partnerships developing into complex organizations. Third, conditional on being selected for audit, complex partnerships are four percent less likely to be assessed additional tax, but the amount of assessments is larger. Fourth, we show that complex partnership audits have a high return-on-investment, generating $20 of assessments for each $1 spent, which is a rate over eight times that for corporations. Thus, beyond adding to the nascent literature explaining the prevalent use of partnerships, we provide new insights about the under-reporting of tax on U.S. business income and quantify the potentially large increases in tax revenue collection that could be obtained from increased enforcement of complex partnership businesses.
+
+Keywords: Private firms, partnerships, tax noncompliance JEL Codes: H24
+
+Declaration of Interest
+
+One co-author is employed by the IRS, which provided data for the project.
+
+Funder Statement
+
+The research is funded by the Stanford Impact Labs, as well as by a grant from Arnold Ventures.
+
+JEL Classification: H24, H25, D85, M48
+
+Suggested Citation:
+
+Hess, Ryan and Black, Emily and Javed, Zaynah and Hennessy, Jonathan and Lester, Rebecca and Goldin, Jacob and Ho, Daniel E. and Portz, Annette, The Spiderweb of Partnership Tax Structures (September 06, 2024). Stanford University Graduate School of Business Research Paper No. 4998604, Available at SSRN: https://ssrn.com/abstract=4998604 or http://dx.doi.org/10.2139/ssrn.4998604
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+Ashish Agarwal , Shannon Chen , Lillian F Mills
+Entity Structure and Taxes: An Analysis of Embedded Pass-Through Entities
+The Accounting Review , volume 96 , issue 6 , p. 1 - 27 Posted: 2021
+Kristian D Allee , Teri Lombardi Yohn
+The demand for financial statements in an unregulated environment: An examination of the production and use of financial statements by privately held small businesses
+The Accounting Review , volume 84 , issue 1 , p. 1 - 25 Posted: 2009
+Eric J Allen , Sharat Jeffrey C Allen , David H Raghavan , Solomon
+On the tax efficiency of startup firms
+Review of Accounting Studies , volume 28 , p. 1887 - 1928 Posted: 2023
+Michael G Allingham , Agnar Sandmo
+Income tax evasion: A theoretical analysis
+Journal of public economics , volume 1 , p. 323 - 338 Posted: 1972
+Load more
+1 Citations
+Richard Cole Campbell , Jacob A. Robbins
+The value of private business in the United States
+Journal of Public Economics , volume 249 , p. 105466 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+375
+ABSTRACT VIEWS
+1,171
+RANK
+181,327
+1 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Stanford Graduate School of Business Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

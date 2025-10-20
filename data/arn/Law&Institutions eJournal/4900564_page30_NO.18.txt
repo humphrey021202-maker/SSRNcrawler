@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+ETFs and the Wash Sale Loophole
+
+54 Pages Posted: 31 Jul 2024 Last revised: 13 Jun 2025
+
+Michael Dambra
+
+University at Buffalo (SUNY) - School of Management
+
+Andrew Glover
+
+University of Washington - Michael G. Foster School of Business
+
+Charles M.C. Lee
+
+Foster School of Business, University of Washington; Stanford University - Graduate School of Business
+
+Phillip J. Quinn
+
+University of Washington Foster School of Business
+
+Date Written: June 13, 2025
+
+Abstract
+
+Tax wash sale rules prohibit the recognition of capital losses when substantially identical securities are sold and immediately repurchased within short windows. This study examines whether institutional investors use ETFs to circumvent wash sale rules. Consistent with tax-motivated demand for ETFs, incumbent ETFs both create more shares and experience more trading volume upon the introduction of nearly identical ETFs, particularly when recent returns are negative. We show tax-sensitive institutions’ investment in highly correlated ETFs has proliferated in recent years, exceeding a quarter of their AUM. Furthermore, tax-sensitive institutions holding more ETFs are significantly more likely to engage in swapping nearly identical ETFs. This swapping behavior has become widespread, with tax-sensitive institutional investors swapping $417 billion of nearly identical ETFs since 2001. We estimate that tax-sensitive institutions realized more than $84 billion dollars in losses in highly correlated ETFs associated with the swapping activity since 2001.
+
+Keywords: Exchange-traded funds, Wash Sale Rule, Institutional Investors, Personal Taxes, Internal Revenue Service
+
+Suggested Citation:
+
+Dambra, Michael and Glover, Andrew and Lee, Charles M.C. and Quinn, Phillip J., ETFs and the Wash Sale Loophole (June 13, 2025). Available at SSRN: https://ssrn.com/abstract=4900564
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+A Agapova
+Conventional mutual index funds versus exchange-traded funds
+Journal of Financial Markets , volume 14 , issue 2 , p. 323 - 343 Posted: 2011
+A C Baker , D F Larcker , C C Wang
+How much should we trust staggered difference-indifferences estimates?
+Journal of Financial Economics , volume 144 , issue 2 , p. 370 - 395 Posted: 2022
+B M Barber , T Odean
+Are individual investors tax savvy? Evidence from retail and discount brokerage accounts
+Journal of Public Economics , volume 88 , issue 1-2 , p. 419 - 442 Posted: 2004
+I Ben-David , F Franzoni , R Moussawi
+Exchange-traded funds
+Annual Review of Financial Economics , volume 9 , p. 169 - 189 Posted: 2017
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+566
+ABSTRACT VIEWS
+5,894
+RANK
+111,454
+59 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Integrated Financial and Real System of National Accounts for the United States: Does it Presage the Financial Crisis?
+
+NBER Working Paper No. w14663
+
+17 Pages Posted: 25 Jan 2009 Last revised: 27 Jul 2022
+
+Michael Palumbo
+
+Board of Governors of the Federal Reserve System
+
+Jonathan A. Parker
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management; National Bureau of Economic Research (NBER)
+
+Date Written: January 2009
+
+Abstract
+
+The initial implementation of the System of National Accounts (1993) for the United States by the Bureau of Economic Analysis and the Federal Reserve Board has two significant advantages for economists. First, the SNA are organized according to sectors of the economy defined by economic agents: firms, financial institutions, consumers, governments and the rest of the world. Second, the accounts integrate real and financial information, so that one can track not only production of, income from, and use of output, but also net lending, net borrowing, and net worth by sector. We exploit these two features in the SNA accounts to examine US economic history leading up to the financial crisis of 2007 and recession of 2008. First, the SNA data show recent increases in leverage in the household sector. We track the household shift to a net lending position through the capital and current accounts of the household sector and then the other SNA sectors. Second, in the financial businesses sector, the accounts largely miss the rise in exposure to the US housing market as well as the critical factors that significantly spread and amplified the housing-market related changes throughout the financial system and the real economy. Finally we present three ways in which SNA-type accounts could be improved to presage a similar future crisis.
+
+Suggested Citation:
+
+Palumbo, Michael G. and Parker, Jonathan A., The Integrated Financial and Real System of National Accounts for the United States: Does it Presage the Financial Crisis? (January 2009). NBER Working Paper No. w14663, Available at SSRN: https://ssrn.com/abstract=1332602
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+Adrian , Tobias , Hyun Song Shin , Forthcoming
+Liquidity and Leverage
+Journal of Financial Intermediation
+David Bowman , Daniel Covitz
+Foundations of the Financial Market Turmoil Posted: 2008
+Markus K Brunnermeier , Forthcoming
+Organization for Economic Co-Operation and Development, United Nations, and the World Bank
+System of National Accounts Posted: 1993
+Albert M Teplin , Rochelle Antoniewicz , Susan Hume Mcintosh , Michael G Palumbo , Genevieve Solomon , Charles , Ian Mead , Karin Moses , Brent Moulton , Dale W Jorgenson , J Steven Landefeld , William D Nordhaus
+Integrated Macroeconomic Accounts for the United States: Draft SNA-USA
+A New Architecture for the US National Accounts , p. 471 - 540 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+67
+ABSTRACT VIEWS
+1,258
+RANK
+792,195
+2 Citations
+4 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+History of Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Illiquidity and Stock Returns: Cross-Section and Time-Series Effects
+
+By Yakov Amihud
+
+Liquidity Risk and Expected Stock Returns
+
+By Lubos Pastor and Robert F. Stambaugh
+
+Liquidity Risk and Expected Stock Returns
+
+By Lubos Pastor and Robert F. Stambaugh
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

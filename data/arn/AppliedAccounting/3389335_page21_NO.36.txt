@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Curious Case of Section 461(l): Why This Unclear and Unwise New Rule Should Be Construed as Narrowly as Possible
+
+The Tax Lawyer, Vol. 73, No. 1, pp 61-164, Fall 2019
+
+104 Pages Posted: 21 May 2019 Last revised: 5 Dec 2019
+
+Steven Z. Hodaszy
+
+Robert Morris University
+
+Date Written: May 16, 2019
+
+Abstract
+
+Section 461(l) is one of the more curious provisions of the sweeping Tax Cuts and Jobs Act that was enacted at the end of 2017. Section 461(l) prohibits owners of non-C-corporation businesses from offsetting trade-or-business losses above a certain threshold against nonbusiness income in the taxable year of the loss. Under the new rule, such “excess business losses” are instead carried over to the next taxable year as a net operating loss. The “excess” losses that section 461(l) disallows are active business losses—that is, losses borne by material participants in the business in question. This marks a significant change from prior law, under which active business losses were generally deductible against nonbusiness income without limit. In the first instance, section 461(l) is curious because it introduces a substantial new tax burden on small-business owners—in direct contradiction to Congress’s oft-stated goal of supporting small business. What makes the new loss limitation even more perplexing is that it serves no useful policy purpose whatsoever. Instead, section 461(l)’s excess-business-loss limitation violates a foundational income tax precept by preventing a taxpayer from netting all of the costs of producing income against gross receipts. In so doing, the new rule causes such a taxpayer to be taxed on an amount greater than her economic income. Indeed, in some cases, it requires a taxpayer to pay federal income tax even though she incurs an economic loss for the year. On top of all that, there are myriad ambiguities in section 461(l)’s language, which make it nearly impossible to tell how the rule actually works in a number of situations. After describing the basic mechanics of section 461(l), this Article examines in detail the most significant interpretive uncertainties that plague the provision. Next, the Article explains why section 461(l) is bad public policy. Ultimately, the Article argues that section 461(l) should be repealed as soon as possible—but it also recognizes that an immediate repeal of the provision may be politically unlikely. Thus, in the meantime, the Article suggests specific interpretations that would resolve section 461(l)’s ambiguities and apply the excess-business-loss limitation as narrowly as possible. Adopting the interpretations proposed herein would not be enough to solve all of the problems inherent in section 461(l). Only a complete repeal could do that. But adopting the narrowest reasonable construction of the provision will at least limit the harm that the misguided new rule can do for so long as it remains in effect.
+
+©2019. Published in The Tax Lawyer, Vol. 73, No. 1, Fall 2019, by the American Bar Association. Reproduced with permission. All rights reserved. This information or any portion thereof may not be copied or disseminated in any form or by any means or stored in an electronic database or retrieval system without the express written consent of the American Bar Association or the copyright holder.
+
+
+Keywords: Tax, TCJA, Section 461(l), Excess Business Loss
+
+Suggested Citation:
+
+Hodaszy, Steven Z., The Curious Case of Section 461(l): Why This Unclear and Unwise New Rule Should Be Construed as Narrowly as Possible (May 16, 2019). The Tax Lawyer, Vol. 73, No. 1, pp 61-164, Fall 2019, Available at SSRN: https://ssrn.com/abstract=3389335 or http://dx.doi.org/10.2139/ssrn.3389335
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+Moreover, even the pre-TCJA limitation on excess farm losses under section 461(j) is arguably directed-at least in part-at deterring tax shelter activity. See supra notes 323-324 and accompanying text
+Starczewski &amp; Booken
+Prior to the enactment of section 461(l), "a taxpayer could deduct active business losses against nonbusiness income (as long as the other loss deduction limitations (e.g., basis, at-risk) did not apply) , volume 17
+&amp; Chirelstein , Zelenak
+at Posted: 1951
+Hymel
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+396
+ABSTRACT VIEWS
+3,799
+RANK
+170,582
+1 Citations
+50 References
+PlumX Metrics
+Related eJournals
+
+Tax Law & Policy eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

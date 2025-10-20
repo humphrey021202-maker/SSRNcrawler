@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of AI Chatbots like ChatGPT on Sarbanes-Oxley (SOX) Compliance
+
+6 Pages Posted: 30 Oct 2023
+
+Faraz Akhtar
+
+Georgia Institute of Technology - School of Public Policy
+
+Date Written: October 2, 2023
+
+Abstract
+
+The emergence of chatbots, notably advanced models like ChatGPT, has ushered in a paradigm shift across an array of industries, encompassing finance, customer service, and education. This research endeavors to meticulously investigate the ramifications of these chatbots on the realm of Sarbanes-Oxley (SOX) compliance, a foundational U.S. federal law instrumental in enforcing rigorous reforms to enhance the accuracy and transparency of financial disclosures within corporations. Our study is poised to unveil the multifaceted facets of integrating chatbots into the tapestry of SOX compliance processes. In an era defined by relentless technological innovation, businesses are increasingly turning to artificial intelligence-driven conversational agents as potential catalysts for streamlining compliance efforts. This inquiry is geared towards dissecting the potential advantages that such integration might yield, while also taking a critical look at the attendant challenges and broader implications. By scrutinizing the intricate interplay between advanced chatbots and SOX compliance, we aim to contribute substantive insights to the ongoing discourse surrounding the evolving dynamics of regulatory adherence in corporate environments.
+
+Keywords: Chatbots, ChatGPT, Sarbanes-Oxley (SOX) compliance, regulatory reforms, financial disclosures, artificial intelligence, corporate governance, automation, regulatory impact.
+
+Suggested Citation:
+
+Akhtar, Faraz, The Impact of AI Chatbots like ChatGPT on Sarbanes-Oxley (SOX) Compliance (October 2, 2023). Available at SSRN: https://ssrn.com/abstract=4589571 or http://dx.doi.org/10.2139/ssrn.4589571
+Download This Paper
+ 
+Open PDF in Browser
+14 References
+Catherine Shakespeare
+Sarbanes-Oxley Act of 2002 Give Years on: What Have We Learned
+J. Bus. & Tech. L , volume 3 Posted: 2008
+John Montana
+The Sarbanes-Oxley Act: five years later: corporate America still finds SOX compliance requirements to be burdensome, vague, and frustrating
+Information Management Journal , volume 41 , p. 48 - 53 Posted: 2007
+Dongming Guo , Erling Onstein , Angela Daniela , La Rosa
+A semantic approach for automated rule compliance checking in the construction industry
+IEEE Access , volume 9 , p. 129648 - 129660 Posted: 2021
+Glorin Sebastian
+Could incorporating cybersecurity reporting into SOX have prevented most data breaches at US publicly traded companies? An exploratory study
+International Cybersecurity Law Review , volume 3 , p. 367 - 383 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+418
+ABSTRACT VIEWS
+1,499
+RANK
+160,721
+14 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Auditor Type on Audit Quality in Emerging Markets: Evidence From Egypt
+
+El-Dyasty, M.A., & Elamer, A.A., (2020) ‘The effect of auditor type on audit quality in emerging markets: Evidence from Egypt’, International Journal of Accounting & Information Management, Forthcoming, (Accepted 1 August 2020). https://doi.org/10.1108/IJAIM-04-2020-0060
+
+33 Pages Posted: 2 Aug 2019 Last revised: 3 Aug 2020
+
+Mohamed M. El-Dyasty
+
+Mansoura University
+
+Ahmed A. Elamer
+
+Brunel University London - Brunel Business School; Department of Accounting, Faculty of Commerce, Mansoura University
+
+Date Written: August 1, 2020
+
+Abstract
+
+Purpose
+Although a number of studies suggest that big audit firms provide higher audit quality in strict legal environments, empirical evidence remains inconclusive. Since little is known about the effect of auditor type on audit quality in less strictly legal environments, this study aims to investigate the impact of auditor type on audit quality in the Egyptian market.
+Design/methodology/approach
+Data of Egyptian-listed companies during the period 2011-2018 are employed. To examine the impact of auditor type on audit quality, ordinary least square regression and robust standard errors clustered at year and industry level are used. This study employs discretionary accruals as a proxy for audit quality. Several additional analyses are conducted to assess the robustness of the main results, including alternative measures of audit quality and auditor type.
+Findings
+Our results show that audit firms tend to provide higher audit quality when they are affiliated with a foreign audit firm. However, Big 4 auditors do not provide higher audit quality compare to their counterparts. Additionally, the governmental agency, Accountability State Authority (ASA), that monopolize audit function in state-owned companies do not appear to be associated with higher audit quality. Lastly, local audit firms have a negative association with audit quality. This may be their strategy to secure future clients that seek low-quality audits.
+Originality/value
+This study adds to the rare but growing body of literature by investigating how auditor type affects audit quality in the context of less strictly legal environments. Our results are important since investors, standards-setters and regulators have growing concerns over audit quality since the Enron scandal. The findings suggest that audit quality depends on auditor type. These findings have important implications for investors, standards-setters and auditors interested in auditor oversight, audit quality and auditor choice.
+
+Keywords: Audit quality, Big 4, Second-tier auditors, Third tier auditors, Local audit firms, Accountability State Authority
+JEL Classification M42
+
+
+Keywords: Audit quality, Big 4, Second-tier auditors, Third tier auditors, Local audit firms, Accountability State Authority
+
+JEL Classification: M42
+
+Suggested Citation:
+
+El-Dyasty, Mohamed M. and Elamer, Ahmed Ahmed, The Effect of Auditor Type on Audit Quality in Emerging Markets: Evidence From Egypt (August 1, 2020). El-Dyasty, M.A., & Elamer, A.A., (2020) ‘The effect of auditor type on audit quality in emerging markets: Evidence from Egypt’, International Journal of Accounting & Information Management, Forthcoming, (Accepted 1 August 2020). https://doi.org/10.1108/IJAIM-04-2020-0060 , Available at SSRN: https://ssrn.com/abstract=3428707 or http://dx.doi.org/10.2139/ssrn.3428707
+Download This Paper
+ 
+Open PDF in Browser
+74 References
+S Abdallah
+External auditor type, discretionary accruals and investors' reactions
+Journal of Accounting in Emerging Economies , volume 8 , issue 3 , p. 352 - 368 Posted: 2018
+Crossref
+A Abid , M Shaique , M Anwar , Haq
+Do Big Four Auditors Always Provide Higher Audit Quality? Evidence from Pakistan
+International Journal of Financial Studies , volume 6 , issue 58 , p. 1 - 22 Posted: 2018
+Crossref
+E E Abdelhak , A A Elamer , A Alhares , C Mclaughlin
+Auditors' ethical reasoning in developing countries: the case of Egypt
+International Journal of Ethics and Systems , volume 35 , issue 4 , p. 558 - 583 Posted: 2019
+Crossref
+A Alnabsha , H A Abdou , C G Ntim , A A Elamer
+Corporate boards, ownership structures and corporate disclosures: Evidence from a developing country
+Journal of Applied Accounting Research , volume 19 , issue 1 , p. 20 - 41 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+271
+ABSTRACT VIEWS
+1,437
+RANK
+257,421
+3 Citations
+74 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

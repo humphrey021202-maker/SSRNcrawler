@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Delay: Complexity of Company Operations as Moderation Variable
+
+Economics and Business Quarterly Reviews, Vol.6 No.4 (2023)
+
+16 Pages Posted: 16 Jan 2024
+
+Karlina Johansyah
+
+University of Muhammadiyah Malang
+
+Firda Ayu
+
+University of Muhammadiyah Malang
+
+Novitasari Agus Saputri
+
+University of Muhammadiyah Malang
+
+Agung Prasetyo Nugroho Wicaksono
+
+University of Muhammadiyah Malang
+
+Date Written: December 25, 2023
+
+Abstract
+
+Financial statements are the most critical information for the company. Therefore, the submission of financial statements must be timely so that the information provided remains reliable and appropriate. Data on the Indonesia Stock Exchange shows that many companies still submit their financial statements yearly late. This study aims to empirically determine the effect of financial distress, company size, and audit opinion on audit delay, as well as the complexity of company operations as moderating the effect of financial distress, company size, and audit opinion on audit delay. The research method used is the quantitative method. This research was conducted on manufacturing companies listed on the Indonesia Stock Exchange (IDX) from 2018-2022. Samples were taken by 285 companies using purposive sampling techniques. Data collection techniques are using literature study and documentation. The data analysis technique used is a panel data regression model using STATA 14.2 as a data analysis tool. The results of the analysis stated that financial distress and auditor opinion did not affect audit delay, while company size had an impact on audit delay. The complexity of the company's operations can moderate the relationship between audit opinion and audit delay. In contrast, the complexity of the company's operations cannot moderate the relationship between financial distress and company size to money delay.
+
+Keywords: Audit Delay, Financial Distress, Company Size, Audit Opinion, Complexity of Company Operations
+
+Suggested Citation:
+
+Johansyah, Karlina and Ayu, Firda and Saputri, Novitasari Agus and Wicaksono, Agung Prasetyo Nugroho, Audit Delay: Complexity of Company Operations as Moderation Variable (December 25, 2023). Economics and Business Quarterly Reviews, Vol.6 No.4 (2023), Available at SSRN: https://ssrn.com/abstract=4675206
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+I Adiraya , N Sayidah
+Pengaruh Ukuran Perusahaan, Profitabilitas, Solvabilitas, dan Opini Auditor Terhadap Audit Delay [The Influence of Company size, Profitability, Solvency, and Audit Opinion on Audit Delay]
+Jurnal Analisa Akuntansi Dan Perpajakan , volume 2 , issue 2 , p. 99 - 109 Posted: 2018
+A Apriani , S Suharti
+Analisis Faktor-Faktor yang Mempengaruhi Audit Delay Pada Perusahaan LQ45 yang Terdaftar di Bursa Efek Indonesia Periode 2013-2017 [Anlysis of Factors Affecting Audit Delay in LQ45 Companies Listed on the Indonesian Stock Exchange for the 2013-2017 Period]. Kurs : Jurnal Akuntansi , volume 4 , p. 244 - 257 Posted: 2019
+Dewi Astuti , C Nainggolan , L Dermawan Sembiring
+Audit Delay : Influencing Factors (Case Study Of Large Trading Companies On The Indonesia Stock Exchange For The Period 2017 -2021)
+International Journal of Science , volume 3 , issue 6 , p. 1540 - 1548 Posted: 2022
+W Bani Adam , P Purnamasari , R Hartanto
+Pengaruh Kondisi Keuangan, Kompleksitas Operasi dan Umur Perusahaan terhadap Audit Report Lag , volume 2 , p. 143 - 152 Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+61
+ABSTRACT VIEWS
+9,668
+RANK
+841,621
+40 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Industrial & Organizational Psychology eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

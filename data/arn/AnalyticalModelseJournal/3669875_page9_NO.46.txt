@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Performance-Based Incentive Contracts under Asymmetric Taxation
+
+44 Pages Posted: 26 Oct 2020 Last revised: 11 Mar 2022
+
+Rainer Niemann
+
+University of Graz, Center for Accounting Research; CESifo (Center for Economic Studies and Ifo Institute for Economic Research)
+
+Mariana Sailer
+
+Vienna University of Economics and Business
+
+Date Written: May 1, 2021
+
+Abstract
+
+Manager remuneration is usually linked to a performance-based incentive contract. However, finding and implementing the optimal performance-based incentive contract after taxes can be difficult if business forecasts or tax conditions are complex. Bonus and penalty contracts might be easier-to-implement alternatives to optimal contracts and are already used in practice or widely demanded. We analytically examine the impact of symmetric and asymmetric corporate taxation, i.e. taxation without and with loss-offset restrictions, on the principal’s contract choice. We find that symmetric taxation is neutral with respect to contract choice. By contrast, asymmetric taxation can alter the ranking of different performance-based remuneration contracts. Our numerical simulations show that a contract that is optimal under symmetric taxation closely approximates an optimal contract under asymmetric taxation. However, both bonus and penalty contracts can be even better approximations, depending on the parameter setting. Due to their simple determination, bonus and penalty contracts can limit tax planning costs and therefore be reasonable with regard to cost-benefit considerations.
+
+Keywords: performance-based remuneration, penalty contracts, asymmetric taxation, principal-agent model
+
+JEL Classification: D86, H21, M41
+
+Suggested Citation:
+
+Niemann, Rainer and Sailer, Mariana, Performance-Based Incentive Contracts under Asymmetric Taxation (May 1, 2021). Available at SSRN: https://ssrn.com/abstract=3669875 or http://dx.doi.org/10.2139/ssrn.3669875
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+H Amberger , E Eberhartinger , M Kasper
+Biases in Tax Decisions Posted: 2021
+R Antle , J Demski
+The Controllability Principle in Responsibility Accounting
+The Account Rev , volume 63 , issue 4 , p. 700 - 718 Posted: 1988
+M ; Arnold , M Arnold , M Artz
+Optimal Remuneration for Board Members in DAX Companies -The Perspective of Investment Professionals
+Financial Times Posted: 2014-01
+Ashurst
+Executive Pay: Government Proposals to Strengthen Malus and Clawback Provisions Posted: 2021-01
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+107
+ABSTRACT VIEWS
+980
+RANK
+588,270
+51 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

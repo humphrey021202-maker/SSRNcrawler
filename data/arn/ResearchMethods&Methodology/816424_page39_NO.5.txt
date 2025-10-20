@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Early Adoption of Stock Option Compensation Expense
+
+53 Pages Posted: 1 Oct 2005 Last revised: 13 Oct 2007
+
+Petro Lisowsky
+
+Boston University - Questrom School of Business; Norwegian Center for Taxation
+
+Date Written: September 29, 2005
+
+Abstract
+
+I examine the likelihood of firms adopting the fair value based method of accounting for stock option compensation cost in 2002 and 2003. To examine this issue, I use two matched sample methodologies: (1) a size and book-to-market matching method typically employed in empirical accounting and finance research; and (2) a Propensity Score matching method typically used in the life sciences. I create a profile of firms that elected to expense employee stock option compensation when it was not yet required by Statement on Financial Standards No. 123 (Revised): Share-Based Payment (SFAS 123(R)). I find support for the general hypothesis that increasing switching costs from disclosure to recognition lowers the likelihood for stock option expense adoption in 2002 and 2003. More specifically, the likelihood of expensing stock options decreases when the magnitude of (implied) stock option expense increases and the value of options awarded to the firm's executives increases in relation to their total compensation. I find that the likelihood of expensing stock options increases when the interest coverage ratio increases and when the number of options awarded to the firm's executives increases in relation to the number of stock options awarded to all employees. I also find weak evidence that the likelihood of expensing is highest in the healthcare industry. Although these results hold under both matched sample approaches, the Propensity Score approach helps to prevent misleading statistical inference by reducing the bias inherent in traditional size and book-to-market matched sampling.
+
+Keywords: Stock Option Compensation Expense, Disclosure, Recognition, FASB123(R), Propensity Scores, Matching
+
+Suggested Citation:
+
+Lisowsky, Petro, The Early Adoption of Stock Option Compensation Expense (September 29, 2005). Available at SSRN: https://ssrn.com/abstract=816424 or http://dx.doi.org/10.2139/ssrn.816424
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+D Aboody , M Barth , R Kasznik
+Firms' Voluntary Recognition of Stock-Based Compensation Expense
+Journal of Accounting Research , volume 42 , issue 2 , p. 123 - 150 Posted: 2004-05
+Crossref
+Accounting Principles Board, Opinion No. 25: Accounting for Stock Issued to Employees Posted: 1972
+Bear Stearns , &amp; Co
+Companies that Currently Expense or Intend to Expense Stock Options Using the Fair Value Method Posted: 2004-12-17
+J Core , W Guay
+Stock option plans for non-executive employees
+Journal of Financial Economics , volume 61 , p. 253 - 287 Posted: 2001
+Crossref
+Load more
+1 Citations
+Kenneth Klassen , Devan Mescall
+Valuation of Income Trusts: An Exploration of Clienteles and Implicit Taxes
+39 Pages · Posted: 24 Apr 2006 · Downloads: 274
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+256
+ABSTRACT VIEWS
+2,295
+RANK
+272,962
+1 Citations
+18 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Recommended Papers
+
+Executive Compensation
+
+By Kevin J. Murphy
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

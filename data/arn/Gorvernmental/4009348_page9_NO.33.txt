@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cybersecurity Risk Assessment Platform for State Government
+
+17 Pages Posted: 16 Mar 2022 Last revised: 19 Apr 2022
+
+Ken Dolan
+
+State of Arkansas
+
+Date Written: April 15, 2022
+
+Abstract
+
+A working knowledge of cybersecurity by high-level stakeholders is necessary for the effective management of complex digital infrastructures. High-level stakeholders within state government must strengthen cybersecurity platforms and prepare for the consequences of inevitable failures. This paper presents a communication platform for bridging the gap between stakeholders and cybersecurity professionals. The tool incorporates the evaluative framework described in the National Institute of Standards and Technology (NIST) 800-53 and NIST 800-171 as a basis for comparison to a series of best- practice cybersecurity toolsets. The implementation stage and level of importance of each NIST subcategory is also recorded. A description of how the resulting information is incorporated into the strategic planning process is provided, as well as a discussion of how the risk information is used in support of a common risk treatment alternative (insurance).
+
+
+Keywords: cybersecurity insurance, state government cybersecurity, cybersecurity, enterprise risk, enterprise, insurance, cyber insurance, information security, cybersecurity policy
+
+Suggested Citation:
+
+Dolan, Kenneth, Cybersecurity Risk Assessment Platform for State Government (April 15, 2022). Available at SSRN: https://ssrn.com/abstract=4009348 or http://dx.doi.org/10.2139/ssrn.4009348
+Download This Paper
+ 
+Open PDF in Browser
+14 References
+Control Objectives for Information and Related Technology (COBIT)
+CIS Critical Security Controls for Effective Cyber Defense (CIS Controls
+Security for Industrial Automation and Control Systems: Establishing an Industrial Automation and Control Systems Security Program
+-NIST Special Publication 800-53 Revision 4, Security and Privacy Controls for Federal Information Systems and Organizations , volume 22 Posted: 2013-04
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+137
+ABSTRACT VIEWS
+725
+RANK
+484,103
+14 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Property, Casualty & Life Insurance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

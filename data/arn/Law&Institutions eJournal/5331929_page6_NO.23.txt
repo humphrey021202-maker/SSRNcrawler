@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Reconfiguring Digital Accountability: AI-Powered Innovations and Transnational Governance in a Postnational Accounting Context
+
+22 Pages Posted: 9 Jul 2025
+
+Claire Li
+
+University of Roehampton
+
+David Freeborn
+
+Northeastern University London
+
+Date Written: June 30, 2025
+
+Abstract
+
+This study explores how AI-powered digital innovations are reshaping organisational accountability in a transnational governance context. As AI systems increasingly mediate decisionmaking in domains such as auditing and financial reporting, traditional mechanisms of accountability, based on control, transparency, and auditability, are being destabilised. We integrate the Technology Acceptance Model (TAM), Actor-Network Theory (ANT), and institutional theory to examine how organisations adopt AI technologies in response to regulatory, ethical, and cultural pressures that transcend national boundaries. We argue that accountability is co-constructed within global socio-technical networks, shaped not only by user perceptions but also by governance logics and normative expectations. Extending TAM, we incorporate compliance and legitimacy as key factors in perceived usefulness and usability. Drawing on ANT, we reconceptualise accountability as a relational and emergent property of networked assemblages. We propose two organisational strategies including internal governance reconfiguration and external actor-network engagement to foster responsible, legitimate, and globally accepted AI adoption in the accounting domain.
+
+Keywords: AI Accountability, Transnational Governance, Actor-Network Theory, Institutional Pressures, Technology Acceptance, Accounting Regulation
+
+Suggested Citation:
+
+Li, Claire and Freeborn, David, Reconfiguring Digital Accountability: AI-Powered Innovations and Transnational Governance in a Postnational Accounting Context (June 30, 2025). Available at SSRN: https://ssrn.com/abstract=5331929 or http://dx.doi.org/10.2139/ssrn.5331929
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+P J Arnold
+Global financial crisis: The challenge to accounting research
+Accounting, Organizations and Society , volume 34 , issue 6-7 , p. 803 - 809 Posted: 2009
+P J Arnold , C S Chapman , D J Cooper , P B Miller
+Institutional perspectives on the internationalization of accounting
+Accounting, Organizations & Institutions: Essays in Honour of Anthony Hopwood , p. 47 - 64 Posted: 2009
+N Arvidsson
+Consumer attitudes on mobile payment services-results from a proof of concept test
+International Journal of Bank Marketing , volume 32 , issue 2 , p. 150 - 170 Posted: 2014
+M Ashok , R Madan , A Joha , U Sivarajah
+Ethical framework for Artificial Intelligence and Digital technologies
+International Journal of Information Management , volume 62 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+28
+ABSTRACT VIEWS
+184
+67 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

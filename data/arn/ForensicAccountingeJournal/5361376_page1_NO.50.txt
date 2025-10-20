@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Integration of Predictive Data Mining Models and Knowledge Base System for Tax Fraud Detection: A Case Study of the Tigray Revenue Development Authority
+
+15 Pages Posted: 22 Jul 2025
+
+Atakilti Brhanu Kiros
+
+Mekelle University
+
+Mulu Haile Heshe
+
+Mekelle University
+
+Atsbaha Gebreslassie Weldeanenia
+
+Mekelle University
+
+Abstract
+
+Tax fraud poses a persistent challenge to the Tigray Revenue Development Authority (TRDA), significantly undermining tax collection and overall revenue performance. Existing manual detection methods are often inadequate for identifying complex fraud patterns within the growing volume of taxpayer data. This study proposes an integrated framework that combines predictive data mining techniques with a knowledge-based system (KBS) to enhance fraud detection and prevention capabilities within TRDA.The research utilizes historical taxpayer data sourced from TRDA's SIGTAS and TITCOS systems. Data preprocessing was carried out using SQL Management and Visual Studio .Net. Taxpayers were grouped into three clusters using K-means clustering. Classification algorithms—J48, Naive Bayes, and JRip—were applied using WEKA to identify the most effective predictive model. Among these, JRip achieved the highest accuracy (99.964%) and was selected for integration into the KBS.The rules derived from JRip were encoded into a knowledge base using Java (Apache NetBeans), while PROLOG was used to develop the user interface and integration shell, allowing seamless interaction with the fraud detection system. The prototype underwent rigorous testing, including user acceptance and system performance evaluations, achieving 92.0% and 87.5% success rates, respectively.The results affirm the effectiveness of combining machine learning with rule-based reasoning to detect fraudulent tax behavior in real time. This hybrid approach significantly improves detection accuracy and user interaction. The system demonstrates strong potential for operational deployment, offering a scalable, intelligent solution to support TRDA in protecting public revenue from fraudulent activities.
+
+Keywords: Integrator, KBS, Predictive Model, Prototype, Tax Fraud, TRDA
+
+Suggested Citation:
+
+Kiros, Atakilti Brhanu and Heshe, Mulu Haile and Weldeanenia, Atsbaha Gebreslassie, Integration of Predictive Data Mining Models and Knowledge Base System for Tax Fraud Detection: A Case Study of the Tigray Revenue Development Authority. Available at SSRN: https://ssrn.com/abstract=5361376 or http://dx.doi.org/10.2139/ssrn.5361376
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+18
+ABSTRACT VIEWS
+142
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

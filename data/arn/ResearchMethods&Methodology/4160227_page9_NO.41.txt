@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Residuals from Two-Step Research Designs
+
+Accounting & Finance, Forthcoming
+
+UNSW Business School Research Paper Forthcoming
+
+19 Pages Posted: 21 Jul 2022
+
+Andrew B. Jackson
+
+UNSW Australia Business School, School of Accounting
+
+Date Written: July 12, 2022
+
+Abstract
+
+A number of studies have begun to question the appropriateness of the wide-spread and pervasive usage of using regressions in two-step research designs in the accounting literature to obtain variables. The use of residuals from a first-step model as a dependent variable in a second-step has been used in contexts such as earnings management and unexpected audit fees. In this paper, I provide a discussion of the issues within the use of residuals from a first-step model in a second-step.. Taking the case of discretionary accruals models, I demonstrate some of the model specification issues explicitly and implicitly considered within these criticisms. I then add a discussion over some concerns regarding the economic interpretation in the use of first-step residuals.
+
+Keywords: Earnings management, research design, residuals, two-step models, unexpected audit fees
+
+JEL Classification: M00, M40, M41, M42
+
+Suggested Citation:
+
+Jackson, Andrew B., Residuals from Two-Step Research Designs (July 12, 2022). Accounting & Finance, Forthcoming, UNSW Business School Research Paper Forthcoming, Available at SSRN: https://ssrn.com/abstract=4160227
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+R Ball
+Accounting informs investors and earnings management is rife: Two questionable beliefs
+Accounting Horizons , volume 27 , issue 4 , p. 847 - 853 Posted: 2013
+S Basu , D Byzalov
+Modeling skewness determinants in accounting research Posted: 2020
+E L Beardsley , D R Lassila , T C Omer
+How do audit offices respond to audit fee pressure? Evidence of increased focus on nonaudit services and their impact on audit quality
+Contemporary Accounting Research , volume 36 , issue 2 , p. 999 - 1027 Posted: 2019
+M J Behrend , S Khan , Y W Ko , S.-J Park
+Abnormal audit fees and audit quality: Evidence from the Korean audit market
+Journal of International Accounting Research , volume 19 , issue 3 , p. 37 - 60 Posted: 2020
+Load more
+4 Citations
+Wolfgang Breuer , Marcos Andrés Follonier , Andreas Knetsch
+Rhetorical Big Baths Following CEO Turnovers
+No., No. · 73 Pages · Posted: 24 May 2021 · Last revised: 21 Jul 2025 · Downloads: 379
+Download PDF  Add Paper to My Library
+Zabihollah Rezaee , Arash Ghorbani , Fakhroddin MohammadRezaei
+Unintended Consequences of Regulations: Evidence from Political Costs and Earnings Management
+IREF-D-23-01110 · 40 Pages · Posted: 5 Jan 2024 · Downloads: 32
+Download PDF  Add Paper to My Library
+Arash Ghorbani , Naser Makarem , Fakhroddin MohammadRezaei , Zabihollah Rezaee
+Big Bath Accounting in Response to Climate Policy Uncertainty
+YBARE-D-24-00575 · 60 Pages · Posted: 25 Jun 2024 · Downloads: 35
+Download PDF  Add Paper to My Library
+Hasibul Chowdhury , Ashrafee T Hossain , Syka Rahman , Jiayi Zheng
+Labor Investment Efficiency and Social Capital
+68 Pages · Posted: 4 Mar 2025 · Downloads: 25
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+70
+ABSTRACT VIEWS
+441
+RANK
+772,295
+4 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+UNSW Business School Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

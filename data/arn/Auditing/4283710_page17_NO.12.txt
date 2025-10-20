@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Audit Firm Change Affect Key Audit Matters (KAM)?
+
+41 Pages Posted: 13 Dec 2022 Last revised: 3 Oct 2025
+
+Charalampos Brilakis
+
+Athens University of Economics and Business - Department of Accounting and Finance
+
+Efthimios Demirakos
+
+Athens University of Economics and Business - Department of Accounting and Finance
+
+Date Written: October 03, 2025
+
+Abstract
+
+Statutory auditors publicly convey their skepticism through Key Audit Matters (KAM) in the audit report. We consider that the number of KAM quantifies this skepticism and therefore we examine the effect of the audit firm change on the number of KAM in the audit report, as an indication of the incoming auditor’s “fresh look” on the company’s financial statements. We sample 830 companies listed across all market segments of the London Stock Exchange (LSE), through the period 2017–2019 that follows the formal adoption of ISA 701 (2,490 company-year observations). We use multivariable panel data analysis to examine the effect of audit firm change on the number of KAM for the entire sample and across each specific market segment: FTSE 100, Main Market excluding FTSE 100 and AIM. We identify a strong positive association between the audit firm change and the number of KAM reported on the rotation year, which, however, does not hold for FTSE 100 companies (that have a more mature corporate environment and where the audit firm changes are lateral among Big 4). Our analysis provides further robust empirical evidence of the relationship between the audit firm change and the number of KAM reported in the post-2016 audit reports. By examining each market segment separately, our empirical finding supports the argument that the change of the audit firm generates a “fresh look” on the company’s financial statements, but only for the non-FTSE 100 LSE companies. This hints that future KAM research should cautiously extrapolate to other market segments past research results that are based on early forms of KAM (such as the Risks of Material Misstatements for LSE premium listing companies), and distinctly consider the company’s mature corporate environment as a KAM-driving factor.
+
+Keywords: Audit Firm Change, Key Audit Matters, Audit Report, London Stock Exchange, ISA 701.
+
+JEL Classification: M41, M42.
+
+Suggested Citation:
+
+Brilakis, Charalampos and Demirakos, Efthimios, Does Audit Firm Change Affect Key Audit Matters (KAM)? (October 03, 2025). Available at SSRN: https://ssrn.com/abstract=4283710 or http://dx.doi.org/10.2139/ssrn.4283710
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+J Bédard , N Gonthier-Besacier , A Schatt
+Consequences of Expanded Audit Reports: Evidence from the Justifications of Assessments in France , volume 38 , p. 23 - 45 Posted: 2019
+M.-M Camacho-Miñano , N Muñoz-Izquierdo , M Pincus , P Wellmeyer
+Are key audit matter disclosures useful in assessing the financial distress level of a client firm?
+The British Accounting Review , volume 56 , issue 2 Posted: 2024
+M Cameran , J R Francis , A Marra , A Pettinicchio
+Are There Adverse Consequences of Mandatory Auditor Rotation? Evidence from the Italian Experience
+A Journal of Practice & Theory , volume 34 , issue 1 , p. 1 - 24 Posted: 2015
+L Chen , T Xiao , J Zhou
+Do auditor changes affect the disclosure of critical audit matters? Evidence from China
+Economic Modelling , volume 122 Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+322
+ABSTRACT VIEWS
+1,048
+RANK
+214,632
+46 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

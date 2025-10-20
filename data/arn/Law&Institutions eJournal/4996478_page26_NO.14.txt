@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Silent Skies: The Impact of Meeting Earnings Benchmarks on Bird Populations
+
+60 Pages Posted: 24 Oct 2024
+
+Jacob K. Thomas
+
+Yale School of Management
+
+Wentao Yao
+
+Xiamen University - School of Management
+
+Frank Zhang
+
+Yale School of Management
+
+Wei Zhu
+
+University of Illinois at Urbana-Champaign - Department of Accountancy
+
+Date Written: March 25, 2024
+
+Abstract
+
+This study presents the first large-scale empirical evidence of the negative externalities of corporate activities on biodiversity. We examine the impact on birds of firms managing earnings to meet benchmarks, based on prior findings that pollution increases when firms boost earnings to meet benchmarks. This setting aids identification as its effects are focused in space and time. We rely on a novel wildlife dataset that consists of over 200 million birdwatching diaries gathered from tens of thousands of locations across the United States, spanning the period from 2002 to 2018. We find a significant decrease in bird populations (abundance) around manufacturing plants during quarters when the parent firm meets or just beats consensus analyst forecasts. This decline in abundance persists over the long term and is not offset by birds relocating to adjacent areas. In addition to abundance declines, we also observe a lasting drop in the number of unique bird species (richness). Even though meeting earnings benchmarks seems an innocuous act of low economic or social consequence, documenting that its adverse effects extend from humans to wildlife carries important implications for sustainable development and biodiversity conservation.
+
+Keywords: Biodiversity, bird abundance, species richness, meeting earnings benchmarks, real earnings management, externality
+
+JEL Classification: G10, M41, Q56, Q57
+
+Suggested Citation:
+
+Thomas, Jacob and Yao, Wentao and Zhang, Frank and Zhu, Wei, Silent Skies: The Impact of Meeting Earnings Benchmarks on Bird Populations (March 25, 2024). Available at SSRN: https://ssrn.com/abstract=4996478 or http://dx.doi.org/10.2139/ssrn.4996478
+Download This Paper
+ 
+Open PDF in Browser
+75 References
+After imposing these data requirements, our final sample consists of 368,783 observer-plant-quarter observations for 63,831 plant-quarters of 17,520 firmquarters when considering bird observations within a 4 km distance from a plant's location. (As explained in Section 4.1, our main analysis is based on the 4 km sample as this distance represents the best tradeoff between relevance and sample size.) To address potential outliers, we Winsorize all non-indicator variables at the 1 st and 99 th percentiles of their pooled distributions. Panels A and B in Table 1 present summary statistics for the observer-plant-quarter-level and firm-quarter-level variables. The number of observations for the dependent variable Abundance increases from 219 Posted: 2022
+Our sample period begins in 2002Q3 as the inaugural checklist in eBird was submitted in May Posted: 2002
+E Agathokleous , Z Feng , E Oksanen , P Sicard , Q Wang , C J Saitanis , . . Paoletti , E
+Ozone affects plant, insect, and soil microbial communities: A threat to terrestrial ecosystems and biodiversity
+Science Advances , volume 6 , issue 33 Posted: 2020
+P Akey , I Appel
+The limits of limited liability: Evidence from industrial pollution
+The Journal of Finance , volume 76 , issue 1 , p. 5 - 55 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+300
+ABSTRACT VIEWS
+1,198
+RANK
+231,609
+75 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

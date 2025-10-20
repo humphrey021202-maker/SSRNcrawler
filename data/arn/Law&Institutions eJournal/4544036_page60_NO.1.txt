@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Event-Based Data Authenticity Analytics for Iot and Blockchain-Enabled ESG Disclosure
+
+31 Pages Posted: 17 Aug 2023
+
+Wei Chen
+
+The University of Hong Kong
+
+Wei Wu
+
+Chongqing University
+
+Zhiyuan Ouyang
+
+The University of Hong Kong
+
+Yelin Fu
+
+The University of Hong Kong
+
+Ming Li
+
+Hong Kong Polytechnic University
+
+George Q. Huang
+
+Hong Kong Polytechnic University
+
+Abstract
+
+Environment, social, and governance (ESG) disclosure has raised significant interest in academia and industry for sustainable development and investing. However, the data authenticity of the ESG disclosure is still a serious matter of concern. This study proposes a novel solution to solve the above problem. First, an ESG information disclosure system (IBESG) enabled by IoT and blockchain is originally designed. The IBESG integrates IoT and blockchain technologies to facilitate the collection and transmission of data during ESG disclosure, and to ensures the data authenticity, consistency, and transparency. Second, we design a Local and Global Authenticity Verification Flow (LGA) consisting of edge computing and cloud computing to sufficiently verify the authenticity through the data flow. In addition, data authenticity analytics algorithms are developed in this study, which contains event-based spatial-temporal analytics and authenticity index computation. Finally, we carry out an experimental simulation to illustrate the implementation of the IBESG and the performance of the verification solution. Moreover, the sensitivity analysis of the above solution is conducted, and relevant suggestions on deployment are given. This study is expected to help academia and industry apply the solution in similar scenarios and inspire new ideas.
+
+Keywords: Data authenticity, ESG reporting, Spatial-temporal analytics, blockchain, Internet of Things
+
+Suggested Citation:
+
+Chen, Wei and Wu, Wei and Ouyang, Zhiyuan and Fu, Yelin and Li, Ming and Huang, George Q., Event-Based Data Authenticity Analytics for Iot and Blockchain-Enabled ESG Disclosure. Available at SSRN: https://ssrn.com/abstract=4544036 or http://dx.doi.org/10.2139/ssrn.4544036
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+110
+ABSTRACT VIEWS
+544
+RANK
+576,053
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

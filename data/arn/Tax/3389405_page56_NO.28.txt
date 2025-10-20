@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How to Improve Tax Compliance? Evidence from Population-Wide Experiments in Belgium
+
+Saïd Business School WP 2019-07
+
+71 Pages Posted: 16 May 2019
+
+Jan‐Emmanuel De Neve
+
+University of Oxford
+
+Clement Imbert
+
+University of Warwick
+
+Johannes Spinnewijn
+
+London School of Economics & Political Science (LSE)
+
+Teodora Tsankova
+
+European Bank for Reconstruction and Development (EBRD)
+
+Maarten Luts
+
+Belgian Federal Public Service Finance
+
+There are 2 versions of this paper
+
+Date Written: May 05, 2019
+
+Abstract
+
+We study the impact of deterrence, tax morale, and simplifying information on tax compliance. We ran five experiments spanning the tax process which varied the communication of the tax administration with all income taxpayers in Belgium. A consistent picture emerges across experiments: (i) simplifying communication increases compliance, (ii) deterrence messages have an additional positive effect, (iii) invoking tax morale is not effective. Even tax morale messages that improve knowledge and appreciation of public services do not raise compliance. In fact, heterogeneity analysis with causal forests shows that tax morale treatments backfire for most taxpayers. In contrast, simplification has large positive effects on compliance, which diminish over time due to follow-up enforcement. A discontinuity in enforcement intensity, combined with the experimental variation, allows us to compare simplification with standard en-forcement measures. Simplification is far more cost-effective, allowing for substantial savings on enforcement costs, and also improves compliance in the next tax cycle.
+
+Keywords: Tax Compliance, Field Experiments, Simplification, Enforcement
+
+JEL Classification: C93, D91, H20
+
+Suggested Citation:
+
+De Neve, Jan-Emmanuel and Imbert, Clement and Spinnewijn, Johannes and Tsankova, Teodora and Luts, Maarten, How to Improve Tax Compliance? Evidence from Population-Wide Experiments in Belgium (May 05, 2019). Saïd Business School WP 2019-07, Available at SSRN: https://ssrn.com/abstract=3389405 or http://dx.doi.org/10.2139/ssrn.3389405
+Download This Paper
+ 
+Open PDF in Browser
+10 References
+J Abeler , S Jäger
+Complex tax incentives
+American Economic Journal: Economic Policy , volume 7 , issue 3 , p. 1 - 28 Posted: 2015
+Crossref
+P Aghion , U Akcigit , M Lequien , S Stantcheva
+Tax simplicity and heterogeneous learning Posted: 2017
+Crossref
+H Alcott , B Lockwood , D Taubinsky
+Regressive sin taxes, with an application to the optimal soda tax Posted: 2018
+Crossref
+H Allcott , T Rogers
+The short-run and long-run effects of behavioral interventions: Experimental evidence from energy conservation
+American Economic Review , volume 104 , issue 10 , p. 3003 - 3040 Posted: 2014
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,072
+ABSTRACT VIEWS
+5,214
+RANK
+47,340
+47 Citations
+10 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

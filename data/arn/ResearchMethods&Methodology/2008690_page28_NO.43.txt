@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Efficient and Feasible Inference for the Components of Financial Variation Using Blocked Multipower Variation
+
+44 Pages Posted: 21 Feb 2012
+
+Per A. Mykland
+
+University of Chicago - Department of Statistics
+
+Neil Shephard
+
+Harvard University
+
+Kevin Sheppard
+
+University of Oxford - Department of Economics; University of Oxford - Oxford-Man Institute of Quantitative Finance
+
+Date Written: February 21, 2012
+
+Abstract
+
+High frequency financial data allows us to learn more about volatility, volatility of volatility and jumps. One of the key techniques developed in the literature in recent years has been bipower variation and its multipower extension, which estimates time-varying volatility robustly to jumps. We improve the scope and efficiency of multipower variation by the use of a more sophisticated exploitation of high frequency data. This suggests very significant improvements in the power of jump tests. It also yields efficient estimates of the integrated variance of the continuous part of a semimartingale. The paper also shows how to extend the theory to the case where there is microstructure in the observations and derive the first nonparametric high frequency estimator of the volatility of volatility. A fundamental device in the paper is a new type of result showing path-by-path (strong) approximation between multipower and the (unobserved) RV based on the continuous part of the process.
+
+Keywords: bipower variation, jumps, market microstructure noise, multipower variation, non-parametric analysis, quadratic variation, semimartingale, volatility, volatility of volatility
+
+JEL Classification: C01, C02, C13, C14, C22, D53, D81
+
+Suggested Citation:
+
+Mykland, Per A. and Shephard, Neil and Sheppard, Kevin Keith, Efficient and Feasible Inference for the Components of Financial Variation Using Blocked Multipower Variation (February 21, 2012). Available at SSRN: https://ssrn.com/abstract=2008690 or http://dx.doi.org/10.2139/ssrn.2008690
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+M Abramowitz , I A Stegun
+Handbook of Mathematical Functions Posted: 1970
+T G Andersen , T Bollerslev , F X Diebold
+Roughing it up: Including jump components in the measurement, modeling and forecasting of return volatility
+Review of Economics and Statistics , volume 89 , p. 707 - 720 Posted: 2007
+Crossref
+T G Andersen , T Bollerslev , F X Diebold
+Parametric and nonparametric measurement of volatility
+Handbook of Financial Econometrics , p. 67 - 138 Posted: 2009
+T G Andersen , T Bollerslev , F X Diebold , P Labys
+Great realizations
+Risk , volume 13 , p. 105 - 108 Posted: 2000
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+415
+ABSTRACT VIEWS
+3,797
+RANK
+161,650
+19 Citations
+45 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Modeling and Forecasting Realized Volatility
+
+By Torben G. Andersen, Tim Bollerslev, ...
+
+Modeling and Forecasting Realized Volatility
+
+By Torben G. Andersen, Tim Bollerslev, ...
+
+The Distribution of Realized Exchange Rate Volatility
+
+By Torben G. Andersen, Tim Bollerslev, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

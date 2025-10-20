@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Signal Theory Model for Continuous Monitoring and Intelligence Systems
+
+19 Pages Posted: 12 Feb 2021
+
+Daniel E. O'Leary
+
+University of Southern California - Marshall School of Business; University of Southern California - Leventhal School of Accounting
+
+Date Written: September 9, 2020
+
+Abstract
+
+Continuous monitoring and intelligence systems analyze data and text from various sources and use that information to monitor risk, controls, reputations, companies, people, opportunities, competition, and other concerns. We summarize some of the previous literature for such systems and the capabilities of existing continuous monitoring systems. Unfortunately, there has been limited theoretical development for such systems. We view the monitored information sources as providing information signals relating to events, activities, issues, etc. Systems must choose which information sources to monitor and gather information from. Unfortunately, choice of such source systems is not a straightforward problem, but must account for time, cost, redundancy, reliability, relevance, information asymmetries, weak signals, and other issues. Further, analytics must be generated to monitor signals created from the information sources to gather the information needed for the system. Accordingly, this paper generates and applies a signal theory model to address these issues. This allows us to elicit several issues of potential importance associated with the design and implementation of such systems.
+
+Keywords: signal theory, continuous monitoring, continuous auditing, continuous intelligence
+
+JEL Classification: m42, m15
+
+Suggested Citation:
+
+O'Leary, Daniel E., A Signal Theory Model for Continuous Monitoring and Intelligence Systems (September 9, 2020). Available at SSRN: https://ssrn.com/abstract=3746001 or http://dx.doi.org/10.2139/ssrn.3746001
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+M G Alles , A Kogan , M A Vasarhelyi
+Restoring auditor credibility: tertiary monitoring and logging of continuous assurance systems
+International Journal of Accounting Information Systems , volume 5 , issue 2 , p. 183 - 202 Posted: 2004
+Crossref
+M Alles , G Brennan , A Kogan , M A Vasarhelyi
+Continuous monitoring of business process controls: A pilot implementation of a continuous auditing system at Siemens
+International Journal of Accounting Information Systems , volume 7 , issue 2 , p. 137 - 161 Posted: 2006
+Crossref
+G A Akerlof
+The market for "Lemons": Quality uncertainty and the market mechanism
+In Quarterly Journal for Economics , p. 488 - 500 Posted: 1970
+Crossref
+David P Baron
+Persistent media bias
+Journal of Public Economics , volume 90 , p. 1 - 36 Posted: 2006
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+230
+ABSTRACT VIEWS
+1,196
+RANK
+303,670
+44 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

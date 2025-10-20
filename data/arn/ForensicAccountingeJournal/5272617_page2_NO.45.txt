@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CEO Pay and Firm Performance
+
+37 Pages Posted: 28 May 2025
+
+Onipe Adabenege Yahaya
+
+Nigerian Defence Academy
+
+Date Written: May 28, 2025
+
+Abstract
+
+Executive compensation, particularly Chief Executive Officer (CEO) pay, continues to provoke intense debate regarding its justification and impact on firm performance. Despite substantial literature, the linkage between CEO remuneration and firm performance remains ambiguous and context-dependent. This study investigates the relationship between CEO pay and firm performance, addressing concerns over pay-performance sensitivity and agency conflicts in corporate governance. The primary purpose of the study is to evaluate whether CEO compensation aligns with shareholder interests by enhancing firm performance, as measured by accounting (Return on Assets). Using a panel dataset of 147 publicly listed firms over ten years, a random effects model is employed to account for unobserved heterogeneity and endogeneity. CEO pay is disaggregated into fixed (salary) and variable (bonus, stock options) components to determine their differential effects on performance. Empirical results reveal a positive and significant relationship between variable pay and firm performance, indicating that performance-contingent compensation aligns managerial incentives with shareholder value creation. However, fixed pay shows no significant effect. The study also finds evidence of diminishing marginal returns to excessive pay, suggesting a threshold beyond which additional compensation yields no performance benefit. The study is limited by potential data unavailability on private firms, variations in pay disclosure quality, and the exclusion of non-financial performance measures. Despite these limitations, the findings provide practical implications for boards, compensation committees, and policymakers in designing performance-based pay structures that curb managerial opportunism and enhance firm value. Socially, the study contributes to the discourse on income inequality and corporate accountability. Original in its integrative approach and multi-dimensional performance analysis, this study contributes to the literature by offering nuanced insights into the structure of CEO pay and its conditional effect on firm performance. It advocates for balanced incentive schemes that promote long-term corporate sustainability and stakeholder confidence.
+
+Keywords: CEO Pay, Firm Leverage, Firm Performance, Firm Size, Growth Opportunities
+
+Declaration of Interest
+
+No clash
+
+Ethics Approval
+
+Okay
+
+Funder Statement
+
+Self Funded
+
+Suggested Citation:
+
+Yahaya, Onipe Adabenege, CEO Pay and Firm Performance (May 28, 2025). Available at SSRN: https://ssrn.com/abstract=5272617 or http://dx.doi.org/10.2139/ssrn.5272617
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+233
+ABSTRACT VIEWS
+1,312
+RANK
+299,785
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Corporate Governance & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

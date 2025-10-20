@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Relative Weights on Performance Measures in a Principal-Agent Model with Moral Hazard and Adverse Selection
+
+AAA 2010 Management Accounting Section (MAS) Meeting Paper
+
+53 Pages Posted: 7 Aug 2009
+
+Rajiv D. Banker
+
+Temple University - Department of Accounting
+
+Jose M. Plehn-Dujowich
+
+Powerlytics. Inc.
+
+Chunwei Xian
+
+Northeastern Illinois University
+
+Date Written: August 6, 2009
+
+Abstract
+
+This paper examines the role of multiple measures of performance in a principal-agent model incorporating both moral hazard and adverse selection. The outcome of interest to the principal depends stochastically on the agent’s unobservable ability and effort, while the principal implements a contract contingent on two noisy measures of the outcome. There are three main findings. First, the weights assigned the performance measures are reduced in the presence of adverse selection because the informational rent paid to the agent lowers the return to the principal of hiring the agent, but it does not affect how informative one signal is relative to another. Second, the weights assigned the signals are decreasing in the sensitivity of performance to ability. Third, a signal is assigned more weight if and only if it is more precise and sensitive to the agent’s effort; thus, the Banker and Datar (1989) result is robust to the introduction of adverse selection. An empirical test of the model is provided in the context of the CEO pay-for-performance sensitivity and the investment opportunities set (IOS) of the firms they manage. If high IOS firms are more ability-intensive, the model predicts the weights on the performance measures are decreasing in IOS. We examine a sample of 12,221 firm-year observations for 1,411 firms spanning the period 1992-2006 obtained from ExecuComp, CRSP, and Compustat. In agreement with the model, we find that CEO compensation is less sensitive to accounting and stock returns in high IOS firms.
+
+Keywords: Adverse selection, moral hazard, pay-for-performance sensitivity, investment opportunities
+
+JEL Classification: M46, M40
+
+Suggested Citation:
+
+Banker, Rajiv D. and Plehn-Dujowich, Jose M. and Xian, Chunwei, Relative Weights on Performance Measures in a Principal-Agent Model with Moral Hazard and Adverse Selection (August 6, 2009). AAA 2010 Management Accounting Section (MAS) Meeting Paper, Available at SSRN: https://ssrn.com/abstract=1444844 or http://dx.doi.org/10.2139/ssrn.1444844
+Download This Paper
+ 
+Open PDF in Browser
+81 References
+N C Agarwal
+Determinants of executive compensation
+Industrial Relations , volume 20 , issue 1 , p. 36 - 46 Posted: 1981
+Crossref
+R K Aggarwal , A A Samwick
+The other side of the trade-off: the impact of risk on executive compensation
+The Journal of Political Economy , volume 107 , issue 1 , p. 65 - 105 Posted: 1999
+Crossref
+W R Baber , S N Janankiraman , S Kang
+Investment opportunities and the structure of executive compensation
+Journal of Accounting and Economics , volume 21 , issue 3 , p. 297 - 318 Posted: 1996
+Crossref
+W R Baber , S N Janankiraman , S Kang
+Accounting earnings and executive compensation: The role of earnings persistence
+Journal of Accounting and Economics , volume 25 , p. 169 - 193 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+271
+ABSTRACT VIEWS
+2,757
+RANK
+257,340
+2 Citations
+81 References
+PlumX Metrics
+Related eJournals
+
+Fox School of Business, Temple University Research Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Executive Compensation
+
+By Kevin J. Murphy
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

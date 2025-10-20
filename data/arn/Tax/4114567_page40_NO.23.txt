@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Taxation with Multiple Incomes and Types
+
+IZA Discussion Paper No. 15036
+
+56 Pages Posted: 19 May 2022 Last revised: 6 May 2025
+
+Kevin Spiritus
+
+KU Leuven; Erasmus University Rotterdam (EUR) - Erasmus School of Economics (ESE)
+
+Etienne Lehmann
+
+CREST; Catholic University of Louvain (UCL) - School of Economic and Social Research (IRES); IZA Institute of Labor Economics
+
+Sander Renes
+
+Erasmus University Rotterdam (EUR)
+
+Floris Zoutman
+
+NHH Norwegian School of Economics
+
+Abstract
+
+We analyze the optimal nonlinear income tax schedule when taxpayers earn multiple incomes and differ along many unobserved dimensions. We derive the necessary conditions for the governments optimum using both a tax perturbation and a mechanism design approach, and show that both methods produce the same results. Our main contribution is to propose a numerical method to find the optimal tax schedule. Applied to the optimal taxation of couples, we find that optimal isotax curves are very close to linear and parallel. The slope of isotax curves is strongly affected by the relative tax-elasticity of male and female income. We make several additional contributions, including a test for Pareto efficiency and a condition on primitives that ensures the governments necessary conditions are sufficient and the solution to the problem is unique.
+
+Keywords: nonlinear optimal taxation, multidimensional screening, household income taxation
+
+JEL Classification: H21, H23, H24, D82
+
+Suggested Citation:
+
+Spiritus, Kevin and Spiritus, Kevin and Lehmann, Etienne and Renes, Sander and Zoutman, Floris, Optimal Taxation with Multiple Incomes and Types. IZA Discussion Paper No. 15036, Available at SSRN: https://ssrn.com/abstract=4114567
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+Mark Armstrong
+Multiproduct Nonlinear Pricing
+Econometrica , volume 64 , issue 1 , p. 51 - 75 Posted: 1996
+Anthony B Atkinson , Joseph E Stiglitz
+The design of tax structure: Direct versus indirect taxation
+Lectures on public economics: Updated edition , volume 6 , p. 55 - 75 Posted: 1976
+Olivier Bargain , Andreas Peichl
+Own-wage labor supply elasticities: variation across time and estimation methods
+IZA Journal of Labor Economics , volume 5 , issue 1 , p. 1 - 31 Posted: 2016
+Mathias Dolls , Dirk Neumann , Andreas Peichl , Sebastian Siegloch
+Tax-benefit revealed social preferences in Europe and the US , volume 21 , p. 845 - 873 Posted: 2014
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+36
+ABSTRACT VIEWS
+398
+28 References
+PlumX Metrics
+Related eJournals
+
+IZA Institute of Labor Economics Discussion Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

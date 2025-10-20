@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Archival Research on Audit Partners: Assessing the Research Field and Recommendations for Future Research
+
+Accounting & Finance, Forthcoming
+
+51 Pages Posted: 9 Jan 2021
+
+Kris Hardies
+
+University of Antwerp
+
+Sarowar Hossain
+
+University of New South Wales (UNSW)
+
+Larelle Law Chapple
+
+QUT School of Business; Financial Research Network (FIRN)
+
+Date Written: November 4, 2020
+
+Abstract
+
+In this paper, we assess the existing archival research on audit partners and provide recommendations for future research. Our empirical analyses suggest that the audit partner characteristics with the biggest impact are industry specialization and client importance. We demonstrate that audit partner studies may suffer from omitted variable bias if they study audit partner characteristics in isolation, as they have often done. We also show that for most audit partner characteristics there is little within-company and within-partner variation. We therefore caution against routinely including company and audit partner fixed effects in audit partner studies. We also examine the importance of properly adjusting for dependence in the data in audit partner studies and suggest to cluster standard errors at the client firm level. Finally, we provide detailed descriptive information at the audit partner level in order to demonstrate how researchers could improve the reporting of audit partner level data.
+
+Keywords: audit partners, endogeneity, fixed effects, clustering, gender, experience, industry specialization, tenure, client importance, portfolio size
+
+JEL Classification: M42
+
+Suggested Citation:
+
+Hardies, Kris and Hossain, Sarowar and Law Chapple, Larelle, Archival Research on Audit Partners: Assessing the Research Field and Recommendations for Future Research (November 4, 2020). Accounting & Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3724917 or http://dx.doi.org/10.2139/ssrn.3724917
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+C B Sanders , M D Steward , S Bridge
+Facilitating knowledge transfer during SOX-mandated audit partner rotation
+Business Horizons , volume 52 , issue 6 , p. 573 - 582 Posted: 2009
+Crossref
+J E Shipman , Q T Swanquist , R L Whited
+Propensity score matching in accounting research
+The Accounting Review , volume 92 , issue 1 , p. 213 - 244 Posted: 2017
+Crossref
+J Stewart , J Kent , Routledge
+The association between audit partner rotation and audit fees: Empirical evidence from the Australian market
+Auditing -A Journal of Practice and Theory , volume 35 , issue 1 , p. 181 - 197 Posted: 2016
+Crossref
+S Sundgren , T Svanström
+Auditor-in-charge characteristics and going-concern reporting
+Contemporary Accounting Research , volume 31 , issue 2 , p. 531 - 550 Posted: 2014
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+139
+ABSTRACT VIEWS
+864
+RANK
+478,514
+6 Citations
+11 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

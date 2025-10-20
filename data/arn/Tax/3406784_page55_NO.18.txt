@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Data Analytics and Tax Law
+
+25 Pages Posted: 25 Jun 2019
+
+Benjamin Alarie
+
+University of Toronto - Faculty of Law; Vector Institute for Artificial Intelligence
+
+Anthony Niblett
+
+University of Toronto - Faculty of Law; Vector Institute for Artificial Intelligence
+
+Albert Yoon
+
+University of Toronto Faculty of Law
+
+Date Written: May 23, 2019
+
+Abstract
+
+Machine learning models can be used to find patterns in datasets. In this essay, we discuss how innovative technologies such as big data analytics and machine learning are being used to gain new and actionable insights in the field of tax law. Our goal is not to provide a complete overview of every possible application; rather, we seek to illustrate some key examples of how analytics can be employed in the field of tax law. This essay provides both insights on how to improve the administration and content of tax law and policy, and insights for taxpayers seeking to understand the content of tax law. It proceeds in two parts.
+
+In the first part of this essay, we discuss how big data analytics can help tax agencies and regulators, such as the Internal Revenue Service (IRS), better administer tax law. The IRS has troves of data that can be used to identify ways to minimize the tax gap – i.e., the difference between the taxes that would be paid if taxpayers met all of their legal obligations, and those that the IRS actually receives and collects. We argue that predictive analytics can be used by tax authorities to optimally allocate their scarce resources and more precisely target enforcement efforts to yield optimal results, including identifying and pursuing taxpayers who are less likely to comply with their obligations under the status quo. We also take a broader approach and look at the insights that might be used by governments more generally to improve the content of tax policy. We ask how data analytics can improve the content of the law so that it better aligns with the law’s objective.
+
+In the second part of the essay, we look at the insights that can help taxpayers in understanding tax law. Here, we focus on how taxpayers can use data analytics to more accurately determine their tax liability in areas where the law is vague and unclear. While we frame the benefits of these insights as primarily flowing to the taxpayer, there are no doubt ancillary gains for the tax agency and regulator. Data analytics will also provide insights for the practitioners of tax law, such as accountants. Many commentators, including ourselves, have explored how predictive technologies will affect legal research and the practice of law more generally. Accordingly, in this essay we direct our focus beyond practitioners.
+
+Keywords: machine learning, tax, taxation, tax law, big data, data analytics
+
+JEL Classification: K00, K34
+
+Suggested Citation:
+
+Alarie, Benjamin and Niblett, Anthony and Yoon, Albert, Data Analytics and Tax Law (May 23, 2019). Available at SSRN: https://ssrn.com/abstract=3406784 or http://dx.doi.org/10.2139/ssrn.3406784
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+764
+ABSTRACT VIEWS
+3,565
+RANK
+75,728
+2 Citations
+47 References
+PlumX Metrics
+Related eJournals
+
+Information Systems Legislation & Regulations eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

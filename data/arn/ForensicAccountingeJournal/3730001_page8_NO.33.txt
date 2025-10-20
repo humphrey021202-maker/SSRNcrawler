@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Automatic Machine Learning Algorithms for Fraud Detection in Digital Payment Systems
+
+Eastern-European Journal of Enterprise Technologies, 5(9 (107)), 14-26, 2020. doi: 10.15587/1729-4061.2020.212830
+
+13 Pages Posted: 14 Jan 2021
+
+Oleh Kolodiziev
+
+Simon Kuznets Kharkiv National University of Economics
+
+Aleksey Mints
+
+Pryazovskyi State Technical University
+
+Pavlo Sidelov
+
+Pryazovskyi State Technical University
+
+Inna Pleskun
+
+Simon Kuznets Kharkiv National University of Economics
+
+Olha Lozynska
+
+Simon Kuznets Kharkiv National University of Economics
+
+Date Written: October 27, 2020
+
+Abstract
+
+Data on global financial statistics demonstrate that total losses from fraudulent transactions around the world are constantly growing. The issue of payment fraud will be exacerbated by the digitalization of economic relations, in particular the introduction by banks of the concept of "Bank-as-a-Service", which will increase the burden on payment services.
+
+The aim of this study is to synthesize effective models for detecting fraud in digital payment systems using automated machine learning and Big Data analysis algorithms.
+
+Approaches to expanding the information base to detect fraudulent transactions have been proposed and systematized. The choice of performance metrics for building and comparing models has been substantiated.
+
+The use of automatic machine learning algorithms has been proposed to resolve the issue, which makes it possible in a short time to go through a large number of variants of models, their ensembles, and input data sets. As a result, our experiments allowed us to obtain the quality of classification based on the AUC metric at the level of 0.977‒0.982. This exceeds the effectiveness of the classifiers developed by traditional methods, even as the time spent on the synthesis of the models is much less and measured in hours. The models' ensemble has made it possible to detect up to 85.7 % of fraudulent transactions in the sample. The accuracy of fraud detection is also high (79‒85 %).
+
+The results of our study confirm the effectiveness of using automatic machine learning algorithms to synthesize fraud detection models in digital payment systems. In this case, efficiency is manifested not only by the resulting classifiers' quality but also by the reduction in the cost of their development, as well as by the high potential of interpretability. Implementing the study results could enable financial institutions to reduce the financial and temporal costs of developing and updating active systems against payment fraud, as well as improve the effectiveness of monitoring financial transactions.
+
+Keywords: digital payments; machine learning; automated synthesis; fraud detection; data science
+
+Suggested Citation:
+
+Kolodiziev, Oleh and Mints, Aleksey and Sidelov, Pavlo and Pleskun, Inna and Lozynska, Olha, Automatic Machine Learning Algorithms for Fraud Detection in Digital Payment Systems (October 27, 2020). Eastern-European Journal of Enterprise Technologies, 5(9 (107)), 14-26, 2020. doi: 10.15587/1729-4061.2020.212830, Available at SSRN: https://ssrn.com/abstract=3730001
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+Issue 1023
+The Nilson Report Posted: 2013
+Issue 1118
+The Nilson Report Posted: 2017
+A D Pozzolo , O Caelen , R A Johnson , G Bontempi
+Calibrating Probability with Undersampling for Unbalanced Classification
+IEEE Symposium Series on Computational Intelligence Posted: 2015
+Crossref
+A Dal Pozzolo , O Caelen , S Waterschoot , G Bontempi
+Racing for Unbalanced Methods Selection
+Lecture Notes in Computer Science , p. 24 - 31 Posted: 2013
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+296
+ABSTRACT VIEWS
+1,350
+RANK
+234,984
+27 References
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

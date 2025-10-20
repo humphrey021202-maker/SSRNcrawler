@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Capital Gains Taxes and Trading Incentives
+
+55 Pages Posted: 10 Jan 2020 Last revised: 11 Jan 2024
+
+Mattia Landoni
+
+Federal Reserve Bank of Boston
+
+Date Written: July 2023
+
+Abstract
+
+Deferring the realization of gains is generally tax-efficient for stocks, but not for other important asset classes including taxable bonds and noncorporate business assets. These assets make up roughly half of all capital gains-producing financial assets held by households. I develop a simple framework that provides intuition on when tax deferral is advantageous. When it is advantageous, the strength of the resulting lock-in effect should vary predictably across asset classes. I verify this prediction by showing that property-casualty insurers are more reluctant to realize gains on tax-exempt bonds than on taxable bonds. My findings have important implications for portfolio optimization and for ongoing tax policy debates on entrepreneurship incentives, distortions, revenue, and optimal taxation.
+
+Keywords: capital gains, taxes, tax deferral, lock-in effect, trading
+
+JEL Classification: H24, H21, G11, G12, G22
+
+Suggested Citation:
+
+Landoni, Mattia, Capital Gains Taxes and Trading Incentives (July 2023). Available at SSRN: https://ssrn.com/abstract=3507823 or http://dx.doi.org/10.2139/ssrn.3507823
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+V Agarwal , G D Gay , L Ling
+Window dressing in mutual funds
+Review of Financial Studies , volume 27 , p. 3133 - 3170 Posted: 2016
+Crossref
+S R Aiyagari
+Optimal capital income taxation with incomplete markets, borrowing constraints, and constant discounting
+Journal of Political Economy , volume 103 , p. 1158 - 1175 Posted: 1995
+Crossref
+A J Auerbach
+Retrospective capital gains taxation
+American Economic Review , volume 81 , issue 1 , p. 167 - 178 Posted: 1991
+Crossref
+A J Auerbach , D F Bradford
+Generalized cash-flow taxation
+Journal of Public Economics , volume 88 , p. 957 - 980 Posted: 2004
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+104
+ABSTRACT VIEWS
+1,082
+RANK
+601,250
+28 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

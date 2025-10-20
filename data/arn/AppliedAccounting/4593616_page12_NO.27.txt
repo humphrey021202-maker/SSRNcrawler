@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Auditor's Perspective on Smart Contracts and DAOs
+
+The CPA Journal, 93(7/8), 60-63 (2023). Publisher: New York State Society of CPAs. Available at https://www.cpajournal.com/2023/10/04/an-auditors-perspective-on-smart-contracts-and-daos/
+
+7 Pages Posted: 6 Nov 2023 Last revised: 22 Jan 2024
+
+Hrishikesh Desai
+
+Arkansas State University
+
+Date Written: July 1, 2023
+
+Abstract
+
+The Public Company Accounting Oversight Board (PCAOB) Auditing Standard (AS) 1010, Training and Proficiency of the Independent Auditor, requires that audits be performed by people having adequate technical training and proficiency. However, the bar of “technical training and proficiency” has gone up significantly with the advent of blockchain or distributed ledger technology and especially its use cases pertaining to smart contracts and decentralized autonomous organizations (DAO).
+
+This article focuses not only on the audit of the data stored on the blockchain, but also the audit of the blockchain itself. This is an important distinction because, in the former case, CPA auditors can be less concerned about the quality and quantity of audit evidence obtained due to the immutability and enhanced security of the blockchain. Data stored on the blockchain may even be more accurate and complete compared to the data obtained from traditional databases. Also, in the former case, unfamiliarity with blockchain technology will not necessarily hinder auditing the data stored on the blockchain, as long as the data is extracted properly. Nevertheless, the latter case represents a significant challenge for CPA auditors, and unfamiliarity with blockchain technology in such a case can be the bane of an audit engagement.
+
+Keywords: blockchain, smart contracts, auditing
+
+JEL Classification: M00, M40, M41, M42, M49
+
+Suggested Citation:
+
+Desai, Hrishikesh, An Auditor's Perspective on Smart Contracts and DAOs (July 1, 2023). The CPA Journal, 93(7/8), 60-63 (2023). Publisher: New York State Society of CPAs. Available at https://www.cpajournal.com/2023/10/04/an-auditors-perspective-on-smart-contracts-and-daos/, Available at SSRN: https://ssrn.com/abstract=4593616
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+475
+ABSTRACT VIEWS
+459
+RANK
+138,019
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

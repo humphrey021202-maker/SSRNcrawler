@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Multiscale Stochastic Volatility Model with Heavy Tails and Leverage Effects
+
+Posted: 2 Sep 2014
+
+Tony S. Wirjanto
+
+University of Waterloo, Department of Statistics & Actuarial Science; University of Waterloo - School of Accounting and Finance
+
+Zhongxian Men
+
+Independent
+
+Adam Kolkiewicz
+
+Independent
+
+Date Written: September 1, 2014
+
+Abstract
+
+This paper extends the multiscale stochastic volatility (MSSV) models to allow for heavy tails of the marginal distribution of the asset returns and correlation between the innovation of the mean equation and the innovations of the latent factor processes. Novel algorithms of Markov Chain Monte Carlo (MCMC) are developed to estimate parameters of these models. Results of simulation studies suggest that our proposed models and corresponding estimation methodology perform quite well. We also apply an auxiliary particle filter technique to construct one-step-ahead in-sample and out-of-sample volatility forecasts of the fitted models. In addition the models and MCMC methods are applied to data sets of asset returns from both foreign currency and equity markets.
+
+Keywords: Stochastic Volatility; Bayesian Inference; Markov Chain Monte Carlo; Leverage Effect; Acceptance-rejection; Slice Sampler.
+
+JEL Classification: C10; C41; G10
+
+Suggested Citation:
+
+Wirjanto, Tony S. and Men, Zhongxian and Kolkiewicz, Adam, Multiscale Stochastic Volatility Model with Heavy Tails and Leverage Effects (September 1, 2014). Available at SSRN: https://ssrn.com/abstract=2490029
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,166
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

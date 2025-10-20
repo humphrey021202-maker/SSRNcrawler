@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Empirical Study of Statutory Interpretation in Tax Law
+
+95 New York University Law Review 363 (2020)
+
+79 Pages Posted: 30 Sep 2019 Last revised: 10 Jun 2020
+
+Jonathan H. Choi
+
+Washington University School of Law
+
+Date Written: September 28, 2019
+
+Abstract
+
+A substantial academic literature considers how agencies should interpret statutes. But few studies have considered how agencies actually do interpret statutes, and none has empirically compared the methodologies of agencies and courts in practice. This Article conducts such a comparison, using a newly created dataset of all Internal Revenue Service (IRS) publications ever released, along with an existing dataset of court decisions. It applies natural language processing, machine learning, and regression analysis to map methodological trends and to test whether particular authorities have developed unique cultures of statutory interpretation.
+
+It finds that, over time, the IRS has increasingly made rules on normative policy grounds (like fairness and efficiency) rather than merely producing rules based on the “best reading” of the relevant statute (under any interpretive theory, like purposivism or textualism). Moreover, when the IRS does focus on the statute, it has grown much more purposivist over time. In contrast, the Tax Court has not grown more normative and has followed the same trend toward textualism as most other courts. But although the Tax Court has become more broadly textualist, it prioritizes different interpretive tools than other courts, like Chevron deference and holistic-textual canons of interpretation. This suggests that each authority adopts its own flavor of textualism or purposivism.
+
+These findings complicate the literature on tax exceptionalism and the judicial nature of the Tax Court. They also inform ongoing debates about judicial deference and the future of doctrines like Chevron and Skidmore deference. Most broadly, they provide an empirical counterpoint to the existing theoretical literature on statutory interpretation by agencies.
+
+
+Keywords: Taxation, Federal Income Taxation, Statutory Interpretation, Legislation, Administrative Law, Chevron, Textualism, Purposivism, IRS, Tax Code, Empirical Legal Studies, Law and Economics, Machine Learning, Artificial Intelligence, Computational Empirical Studies
+
+Suggested Citation:
+
+Choi, Jonathan H., An Empirical Study of Statutory Interpretation in Tax Law (September 28, 2019). 95 New York University Law Review 363 (2020), Available at SSRN: https://ssrn.com/abstract=3460962 or http://dx.doi.org/10.2139/ssrn.3460962
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+U S Foley , Tax Ct
+A few judges were appointed and reappointed by Presidents from different parties-these judges are not clearly either Democratic or Republican and were therefore excluded for purposes of this analysis. For example
+Because Tax Court judges serve fifteen-year terms, sometimes they will be reappointed upon the expiration of their terms. Usually, the reappointing President is of the same party as the President originally appointing the judge. For example Posted: 2013
+See Judge Joel Gerber , U S Tax Ct
+Posted: 2013-04-08
+Judge Mary Ann Cohen , U S Tax Ct
+Some Tax Court opinions, particularly memorandum opinions, are written by Posted: 2012-10-02
+Comm'r, 105 T.C.M. (CCH) Posted: 2013
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+897
+ABSTRACT VIEWS
+4,765
+RANK
+60,853
+29 References
+PlumX Metrics
+Related eJournals
+
+Information Systems Legislation & Regulations eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

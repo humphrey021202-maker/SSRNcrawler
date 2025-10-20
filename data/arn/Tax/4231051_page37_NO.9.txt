@@ -1,0 +1,98 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Under Which Conditions Would the ATAD's GAAR Benefit from Automatic Decision-Making in Terms of Legal Certainty and Efficiency?
+
+In: International Tax Studies (ITAXS). - Amsterdam. - Vol. 5 (2022), no. 7 ; 23 p.
+
+Posted: 30 Nov 2022
+
+Matheus Peixoto Behrends
+
+IBDT - Instituto Brasileiro de Direito Tributário
+
+Date Written: August 25, 2022
+
+Abstract
+
+In this article, the author scrutinized the limitations on tax administrations when it comes to enhancing legal certainty and efficiency via automatica decision-making (ADM) models until the Anti-Tax Avoidance Directive and general anti-avoidance rules. A lack of clarity and certainty is identified under the Anti-Tax Avoidance Directive's general anti-avoidance rule framework. To curb this issue, the Court of Justice of the European Union's case lae is a vital source for enhancing integrability with any ADM model. Taxpayers' rights are found to be limited by transparency breaches and data misuse under ADM, mainly in respect of black-box models. An ideal hybrid approach is identified for artificial intelligence, via machine learning and traditional computer mechanisms, since it uses sufficiently less data and requires only a good model understanding. Based on a practical simulation approach, facts and patterns are extracted from case law. If certain conditions are met, findings show that, departing from the Anti-Tax Avoidance Directive's general anti-abuse rule tests, the motive and artificiality test are more prone to automatization than the defeat-of-object-of-purpose test. All of them benefit from the case law of the Court of Justice of the European Union on automated scenarios. Thus, the application of enhanced ADM model issues may be addressed by including human beings in the loop.
+
+Full-text Paper
+
+Keywords: ATAD, GAAR, artificial intelligence
+
+JEL Classification: K33, K34
+
+Suggested Citation:
+
+Peixoto Behrends, Matheus, Under Which Conditions Would the ATAD's GAAR Benefit from Automatic Decision-Making in Terms of Legal Certainty and Efficiency? (August 25, 2022). In: International Tax Studies (ITAXS). - Amsterdam. - Vol. 5 (2022), no. 7 ; 23 p., Available at SSRN: https://ssrn.com/abstract=4231051
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+132
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

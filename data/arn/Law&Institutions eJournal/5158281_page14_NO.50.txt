@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The impact of liquidity on capital structure on UAE-based companies listed on Dubai Financial Market
+
+33 Pages Posted: 27 Feb 2025 Last revised: 10 Sep 2025
+
+Hasan Alaali
+
+Institute of Certified Public Accountant ( ICPAP); Association of International Accountants (AIA)
+
+Date Written: February 27, 2025
+
+Abstract
+
+Objective: This study examines the impact of liquidity on the capital structure of firms listed on the Dubai Financial Market (DFM). It analyzes the influence of liquidity ratios, specifically the current ratio (CR) and quick ratio (QR), on leverage metrics over a thirteen-year period using a random-effects GLS regression analysis. Regression analysis was conducted using STATA version 12.
+
+Results: Analysis reveals that QR was negatively associated with the debt/equity ratio, although the effect was not statistically significant (p > 0.1). Meanwhile, CR demonstrates a significantly negative association with leverage (β = -0.0418, p < 0.1), indicating that firms with higher liquidity tend to rely less on external debt. Moreover, a notable negative correlation was observed between CR and long-term debt levels (β = -0.004, p < 0.01). Liquidity ratios exhibit limited influence on the debt/asset ratio and short-term liabilities. These findings provide empirical evidence of how liquidity constraints influence capital structure strategies in emerging markets such as the UAE.
+
+Conclusion: DFM-listed businesses may not prioritize QR in their capital structure decisions. CR has a stronger role in reducing long-term debt. Conservative views on long-term debt may indicate that firms seek financial flexibility in a changing environment. This study provides empirical contributions into the underexplored relationship between liquidity and capital structure in DFM-listed firms. The findings demonstrate how liquidity difficulties affect UAE enterprises' financing decisions.
+
+Keywords: Capital Structure, Profitability, Liquidity, Company Size, Dubai Financial Market, Finance, Leverage, Emerging Market, UAE, Debt to Equity Ratio
+
+Declaration of Interest
+
+The author declares there are no conflict of interest.
+
+Ethics Approval
+
+This study did not involve human participants, personal data, or experimental procedures; therefore, no formal ethical approval was required. All financial data used in the study were obtained from publicly available sources, including the Dubai Financial Market (DFM) and Thomson Reuters Eikon. The research was conducted in accordance with ethical research standards, ensuring transparency, accuracy, and integrity in data collection, analysis, and reporting.
+
+Funder Statement
+
+This research was self-funded, and no external financial support was received from any institution, organization, or funding body. The author conducted this study independently, ensuring an unbiased and objective analysis.
+
+JEL Classification: G30, G32, G10, G15, G21, M41
+
+Suggested Citation:
+
+Alaali, Hasan, The impact of liquidity on capital structure on UAE-based companies listed on Dubai Financial Market (February 27, 2025). Available at SSRN: https://ssrn.com/abstract=5158281 or http://dx.doi.org/10.2139/ssrn.5158281
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+S Akhtar , B Oliver
+Determinants of capital structure for Japanese multinational and domestic corporations
+International review of finance , volume 9 , issue 1-2 , p. 1 - 26 Posted: 2009
+B T Rahmanto , K Lasmiatun , N Ar , R Toalib , S Syamsinar
+Analysis of the Effect of Liquidity, Leverage, and Profitability on the Financial Performance of Companies in the Indonesian Capital Market
+West Science Business and Management , volume 2 , issue 4 , p. 1181 - 1189 Posted: 2024
+S Aisjah , A Djazuli , R P Widyantara
+The Effect of Transaction Exposure, Firm Size, and Liquidity on Firm Value with Leverage as a Mediating Variable
+Journal of Business and Management , volume 12 , issue 2 , p. 45 - 58 Posted: 2024
+A R Abdul , T Suryanto
+Capital Structure Determinants: Evidence from Palestine and Egypt Stock Exchanges
+Ikonomika , volume 2 , issue 1 , p. 15 - 30 Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+673
+ABSTRACT VIEWS
+2,941
+RANK
+88,978
+47 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

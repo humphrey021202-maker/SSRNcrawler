@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Investor Information Gathering and the Resolution of Uncertainty
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+57 Pages Posted: 12 May 2022
+
+Jed Neilson
+
+Pennsylvania State University
+
+Date Written: April 27, 2022
+
+Abstract
+
+Information gathering is an instinctive response to uncertainty, but such efforts may not fully resolve the uncertainty that prompted them. This implies that proxies for investor information gathering may endogenously reflect investor uncertainty, not only before but also after information collection. I find evidence consistent with this pattern using data on public internet access of SEC filings around firms’ earnings announcements. My findings suggest that proxies for investor search and information gathering can capture both information demand and unresolved uncertainty, which has implications for the interpretation of common empirical tests involving such proxies. Controlling for the uncertainty that motivates information gathering is a potential approach for addressing this endogeneity issue. However, my findings indicate that firm-specific information gathering reflects unique information about firm-level investor uncertainty not captured by common controls for uncertainty. Analyses that exploit plausibly exogenous variation in information gathering suggest a promising direction for future research.
+
+Keywords: Information acquisition, Investor attention, Search, Uncertainty, Earnings announcements, EDGAR
+
+JEL Classification: D80, D83, D89, G12, G14, M40
+
+Suggested Citation:
+
+Neilson, Jed, Investor Information Gathering and the Resolution of Uncertainty (April 27, 2022). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=4095327
+Download This Paper
+ 
+Open PDF in Browser
+92 References
+J S Abarbanell , W N Lanen , R E Verrecchia
+Analysts' forecasts as proxies for investor beliefs in empirical research
+Journal of Accounting and Economics , volume 20 , issue 1 , p. 31 - 60 Posted: 1995
+D Aboody , M E Barth , R Kasznik
+Revaluations of fixed assets and future firm performance: evidence from the UK
+Journal of Accounting and Economics , volume 26 , p. 149 - 178 Posted: 1999
+D Aboody , R Lehavy , B Trueman
+Limited attention and the earnings announcement returns of past stock market winners
+Review of Accounting Studies , volume 15 , issue 2 , p. 317 - 344 Posted: 2010
+E W Anderson , E Ghysels , J L Juergens
+The impact of risk and uncertainty on expected returns
+Journal of Financial Economics , volume 94 , p. 233 - 263 Posted: 2009
+Load more
+6 Citations
+Jason V. Chen
+The Wisdom of Crowds and the Market’s Response to Earnings News: Evidence From the Geographic Dispersion of Investors
+Journal of Accounting & Economics (JAE), Forthcoming · 64 Pages · Posted: 16 Nov 2018 · Last revised: 12 Dec 2022 · Downloads: 346
+Download PDF  Add Paper to My Library
+Stephan Hollander , Robin Litjens
+Localized Information Acquisition
+72 Pages · Posted: 2 Nov 2020 · Last revised: 23 Sep 2022 · Downloads: 474
+Download PDF  Add Paper to My Library
+Xinlei Li , Jason D. Schloetzer , Ayung Tseng , Hui Wang
+Private Meetings With Management and Investor Uncertainty at Subsequent Earnings Announcements
+HKUST Business School Research Paper No. 2022-071, Georgetown McDonough School of Business Research Paper No. 4163114 · 48 Pages · Posted: 25 Jul 2022 · Last revised: 4 May 2023 · Downloads: 385
+Download PDF  Add Paper to My Library
+David García-Méndez
+Does Retail Order Flow Internalization Increase Information Acquisition?
+62 Pages · Posted: 29 Nov 2023 · Last revised: 8 Jun 2025 · Downloads: 249
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+452
+ABSTRACT VIEWS
+1,462
+RANK
+146,388
+6 Citations
+92 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

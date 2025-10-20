@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Industry Classification Providers as Information Intermediaries
+
+Columbia Business School Research Paper No. 5163811
+
+51 Pages Posted: 23 Apr 2025
+
+Kalash Jain
+
+Columbia University - Columbia Business School
+
+Date Written: January 30, 2025
+
+Abstract
+
+External users of financial reporting often rely on industry classification providers to lower information processing costs. I study the economic consequences of capital market participants relying on the Global Industrial Classification Standard (GICS) as an information intermediary. I find that firms with higher quality classifications exhibit stronger liquidity, a lower cost of capital, and higher investment. When exploiting staggered GICS reclassifications as a shock to classification quality, I find relative reductions in cost of capital and increases in investment for firms with lower pre-treatment classification quality. In sample-splitting tests, I find larger effects when sell-side analysts and buy-side investors are more likely to rely on GICS. Finally, a placebo test using the Standard Industrial Classification, which is less relied upon by market participants, shows no link with capital market or investment outcomes. Collectively, these findings demonstrate the significant capital market and real effects facilitated by industry classification providers.
+
+Keywords: Industry Classification, Information Processing, Liquidity, Real Effects, Information Spillover Effects, Peer Effects
+
+JEL Classification: D82, G14, L15, L16, L22
+
+Suggested Citation:
+
+Jain, Kalash, Industry Classification Providers as Information Intermediaries (January 30, 2025). Columbia Business School Research Paper No. 5163811, Available at SSRN: https://ssrn.com/abstract=5163811 or http://dx.doi.org/10.2139/ssrn.5163811
+Download This Paper
+ 
+Open PDF in Browser
+71 References
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series e ects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+Y Amihud , S Levi
+The E ect of Stock Liquidity on the Firm's Investment and Production
+The Review of Financial Studies , p. 1094 - 1147 Posted: 2022
+S Arif , N Marshall , T L Yohn
+Understanding the relation between accruals and volatility: A real options-based investment approach
+Journal of Accounting and Economics , volume 62 , p. 65 - 86 Posted: 2016
+K J Arrow , A C Fisher
+Environmental Preservation, Uncertainty, and Irreversibility* , volume 88 , p. 312 - 319 Posted: 1974
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+147
+ABSTRACT VIEWS
+916
+RANK
+456,571
+71 References
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Real Earnings Smoothing Reduce Investors’ Perceived Risk?
+
+Kim J-B,Wang JJ, Zhang EX. Does real earnings smoothing reduce investors’ perceived risk?. J Bus Fin Acc. 2021;1–36. https://doi.org/10.1111/jbfa.12529
+
+65 Pages Posted: 11 Jun 2019 Last revised: 13 Jul 2022
+
+Jeong-Bon Kim
+
+Simon Fraser University
+
+Jeff J. Wang
+
+San Diego State University - Accountancy
+
+Eliza Xia Zhang
+
+University of Washington, Tacoma - Milgard School of Business
+
+Date Written: May 10, 2021
+
+Abstract
+
+This study examines whether real earnings smoothing influences equity and credit investors’ perceptions of risk. Using a large sample of U.S. public firms, we find that real earnings smoothing is negatively associated with option-implied volatility, suggesting that real earnings smoothing lowers equity investors’ perceived risk. We also find that real earnings smoothing is negatively associated with credit default swap spread, implying that real earnings smoothing lowers credit investors’ perceived risk. Our results are robust to multiple sensitivity analyses and to various tests used to address potential endogeneity. Moreover, the effect of real earnings smoothing is greater than that of accrual-based smoothing, suggesting that real earnings smoothing is more difficult for investors to detect and unravel. Overall, our study documents a new factor that influences both equity and credit investors’ ex ante perceptions of risk.
+
+Keywords: real earnings smoothing; accrual-based earnings smoothing; option-implied volatility; credit default swap spread; perceived risk; credit investors; equity investors
+
+JEL Classification: G12, G32, M41
+
+Suggested Citation:
+
+Kim, Jeong-Bon and Wang, Jeff J. and Zhang, Eliza Xia, Does Real Earnings Smoothing Reduce Investors’ Perceived Risk? (May 10, 2021). Kim J-B,Wang JJ, Zhang EX. Does real earnings smoothing reduce investors’ perceived risk?. J Bus Fin Acc. 2021;1–36. https://doi.org/10.1111/jbfa.12529, Available at SSRN: https://ssrn.com/abstract=3394376 or http://dx.doi.org/10.2139/ssrn.3394376
+Download This Paper
+ 
+Open PDF in Browser
+84 References
+V V Acharya , B M Lambrecht
+A theory of income smoothing when insiders know more than outsiders. The Review of Financial Studies , volume 28 , p. 2534 - 2574 Posted: 2015
+D Acker
+Implied standard deviations and post-earnings announcement volatility
+Journal of Business Finance & Accounting , volume 29 , issue 3-4 , p. 429 - 456 Posted: 2002
+K I Amin , C Lee
+Option trading, price discovery, and earnings news dissemination
+Contemporary Accounting Research , volume 14 , issue 2 , p. 153 - 192 Posted: 1997
+B A Badertscher , D W Collins , T Z Lys
+Discretionary accounting choices and the predictive ability of accruals with respect to future cash flows
+Journal of Accounting and Economics , volume 53 , issue 1-2 , p. 330 - 352 Posted: 2012
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+72
+ABSTRACT VIEWS
+1,548
+RANK
+759,678
+1 Citations
+84 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

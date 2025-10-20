@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Whole is More than the Sum of its Parts: An Intrapersonal Board Diversity Approach
+
+52 Pages Posted: 28 Mar 2022 Last revised: 14 Oct 2022
+
+Christina Liepold
+
+TUM School of Management,Technical University of Munich
+
+Martin Viehweger
+
+LMU Munich School of Management
+
+Date Written: October 14, 2022
+
+Abstract
+
+Research on board composition focuses on interpersonal diversity, e.g., by examining the diversity of individual attributes. Since directors’ decision-making depends on their respective personal backgrounds, directors sharing a large set of characteristic values are more likely to decide similarly and to form subgroups, leading to less efficient communication and decision-making in the board. Following this idea, we introduce intrapersonal board diversity to the discussion on board composition and develop an intrapersonal diversity measure. Using k-means clustering, we form groups of directors that share many characteristic values and, subsequently, calculate the variety of director groups within the board, i.e., intrapersonal board diversity. The results suggest that intrapersonal board diversity relates positively to corporate governance. When examining intrapersonal and interpersonal board diversity simultaneously, we find that intrapersonal diversity explains the benefits and interpersonal diversity the costs of diversity. Establishing a definition for board diversity based on the variety of the distribution of characteristic values among directors can be of particular interest for future research, practice, and regulators.
+
+Keywords: Board Diversity, Group Faultlines, Corporate Governance, Board of Directors
+
+JEL Classification: C12, C33, D22, D70, D81, D83
+
+Suggested Citation:
+
+Liepold, Christina and Viehweger, Martin, The Whole is More than the Sum of its Parts: An Intrapersonal Board Diversity Approach (October 14, 2022). Available at SSRN: https://ssrn.com/abstract=4039546 or http://dx.doi.org/10.2139/ssrn.4039546
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+119
+ABSTRACT VIEWS
+764
+RANK
+541,838
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

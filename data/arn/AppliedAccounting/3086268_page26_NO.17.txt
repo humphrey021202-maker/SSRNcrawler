@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Using DISCs to Avoid Roth IRA Limits: An Overlooked Fact in Summa
+
+Tax Notes, Vol. 157, No. 7, 2017
+
+3 Pages Posted: 14 Dec 2017
+
+Vorris J. Blankenship
+
+Tax Planning for Retirees
+
+Date Written: November 13, 2017
+
+Abstract
+
+The Sixth Circuit recently allowed taxpayers to use a domestic international sales corporation to transfer funds from the taxpayers’ corporation to their Roth IRAs in amounts exceeding Roth IRA contribution limits. In Summa Holdings, individual members of a family and a family trust (collectively, taxpayers) owned nearly all the capital stock of Summa Holdings Inc., a corporation engaged in the manufacture and sale of products to both domestic and foreign customers. Some of the individual taxpayers owned Roth IRAs. The Roth IRAs owned all the capital stock of a holding company (Roth Holding) that in turn owned all the capital stock of a DISC (Summa DISC).
+
+Summa Holdings deducted commissions paid to Summa DISC based on Summa Holdings’ foreign sales. Summa DISC did not pay tax on the commissions because DISCs are tax exempt.
+
+Immediately after the receipt of each commission payment, Summa DISC distributed the payment to Roth Holding. Roth Holding was subject to tax on income at corporate tax rates. Roth Holding distributed each payment (less corporate income taxes) to the Roth IRAs.
+
+The IRS attacked these transactions as lacking substance, asserting that the payments instead constituted dividends from Summa Holdings to taxpayers and contributions by taxpayers to the Roth IRAs. Consequently, the IRS asserted income tax deficiencies against Summa Holdings and the taxpayers and asserted that the owners of the Roth IRAs owed excise taxes for excess contributions to the Roth IRAs.
+
+The Sixth Circuit rejected the IRS position, holding that the substance-over-form doctrine was inapplicable. The court said the words of the statute allowed taxpayers to do what they did and that Congress designed DISCs to reduce or defer income tax on exporters, even if the DISCs lack economic substance. The court was satisfied that Roth IRAs may own DISCs and that Congress designed both DISCs and Roth IRAs to lower taxes. Thus, the court concluded that the taxpayers’ characterization of the transactions did not distort the meaning of the code.
+
+However, a problem remains. The Sixth Circuit either overlooked or considered irrelevant a significant fact in the case. The lower court said the Summa DISC distributed each of its commission payments immediately after receiving it. Consequently, contrary to the appellate court’s apparent belief, the taxpayers did not take advantage of the tax deferral benefits Congress provided for DISC income (as more fully explained in the article). As the court acknowledged, Congress provided those deferral benefits to encourage taxpayers to invest in export property and increase export sales. Although the Sixth Circuit’s opinion in Summa Holdings provided a solid analysis for a hypothetical case, that hypothetical case would involve a DISC that is actually used to reap the tax benefits intended for promotion of export sales. Unfortunately, though, Summa Holdings is not such a case. Nor would it seem that a similar arrangement should survive scrutiny merely by using DISC tax benefits that are de minimis. It is unclear, however, how much “tax substance” the DISC should have to survive scrutiny.
+
+Suggested Citation:
+
+Blankenship, Vorris J., Using DISCs to Avoid Roth IRA Limits: An Overlooked Fact in Summa (November 13, 2017). Tax Notes, Vol. 157, No. 7, 2017, Available at SSRN: https://ssrn.com/abstract=3086268
+Download This Paper
+ 
+Open PDF in Browser
+3 References
+Reg
+Crossref
+Ltd Thomas International
+United States, 773 F.2d 300 (Fed. Cir Posted: 1985
+Foley Machinery , Co
+Posted: 1988
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+44
+ABSTRACT VIEWS
+843
+3 References
+PlumX Metrics
+Related eJournals
+
+International Corporate Finance eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

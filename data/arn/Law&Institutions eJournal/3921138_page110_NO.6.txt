@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Profitability Analysis with the Fuzzy Logic: A Hospital Example
+
+Corporate Governance and Organizational Behavior Review, 5(2), 17–31. https://doi.org/10.22495/cgobrv5i2p2
+
+15 Pages Posted: 13 Sep 2021
+
+Tunay Aslan
+
+Istanbul Aydin University
+
+Cevdet Kizil
+
+Istanbul Medeniyet University
+
+Erdal Yılmaz
+
+Samsun Ondokuz Mayıs Üniversitesi
+
+Date Written: September 09, 2021
+
+Abstract
+
+Implementation of the fuzzy logic is a modern approach for cost-volume-profit analysis and decision-making process under risk and uncertainty (Yuan, 2009). The implementation of the fuzzy logic approach especially makes sense for profit or loss estimations in developing countries, where uncertainties and risks are often observed (Roztocki & Weistroffer, 2005). This study aimed to estimate the profit or loss of indirect Coombs blood test, which is among the 100 blood tests run by the laboratory department of a healthcare organization located in Istanbul, Turkey, that started operations in 2018. Another purpose of the research was to compare the profit or loss estimated by fuzzy logic with the actual values. Research questions of the study were: 1) Can fuzzy logic be used in the health sector’s profitability estimates? 2) What is the estimated success rate of fuzzy logic in the case of uncertainty and complexity? 3) If the fuzzy logic can be used in the health sector’s profit forecasts, how close are the estimated profit sums achieved by the fuzzy logic to the actual profit sums? Based on the findings of the study, profit estimated by the fuzzy logic is in a close range to actual values with a low error rate.
+
+Keywords: Accounting, Finance, Fuzzy Logic, Profitability, Health Sector, Estimation
+
+JEL Classification: C13, C60, I00, M40, M41
+
+Suggested Citation:
+
+Aslan, Tunay and Kizil, Cevdet and Yılmaz, Erdal, Profitability Analysis with the Fuzzy Logic: A Hospital Example (September 09, 2021). Corporate Governance and Organizational Behavior Review, 5(2), 17–31. https://doi.org/10.22495/cgobrv5i2p2, Available at SSRN: https://ssrn.com/abstract=3921138
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+Maliyet muhasebesi Posted: 2006
+Türkiye İstanbul
+T Aslan , C Kizil
+Bulanik mantik yöntemiyle açlik kan şekerikarlilik analizi: Bir sağlik kuruluşunda uygulama [Fasting blood glucose profitability analysis with fuzzy logic method: An implementation in a healthcare organization
+Muhasebe ve Denetime Bakış , volume 55 , p. 59 - 84 Posted: 2018
+T Aslan , E Yilmaz
+Bulanık mantık yöntemi ile belirsizlik şartlarında faaliyet-hacimkar analizi [Costvolume profit analysis in uncertainty conditions using fuzzy logic method
+Journal of Business Research Türk , volume 10 , issue 2 , p. 534 - 553 Posted: 2018
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+273
+ABSTRACT VIEWS
+768
+RANK
+255,414
+62 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Benefits of Article 11 Pro Forma Disclosure
+
+61 Pages Posted: 24 Oct 2024
+
+Matthew Kubic
+
+University of Texas at Austin
+
+Date Written: September 16, 2024
+
+Abstract
+
+The U.S. Securities and Exchange Commission (SEC) mandates disclosure of Article 11 pro forma financial statements (pro formas) for acquisitions that exceed one of three bright-line materiality thresholds. Motivated by two theories of mandated disclosure, I investigate the conditions under which mandated pro forma disclosure improves forecast accuracy and mitigates incentive alignment problems. My findings indicate that pro formas reduce post-acquisition forecast errors when there is a weak pre-acquisition information environment. The reduction in forecast errors is larger when pro formas contain more income statement disaggregation and footnote disclosure. Using announcement returns, deal failure, and future profitability to measure acquisition quality, I find that pro formas mitigate an incentive alignment problem by increasing transparency. The forecasting and incentive alignment benefits concentrate in the same subsamples, suggesting that pro formas are more likely to mitigate an incentive alignment problem when they help to forecast future earnings.
+
+Keywords: accuracy enhancement, acquisition, incentive alignment
+
+JEL Classification: M41, M48, G34
+
+Suggested Citation:
+
+Kubic, Matthew, The Benefits of Article 11 Pro Forma Disclosure (September 16, 2024). Available at SSRN: https://ssrn.com/abstract=4958148 or http://dx.doi.org/10.2139/ssrn.4958148
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+103
+ABSTRACT VIEWS
+798
+RANK
+605,468
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

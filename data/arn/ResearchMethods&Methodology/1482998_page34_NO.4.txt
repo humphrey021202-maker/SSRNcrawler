@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting Variables and Bankruptcy Risk for Non-Listed Firms
+
+49 Pages Posted: 6 Oct 2009 Last revised: 10 Sep 2012
+
+Bengt Pramborg
+
+Swedish Export Credit Corporation
+
+Date Written: June 10, 2012
+
+Abstract
+
+In this paper I investigate the relation between accounting based variables and bankruptcy risk, using information available for non-listed firms. I use a large sample of firms and find that many of the variables suggested earlier in the literature seem to provide little explanatory power. Further, I find that industry classification does not add much explanatory power of bankruptcy risk not captured by other variables. I suggest a seven-factor model including accounting variables and firm age which performs well out-of-sample. The results suggest that estimated coefficients are unstable, but that the variables are consistently strong determinants of bankruptcy risk.
+
+Keywords: Bankruptcy Risk, Hazard Models, Cox Regressions, Private Firms
+
+JEL Classification: G33, M41, C41
+
+Suggested Citation:
+
+Pramborg, Bengt, Accounting Variables and Bankruptcy Risk for Non-Listed Firms (June 10, 2012). Available at SSRN: https://ssrn.com/abstract=1482998 or http://dx.doi.org/10.2139/ssrn.1482998
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+E I Altman
+Financial Ratios, Discriminant Analysis, and the Prediction of Corporate Bankruptcy
+Journal of Finance , volume 23 , p. 589 - 609 Posted: 1968
+Crossref
+E I Altman
+Predicting Financial Distress of Companies: Revisiting the Zscore and ZETA R Models Posted: 2000
+Crossref
+E I Altman , Sabato
+Modelling Credit Risk for SMEs: Evidence from the U.S. Market
+Abacus , volume 43 , p. 332 - 357 Posted: 2007
+Crossref
+W H Beaver
+Financial Ratios as Predictors of Failure
+Selected Studies , volume 4 , p. 67 - 92 Posted: 1966
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+302
+ABSTRACT VIEWS
+2,136
+RANK
+229,982
+1 Citations
+17 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Default Risk in Equity Returns
+
+By Maria Vassalou and Yuhang Xing
+
+News Related to Future GDP Growth as a Risk Factor in Equity Returns
+
+By Maria Vassalou
+
+News Related to Future GDP Growth as Risk Factors in Equity Returns
+
+By Maria Vassalou
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

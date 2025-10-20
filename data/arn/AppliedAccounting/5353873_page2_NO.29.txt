@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Considerations on Auditors' Judgment Criteria - Focusing on Revenue Recognition for Software
+
+Tohoku Management & Accounting Research Group | Discussion Paper No. 118 | July 2015
+
+22 Pages Posted: 4 Aug 2025
+
+Masatoshi Sakaki
+
+Tohoku University
+
+Hiroko Inokuma
+
+Keio University - Graduate School of System Design and Management; Tohoku University
+
+Date Written: July 01, 2015
+
+Abstract
+
+International Financial Reporting Standards (IFRS), which are being adopted as a means of international standardization of accounting, are said to have characteristics that differ from US standards and Japanese standards in terms of their adoption of a principles-based approach. Principle-based accounting is based on the philosophy of aiming for the ideal form of financial reporting without being bound by detailed rules in the relationship between auditors and companies preparing financial reports. However, in the actual application of these principles-that is, when preparing financial statements in accordance with the standards and conducting audits of such statements-auditors or companies must adopt different approaches compared to traditional practices (Nobes, 2005; Benston, Bromwich, and Wagenhofer, 2006a, 2006b, etc.). This paper examines specific accounting events that give rise to judgmental variability in audit judgments, focusing on revenue recognition for software, which requires complex judgments such as estimates, and discusses the relationship between the various types of audit judgment criteria and the actual responses of auditors. We demonstrate, with concrete examples, that regardless of whether the applicable audit standards follow a rule-based or principle-based approach, auditors form a basis for judgment-often referred to as "Auditor GAAP"-to fill gaps in the standards. This role becomes particularly significant when transitioning to a principle-based approach.
+
+Keywords: Audit Judgment, Software Revenue Recognition, VSOE, Auditor GAAP, US Standards, Principle-Based, Rule-Based
+
+JEL Classification: M41, M42, F2, G18
+
+Suggested Citation:
+
+Sakaki, Masatoshi and Inokuma, Hiroko, Considerations on Auditors' Judgment Criteria - Focusing on Revenue Recognition for Software (July 01, 2015). Tohoku Management & Accounting Research Group | Discussion Paper No. 118 | July 2015, Available at SSRN: https://ssrn.com/abstract=5353873 or http://dx.doi.org/10.2139/ssrn.5353873
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+A Research -Based Perspective on the SEC's Proposed Rule-Roadmap for the Potential Use of Financial Statements Prepared
+Accordance with International Financial Reporting Standards (IFRS) by U.S. Issuers、 " Accounting Horizons、 Vol , volume 24 , p. 139 - 147 Posted: 2010
+The Impact of Academic Accounting Research on Professional Practice : An Analysis by the AAA Research Impact Task Force
+Accounting Horizons , volume 23 , issue 4 , p. 411 - 456 Posted: 2009
+AAA's Financial Accounting Standards Committee Posted: 2003
+Concept-Based vs. Rules-Based Approaches to Standards Setting
+Accounting Horizons、 , volume 17 , issue 1 , p. 73 - 89
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+16
+ABSTRACT VIEWS
+125
+47 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

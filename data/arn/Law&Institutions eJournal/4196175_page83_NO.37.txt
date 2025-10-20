@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Joint Impact of Capital Regulation and Loan-Loss Reserving on Crisis Lending
+
+47 Pages Posted: 29 Aug 2022
+
+Karthik Balakrishnan
+
+Rice University - Jesse H. Jones Graduate School of Business
+
+Xiao Liu
+
+Southern Methodist University (SMU) - Accounting Department
+
+Shiva Sivaramakrishnan
+
+Rice University
+
+Date Written: August 17, 2022
+
+Abstract
+
+We provide evidence that bank capitalization and loan-loss reserving jointly determine pro-cyclicality in lending. Using the Global Financial Crisis of 2007-2009 as our context, we document that even banks with high regulatory capital buffers (High RCB banks) reduce lending during the crisis. More- over, for High RCB banks, Crisis-lending is inversely related to the size of the buffer. We find that High RCB banks have higher risk exposures in their loan portfolios heading into the Crisis. These findings suggest that High RCB banks faced greater unexpected losses during the Crisis and, hence, cut back on lending more. This channel is distinct from the capital-crunch effect faced by banks with low regulatory capital buffers (Low RCB banks). Our evidence suggests that adequate loan- loss reserving heading into the crisis mitigates pro-cyclicality effect for both types of banks. Our analysis provides insight into the novel dimension of usability of capital buffers during downturns.
+
+
+Keywords: Bank Lending, Prudential Regulation, loan-loss Provisioning
+
+JEL Classification: G32, G38, L1, M41
+
+Suggested Citation:
+
+Balakrishnan, Karthik and Liu, Xiao and Sivaramakrishnan, Shiva, Joint Impact of Capital Regulation and Loan-Loss Reserving on Crisis Lending (August 17, 2022). Available at SSRN: https://ssrn.com/abstract=4196175 or http://dx.doi.org/10.2139/ssrn.4196175
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+S Agarwal , S Chomsisengphet , J C Driscoll ; Aiyar , S , C W Calomiris , J Hooley , Y Korniyenko , T Wieladek
+The international transmission of bank capital requirements: Evidence from the UK
+Journal of Financial Economics , volume 113 , issue 3 , p. 368 - 382 Posted: 2004
+F Allen , E Carletti , R Marquez
+Credit market competition and capital regulation
+The Review of Financial Studies , volume 24 , issue 4 , p. 983 - 1018 Posted: 2011
+N Arjani
+Procyclicality and bank capital
+Financial System Review , volume 6 , p. 33 - 39 Posted: 2009
+R Auer , S Ongena
+The countercyclical capital buffer and the composition of bank lending: evidence from Switzerland
+, volume 593 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+128
+ABSTRACT VIEWS
+870
+RANK
+511,510
+40 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

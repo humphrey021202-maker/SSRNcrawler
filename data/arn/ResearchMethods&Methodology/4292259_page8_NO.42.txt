@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fraud Power Laws
+
+Jacobs Levy Equity Management Center for Quantitative Financial Research Paper
+
+66 Pages Posted: 11 Dec 2022 Last revised: 19 Dec 2023
+
+Edwige Cheynel
+
+Washington University in St. Louis - John M. Olin Business School
+
+Davide Cianciaruso
+
+New Economic School (NES)
+
+Frank Zhou
+
+University of Pennsylvania - The Wharton School
+
+Date Written: December 16, 2023
+
+Abstract
+
+Using misstatement data, we find that the distribution of detected fraud features a heavy tail. We propose a theoretical mechanism that explains such a relatively high frequency of extreme frauds. In our dynamic model, a manager manipulates earnings for personal gain. A monitor of uncertain quality can detect fraud and punish the manager. As the monitor fails to detect fraud, the manager's posterior belief about the monitor's effectiveness decreases. Over time, the manager's learning leads to a slippery slope, in which the size of frauds grows steeply, and to a power law for detected fraud. Empirical analyses corroborate the slippery slope and the learning channel. As a policy implication, we establish that a higher detection intensity can increase fraud by enabling the manager to identify an ineffective monitor more quickly. Further, non-detection of frauds below a materiality threshold, paired with a sufficiently steep punishment scheme, can prevent large frauds.
+
+Keywords: heavy tails, corporate fraud, earnings manipulation, punishment, zero tolerance
+
+JEL Classification: D01; M4; M41; M42; M48
+
+Suggested Citation:
+
+Cheynel, Edwige and Cianciaruso, Davide and Zhou, Frank, Fraud Power Laws (December 16, 2023). Jacobs Levy Equity Management Center for Quantitative Financial Research Paper , Available at SSRN: https://ssrn.com/abstract=4292259 or http://dx.doi.org/10.2139/ssrn.4292259
+Download This Paper
+ 
+Open PDF in Browser
+69 References
+D Amiram , Z Bozanic , J D Cox , Q Dupont , J M Karpoff , R Sloan
+Financial reporting fraud and other forms of misconduct: A multidisciplinary review of the literature
+Review of Accounting Studies , volume 23 , p. 732 - 783 Posted: 2018
+D Amiram , S Huang , S
+Does financial reporting misconduct pay off even when discovered?
+Review of Accounting Studies , volume 25 , issue 3 , p. 811 - 854 Posted: 2020
+A Arya , J Glover , S Sunder
+Earnings management and the revelation principle
+Review of Accounting Studies , volume 3 , issue 1-2 , p. 7 - 34 Posted: 1998
+A C Baker , D F Larcker , C C Wang
+How much should we trust staggered difference-in-differences estimates
+Journal of Financial Economics , volume 144 , issue 2 , p. 370 - 395 Posted: 2022
+Load more
+1 Citations
+Matthias Breuer , Eva Labro , Haresh Sapra , Anastasia A. Zakolyukina
+Bridging Theory and Empirical Research in Accounting
+Chicago Booth Research Paper No. 24-06, Fama-Miller Working Paper , University of Chicago, Becker Friedman Institute for Economics Working Paper 2024-38 · 27 Pages · Posted: 3 Apr 2024 · Last revised: 28 May 2024 · Downloads: 304
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+395
+ABSTRACT VIEWS
+1,796
+RANK
+171,059
+1 Citations
+69 References
+PlumX Metrics
+Related eJournals
+
+The Wharton School, University of Pennsylvania Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

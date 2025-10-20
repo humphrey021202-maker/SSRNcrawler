@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Review on the Probability of Default for IFRS 9
+
+49 Pages Posted: 14 Dec 2021 Last revised: 20 Apr 2022
+
+Matthias Bank
+
+University of Innsbruck
+
+Bernhard Eder
+
+University of Innsbruck
+
+Date Written: December 9, 2021
+
+Abstract
+
+By means of a systematic literature review, we provide a comprehensive overview of 52 contributions on the estimation of the probability of default according to the "Expected Credit Loss Model" (ECLM) in IFRS~9 and the corresponding stage allocation. We distinguish the models discussed to estimate the probability of default with regard to the data they use as well as their time-space and state-space. Thus, we not only consider the merits and limitations of particular models in isolation, but also demonstrate how they are related to each other and where they differ. Due to the methodological diversity alone, it can be expected that loss allowances for expected credit losses will differ significantly across banks. In addition, we discuss the implementation of the stage allocation in the ECLM. Its inherent scope for discretion is likely to further amplify differences in the level of loss allowances across banks.
+
+Keywords: IFRS 9, expected credit loss model, financial instruments, literature review
+
+JEL Classification: C58, G23, M41
+
+Suggested Citation:
+
+Bank, Matthias and Eder, Bernhard, A Review on the Probability of Default for IFRS 9 (December 9, 2021). Available at SSRN: https://ssrn.com/abstract=3981339 or http://dx.doi.org/10.2139/ssrn.3981339
+Download This Paper
+ 
+Open PDF in Browser
+110 References
+Edward I Altman , Erkki K Małgorzata Iwanicz-Drozdowska , Arto Laitinen , Suvas
+Financial and nonfinancial variables as long-horizon predictors of bankruptcy
+Journal of Credit Risk , volume 12 , issue 4 , p. 4092 - 4111 Posted: 2016
+Bart Baesens , Daniel Röesch , Harald Scheule
+Credit Risk Analytics: Measurement Techniques, Applications, and Examples in SAS Posted: 2017
+Anil Bangia , Francis X Diebold , Christian Kronimus Andréand Schagen , Til Schuermann
+Ratings Migration and the Business Cycle, with Application to Credit Portfolio Stress Testing
+Journal of Banking & Finance , volume 26 , issue 2-3 , p. 445 - 474 Posted: 2002
+Guidance on accounting for expected credit losses. Guideline. Basel Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,175
+ABSTRACT VIEWS
+3,279
+RANK
+41,608
+110 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

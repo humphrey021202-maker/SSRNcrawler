@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Factors Affecting Information Systems Audit Conclusion
+
+Proceedings of the International Conference on Information Systems and Emerging Technologies (ICISET)
+
+6 Pages Posted: 30 Nov 2023
+
+Ericky Iipumbu
+
+Namibia University of Science and Technology
+
+Isaac Nhamu
+
+Namibia University of Science and Technology
+
+Mercy Chitauro
+
+Namibia University of Science and Technology
+
+Date Written: November 29, 2023
+
+Abstract
+
+This paper examines the elements that significantly affect an information system audit's conclusion. The importance of guaranteeing the effectiveness, efficiency, and security of information systems has been underlined by the ongoing advancement of technology and the growing reliance on digital infrastructure. An information system audit's main goal is to assess the systems' overall integrity and to reassure stakeholders that they are trustworthy and sufficiently protected against any hazards. The paper identifies and examines the important elements that affect the outcome of information system audits by drawing on a thorough examination of the literature and empirical studies. Conducting a thorough and accurate information systems audit requires an understanding of these aspects and the proper handling of them. The results of this study give significant contributions to the field of information system auditing and provide a foundation for auditors, IT managers, and policymakers to create efficient plans for carrying out thorough and insightful audits. The ultimate goal of this article is to increase the resilience of information systems in a constantly evolving digital environment and to create a greater awareness of the elements that support audit conclusions.
+
+Keywords: Information System Audit, Risk assessment, CIA, Internal controls
+
+Suggested Citation:
+
+Iipumbu, Ericky and Nhamu, Isaac and Chitauro, Mercy, Factors Affecting Information Systems Audit Conclusion (November 29, 2023). Proceedings of the International Conference on Information Systems and Emerging Technologies (ICISET), Available at SSRN: https://ssrn.com/abstract=4648690 or http://dx.doi.org/10.2139/ssrn.4648690
+Download This Paper
+ 
+Open PDF in Browser
+5 References
+A Alagić , L Turulja , N Bajgorić
+Identification of Information System Audit Quality Factors
+Journal of Forensic Accounting Profession , volume 1 , issue 2 , p. 1 - 28 Posted: 2021
+S ; Pci Alexiou , Qsa , Isaca , C Martin , Cisa , Cissp
+trends challenges-and-strategies-foreffective-audit-ina-rapidly-changing-landscape INTOSAI
+Trends, Challenges, and Strategies for Effective Audit in a Rapidly Changing Landscape Posted: 2019-11-01
+F Nabil
+The role of information technology in improving auditing quality and reporting at the State Audit Bureau of Kuwait Posted: 2021-11-13
+M T Siponen , A Vance
+Neutralization: New Insights into the Problem of Employee Information Systems Security Policy Violations
+Management Information Systems Quarterly , volume 34 , issue 3 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+109
+ABSTRACT VIEWS
+683
+RANK
+580,215
+5 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

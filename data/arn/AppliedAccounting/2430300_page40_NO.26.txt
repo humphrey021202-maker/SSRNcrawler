@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Should We Measure Bank Capital Adequacy for Triggering Prompt Corrective Action? A (Simple) Proposal
+
+Journal of Financial Stability 20 (2015) 131-143
+
+47 Pages Posted: 29 Apr 2014 Last revised: 11 Nov 2015
+
+Lucy Chernykh
+
+Clemson University
+
+Rebel A. Cole
+
+Florida Atlantic University
+
+Date Written: August 28, 2015
+
+Abstract
+
+In this study, we test the predictive power of several alternative measures of bank capital adequacy in identifying U.S. bank failures during the recent crisis period. We find that an unconventional ratio — the non-performing asset coverage ratio — significantly outperforms Basel-based ratios including the Tier 1 ratio, the Total Capital Ratio, and the Leverage ratio — throughout the crisis period. It also outperforms in predicting failures among ― "well-capitalized" banks (as defined by the current Prompt Corrective Action guidelines). Based on our results, we argue that NPACR outperforms other ratios in at least five aspects: (i) it aligns capital and credit risks — the two primary risks of bank failures — in one measure; (ii) it is easier to calculate than the Tier 1 and Total Capital ratios, as it requires calculation of no complex risk weights; (iii) it allows one to account for various time period and cross-country provisioning rules and regimes, including episodes of regulatory forbearance and cross-country differences; (iv) it removes the incentives of both banks and regulators to mask capital deficiencies by creating/requiring insufficient loan-loss reserves; and (v) it outperforms all other commonly used capital ratios in predicting bank failures. We believe that all the above features of proposed measure promise its effective use in the prompt corrective actions by bank regulators. We also expect that this single and informative measure of bank risk can be efficiently used in empirical banking studies. The results of this study also shed light on regulatory forbearance during the recent banking crisis.
+
+Keywords: bank, bank failure, banking supervision, Basel, capital adequacy, forbearance, leverage ratio, PCA, prompt corrective action, Tier 1
+
+JEL Classification: G21, G28, G32, G33
+
+Suggested Citation:
+
+Chernykh, Lucy and Cole, Rebel A., How Should We Measure Bank Capital Adequacy for Triggering Prompt Corrective Action? A (Simple) Proposal (August 28, 2015). Journal of Financial Stability 20 (2015) 131-143, Available at SSRN: https://ssrn.com/abstract=2430300 or http://dx.doi.org/10.2139/ssrn.2430300
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+V V Acharya
+Is the international convergence of capital adequacy regulation desirable?
+The Journal of Finance , volume 58 , issue 6 , p. 2745 - 2782 Posted: 2003
+Crossref
+R Aggarwal , Jacques , K T
+The impact of FDICIA and prompt corrective action on bank capital and risk: Estimates using a simultaneous equations model
+Journal of Banking & Finance , volume 25 , issue 6 , p. 1139 - 1160 Posted: 2001
+Crossref
+F Allen , E Carletti , R Marquez
+Credit market competition and capital regulation
+Review of Financial Studies , volume 24 , issue 4 , p. 983 - 1018 Posted: 2011
+Crossref
+B Arnold , C Borio , L Ellis , F Moshirian
+Systemic risk, macroprudential policy frameworks, monitoring financial systems and the evolution of capital adequacy
+Journal of Banking & Finance , volume 36 , issue 12 , p. 3125 - 3132 Posted: 2012
+Crossref
+Load more
+2 Citations
+Rebel A. Cole , Lawrence J. White
+When Time Is Not on Our Side: The Costs of Regulatory Forbearance in the Closure of Insolvent Banks
+Journal of Banking and Finance, Forthcoming · 50 Pages · Posted: 27 Nov 2015 · Last revised: 17 Mar 2017 · Downloads: 202
+Download PDF  Add Paper to My Library
+James W. Kolari , Ivan Sanz
+Forecasting Bank Capital Ratios Using the Prophet Model by Facebook
+39 Pages · Posted: 27 Jun 2022 · Last revised: 11 Aug 2022 · Downloads: 217
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+333
+ABSTRACT VIEWS
+3,112
+RANK
+206,880
+2 Citations
+41 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

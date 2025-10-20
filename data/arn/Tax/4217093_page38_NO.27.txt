@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+R&D Tax Credits and Innovation *
+
+130 Pages Posted: 23 Sep 2022 Last revised: 11 Apr 2024
+
+Walter Melnik
+
+Marquette University - Department of Economics
+
+Andrew Smyth
+
+Boise State University - Department of Economics
+
+Date Written: June 04, 2024
+
+Abstract
+
+Previous work suggests that research and development (R&D) tax credits increase R&D expenditure. We exploit the staggered adoption of state-level R&D tax credits in the United States to examine their effect on innovation itself. In particular, we consider ten commonly-studied patent characteristics that have received little or no attention in the extant literature on R&D incentives. Our empirical approach suggests that R&D tax credits reduce the user cost of R&D and increase R&D expenditure, but we find no aggregate evidence that such credits increase patenting in credit-adopting states. Nor do credits increase the scientific quality of patents, as captured by patent citations. On the other hand, R&D tax credits increase patent novelty and we see large and significant increases in the market value of patents in credit-adopting states. All of our aggregate results are driven by states with larger effective credits and by larger firms, because such firms produce the vast majority of patents. These results have important implications for R&D public policy.
+
+Keywords: research and development, innovation, patents, tax credits, state taxation JEL: O31, O38, H25, H32, H71
+
+JEL Classification: O31, O38, H25, H32, H71
+
+Suggested Citation:
+
+Melnik, Walter and Smyth, Andrew, R&D Tax Credits and Innovation * (June 04, 2024). Available at SSRN: https://ssrn.com/abstract=4217093 or http://dx.doi.org/10.2139/ssrn.4217093
+Download This Paper
+ 
+Open PDF in Browser
+85 References
+Alberto Abadie
+Semiparametric difference-in-differences estimators
+The Review of Economic Studies , volume 72 , issue 1 , p. 1 - 19 Posted: 2005
+Alberto Abadie
+Statistical nonsignificance in empirical economics
+American Economic Review: Insights , volume 2 , issue 2 , p. 193 - 208 Posted: 2020
+Ufuk Akcigit , Douglas Hanley , Nicolas Serrano-Velarde
+Back to basics: Basic research spillovers, innovation policy, and growth
+The Review of Economic Studies , volume 88 , issue 1 , p. 1 - 43 Posted: 2021
+Ufuk Akcigit , John Grigsby , Tom Nicholas , Stefanie Stantcheva
+Taxation and Innovation in the Twentieth Century
+The Quarterly Journal of Economics , volume 137 , issue 1 , p. 329 - 385 Posted: 2022
+Load more
+6 Citations
+Panle Jia Barwick , Hyuk-soo Kwon , Shanjun Li , Yucheng Wang , Nahim Bin Zahur
+Industrial Policies and Innovation: Evidence from the Global Automobile Industry
+68 Pages · Posted: 20 Dec 2024 · Last revised: 20 Dec 2024 · Downloads: 31
+Download PDF  Add Paper to My Library
+Panle Jia Barwick , Hyuk-Soo Kwon , Shanjun Li , Yucheng Wang , Nahim Zahur
+Industrial Policies and Innovation: Evidence from the Global Automobile Industry
+NBER Working Paper No. w33138 · 69 Pages · Posted: 12 Nov 2024 · Last revised: 12 Nov 2024 · Downloads: 11
+ Add To Cart  Add Paper to My Library
+Panle Jia Barwick , Hyuk-Soo Kwon , Shanjun Li , Yucheng Wang , Nahim Zahur
+Industrial Policies and Innovation: Evidence from the Global Automobile Industry
+University of Chicago, Becker Friedman Institute for Economics Working Paper No. 2024-141 · 69 Pages · Posted: 14 Nov 2024 · Downloads: 1
+Download PDF  Add Paper to My Library
+Kayla Freeman
+One Sows and Another Reaps: Outsourcing Innovation to Suppliers
+71 Pages · Posted: 19 Feb 2025 · Last revised: 21 Aug 2025 · Downloads: 143
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+446
+ABSTRACT VIEWS
+2,034
+RANK
+148,703
+6 Citations
+85 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

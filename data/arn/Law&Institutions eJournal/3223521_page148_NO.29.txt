@@ -1,0 +1,148 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Information Technology on Stock Price Crash Risk: Evidence from the EDGAR Implementation
+
+47 Pages Posted: 9 Sep 2019 Last revised: 4 Sep 2019
+
+Feng Guo
+
+Iowa State University - Department of Accounting and Finance
+
+Ling Lei Lisic
+
+Virginia Tech - Pamplin College of Business
+
+Michael D. Stuart
+
+Oklahoma State University - Stillwater - Spears School of Business
+
+Chong Wang
+
+Hong Kong Polytechnic University - Faculty of Business
+
+Date Written: August 2019
+
+Abstract
+
+This paper examines the effect of information technologies on stock price crash risk. Information technology advancements change the way firm-specific information is disseminated and acquired, providing significant benefits to investors. We use the required staggered implementation of the SEC’s Electronic Data Gathering and Analysis Retrieval system (EDGAR) to examine the impact of information technologies on stock price crash risk. We find that the implementation of EDGAR is associated with a decrease in stock price crash risk and this effect is more pronounced for firms with greater information asymmetry. Additionally, we provide evidence that conservatism increases following the EDGAR implementation, suggesting that more timely recognition of bad news is a channel through which stock price crash risk decreases following the implementation. Our results suggest that information technologies that strengthen the monitoring ability of investors limit managers’ ability to conceal and hoard bad news, which ultimately reduces stock price crash risk.
+
+Keywords: Information technology, EDGAR, stock price crash risk
+
+Suggested Citation:
+
+Guo, Feng and Lisic, Ling Lei and Stuart, Michael D. and Wang, Chong, The Impact of Information Technology on Stock Price Crash Risk: Evidence from the EDGAR Implementation (August 2019). Available at SSRN: https://ssrn.com/abstract=3223521 or http://dx.doi.org/10.2139/ssrn.3223521
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+A Ali , S Klasa , E Yeung
+Industry concentration and corporate disclosure policy
+Journal of Accounting and Economics , volume 58 , issue 2-3 , p. 240 - 264 Posted: 2014
+Crossref
+M Amador , P Weill
+Learning from prices: Public communication and welfare
+Journal of Political Economy , volume 118 , p. 866 - 907 Posted: 2010
+Crossref
+H An , T Zhang
+Stock price synchronicity, crash risk, and institutional investors
+Journal of Corporate Finance , volume 21 , p. 1 - 15 Posted: 2013
+Crossref
+S Asthana , S Balsam
+The effect of EDGAR on the market reaction to 10-K filings
+Journal of Accounting and Public Policy , volume 20 , issue 4-5 , p. 349 - 372 Posted: 2001
+Crossref
+Load more
+4 Citations
+Zheng Liu , Ning Zhang
+The productivity effect of digital financial reporting
+Review of Accounting Studies , volume 29 , issue 3 , p. 2350 Posted: 2024
+Crossref
+ITAY GOLDSTEIN , SHIJIE YANG , LUO ZUO
+The Real Effects of Modern Information Technologies: Evidence from the EDGAR Implementation
+Journal of Accounting Research , volume 61 , issue 5 , p. 1699 Posted: 2023
+Crossref
+Enrique A. Gomez
+The Effect of Mandatory Disclosure Dissemination on Information Asymmetry among Investors: Evidence from the Implementation of the EDGAR System
+The Accounting Review , volume 99 , issue 1 , p. 235 Posted: 2024
+Crossref
+Xiaoran Ni , Ye Wang , David Yin
+Does Modern Information Technology Attenuate Managerial Information Hoarding? Evidence from EDGAR Implementation
+Journal of Corporate Finance, Forthcoming · 44 Pages · Posted: 22 Feb 2021 · Last revised: 27 Sep 2021 · Downloads: 306
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+520
+ABSTRACT VIEWS
+2,738
+RANK
+123,612
+4 Citations
+15 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fair Value Accounting and Financial Contagion: the Effect of Marking up
+
+48 Pages Posted: 22 Apr 2019 Last revised: 20 Mar 2025
+
+Chao Tang
+
+Hong Kong University of Science & Technology (HKUST) - Department of Accounting
+
+Date Written: March 22, 2019
+
+Abstract
+
+This paper examines how fair value accounting can create financial contagion by allowing financially healthy banks to mark up their assets to fair value. Prior research has primarily focused on the economic consequences of marking down, whereas this study contributes to the literature by highlighting a novel trade-off of marking up. On one hand, a healthy bank obtains additional regulatory capital by marking up its assets, which enables it to acquire an insolvent bank that would otherwise be liquidated in an inefficient secondary market. On the other hand, the possibility of acquiring another bank may coordinate banks to raise more deposits ex ante. As a result, the failure of the insolvent bank can trigger the healthy bank's failure even if it would have survived without the acquisition, leading to financial contagion and systemic bank failures. I demonstrate that due to this trade-off, marking up may decrease social welfare and is therefore undesirable.
+
+Keywords: Fair Value Accounting, Financial Contagion, Capital Regulation, Coordination
+
+JEL Classification: G21, G28, M41, M48
+
+Suggested Citation:
+
+Tang, Chao, Fair Value Accounting and Financial Contagion: the Effect of Marking up (March 22, 2019). Available at SSRN: https://ssrn.com/abstract=3358180 or http://dx.doi.org/10.2139/ssrn.3358180
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+V V Acharya , T Yorulmazer
+Too many to fail-an analysis of timeinconsistency in bank closure policies
+Journal of Financial Intermediation , volume 16 , issue 1 , p. 1 - 31 Posted: 2007
+F Allen , E Carletti
+Mark-to-market accounting and liquidity pricing
+Journal of Accounting and Economics , volume 45 , issue 2 , p. 358 - 378 Posted: 2008
+A Arya , J Glover
+Tracks: Bailouts and unwanted coordination
+Journal of Accounting, Auditing & Finance , volume 21 , issue 1 , p. 109 - 117 Posted: 2006
+A Banal-Estañol , M Ottaviani , A Winton
+The ‡ip side of …nancial synergies: Coinsurance versus risk contamination
+The Review of Financial Studies , volume 26 , issue 12 , p. 3142 - 3181 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+11
+ABSTRACT VIEWS
+1,507
+28 References
+PlumX Metrics
+Related eJournals
+
+HKUST Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Smooth Forecast Reconciliation
+
+IMF Working Paper No. 2024/066
+
+28 Pages Posted: 27 Mar 2024
+
+Sakai Ando
+
+International Monetary Fund (IMF)
+
+Abstract
+
+How to make forecasts that (1) satisfy constraints, like accounting identities, and (2) are smooth over time? Solving this common forecasting problem manually is resource-intensive, but the existing literature provides little guidance on how to achieve both objectives. This paper proposes a new method to smooth mixed-frequency multivariate time series subject to constraints by integrating the minimum-trace reconciliation and Hodrick-Prescott filter. With linear constraints, the method has a closed-form solution, convenient for a high-dimensional environment. Three examples show that the proposed method can reproduce the smoothness of professional forecasts subject to various constraints and slightly improve forecast performance.
+
+Keywords: Smoothness, Forecast Reconciliation, Minimum Trace Reconciliation, Hodrick-Prescott filter, Cross-sectional, Temporal
+
+JEL Classification: C53, E17, E37
+
+Suggested Citation:
+
+Ando, Sakai, Smooth Forecast Reconciliation. IMF Working Paper No. 2024/066, Available at SSRN: https://ssrn.com/abstract=4774327 or http://dx.doi.org/10.5089/9798400271762.001
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+Sakai Ando , Taehoon Kim
+Systematizing Macroframework Forecasting: High-Dimensional Conditional Forecasting with Accounting Identities
+IMF Economic Review Posted: 2023
+Sakai Ando , Futoshi Narita
+An Alternative Proof of Minimum Trace Reconciliation Posted: 2022
+Sakai Ando , Mingmei Xiao
+High-Dimensional Covariance Matrix Estimation: Shrinkage Toward a Diagonal Target Posted: 2023
+George Athanasopoulos , Rob Hyndman
+Forecasting with Temporal Hierarchies
+Nikolaos Kourentzes, and Fotios Petropoulos Posted: 2017
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+35
+ABSTRACT VIEWS
+271
+22 References
+PlumX Metrics
+Related eJournals
+
+International Monetary Fund (IMF) Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

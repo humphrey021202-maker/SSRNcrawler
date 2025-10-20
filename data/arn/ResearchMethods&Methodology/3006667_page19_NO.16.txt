@@ -1,0 +1,96 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Miscodings in Compustat's Auditor Variable: Issues, Identification, and Correction
+
+Advances in Accounting, Vol. 43, November 2018
+
+Posted: 23 Jul 2017 Last revised: 2 Nov 2018
+
+Steven Utke
+
+University of Connecticut - Department of Accounting
+
+Date Written: July 10, 2018
+
+Abstract
+
+Using an easily implementable methodology for identifying potential data errors, I identify and correct cases where Compustat miscodes its auditor variable. In this paper, I present the methodology and provide SAS code that implements the methodology, enabling researchers to easily identify and correct auditor miscodings. Further, I provide a list of corrections for a sample of Compustat firms from 2001 to 2014. Auditor variable miscodings have implications for both audit-specific research as well as general capital markets research. I find that in some cases, miscodings arise from the fact that, following an auditor change, the previous auditor’s report remains in a firm’s 10-K, and Compustat occasionally codes the previous auditor as the current auditor. Aside from identifying and correcting miscodings, I also find that a non-zero number of firms change to a new auditor and then, after only one year with the new auditor, switch back to the prior auditor.
+
+Keywords: Auditor changes, Auditor tenure, Industry specialization, Big 4, Data integrity, Compustat
+
+JEL Classification: M40
+
+Suggested Citation:
+
+Utke, Steven, Miscodings in Compustat's Auditor Variable: Issues, Identification, and Correction (July 10, 2018). Advances in Accounting, Vol. 43, November 2018, Available at SSRN: https://ssrn.com/abstract=3006667 or http://dx.doi.org/10.2139/ssrn.3006667
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,820
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

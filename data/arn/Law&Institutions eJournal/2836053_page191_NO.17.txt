@@ -1,0 +1,157 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+   
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Political Connections and the Informativeness of Insider Trades
+
+Rock Center for Corporate Governance at Stanford University Working Paper No. 222
+
+Journal of Finance (Forthcoming)
+
+Jacobs Levy Equity Management Center for Quantitative Financial Research Paper
+
+108 Pages Posted: 8 Sep 2016 Last revised: 24 Mar 2020
+
+Alan D. Jagolinzer
+
+University of Cambridge Judge Business School
+
+David F. Larcker
+
+Stanford Graduate School of Business; Stanford University - Hoover Institution; European Corporate Governance Institute (ECGI)
+
+Gaizka Ormazabal
+
+University of Navarra, IESE Business School; European Corporate Governance Institute (ECGI); Centre for Economic Policy Research (CEPR)
+
+Daniel J. Taylor
+
+The Wharton School, University of Pennsylvania
+
+There are 2 versions of this paper
+
+Date Written: February 1, 2020
+
+Abstract
+
+We analyze the trading of corporate insiders at leading financial institutions during the 2007 to 2009 financial crisis. We find strong evidence of a relation between political connections and informed trading during the period in which TARP funds were disbursed, and that the relation is most pronounced among corporate insiders with recent direct connections. Notably, we find evidence of abnormal trading by politically connected insiders 30 days in advance of TARP infusions, and that these trades anticipate the market reaction to the infusion. Our results suggest that political connections can facilitate opportunistic behavior by corporate insiders.
+
+Keywords: Political Connections; Insider Trading; Financial Crisis; Troubled Asset Relief Program; Capital Purchase Program
+
+JEL Classification: G14; G20; G28; G30; K2
+
+Suggested Citation:
+
+Jagolinzer, Alan D. and Larcker, David F. and Ormazabal, Gaizka and Taylor, Daniel, Political Connections and the Informativeness of Insider Trades (February 1, 2020). Rock Center for Corporate Governance at Stanford University Working Paper No. 222, Journal of Finance (Forthcoming), Jacobs Levy Equity Management Center for Quantitative Financial Research Paper, Available at SSRN: https://ssrn.com/abstract=2836053 or http://dx.doi.org/10.2139/ssrn.2836053
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+30) window. Panel B of this table presents results from estimating the regression specification in Table VII, Panel C after decomposing Buyer(-30,-1) into separate indicator variables for the direction of trade over the fiveday window prior to the infusion, Buyer(-5,-1), and the prior 25-day window, Buyer(-30,-6). The sample comprises 256 capital infusions across 249 firms and 31 dates, excluding the nine initial recipients. t-statistics (two-tailed pvalues) based on standard errors clustered by
+Panel A of this table presents results from estimating the regression specification in Table VII, Panel C over the , volume 60
+Lauren Cohen , Christopher Malloy , Lukasz Pomorski
+Decoding inside information
+Journal of Finance , volume 67 , p. 1009 - 1043 Posted: 2012
+Crossref
+Josef Lakonishok , Inmoo Lee
+Are insider trades informative?
+Review of Financial Studies , volume 14 , p. 79 - 111 Posted: 2001
+Crossref
+Joseph D Piotroski , Darren T Roulstone
+Do insider trades reflect both contrarian beliefs and superior knowledge about future cash flow realizations?
+Journal of Accounting and Economics , volume 39 , p. 55 - 81 Posted: 2005
+Crossref
+Load more
+14 Citations
+Tao Li , Kun Mo
+From connection to collusion: How college admissions bow to powerful alumni in China
+Governance Posted: 2020
+Crossref
+Senthil Kumar Muthusamy , Ramadevi Kannan
+Market Efficiency or Lack Thereof: A Critique and Rethinking on Corporate Governance
+40 Pages · Posted: 12 Apr 2015 · Last revised: 19 Oct 2022 · Downloads: 590
+Download PDF  Add Paper to My Library
+Robert M. Bushman , Robert H. Davidson , Aiyesha Dey , Abbie J. Smith
+Bank CEO Materialism: Risk Controls, Culture and Tail Risk
+Forthcoming, Journal of Accounting and Economics · 64 Pages · Posted: 17 May 2016 · Last revised: 5 Dec 2017 · Downloads: 839
+Download PDF  Add Paper to My Library
+Ozlem Akin , Nicholas Coleman , Christian Fons-Rosen , Jose-Luis Peydro
+Political Connections: Evidence from Insider Trading Around TARP
+39 Pages · Posted: 15 Dec 2016 · Last revised: 27 Apr 2018 · Downloads: 227
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,517
+ABSTRACT VIEWS
+16,747
+RANK
+12,811
+14 Citations
+4 References
+PlumX Metrics
+Related eJournals
+
+The Wharton School, University of Pennsylvania Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+DEI Public Sentiment and Corporate DEI Performances
+
+Posted: 3 Jan 2025 Last revised: 20 Jan 2025
+
+Alice Hsieh
+
+University of California, Berkeley
+
+Der-Tzon Hsieh
+
+National Taiwan University - Department of Economics
+
+Shih Ting Hsieh
+
+affiliation not provided to SSRN
+
+Hai-Chin Yu
+
+Chung Yuan Christian University
+
+Date Written: June 17, 2024
+
+Abstract
+
+This study examines the influence of public sentiment on corporate performance in the context of diversity, equity, and inclusion (DEI). Despite the growing societal emphasis on DEI, limited research explores whether positive or negative public sentiment drives substantial organizational change. This research investigates the correlation between DEI news sentiment and actual DEI performance by utilizing a comprehensive dataset from RavenPack, which includes DEI-related news events across 38 countries from 2010 to 2022.
+
+The DEI performance metrics analyzed include board diversity, employee demographics, inclusion initiatives, etc. Our findings reveal that firms with higher positive DEI sentiment exhibit increased gender diversity at the board level and many other DEI metrics, although some DEI measures are mixed.
+
+We employ an instrumental variables approach to address endogeneity concerns, using major index inclusions as instruments for public sentiment. A difference-in-differences analysis, leveraging the Big Three campaign and the #MeToo movement, provides further validation.
+
+The results indicate that public sentiment significantly influences corporate behavior through heightened scrutiny and media coverage, motivating firms to align with DEI goals. This study contributes to academic discourse by offering a novel method for measuring DEI efforts using news sentiment analysis and underscoring the critical role of media scrutiny in advancing DEI within corporate governance.
+
+Declaration of Interest
+
+none
+
+Ethics Approval
+
+none
+
+Funder Statement
+
+none
+
+Suggested Citation:
+
+Hsieh, Alice and Hsieh, Der-Tzon and Hsieh, Shih Ting and Yu, Hai-Chin, DEI Public Sentiment and Corporate DEI Performances (June 17, 2024). Available at SSRN: https://ssrn.com/abstract=5075857
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+329
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Economics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

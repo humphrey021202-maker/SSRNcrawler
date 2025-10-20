@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Box 12, IRS W-2, to the Rescue: The Effect of Transferring Pre-Tax Employer-Sponsored Health Insurance Funds to Employees On After-Tax Income, Federal Income and Payroll Taxes, Health Insurance Premiums, and Health Care Costs
+
+Duke Law School Public Law & Legal Theory Series No. 2019-43
+
+Posted: 26 Jun 2019
+
+Regina Herzlinger
+
+Harvard University - Business School (HBS)
+
+Barak D. Richman
+
+George Washington University - Law School; CERC, Stanford Univ. School of Medicine
+
+Date Written: June 18, 2019
+
+Abstract
+
+Current tax law prevents workers from trading pre-tax employer-sponsored insurance (ESI) premiums for greater after-tax take-home income. Many workers thus may pay for health plans that are more expensive or have different features from plans they would directly choose for themselves. The tax subsidization of ESI also likely leads to excessive spending on health care because it lowers its costs relative to other non tax-subsidized goods and services. Some propose limiting or eliminating this employer-based health insurance tax exemption for these reasons; its regressivity; and its drain of potential tax revenues.
+
+Because of the long history and popular support for ESI, we consider these proposals as practically and politically infeasible. Instead, we simulate the financial results of expanding employee choice and ability to control costs within the traditional structure of ESI by allowing employees, either through Health Reimbursement Accounts (HRAs) or other tax-free mechanisms, to receive their employers’ premium contribution directly and then purchase health insurance themselves from a larger number of health plans than those currently offered to them. The minimal choice in most current ESI plans may force enrollees into plans that do not reflect their preferences and thus imposes an allocative cost. Some empirical research indicates that enrollees would welcome expansion in their choice of plans and that it yields beneficial financial results. Other research, however, indicates that choice overload leads to sub-optimal selection results. It is likely that differences in the educational and transparency support resources partially explain these conflicting results.
+
+In our simulation, employees could deduct for income tax purposes the amount used for insurance and, if they spend less than the amount transferred, adjusted for a cross-subsidization holdback from lower-cost employees to higher-cost ones, take the remainder as taxed income. The simulation indicates that annual after-tax household income would have grown by $101–$252 billion and federal tax revenues increased by $39–$163 billion, depending on the concentration of risk in the ESI pool. Lower- and middle-income households gained proportionately more income than higher income ones. The greater take-up of slimmed down policies leads to reduced net spending in the health care delivery system, which, because of the large size of the ESI enrollee pool, would likely spill over to governmental health care programs. These results are based on three specific assumptions about the concentration of risk in the corporate pool and complete ESI implementation of our proposal.
+
+Research about the impact of reduced coverage insurance policies generally indicates that they are significantly lower priced. As for health status, the nation’s largest social science experiment, conducted primarily in the 1970s, found that reduced coverage had no impact except for low-income people who are currently covered by Medicaid and the Affordable Care Act. However, subsequent analysis revealed that reduced coverage affected the use of preventive care, even if it was fully insured.
+
+Harnessing consumer choice requires a fully transparent and informative ESI system. Informed employee insurance selections require an adequate choice of reasonable insurance plans, disclosure by employers of their contributions, how much employee take-home wages are reduced to pay for ESI, the actuarial value of the plans, and how those employee contributions and actuarial values compare to peer firms and change over time. This enhanced disclosure will likely cause an increase in plan choice. Instructional and navigational support also appear to be key to effective choice of insurance plans.
+
+Keywords: After-Tax Income, Consumer-Driven Health Care, Health Care Costs, Health Insurance, Income Inequality, Tax Policy
+
+JEL Classification: I13, I18, H24, J33
+
+Suggested Citation:
+
+Herzlinger, Regina and Richman, Barak D., Box 12, IRS W-2, to the Rescue: The Effect of Transferring Pre-Tax Employer-Sponsored Health Insurance Funds to Employees On After-Tax Income, Federal Income and Payroll Taxes, Health Insurance Premiums, and Health Care Costs (June 18, 2019). Duke Law School Public Law & Legal Theory Series No. 2019-43, Available at SSRN: https://ssrn.com/abstract=3406196 or http://dx.doi.org/10.2139/ssrn.3406196
+ Not Available for Download
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,656
+PlumX Metrics
+Related eJournals
+
+Duke Law School Public Law & Legal Theory Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

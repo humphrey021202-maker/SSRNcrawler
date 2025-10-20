@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Disclosure Quality on COVID-19 of European Banks in Half-Year and Year-End Financial Statements 2020
+
+European Banking Institute Working Paper Series 2021 - no. 105
+
+96 Pages Posted: 14 Nov 2021
+
+Edgar Loew
+
+Frankfurt School of Finance and Management gGmbH
+
+Michelle Elodie Schröder
+
+Frankfurt School of Finance & Management
+
+Date Written: November 9, 2021
+
+Abstract
+
+In March 2020, Covid-19 was declared a pandemic by the World Health Organization. Most European governments reacted with lockdowns. A drop in demand as well as supply disruptions affected the economy which also hit European banks with quite a lot of uncertainty, not only regarding possible future loan losses. Due to the experience of the last financial crisis in 2008 European regulatory bodies and standard setters (like ESMA, EBA, IOSCO or IASB) immediately communicated their expectations on disclosure regarding the pandemic’s impact in order to meet the objective of the IFRS to provide decision-useful information to stakeholders. The majority of these publications was released during the second quarter of 2020 and became available to the banks for the preparation of their half-year reports. As ESMA considers Covid-19 a significant event under IAS 34 a high level of disclosures is required in interim reports.
+
+The aim of the following study is to examine the extent to which banks fulfilled the disclosure expectations communicated by the relevant professional institutions. For this purpose, a disclosure index approach will be applied to half-year reports and annual reports for the year 2020 from European banks. The selection of banks is based on the list of significant entities being directly supervised by the ECB. A totality of 86 annual reports and 67 interim reports are analysed. To a large extent, the sample appropriately reflects the European banking sector seen by the EBA.
+
+48 disclosure items are derived to structure a disclosure index. A dichotomous approach is used to avoid a high degree of subjectivity. Items are grouped thematically, resulting in twelve categories. Therefrom, the category “credit risk”, forms with a total of 13 elements by far the largest category. Furthermore, for comparison reasons a weighted as well as an unweighted index are calculated for each report. Within the weighted index quantitative disclosure elements are being weighted more heavily than qualitative ones.
+
+Seven hypotheses are tested with the following expectations. The disclosure quality in annual reports is higher than in half-year reports. Banks, which have published a half-year report 2020, fulfil the disclosure expectations in their annual reports 2020 to a higher degree. Larger banks provide more information on Covid-19 related topics. Listed banks meet disclosure expectations to a greater extent than unlisted banks. Profitable banks provide more information. The CET1 ratio is positively linked to the level of disclosure. Banks which are more heavily affected by the pandemic fulfil the disclosure requirements to a minor degree than other banks.
+
+It is shown that less than 50 per cent of the expected disclosures of the respective authorities are fulfilled. Only parts of the credit risk disclosure satisfy and there is a lot of room for improvement for the next reporting period. Furthermore, the study provides a deep and detailed insight into the areas and the level of disclosure of European banks.
+
+
+Keywords: Bank Accounting, Banks, Disclosure, Accounting, Auditing, Covid-19
+
+JEL Classification: G15, G18, G21, G28, H81, K22, K23, M41, M42, M48
+
+Suggested Citation:
+
+Loew, Edgar and Schröder, Michelle Elodie, Disclosure Quality on COVID-19 of European Banks in Half-Year and Year-End Financial Statements 2020 (November 9, 2021). European Banking Institute Working Paper Series 2021 - no. 105, Available at SSRN: https://ssrn.com/abstract=3959543 or http://dx.doi.org/10.2139/ssrn.3959543
+Download This Paper
+ 
+Open PDF in Browser
+103 References
+Πανεπιστήμιο Πειραιώς / University of Piraeus
+Alma Mater Studiorum -Università di Bologna
+Academia de Studii Economice din București (ASE)
+Goethe-Universität
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+514
+ABSTRACT VIEWS
+2,083
+RANK
+125,376
+1 Citations
+103 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

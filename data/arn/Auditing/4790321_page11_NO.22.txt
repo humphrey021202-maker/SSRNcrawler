@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Artificial Intelligence in Auditing: A Conceptual Framework for Auditing Practices
+
+21 Pages Posted: 10 Apr 2024
+
+Diogo Leocádio
+
+Portuguese Military Research Center (CINAMIL), Portuguese Military Academy (Academia Militar)
+
+João Reis
+
+Portuguese Military Research Center (CINAMIL), Portuguese Military Academy (Academia Militar)
+
+Luís Malheiro
+
+Portuguese Military Research Center (CINAMIL), Portuguese Military Academy (Academia Militar)
+
+Abstract
+
+The transition to digital business systems has revolutionized organizational operations, driven by the integration of advanced technologies such as Artificial Intelligence (AI). This integration indicates a shift, redefining traditional practices and enhancing efficiency across diverse sectors such as finance, healthcare, and manufacturing. This study explores the impact of AI on auditing through a Systematic Literature Review to develop a Conceptual Framework for auditing practices. The theoretical implications show the transformative role of AI in redefining auditors' roles, shifting from retrospective examination to proactive real-time monitoring. Moreover, managerial contributions stress the benefits of AI integration, enabling informed decision-making in risk analysis, financial management, and regulatory compliance. Future research should explore AI's influence on auditing efficiency, performance, regulatory challenges, and auditor adaptation. Overall, this study underlines the importance for organizations to embrace AI integration in auditing practices, fostering innovation, competitiveness, and resilience
+
+Keywords: Artificial Intelligence, Auditing, Conceptual Framework, Real-time Monitoring
+
+Suggested Citation:
+
+Leocádio, Diogo and Reis, João and Malheiro, Luís, Artificial Intelligence in Auditing: A Conceptual Framework for Auditing Practices. Available at SSRN: https://ssrn.com/abstract=4790321 or http://dx.doi.org/10.2139/ssrn.4790321
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+A A H Abdullah , F A Almaqtari
+The impact of artificial intelligence and Industry 4.0 on transforming accounting and auditing practices
+Journal of Open Innovation: Technology, Market, and Complexity , volume 10 , issue 1 , p. 1 - 20 Posted: 2024
+I O Adeoye , R I Akintoye , A A Theophilus , O A Olagunju
+Artificial intelligence and audit quality: Implications for practicing accountants
+Asian Economic and Financial Review , volume 13 , issue 11 , p. 756 - 772 Posted: 2023
+A Afsay , A Tahriri , Z Rezaee
+A meta-analysis of factors affecting acceptance of information technology in auditing
+International Journal of Accounting Information Systems , volume 49 , p. 1 - 27 Posted: 2023
+M A Agustí , M Orta-Pérez
+Big data and artificial intelligence in the fields of accounting and auditing: a bibliometric analysis
+Revista Espanola de Financiacion y Contabilidad , volume 52 , issue 3 , p. 412 - 438 Posted: 2023
+Load more
+2 Citations
+Nguyen Thi Thanh Binh
+Transforming Auditing in the AI Era: A Comprehensive Review
+Information , volume 16 , issue 5 , p. 400 Posted: 2025
+Crossref
+Titilayo Modupe Kolade , Nsidibe Taiwo Aideyan , Seun Michael Oyekunle , Olumide Samuel Ogungbemi , Dooshima Louisa Dapo-Oyewole , Oluwaseun Oladeji Olaniyi
+Artificial Intelligence and Information Governance: Strengthening Global Security, through Compliance Frameworks, and Data Security
+22 Pages · Posted: 28 Jan 2025 · Downloads: 200
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+561
+ABSTRACT VIEWS
+3,146
+RANK
+112,534
+2 Citations
+48 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

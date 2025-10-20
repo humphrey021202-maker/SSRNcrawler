@@ -1,0 +1,149 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A social network transmission model of investor relations
+
+36 Pages Posted: 25 May 2011 Last revised: 8 Mar 2024
+
+Judson Caskey
+
+Purdue University - Daniels School of Business
+
+Michael Minnis
+
+University of Chicago - Booth School of Business
+
+Venky Nagar
+
+University of Michigan, Stephen M. Ross School of Business
+
+Date Written: March 3, 2024
+
+Abstract
+
+This study models a firm's investors as connected via a social network and examines how an appropriate investor relations (IR) strategy can maximize information flow through this network. When IR can initially reach only a few investors, information flows faster when IR targets highly connected investors through, for example, direct contact. When IR can initially reach many investors, information flows faster from un-targeted broadcast-type communications that reach random investors. Turning to empirically measurable outcomes of information flow, we show that the time series of bid-ask spreads have a hump-shaped pattern, first increasing and then decreasing. Faster information flows cause a sharper, but briefer, bid-ask spread spike. Such results provide a rigorous framework for thinking about how IR activities drive stock liquidity, and unite several observed empirical regularities into an investor social network based framework for investor relations activities, a research area where descriptive empirical findings have outpaced theory.
+
+Keywords: disclosure, networks, investor relations, bid-ask spreads
+
+JEL Classification: D85, G12, G14, M41
+
+Suggested Citation:
+
+Caskey, Judson and Minnis, Michael and Nagar, Venky, A social network transmission model of investor relations (March 3, 2024). Available at SSRN: https://ssrn.com/abstract=1848323 or http://dx.doi.org/10.2139/ssrn.1848323
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+K Allee , B Bushee , T Kleppe , A Pierce
+Did the siebel systems case limit the sec's ability to enforce regulation fair disclosure?
+Journal of Accounting Research , volume 60 , p. 1235 - 1291 Posted: 2022
+D Andrei , J Cujean
+Information percolation, momentum and reversal
+Journal of Financial Economics , volume 123 , p. 617 - 645 Posted: 2017
+M Barthélemy , A Barrat , R Pastor-Satorras , A Vespignani
+Dynamical patterns of epidemic outbreaks in complex heterogeneous networks
+Journal of Theoretical Biology , volume 235 , p. 275 - 288 Posted: 2005
+E Blankespoor , E Dehaan , I Marinovic
+Disclosure processing costs, investors' information choice, and equity market outcomes: A review
+Journal of Accounting and Economics , volume 70 Posted: 2020
+Load more
+2 Citations
+Asher Curtis , Vernon J. Richardson , Roy Schmardebeck
+Investor Attention and the Pricing of Earnings News
+Handbook of Sentiment Analysis in Finance, Forthcoming · 40 Pages · Posted: 17 Jul 2014 · Last revised: 4 Oct 2016 · Downloads: 1,334
+Download PDF  Add Paper to My Library
+Shuangjin Wang , xiaoqian zhang , Richard Cebula , Maggie C. Foley , Qing Wang
+The Interlocking Shareholding Network and Corporate Strategic Risk-Taking: The Dual Mediating Effects of Implicit Capital and Operational Efficiency Metrics
+FRL-D-24-05859 · 24 Pages · Posted: 6 Jan 2025 · Downloads: 13
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+754
+ABSTRACT VIEWS
+5,007
+RANK
+76,893
+2 Citations
+33 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Geography of Investment: Informed Trading and Asset Prices
+
+By Joshua D. Coval and Tobias J. Moskowitz
+
+Social Interaction and Stock Market Participation
+
+By Jeffrey D. Kubik, Harrison G. Hong, ...
+
+Social Interaction and Stock-Market Participation
+
+By Jeffrey D. Kubik, Harrison G. Hong, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

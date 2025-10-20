@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Panda Games: Corporate Disclosure in the Eclipse of Search
+
+Kelley School of Business Research Paper No. 18-2
+
+56 Pages Posted: 8 Dec 2017 Last revised: 12 Oct 2020
+
+Kemin Wang
+
+Fudan University - School of Management
+
+Xiaoyun Yu
+
+Shanghai Jiao Tong University (SJTU) - Shanghai Advanced Institute of Finance (SAIF); European Corporate Governance Institute (ECGI); National University of Singapore (NUS) - Asian Bureau of Finance and Economic Research (ABFER); China Academy of Financial Research (CAFR)
+
+Bohui Zhang
+
+The Chinese University of Hong Kong, Shenzhen
+
+Date Written: October 10, 2020
+
+Abstract
+
+We show that firms strategically alter their disclosure strategy when investors’ access to information via search engines is interrupted. We conduct a textual analysis and exploit an exogenous event—Google’s 2010 surprising withdrawal from mainland China, which significantly hampered domestic investors’ ability to search for foreign information but did not affect their cost to access domestic information. Following Google’s exit, Chinese firms’ announcements on foreign transactions become more bullish relative to domestic transactions. This effect is mitigated in the presence of foreign investors or analysts affiliated with foreign brokers, who are not subject to foreign information censorship by the Chinese government. Moreover, compared to those that operate domestically, firms with foreign operations issue rosier annual reports and manage earnings to a greater extent after Google’s departure; their stock prices also become less informative. These optimistic announcements or annual reports allow insiders to sell more shares at a higher price.
+
+Keywords: Technology and governance, strategic disclosure, textual analysis, Google
+
+JEL Classification: G3, D80, L86
+
+Suggested Citation:
+
+Wang, Kemin and Yu, Xiaoyun and Zhang, Bohui, Panda Games: Corporate Disclosure in the Eclipse of Search (October 10, 2020). Kelley School of Business Research Paper No. 18-2, Available at SSRN: https://ssrn.com/abstract=3083995 or http://dx.doi.org/10.2139/ssrn.3083995
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+Balakrishnan , Mary B Karthik , Bryan Billings , Alexander Kelly , Ljungqvist
+Shaping Liquidity: On the Causal Effects of Voluntary Disclosure
+Journal of Finance , volume 69 , p. 2237 - 2278 Posted: 2014
+Crossref
+Baloria , P Vishal , Jonas Heese
+The Effects of Media Slant on Firm Behavior
+Journal of Financial Economics , volume 129 , p. 184 - 202 Posted: 2018
+Crossref
+Brad Barber , Terrance Odean
+All that Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors
+Review of Financial Studies , volume 21 , p. 785 - 818 Posted: 2008
+Crossref
+Brad Barber , Reuven Lehavy , Maureen Mcnichols , Brett Trueman
+Can Investors Profit from the Prophets? Consensus Analyst Recommendations and Stock Returns , volume 56 , p. 773 - 806 Posted: 2001
+Crossref
+Load more
+9 Citations
+Junru Zhang , Yuan George Shan , Fei Peng
+Web-Crawling Architecture in Accounting and Finance Research
+Journal of Computer Information Systems , volume 62 , issue 5 , p. 875 Posted: 2022
+Crossref
+Tim Loughran , Bill McDonald
+Measuring Firm Complexity
+Journal of Financial and Quantitative Analysis, Forthcoming · 55 Pages · Posted: 15 Jul 2020 · Last revised: 25 Oct 2023 · Downloads: 4,381
+Download PDF  Add Paper to My Library
+Yangyang Chen , Zihui Li , Lijun Ma , Min Zhang
+Does a Sudden Breakdown in Public Information Search Impair Analyst Forecast Accuracy? Evidence from Google’s Withdrawal from China
+55 Pages · Posted: 18 Feb 2021 · Last revised: 30 Aug 2025 · Downloads: 416
+Download PDF  Add Paper to My Library
+Lin Tan , Xiaoyan Zhang , Xinran Zhang
+Retail and Institutional Investor Trading Behaviors: Evidence from China
+Annual Review of Financial Economics · 52 Pages · Posted: 29 Nov 2023 · Last revised: 2 May 2024 · Downloads: 704
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,025
+ABSTRACT VIEWS
+5,017
+RANK
+50,596
+9 Citations
+29 References
+PlumX Metrics
+Related eJournals
+
+Indiana University Kelley School of Business Research Paper Series
+
+Follow
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Business Fraud Detection, Prevention, and Investigations with Conversational Ai
+
+https://doi.org/10.1108/978-1-83549-852-120251004
+
+42 Pages Posted: 19 May 2025 Last revised: 9 Jun 2025
+
+Hrishikesh Desai
+
+Arkansas State University
+
+Date Written: April 01, 2024
+
+Abstract
+
+As financial crimes evolve, traditional fraud detection systems struggle to keep pace. This chapter explores how the latest conversational AI technologies like ChatGPT or Claude can revolutionize fraud management. Leveraging natural language processing, these AI assistants can analyze data intelligently, identify red flags, provide regulatory context, and guide investigations. The seven case studies in this chapter illustrate conversational AI's applications across anti-money laundering (AML) processes – transaction monitoring, network analysis, alert suppression, sanction screening, know-your-customer (KYC), audits, and regulatory reporting. The AI assistants can detect complex patterns, visualize criminal networks, rationalize alerts, automate filings, and enable auditors to validate AI model fairness transparently. However, responsible implementation of conversational AI in fraud management requires addressing data quality, privacy, AI bias, and model explainability challenges. Techniques like data masking, SHAP/LIME, counterfactual explanations, and fairness metrics are proposed as potential solutions. Conversational AI empowers financial institutions with cognitive capabilities to outmaneuver fraudsters continuously. Yet ethical AI principles of accountability, transparency, and fairness must be upheld for successful adoption.
+
+Keywords: Anti-Money Laundering, Bias Mitigation, ChatGPT, Claude, Conversational AI, Data Privacy, Explainable AI, Fraud Detection
+
+Suggested Citation:
+
+Desai, Hrishikesh, Business Fraud Detection, Prevention, and Investigations with Conversational Ai
+(April 01, 2024). https://doi.org/10.1108/978-1-83549-852-120251004, Available at SSRN: https://ssrn.com/abstract=5251141
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+Occupational Fraud 2022: Report to the Nations Posted: 2023
+S Barocas , A D Selbst
+Big data's disparate impact
+California. Law Review , volume 104 Posted: 2016
+A Bell , J Fonseca , C Abrate , F Bonchi , J Stoyanovich
+Fairness in Algorithmic Recourse Through the Lens of Substantive Equality of Opportunity Posted: 2024
+R M Byrne
+Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning
+Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI) , p. 6276 - 6282 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+25
+ABSTRACT VIEWS
+296
+20 References
+PlumX Metrics
+Related eJournals
+
+Banking & Insurance eJournal
+
+Follow
+
+Risk Management & Analysis in Financial Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

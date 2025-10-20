@@ -1,0 +1,148 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+   
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Cross Section of Expected Holding Period Returns and Their Dynamics: A Present Value Approach
+
+Journal of Financial Economics (JFE), Forthcoming
+
+Harvard Business School Accounting & Management Unit Working Paper No. 13-050
+
+Rotman School of Management Working Paper No. 2182628
+
+57 Pages Posted: 2 Dec 2012 Last revised: 20 Jun 2014
+
+Matthew R. Lyle
+
+Goizueta Business School
+
+Charles C. Y. Wang
+
+Harvard University - Business School (HBS); Harvard University - Accounting & Control Unit; European Corporate Governance Institute (ECGI)
+
+Date Written: June 19, 2014
+
+Abstract
+
+We provide a tractable model of firm-level expected holding period returns using two firm fundamentals ― book-to-market ratio and ROE ― and study the cross-sectional properties of the model-implied expected returns. We find that: 1) firm level expected returns and expected profitability are time-varying, but highly persistent; 2) forecasts of holding period returns strongly predict the cross section of future returns up to three years ahead. We document a highly significant predictive pooled regression slope for future quarterly returns of 0.86, whereas the popular factor-based expected return models have either an insignificant or a significantly negative association with future returns. In supplemental analyses, we show that these forecasts are also informative of the time-series variation in aggregate conditions: 1) for a representative firm, the slope of the conditional expected return curve is more positive in good times, when expected short-run returns are relatively low; 2) the model-implied forecaster of aggregate returns exhibits modest predictive ability. Collectively, we provide a simple, theoretically-motivated, and practically useful approach to estimating multi-period ahead expected returns.
+
+Keywords: Expected returns, discount rates, holding period returns, fundamental valuation, present value
+
+JEL Classification: G12, G17, G10
+
+Suggested Citation:
+
+Lyle, Matthew R. and Wang, Charles C. Y., The Cross Section of Expected Holding Period Returns and Their Dynamics: A Present Value Approach (June 19, 2014). Journal of Financial Economics (JFE), Forthcoming, Harvard Business School Accounting & Management Unit Working Paper No. 13-050, Rotman School of Management Working Paper No. 2182628, Available at SSRN: https://ssrn.com/abstract=2182628 or http://dx.doi.org/10.2139/ssrn.2182628
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+A Ang , G Bekaert
+Stock return predictability: Is it there?
+Review of Financial Studies , volume 20 , issue 3 , p. 651 - 707 Posted: 2007
+Crossref
+A Ang , J Liu
+How to discount cashflows with time-varying expected returns
+Journal of Finance , volume 59 , issue 6 , p. 2745 - 2783 Posted: 2004
+Crossref
+W Beaver , M Mcnichols , R Price
+Delisting returns and their effect on accounting-based market anomalies
+Journal of Accounting and Economics , volume 43 , issue 2 , p. 341 - 368 Posted: 2007
+Crossref
+J Callen
+Shocks to shocks: A theoretical foundation for the information content of earnings
+Contemporary Accounting Research , volume 26 , issue 1 , p. 135 - 166 Posted: 2009
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,416
+ABSTRACT VIEWS
+11,281
+RANK
+31,593
+18 Citations
+22 References
+PlumX Metrics
+Related eJournals
+
+Harvard Business School: Accounting & Management Unit Working Paper Series
+
+Follow
+
+University of Toronto - Rotman School of Management Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+What Does Individual Option Volatility Smirk Tell Us About Future Equity Returns?
+
+By Xiaoyan Zhang, Rui Zhao, ...
+
+Volatility Spreads and Expected Stock Returns
+
+By Turan G. Bali and Armen Hovakimian
+
+Volatility Spreads and Expected Stock Returns
+
+By Turan G. Bali and Armen Hovakimian
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

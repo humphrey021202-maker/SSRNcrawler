@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Investor Tastes: Implications for Asset Pricing in the Public Debt Market
+
+Journal of Corporate Finance, Vol. 55, 2019
+
+58 Pages Posted: 10 Feb 2023 Last revised: 4 Apr 2023
+
+Emily Shafron
+
+Texas A&M University - Department of Accounting
+
+Date Written: August 16, 2018
+
+Abstract
+
+Some firms create innovative financial debt and equity products to attract specific investor tastes (i.e., non-monetary preferences unrelated to expected cash flows). Innovations can be costly, but they may also widen a firm's investor base, leading to a reduction in the cost of capital. Prior research is inconclusive about whether tailoring financial products to meet specific investor tastes affects asset pricing, which I posit stems from a lack of consensus on which assets satisfy a particular taste. My research design, however, avoids this ambiguity by testing the relation between asset pricing and an objectively identified investor taste—a taste for Shariah-compliant investments, which is satisfied via Islamic Finance. Using Malaysian data, I estimate price differences between conventional and Shariah-compliant bonds over an eight-year period (2005 to 2013). I find that an investor taste for Shariah-compliant bonds significantly affects bond pricing. These results hold even after controlling for issuer and issuance characteristics, including differences in covenant types, as well as the possibility that price and demand may be simultaneously determined. I also find evidence that investors with a taste for Shariah-compliant bonds have a significantly different demand distribution than investors without this taste, corroborating my assertion that a preference for Shariah-compliant investments is a distinct taste. Overall, my results are consistent with investors taste affecting the cost of capital.
+
+Keywords: Islamic finance; asset pricing; investor tastes; sukuk; bond pricing
+
+JEL Classification: F3, F65, G12, M41
+
+Suggested Citation:
+
+Shafron, Emily, Investor Tastes: Implications for Asset Pricing in the Public Debt Market (August 16, 2018). Journal of Corporate Finance, Vol. 55, 2019, Available at SSRN: https://ssrn.com/abstract=4351765 or http://dx.doi.org/10.2139/ssrn.4351765
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+Ab Majid , Shahida Hafizi , Mohd Shahimi , Syah Hafizuddin , Bangaan
+Sukuk defaults and its implication: A case study of Malaysian capital market
+8th International Conference on Islamic Economics and Finance Posted: 2010
+Olivier Armantier , Sandy Krieger , James Mcandrews
+The federal reserve's term auction facility
+Current Issues in Economics and Finance , volume 14 , issue 5 Posted: 2008
+Sarah Arnott
+Abu Dhabi finally comes to Dubai's aid. The Independent Posted: 2009-12-15
+Muhammad Ayub
+Understanding Islamic finance Posted: 2007
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+82
+ABSTRACT VIEWS
+492
+RANK
+702,914
+55 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

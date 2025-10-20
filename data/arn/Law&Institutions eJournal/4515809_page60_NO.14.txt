@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dividend Regulation and Cost Stickiness: Evidence from a Quasi-Natural Experiment
+
+China Accounting & Finance Review, Vol. 24, No. 4, 2022
+
+30 Pages Posted: 11 Aug 2023
+
+Liangyin Chen
+
+Shanghai University of International Business and Economics
+
+Jun Huang
+
+Shanghai University of Finance and Economics
+
+Danqi Hu
+
+Jiaxing University
+
+Xinyuan Chen
+
+Shanghai University of Finance and Economics
+
+Date Written: December 1, 2022
+
+Abstract
+
+Purpose
+This paper aims to examine the effect of dividend regulation on cost stickiness (i.e. the asymmetric change in firm expense between sales increase and sales decrease) and explore the underlying mechanism.
+
+Design/methodology/approach
+Based on the quasi-natural experiment of the Guideline for Dividend Policy of Listed Companies issued by the Shanghai Stock Exchange (SSE) in 2013, the authors employ a difference-in-difference model to investigate the impact of dividend regulation on cost stickiness.
+
+Findings
+The authors find that the cost stickiness of treatment group firms has decreased significantly when compared with control group firms after the dividend regulation. Moreover, this effect is more pronounced among firms in lower marketization regions, in lower competition industries and those with less analyst coverage and lower cash flow levels. Further analyses show that dividend regulation reduces the cost stickiness of firms by mitigating agency problems. Finally, the conclusion holds after several robust tests, including controlling for firm fixed effect, propensity score matching (PSM), placebo test and reconstruction of expense variable.
+
+Originality/value
+This paper confirms that dividend regulation serves an important role in corporate governance, which reduces firms' agency costs and thereby decreases cost stickiness. The conclusions shed light on the dividend policies of listed companies and capital market regulation in the future.
+
+Keywords: Dividend regulation, Cost stickiness, Agency cost, Corporate governance
+
+Suggested Citation:
+
+Chen, Liangyin and Huang, Jun and Hu, Danqi and Chen, Xinyuan, Dividend Regulation and Cost Stickiness: Evidence from a Quasi-Natural Experiment (December 1, 2022). China Accounting & Finance Review, Vol. 24, No. 4, 2022, Available at SSRN: https://ssrn.com/abstract=4515809
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+60
+ABSTRACT VIEWS
+558
+RANK
+841,369
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

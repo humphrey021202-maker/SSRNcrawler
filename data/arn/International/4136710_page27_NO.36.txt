@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CO2eVA: Pricing the transition of carbon externalities
+
+20 Pages Posted: 24 Jun 2022 Last revised: 15 May 2023
+
+Chris Kenyon
+
+MUFG Securities EMEA plc; University College London
+
+Andrea Macrina
+
+University College London; University of Cape Town (UCT)
+
+Mourad Berrahoui
+
+Lloyds Banking Group
+
+Date Written: May 14, 2023
+
+Abstract
+
+Banks representing 41% of global banking assets are members of the Net-Zero Banking Alliance (NZBA) who commit to net-zero carbon in their portfolio impacts by roughly 2050. Here we present methods for steering their derivative portfolios based on the mitigation cost (benefit) of CO2-equivalent emissions (sequestration) these derivatives enable with NZBA counterparties. Thus, we price the cost-benefit of transitioning carbon externalities into changes affecting deals won and lost to steer the portfolios to net-zero based on a CO2-equivalent valuation adjustment (CO2eVA). This CO2eVA can be used in return-on-capital calculations, or as a shadow cost-benefit. We provide numerical examples considering interest rate swaps with a stylized regional airline, and a stylized shipping company that demonstrate highly significant effects in both cases.
+
+Keywords: CO2, Valuation Adjustment, GHG, Greenhouse Gasses, Derivative Pricing, Carbon Pricing, Financial Products, Carbon Equivalence Principle, Airlines, Shipping, Portfolio
+
+JEL Classification: Q54, Q59, Q55, Q58, G13, G11, G17, G21, G24, G33
+
+Suggested Citation:
+
+Kenyon, Chris and Macrina, Andrea and Berrahoui, Mourad, CO2eVA: Pricing the transition of carbon externalities (May 14, 2023). Available at SSRN: https://ssrn.com/abstract=4136710 or http://dx.doi.org/10.2139/ssrn.4136710
+Download This Paper
+ 
+Open PDF in Browser
+14 References
+Claudio Albanese , Leif Andersen , Stefano Iabichino
+FVA accounting, risk management and collateral trading
+Risk Posted: 2015
+Chris Bertram , Hilaire , Kriegler , Beck , Bresch , Clarke , Cui , Edmonds , Min , Piontek
+NGFS Climate Scenarios Database: Technical Documentation Posted: 2020
+Christoph Burgard , Mats Kjaer
+Derivatives funding, netting and accounting
+Risk , volume 26 , issue 12 , p. 82 - 87 Posted: 2013
+Airline Disclosure Guide, aircraft acquisition cost and depreciation
+IATA Posted: 2015
+Load more
+1 Citations
+Davide Trevisani , José Germán López-Salas , Chris Kenyon , Carlos Vázquez , Mourad Berrahoui
+Scope 3 capital design for carbon-emissions-facilitation tax risk
+International Journal of Computer Mathematics , p. 1 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+452
+ABSTRACT VIEWS
+1,840
+RANK
+146,434
+1 Citations
+14 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

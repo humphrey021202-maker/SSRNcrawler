@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Agency Theoretic Formulation of Organizational Control Theory
+
+43 Pages Posted: 16 Aug 2010
+
+Rajiv D. Banker
+
+Temple University - Department of Accounting
+
+Shaopeng Li
+
+Independent
+
+Jose M. Plehn-Dujowich
+
+Powerlytics. Inc.
+
+Date Written: August 16, 2010
+
+Abstract
+
+We propose an analytical model that integrates two parallel independent streams of the literature, agency theory and organizational control theory. In doing so, we provide new insights into agency theory by introducing the concept of a congruent agent, and new insights into organizational control theory by using contracting tools to model behavior and outcome forms of controls. We study outcome-based control, i.e. contracting on the outcome; behavior-based control, i.e. contracting on a signal of effort; and clan control. To interpret clan control in the context of agency theory, we draw from experimental evidence in behavioral economics by distinguishing between two types of agents: a self-interested agent, who behaves in the traditional fashion; and a congruent agent, who cares about the principal’s payoff, which can be viewed as a form of “social” preferences in behavioral economics and a form of clan control resulting from “socialization” in organization theory. Corresponding to Ouchi’s (1979) view of organizational control, we derive analytical conditions under which outcome-based control with a self-interested agent, behavior-based control with a self-interested agent, and clan control with a congruent agent are optimal. We make the following contributions. First, we introduce to agency theory a new form of organizational control based on shared values and goals. Second, we provide new insights to organization theory by modeling the structure of the optimal compensation contracts corresponding to each form of control and the properties of the conditions under which each form of control is optimal as they relate to the characteristics of the agency relationship.
+
+JEL Classification: M40, M46
+
+Suggested Citation:
+
+Banker, Rajiv D. and Li, Shaopeng and Plehn-Dujowich, Jose M., An Agency Theoretic Formulation of Organizational Control Theory (August 16, 2010). Available at SSRN: https://ssrn.com/abstract=1659969 or http://dx.doi.org/10.2139/ssrn.1659969
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+E Fehr , A Klein , K M Schmidt
+Fairness and contract design
+Econometrica , volume 75 , issue 1 , p. 121 - 154 Posted: 2007
+Crossref
+E Fehr , K M Schmidt
+The economics of fairness, reciprocity and altruismexperimental evidence and new theories. Handbook on the Economics of Giving
+Reciprocity and Altruism , volume 1 , p. 615 - 691 Posted: 2006
+G Feltham , J Xie
+Performance measure congruity and diversity in multi-task principal/agent relations
+The Accounting Review , volume 69 , issue 3 , p. 429 - 453 Posted: 1994
+H Gintis
+Strong reciprocity and human sociality
+Journal of Theoretical Biology , volume 206 , p. 169 - 179 Posted: 2000
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+405
+ABSTRACT VIEWS
+3,311
+RANK
+166,169
+37 References
+PlumX Metrics
+Related eJournals
+
+Fox School of Business, Temple University Research Paper Series
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Contractual Incompleteness as a Signal of Trust
+
+By Florian Herold
+
+Legitimacy of Control
+
+By Wendelin Schnedler and Radovan Vadovic
+
+Team Governance: Empowerment or Hierarchical Control
+
+By Guido Friebel and Wendelin Schnedler
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

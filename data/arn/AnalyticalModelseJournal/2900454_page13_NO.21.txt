@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fair Value Accounting, Illiquid Assets, and Financial Stability
+
+56 Pages Posted: 18 Jan 2017 Last revised: 23 Aug 2022
+
+Lucas Mahieux
+
+Tilburg University - Tilburg University School of Economics and Management
+
+Date Written: August 18, 2022
+
+Abstract
+
+In this paper, I analyze the joint design of capital requirements and fair value reporting rules for financial institutions with illiquid assets. I specifically examine how prudential regulation aimed at solving agency problems affects financial institutions' incentives to use Level 2 versus Level 3 fair value reporting, as well as financial stability. Crucially, Level 3 reporting allows financial institutions to use their private information, whereas Level 2 fair values are only measured with public information. Interestingly, my analysis shows regulators may leave to financial institutions the discretion to report illiquid assets at Level 2 or Level 3. Financial institutions then report at Level 3 only if they have good private information about the assets' quality. Moreover, prudential rules that only rely on Level 2 fair values are a double-edged sword: they may be efficient at solving agency problems within financial institutions but may decrease financial stability. By contrast, prudential rules that leave to financial institutions the discretion to report illiquid assets at Level 2 or Level 3 while relaxing capital requirements may increase financial stability.
+
+Keywords: Fair value, Level 2/3, Financial stability, Prudential regulation
+
+JEL Classification: D82, G20, G28, M41, M48
+
+Suggested Citation:
+
+Mahieux, Lucas, Fair Value Accounting, Illiquid Assets, and Financial Stability (August 18, 2022). Available at SSRN: https://ssrn.com/abstract=2900454 or http://dx.doi.org/10.2139/ssrn.2900454
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+V V Acharya , T Yorulmazer
+Cash-in-the-Market Pricing and Optimal Resolution of Bank Failures
+Review of Financial Studies , volume 21 , issue 6 Posted: 2008
+A R Admati , P Peiderer
+Forcing rms to talk: Financial disclosure regulation and externalities
+Review of Financial Studies , volume 13 , issue 3 Posted: 2000
+J Ahn , R Hoitash , U Hoitash
+Auditor Task-Specic Expertise: The Case of Fair Value Accounting
+Accounting Review , volume 95 , issue 3 Posted: 2020
+F Allen , E Carletti
+Mark-to-Market Accounting and Liquidity Pricing
+Journal of Accounting and Economics , volume 45 , issue 2 Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+469
+ABSTRACT VIEWS
+3,240
+RANK
+140,123
+7 Citations
+61 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

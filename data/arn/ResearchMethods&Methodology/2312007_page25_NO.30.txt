@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+A New Bootstrap Test for Multiple Assets Joint Risk Testing
+
+Journal of Risk, 2017, Volume 19, Issue 4, pages 1-22
+
+Posted: 19 Aug 2013 Last revised: 14 Nov 2017
+
+David Ardia
+
+HEC Montreal - Department of Decision Sciences; Center for Interuniversity Research and Analysis on Organization (CIRANO)
+
+Lukasz T. Gatarek
+
+Erasmus University Rotterdam (EUR) - Erasmus School of Economics (ESE); Tinbergen Institute
+
+Lennart F. Hoogerheide
+
+VU University Amsterdam
+
+Date Written: July 18, 2016
+
+Abstract
+
+A novel simulation-based methodology is proposed to test the validity of a set of marginal time series models, where the dependence structure between the time series is taken ‘directly’ from the observed data. The procedure is useful when one wants to summarize the test results for several time series in one joint test statistic and p-value. The proposed test method can have higher power than a test for a univariate time series, especially for short time series. Therefore our test for multiple time series is particularly useful if one wants to assess Value-at-Risk (or Expected Shortfall) predictions over a small time frame (e.g., a crisis period). We apply our method to test GARCH model specifications for a large panel data set of stock returns.
+
+Keywords: Bootstrap test, GARCH, marginal models, multiple time series, Value-at-Risk
+
+JEL Classification: C1, C12, C22, C44
+
+Suggested Citation:
+
+Ardia, David and Gatarek, Lukasz T. and Hoogerheide, Lennart F., A New Bootstrap Test for Multiple Assets Joint Risk Testing (July 18, 2016). Journal of Risk, 2017, Volume 19, Issue 4, pages 1-22 , Available at SSRN: https://ssrn.com/abstract=2312007 or http://dx.doi.org/10.2139/ssrn.2312007
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,323
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Evaluating Density Forecasts
+
+By Francis X. Diebold, Todd A. Gunther, ...
+
+Evaluating Density Forecasts with Applications to Financial Risk Management
+
+By Francis X. Diebold, Todd A. Gunther, ...
+
+Forecast Evaluation and Combination
+
+By Francis X. Diebold and Jose A. Lopez
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

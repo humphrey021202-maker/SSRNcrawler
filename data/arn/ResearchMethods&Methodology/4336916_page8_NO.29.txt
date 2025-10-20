@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Primer on Structural Estimation in Accounting Research
+
+Stanford University Graduate School of Business Research Paper No. 4336916
+
+Olin Business School Center for Finance & Accounting Research Paper No. 2023/01
+
+136 Pages Posted: 26 Jan 2023 Last revised: 9 Feb 2025
+
+Jeremy Bertomeu
+
+Washington University in St. Louis - John M. Olin Business School
+
+Ying Liang
+
+Georgia State University - J. Mack Robinson College of Business
+
+Ivan Marinovic
+
+Graduate School of Business, Stanford University
+
+Date Written: January 24, 2023
+
+Abstract
+
+This primer offers a hands-on accessible guide to writing and estimating structural models. We review commonly-used methodologies, including dynamic programming, maximum likelihood, generalized and simulated method of moments, conditional choice probabilities as well as tools to compute standard errors and common diagnostics and tests of economic hypotheses. Special attention is devoted to the bootstrap as a convenient toolbox to estimate complex economic interactions. The methods are illustrated with recent developments in earnings management, auditing, investment, conservatism, and disclosure theory. Intuition and applications are emphasized over formalism.
+
+Keywords: Estimation, structural, accounting
+
+JEL Classification: C1, C5, C6, G3, M4
+
+Suggested Citation:
+
+Bertomeu, Jeremy and Liang, Ying and Marinovic, Ivan, A Primer on Structural Estimation in Accounting Research (January 24, 2023). Stanford University Graduate School of Business Research Paper No. 4336916, Olin Business School Center for Finance & Accounting Research Paper No. 2023/01, Available at SSRN: https://ssrn.com/abstract=4336916 or http://dx.doi.org/10.2139/ssrn.4336916
+Download This Paper
+ 
+Open PDF in Browser
+98 References
+Ray Ball , Valeri V Kothari , Nikolaev
+Econometrics of the basu asymmetric timeliness coefficient and accounting conservatism
+Journal of Accounting Research , volume 51 , issue 5 , p. 1071 - 1097 Posted: 2013
+Yang Bao , Bin Ke , Bin Li , Julia Yu , Jie Zhang
+Detecting accounting fraud in publicly traded us firms using a machine learning approach
+Journal of Accounting Research , volume 58 , issue 1 , p. 199 - 235 Posted: 2020
+Sudipta Basu
+The conservatism principle and the asymmetric timeliness of earnings
+Journal of Accounting and Economics , volume 24 , issue 1 , p. 3 - 37 Posted: 1997
+Santiago Bazdresch , R Jay Kahn , Toni M Whited
+Estimating and testing dynamic corporate finance models
+The Review of Financial Studies , volume 31 , issue 1 , p. 322 - 361 Posted: 2018
+Load more
+5 Citations
+Matthias Breuer
+Another Way Forward: Comments on Ohlson's Critique of Empirical Accounting Research
+Accounting, Economics, and Law: A Convivium · 22 Pages · Posted: 12 May 2023 · Last revised: 13 Aug 2023 · Downloads: 464
+Download PDF  Add Paper to My Library
+Kevin Smith
+Beyond the Event Window: Earnings Horizon and the Informativeness of Earnings Announcements
+57 Pages · Posted: 13 Jul 2023 · Last revised: 8 Oct 2024 · Downloads: 503
+Download PDF  Add Paper to My Library
+Matthias Breuer , Eva Labro , Haresh Sapra , Anastasia A. Zakolyukina
+Bridging Theory and Empirical Research in Accounting
+Chicago Booth Research Paper No. 24-06, Fama-Miller Working Paper , University of Chicago, Becker Friedman Institute for Economics Working Paper 2024-38 · 27 Pages · Posted: 3 Apr 2024 · Last revised: 28 May 2024 · Downloads: 304
+Download PDF  Add Paper to My Library
+Terrence Blackburne , Jong Hyuk Lee , Steven G. Malliaris , Robert Stoumbos
+The Ability of SEC Investigations to Detect Misconduct
+ESSEC Business School Research Paper · 51 Pages · Posted: 29 May 2024 · Downloads: 245
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,081
+ABSTRACT VIEWS
+2,839
+RANK
+46,876
+5 Citations
+98 References
+PlumX Metrics
+Related eJournals
+
+Stanford Graduate School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

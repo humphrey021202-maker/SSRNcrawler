@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Optimality of Debt
+
+European Corporate Governance Institute – Finance Working Paper 780/2021
+
+62 Pages Posted: 18 Aug 2021 Last revised: 1 Jun 2025
+
+Pierre Chaigneau
+
+Queen's University; Queen’s University; European Corporate Governance Institute (ECGI)
+
+Alex Edmans
+
+London Business School - Institute of Finance and Accounting; European Corporate Governance Institute (ECGI); Centre for Economic Policy Research (CEPR)
+
+Daniel Gottlieb
+
+London School of Economics
+
+Date Written: April 1, 2023
+
+Abstract
+
+Standard theories of debt consider a risk-neutral manager and a single contractible performance measure ("output"). We show that debt remains optimal under risk aversion if the likelihood ratio increases sufficiently with output and absolute risk aversion decreases sufficiently with wealth. Debt remains optimal if additional performance measures are available: they only affect the contractual debt repayment, leading to performance-sensitive debt. Even measures which are informative about effort almost everywhere may not be used due to contracting constraints, contrasting the informativeness principle. Debt can be suboptimal even if risk aversion is low, and even without a trade-off between incentives and risk-sharing. 
+
+Keywords: informativeness principle, limited liability, performance-sensitive debt
+
+JEL Classification: D86, G32, G34, J33
+
+Suggested Citation:
+
+Chaigneau, Pierre and Edmans, Alex and Gottlieb, Daniel, The Optimality of Debt (April 1, 2023). European Corporate Governance Institute – Finance Working Paper 780/2021, Available at SSRN: https://ssrn.com/abstract=3895702 or http://dx.doi.org/10.2139/ssrn.3895702
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+Alain Bensoussan , Benoit Chevalier-Roignant , Alejandro Rivera , ; Bhanot , Karan , Antonio S Mello
+Does performancesensitive debt mitigate debt overhang?
+Journal of Economic Dynamics and Control , volume 131 , p. 69 - 98 Posted: 2006
+Pierre Chaigneau , Alex Edmans , Daniel Gottlieb
+How should performance signals affect contracts?
+Review of Financial Studies , volume 35 , p. 168 - 206 Posted: 2022
+Peter M Demarzo , Michael J Fishman
+Optimal long-term financial contracting
+Review of Financial Studies , volume 20 , p. 2079 - 2128 Posted: 2007
+Murray Z Frank , K Vidhan , Goyal
+Empirical corporate capital structure Posted: 2024
+Load more
+1 Citations
+Franklin Allen , Adelina Barbalau
+Security Design: A Review
+96 Pages · Posted: 31 Oct 2022 · Last revised: 8 Sep 2024 · Downloads: 596
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+505
+ABSTRACT VIEWS
+2,479
+RANK
+128,124
+1 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+European Corporate Governance Institute (ECGI) - Finance Working Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

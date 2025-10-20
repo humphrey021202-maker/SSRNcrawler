@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Industry-Specific Discretionary Accruals and the Accruals Anomaly
+
+54 Pages Posted: 15 Sep 2013 Last revised: 16 Sep 2013
+
+Atif Ikram
+
+Wayne State University - School of Business Administration
+
+Date Written: 2013
+
+Abstract
+
+I motivate and implement a methodology that decomposes a firm’s discretionary accruals into a firm-specific and an industry-specific component. I find that the “accruals anomaly” (Sloan 1996) – the finding that firms with high discretionary accruals subsequently earn negative abnormal returns – is driven by firm-specific discretionary accruals. More importantly, although industry-specific discretionary accruals do not contribute directly towards the anomaly, I find that it is precisely when industry-specific discretionary accruals are high that firms with large firm-specific discretionary accruals subsequently earn negative abnormal returns. The results suggest that industry-wide use of high discretionary accruals adversely affects investors’ tendency to fairly price high firm-specific discretionary accruals, possibly due to increased search costs associated with detecting earnings manipulation during such times. The results are also consistent with the notion that firms use high (firm-specific) discretionary accruals to convey value-relevant information to investors when most firms in the industry have relatively low discretionary accruals. The findings potentially have an important bearing on the earnings management literature that has used high discretionary accruals as a proxy for earnings manipulation.
+
+Keywords: Accruals anomaly, earnings management, market efficiency, price discovery
+
+JEL Classification: G12, G14, G30, M41
+
+Suggested Citation:
+
+Ikram, Atif, Industry-Specific Discretionary Accruals and the Accruals Anomaly (2013). Available at SSRN: https://ssrn.com/abstract=2325722 or http://dx.doi.org/10.2139/ssrn.2325722
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+S Anwer , S M Ahmed , Jian Khalid Nainar , Zhou
+Do analysts' earnings forecasts fully reflect the information in accruals?
+Canadian Journal of Administrative Science , volume 22 , issue 4 , p. 329 - 342 Posted: 2005
+B Badertscher , D Collins , T Lys
+Discretionary accounting choices and the predictive ability of accruals with respect to future cash flows
+Journal of Accounting and Economics , volume 53 , issue jou_issue[1].xmlText , p. 330 - 352 Posted: 2012
+Crossref
+M Bagnoli , S Watts
+The effect of relative performance evaluation on earnings management: a game-theoretic approach
+Journal of Accounting and Public Policy , volume 19 , p. 377 - 397 Posted: 2000
+Crossref
+E Bartov , F Gul , J Tsui
+Discretionary accruals models and audit qualifications
+Journal of Accounting and Economics , volume 30 , p. 421 - 452 Posted: 2000
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+300
+ABSTRACT VIEWS
+1,989
+RANK
+231,609
+19 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

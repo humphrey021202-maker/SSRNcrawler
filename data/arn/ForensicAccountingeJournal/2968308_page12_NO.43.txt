@@ -1,0 +1,97 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+SAP System As Vendor Fraud Detector
+
+Posted: 15 May 2017 Last revised: 31 Mar 2018
+
+Dr. T N Varma
+
+Computer Society of India (CSI); National Institute of Technology (NIT), Jamshedpur
+
+D. A. Khan
+
+National Institute of Technology (NIT), Jamshedpur
+
+Date Written: May 15, 2017
+
+Abstract
+
+In the last decade, Enterprise Resource Planning (ERP) systems are one of the most important IT developments, which improve productivity and profitability of the organisation. SAP is the leading market player in ERP systems. The vendor master file in SAP is used to store information about critical and sensitive data of vendors and this data is target of fraudsters. However, fraud is increasing and it becomes a risk to supply chain management. Hence, it is a requirement to plug the opportunity of fraudsters by help of system. The present paper presents a review of red flags of vendor master, different vendor fraud etc. Further, this study makes the development of a prototype model for detection of vendor fraud based on analysis of SAP security log data, segregations of duties and fraudulent scenarios.
+
+Keywords: ERP, Fraud, SAP, Vendor
+
+Suggested Citation:
+
+Varma, Dr. T. N. and Varma, Dr. T. N. and Khan, D. A., SAP System As Vendor Fraud Detector (May 15, 2017). Available at SSRN: https://ssrn.com/abstract=2968308 or http://dx.doi.org/10.2139/ssrn.2968308
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,116
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

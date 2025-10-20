@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How to Develop a Peer-to-Peer Electronic Accounting System
+
+13 Pages Posted: 2 Jan 2019 Last revised: 2 Mar 2019
+
+Nesar Ahmad Noori
+
+Independent
+
+Date Written: December 15, 2018
+
+Abstract
+
+This paper introduces a peer-to-peer electronic accounting system, as the current system sufferers from the inherent weakness of double-entry accounting, for example, a time gap problem between occurring and recording transactions, ignoring billions of individual’s access to essential financial information and the possibility of fraud and error. The most efficient solution to these problems has emerged to be a peer-to-peer electronic accounting system. It is an advanced system of double-entry accounting, but instead of concentrating on one party, it views and records transactions for both affected parties at the same time. It would enable electronic financial transactions between various parties, such as electronic payment, online credit transaction, foreign exchange, and securities exchange.
+
+Keywords: Peer-to-Peer Electronic Accounting, Accounting, Double-Entry Accounting, Accounting Information System
+
+JEL Classification: M41, O31
+
+Suggested Citation:
+
+Noori, Nesar Ahmad, How to Develop a Peer-to-Peer Electronic Accounting System (December 15, 2018). Available at SSRN: https://ssrn.com/abstract=3301819 or http://dx.doi.org/10.2139/ssrn.3301819
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+Anne Britton , Chris Waterston
+Posted: 2006
+Crossref
+Chan , H Siew , J Lee , John R Yao , Carlson
+Do Firms Use the Database Accounting Approach In The Design of Their AIS?
+International Journal of The Computer, the Internet and Management , volume 15 , p. 39 - 62 Posted: 2007
+Faye Chua
+Professional Accountants -the future: Drivers of change and future skills. The Association of Chartered Certified Accountants (ACCA) Posted: 2016
+Cpa Australia
+Financial Accounting and Reporting. 7th. BPP Learning Media Ltd Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+147
+ABSTRACT VIEWS
+1,985
+RANK
+456,685
+11 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

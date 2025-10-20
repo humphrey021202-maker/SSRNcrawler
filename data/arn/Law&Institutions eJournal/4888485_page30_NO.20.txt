@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can the Stock Market Capitalize R&D Expenditures?* (*When Firms Aren't Mandated to)
+
+46 Pages Posted: 30 Jul 2024
+
+Han Seong Ryu
+
+Hongik University
+
+Paul A. Zarowin
+
+New York University (NYU) - Leonard N. Stern School of Business
+
+Date Written: July 08, 2024
+
+Abstract
+
+We examine the UK stock market’s valuation of firms’ R&D expenditures around the time of the switch from UK GAAP to IFRS in 2006. Under both regimes, research expenditures and development expenditures that did not meet capitalization conditions must be expensed. Under UK GAAP, firms had the option to expense or capitalize development expenditures that met capitalization conditions. Thus, there were mandatory expensers (who did not have capitalization-eligible R&D expenditures), and voluntary expensers (who had capitalization-eligible R&D expenditures, but chose to expense them). The distinction between the different expenditures is important, because as theory predicts and as we show, capitalization-eligible R&D expenditures have a higher market valuation than ineligible expenditures. Under IFRS, such eligible expenditures must be capitalized, so voluntary expensers were required to reveal their type. We find that under UK GAAP, the UK stock market valued the R&D expenditures of both mandatory and voluntary expensers equally; R&D of voluntary expensers was valued more highly only under IFRS. Thus, without mandatory capitalization revealing firms’ types, the market was not able to properly value firms’ R&D expenditures.
+
+Keywords: capitalization, expensing
+
+Suggested Citation:
+
+Ryu, Han Seong and Zarowin, Paul A., Can the Stock Market Capitalize R&D Expenditures?* (*When Firms Aren't Mandated to) (July 08, 2024). Available at SSRN: https://ssrn.com/abstract=4888485 or http://dx.doi.org/10.2139/ssrn.4888485
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+David Aboody , Baruch Lev
+The Value Relevance of Intangibles: The Case of Software Capitalization
+Journal of Accounting Research , volume 36 , p. 161 - 191 Posted: 1998
+Acharya , V Viral , K Rangarajan , Kose Sundaram , John
+Cross-country Variations in Capital Structures: The Role of Bankruptcy Codes
+Journal of Financial Intermediation , volume 20 , issue 1 , p. 25 - 54 Posted: 2011
+Franklin Allen , Elena Carletti , Robert Marquez
+Stakeholder Capitalism, Corporate Governance and Firm Value
+EFA 2007 Ljubljana Meetings Paper; European Corporate Governance Institute (ECGI) -Finance Working Paper Posted: 2007
+Eli Amir , Baruch Lev , Theodore Sougiannis
+Do Financial Analysts Get Intangibles?
+European Accounting Review , volume 12 , issue 4 , p. 635 - 659 Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+180
+ABSTRACT VIEWS
+1,075
+RANK
+382,931
+40 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

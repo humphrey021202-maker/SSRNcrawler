@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Innovation and Financial Disclosure
+
+65 Pages Posted: 16 Apr 2024
+
+Hui Chen
+
+University of Zurich
+
+Pierre Jinghong Liang
+
+Tepper School of Business, Carnegie Mellon University
+
+Evgeny Petrov
+
+University of Zurich - Department of Business Administration
+
+Date Written: April 4, 2024
+
+Abstract
+
+We examine how financial disclosure policy affects a firm manager's strategy to innovate within a two-period bandit problem featuring two production methods: an old method with a known probability of success, and a new method with an unknown probability. Exploring the new method in the first period provides the manager with decision-useful information for the second period, thus creating a real option that is unavailable under exploiting the old known production method. Voluntary disclosure of the firm's financial performance provides the manager with another option to potentially conceal initial failure from the market. The interaction of these two options determines the manager's incentive to explore. In equilibrium, a myopic manager who cares about the interim market price may over- or under-explore compared to the optimal exploration strategy that maximizes firm value. Our analysis shows that firms operating in an environment with voluntary disclosure early in the trial stage and mandated requirement later are most motivated to explore, while firms subject to early mandated disclosure and late voluntary disclosure are least likely to do so. We also provide empirical predictions about the link between the disclosure environment and the intensity and efficiency of corporate innovation.
+
+Keywords: Innovation, bandit problem, exploration and exploitation, voluntary disclosure, real option, disclosure option
+
+JEL Classification: D82, O30, O31, O32, O33, M41
+
+Suggested Citation:
+
+Chen, Hui and Liang, Pierre Jinghong and Petrov, Evgeny, Innovation and Financial Disclosure (April 4, 2024). Available at SSRN: https://ssrn.com/abstract=4784334 or http://dx.doi.org/10.2139/ssrn.4784334
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+C Aghamolla , B An
+Mandatory vs. Voluntary ESG Disclosure, Efficiency, and Real Effects Posted: 2023
+A Arya , J Glover , S Sunder
+Earnings Management and the Revelation Principle
+Review of Accounting Studies , volume 3 , p. 7 - 34 Posted: 1998
+T Baldenius , L Yang
+Innovation in Firms: Experimentation and Strategic Communication Posted: 2023
+E Ben-Porath , E Dekel , B Lipman
+Disclosure and choice. Review of Economic Studies , volume 85 , issue 3 , p. 1471 - 1501 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+141
+ABSTRACT VIEWS
+929
+RANK
+472,791
+1 Citations
+29 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

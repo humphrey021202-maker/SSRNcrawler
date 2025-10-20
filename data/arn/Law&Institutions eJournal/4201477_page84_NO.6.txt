@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Firm-Level Political Risk and Dividend Payout
+
+38 Pages Posted: 26 Aug 2022
+
+Muhammad Farooq Ahmad
+
+SKEMA Business School – Université Côte d'Azur
+
+Saqib Aziz
+
+Rennes School of Business
+
+Rwan El-Khatib
+
+Zayed University - College of Business
+
+Oskar Kowalewski
+
+IESEG School of Management; LEM - CNRS 9221; Polish Academy of Sciences
+
+There are 2 versions of this paper
+
+Abstract
+
+We use a novel measure of firm-level political risk based on a textual search technique on firms’ quarterly earnings conference transcripts to explain dividend payouts in publicly listed U.S. firms. We find a positive and significant effect of firm-level political risk on dividend payouts, particularly in uncertainties related to economics, institutions, technology, trade, and security. The effect is more pronounced in firms with better corporate governance, less analyst follow-up, and higher growth opportunities. These results support the signaling role of dividends rather than the role of agency theory in explaining dividend payouts when firms are associated with higher levels of political risk. We also find the effect to be prominent after controlling for an aggregate measure of economic policy uncertainty and in poor and recessionary economic conditions. We address endogeneity concerns and selection bias by running placebo tests and performing propensity score matching technique.
+
+Keywords: dividends, Firm-Level Political Risk, Agency Theory, Signaling Theory, Economic Policy uncertainty
+
+Suggested Citation:
+
+Ahmad, Muhammad Farooq and Aziz, Saqib and El-Khatib, Rwan and Kowalewski, Oskar, Firm-Level Political Risk and Dividend Payout. Available at SSRN: https://ssrn.com/abstract=4201477
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+F Allen , R Michaely
+Handbook of the Economics of Finance Posted: 2003
+K L Alli , A Q Khan , G G Ramirez
+Determinants of corporate dividend policy: A factorial analysis
+The Financial Review , volume 28 , p. 523 - 547 Posted: 1993
+Y Amihud , K Li
+The declining information content of dividend announcements and the effects of institutional holdings
+Journal of Financial and Quantitative analysis , volume 41 , issue 3 , p. 637 - 660 Posted: 2006
+C Andres , A Betzer , I Bongard , C Haesner , E Theissen
+The information content of dividend surprises: Evidence from Germany
+Journal of Business Finance & Accounting , volume 40 , issue 5/6 , p. 620 - 620 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+102
+ABSTRACT VIEWS
+766
+RANK
+327,219
+66 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

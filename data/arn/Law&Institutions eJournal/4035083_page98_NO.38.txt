@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Net Income Measurement, Investor Inattention, and Firm Decisions
+
+FRB of Philadelphia Working Paper No. 22-5
+
+59 Pages Posted: 15 Feb 2022 Last revised: 18 Feb 2022
+
+Natee Amornsiripanitch
+
+Federal Reserve Banks - Federal Reserve Bank of Philadelphia
+
+Zeqiong Huang
+
+Yale School of Management
+
+David Kwon
+
+Yale School of Management
+
+Jinjie Lin
+
+Yale School of Management
+
+There are 2 versions of this paper
+
+Date Written: February, 2022
+
+Abstract
+
+When investors have limited attention, does the way in which net income is measured matter for firm value and firms’ resource allocation decisions? This paper uses the Accounting Standards Update (ASU) 2016-01, which requires public firms to incorporate changes in unrealized gains and losses (UGL) on equity securities into net income, to answer this question. We build a model with risk-averse investors who can be attentive or inattentive and managers who choose how much to invest in financial assets to maximize firms’ stock prices. The model predicts that, with inattentive investors, stock prices react more to changes in UGL from equity securities under the new regime and, under certain conditions, investors assign larger price discounts. Managers respond to such discounts by cutting financial asset holdings. We use insurance company data to test these predictions. Prices of stocks with low analyst coverage react more to changes in UGL from equity securities, highlighting the role of investor inattention. Using a difference-in-differences approach, we find that by 2020, publicly traded insurance companies cut investments in public stocks by $23 billion.
+
+Keywords: Net income components, investor inattention, ASU 2016-01, capital allocation decisions
+
+JEL Classification: G11, G14, G22, G30, M4, M41
+
+Suggested Citation:
+
+Amornsiripanitch, Natee and Huang, Zeqiong and Kwon, David and Lin, Jinjie, Net Income Measurement, Investor Inattention, and Firm Decisions (February, 2022). FRB of Philadelphia Working Paper No. 22-5, Available at SSRN: https://ssrn.com/abstract=4035083 or http://dx.doi.org/10.21799/frbp.wp.2022.05
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+163
+ABSTRACT VIEWS
+919
+RANK
+106,095
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

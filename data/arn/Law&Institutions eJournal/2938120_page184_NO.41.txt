@@ -1,0 +1,148 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CEO-Board Dynamics
+
+70 Pages Posted: 22 Mar 2017 Last revised: 14 Jun 2019
+
+John R. Graham
+
+Duke University; National Bureau of Economic Research (NBER)
+
+Hyunseob Kim
+
+Federal Reserve Bank of Chicago
+
+Mark T. Leary
+
+Washington University in St. Louis - Olin Business School; National Bureau of Economic Research (NBER)
+
+There are 2 versions of this paper
+
+Date Written: June 12, 2019
+
+Abstract
+
+We examine CEO-board dynamics using a new panel dataset that spans 1920 to 2011. The long sample allows us to perform within-firm and within-CEO tests over a long horizon, many for the first time in the governance literature. Consistent with theories of bargaining or dynamic contracting, we find board independence increases at CEO turnover and falls with CEO tenure, with the decline stronger following superior performance. CEOs are also more likely to be appointed board chair as tenure increases, and we find evidence consistent with a substitution between board independence and chair duality. Other results suggest that these classes of models fail to capture important elements of board dynamics. First, the magnitude of the CEO tenure effect is economically small, much smaller for example than the strong persistence in board structure that we document. Second, when external CEOs are hired, board independence falls and subsequently increases. Third, event studies document a positive market reaction when powerful CEOs die in office, consistent with powerful CEOs becoming entrenched.
+
+Keywords: Governance, Chief Executive, Board of Directors, Dynamic Contracting, Bargaining, Compensation, Monitoring
+
+JEL Classification: G3, J3, B26, M12
+
+Suggested Citation:
+
+Graham, John Robert and Kim, Hyunseob and Leary, Mark T., CEO-Board Dynamics (June 12, 2019). Available at SSRN: https://ssrn.com/abstract=2938120 or http://dx.doi.org/10.2139/ssrn.2938120
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+J Dahya , J Mcconnell , N Travlos
+The Cadbury committee, corporate performance, and top management turnover
+Journal of Finance , volume 57 , p. 461 - 483 Posted: 2002
+Crossref
+H Deangelo , R Roll
+How stable are corporate capital structures
+Journal of Finance , volume 70 , p. 373 - 418 Posted: 2015
+Crossref
+P Demarzo , Y Sannikov
+Optimal security design and dynamic capital structure in a continuous-time agency model
+Journal of Finance , volume 61 , p. 2681 - 2724 Posted: 2006
+Crossref
+P Demarzo , M Fishman
+Agency and optimal investment dynamics
+Review of Financial Studies , volume 20 , p. 151 - 188 Posted: 2007
+Crossref
+Load more
+14 Citations
+Paola Ferretti , Cristina Gonnella
+Transforming Corporate Governance and Developing Models for Board Effectiveness
+, p. 161 Posted: 2020
+Crossref
+Yanzhao Liu , Chee-Wooi Hooy
+Components of CEO Power and Corporate Social Responsibility: The Moderating Role of Board Independence
+Global Economic Review , volume 52 , issue 2 , p. 114 Posted: 2023
+Crossref
+Md Al Mamun , Balasingham Balachandran , Huu Nhan Duong
+Powerful CEOs and Stock Price Crash Risk
+FIRN Research Paper No. 2791707, Journal of Corporate Finance, Forthcoming · 74 Pages · Posted: 20 Jun 2016 · Last revised: 26 Jan 2020 · Downloads: 1,384
+Download PDF  Add Paper to My Library
+Shahbaz Sheikh
+An examination of the dimensions of CEO power and corporate social responsibility
+Review of Accounting and Finance , volume 18 , issue 2 , p. 221 Posted: 2019
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,235
+ABSTRACT VIEWS
+8,441
+RANK
+36,285
+14 Citations
+18 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Value-Relevance of Accounting Information: Exploring Alternative Metrics
+
+40 Pages Posted: 22 Jul 2025
+
+Ni Li
+
+Guangzhou University
+
+Liang Hu
+
+affiliation not provided to SSRN
+
+Kenny Lin
+
+Lingnan University
+
+Abstract
+
+The value-relevance of accounting information is a cornerstone of capital market research, typically measured indirectly through coefficients and R2 values from returns-earnings models, which have limitations in explaining how accounting information influences stock prices. Based on the theory of financial analyst and the generating process of accounting information, we propose a direct measurement approach using analyst consensus earnings forecasts to capture the effect of accounting information on decision-making. We also construct firm-level measures of predictive and confirmatory value, two qualitative characteristics of accounting information defined by the Financial Accounting Standards Board. Using data from the Chinese stock market, where analysts play a crucial role, we find that our measures significantly explain the relationship between accounting information and stock prices, as well as stock price synchronicity. Our study offers a novel and verifiable method to quantify the abstract concept of value-relevance of accounting information, enhancing the understanding of its effect on decision-making and stock prices.
+
+Keywords: Value-relevance of accounting information, Confirmatory value, Predictive value, Analyst forecasts
+
+Suggested Citation:
+
+Li, Ni and Hu, Liang and Lin, Kenny, Value-Relevance of Accounting Information: Exploring Alternative Metrics. Available at SSRN: https://ssrn.com/abstract=5361671 or http://dx.doi.org/10.2139/ssrn.5361671
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+D Ayres , X S Huang , M Myring
+Fair value accounting and analyst forecast accuracy
+Advances in Accounting , volume 37 , p. 58 - 70 Posted: 2017
+M E Barth , W H Beaver , W R Landsman
+The relevance of the value relevance literature for financial accounting standard setting: another view
+Journal of Accounting and Economics , volume 31 , p. 77 - 104 Posted: 2001
+M E Barth , R Kasznik , M Mcnichols
+Analyst coverage and intangible assets
+Journal of Accounting Research , volume 39 , p. 1 - 34 Posted: 2001
+M E Barth , K Li , C G Mcclure
+Evolution in value relevance of accounting information
+The Accounting Review , volume 98 , issue 1 , p. 1 - 28 Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+51
+ABSTRACT VIEWS
+323
+RANK
+914,805
+43 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

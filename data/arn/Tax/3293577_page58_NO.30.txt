@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+AI and Taxation: Risk Management in Fully Automated Taxation Procedures
+
+12 Pages Posted: 19 Dec 2018
+
+Nadja Braun Binder
+
+University of Basel
+
+Date Written: October 1, 2018
+
+Abstract
+
+On January 1, 2017, the Taxation Modernization Act entered into force in Germany. It includes regulations on fully automated taxation procedures. In order to uphold the principle of investigation in such fully automated procedures, a risk management system can be established by the tax authorities. The risk management system aims to detect risk-fraught cases, and thereby to prevent tax evasion. Cases identified as risk-fraught by the system need to be checked manually by the responsible tax official. Although the technical details of risk management systems are bound to secrecy, such systems are presumably based on artificial intelligence. If this is true, and especially if machine learning techniques, where algorithms self-optimize their programming in case of errors or false results, are involved, this could lead to legally relevant problems. Examples from outside tax law show that fundamental errors may occur in systematic assessments. Accordingly, the greatest challenge of using artificial intelligence in risk management systems is their control.
+
+Keywords: Artificial Intelligence, Taxation, Risk Management, Legal Provisions, Fully Automated Taxation Procedures, Germany
+
+Suggested Citation:
+
+Braun Binder, Nadja, AI and Taxation: Risk Management in Fully Automated Taxation Procedures (October 1, 2018). Available at SSRN: https://ssrn.com/abstract=3293577 or http://dx.doi.org/10.2139/ssrn.3293577
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+C Ahrendt
+Alte Zöpfe neu gelfochten -Das materielle Recht in der Hand von Programmierern , p. 537 - 540 Posted: 2017
+J Angwin , J Larson , S Mattu , L Kirchner
+Machine Bias -There's software used across the country to predict future criminals. And it's biased against blacks Posted: 2016
+Braun Binder , N
+Ausschließlich automationsgestützt erlassene Steuerbescheide und Bekanntgabe durch Bereitstellung zum Datenabruf , p. 625 - 535 Posted: 2016
+S Buell
+MIT Researcher: Artificial Intelligence Has a Race Problem, and We Need to Fix It Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+910
+ABSTRACT VIEWS
+3,934
+RANK
+59,650
+26 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Information Systems Legislation & Regulations eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

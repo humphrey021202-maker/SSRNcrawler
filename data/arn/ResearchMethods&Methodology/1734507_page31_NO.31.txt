@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is There an Accruals or a Cash Flow Anomaly in UK Stock Returns?
+
+38 Pages Posted: 4 Jan 2011
+
+Nuno Soares
+
+Universidade do Porto
+
+Andrew W. Stark
+
+Alliance Manchester Business School, University of Manchester
+
+Date Written: January 3, 2011
+
+Abstract
+
+In this paper, we apply a modified one-stage version of the Mishkin (1983) test to companies in the UK stock market in order to investigate the presence or otherwise of the accruals anomaly in UK firms’ annual returns. For the period of 1990-2007, we report that there is little evidence of a general accruals anomaly in the UK, in which accruals have a negative relationship with future returns, once risk and other potential forecasting variables have been accounted for. We also provide evidence that, after winsorising extreme observations, there is a cash flow anomaly in the UK stock market. We also find evidence in favour of an anomaly with respect to capital expenditure growth. Another interpretation is that the accruals anomaly is not distinct from other anomalies in the UK market, whereas the cash flow (and the capital expenditure growth) anomaly is.
+
+Keywords: Accruals anomaly, accrual based accounting, cash flows, financial statement analysis
+
+JEL Classification: M41, G11, G14
+
+Suggested Citation:
+
+Soares, Nuno and Stark, Andrew W., Is There an Accruals or a Cash Flow Anomaly in UK Stock Returns? (January 3, 2011). Available at SSRN: https://ssrn.com/abstract=1734507 or http://dx.doi.org/10.2139/ssrn.1734507
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+A B Abel , F S Mishkin
+On the Econometric Testing of RationalityMarket Efficiency
+Review of Economics & Statistics , volume 65 , issue 2 , p. 318 - 323 Posted: 1983
+Crossref
+A Al-Horani , P F Pope , A W Stark
+Research and Development Activity and Expected Returns in the United Kingdom
+European Finance Review , volume 7 , issue 1 , p. 161 - 181 Posted: 2003
+Crossref
+A L C Chan , E Lee , S Lin
+The impact of accounting information quality on the mispricing of accruals: The case of FRS3 in the UK
+Journal of Accounting and Public Policy , volume 28 , issue 3 , p. 189 - 206 Posted: 2009
+Crossref
+E Dedman , S Mouselli , Y U N Shen , A W Stark
+Accounting, Intangible Assets, Stock Market Activity, and Measurement and Disclosure Policy-Views From the
+U.K. Abacus , volume 45 , issue 3 , p. 312 - 341 Posted: 2009
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+408
+ABSTRACT VIEWS
+2,875
+RANK
+164,752
+1 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Recommended Papers
+
+Accrual Reliability, Earnings Persistence and Stock Prices
+
+By Scott A. Richardson, Richard G. Sloan, ...
+
+Accrued Earnings and Growth: Implications for Earnings Persistence and Market Mispricing
+
+By Patricia M. Fairfield, Scott Whisenant, ...
+
+Insider Trading, Earnings Quality, and Accrual Mispricing
+
+By Mark E. Vargus and Messod D. Beneish
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

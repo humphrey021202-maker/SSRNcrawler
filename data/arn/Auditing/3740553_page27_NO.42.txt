@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Root Cause Analysis and its Effect on Auditors’ Judgments and Decisions in an Integrated Audit
+
+Contemporary Accounting Research, Forthcoming
+
+Posted: 11 Dec 2020
+
+Todd DeZoort
+
+University of Alabama - Culverhouse School of Accountancy
+
+Marcus Doxey
+
+University of Alabama - Culverhouse School of Accountancy
+
+Troy Pollard
+
+University of Alabama - Culverhouse School of Accountancy
+
+Date Written: September 14, 2020
+
+Abstract
+
+This study evaluates whether auditor use of root cause analysis (RCA) for an identified client misstatement affects auditors’ assessments of underlying control issues and materiality in an integrated audit setting. We also test whether auditor cognitive style moderates these effects given prior findings that a misfit between task structure and cognitive style undermines performance. This research is motivated by concerns about integrated audit quality and auditors failing to consider control deficiencies indicated by client misstatements. We randomly assigned 147 auditors to four RCA treatments (No RCA, Unstructured RCA, Structured “5 Whys” RCA, Structured “Fishbone” RCA). As predicted, the results suggest that auditors using (not using) structured RCA are more (less) likely to identify control-related root causes of a financial misstatement and judge the misstatement to be more (less) material. Also consistent with our prediction, we find that the assessed severity of identified control deficiencies mediates RCA’s effect on materiality judgments. Finally, the materiality judgment results reveal the expected significant interaction between structured RCA method and auditor cognitive style, suggesting the importance of allowing flexibility in the specific RCA method applied in practice. Overall, the study’s results provide evidence that auditor use of RCA as a judgment framework prompts deeper evaluation of audit findings and stronger consideration of critical links between financial reporting and related internal controls in integrated audit settings.
+
+Keywords: Root Cause Analysis, integrated audits, internal control, cognitive fit
+
+Suggested Citation:
+
+DeZoort, Todd and Doxey, Marcus M and Pollard, Troy, Root Cause Analysis and its Effect on Auditors’ Judgments and Decisions in an Integrated Audit (September 14, 2020). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3740553
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+588
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

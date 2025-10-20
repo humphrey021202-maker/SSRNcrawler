@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do External Labor Market Incentives Motivate CEOs to Adopt More Aggressive Corporate Tax Reporting Preferences?
+
+Journal of Corporate Finance, Forthcoming
+
+62 Pages Posted: 12 Dec 2015
+
+Thomas R. Kubick
+
+University of Nebraska-Lincoln
+
+G. Brandon Lockhart
+
+Clemson University - Department of Finance
+
+Date Written: November 30, 2015
+
+Abstract
+
+Building on recent theory, we find strong and robust evidence that external labor market incentives motivate CEOs to adopt more aggressive tax policies in order to improve firm performance and their own labor market value. In addition, we find that the tax aggressiveness-labor market incentives relation varies in the cross-section consistently with theory. We find that the relation is attenuated in industries for which the CEO has more outside employment options, and we find it to be amplified in industries for which competition for CEO talent is likely greatest, and also among CEOs estimated to have greater ability. Overall, our results suggest that the market for CEOs – an incentive device external to the firm – has a meaningful impact on corporate tax policy.
+
+Keywords: industry tournament incentives, market for CEO talent, corporate taxes, tax aggressiveness
+
+JEL Classification: G30, H25, J33, M41, M52
+
+Suggested Citation:
+
+Kubick, Thomas R. and Lockhart, G. Brandon, Do External Labor Market Incentives Motivate CEOs to Adopt More Aggressive Corporate Tax Reporting Preferences? (November 30, 2015). Journal of Corporate Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2702001
+Download This Paper
+ 
+Open PDF in Browser
+3 References
+the current and previous two fiscal years. For brevity, fiscal year are included but not tabulated in all regressions, and industry dummies are included but not tabulated in the SHELTER regression. Except for coefficients of interest (bolded), all p-values are two-tailed
+Pifo Compustat , Lev , ; ) Mcvay , Demerjian
+Lagged market cap is computed as the natural logarithm of lagged total market value of equity (Compustat PRCC_F i,t-1 *CSHO i,t-1 ). Pretax foreign income equals pretax income from foreign operations (Compustat PIFO i,t ) divided by lagged total assets (Compustat AT i,t-1 ). Equity in earnings equals one if equity in earnings (Compustat ESUB i,t ) is positive. Intangibles equals reported intangibles (Compustat INTAN i,t ) divided by lagged total assets (Compustat AT i,t-1 ). Capital intensity equals net property, plant and equipment (Compustat PPENT i,t ) divided by lagged total assets (Compustat AT i,t ). Net operating loss is an indicator variable equal to one if the firm reports a positive tax loss carryforward during the year (Compustat TLCF i,t )
+Equity in earnings equals one if equity in earnings (Compustat ESUB i,t ) is positive. Intangibles equals reported intangibles (Compustat INTAN i,t ) divided by lagged total assets (Compustat AT i,t-1 ). Capital intensity equals net property, plant and equipment (Compustat PPENT i,t ) divided by lagged total assets (Compustat AT i,t ). Net operating loss is an indicator variable equal to one if the firm reports a positive tax loss carryforward during the year (Compustat TLCF i,t ) , volume 9 Posted: 2003
+Lynch , Prcc_F Rego ; Compustat , ; Csho
+Free cash flow equals operating cash flow minus capital expenditures (Compustat OANCF i,t -CAPX i,t ) scaled by lagged total assets (Compustat ATi, t-1 ). Research and development equals total R&D expense divided by lagged assets (Compustat XRD i,t ). Tax haven equals one if the firm reports a material subsidiary in a known tax haven during the current and previous two fiscal years. For brevity, fiscal year are included but not tabulated in all regressions, and industry dummies are included but not tabulated in the SHELTER regression
+Pretax foreign income equals pretax income from foreign operations (Compustat PIFO i,t ) divided by lagged total assets (Compustat AT i,t-1 ) Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+190
+ABSTRACT VIEWS
+2,138
+RANK
+364,553
+3 Citations
+3 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

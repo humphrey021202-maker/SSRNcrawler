@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can Big Data Inhibit Earnings Management in Corporations? — an Analysis Based on National Big Data Comprehensive Pilot Zones
+
+28 Pages Posted: 11 Oct 2024
+
+Yiran Chen
+
+Ningbo University
+
+Jiaye Li
+
+Ningbo University
+
+Yan Tong
+
+affiliation not provided to SSRN
+
+Laiqun Jin
+
+Ningbo University
+
+Abstract
+
+The issue of financial information distortion caused by earnings management may mislead investors and reduce the decision-making efficiency of the capital market. This study, based on the data of Chinese A-share listed companies from 2010 to 2022, examines the impact and mechanism of the "National Big Data Comprehensive Pilot Zone" policy on corporate earnings management. The findings reveal that the establishment of big data pilot zones significantly reduced corporate earnings management behavior, and this conclusion remains robust after a series of robustness tests. Further mechanism analysis indicates that big data inhibits earnings management by alleviating information asymmetry, enhancing the transparency of corporate financial information, and strengthening the level of internal control. Heterogeneity analysis shows that the inhibitory effect of big data policy on earnings management is more pronounced in labor-intensive industries and growth-stage corporations, while relatively weaker in technology-intensive industries and mature corporations. Additionally, the big data pilot zone has also enhanced the risk-taking ability of corporations. This study provides empirical insights for assessing the effectiveness of policy implementation and its role in the governance of earnings management.
+
+Keywords: Big data pilot zones, Information asymmetry, Earnings Management
+
+Suggested Citation:
+
+Chen, Yiran and Li, Jiaye and Tong, Yan and Jin, Laiqun, Can Big Data Inhibit Earnings Management in Corporations? — an Analysis Based on National Big Data Comprehensive Pilot Zones. Available at SSRN: https://ssrn.com/abstract=4984592 or http://dx.doi.org/10.2139/ssrn.4984592
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+67
+ABSTRACT VIEWS
+446
+RANK
+792,195
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

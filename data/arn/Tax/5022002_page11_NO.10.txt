@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How (Not) to Tax Sunshine: Bunching around Tax-Exempt Thresholds for Rooftop Photovoltaic Systems
+
+27 Pages Posted: 13 Dec 2024 Last revised: 3 Apr 2025
+
+Drahomir Klimsa
+
+European University Viadrina
+
+Mario Rieger
+
+University of Augsburg
+
+Robert Ullmann
+
+University of Augsburg; Norwegian Center for Taxation
+
+Date Written: November 15, 2024
+
+Abstract
+
+We investigate tax-induced inefficiency in micro-scale renewable energy production. In 2022, Germany abolished a maximum capacity threshold on small non-commercial rooftop photovoltaic systems, thereby essentially exempting all units from both tax payments and tax filings. We use a full-population dataset of all newly installed rooftop photovoltaic systems in Germany to investigate bunching around the initial threshold. We argue that bunching is an indicator of the inefficient use of available rooftop space and show that the abolition of the threshold led to an immediate and large reaction toward a more efficient use of the limited resource. Specifically, the abolition resulted in an increase in newly installed solar energy production capacity of approx. 69 MWp per year, corresponding to the entire annual electricity demand of more than 500,000 German households after only one investment cycle of 25 years. Moreover, we find that efficiency losses due to the initial threshold were asymmetric, i.e., caused the most inefficient use of rooftop space in areas with the most sunshine hours, i.e., where the expected energy production per kWp of installed capacity is highest. Additionally, our setting enables us to quantify the monetary value of the administrative burden for operators of RPS arising from tax filing. We find that this burden is substantial, corresponding to 16.5%-21.2% of the total investment costs of RPS.
+
+Keywords: taxation, renewable energy, sustainability, photovoltaic systems JEL Classification: H20
+
+JEL Classification: H20, H23, L94, Q42
+
+Suggested Citation:
+
+Klimsa, Drahomir and Rieger, Mario and Ullmann, Robert, How (Not) to Tax Sunshine: Bunching around Tax-Exempt Thresholds for Rooftop Photovoltaic Systems (November 15, 2024). Available at SSRN: https://ssrn.com/abstract=5022002 or http://dx.doi.org/10.2139/ssrn.5022002
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+M Almunia , D Lopez-Rodriguez
+Under the Radar: The Effects of Monitoring Firms on Tax Compliance
+American Economic Journal: Economic Policy , volume 10 , issue 1 , p. 1 - 38 Posted: 2018
+D Bernard , D Burgstahler , D Kaya
+Size management by European private firms to minimize proprietary costs of disclosure
+Journal of Accounting and Economics , volume 66 , issue 1 , p. 94 - 122 Posted: 2018
+M Bertanha , A H Mccallum , N Seegert
+Better bunching, nicer notching
+Journal of Econometrics , volume 237 Posted: 2023
+S Borenstein , L Davis
+The Distributional Effects of US Tax Credits for Heat Pumps, Solar Panels, and Electric Vehicles
+National Tax Journal , volume 78 , issue 1 , p. 263 - 288 Posted: 2025
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+55
+ABSTRACT VIEWS
+307
+RANK
+880,951
+30 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Energy Policy & Economics eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

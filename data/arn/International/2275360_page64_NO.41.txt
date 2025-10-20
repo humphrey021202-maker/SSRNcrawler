@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Transfer Pricing and Sourcing Strategies for Multinational Firms
+
+Chicago Booth Research Paper No. 13-60
+
+32 Pages Posted: 8 Jun 2013
+
+Masha Shunko
+
+Foster School of Business, University of Washington
+
+Laurens Debo
+
+Dartmouth College - Tuck School of Business
+
+Srinagesh Gavirneni
+
+Cornell University - Samuel Curtis Johnson Graduate School of Management
+
+There are 2 versions of this paper
+
+Date Written: May 28, 2013
+
+Abstract
+
+Taking advantage of low foreign tax rates using transfer pricing and taking advantage of low production costs using offshoring are two strategies multinational firms (MNFs) use to increase their profits. We identify an important trade-off that MNFs face in setting their transfer prices: the conflict between (i) the incentive role and (ii) the tax role played by the transfer price. For MNFs, we characterize transfer-pricing strategies that motivate divisional management to (i) make good sourcing decisions and (ii) take advantage of favorable tax rates. It is clear that using a dual transfer-pricing system, where one transfer price determines tax liability and the other transfer price determines management compensation will always achieve the first-best solution, but such an approach carries the burden of administrative and possibly punitive costs. In addition to finding the profit-maximizing sourcing and transfer-pricing policies for both single and dual transfer-pricing systems, we quantify the absolute and relative maximum inefficiency in terms of the after-tax MNF's profit change from using a single transfer-pricing system. We show that the highest relative loss is attained when the average outsourcing and offshoring costs, as well as the tax differential, are high. Using numerical experiments, we demonstrate that the absolute loss is attained when the outsourcing cost follows a symmetric distribution and the average outsourcing cost is approximately equal to the offshoring cost. We also extend our results to two practical variations of MNF structures: an MNF that faces operational constraints on its offshoring capacity and an MNF that uses compensation contracts linked to after-tax firm-wide profits. Insights from our analysis should help MNFs' managers identify when to use single and dual transfer-pricing systems.
+
+Keywords: transfer pricing, tax, global operations, offshoring
+
+Suggested Citation:
+
+Shunko, Masha and Debo, Laurens and Gavirneni, Srinagesh, Transfer Pricing and Sourcing Strategies for Multinational Firms (May 28, 2013). Chicago Booth Research Paper No. 13-60, Available at SSRN: https://ssrn.com/abstract=2275360 or http://dx.doi.org/10.2139/ssrn.2275360
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+394
+ABSTRACT VIEWS
+2,682
+RANK
+83,866
+1 Citations
+37 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

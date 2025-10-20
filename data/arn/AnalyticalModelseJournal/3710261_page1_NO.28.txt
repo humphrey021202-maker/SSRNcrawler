@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Editor's Problem
+
+38 Pages Posted: 9 Sep 2025 Last revised: 9 Sep 2025
+
+Jeremy Bertomeu
+
+Washington University in St. Louis - John M. Olin Business School
+
+Date Written: October 12, 2020
+
+Abstract
+
+An editor maximizing quality relies on the qualitative recommendation of a reviewer. The reviewer may be biased to accept or reject independently of quality. Using the minimum principle, an averaging rule is found to best reduce the noise introduced by bias: under this rule, an unbiased reviewer accepts when quality is greater than the average quality selected by the editor. For distributions with heavy tails, the probability of acceptance due to bias is bounded away from zero even if almost all reviewers are unbiased. Standards adopted by the editor may be excessive relative to the social optimum. Environments with multiple reviewers, reviewer histories, detailed reviews and competition between editors do not solve the problem and may worsen it. A dynamic peer review demonstrates the inherent fragility of equilibria with informative reviews. The model applies to many settings, including grant review, evidence selection, medical testing, juries and project selection.
+
+Keywords: certification, communication, quality.
+
+JEL Classification: D45, D71, D82
+
+Suggested Citation:
+
+Bertomeu, Jeremy, The Editor's Problem (October 12, 2020). Available at SSRN: https://ssrn.com/abstract=3710261 or http://dx.doi.org/10.2139/ssrn.3710261
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+285
+ABSTRACT VIEWS
+1,709
+RANK
+244,478
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

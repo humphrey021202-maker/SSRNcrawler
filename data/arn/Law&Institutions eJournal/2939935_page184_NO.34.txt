@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Risk Disclosures Matter When it Counts? Evidence from the Swiss Franc Shock
+
+Jacobs Levy Equity Management Center for Quantitative Financial Research Paper
+
+55 Pages Posted: 25 Mar 2017 Last revised: 12 Oct 2020
+
+Luzi Hail
+
+University of Pennsylvania - The Wharton School; European Corporate Governance Institute (ECGI)
+
+Maximilian Muhn
+
+University of Chicago - Booth School of Business
+
+David Oesch
+
+University of Zurich
+
+There are 2 versions of this paper
+
+Date Written: October 8, 2020
+
+Abstract
+
+We examine the relation between disclosure quality and information asymmetry among market participants following an exogenous shock to macroeconomic risk. In 2015 the Swiss National Bank abruptly announced that it would abandon the longstanding minimum euro-Swiss franc exchange rate. We find evidence suggesting that firms with more transparent disclosures regarding their foreign exchange risk exposure ex ante exhibit significantly lower information asymmetry ex post. The information gap in bid-ask spreads appears within 30 minutes of the announcement and persists for two weeks, during which new information gradually substitutes for past disclosures. We validate the information dynamics of past risk disclosures with three field surveys: (1) Sell-side analysts emphasize the importance of existing (risk) disclosures in evaluating the translational and transactional effects of the currency shock. (2) Lending banks’ credit officers rely on past disclosures as the primary information source available for smaller (unlisted) firms in the immediate aftermath of the shock. (3) Investor-relations managers use existing financial filings as a key resource when communicating with external stakeholders. The results suggest that historical disclosures help investors attenuate information asymmetry in light of unexpected news.
+
+Keywords: Risk disclosures, adverse selection, liquidity, information asymmetry, currency risk, archival studies, surveys
+
+JEL Classification: F31, G12, G14, G15, G30, M41
+
+Suggested Citation:
+
+Hail, Luzi and Muhn, Maximilian and Oesch, David, Do Risk Disclosures Matter When it Counts? Evidence from the Swiss Franc Shock (October 8, 2020). Jacobs Levy Equity Management Center for Quantitative Financial Research Paper, Available at SSRN: https://ssrn.com/abstract=2939935 or http://dx.doi.org/10.2139/ssrn.2939935
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+A Abadie , A Diamond , And J Hainmueller
+Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program
+Journal of the American Statistical Association , volume 105 , p. 493 - 505 Posted: 2010
+Crossref
+D Acemoglu , S Johnson , A Kermani , J Kwak , And T Mitton
+The Value of Connections in Turbulent Times: Evidence from the United States
+Journal of Financial Economics , volume 121 , p. 368 - 91 Posted: 2016
+Crossref
+S Agarwal , And R , Hauswald
+Distance and Private Information in Lending
+Review of Financial Studies , volume 23 , p. 2757 - 88 Posted: 2010
+Crossref
+Y Amihud
+Illiquidity and Stock Returns: Cross-Section and Time-Series Effects
+Journal of Financial Markets , volume 5 , p. 31 - 56 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+889
+ABSTRACT VIEWS
+5,448
+RANK
+61,583
+28 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

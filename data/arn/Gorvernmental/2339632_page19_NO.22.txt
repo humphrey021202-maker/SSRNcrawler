@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Nilai Relevan Informasi Laporan Keuangan Cash Modified Basis: Kemampuan Rasio Keuangan Dalam Memprediksi Status Financial Distress Pemerintah Daerah Di Indonesia (Value Relevance of Financial Information's Cash Modified Basis: Ability of Financial Ratios in Predicting Financial Distress Status's Local Government in Indonesian)
+
+14 Pages Posted: 15 Oct 2013
+
+Sutaryo
+
+Sebelas Maret University
+
+Date Written: January 10, 2013
+
+Abstract
+
+Penelitian ini mengembangkan model statistik ( prediksi ) untuk menjelaskan faktor-faktor yang dapat digunakan sebagai prediktor status financial disress pemerintah daerah. Faktor-faktor yang diduga sebagai prediktor status financial distress adalah rasio keuangan dalam Laporan Keuangan Pemerintah Daerah ( LKPD ) berbasis modified cash. Penelitian ini menggunakan populasi seluruh pemerintah daerah di Indonesia dan pemerintahan daerah dibagi menjadi dua, 319 sebagai analysis sample dan 50 sebagai hold out sample. Penelitian ini menggunakan data Laporan Keuangan pemerintah daerah 2005-2010 yang diperoleh dalam bentuk softcopy dan hardcopy Badan Pemeriksa Keuangan Republik Indonesia (BPK-RI ) dan media publikasi lainnya. Untuk pengujian data, penelitian ini menggunakan uji diskriminan Analysis (DA) dengan model pengujian dua tahun setelah penerbitan laporan keuangan pemerintah daerah.
+
+Hasil pengujian menunjukkan bahwa rasio keuangan atas laporan keuangan pemerintah daerah di Indonesia dapat digunakan untuk memprediksi status financial disress, sehingga dapat disimpulkan bahwa informasi laporan keuangan pemerintah daerah memiliki nilai yang relevan untuk pengambilan keputusan ekonomi para penggunanya. Hasil ini menunjukkan kelayakan model prediksi dengan kemampuan prediksi dalam analysis sampel dari 73,7% dan akurasi dari prediksi dalam Hold out sample adalah 68%.
+
+This study develops a statistical model (prediction) to explain the factors that can be used as a predictor of financial distress status of local government. Factors are suspected as a predictor of financial distress is the status of financial ratios in the Local Government Financial Statement (LKPD) based on the modified cash basis. This study uses a population of all local governments in Indonesia and local governments are divided into two; 319 as the analysis sample and 50 as a holdout sample. This study uses the data of local government financial statements in 2005-2010 that obtained in the form of soft copy and hard copy of the Republic Indonesian Supreme Audit Board (BPK-RI) and other media publications. For testing data, this study uses Discriminant Analysis test (DA) with the model testing two years after years of local government financial statement.
+
+Test results show that financial ratios on the financial statements of local governments in Indonesia can be used to predict the status of financial distress, so it can be concluded that the local government financial statement information has a value relevant for economic decision-making to its users. These results demonstrated the feasibility of the developed predictive models and predictive capability in the analysis of samples of 73.7% and accuracy of prediction in the holdout sample was 68%.
+
+Note: Downloadable document is in Indonesian.
+
+Keywords: the status of financial distress, financial ratios, relevant value, local government loans, local government financial statetement information
+
+JEL Classification: M41; G28
+
+Suggested Citation:
+
+sutaryo, Sutaryo, Nilai Relevan Informasi Laporan Keuangan Cash Modified Basis: Kemampuan Rasio Keuangan Dalam Memprediksi Status Financial Distress Pemerintah Daerah Di Indonesia (Value Relevance of Financial Information's Cash Modified Basis: Ability of Financial Ratios in Predicting Financial Distress Status's Local Government in Indonesian) (January 10, 2013). Available at SSRN: https://ssrn.com/abstract=2339632 or http://dx.doi.org/10.2139/ssrn.2339632
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+Spica Almilia , Luciana
+Prediksi Kondisi Financial distress Perusahaan Go Public Dengan Metode Multinomial Logit
+Jurnal Ekonomi dan Bisnis (JEB) , volume 7 , issue 1 , p. 1 - 26 Posted: 2006
+__________Dan Kristijadi
+Analisis Rasio Keuangan untuk Memprediksi Kondisi Financial distress Perusahaan Manufaktur yang Terdaftar di Bursa Efek Jakarta
+Jurnal Akuntansi dan Auditing Indonesia (JAAI) , volume 7 , issue 2 , p. 63 - 77 Posted: 2003
+Edward I Altman
+Financial Ratios, Discriminant Analysis and The Prediction of Corporate Bankruptcy
+Journal of Finance , volume 23 , issue 4 , p. 137 - 152 Posted: 1968
+Crossref
+T N Clark
+I977. Fiscal Management of American Cities: Funds Flow Indicators , volume 15
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+555
+ABSTRACT VIEWS
+2,559
+RANK
+114,109
+19 References
+PlumX Metrics
+Related eJournals
+
+Governmental & Nonprofit Accounting eJournal
+
+Follow
+
+Political Institutions: Federalism & Sub-National Politics eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

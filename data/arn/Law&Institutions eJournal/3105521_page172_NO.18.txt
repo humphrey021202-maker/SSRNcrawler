@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do the SEC Whistleblower Provisions of Dodd Frank Deter Aggressive Financial Reporting?
+
+57 Pages Posted: 28 Jan 2018 Last revised: 4 Mar 2020
+
+Christine I. Wiedman
+
+University of Waterloo
+
+Chunmei Zhu
+
+University of Waterloo - School of Accounting and Finance
+
+There are 2 versions of this paper
+
+Date Written: February 24, 2020
+
+Abstract
+
+The stated goal of the 2011 SEC Whistleblower (WB) Program introduced as part of the Dodd-Frank Act was to strengthen investor protection through greater deterrence of securities law violations and more effective regulatory enforcement. While the SEC has articulated the success of the program for detecting and prosecuting violations, there is no evidence on the effect of the program in deterring violations. In this paper, we consider the deterrent effect by examining the impact of the Program on aggressive financial reporting by U.S. firms. Despite ongoing challenges, including the high number of tips received, efforts by some managers to circumvent the new rules by muzzling whistleblowers, and potential unintended consequences of the incentives provided, we document a significant reduction in abnormal accruals following the introduction of the regulation. We observe reductions for both positive and negative abnormal accruals as well as for extreme abnormal accruals. We also predict that firms with weaker internal compliance and reporting program quality are more likely to change their reporting behavior as employees of these firms are more likely to report irregularities directly to the SEC rather than internally. Using two different proxies for the quality of a firm’s internal compliance and reporting program – ratings of a firm’s program as described in its Code of Ethics, and estimated program quality based on disclosures of ineffective whistleblower program controls under Sarbanes Oxley – we find that reductions in aggressive reporting are greater for firms with weaker internal programs. Collectively, these findings provide important large-sample evidence of significant benefits of the SEC WB Program of Dodd-Frank Act for deterring financial reporting fraud, and of the efficacy of bounty-type whistleblower programs, more generally.
+
+Keywords: Whistleblower, Dodd Frank, Fraud, Financial Reporting
+
+JEL Classification: M41, G18
+
+Suggested Citation:
+
+Wiedman, Christine I. and Zhu, Chunmei, Do the SEC Whistleblower Provisions of Dodd Frank Deter Aggressive Financial Reporting? (February 24, 2020). Available at SSRN: https://ssrn.com/abstract=3105521 or http://dx.doi.org/10.2139/ssrn.3105521
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+A Ali , W Zhang
+CEO tenure and earnings management
+Journal of Accounting and Economics , volume 59 , p. 60 - 79 Posted: 2015
+Crossref
+D Amiram , Z Bozanic , J D Cox , Q Dupont , J M Karpoff , R Sloan
+Financial reporting fraud and other forms of misconduct: a multidisciplinary review of the literature
+Review of Accounting Studies , volume 23 , p. 732 - 783 Posted: 2018
+Crossref
+D Amiram , E Bozanic , Rouen
+Financial statement errors: evidence from the distributional properties of financial statement numbers
+Review of Accounting Studies , volume 20 , p. 1540 - 1593 Posted: 2015
+Crossref
+H Ashbaugh-Skaife , D W Collins , W R Kinney , Jr , R Lafond
+The effect of SOX internal control deficiencies and their remediation on accrual quality
+The Accounting Review , volume 83 , p. 217 - 250 Posted: 2008
+Crossref
+Load more
+9 Citations
+D. Jordan Lowe , Philip M. J. Reckers
+The Deterrence Effects of Whistleblowing Provisions, Corporate Governance Culture, and Machiavellianism
+Behavioral Research in Accounting , volume 36 , issue 1 , p. 45 Posted: 2024
+Crossref
+Theo Nyreröd , Giancarlo Spagnolo
+A fresh look at whistleblower rewards
+Journal of Governance and Regulation , volume 10 , issue 4, special issue , p. 248 Posted: 2021
+Crossref
+Stephen Stubben , Kyle Welch
+Evidence on the Use and Efficacy of Internal Whistleblowing Systems
+59 Pages · Posted: 29 Oct 2018 · Last revised: 31 Dec 2020 · Downloads: 4,938
+Download PDF  Add Paper to My Library
+Paolo Buccirossi , Giovanni Immordino , Giancarlo Spagnolo
+Whistleblower rewards, false reports, and corporate fraud
+European Journal of Law and Economics , volume 51 , issue 3 , p. 411 Posted: 2021
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+560
+ABSTRACT VIEWS
+4,276
+RANK
+112,757
+9 Citations
+29 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

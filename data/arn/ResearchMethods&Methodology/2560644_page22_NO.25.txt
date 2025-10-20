@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+A Plain English Measure of Financial Reporting Readability
+
+Kelley School of Business Research Paper No. 15-33
+
+Posted: 6 Feb 2015 Last revised: 30 Jul 2016
+
+Samuel B. Bonsall
+
+Pennsylvania State University - Department of Accounting
+
+Andrew J. Leone
+
+Northwestern University
+
+Brian P. Miller
+
+University of Florida - Warrington College of Business Administration
+
+Kristina M. Rennekamp
+
+SC Johnson Graduate School of Management; Cornell SC Johnson College of Business
+
+There are 2 versions of this paper
+
+Date Written: May 31, 2016
+
+Abstract
+
+Over the past decade, a burgeoning literature has emerged using textual analysis to examine the impact of financial reporting readability on capital markets. Despite the rapid growth of this literature, clear guidance on measuring readability in financial texts is rather limited. In this study, we introduce a new measure of readability, the Bog Index, which is designed to capture the plain English attributes of disclosure (e.g., active voice, fewer hidden verbs). We then validate this new measure based on a combination of regulatory guidance, experiments, and archival tests using a regulatory intervention related to the readability of prospectus filings. After validating this measure, we next examine the extent to which different readability measures are associated with future stock market volatility and equity analysts’ earnings forecast properties. We find that the Bog Index has nearly a twenty-five percent greater association with future stock return volatility than any other measure of readability. In contrast, only quantity-based measures of disclosure (e.g., total words, file size) are associated with analyst forecast accuracy. Combined, this evidence suggests that financial statement users may be affected by different attributes of readability. Finally, we use both archival and experimental evidence to demonstrate the importance of understanding the underlying drivers of quantity-based measures of readability. In particular, we caution researchers that a vast amount of the variation in the file size measure over time is driven by the inclusion of content unrelated to the underlying text in the 10-K (e.g., HTML, XML, PDFs).
+
+Keywords: Voluntary disclosure; Plain English Reporting; Textual Analysis; Regulation
+
+JEL Classification: G38; M41; L51
+
+Suggested Citation:
+
+Bonsall, Samuel B. and Leone, Andrew J. and Miller, Brian P. and Rennekamp, Kristina M., A Plain English Measure of Financial Reporting Readability (May 31, 2016). Kelley School of Business Research Paper No. 15-33, Available at SSRN: https://ssrn.com/abstract=2560644 or http://dx.doi.org/10.2139/ssrn.2560644
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+7,167
+PlumX Metrics
+Related eJournals
+
+Ohio State University, Fisher College of Business Research Paper Series
+
+Follow
+
+Indiana University Kelley School of Business Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

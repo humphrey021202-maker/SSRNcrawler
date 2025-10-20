@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dynamic Estimation of the Nexus between Corporate Governance and Financial Performance: Empirical Evidence from the Non-Financial Sector
+
+18 Pages Posted: 26 Jun 2023
+
+Habib Ur Rahman
+
+Holmes Institute
+
+Muhammad Waqas Yousaf
+
+Pakistan Institute of Development Economics
+
+Date Written: June 8, 2023
+
+Abstract
+
+The study aims to examine the impact of corporate governance indicators on the financial performance of the non-financial sector of Pakistan. For this purpose, we use the panel data of 100 non-financial listed firms from 2010 to 2018. This study applies the widely used corporate governance indicators, including board size, CEO duality, audit committee independence, and ownership structure. In this estimation setting, the standard fixed and random effect models are unsuitable for dealing with the issues of (1) endogeneity, (2) unobserved heteroscedasticity, and (3) the correlation between regressors and the lagged dependent variables. Therefore, we estimate the dynamic panel model using the difference generalised method of moments (GMM) under the Arellano-Bond framework to arrive at unbiased and consistent estimates. The findings of this empirical investigation reveal that the independence of the audit committee improves the financial performance of the non-financial sector of Pakistan. The most striking result from the data is that CEO duality deteriorates financial performance. This is the first study in this econometric setting that uses a wide range of non-financial data from 100 listed firms. The principal practical implication of this study is that the audit committee must be competent, diversified and independent, which further suggest the firms can adopt the Sarbanes-Oxley Act as the best practice rather than regulations. Therefore, a key policy priority should be to plan for the establishment of an oversight board to implement the global best practices. Ensuring appropriate systems, services and support for effective and transparent internal controls and creating a better audit environment should be a priority for the policymakers and regulators.
+
+Keywords: Corporate governance, financial performance, return on assets, return on equity, CEO duality, firm size
+
+JEL Classification: G30, G39, M14, and M41.
+
+Suggested Citation:
+
+Rahman, Habib Ur and Yousaf, Muhammad Waqas, Dynamic Estimation of the Nexus between Corporate Governance and Financial Performance: Empirical Evidence from the Non-Financial Sector (June 8, 2023). Available at SSRN: https://ssrn.com/abstract=4473682 or http://dx.doi.org/10.2139/ssrn.4473682
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+J Abor , N Biekpe
+Corporate governance, ownership structure and performance of SMEs in Ghana: implications for financing opportunities
+Corporate Governance: The International Journal of Business in Society , volume 7 , issue 3 , p. 288 - 300 Posted: 2007
+A Agrawal , S Chadha
+Corporate governance and accounting scandals
+The Journal of Law and Economics , volume 48 , issue 2 , p. 371 - 406 Posted: 2005
+W M Al-Ahdal , M H Alsamhi , M I Tabash , N H Farhan
+The impact of corporate governance on financial performance of Indian and GCC listed firms: An empirical investigation
+Research in International Business and Finance , volume 51 Posted: 2020
+R C Anderson , S A Mansi , D M Reeb
+Board characteristics, accounting report integrity, and the cost of debt
+Journal of Accounting and Economics , volume 37 , issue 3 , p. 315 - 342 Posted: 2004
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+85
+ABSTRACT VIEWS
+553
+RANK
+687,436
+55 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

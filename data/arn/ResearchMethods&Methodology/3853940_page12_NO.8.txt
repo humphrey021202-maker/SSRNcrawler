@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Algorithmic Approach to Understanding Firms’ Use of Relative Performance Evaluation
+
+80 Pages Posted: 28 May 2021 Last revised: 18 Jan 2025
+
+Matthew J. Bloomfield
+
+The Wharton School of the University of Pennsylvania
+
+Wayne R. Guay
+
+University of Pennsylvania - Accounting Department
+
+Oscar Timmermans
+
+London School of Economics & Political Science (LSE)
+
+Date Written: January 17, 2025
+
+Abstract
+
+We explore firms’ choices to include or exclude relative performance evaluation (“RPE”) from their CEOs’ pay plans and, conditional on using it, examine their peer selections. Specifically, we assess the degree to which RPE choices are related to risk-sharing objectives versus other considerations. To do so, we develop an algorithm that constructs artificial RPE peer groups, designed to maximize risk-sharing effectiveness, and use them as counterfactuals against which to benchmark firms’ choices. We find that RPE choices are largely, but not entirely, consistent with risk-sharing objectives: firms use RPE when doing so is more helpful for risk-sharing, and typically construct peer groups that close align with pure risk-sharing considerations. However, we also document three systematic departures from effective risk-sharing: (1) firms in more concentrated industries—where costly competitive sabotage is more likely a concern—forgo RPE altogether or use peer groups comprised of peers from other industries; (2) some RPE-using firms—especially those with weaker governance—sacrifice risk-sharing by padding their peer groups with easy-to-beat peers, facilitating excess compensation; and (3) some RPE-using firms appear to choose peers using simplistic heuristics, leading to less effective peer groups.
+
+Keywords: relative performance evaluation, peer groups, executive compensation, product market competition, rent extraction
+
+JEL Classification: G30, J33, L1, M12, M52
+
+Suggested Citation:
+
+Bloomfield, Matthew J. and Guay, Wayne R. and Timmermans, Oscar,
+An Algorithmic Approach to Understanding Firms’ Use of Relative Performance Evaluation
+(January 17, 2025). Available at SSRN: https://ssrn.com/abstract=3853940 or http://dx.doi.org/10.2139/ssrn.3853940
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+R K Aggarwal , A A Samwick
+Executive compensation, strategic competition, and relative performance evaluation: Theory and evidence
+J. Financ , volume 54 Posted: 1999
+A M Albuquerque
+Peer firms in relative performance evaluation
+J. Account. Econ , volume 48 , p. 69 - 89 Posted: 2009
+A M Albuquerque
+Do growth-option firms use less relative performance evaluation?
+Account. Rev , volume 89 , p. 27 - 60 Posted: 2014
+A M Albuquerque , M E Carter , Z Guo , L J Lynch
+Complexity of CEO compensation packages Posted: 2022
+Load more
+3 Citations
+Chung-Yu Hung , Zhenyang Shi
+Peer-Specific Knowledge and Peer Group Properties in Relative Performance Evaluation
+Journal of Management Accounting Research , volume 36 , issue 1 , p. 173 Posted: 2024
+Crossref
+MATTHEW J. BLOOMFIELD , MIRKO S. HEINLE , OSCAR TIMMERMANS
+Relative Performance Evaluation and Strategic Peer‐Harming Disclosures
+Journal of Accounting Research , volume 62 , issue 3 , p. 877 Posted: 2024
+Crossref
+Matthew J. Bloomfield , Henry L. Friedman , Hwa Young Kim
+Common Ownership, Executive Compensation, and Product Market Competition
+The Accounting Review , volume 99 , issue 2 , p. 31 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+721
+ABSTRACT VIEWS
+3,361
+RANK
+81,447
+3 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+The Wharton School, University of Pennsylvania Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

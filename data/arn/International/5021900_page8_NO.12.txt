@@ -1,0 +1,86 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Exploring the Impact of Security, Confidentiality, and Related Factors on M-Banking Adoption in India: A Machine Learning Perspective
+
+Posted: 18 Dec 2024
+
+Purushottam Bung
+
+RV Institute of Management; KLS's Institute of Management Education and Research
+
+Date Written: January 10, 2024
+
+Abstract
+
+The digital payment sector is becoming an increasingly important aspect of people’s life as a result of recent advancements in mobile and internet technology, delivering numerous fascinating and helpful services like M-banking. The m-banking system enables consumers to make purchases from anywhere using any electronic device, including mobile phones or tablets. M-banking is expected to have a better future as a result of current movements in international digital markets. The Reserve Bank of India said that the number of mobile banking transactions in India increased by 123% between 2018 and 2019, reaching 1.31 billion in total. More than 60% of Indian internet users use financial services via their mobile devices, according to Boston Consulting Group and Google, and the country’s mobile banking market is predicted to reach $1 trillion by 2023. Yet, these channels are more susceptible to various security risks when it comes to storing or transmitting information. Because there are so many various sorts of hazards, users are reluctant to use these services online. One of the aims of current research is to measure how perceived risk affects mobile banking in terms of intension and usage. The study also uses ML techniques to investigate the impact of other dimensions and measures, such as quality, ethics, simplicity, and demographic factors on m-banking patronage. The data is collected for the study using a structured questionnaire. The information gathered for the study was used to train and test ML models. Data collected were analyzed using various techniques, they are descriptive statistics, correlation and regression, principal component analysis, ML techniques, and other statistical techniques are used, to identify the key dimensions that impact customers’ desire to adapt and utilize m-banking. Research findings may assist in suggesting ways to mitigate m-banking risks prevalent among users, and highlight key factors that drive the user’s intention of usage. Institute can use the study outcomes to improve user access for sustainable growth.
+
+Suggested Citation:
+
+Bung, Purushottam, Exploring the Impact of Security, Confidentiality, and Related Factors on M-Banking Adoption in India: A Machine Learning Perspective (January 10, 2024). Available at SSRN: https://ssrn.com/abstract=5021900
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+130
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

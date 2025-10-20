@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+International Transfer Pricing and Tax Avoidance: Evidence from Linked Trade-Tax Statistics in the UK
+
+CESifo Working Paper Series No. 6594
+
+40 Pages Posted: 25 Aug 2017
+
+Li Liu
+
+International Monetary Fund (IMF)
+
+Tim Schmidt-Eisenlohr
+
+Board of Governors of the Federal Reserve System
+
+Dongxian Guo
+
+University of Oxford - Said Business School
+
+There are 2 versions of this paper
+
+Date Written: August 01, 2017
+
+Abstract
+
+This paper employs unique data on export transactions and corporate tax returns of UK multinational firms and finds that firms manipulate their transfer prices to shift profits to lower-taxed destinations. It uncovers three new findings on tax-motivated transfer mispricing in real goods. First, transfer mispricing increases substantially when taxation of foreign profits changes from a worldwide to a territorial approach in the UK, with multinationals shifting more profits into low-tax jurisdictions. Second, transfer mispricing increases with a firm’s R&D intensity. Third, tax-motivated transfer mispricing is concentrated in countries that are not tax havens and have low-to-medium-level corporate tax rates.
+
+Keywords: Transfer Pricing, Corporate Taxation Avoidance, Multinational Firms
+
+JEL Classification: F230, H250, H320
+
+Suggested Citation:
+
+Liu, Li and Schmidt-Eisenlohr, Tim and Guo, Dongxian, International Transfer Pricing and Tax Avoidance: Evidence from Linked Trade-Tax Statistics in the UK (August 01, 2017). CESifo Working Paper Series No. 6594, Available at SSRN: https://ssrn.com/abstract=3025275 or http://dx.doi.org/10.2139/ssrn.3025275
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+Andrew B Bernard , J Bradford Jensen , Peter K Schott
+Transfer Pricing by U.S.-Based Multinational Firms Posted: 2006-08
+Crossref
+Kimberly A Clausing
+Tax-Motivated Transfer Pricing and US intrafirm trade prices
+Journal of Public Economics , volume 87 , issue 9 , p. 2207 - 2223 Posted: 2003-09
+Crossref
+Julie Collins , Deen Kemsley , Mark Lang
+Cross-Jurisdictional Income Shifting and Earnings Valuation
+Journal of Accounting Research , volume 36 , issue 2 , p. 209 - 229 Posted: 1998
+Crossref
+Sergio Correia
+REGHDFE: Stata module to perform linear or instrumental-variable regression absorbing any number of high-dimensional fixed effects Posted: 2015
+Load more
+12 Citations
+Sebastian Beer , Ruud de Mooij , Li Liu
+INTERNATIONAL CORPORATE TAX AVOIDANCE: A REVIEW OF THE CHANNELS, MAGNITUDES, AND BLIND SPOTS
+Journal of Economic Surveys , volume 34 , issue 3 , p. 660 Posted: 2020
+Crossref
+Aulia Hidayat , Nuraini A , Islahuddin , Muhammad Syukur
+How Does International Corporate Avoid Tax?
+, p. 1083 Posted: 2023
+Crossref
+Amal Krishnan , M. Padmaja
+Outward FDI, Profit Shifting, and Its Impact on the Tax Payments of the Parent Firm: A Case of Indian Manufacturing Firms
+Global Journal of Emerging Market Economies Posted: 2024
+Crossref
+Thomas Tørsløv , Ludvig Wier , Gabriel Zucman
+The Missing Profits of Nations
+NBER Working Paper No. w24701 · 56 Pages · Posted: 13 Jun 2018 · Last revised: 30 Jun 2023 · Downloads: 291
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+288
+ABSTRACT VIEWS
+2,321
+RANK
+128,170
+12 Citations
+29 References
+PlumX Metrics
+Related eJournals
+
+CESifo Working Paper Series
+
+Follow
+
+European Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

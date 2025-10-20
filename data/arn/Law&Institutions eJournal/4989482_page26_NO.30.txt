@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Machine-Readable Disclosures Facilitate Regulatory Scrutiny? Evidence from SEC Comment Letters
+
+
+Northeastern U. D’Amore-McKim School of Business Research Paper No. 4989482
+
+55 Pages Posted: 17 Oct 2024 Last revised: 5 May 2025
+
+Ben Wang
+
+The Hong Kong Polytechnic University
+
+Liwei Weng
+
+Northeastern University (USA) - Accounting Group
+
+Qiang Wu
+
+Hong Kong Polytechnic University - School of Accounting and Finance; Hong Kong Polytechnic University - Faculty of Business
+
+Emma Xin Xu
+
+Hong Kong Polytechnic University - School of Accounting and Finance
+
+Date Written: May 05, 2025
+
+Abstract
+
+This paper examines whether machine-readable disclosures enhance regulatory scrutiny by the Securities and Exchange Commission (SEC). In 2018, the SEC adopted a new filing format (XHTML) with embedded XBRL tags (Inline XBRL, or iXBRL), significantly improving the machine readability of financial reports. Using the mandatory adoption of iXBRL in a difference-in-differences design, we find that the SEC is more likely to issue comment letters to firms subject to the iXBRL mandate compared with firms not yet required to adopt it. This increase is more pronounced when the SEC’s workload is heavier and when filings are ex ante less human-readable and less machine-readable. Furthermore, using a large language model (LLM), we find that comment letters sent to firms adopting iXBRL prompt firms to take higher levels of corrective actions, indicating higher-quality review. The SEC also produces more outputs, such as longer comment letters, and initiates comment letters more quickly. Collectively, our findings provide fresh evidence that machine-readable disclosures improve the SEC’s efficiency and strengthen regulatory oversight.
+
+Keywords: Machine-readable disclosure, regulatory scrutiny, inline XBRL, SEC comment letter, LLM
+
+JEL Classification: G14, G18, M41
+
+Suggested Citation:
+
+Wang, Ben and Weng, Liwei and Wu, Qiang and Xu, Emma Xin, Do Machine-Readable Disclosures Facilitate Regulatory Scrutiny? Evidence from SEC Comment Letters
+(May 05, 2025). Northeastern U. D’Amore-McKim School of Business Research Paper No. 4989482, Available at SSRN: https://ssrn.com/abstract=4989482 or http://dx.doi.org/10.2139/ssrn.4989482
+Download This Paper
+ 
+Open PDF in Browser
+69 References
+D Acemoglu , T Lensman
+Regulating Transformative Technologies
+American Economic Review: Insights , volume 6 , issue 3 , p. 359 - 376 Posted: 2024
+J Ahn , R Hoitash , U Hoitash
+Auditor Task-Specific Expertise: The Case of Fair Value Accounting
+The Accounting Review , volume 95 , issue 3 , p. 1 - 32 Posted: 2020
+P D Allison
+Fixed Effects Regression Methods for Longitudinal Data Using SAS Posted: 2005
+P D Allison
+Fixed Effects Regression Models Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,755
+ABSTRACT VIEWS
+9,092
+RANK
+11,093
+69 References
+PlumX Metrics
+Related eJournals
+
+Northeastern University D'Amore-McKim School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

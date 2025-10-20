@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Relative Influences of Changes in Officers and Auditors on Annual Report Textual Disclosures
+
+68 Pages Posted: 30 Apr 2019 Last revised: 6 Jan 2021
+
+Keith Czerney
+
+University of Missouri-Columbia; Charles River Associates (CRA) - Finance
+
+Padmakumar Sivadasan
+
+Tulane University - A.B. Freeman School of Business
+
+Date Written: January 6, 2021
+
+Abstract
+
+We use changes in firm officers and external auditors to examine the relative influences of these parties on annual report textual disclosures. Using a sample of public companies that file XBRL-tagged financial statements with the SEC between 2011 and 2018, we find that changes in chief executive officers (CEOs), chief financial officers (CFOs), and external auditors are associated with significant changes in textual disclosures in both MD&A and the footnotes. Hierarchically, changes in CEOs have the smallest influence on MD&A and the footnotes. Although changes in CFOs and external auditors generally have comparable influences on MD&A, changes in external auditors have a greater relative influence on the footnotes. We additionally find that changes from a lower quality to a higher quality external auditor are associated with the greatest changes in both MD&A and footnote disclosures. Changes in CFOs and external auditors appear to have the greatest influences over MD&A disclosures for smaller firms, but the auditor’s significant influence over the footnotes is pervasive across small and large firms. This research deepens our understanding of the influence that individuals can have on financial reporting outcomes and should be informative to constituents seeking to assess the information content in changes in disclosures.
+
+Keywords: Disclosure, MD&A, Footnotes, Textual Analysis, Auditors, Chief Financial Officers, Chief Executive Officers
+
+JEL Classification: D83, M41, M42, M48
+
+Suggested Citation:
+
+Czerney, Keith and Sivadasan, Padmakumar, The Relative Influences of Changes in Officers and Auditors on Annual Report Textual Disclosures (January 6, 2021). Available at SSRN: https://ssrn.com/abstract=3376040 or http://dx.doi.org/10.2139/ssrn.3376040
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+J R Graham , C R Harvey , S Rajgopal , ; T , B Mcdonald
+The economic implications of corporate financial Loughran
+Journal of Accounting Research , volume 54 , issue 4 , p. 1187 - 1230 Posted: 2005
+B J Mcconomy
+Bias and accuracy of management earnings forecasts: An evaluation of the impact of auditing
+Contemporary Accounting Research , volume 15 , issue 2 , p. 167 - 195 Posted: 1998
+Crossref
+J L Mcmullin
+Can I borrow your footnotes? Footnote boilerplate's learning externality Posted: 2016
+S Mcvay , V Nagar , V W Tang
+Trading incentives to meet the analyst forecast
+Review of Accounting Studies , volume 11 , issue 4 , p. 575 - 598 Posted: 2006
+Crossref
+Load more
+2 Citations
+Rani Hoitash , Udi Hoitash , Landi Morris
+eXtensible Business Reporting Language (XBRL): A Review and Implications for Future Research
+Auditing: A Journal of Practice & Theory , volume 40 , issue 2 , p. 107 Posted: 2021
+Crossref
+Rani Hoitash , Udi Hoitash , Landi Morris
+eXtensible Business Reporting Language (XBRL): A Review and Implications for Future Research
+Auditing: A Journal of Practice and Theory 30 (2) · 58 Pages · Posted: 4 Jun 2020 · Last revised: 21 Nov 2024 · Downloads: 1,687
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+300
+ABSTRACT VIEWS
+2,602
+RANK
+231,675
+2 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

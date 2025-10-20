@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Public Information Manipulation in the Financial Market
+
+14 Pages Posted: 29 Oct 2021 Last revised: 29 Nov 2021
+
+Wang Bo
+
+Zhejiang Gongshang University (ZJGSU)
+
+Zheng Suli
+
+Zhejiang Shuren University - School of Economics and Social Welfare
+
+Abstract
+
+Where does sentiment come from? We answer this question by introducing information manipulation into the financial market. In our model, an insider inflates the fundamental to boost the equilibrium market price. Because the manipulation cost is private information, the speculators treat the manipulation as a noisy signal or sentiment. The manipulation turns out to be a linear combination of fundamental and manipulation cost. The equilibrium level of manipulation decreases with market supply elasticity and transparency.
+
+Keywords: Information Manipulation, Financial Market, Sentiment
+
+Suggested Citation:
+
+Bo, Wang and Suli, Zheng, Public Information Manipulation in the Financial Market. Available at SSRN: https://ssrn.com/abstract=3952423
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+J Benhabib , X Liu , P Wang
+Sentiments, financial markets, and macroeconomic fluctuations
+Journal of Financial Economics , volume 120 , issue 2 , p. 420 - 443 Posted: 2016
+P Bolton , J Scheinkman , W Xiong
+Executive compensation and short-termist behaviour in speculative markets
+The Review of Economic Studies , volume 73 , issue 3 , p. 577 - 610 Posted: 2006
+C Edmond
+Information manipulation, coordination, and regime change', Review of Economic studies , volume 80 , p. 1422 - 1458 Posted: 2013
+N Kartik , M Ottaviani , F Squintani
+Credulity, lies, and costly talk
+Journal of Economic theory , volume 134 , issue 1 , p. 93 - 116 Posted: 2007
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+74
+ABSTRACT VIEWS
+550
+RANK
+747,544
+9 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

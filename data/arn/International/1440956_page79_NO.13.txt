@@ -1,0 +1,158 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Longitudinal Analysis of Voluntary Adoption of XBRL on Financial Reporting
+
+International Journal of Economics and Accounting, Vol. 2, No. 2: 173-189, 2011
+
+31 Pages Posted: 30 Jul 2009 Last revised: 6 Feb 2013
+
+Jap Efendi
+
+University of Texas at Arlington
+
+Murphy Smith
+
+Texas A&M University-Corpus Christi-Department of Accounting
+
+Jeffrey Wong
+
+University of Nevada, Reno
+
+Abstract
+
+In December 2008, the SEC approved final rules which require companies to submit financial statements in XBRL format with their SEC filings, beginning with quarterly June 2009 filings for the largest companies and within three years for all public companies. Previously, the SEC established a voluntary filing program for XBRL reporting in March 2005. Accordingly, the objectives of our study are: (1) to provide an overview of the benefits and global development of XBRL and (2) to evaluate the extent of XBRL adoption following the implementation of the voluntary filing program. We find the quantity of voluntary reporting to be relatively low, but reporting significantly increased over time. Voluntary adopters are larger and more innovative firms in their industries. We find evidence suggesting increasing efficiency in XBRL reporting, as reporting lags have significantly decreased over time. This efficiency improvement is positive news and may accrue to other companies after they are required to use XBRL reporting. XBRL is expected to have a positive effect on accounting and financial reporting worldwide, particularly used in conjunction with International Financial Reporting Standards (IFRS).
+
+Keywords: XBRL, Securities and Exchange Commission, IFRS, information technology
+
+JEL Classification: M41, F23, G15
+
+Suggested Citation:
+
+Efendi, Jap and Smith, Murphy and Wong, Jeffrey, Longitudinal Analysis of Voluntary Adoption of XBRL on Financial Reporting. International Journal of Economics and Accounting, Vol. 2, No. 2: 173-189, 2011, Available at SSRN: https://ssrn.com/abstract=1440956 or http://dx.doi.org/10.2139/ssrn.1440956
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+US SEC Releases Final Rule Mandating Companies to Report Financial Statements Using XBRL, Interactive Data Format
+AICPA News Release Posted: 2009-12-17
+A Baldwin , C Brown , B Trinkle
+XBRL: An Impacts Framework and Research Challenge
+Journal of Emerging Technologies in Accounting , issue 3 , p. 97 - 116 Posted: 2006
+Crossref
+Efrim Boritz , Won Gyun No
+SEC's XBRL Voluntary Program on Edgar: The Case for Quality Assurance
+Pages: 16 Posted: 4 Sep 2008 Last revised: 26 Jul 2014
+Download PDF  Add Paper to My Library
+Matthew Bovee , Michael L. Ettredge , Rajendra Prasad Srivastava , Miklos A. Vasarhelyi
+Assessing the 07/31/2000 Xbrl Taxonomy for Digital Financial Reports of Commercial and Industrial Firms
+Pages: 51 Posted: 27 Jul 2001
+Download PDF  Add Paper to My Library
+Load more
+4 Citations
+Jap Efendi , Jin Dong Park , Chandra Subramaniam
+Do XBRL Reports Have Incremental Information Content? – An Empirical Analysis
+36 Pages · Posted: 5 Sep 2010 · Downloads: 641
+Download PDF  Add Paper to My Library
+Rachel F. Baskerville
+100 Questions (and Answers) About IFRS
+64 Pages · Posted: 25 Jan 2010 · Last revised: 31 Jul 2017 · Downloads: 7,340
+Download PDF  Add Paper to My Library
+Mary M. Oxner , Ken MacAulay , Gerald Trites
+E-Government Service Maturity and Development
+, p. 138 Posted: 2012
+Crossref
+Jeong-Bon Kim , Joung W. Kim , Jee-Hae Lim
+Does XBRL Adoption Constrain Managerial Opportunism in Financial Reporting? Evidence from Mandated U.S. Filers
+CAAA Annual Conference 2013 · 47 Pages · Posted: 15 Jan 2013 · Downloads: 588
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+913
+ABSTRACT VIEWS
+6,252
+RANK
+59,397
+4 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Assurance on XBRL for Financial Reporting
+
+By David Plumlee and Marlene Plumlee
+
+Continuous Auditing: An Effective Tool for Internal Auditors
+
+By Donald Warren and Murphy Smith
+
+Assurance on XBRL Instance Document: A Conceptual Framework of Assertions
+
+By Rajendra P. Srivastava and Alex Kogan
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

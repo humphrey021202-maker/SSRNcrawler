@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Maxing Out Entropy: A Conditioning Approach ⋆
+
+69 Pages Posted: 19 Aug 2024 Last revised: 30 Sep 2025
+
+Fousseni Chabi-Yo
+
+University of Massachusetts Amherst - Isenberg School of Management
+
+Jintao Du
+
+City University of Hong Kong (CityU) - Department of Economics and Finance
+
+Yan Liu
+
+Tsinghua University
+
+Date Written: September 30, 2025
+
+Abstract
+
+ We develop a systematic approach to bounding entropy by incorporating conditioning information. Our bound features a fixed-point solution to a dynamic asset-allocation problem, interpretable as generalized "Sharpe ratios" in the entropy space, and balances exploiting physical return predictability and hedging risk-neutral higher-order moments. Applying our approach to various return predictors, we document enhanced entropy restrictions that more than double the benchmark equity risk premium. Our bound is sharper than the corresponding optimally scaled Hansen-Jagannathan bound that incorporates higher-order moments over the short horizons. We highlight our results' implications for diagnosing leading macro-finance models and their consistency across different data.
+
+Keywords: Conditioning information, Equity risk premium, Risk-neutral moments, Entropy, Stochastic discount factor
+
+JEL Classification: E44, G1, G12
+
+Suggested Citation:
+
+Chabi-Yo, Fousseni and Du, Jintao and Liu, Yan, Maxing Out Entropy: A Conditioning Approach ⋆ (September 30, 2025). Available at SSRN: https://ssrn.com/abstract=4914668
+Download This Paper
+ 
+Open PDF in Browser
+80 References
+K Adam , S Nagel
+Expectations data in asset pricing, in: Handbook of economic expectations , p. 477 - 506 Posted: 2023
+C Almeida , K Ardison , R Garcia
+Nonparametric assessment of hedge fund performance
+Journal of Econometrics , volume 214 , p. 349 - 378 Posted: 2020
+C Almeida , G Freire
+Pricing of index options in incomplete markets
+Journal of Financial Economics , volume 144 , p. 174 - 205 Posted: 2022
+C Almeida , R Garcia
+Assessing misspecified asset pricing models with empirical likelihood estimators
+Journal of Econometrics , volume 170 , p. 519 - 537 Posted: 2012
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+121
+ABSTRACT VIEWS
+710
+RANK
+537,984
+80 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

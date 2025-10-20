@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Perception Matters: The Public's Perception of the SEC and Engagement in Financial Markets
+
+40 Pages Posted: 24 Jul 2025
+
+Austin Moss
+
+University of Colorado at Boulder
+
+Jackie Wegner
+
+University of Southern California - Marshall School of Business; University of Colorado at Boulder, Leeds School of Business, Department of Accounting
+
+Date Written: July 11, 2025
+
+Abstract
+
+We examine whether public perception of the Securities and Exchange Commission (SEC) influences engagement with U.S. financial markets by developing a novel measure of SEC perception derived from tweets mentioning the SEC. Using this measure, we first document considerable time-series variation in the public's views of the primary financial market regulator; they hold a positive, neutral, and negative perception 29%, 58%, and 13% of the time, respectively. Then we examine the influence of SEC perception on the general public's engagementoperationalized with retail investor trading activities-with the stock market. We find that retail trading activity is significantly associated with SEC perception: daily retail turnover is 3.6% higher during periods of positive perception and 3.4% lower during periods of negative perception, relative to neutral periods. This relationship is more pronounced for firms where SEC oversight is particularly important-small firms and those with low institutional ownership-and when there is greater consensus in public perception. We also find that SEC perception influences retail trading behavior around earnings announcements: their trading volume is positively associated with SEC perception, and they rely more heavily on earnings information during periods of positive perception, consistent with enhanced perceived credibility of SEC-regulated disclosures. Collectively, our results highlight that the public's perception of the SEC shapes market engagement and information usage.
+
+Keywords: Perception, Securities and Exchange Commission (SEC), Accounting Information, Retail Investors, Regulator, Financial Market Engagement
+
+Declaration of Interest
+
+The authors have no conflicts of interest to disclose.
+
+Suggested Citation:
+
+Moss, Austin and Wegner, Jackie, Perception Matters: The Public's Perception of the SEC and Engagement in Financial Markets (July 11, 2025). Available at SSRN: https://ssrn.com/abstract=5364831 or http://dx.doi.org/10.2139/ssrn.5364831
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+N Ashkanasy , A Dorris
+Organizational Behavior. Oxford Research Encyclopedia of Psychology Posted: 2017
+M Baker , J Wurgler
+Investor sentiment and the cross-section of stock returns
+The Journal of Finance , volume 61 , issue 4 , p. 1645 - 1680 Posted: 2006
+E Bartov , L Faurel , P S Mohanram
+Can Twitter help predict firm-level earnings and stock returns?
+The Accounting Review , volume 93 , issue 3 , p. 25 - 57 Posted: 2018
+E Blankespoor , E Dehaan , J Wertz , C Zhu
+Why do individual investors disregard accounting information? The roles of information awareness and acquisition costs
+Journal of Accounting Research , volume 57 , issue 1 , p. 53 - 84 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+54
+ABSTRACT VIEWS
+274
+RANK
+888,754
+35 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

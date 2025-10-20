@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Lopez Theory of Asymmetric Enforcement: Designing Fairness Across AI and Human Systems
+
+75 Pages Posted: 23 Sep 2025
+
+Ruben Lopez
+
+Independent AI Researcher; Amazon - Whole Foods Market; Texas Comptroller of Public Accounts
+
+Date Written: August 30, 2025
+
+Abstract
+
+Regulatory audits across domains, such as taxation, healthcare, and labor, are often framed as neutral oversight mechanisms; however, they operate as asymmetric games where auditees bear disproportionate risk and auditors wield unchecked discretion. The Lopez Theory of Asymmetric Enforcement (LTAE) introduces a game-theoretic framework that exposes and corrects these systemic imbalances. Anchored in lived experience and formal modeling, LTAE diagnoses how institutional memory, incentive skew, and interpretive monopolies distort compliance into coercion.
+
+To operationalize fairness, the paper presents the Lopez Audit Anchor Model (LAAM), a modular architecture that embeds strategic memory, dynamic fairness thresholds, and bias-aware Bayesian inference into the audit lifecycle. LAAM redefines enforcement as a repeated asymmetric game, where anchors decay over time, forgiveness is algorithmically triggered, and auditor discretion is logged for transparency. Simulations suggest LAAM can reduce redundant audits by over 40%, increase voluntary compliance, and restore trust through a new Nash equilibrium where fairness becomes the rational strategy.
+
+This work offers not just a critique but a blueprint complete with Python implementations and simulation logic for transforming audits from punitive inertia into adaptive, ethical oversight. It is a call to reimagine enforcement as a system that learns, forgives, and evolves.
+
+Keywords: Algorithmic Fairness, Game Theory, Regulatory Enforcement, Asymmetric Information, Audit Bias, AI Ethics, Public Policy, Bayesian Inference, Nash Equilibrium, Compliance, Lopez Theory of Asymmetric Enforcement (LTAE), Lopez Audit Anchor Model (LAAM), Fairness in AI, Algorithmic Oversight, Audit Architecture, Strategic Memory, Python Simulation, Compliance Systems, Regulatory Audits, Institutional Bias, AI Ethics, Governance, Transparency, Systemic Reform, Ethical Infrastructure, Lopez Theory, LAAM (Lopez Audit Anchor Model), LTAE (Lopez Theory of Asymmetric Enforcement), Open-source Framework, Institutional Trust, Adaptive Enforcement
+
+Suggested Citation:
+
+Lopez, Ruben and Lopez, Ruben, The Lopez Theory of Asymmetric Enforcement: Designing Fairness Across AI and Human Systems (August 30, 2025). Available at SSRN: https://ssrn.com/abstract=5442477 or http://dx.doi.org/10.2139/ssrn.5442477
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+21
+ABSTRACT VIEWS
+70
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Technical Inefficiency, Allocative Inefficiency, and Audit Pricing
+
+Journal of Accounting, Auditing and Finance, Forthcoming
+
+38 Pages Posted: 13 Apr 2017
+
+Hsihui Chang
+
+Drexel University
+
+Yi-Ching Kao
+
+Menlo College
+
+Raj Mashruwala
+
+University of Calgary - Haskayne School of Business
+
+Susan Sorensen
+
+University of Houston, Clear Lake
+
+Date Written: April 11, 2017
+
+Abstract
+
+The critical global role of audit firms, combined with the scarcity of qualified staff and downward pressure on fees, has increased the importance of understanding efficiency in this industry. This paper examines the technical and allocative inefficiencies of audit firm staffing using data from 165 audit engagements performed by a Big 4 international CPA firm. Prior research has shown that the technical inefficiency of audit engagements leads to lower billing realization rates on audit engagements. We complement and extend this research by examining whether there are inefficiencies in allocating staff for audit engagements in addition to technical inefficiency, and whether each of these inefficiencies leads to lower billing realization rates. We find that there are differences in both technical and allocative inefficiencies across audit engagements, and that both inefficiencies lead to lower billing realization rates after controlling for other characteristics that could affect the realization rates of the audit engagements.
+
+Keywords: Technical Inefficiency, Allocative Inefficiency, Audit Pricing, Big 4, DEA
+
+JEL Classification: M4, M41, M42
+
+Suggested Citation:
+
+Chang, Hsihui and Kao, Yi-Ching and Mashruwala, Raj and Sorensen, Susan, Technical Inefficiency, Allocative Inefficiency, and Audit Pricing (April 11, 2017). Journal of Accounting, Auditing and Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2951247
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+Accountants
+Private Companies Practice Section (PCPS) CPA Firm Top Issues Survey Posted: 2013
+W Baber , E Brooks , W Ricks
+An Empirical Investigation of the Market for Audit Services in the Public Sector
+Journal of Accounting Research , volume 25 , issue 2 , p. 293 - 305 Posted: 1987
+Crossref
+R D Banker
+Maximum likelihood, consistency and data envelopment analysis: A statistical foundation
+Management Science , volume 39 , p. 1265 - 1273 Posted: 1993
+Crossref
+R D Banker , H Chang
+The super-efficiency procedure for outlier identification, not for ranking efficient units
+European Journal of Operational Research , volume 175 , p. 1311 - 1320 Posted: 2006
+Crossref
+Load more
+2 Citations
+Tien-Shih Hsieh , Jeong-Bon Kim , Ray R. Wang , Zhihong Wang
+Seeing Is Believing? Executives’ Facial Trustworthiness, Auditor Tenure, and Audit Fees
+Forthcoming at Journal of Accounting and Economics. · 58 Pages · Posted: 23 Aug 2019 · Downloads: 663
+Download PDF  Add Paper to My Library
+Brigitte Eierle , Sven Hartlieb , David Hay , Lasse Niemi , Hannu Ojala
+External Factors and the Pricing of Audit Services: A Systematic Review of the Archival Literature using a PESTLE Analysis
+AUDITING: A Journal of Practice & Theory, Forthcoming (DOI: https://doi.org/10.2308/AJPT-2019-510) , The University of Auckland Business School Research Paper Forthcoming · 69 Pages · Posted: 8 Apr 2021 · Last revised: 6 Dec 2021 · Downloads: 2,422
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+152
+ABSTRACT VIEWS
+1,586
+RANK
+444,235
+2 Citations
+60 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

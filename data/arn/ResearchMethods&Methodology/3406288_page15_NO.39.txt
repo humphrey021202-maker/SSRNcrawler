@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Nonparametric Analysis in Accounting Research
+
+University of Connecticut School of Business Research Paper
+
+56 Pages Posted: 19 Jun 2019 Last revised: 21 Jun 2019
+
+Frank Murphy
+
+University of Connecticut - Department of Accounting
+
+Stephanie Miller
+
+Quinnipiac University
+
+Date Written: June 1, 2019
+
+Abstract
+
+Advancements in statistical packages and computing power have made various forms of nonparametric estimation accessible to empirical researchers. However, these methods have been underutilized in accounting research, and many accounting researchers may have limited exposure on how to apply these tools. This study explores two nonparametric estimation techniques: kernel density estimation and locally weighted regression. We focus on the practical implementation of these methods, including settings in which they may be useful, key inputs over which researchers have discretion, and sample code to program them. We contribute to the tax, audit, and methodological literatures by providing two illustrative examples of how nonparametric techniques may be used in accounting. First, we analyze time-trends of effective tax rates (ETRs) in the financial service industry using kernel density estimates. Our results document that the distribution of ETRs among financial services firms has become less focused around the mean over time, with more probability mass occurring for below-average ETRs. Second, we study the relation between audit fees and size using nonparametric regression and document that omitting small firms due to sample attrition may introduce nonlinearity to the relation. This result is not readily apparent without visualizing the data and is difficult to discern using OLS regressions. Additionally, we demonstrate the flexibility of nonparametric analysis across broad areas of accounting research and discuss how these techniques may be used to complement ordinary least squares regression and guide research design choices.
+
+Keywords: Nonparametric Methods, Effective Tax Rates, Audit Fees
+
+JEL Classification: C14, H25, M42
+
+Suggested Citation:
+
+Murphy, Frank and Miller, Stephanie, Nonparametric Analysis in Accounting Research (June 1, 2019). University of Connecticut School of Business Research Paper , Available at SSRN: https://ssrn.com/abstract=3406288 or http://dx.doi.org/10.2139/ssrn.3406288
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+F J Anscombe
+Graphs in Statistical Analysis
+The American Statistician , volume 27 , issue 1 , p. 17 - 21 Posted: 1973
+Crossref
+Erik Beardsley , Andrew Imdieke , Thomas C. Omer
+Too Much of a Good Thing? Evidence of a Nonlinear Association Between Non-Audit Services and Audit Quality
+Pages: 39 Posted: 9 Feb 2018 Last revised: 15 Jun 2022
+Download PDF  Add Paper to My Library
+M J Beck , E G Mauldin
+Who's really in charge? Audit committee versus CFO power and audit fees. The Account
+Rev , volume 89 , p. 2057 - 2085 Posted: 2014
+Crossref
+D Burgstahler , I Dichev
+Earnings management to avoid earnings decreases and losses
+J. of Account. and Economics , volume 24 , p. 99 - 126 Posted: 1997
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+259
+ABSTRACT VIEWS
+1,698
+RANK
+269,796
+1 Citations
+48 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

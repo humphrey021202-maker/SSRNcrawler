@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+AI and Hybrid Accountability in Accounting: A Critical Integrative Review and Research Agenda
+
+41 Pages Posted: 28 Aug 2025 Last revised: 28 Aug 2025
+
+Gary Gang Tian
+
+Macquarie University - Department of Applied Finance and Actuarial Studies; Macquarie University, Macquarie Business School
+
+Abstract
+
+I develop a hybrid accountability framework to explain how artificial intelligence redistributes responsibility across human professionals, algorithmic systems, vendors, and institutions in accounting. I synthesise evidence across audit and assurance, financial reporting and analytics, ESG reporting and ethical accountability, and governance and management control. I show that AI expands analytical reach and efficiency yet introduces new opacity, role ambiguity, and ethical risk. I integrate major international policy developments including the EU Corporate Sustainability Reporting Directive and the AI Act, the ISSB S1 and S2 standards, and emerging approaches in the United States and China, and I highlight algorithmic risks such as greenwashing and ESG rating divergence. The review contributes theoretically by reframing accountability as a distributed sociotechnical construct and by clarifying how professional judgement, internal control, and institutional legitimacy are renegotiated in AI enabled settings. It also offers practical guidance that centres human in the loop oversight, explainable AI, and cross functional governance, and it advances a forward looking research agenda that prioritises explainability, networked responsibility, professional identity, regulatory experimentation, and public trust. I position hybrid accountability as a unifying concept for understanding and steering AI enabled change in accounting.
+
+Keywords: artificial intelligence, hybrid accountability, audit and assurance, Financial reporting, ESG reporting, governance and management control
+
+Suggested Citation:
+
+Tian, Gary Gang, AI and Hybrid Accountability in Accounting: A Critical Integrative Review and Research Agenda. Available at SSRN: https://ssrn.com/abstract=5407198 or http://dx.doi.org/10.2139/ssrn.5407198
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+B Ata , L W Cong , K Giesecke , P Sun , C P Teo
+Call for papers, Management Science virtual special issue on AI for finance and business decisions
+Management Science , volume 70 , issue 10 , p. xi - xii Posted: 2024
+S Bahoo , M Cucculelli , X Goga , J Mondolo
+Artificial intelligence in finance: A comprehensive review through bibliometric and content analysis
+SN Business & Economics , volume 4 , issue 23 Posted: 2023
+V Beattie
+Accounting narratives and the narrative turn in accounting research: Issues, theory, methodology, methods and a research framework
+The British Accounting Review , volume 46 , issue 2 , p. 111 - 134 Posted: 2014
+A Benish
+The logics of hybrid accountability: When the state, the market, and professionalism interact
+The Annals of the American Academy of Political and Social Science , volume 691 , issue 1 , p. 295 - 310 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+42
+ABSTRACT VIEWS
+307
+41 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

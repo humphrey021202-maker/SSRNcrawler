@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Detection of Earnings Management as a Measure of Income Smoothing on Fluctuations in Exchange Rates: Managerial Implications for Korean Exporters
+
+Journal of Korea Trade Vol. 23, No. 6, October 2019, 66-92
+
+27 Pages Posted: 29 Jan 2020
+
+Sang Hyun Ji
+
+Baekseok University
+
+Date Written: October 20, 2019
+
+Abstract
+
+Purpose – Foreign Exchange Rates (FER) have been one of the most significant factors for both Korean exporters and the economy of Korea. The purpose of this study is to evaluate whether exporters with a high level of Exchange Rate Elasticity of Sales (ERES) make the use of earnings management for Income Smoothing (IS).
+
+Design/methodology – Income smoothing was obtained using the methodology suggested by Leuz, Nanda and Wysocki (2003). Accruals-based Earnings Management (AEM) was estimated using Discretionary Accruals (DA) calculated by the operant Jones Model developed by Dechow, Sloan and Sweeney (1995). Real Earnings Management (REM) was obtained using the methodologies suggested by Roychowdhury (2006) and Cohen and Zarowin (2010). Data were 2,402 firm years of public listed companies on the KRX, which were not in the financial industry and had a settlement of accounts in December for the period from 2013 to 2017.
+
+Findings – Results of the evaluation are as follows. First, companies with higher levels of ERES have relatively lower levels of smoothing of reported income. This might be because a fluctuation in sales caused by an exchange rate fluctuation has a direct impact on the volatility of the reported income. Second, companies with high levels of both ERES and IS have a positive correlation with both AEM and REM. This might be because companies with high levels of IS engage in earnings management to smooth reported income. Specifically, it is possible to assume that for smoothing the reported income, not only AEM but also REM is practiced. Third, companies with high levels of ERES but low levels of IS have a negative correlation with both AEM and REM. This could be interpreted as companies exhibiting low levels of IS due to higher levels of ERES tend to control IS. In addition, such results were supported by firms relying highly on exporting, and are consequently sensitive to exchange rate fluctuation. Therefore, it may conclude that companies with high levels of ERES make the use of earnings management as a means of IS.
+
+Originality/value – This study can find its significance from the fact that it is the first study, empirically verifying that companies of Korea, where exportation is a large part, use both AEM and REM as a means for smoothing reported income upon facing exchange rate fluctuations. In addition, it is highly expected that the results of this study could be useful for participants of financial markets when making IS-related decisions.
+
+Keywords: Earnings Management, Exporters, Fluctuations in Exchange Rates, Income Smoothing
+
+JEL Classification: F31, M16, M41
+
+Suggested Citation:
+
+Ji, Sang Hyun, Detection of Earnings Management as a Measure of Income Smoothing on Fluctuations in Exchange Rates: Managerial Implications for Korean Exporters (October 20, 2019). Journal of Korea Trade Vol. 23, No. 6, October 2019, 66-92, Available at SSRN: https://ssrn.com/abstract=3514410
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+J Aziz , Sang-Hyun , Kyun-Bong Ji , Lee
+A Study on the Relevance between Book-Tax Difference and Earnings Information
+Tax Accounting Research , volume 59 , p. 117 - 135 Posted: 2019
+Crossref
+C R Beidleman
+Income Smoothing: The Role of Management
+The Accounting Review , volume 48 , issue 4 , p. 653 - 668 Posted: 1973
+Myung-Soo Cho , Tae-Hyung Oh
+The Exchange Rate Elasticity of Sales and Earnings Management
+Korean Journal of Business Administration , volume 25 , issue 9 , p. 3659 - 3675 Posted: 2012
+Yong-Eon Cho , Mi-Hwa Choi , Jin-Soo Lee
+Book-Tax Differences, Earnings Management and Tax Avoidance
+Accounting Information Review , volume 29 , issue 1 , p. 231 - 260 Posted: 2011
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+94
+ABSTRACT VIEWS
+568
+RANK
+644,694
+53 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

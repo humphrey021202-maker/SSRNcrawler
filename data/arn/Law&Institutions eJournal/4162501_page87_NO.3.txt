@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Enforcement and disclosure
+
+TRR 266 Accounting for Transparency Working Paper Series No. 85
+
+40 Pages Posted: 18 Jul 2022
+
+Benedikt Franke
+
+University of Würzburg - Business Administration & Economics
+
+Dirk Simons
+
+University of Mannheim - Accounting and Taxation
+
+Date Written: July 14, 2022
+
+Abstract
+
+Our model combines disclosure requirements and enforcement rules to analyze the impact of enforcement on firms’ reporting behavior. Starting from a voluntary disclosure model with stochastic information endowment, we add an asymmetric mandatory disclosure rule that requires firms with bad private information to disclose. Mandatory disclosure is subject to probabilistic enforcement, with expected fines increasing in a firm’s misconduct. In equilibrium, low-value firms disclose fearing enforcement, medium-value firms do not disclose (some legally others illegally), and high-value firms disclose voluntarily. More vigorous enforcement enlarges the set of compliant firms, increasing the non-disclosure price. In response, disclosing voluntarily becomes less beneficial. When the mandatory disclosure rule is endogenous, i.e., set according to the firms’ preferences, we identify a locally stable rule where no majority of firms prefers a marginal change of the current regulation. The preferred rule is unique and increases in enforcement intensity and in litigation strength.
+
+Keywords: disclosure regulation, enforcement, mandatory disclosure, voluntary disclosure
+
+JEL Classification: D70, M40, M48
+
+Suggested Citation:
+
+Franke, Benedikt and Simons, Dirk, Enforcement and disclosure (July 14, 2022). TRR 266 Accounting for Transparency Working Paper Series No. 85, Available at SSRN: https://ssrn.com/abstract=4162501 or http://dx.doi.org/10.2139/ssrn.4162501
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+G A Akerlof
+The market for "lemons": Quality uncertainty and the market mechanism
+The Quarterly Journal of Economics , volume 84 , issue 3 , p. 488 - 500 Posted: 1970
+B Bennett , J C Bettis , R Gopalan , T Milbourn
+Compensation goals and firm performance
+Journal of Financial Economics , volume 124 , issue 2 , p. 307 - 330 Posted: 2017
+D R Beresford
+The balancing act in setting accounting standards. Accounting Horizons , volume 2 Posted: 1988
+J Bertomeu , E Cheynel
+Toward a positive theory of disclosure regulation: In search of institutional foundations
+The Accounting Review , volume 88 , issue 3 , p. 789 - 824 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+160
+ABSTRACT VIEWS
+989
+RANK
+424,948
+48 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

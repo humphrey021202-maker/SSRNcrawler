@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Network of Tinkerers: A Model of Open-Source Technology Innovation
+
+BLS Working Paper No. 413
+
+34 Pages Posted: 10 Oct 2008
+
+Peter B. Meyer
+
+US Bureau of Labor Statistics, Office of Productivity and Technology
+
+Date Written: November 2007
+
+Abstract
+
+Airplanes were invented by hobbyists and experimenters, and some personal computers were as well. Similarly, many open-source software developers are interested in the software they make, and not focused on profit. Based on these cases, this paper has a model of agents called tinkerers who want to improve a technology for their own reasons, by their own criteria, and who see no way to profit from it. Under these conditions, they would rather share their technology than work alone. The members of the agreement form an information network. The network's members optimally specialize based on their opportunities in particular aspects of the technology or in expanding or managing the network. Endogenously there are incentives to standardize on designs and descriptions of the technology. A tinkerer in the network who sees an opportunity to produce a profitable product may exit the network to create a startup firm and conduct focused research and development. Thus a new industry can arise.
+
+Keywords: technological change, network, open source software, uncertainty, innovation, invention, collective invention, hackers, hobbyists, experimenters, tinkerers, airplane
+
+JEL Classification: O3, O31, O34, N10, D83, D85
+
+Suggested Citation:
+
+Meyer, Peter Benjamin, Network of Tinkerers: A Model of Open-Source Technology Innovation (November 2007). BLS Working Paper No. 413, Available at SSRN: https://ssrn.com/abstract=1071991 or http://dx.doi.org/10.2139/ssrn.1071991
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+R C Allen
+Collective invention
+Journal of Economic Behavior and Organization , volume 4 , p. 1 - 24 Posted: 1983
+Crossref
+James Bessen , Eric Maskin
+Sequential Innovation, Patents, and Imitation. Institute of Advanced Study School of Social Science Working Paper 25
+Forthcoming RAND Journal of Economics Posted: 2007
+Tim Berners-Lee
+Weaving the Web. HarperCollins Posted: 1999
+Octave Chanute , Toronto Dover , R X Cringely
+The Dream of Wings: Americans and the airplane , p. 1875 - 1905 Posted: 1992
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+239
+ABSTRACT VIEWS
+2,200
+RANK
+292,443
+4 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+Economics of Networks eJournal
+
+Follow
+
+Entrepreneurship, Innovation, & Growth eJournal
+
+Follow
+ 
+Recommended Papers
+
+From Knowledge to Ideas: The Two Faces of Innovation
+
+By James E. Bessen
+
+Filthy Lucre? Innovative Communities, Identity, and Commercialization
+
+By Ethan R. Mollick
+
+Knowledge Sharing Among Inventors: Some Historical Perspectives
+
+By James E. Bessen and Alessandro Nuvolari
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

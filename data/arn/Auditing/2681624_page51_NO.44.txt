@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Joint Provision of Audit and Non-Audit Services, Audit Pricing and Auditor Independence
+
+46 Pages Posted: 29 Oct 2015
+
+Paul V. Dunmore
+
+Massey University - School of Accountancy
+
+Haim Falk
+
+The Technion, Israel Institute of Technology
+
+Date Written: September 1, 2001
+
+Abstract
+
+The SEC recently amended its auditor independence rule, prohibiting auditors from providing certain non-audit services to their audit clients. The International Federation of Accountants (IFAC) has also released a draft revision to its Code of Ethics, which will have a similar effect. These changes are intended to reduce motivation for auditors to compromise their independence.
+
+We present an economic model, based on earlier work by DeAngelo and by Magee and Tseng, to examine the economic impact of the provision of non-audit services on the pricing of audits and on the incentives for auditors to compromise independence. The model extends earlier work in that it (i) allows for both consensus and genuine differences of opinion among auditors about a disputed accounting issue; (ii) permits opinion-shopping by clients; (iii) explicitly considers the legal and disciplinary costs for an auditor both of wrongly agreeing and of wrongly disagreeing with the client; (iv) includes the effect of profits from consulting work which is ‘tied’ to the audit engagement; and (v) examines the situation in which an auditor compels a client to change a treatment with which the auditor privately agrees, in order to avoid the costs for the auditor of defending that treatment publicly.
+
+The model enables the calculation of audit prices when the incumbent auditor either agrees or disagrees with the client, facing competing auditors who unanimously agree, unanimously disagree, or have divided opinions; this leads to the wealth change for an auditor who compromises independence. Profits from non-audit services reduce ongoing audit fees, but do not affect any initial fee discount (low-balling). We infer that audit firms which cannot cross-subsidize audit work from consulting profits will suffer a competitive disadvantage in the audit market.
+
+Profits from non-audit services do not contribute to auditors’ economic incentives to compromise independence. The main incentive comes from the economic benefit to the client from a preferred treatment, but competition and the threat of legal or disciplinary action usually limits the incentive. However, incentives to compromise may exist even when the client does not benefit, because economic pressure to compromise comes from the regulatory environment as well as from the client. When auditors are unanimous that the client’s treatment is wrong, the incentive to compromise may be unlimited.
+
+It thus appears that the new SEC and IFAC rules may lead to an increase in the prices for audit services, while doing little to reduce the economic incentives for auditors to compromise independence.
+
+Keywords: Audit fees, MAS, independence
+
+Suggested Citation:
+
+Dunmore, Paul and Falk, Haim, Joint Provision of Audit and Non-Audit Services, Audit Pricing and Auditor Independence (September 1, 2001). Available at SSRN: https://ssrn.com/abstract=2681624 or http://dx.doi.org/10.2139/ssrn.2681624
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+228
+ABSTRACT VIEWS
+1,904
+RANK
+306,268
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

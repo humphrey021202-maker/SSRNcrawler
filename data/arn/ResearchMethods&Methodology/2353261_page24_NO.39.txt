@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Hidden Skewness: On the Difficulty of Multiplicative Compounding Under Random Shocks
+
+DIW Berlin Discussion Paper No. 1337
+
+32 Pages Posted: 12 Nov 2013 Last revised: 8 Feb 2016
+
+Ludwig Ensthaler
+
+Humboldt University of Berlin - School of Business and Economics; German Institute for Economic Research (DIW Berlin)
+
+Olga Nottmeyer
+
+IZA Institute of Labor Economics; Managing Editor IZA World of Labor
+
+Georg Weizsacker
+
+Humboldt University Berlin; DIW Berlin
+
+Christian Zankiewicz
+
+German Institute for Economic Research (DIW Berlin)
+
+There are 2 versions of this paper
+
+Date Written: February 8, 2016
+
+Abstract
+
+Multiplicative growth processes that are subject to random shocks often have an asymmetric distribution of outcomes. In a series of incentivized laboratory experiments we show that a large majority of participants either strongly underestimate the asymmetry or ignore it completely. Participants misperceive the outcome distribution's spread to be too narrow-band and they estimate the median and the mode to lie too close to the distribution's center, failing to account for the compound nature of average growth. The observed biases are measured irrespective to risk preferences and they appear under a variety of conditions. The biases are largely consistent with a behavioral model in which geometric growth is confused with linear growth. This confusion is a possible driver of investors' difficulties with real-world financial products like leveraged ETFs and retirement savings plans.
+
+Keywords: behavioral economics, irrational expectations, binomial tree
+
+JEL Classification: C91, D14, G02
+
+Suggested Citation:
+
+Ensthaler, Ludwig and Nottmeyer, Olga and Weizsacker, Georg and Zankiewicz, Christian, Hidden Skewness: On the Difficulty of Multiplicative Compounding Under Random Shocks (February 8, 2016). DIW Berlin Discussion Paper No. 1337, Available at SSRN: https://ssrn.com/abstract=2353261 or http://dx.doi.org/10.2139/ssrn.2353261
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+K Abbink , B Rockenbach
+Option pricing by students and professional traders: A behavioral investigation
+Managerial and Decision Economics , volume 27 , issue 6 , p. 497 - 510 Posted: 2006
+Crossref
+S Benartzi , R H Thaler
+Risk aversion or myopia? Choices in repeated gambles and retirement investments
+Management Science , volume 45 , p. 364 - 381 Posted: 1999
+Crossref
+T Brünner , R Levinsky , J Qiu
+Preference for skewness: Evidence from a binary choice experiment
+European Journal of Finance , volume 17 , p. 525 - 538 Posted: 2011
+Crossref
+H Chen , A R Rao
+When two plus two is not equal to four: Errors in processing multiple percentage changes
+Journal of Consumer Research , volume 34 , p. 327 - 340 Posted: 2007
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+154
+ABSTRACT VIEWS
+1,898
+RANK
+306,185
+9 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

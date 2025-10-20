@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Data Governance Firms in Corporate Boardrooms
+
+10 Pages Posted: 26 May 2022 Last revised: 10 Jul 2023
+
+Vanessa Villanueva Collao
+
+Bocconi University, Department of Law
+
+Date Written: May 7, 2022
+
+Abstract
+
+Data collection is part of our modern society. The aggregation of data provides the input to re-imagine (re-conceptualize) the corporate structure, facilitating data governance. At the same time, effective data governance requires the management of large datasets and extensive training to tackle those analytic techniques. Today, the complexity of board decisions requires delivering informed decisions that stem from data collection. The automation of data collection and analysis poses a threat to the classical composition of a corporate board made of humans. In other words, is the board member replaceable by a non-human entity? The question, however, should not be about ‘board replacement.’ Instead, the focus should be on how to successfully integrate a useful analytical tool into the existing board structure.
+
+It is not uncommon for corporations to depend on external firms or their internal units for advanced dataset analysis or machine training. Still, in these cases, the deliberation process is affected by information asymmetry. Nevertheless, outsourcing the board for machine training tasks is fundamental in the board’s decision-making process because the data analysis results can be connected to the corporation’s purpose and goals. Eventually, this mechanism would incentivize the development of a market for data governance firms with expertise in machine training (or algorithmic) tools.
+
+Technology has not displaced the human workforce but rather has re-allocated it into new areas. The multiple data processing techniques, such as machine training, can implement and facilitate many board operations. For example, deep data analysis matters require specific expertise to manage large amounts of data that otherwise would take considerable time. Yet the data analysis results need to be translated to board members to avoid uniformed or casual actions (choices).
+
+This article illustrates how machine training tools can assist the board without substituting it by adding an external board member (a firm), bridging the gap between the dataset algorithmic training model and the classical [traditional] board composition. Having a legal entity (such as the data governance firm) serving on the board has multiple advantages. The model’s productivity gains are reflected in the reduction of agency costs using machine training through the aggregation of data, providing concrete and accurate algorithmic responses helping the board deliberation process. If advanced data processing software enhances corporate productivity, the board shall be equipped to use and understand its measurement and function. This framework allows the data governance firm to be held accountable for the risks taken while increasing transparency consistent with the fiduciary duties that the board owes to shareholders. Unlike independent directors, these firms, as a repeat player, do have the incentives to monitor and oversee the board, creating reputational mechanisms and a robust market for corporate governance.
+
+Keywords: Corporate Governance, Artificial Intelligence, Data Governance, Machine Training, Statistical Softwares
+
+JEL Classification: K22, C45
+
+Suggested Citation:
+
+Villanueva Collao, Vanessa, Data Governance Firms in Corporate Boardrooms (May 7, 2022). Available at SSRN: https://ssrn.com/abstract=4102190
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+51
+ABSTRACT VIEWS
+514
+RANK
+914,805
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance Law eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

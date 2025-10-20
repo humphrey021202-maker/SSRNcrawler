@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Restatements, Managerial Learning, and Optimal Reporting Bias
+
+39 Pages Posted: 31 Dec 2019
+
+Marie Herly
+
+Department of Economics and Business Economics, Aarhus University
+
+Nikolaj Niebuhr Lambertsen
+
+Aarhus University - Department of Economics and Business Economics
+
+Date Written: November 30, 2019
+
+Abstract
+
+Financial restatements are costly, but frequent, events and many firms restate several times. This paper asks why rational managers engage in misreporting, in spite of the costly consequences. We present a simple extension to the Fischer and Verrecchia (2000) model, which provides testable predictions regarding the relation between the cost of restatements and reporting bias. In our model, the observed cost of a restatement conveys information to the manager about the true reputation cost of biasing financial statements, which he incorporates into his optimal choice of bias. A restatement hence offers the manager an opportunity to learn about the true cost of reporting bias, and he only updates his biasing strategy if the observed cost differs from his expectation. Consistent with this prediction, we find that firms' reporting bias is decreasing in the reputation costs observed after a restatement, such that managers only reduce future bias if the observed cost of restating was larger than expected. This effect seems stronger when we allow firms to update the expected cost of restatement based on more restatements. Our results indicate that rational managers use the insights from prior restatements to improve their future bias strategy.
+
+Keywords: Restatements, Managerial Learning, Reporting Bias, Fraud, Accounting Regulation, Incentives, Signaling, Disclosure, Reporting, Earnings Quality
+
+JEL Classification: D82, D84, G14, G32, M40, M41, M42, M48, M49, M52.
+
+Suggested Citation:
+
+Herly, Marie and Lambertsen, Nikolaj Niebuhr, Restatements, Managerial Learning, and Optimal Reporting Bias (November 30, 2019). Available at SSRN: https://ssrn.com/abstract=3497538 or http://dx.doi.org/10.2139/ssrn.3497538
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+118
+ABSTRACT VIEWS
+1,103
+RANK
+545,411
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

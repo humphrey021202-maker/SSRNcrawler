@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Reporting Quality and Wage Differentials: Evidence from Worker-Level Data
+
+Stanford University Graduate School of Business Research Paper No. 3844
+
+Journal of Accounting Research, Forthcoming
+
+73 Pages Posted: 17 Dec 2019 Last revised: 21 Jan 2024
+
+Jung Ho Choi
+
+Stanford Graduate School of Business
+
+Brandon Gipper
+
+University of Notre Dame - Mendoza College of Business
+
+Sara Malik
+
+University of Utah - David Eccles School of Business
+
+Date Written: August 23, 2022
+
+Abstract
+
+We examine whether financial reporting quality affects worker wages using employer-employee matched data in the U.S. We find that low financial reporting quality is associated with a compensating wage differential—i.e., a risk premium—even after controlling for worker characteristics. We find consistent evidence of this relation using three distinct methodologies: (i) regression analyses of wage differentials on firm-level reporting quality, (ii) documenting workers’ wage changes upon switching to low financial reporting quality firms, and (iii) a structural approach that separates reporting quality from performance-related volatility. We explore two channels underpinning this association: the performance pay and turnover risk channels, where workers bear risks from noise in performance measurement and unemployment, respectively. We find that the association is stronger when industries use more performance pay for rank-and-file employees and that firms with low reporting quality exhibit high employee turnover. To mitigate endogeneity concerns over omitted firm characteristics, we show that—after the accounting scandals in 2002 and after the announcements of an internal control weakness (ICW)—former Arthur Andersen clients and ICW firms pay wage premiums to employees, with magnitudes between 0.9% to 2.8% of annual wages.
+
+Keywords: Financial Reporting Quality, Wage Differentials, Performance Pay, Investment Inefficiently, Turnover
+
+JEL Classification: D83, J31, J63, M41, M51, M52
+
+Suggested Citation:
+
+Choi, Jung Ho and Gipper, Brandon and Malik, Sara, Financial Reporting Quality and Wage Differentials: Evidence from Worker-Level Data (August 23, 2022). Stanford University Graduate School of Business Research Paper No. 3844, Journal of Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3496103 or http://dx.doi.org/10.2139/ssrn.3496103
+Download This Paper
+ 
+Open PDF in Browser
+108 References
+John M Abowd , H Robert , Francis Creecy , Kramarz
+Computing person and firm effects using linked longitudinal employer-employee data Posted: 2002
+John M Abowd , Orley Ashenfelter
+Anticipated Unemployment, Temporary Layoffs, and Compensating Wage Differentials , p. 141 - 170 Posted: 1981
+John M Abowd , Bryce E Stephens , Lars Vilhuber , Fredrik Andersson , Kevin L Mckinney , Marc Roemer , Simon Woodcock
+The LEHD Infrastructure Files and the Creation of Quarterly Workforce Indicators Posted: 2005
+John M Abowd , Francis Kramarz , David N Margolis
+High wage workers and high wage firms
+Econometrica , volume 67 , p. 251 - 333 Posted: 1999
+Load more
+7 Citations
+John (Jianqiu) Bai , Matthew Serfling , Sarah Shaikh
+Financial disclosure transparency and employee wages
+Financial Review , volume 57 , issue 4 , p. 751 Posted: 2022
+Crossref
+Fadhila Hamza
+Information and Communication Technology in Technical and Vocational Education and Training for Sustainable and Equal Opportunity
+, volume 38 , p. 143 Posted: 2024
+Crossref
+Jung Ho Choi , Brandon Gipper
+Fraudulent Financial Reporting and the Consequences for Employees
+Stanford University Graduate School of Business Research Paper No. 19-19, Journal of Accounting & Economics (JAE), Forthcoming · 98 Pages · Posted: 8 May 2019 · Last revised: 12 Feb 2024 · Downloads: 1,561
+Download PDF  Add Paper to My Library
+Siew Hong Teoh , Yuqing Zhou , Christos Makridis
+Understanding Reputation Damage to Firm Culture: Insights from Employee Perceptions Post Financial Misconduct
+53 Pages · Posted: 18 Oct 2019 · Last revised: 3 Oct 2023 · Downloads: 696
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+886
+ABSTRACT VIEWS
+3,830
+RANK
+61,863
+7 Citations
+108 References
+PlumX Metrics
+Related eJournals
+
+Stanford Graduate School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

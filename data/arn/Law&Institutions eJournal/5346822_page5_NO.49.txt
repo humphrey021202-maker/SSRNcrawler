@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Impact of Artificial Intelligence Adoption on Financial Reporting Timeliness
+
+21 Pages Posted: 18 Jul 2025 Last revised: 18 Jul 2025
+
+Imran Hussain Shah
+
+The University of Lahore Islamabad Campus
+
+Date Written: July 01, 2025
+
+Abstract
+
+This study examines the influence of artificial intelligence (AI) adoption on the timeliness of financial reporting among publicly listed firms. Leveraging multiple regression analysis, the research investigates whether the integration of AI technologies enhances the speed, efficiency, and responsiveness of corporate financial disclosures. By analyzing empirical data across diverse industries, the study seeks to determine the extent to which AI-driven automation and data processing capabilities contribute to reducing reporting delays and improving overall transparency. The findings are expected to offer valuable insights into the relationship between digital transformation and reporting quality, with implications for regulators, investors, and corporate decision-makers aiming to strengthen corporate governance and stakeholder trust in the era of intelligent automation.
+
+Keywords: Artficial Intelligence, Financial Reporting Timeliness, Digital Transformation, Machine Learning, Audit Automation, Financial Technology (FinTech), Regression Analysis, Accounting Innovation, AI in Financial Reporting
+
+Declaration of Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. All authors have contributed substantially to the research, analysis, and writing of the manuscript titled "Innovative Risk Management Solutions in DeFi: A Study of Tracking Platforms." No external funding was received for this study, and there are no conflicts of interest to disclose.
+
+Suggested Citation:
+
+Shah, Imran Hussain,
+
+Impact of Artificial Intelligence Adoption on Financial Reporting Timeliness
+
+(July 01, 2025). Available at SSRN: https://ssrn.com/abstract=5346822 or http://dx.doi.org/10.2139/ssrn.5346822
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+J Al-Ajmi
+Audit and reporƟng delays: Evidence from an emerging market
+Advances in AccounƟng , volume 24 , issue 2 , p. 217 - 226 Posted: 2008
+M G Alles
+Drivers of the use and facilitators and obstacles of the evoluƟon of Big Data by the audit profession
+AccounƟng Horizons , volume 29 , issue 2 , p. 439 - 449 Posted: 2015
+D Appelbaum , A Kogan , M A Vasarhelyi
+Big Data and analyƟcs in the modern audit engagement: Research needs
+AudiƟng: A Journal of PracƟce & Theory , volume 36 , issue 4 , p. 1 - 27 Posted: 2017
+R H Ashton , P R Graul , J D Newton
+Audit delay and the Ɵmeliness of corporate reporƟng
+Contemporary AccounƟng Research , volume 3 , issue 2 , p. 657 - 673 Posted: 1987
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+91
+ABSTRACT VIEWS
+782
+RANK
+658,366
+18 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

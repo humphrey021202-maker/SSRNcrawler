@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Standard Errors of Persistence
+
+44 Pages Posted: 14 Jun 2019
+
+Morgan Kelly
+
+University College Dublin (UCD) - Department of Economics
+
+There are 2 versions of this paper
+
+Date Written: June 3, 2019
+
+Abstract
+
+A large literature on persistence finds that many modern outcomes strongly reflect characteristics of the same places in the distant past. However, alongside unusually high t statistics, these regressions display severe spatial autocorrelation in residuals, and the purpose of this paper is to examine whether these two properties might be connected. We start by running artificial regressions where both variables are spatial noise and find that, even for modest ranges of spatial correlation between points, t statistics become severely inflated leading to significance levels that are in error by several orders of magnitude. We analyse 27 persistence studies in leading journals and find that in most cases if we replace the main explanatory variable with spatial noise the fit of the regression commonly improves; and if we replace the dependent variable with spatial noise, the persistence variable can still explain it at high significance levels. We can predict in advance which persistence results might be the outcome of fitting spatial noise from the degree of spatial autocorrelation in their residuals measured by a standard Moran statistic. Our findings suggest that the results of persistence studies, and of spatial regressions more generally, might be treated with some caution in the absence of reported Moran statistics and noise simulations.
+
+Keywords: Persistence, Deep Origins, Inflated t Statistics, Spatial Noise
+
+JEL Classification: N10, O10, Z10
+
+Suggested Citation:
+
+Kelly, Morgan, The Standard Errors of Persistence (June 3, 2019). Available at SSRN: https://ssrn.com/abstract=3398303 or http://dx.doi.org/10.2139/ssrn.3398303
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+Daron Acemoglu , Simon Johnson , James A Robinson
+The Colonial Origins of Comparative Development: An Empirical Investigation
+American Economic Review , volume 95 , p. 1369 - 1401 Posted: 2001
+Crossref
+Daron Acemoglu , Simon Johnson , James A Robinson
+Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution
+Quarterly Journal of Economics , volume 117 , p. 1231 - 1294 Posted: 2002
+Crossref
+Daron Acemoglu , Tarek A Hassan , James A Robinson
+Social Structure and Development: A Legacy of the Holocaust in Russia
+Quarterly Journal of Economics , volume 126 , p. 895 - 946 Posted: 2011
+Crossref
+Alberto Alesina , Paola Giuliano , Nathan Nunn
+On the Origin of Gender Roles: Women and the Plough
+Quarterly Journal of Economics , volume 128 , p. 469 - 530 Posted: 2013
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,688
+ABSTRACT VIEWS
+13,239
+RANK
+11,050
+126 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Economic History eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

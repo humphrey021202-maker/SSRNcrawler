@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Country Risk Factors Attenuate the Effect of Tax Loss Incentives on Corporate Risk-Taking?
+
+WU International Taxation Research Paper Series No. 2018-09
+
+TRR 266 Accounting for Transparency Working Paper Series No. 28
+
+66 Pages Posted: 14 Dec 2018 Last revised: 11 Feb 2024
+
+Benjamin Osswald
+
+University of Illinois at Urbana-Champaign - Department of Accountancy
+
+Caren Sureth-Sloane
+
+Paderborn University; Vienna University of Economics and Business; TRR 266 Accounting for Transparency
+
+Date Written: February 1, 2024
+
+Abstract
+
+This study investigates whether tax-specific country risk factors attenuate the effectiveness of tax loss offsets in fostering corporate investments. We posit that impairments of the administrative and financial capacity of countries, administrative risk and budget risk, to provide tax refunds upon losses affect firms’ confidence in tax loss incentives. Exploiting a cross-country panel, we find that country risk factors do damp the effectiveness of loss offsets in fostering risky investments. This effect is economically significant. While the existence of a loss carryback is associated with about 10.1 percent higher corporate risk-taking in low risk countries, we do not find a significant increase in high risk countries. Our results indicate that the damping effect is most pronounced in countries with high administrative risk and high taxes. For loss carryforwards, we document about 3.1 percent higher risk-taking in low risk countries and a less pronounced attenuation under both administrative and budget risk. Additional analyses suggest that the incentive of loss offsets may even reverse under high country risk, especially in high tax countries. Narrower settings around rating downgrades and budget crises provide consistent evidence. Our results suggest that countries’ prompt and reliable processing of tax refunds can be undermined by country risk factors. For tax incentives to succeed, governments need to minimize administrative and budgetary risks.
+
+Keywords: administrative risk, budget risk, corporate risk-taking, corporate tax, country risk, investment incentives, loss offset, tax reform
+
+JEL Classification: H25, H32, G31
+
+Suggested Citation:
+
+Osswald, Benjamin and Sureth-Sloane, Caren, Do Country Risk Factors Attenuate the Effect of Tax Loss Incentives on Corporate Risk-Taking? (February 1, 2024). WU International Taxation Research Paper Series No. 2018-09, TRR 266 Accounting for Transparency Working Paper Series No. 28, Available at SSRN: https://ssrn.com/abstract=3297418 or http://dx.doi.org/10.2139/ssrn.3297418
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+M Adelino , M A Ferreira
+Bank Ratings and Lending Supply: Evidence from Sovereign Downgrade
+The Review of Financial Studies , volume 29 , issue 7 , p. 1709 - 1746 Posted: 2016
+S R Baker , N Bloom , S J Davis
+Measuring Economic Policy Uncertainty
+The Quarterly Journal of Economics , volume 131 , issue 4 , p. 1593 - 1636 Posted: 2016
+A C Baker , D Larcker , C C Y Wang
+How much should we trust staggered difference-indifferences estimates
+Journal of Financial Economics , volume 144 , issue 2 , p. 370 - 395 Posted: 2022
+J M Barrios
+Staggeringly Problematic: A Primer on Staggered DiD for Accounting Researchers Posted: 2021-01
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+368
+ABSTRACT VIEWS
+5,225
+RANK
+185,220
+13 Citations
+57 References
+PlumX Metrics
+Related eJournals
+
+WU International Taxation Research Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

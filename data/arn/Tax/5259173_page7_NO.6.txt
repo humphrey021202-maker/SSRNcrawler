@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Addressing the Use of AI by EU Tax Authorities: Towards a Common Framework of Taxpayer Protection
+
+European Taxation, volume 65, issue 1, 2024[10.59403/1avybfj]
+
+24 Pages Posted: 19 May 2025
+
+Amedeo Rizzo
+
+University of Oxford - Faculty of Law; Bocconi University; Stanford Law School
+
+Giorgio Hassan
+
+SDA Bocconi
+
+Date Written: December 02, 2024
+
+Abstract
+
+This paper explores the status and evolution in the framework of taxpayer protection in the digital age. The implementation of AI in tax administration is progressively changing the structure of tax audits, enhancing the need for specific measures to address the legitimacy of such AI systems under the principles of European law. In this paper, we focus on how, due to the progressive automation of tax audits, the framework of data protection law is progressively influencing the area of tax law, by binding tax authorities to comply with the principles and obligations of the GDPR. In this analysis, we put particular emphasis on the provisions of the GDPR concerning automated decision-making, by stressing how the recent developments in the case law of the CJEU could trigger the application of such provisions in the field of AI-enabled tax audits. Building on this hypothesis, we design a two-rule framework of taxpayer protection that is meant to extend the provisions of the GDPR relating to automated decision-making to individual tax proceedings, in a way that does not undermine-but rather intensifies-the standards of taxpayer protection in the field of "automated" tax audits. In our view, this framework could provide guidance to both EU and non-EU countries for promoting the integration of AI in tax audits while preserving the fundamental institutions of taxpayer protection. Table of contents 1. INTRODUCTION .
+
+Keywords: AI, EU, US, Tax Authorities, Tax Audits
+
+Suggested Citation:
+
+Rizzo, Amedeo and Hassan, Giorgio, Addressing the Use of AI by EU Tax Authorities: Towards a Common Framework of Taxpayer Protection (December 02, 2024). European Taxation, volume 65, issue 1, 2024[10.59403/1avybfj], Available at SSRN: https://ssrn.com/abstract=5259173
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+R Italy ; Ve
+on the contrary, has implemented an algorithmic verification system
+Advanced Analytics for Better Tax Administration Posted: 2016-05-13
+Tax Administration 3.0: The Digital Transformation of Tax Administration Posted: 2020-12-07
+See Bruno , Peeters
+Behind the One-Way Mirror: Reviewing the Legality' [2024] 2 EC Tax. Rev, 184. See also Jean Monnet Network on EU Law Enforcement Slipping Through the Cracks, the Carve-outs for AI Tax Enforcement Systems in the EU AI Act by David Hadwick Posted: 2024
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+105
+ABSTRACT VIEWS
+506
+RANK
+597,018
+11 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law: International & Comparative Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,97 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Using the Benford Datasets and the Reddy and Sebastin Results to Form an Audit Alert Screening Heuristic: An Appraisal
+
+The IUP Journal of Accounting Research & Audit Practices, Vol. XIII, No. 3, July 2014, pp. 56-69
+
+Posted: 9 Jul 2017
+
+Edward J. Lusk
+
+SUNY Plattsburgh
+
+Michael Halperin
+
+University of Pennsylvania - Wharton School
+
+Date Written: May 4, 2015
+
+Abstract
+
+Digital Frequency Testing (DFT) is a simple and potentially effective tool that can be used efficiently in the certification audit as well as in the service of forensic investigations to rationalize the use of extended audit procedures at the substantive phase of the audit. To further the hegemony of DFT, this paper summarizes certain aspects of the excellent treatment of DFT offered by Reddy and Sebastin (2012). In the following, the paper takes up the development of a Benford Screening Window (BSW) that can be employed to create alerts as to when datasets under audit examination do not seem to conform to the DFT profile as corrected from the Benford (1938) paper. The BSW is tested vis-à-vis the log10expectation function, two accounting industry datasets downloaded from COMPUSTATTM, and the 12 years of in-kind committee contributions dataset developed by Reddy and Sebastin (2012). The paper finds a reasonable fit for these datasets for the BSW and hence suggests an overall calibration cut-off taken from the results obtained by passing the Reddy-Sebastin datasets through the BSW. In this paper, the authors have programmed an ExcelTMVBA driven Decision Support System (DSS) to aid in the creation of these audit alerts which is available for free as a download with no restriction on its use.
+
+Suggested Citation:
+
+Lusk, Edward J. and Halperin, Michael, Using the Benford Datasets and the Reddy and Sebastin Results to Form an Audit Alert Screening Heuristic: An Appraisal (May 4, 2015). The IUP Journal of Accounting Research & Audit Practices, Vol. XIII, No. 3, July 2014, pp. 56-69, Available at SSRN: https://ssrn.com/abstract=2602108
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,003
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Characterizing Heteroskedasticity
+
+21 Pages Posted: 16 Jun 2009
+
+Gilles O. Zumbach
+
+Edgelab; Consulting in Financial Engineering
+
+Date Written: April 14, 2009
+
+Abstract
+
+The volatility clustering, or heteroskedasticity, is an important feature of all financial time series. In particular, the lagged correlation for the volatility is slowly decreasing with increasing lags. This paper characterizes its decay. First, Monte Carlo simulations are used to select the best volatility and correlation estimators for this task. Second, the empirical lagged correlations are studied over a set of 225 time series, as well as for the DJIA with a sample size of one century. The results favor strongly a log-decay shape, while an exponential and power law decay do not describe well the data. The implications for the modelization of financial time series by processes are important, as this finding excludes the hyperbolic decay, but favors volatility cascade and multicomponent ARCH processes. Third, the analysis of the decay coefficient shows that time series related to emerging countries have a shorter memory, in agreement with an analysis of the Hurst exponents published recently.
+
+Keywords: heteroskedasticity, volatility lagged correlation
+
+Suggested Citation:
+
+Zumbach, Gilles, Characterizing Heteroskedasticity (April 14, 2009). Available at SSRN: https://ssrn.com/abstract=1420162 or http://dx.doi.org/10.2139/ssrn.1420162
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+[ References , Arneodo
+Causal cascade in the stock market from the "infrared" to the "ultraviolet
+Eur. Phys. J. B , issue 2 Posted: 1998
+[ Bacry
+Multifractal random walk
+Phys. Rev. E , issue 64 Posted: 2001
+Crossref
+[ Baillie
+Fractionally integrated generalized autoregressive conditional heteroskedasticity
+Journal of Econometrics , volume 74 , issue 1 , p. 3 - 30 Posted: 1996
+Crossref
+T Bollerslev
+Generalized autoregressive conditional heteroskedasticity
+Journal of Econometrics , volume 31 , p. 307 - 327 Posted: 1986
+Crossref
+Load more
+1 Citations
+Gilles Zumbach , Luis Fernandez , Caroline Weber
+Realistic Processes for Stocks from One Day to One Year
+20 Pages · Posted: 27 Dec 2010 · Downloads: 210
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+184
+ABSTRACT VIEWS
+1,485
+RANK
+375,436
+1 Citations
+22 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Volatility Processes and Volatility Forecast with Long Memory
+
+By Gilles O. Zumbach
+
+Modelling Short-Term Volatility with GARCH and Harch Models
+
+By Michel M. Dacorogna, Ulrich A. Müller, ...
+
+Heterogeneous Volatility Cascade in Financial Markets
+
+By Gilles O. Zumbach and Paul Lynch
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

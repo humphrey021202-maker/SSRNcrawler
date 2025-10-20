@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Board Interlocks Increase Innovation? Evidence from a Corporate Governance Reform in India
+
+Journal of Banking and Finance, Forthcoming
+
+71 Pages Posted: 11 Apr 2017
+
+Christian Helmers
+
+Charles III University of Madrid; Santa Clara University - Leavey School of Business
+
+Manasa Patnam
+
+CREST (ENSAE)
+
+P. Raghavendra Rau
+
+University of Cambridge; European Corporate Governance Institute (ECGI)
+
+There are 2 versions of this paper
+
+Date Written: April 1, 2017
+
+Abstract
+
+We examine the effect of board interlocks on patenting and R&D spending for publicly traded companies in India. We exploit a corporate governance reform to address the endogeneity of board interlocks through exogenous changes mandated by the reform requiring a subset of firms to adjust their board structure. We rely on two difference-in-differences frameworks, comparing firms affected by the reform to unaffected firms as well as comparing within the set of firms that did not have to adjust their board structure those that still experienced an exogenous increase of their network size as a result of the reform to those that did not experience a change in their network size. We find that board interlocks have significant positive effects on both R&D and patenting. The evidence suggests that the impact on R&D is induced by information transmission through interlocks. The effect on patenting is driven by firms extending patent protection by patenting inventions abroad that they have already patented in India.
+
+Keywords: Patents, peer effects, director networks, innovation, India, natural experiments
+
+JEL Classification: G3, O16, O34, O31
+
+Suggested Citation:
+
+Helmers, Christian and Helmers, Christian and Patnam, Manasa and Rau, P. Raghavendra, Do Board Interlocks Increase Innovation? Evidence from a Corporate Governance Reform in India (April 1, 2017). Journal of Banking and Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2949239
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+W Greene
+Fixed Effects and Bias Due to the Incidental Parameters Problem in the Tobit Model
+Econometric Reviews , volume 23 , p. 125 - 147 Posted: 2004
+Crossref
+J Hagedoorn , A Link , And N Vonortas
+Research partnerships
+Research Policy , volume 29 , p. 567 - 586 Posted: 2000
+Crossref
+B H Hall , A Jaffe , And M Trajtenberg
+Market Value and Patent Citations
+The RAND Journal of Economics , volume 36 , p. 16 - 38 Posted: 2005
+Crossref
+B H Hall , And R , Ziedonis
+The patent paradox revisited: an empirical study of patenting in the U.S. semiconductor industry, 1979-95
+RAND Journal of Economics , volume 32 , p. 101 - 128 Posted: 2001
+Crossref
+Load more
+1 Citations
+Xuemei Qiu , Zhong‐qin Su , Zuo Ping Xiao
+Do Social Ties Matter for Corporate Bond Yield Spreads? Evidence from China
+Corporate Governance: An International Review, Vol. 27, Issue 6, pp. 427-457, 2019 · 31 Pages · Posted: 19 May 2020 · Downloads: 12
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+139
+ABSTRACT VIEWS
+1,928
+RANK
+103,399
+1 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+Emerging Markets: Finance eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Bayesian Semiparametric Model for Volatility with a Leverage Effect
+
+22 Pages Posted: 22 Nov 2011
+
+Eleni-Ioanna Delatola
+
+University of Kent - Canterbury Campus
+
+Jim E. Griffin
+
+University College London
+
+Date Written: November 22, 2011
+
+Abstract
+
+A Bayesian semiparametric stochastic volatility model for financial data is developed. This estimates the return distribution from the data allowing for stylized facts such as heavy tails and jumps in prices whilst also allowing for correlation between the returns and changes in volatility, the leverage effect. An efficient MCMC algorithm for inference is described. The model is applied to simulated data and two real data sets. These show that parametric assumptions about the return distribution can have a substantial effect on estimation of the leverage effect.
+
+Keywords: Dirichlet process, asset return, stock index, off-set mixture representation, mixture model, centred representation
+
+JEL Classification: C11, C14, C22
+
+Suggested Citation:
+
+Delatola, Eleni-Ioanna and Griffin, Jim E., A Bayesian Semiparametric Model for Volatility with a Leverage Effect (November 22, 2011). Available at SSRN: https://ssrn.com/abstract=1963082 or http://dx.doi.org/10.2139/ssrn.1963082
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+Y F Atchadé , J S Rosenthal
+On Adaptive Markov Chain Monte Carlo Algorithms
+Bernoulli , volume 11 , issue 5 , p. 815 - 828 Posted: 2005
+Crossref
+C Ausín , P Galeano , P Ghosh
+A Semiparametric Bayesian Approach to the Analysis of Financial Time Series with Applications to Value at Risk Estimation Posted: 2010
+Crossref
+F Black
+Studies of Stock Market Volatility Changes
+Proceedings of the American Statistical Association, Business and Economic Studies Section , p. 177 - 181 Posted: 1976
+C Bush , S Maceachern
+A semiparametric Bayesian model for randomised block designs
+Biometrika , volume 83 , p. 275 - 285 Posted: 1996
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+248
+ABSTRACT VIEWS
+1,871
+RANK
+281,769
+1 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+On Leverage in a Stochastic Volatility Model
+
+By Jun Yu
+
+Deviance Information Criterion for Comparing Stochastic Volatility Models
+
+By Andreas Berg, Renate Meyer, ...
+
+Bugs for a Bayesian Analysis of Stochastic Volatility Models
+
+By Renate Meyer and Jun Yu
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

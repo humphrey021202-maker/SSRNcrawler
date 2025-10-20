@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Do Hedge Fund Activists Use and Affect Financial Reporting of Income Taxes? Evidence from the Valuation Allowance for Deferred Tax Assets
+
+50 Pages Posted: 6 Jun 2024 Last revised: 2 Jan 2025
+
+Mary Cowx
+
+Arizona State University (ASU) - W.P. Carey School of Business
+
+Jennifer L. Glenn
+
+Ohio State University (OSU) - Department of Accounting & Management Information Systems
+
+Patrick Kielty
+
+Ohio State University (OSU) - Fisher College of Business
+
+Sean T. McGuire
+
+Texas A&M University - Department of Accounting
+
+Date Written: December 31, 2024
+
+Abstract
+
+This study uses valuation allowances (VAs) for deferred tax assets (DTAs) to examine whether hedge fund activists (HFAs) use and affect financial reporting of income taxes. Specifically, we investigate whether HFAs target firms with VAs and whether target firms are more likely to release VAs post-intervention. We find that the existence, magnitude, and increases in VAs increase the marginal probability that HFAs will target a firm by between 12% to 24%. We also find that target firms are 4.6% more likely to release VAs following the intervention and this effect persists for up to two years. Releases of VAs appear to stem from implemented tax avoidance strategies and changes in financial reporting of income taxes rather than real changes in operating performance or earnings management. Overall, HFAs appear to understand the interplay between tax planning and financial reporting of income taxes and use both to unlock value in target firms.
+
+Keywords: Accounting for Income Taxes, ASC 740, Deferred Tax Assets, Hedge Fund Activists, Valuation Allowance JEL Codes: G23
+
+Declaration of Interest
+
+We gratefully acknowledge research support provided by the Fisher College of Business, the Mays Business School, and the W.P. Carey School of Business.
+
+Ethics Approval
+
+N/A
+
+Funder Statement
+
+We gratefully acknowledge research support provided by the Fisher College of Business, the Mays Business School, and the W.P. Carey School of Business.
+
+Suggested Citation:
+
+Cowx, Mary and Glenn, Jennifer L. and Kielty, Patrick and McGuire, Sean T., How Do Hedge Fund Activists Use and Affect Financial Reporting of Income Taxes? Evidence from the Valuation Allowance for Deferred Tax Assets (December 31, 2024). Available at SSRN: https://ssrn.com/abstract=4853883 or http://dx.doi.org/10.2139/ssrn.4853883
+Download This Paper
+ 
+Open PDF in Browser
+92 References
+C Ai , E C Norton
+Interaction terms in logit and probit models
+Economics Letters , volume 80 , issue 1 , p. 123 - 129 Posted: 2003
+P C Austin
+Optimal caliper widths for propensity-score matching when estimating differences in means and differences in proportions in observational studies
+Pharmaceutical Statistics , volume 10 , issue 2 , p. 150 - 161 Posted: 2011
+Z Axelton , J Gramlich , M Harris
+How do auditors learn to forecast? Evidence from the predictive power of the deferred tax asset valuation allowance Posted: 2019
+B C Ayers , A C Call , C M Schwab
+Do analysts' cash flow forecasts encourage managers to improve the firm's cash flows? Evidence from tax planning
+Contemporary Accounting Research , volume 35 , issue 2 , p. 767 - 793 Posted: 2018
+Load more
+1 Citations
+Dain C. Donelson , Jennifer L. Glenn , Sean T. McGuire , Christopher G. Yust
+The effect of shareholder scrutiny on corporate tax behavior: Evidence from shareholder tax litigation
+Contemporary Accounting Research , volume 41 , issue 1 , p. 163 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+120
+ABSTRACT VIEWS
+596
+RANK
+538,270
+1 Citations
+92 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

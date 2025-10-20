@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Strategic uncertainty in tax enforcement: How ambiguity shapes compliance
+
+
+
+79 Pages Posted: 8 Mar 2022 Last revised: 12 May 2025
+
+Eric Floyd
+
+University of California San Diego
+
+Michael Hallsworth
+
+Imperial College London
+
+John A. List
+
+University of Chicago - Department of Economics
+
+Robert D. Metcalfe
+
+Boston University
+
+Kristian Rotaru
+
+Department of Accounting, Monash Business School
+
+Ivo Vlaev
+
+University of Warwick - Warwick Business School
+
+Date Written: February 2, 2022
+
+Abstract
+
+This study examines whether ambiguous enforcement threats can enhance tax compliance more effectively than explicit deterrents. Challenging traditional economic deterrence models, we investigate the cognitive and emotional mechanisms through which enforcement uncertainty shapes taxpayer behavior. Across four experiments, including a large-scale field study (n = 204,936) with the UK tax authority, we provide causal evidence that non-specific enforcement messages increase tax payment rates by up to five percentage points, whereas explicit deterrent messages detailing financial and cognitive costs yield no significant effect. We document how enforcement uncertainty operates through two interconnected pathways. First, when taxpayers face enforcement uncertainty, they “fill in the blanks” by assuming severe potential penalties, reflecting uncertainty-driven caution. Resolving uncertainty by explicitly disclosing penalties paradoxically reduces compliance by eliminating worst-case scenarios. Second, physiological measurements (eye-tracking and pupillometry) reveal emotional stress responses triggered by uncertainty, highlighting an affective component to uncertainty aversion. In contrast, explicitly disclosed penalties can increase compliance when they exceed taxpayer expectations, suggesting that cognitive (belief-updating) responses depend critically on taxpayers’ prior beliefs. These findings provide evidence-based insights for enforcement authorities, demonstrating that strategic uncertainty can enhance compliance while maintaining regulatory discretion. For optimal enforcement design, authorities should carefully calibrate ambiguity levels, balancing the compliance benefits of uncertainty with the potentially higher effectiveness of credible explicit maximum penalties.
+
+Keywords: tax compliance, enforcement uncertainty, strategic ambiguity, psychological mechanisms, emotional responses, neuroaccounting
+
+JEL Classification: C93, D03, H26
+
+Suggested Citation:
+
+Floyd, Eric and Hallsworth, Michael and List, John A. and Metcalfe, Robert D. and Rotaru, Kristian and Vlaev, Ivo,
+Strategic uncertainty in tax enforcement: How ambiguity shapes compliance
+
+
+(February 2, 2022). Available at SSRN: https://ssrn.com/abstract=4023806 or http://dx.doi.org/10.2139/ssrn.4023806
+Download This Paper
+ 
+Open PDF in Browser
+103 References
+The crisis in tax administration Posted: 2004
+M Agranov , A Buyalskaya
+Deterrence effects of enforcement schemes: An experimental study
+Management Science , volume 68 , issue 5 , p. 3573 - 3589 Posted: 2022
+A Al-Hadi , G Taylor , G Richardson
+Are corruption and corporate tax avoidance in the United States related?
+Review of Accounting Studies , volume 27 , issue 1 , p. 344 - 389 Posted: 2022
+M G Allingham , A Sandmo
+Income tax evasion: A theoretical analysis
+Journal of Public Economics , volume 1 , issue 3-4 , p. 323 - 338 Posted: 1972
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+428
+ABSTRACT VIEWS
+1,966
+RANK
+155,954
+1 Citations
+103 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

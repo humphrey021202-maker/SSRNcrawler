@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Catch-22 in Audit Litigation? Interventions that Decrease Assessed Auditor Culpability by Reducing Assessed Fraud Detectability and Auditor Acquiescence Generate Reactance Effects that Increase Assessed Damages
+
+63 Pages Posted: 21 Aug 2014 Last revised: 29 Feb 2020
+
+Tim Brown
+
+University of South Carolina - Department of Accounting
+
+Tracie M. Majors
+
+University of Southern California
+
+Mark E. Peecher
+
+University of Illinois at Urbana-Champaign; Gies College of Business; University of Illinois College of Law
+
+Date Written: February 27, 2020
+
+Abstract
+
+Juror assessments of audit firm culpability when material misstatements emerge after issuance of clean audit opinions are critical, but evidence shows these assessments can be dysfunctional and are often unfairly harsh on audit firms. Thus, despite helpful gains in the literature, there is need for advancing our understanding of interventions that can reduce jurors’ culpability assessments, and the key mediators through which these interventions operate. Drawing from recent psychology research on determinants of lay persons’ blameworthiness judgments, we propose two key mediators that we predict drive the extent to which jurors find defendant audit firms culpable: fraud detectability and auditor acquiescence. We examine whether three highly topical regulatory interventions—an auditor judgment rule (AJR) that directs jurors to not second-guess auditor judgments so long as made in good faith and with a reasonable basis, a critical audit matter (CAM) in the audit report that pertains to the disputed area, and a juror negligence training (JNT) in advance of the case evaluation—reduce jurors’ assessments of audit firm culpability through weakening jurors’ beliefs related to detectability and acquiescence. In two experiments with lay juror participants, we find that, as predicted, each of these factors reduces jurors’ culpability assessments through reducing detectability; the AJR and JNT also generally reduce acquiescence as well, although their joint effect is less than the sum of their individual effects. Importantly, we also identify a predicted “catch-22” in that the AJR and JNT (unlike the CAM) cause reactance effects in the subset of jurors who, despite the AJR or JNT, still find against the audit firm and when doing so, assign greater damages.
+
+Keywords: Auditor Judgment Rule, Juror Negligence Training, Critical Audit Matters, Auditor Legal Liability, Reactance, Damages Assessments, Fraud Detectability, Auditor Acquiescence
+
+JEL Classification: M40, M41, K20, K22, K41
+
+Suggested Citation:
+
+Brown, Tim and Majors, Tracie McDonald and Peecher, Mark E., A Catch-22 in Audit Litigation? Interventions that Decrease Assessed Auditor Culpability by Reducing Assessed Fraud Detectability and Auditor Acquiescence Generate Reactance Effects that Increase Assessed Damages (February 27, 2020). Available at SSRN: https://ssrn.com/abstract=2483221 or http://dx.doi.org/10.2139/ssrn.2483221
+Download This Paper
+ 
+Open PDF in Browser
+72 References
+Alicke M
+M. Culpable Control and the Psychology of Blame
+Psychological Bulletin , p. 556 - 574 Posted: 2000
+S Arsht
+The Business Judgment Rule Revisited
+Hofstra Law Review , volume 8 , issue 1 , p. 93 - 135 Posted: 1979
+C Aveni , J Hood , E Sledge
+Explaining Complex Commercial and Business Concepts to a Jury Without Peers
+Defense Counsel , volume 84 , issue 1 , p. 1 - 12 Posted: 2017
+A Backof
+The Impact of Audit Evidence Documentation on Jurors' Negligence Verdicts and Damages Awards
+The Accounting Review , volume 90 , issue 6 , p. 2177 - 2204 Posted: 2015
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,287
+ABSTRACT VIEWS
+9,091
+RANK
+36,424
+17 Citations
+72 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditors Scan News Headlines? The Prophetic Vision for Going-Concern Opinions
+
+46 Pages Posted: 18 Aug 2021 Last revised: 19 Jul 2022
+
+Deniz Appelbaum
+
+Montclair State University
+
+Huijue Kelly Duan
+
+Rutgers Business School - Rutgers University
+
+Hanxin Hu
+
+Rutgers Business School - Rutgers University
+
+Ting Sun
+
+The College of New Jersey
+
+Date Written: August 16, 2021
+
+Abstract
+
+Using Reuters data and machine learning, this paper explores the potential role of linguistic features of 972,144 business news headlines in going-concern opinion predictions. This research identifies 26,857 firm-year observations from their headlines from 2004 to 2016. For each observation in the sample, 286 linguistic features are extracted from the news headlines, including the frequency of company mentions, sentiment features (identified by using three advanced natural language processing (NLP) tools: TextBlob, Flair, and VADER), and the frequency of financial topics mentions. The most important linguistic features were selected with the Balanced Random Forest algorithm. Next, the selected news features are combined with audit-related variables, financial variables, and market variables incrementally in logistic regressions to examine the association between those variables and the dependent variable, going-concern opinions. Specifically, to simulate the dynamic process of audit at different stages, seven models are developed. The results show that the linguistic features of business news headlines are significantly associated with the going-concern opinions, especially at earlier stages of the audit process, suggesting business news headlines are important resources of additional information regarding both the audit risk and the company’s business risks in the formation of a going-concern opinion. Press coverage information, and specifically news headlines, influences the auditor’s risk perception of a potential going concern issue, the issuance of which may help decrease future litigation risk.
+
+Keywords: News headlines, Machine learning, Natural language processing, Bankruptcies, Going Concern
+
+JEL Classification: M42
+
+Suggested Citation:
+
+Appelbaum, Deniz and Duan, Huijue Kelly and Hu, Hanxin and Sun, Ting, Auditors Scan News Headlines? The Prophetic Vision for Going-Concern Opinions (August 16, 2021). Available at SSRN: https://ssrn.com/abstract=3906091 or http://dx.doi.org/10.2139/ssrn.3906091
+Download This Paper
+ 
+Open PDF in Browser
+95 References
+Guide to Audit Data Analytics
+AICPA Posted: 2017
+A Akbik , T Bergmann , D Blythe , K Rasul , S Schweter , R Vollgraf
+FLAIR: An easy-to-use framework for state-of-the-art NLP Posted: 2019
+A Akbik , T Bergmann , R Vollgraf
+Pooled contextualized embeddings for named entity recognition
+Paper read at Proceedings of the 2019 Conference of the North American Chapter , volume 1 Posted: 2019
+A Akbik , D Blythe , R Vollgraf
+Contextual string embeddings for sequence labeling
+Paper read at Proceedings of the 27th international conference on computational linguistics Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+237
+ABSTRACT VIEWS
+1,244
+RANK
+294,806
+95 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

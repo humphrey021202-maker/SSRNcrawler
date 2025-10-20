@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tourist Tax and Ratings of Online Reviews
+
+Quaderni - Working Paper DSE N° 1168
+
+33 Pages Posted: 15 Dec 2021
+
+Antonio Marsi
+
+University of Bologna
+
+Emanuela Randon
+
+University of Bologna
+
+Date Written: December 13, 2021
+
+Abstract
+
+Tourist taxes represent one of the principal sources of revenue for a number of local authorities. Using a dataset of more than 300 thousands reviews on TripAdvisor, we analyze the effect of tourist taxes on online ratings posted by hotel costumers. Online ratings are strategic variables for the competitiveness of hotels and local destinations and so the assessment of the impact of tourist taxes on online reviews is important to design suitable strategies and policies both for firms and local municipalities. We show that the share of complaints about the tax increases with the tax rate, but the relationship gets weaker as the hotel quality increases, suggesting that low-quality costumers are more sensitive to tax increases. Tax mentioning reviews have on average a 20% lower rating and this difference becomes smaller and not significant for high quality hotels. We disentangle the different sources of complaining, finding that the lack of information and the cash payments weight more negatively on the average rating (respectively less 27% and 21%). Using a random-effects logit model we show that what matters for costumers is the percentage tax on the room price and not the absolute amount of the legal tax rates based on the hotel stars. This effect is present only for hotel stays with an average double room price under 100 Euros. Our results provide public authorities with useful suggestions to change the actual tax system by setting the tourist tax as an ad valorem tax on room price and assessing optimal tax rates accordingly to their incidence on the price of the stay.
+
+Keywords: Tourism Tax, Online Ratings, Tax Incidence
+
+JEL Classification: D12, H21, H22, L83, Z3
+
+Suggested Citation:
+
+Marsi, Antonio and Randon, Emanuela, Tourist Tax and Ratings of Online Reviews (December 13, 2021). Quaderni - Working Paper DSE N° 1168, Available at SSRN: https://ssrn.com/abstract=3984821 or http://dx.doi.org/10.2139/ssrn.3984821
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+D R Agrawal , W H Hoyt , J D Wilson
+Local Policy Choice: Theory and Empirics
+Journal of Economic Literature Posted: 2021
+E Aguiló , A Riera , J Rosselló
+The short-term price effect of a tourist tax through a dynamic demand model. The case of the Balearic Islands
+Tourism Management , volume 26 , issue 3 , p. 359 - 365 Posted: 2005
+T Besley , A Case
+Does Electoral Accountability affect Economic Policy Choices? Evidence from Gubernatorial Term Limits
+The Quarterly Journal of Economics Posted: 1995-08
+B Biagi , M G Brandano , M Pulina
+Tourism taxation: A synthetic control method for policy evaluation
+International Journal of Tourism Research , volume 19 , issue 5 , p. 505 - 514 Posted: 2017
+Load more
+1 Citations
+Adem Demirbozan , Sedat Polat
+A Qualitative Research on Exemption and Exception Practices in Accommodation Tax
+Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi , volume 20 , issue 2 , p. 671 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+83
+ABSTRACT VIEWS
+772
+RANK
+697,815
+1 Citations
+21 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Transportation, Economy & Society eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

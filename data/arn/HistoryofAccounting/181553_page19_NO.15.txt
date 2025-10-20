@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Occurrence and Timing of Events: The Application of Event History Models in Accounting and Finance Research
+
+79 Pages Posted: 1 Nov 1999
+
+Marc J. LeClere
+
+Valparaiso University
+
+Date Written: September 1999
+
+Abstract
+
+Event history analysis is a statistical method concerned with the study of events and the substantive processes that govern the occurrence and timing of events. Many research studies focusing on events use qualitative response models such as probit or logistic regression and typically examine the relation between the probability of an event and a set of covariates for a single year. Event history models, on the other hand, use longitudinal rather than cross-sectional data and focuses on the process that governs the occurrence and timing of events rather than the observation of a specific state.
+
+In this paper I review event history models and their applications in accounting and finance research. The paper discusses the issues of censored observations and time-varying covariates and reviews the more commonly used survival distributions. I provide a review of the trade-offs involved in choosing among non-parametric, parametric, and semi-parametric models as well as competing risk, multi-episode, and multi-episode/multi-state models.
+
+JEL Classification: C41, M41
+
+Suggested Citation:
+
+LeClere, Marc J., The Occurrence and Timing of Events: The Application of Event History Models in Accounting and Finance Research (September 1999). Available at SSRN: https://ssrn.com/abstract=181553 or http://dx.doi.org/10.2139/ssrn.181553
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+A R Abdel-Khalik
+Discussion of "financial ratios and corporate endurance: A case of the oil and gas industry
+Contemporary Accounting Research , volume 9 , issue 2 , p. 695 - 705 Posted: 1993
+Crossref
+P D Allison
+Event history analysis Posted: 1984
+P D Allison
+Survival analysis using the SAS system: A practical guide Posted: 1995
+E Altman
+Financial ratios, discriminant analysis, and the prediction of corporate bankruptcy
+Journal of Finance , volume 23 , issue 4 , p. 587 - 690 Posted: 1968
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+4,140
+ABSTRACT VIEWS
+13,142
+RANK
+5,739
+1 Citations
+50 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+ 
+Recommended Papers
+
+Leveraged Buyouts and Private Equity
+
+By Steven N. Kaplan and Per Strömberg
+
+Leveraged Buyouts and Private Equity
+
+By Steven N. Kaplan and Per Strömberg
+
+Do Buyouts (Still) Create Value‘
+
+By Shourun Guo, Edith S. Hotchkiss, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

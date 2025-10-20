@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Effort and Audit Fee Stickiness
+
+35 Pages Posted: 16 Apr 2024
+
+Nikolaos I. Karampinis
+
+Athens University of Economics and Business - Department of Accounting and Finance
+
+Abstract
+
+In this study, I examine potential stickiness in audit fees when audit effort declines. Asymmetric behavior of audit fees to negative changes in audit effort is supported by the credence attributes of audits and market frictions, such as auditors’ economies of learning, lower audit quality with longer tenure, and auditor switching costs. Using a proprietary dataset of Greek audit hours for a large sample of public and private firms, the empirical results reveal that audit fees exhibit asymmetric behavior to audit effort changes, that is, they respond less to decreases relative to increases in audit hours, thereby indicating audit fee stickiness. Additional analysis suggests that audit fee stickiness is more prevalent for Big N auditors with longer tenure, and that it is positively related with accounting quality. Collectively, the relevant inferences suggest that audit fee stickiness stems from economies of learning rather than switching costs or decreased audit quality with longer audit tenure.
+
+Keywords: audit fee stickiness, audit effort, audit learning
+
+Suggested Citation:
+
+Karampinis, Nikolaos I., Audit Effort and Audit Fee Stickiness. Available at SSRN: https://ssrn.com/abstract=4795640 or http://dx.doi.org/10.2139/ssrn.4795640
+Download This Paper
+ 
+Open PDF in Browser
+80 References
+M C Anderson , R D Banker , R Huang , S N Janakiraman
+Cost behavior and fundamental analysis of SG&A costs
+Journal of Accounting, Auditing & Finance , volume 22 , issue 1 , p. 1 - 28 Posted: 2007
+M C Anderson , R D Banker , S N Janakiraman
+Are selling, general, and administrative costs "sticky
+Journal of Accounting Research , volume 41 , issue 1 , p. 47 - 63 Posted: 2003
+D Aobdia , S Siddiqui , A Vinelli
+Heterogeneity in expertise in a credence goods setting: evidence from audit partners
+Review of Accounting Studies , volume 26 , issue 2 , p. 693 - 729 Posted: 2021
+B A Badertscher , B Jorgensen , S Katz , W Kinney
+Public equity and audit pricing in the United States
+Journal of Accounting Research , volume 52 , issue 2 , p. 303 - 339 Posted: 2014
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+218
+ABSTRACT VIEWS
+976
+RANK
+320,086
+80 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

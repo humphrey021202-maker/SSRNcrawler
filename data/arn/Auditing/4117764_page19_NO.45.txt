@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Machine Learning Approach to Detect Accounting Fraud
+
+62 Pages Posted: 2 Jun 2022 Last revised: 26 Apr 2025
+
+Arman Hassanniakalager
+
+CMC Markets
+
+Xinyu Ji
+
+University of Bath, School of management
+
+Pietro Perotti
+
+University of Bath - School of Management
+
+Fanis Tsoligkas
+
+University of Bath - School of Management
+
+Date Written: April 26, 2025
+
+Abstract
+
+This paper introduces a new fraud detection model to the accounting literature using machine learning (ML). This model, which we refer to as LogitBoost, applies ensemble learning to logistic regressions. We show, using seven performance measures assessing the ability to detect fraud, that our model outperforms the methods based solely on logistic regressions or other ML methods used by prior literature.  Further, we identify three key methodological choices in the application of ML methods in prior research which could introduce bias in fraud detection: the choice of potentially collinear predictors, the method used to optimize the hyperparameters and the approach used to deal with serial frauds. The research design which we use aims at minimizing the biases related to these issues. We show that these methodological choices can indeed influence the conclusions drawn from ML methods used by prior literature. In additional analyses, we show that LogitBoost outperforms the other models we use as benchmarks in the prediction of fraud in subsequent years. Finally, a fraud index based on the probabilities derived from LogitBoost exhibits a significantly negative association with firm valuation. 
+
+Keywords: machine learning, logistic regressions, accounting irregularities, AAERs
+
+JEL Classification: C44, C50, C53, M41
+
+Suggested Citation:
+
+Hassanniakalager, Arman and Ji, Xinyu and Perotti, Pietro and Tsoligkas, Fanis, A Machine Learning Approach to Detect Accounting Fraud (April 26, 2025). Available at SSRN: https://ssrn.com/abstract=4117764 or http://dx.doi.org/10.2139/ssrn.4117764
+Download This Paper
+ 
+Open PDF in Browser
+68 References
+D Amiram , Z Bozanic , J D Cox , Q Dupont , J M Karpoff , R Sloan , Y Ke , B Li , B Yu , Y J Zhang , J
+Financial reporting fraud and other forms of misconduct: a multidisciplinary review of the literature
+Journal of Accounting Research , volume 23 , issue 1 , p. 199 - 235 Posted: 2018
+Y Bao , B Ke , B Li , Y J Yu , J Zhang
+Erratum: Detecting Accounting Fraud in Publicly Traded U.S. Firms Using a Machine Learning Approach
+Journal of Accounting Research , volume 60 , issue 4 , p. 1635 - 1646 Posted: 2022
+M S Beasley
+An empirical analysis of the relation between the board of director composition and financial statement fraud
+The Accounting Review , p. 443 - 465 Posted: 1996
+L A Bebchuk , A Cohen
+The costs of entrenched boards
+Journal of Financial Economics , volume 78 , issue 2 , p. 409 - 433 Posted: 2005
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+104
+ABSTRACT VIEWS
+2,999
+RANK
+601,250
+68 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

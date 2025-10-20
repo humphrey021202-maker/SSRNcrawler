@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can Annual Report Vagueness Forecast Stock Price Crash Risk?
+
+20 Pages Posted: 21 Feb 2025
+
+Hongquan Li
+
+Hunan Normal University
+
+Yang Yang
+
+Hunan Normal University
+
+Abstract
+
+The clarity of annual reports is vital for stakeholder decision-making, but companies may intentionally use vague language to obscure unfavorable information, reflecting their motives for information manipulation. This study investigates the relationship between textual vagueness in annual reports and the risk of subsequent stock price crashes, emphasizing its implications for financial risk management. Employing a novel methodology based on linguistic theories and machine learning to quantify vagueness in Chinese corporate annual reports, we find a significant positive relationship between vagueness and future stock price crashes, supported by robustness checks using the linguistic specificity index. Furthermore, such vagueness leads to negative earnings surprises and deteriorating asset quality, indicating shifts in expectations and a decline in asset quality. Our analysis reveals that these effects are more pronounced during heightened market sentiment and are particularly significant among non-state-owned enterprises. This study demonstrates that vagueness in annual reports can penetrate the potential manipulation of corporate information, highlighting the critical role of vagueness valuation in protecting investor interests and improving market transparency.
+
+Keywords: Annual report vagueness, Stock crash risk, Information manipulation, Text risk indicators
+
+Suggested Citation:
+
+Li, Hongquan and Yang, Yang, Can Annual Report Vagueness Forecast Stock Price Crash Risk?. Available at SSRN: https://ssrn.com/abstract=5148023 or http://dx.doi.org/10.2139/ssrn.5148023
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+R L Ackoff
+From data to wisdom
+Journal of Applied Systems Analysis , volume 16 , issue 1 , p. 3 - 9 Posted: 1989
+A Ajina , D Sougne , F Lakhal
+Corporate disclosures, information asymmetry and stockmarket liquidity in France
+Journal of Applied Business Research , volume 31 , issue 4 Posted: 2015
+G A Akerlof
+The market for "lemons": Quality uncertainty and the market mechanism. In Uncertainty in Economics , p. 235 - 251 Posted: 1978
+P C Andreou , C Antoniou , J Horton , C Louca
+Corporate governance and firm-specific stock price crashes
+European Financial Management , volume 22 , issue 5 , p. 916 - 956 Posted: 2016
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+117
+ABSTRACT VIEWS
+595
+RANK
+549,043
+79 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

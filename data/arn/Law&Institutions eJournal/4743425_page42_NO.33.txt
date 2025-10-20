@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Two-tier Board Characteristics and Expanded Audit Reporting: Evidence From China
+
+Review of Quantitative Finance and Accounting, Forthcoming
+
+54 Pages Posted: 1 Apr 2024
+
+Emad Noureldeen
+
+Lancaster University - Lancaster University Management School; Mansoura University - Faculty of Commerce
+
+Mohamed Elsayed
+
+Queen's University Belfast - Queen's Management School
+
+Ahmed A. Elamer
+
+Brunel University London - Brunel Business School; Department of Accounting, Faculty of Commerce, Mansoura University
+
+Jianming Ye
+
+Xiamen University
+
+Date Written: February 6, 2024
+
+Abstract
+
+This paper investigates the relationship between the characteristics of the two-tier board structure (board of directors and supervisory board) and the disclosure of key audit matters (KAMs) in the expanded audit report. Using a sample of 10,857 firm-year observations of Chinese listed firms spanning the 2017-2020 period, we offer two main results. First, with regard to the board of directors, we find that the auditor discloses a greater number and lengthier content of KAMs when there is a CEO duality and the board meetings are more frequent. Second, conversely, we find that the size and independence of the supervisory board are related to a lower number and length of KAMs disclosure. When we distinguish between account-level KAMs and entity-level KAMs, our further analysis shows that our results are principally associated with account-level KAMs rather than entity-level KAMs. Specifically, we find that CEO duality and the frequency of board of directors meetings are positively related to account-level KAMs. We also find that the size and independence of the supervisory board are negatively related to account-level KAMs. Our further analysis also shows evidence that these two-tier board structure characteristics are associated with the tone of KAMs disclosure in a consistent fashion. Our findings are robust and address endogeneity problems. Overall, our results suggest that the characteristics of the two-tier board structure drive KAMs disclosure, which should be of interest to regulatory bodies, policymakers, auditors, multinational firms, and users of financial reports.
+
+Keywords: Expanded audit report, Two-tier board, Corporate governance, Key audit matters, Board of directors, Supervisory board
+
+JEL Classification: M41, M42, M48
+
+Suggested Citation:
+
+Noureldeen, Emad and Elsayed, Mohamed and Elamer, Ahmed Ahmed and Ye, Jianming, Two-tier Board Characteristics and Expanded Audit Reporting: Evidence From China (February 6, 2024). Review of Quantitative Finance and Accounting, Forthcoming , Available at SSRN: https://ssrn.com/abstract=4743425 or http://dx.doi.org/10.2139/ssrn.4743425
+Download This Paper
+ 
+Open PDF in Browser
+131 References
+T Abdelfattah , M Elmahgoub , A A Elamer
+Female audit partners and extended audit reporting: UK evidence
+Journal of Business Ethics , volume 174 , p. 177 - 197 Posted: 2021
+N A Abu , R Jaffar
+Audit committee effectiveness and key audit matters
+Asian Journal of Accounting and Governance , volume 14 , p. 67 - 78 Posted: 2020
+R B Adams , D Ferreira
+Comment letter on FRC revision to ISA (UK and Ireland) 700: Requiring the auditor's report to address risks of material misstatement, materiality and a summary of audit scope
+International Review of Finance , volume 12 , issue 2 , p. 227 - 248 Posted: 2012
+K Ahmed , M Hossain , M B Adams
+The effects of board composition and board size on the informativeness of annual accounting earnings. Corporate governance: an international review , volume 14 , p. 418 - 431 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+58
+ABSTRACT VIEWS
+656
+RANK
+856,579
+131 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

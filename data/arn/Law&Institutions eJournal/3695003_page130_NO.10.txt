@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Are a Few Huge Outcomes Distorting Financial Misconduct Research?
+
+Econ Journal Watch, 16 (1), pp. 1-34, 2019
+
+34 Pages Posted: 7 Nov 2020
+
+Emre Kuvvet
+
+Nova Southeastern University; The Independent Institute
+
+Date Written: March 31, 2019
+
+Abstract
+
+Research on financial misconduct uses data on enforcement outcomes, such as the penalties that the firm pays. The distribution of most enforcement outcomes shows extreme observations or outliers, but you wouldn’t necessarily glean that by a casual examination of some of the leading research on financial misconduct. In this paper I describe the public-policy context of such research and raise the issue of whether the extreme-values problem has been given adequate attention. I touch on a number of papers, and then focus on a 2018 Journal of Accounting Research article by Andrew Call, Gerald Martin, Nathan Sharp, and Jaron Wilde (CMSW), which purports to show a positive association between the severity of enforcement outcomes and the involvement of a whistle-blower. I show that the top one percent of the enforcement outcomes (11 observations) in CMSW’s large sample of 1,133 enforcement actions drive their results; a number of robustness checks suggest that the extreme-values problem is serious. Moreover, I explain numerous sources of fuzziness in their whistle-blower coding, and explain that research with the extreme-values problem is highly sensitive to such fuzziness because a few dubious codings can change the results. Unfortunately, CMSW do not disclose how each coding was arrived at, so we cannot peer into the fuzziness to see how the extreme observations came to be coded as they are. I suggest that CMSW could have been upfront about the looming problem of a few extreme values in enforcement outcomes, should have shown how the outliers affect their results, and should have explained and resolved (to the extent possible) the mysteries surrounding the coding. Furthermore, as regards the larger issue of public policy, it should be emphasized that we would expect strong and natural correlations among severity of misconduct, likelihood of penalties, and whistle-blowing, like the correlations among the severity of health emergencies, likelihood of medical interventions, and calls to 9-1-1. Correlation is not causation. CMSW do not give this point the emphasis that it deserves. It looms especially large in light of my findings that CMSW’s results are not robust to removing the outliers. Accordingly we should perhaps be surprised that CMSW did not find a statistically significant correlation for one of the enforcement-outcome categories.
+
+Keywords: whistle-blower, tipster, outlier
+
+JEL Classification: C18, G30, G38, K22, K42, M48
+
+Suggested Citation:
+
+Kuvvet, Emre, Are a Few Huge Outcomes Distorting Financial Misconduct Research? (March 31, 2019). Econ Journal Watch, 16 (1), pp. 1-34, 2019, Available at SSRN: https://ssrn.com/abstract=3695003
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+Robert M Bowen , C Andrew , Shiva Call , Rajgopal
+Whistle-Blowing: Target Form Characteristics and Economic Consequences
+Accounting Review , volume 85 , issue 4 , p. 1239 - 1271 Posted: 2010
+Crossref
+Andrew C Call , Shivaram Simi Kedia , Rajgopal
+Rank and File Employees and the Discovery of Misreporting: The Role of Stock Options
+Journal of Accounting and Economics , volume 62 , issue 2-3 , p. 277 - 300 Posted: 2016
+Crossref
+Andrew C Call , S Gerald , Nathan Y Martin , Jaron H Sharp , Wilde
+Whistleblowers and Outcomes of Financial Misrepresentation Enforcement Actions
+Journal of Accounting Research , volume 56 , issue 1 , p. 123 - 171 Posted: 2018
+Crossref
+Andrew C Call , S Gerald , Nathan Y Martin , Jaron H Sharp , Wilde
+Financial Enforcement Actions and the Role of Whistleblowers. CLS Blue Sky Blog (Columbia Law School
+American Enterprise Institute Posted: 2010-12-13
+Load more
+1 Citations
+Stephen Walker
+An Open Letter to the <i>Journal of Accounting Research</i>: Demonstrate that You Are Not Sweeping Misconduct under the Rug
+13 Pages · Posted: 15 Nov 2023 · Downloads: 1,762
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+72
+ABSTRACT VIEWS
+731
+RANK
+759,678
+1 Citations
+31 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Law & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

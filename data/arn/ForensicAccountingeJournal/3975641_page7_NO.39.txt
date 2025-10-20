@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting Rule–Driven Regulatory Capital Management and Its Real Effects for U.S. Life Insurers
+
+67 Pages Posted: 6 Dec 2021 Last revised: 12 May 2025
+
+Qingkai Dong
+
+Hong Kong University of Science & Technology (HKUST) - Department of Accounting
+
+Sehwa Kim
+
+Columbia University - Columbia Business School
+
+Stephen G. Ryan
+
+New York University (NYU) - Leonard N. Stern School of Business
+
+Date Written: April 24, 2025
+
+Abstract
+
+We document that U.S. life insurers exercise discretion to mitigate the adverse impact of a statutory accounting rule on their regulatory capital adequacy, as well as real effects of this discretionary behavior. We employ Actuarial Guideline (AG) 43, which increased loss reserves for minimum guarantees embedded in variable annuities, as a shock to the capital adequacy of the insurers that sell those annuities. AG 43 became effective at year-end 2009, subject to an optional linear three-year grade-in period. We first conduct two descriptive analyses of the effects of AG 43 on more affected insurers relative to less affected insurers. We show that more affected insurers (1) sharply increased their reserves for variable annuities in 2011 at the end of the grade-in period, consistent with these increases being due to the grade-in of the rule, not the receding financial crisis, and (2) reduced their variable annuity market share in the same year. We then predict and provide evidence that, relative to unaffected (less affected) insurers, (more) affected insurers took two discretionary actions to offset the decreases in their capital adequacy under AG 43. We show that (more) affected insurers (1) ceded (more) insurance coverage to unauthorized captive reinsurers subject to lax regulation, transactions referred to as “shadow insurance,” and (2) (further) delayed other-than-temporary impairments of investment securities. Lastly, we show that affected insurers that engaged in these forms of capital management mitigated their losses of variable annuity market share, likely an unintended consequence of the rule.
+
+JEL Classification: G22, G28, M41, M48
+
+Suggested Citation:
+
+Dong, Qingkai and Kim, Sehwa and Ryan, Stephen G.,
+Accounting Rule–Driven Regulatory Capital Management and Its Real Effects for U.S. Life Insurers
+(April 24, 2025). Available at SSRN: https://ssrn.com/abstract=3975641 or http://dx.doi.org/10.2139/ssrn.3975641
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+V Acharya
+The Dodd-Frank Act and Basel III: Intentions, unintended consequences, and lessons for emerging markets Posted: 2012
+R Adiel
+Reinsurance and the management of regulatory capital ratios and taxes in the property-casualty industry
+Journal of Accounting and Economics , volume 22 , issue 1-3 , p. 207 - 240 Posted: 1996
+J Altonji , T Elder , C Taber
+Selection on observed and unobserved variables: Assessing the effectiveness of Catholic schools
+Journal of Political Economy , volume 113 , issue 1 , p. 151 - 184 Posted: 2005
+A Arya , J Glover , B Mittendorf , G Narayanamoorthy
+Unintended consequences of regulating disclosures: The case of Regulation Fair Disclosure
+Journal of Accounting and Public Policy , volume 24 , issue 3 , p. 243 - 252 Posted: 2005
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+448
+ABSTRACT VIEWS
+2,552
+RANK
+147,865
+1 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

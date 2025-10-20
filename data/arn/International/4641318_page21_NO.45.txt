@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analysts' information environment and voluntary turn away from IFRS
+
+59 Pages Posted: 1 Dec 2023 Last revised: 18 Nov 2024
+
+Andrei Filip
+
+Catholic University of Lille - IESEG School of Management
+
+Anne Jeny
+
+IESEG School of Management
+
+Louis Mangeney
+
+Catholic University of Lille - IESEG School of Management
+
+Date Written: November 13, 2024
+
+Abstract
+
+We investigate the relation between firms’ financial disclosures and analysts' information environment in a country-specific setting to deepen our understanding of financial analysts’ role as intermediaries for well-functioning capital markets. We leverage the Swiss regulatory context, which enables publicly traded firms to voluntarily switch to a less complex and costly to implement accounting standard to provide more direct insights into how changes in firms’ disclosures affect analyst following, forecast accuracy, and recommendation informativeness. Using difference-in-differences analysis, we find that firms voluntarily turning away from IFRS to Swiss GAAP experience a decrease in analysts’ following, a decrease in forecasts’ accuracy, and their upgrade recommendations are less informative. Additional analysis reveal that these effects are mainly driven by analysts without prior experience with Swiss GAAP and not by foreign analysts. Our results highlight the role of financial analysts’ accounting expertise in shaping firms’ information environment. 
+
+Keywords: IFRS, Financial analyst, Swiss GAAP, Accuracy, following
+
+JEL Classification: M41, G30
+
+Suggested Citation:
+
+Filip, Andrei and Jeny, Anne and Mangeney, Louis, Analysts' information environment and voluntary turn away from IFRS (November 13, 2024). Available at SSRN: https://ssrn.com/abstract=4641318 or http://dx.doi.org/10.2139/ssrn.4641318
+Download This Paper
+ 
+Open PDF in Browser
+54 References
+J Abarbanell , R Lehavy
+Biased forecasts or biased earnings? The role of reported earnings in explaining apparent bias and over/underreaction in analysts' earnings forecasts
+Journal of Accounting and Economics , volume 36 , p. 105 - 146 Posted: 2003
+J A Agana , S G Zori , A Alon
+IFRS Adoption Approaches and Accounting Quality
+The International Journal of Accounting , issue 2 Posted: 2023
+D Baboukardos , A Kopita
+Integrated Reporting and the Informativeness of Financial Analysts' Stock Recommendations
+The International Journal of Accounting , issue 2 Posted: 2024
+K H Bae , H Tan , M Welker
+International GAAP differences: The impact on foreign analysts
+The Accounting Review , volume 83 , p. 593 - 628 Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+98
+ABSTRACT VIEWS
+686
+RANK
+627,303
+54 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

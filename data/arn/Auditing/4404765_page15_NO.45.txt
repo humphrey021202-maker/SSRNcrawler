@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Non-Accounting Related Lawsuits against Audit–Clients on Audit Quality: Distraction Spillover Effects and Distance Dynamics
+
+71 Pages Posted: 13 Apr 2023 Last revised: 26 Mar 2024
+
+Stavriana Hadjigavriel
+
+CUNEF University
+
+James C. Hansen
+
+Weber State University Goddard School of Business and Economics
+
+Date Written: March 30, 2023
+
+Abstract
+
+We seek to address a gap in the existing literature by examining a frequently overlooked factor: non-accounting related lawsuits (distraction event) against audit client-firms. We consider these lawsuits as exogenous shock that shifts auditors’ attention towards the sued client to test how non-accounting lawsuits can cause a spillover effect on other non-sued clients that share the same auditor as the sued client. We identify clients as being more prone to be affected by the spillover effects if the client is in a different city (distant) than the audit office city. Using a difference-in-difference design, we show that distant clients experience more restatements and missed internal control weaknesses when the audit office is distracted as compared to same city clients and to the time that the audit office is not distracted. Our results hold for stronger distraction events and for alternative audit quality proxies, such as Type II error and Big R restatements. Results suggest that the negative spillover effects evident in distant clients are directly related to the interaction between the level of distraction of an audit office and the distance of the client’s office from the audit office. Overall, our findings suggest that lawsuits unrelated to accounting have significant implications that extend beyond the firms directly involved in the litigation process. They also inform regulatory bodies about the potential implications of the complementary relationship between distraction and distance.
+
+Keywords: Audit quality, Restatements, Non-accounting lawsuits, Distracted auditors, Distance
+
+JEL Classification: M40, M41, M42, M49, K15
+
+Suggested Citation:
+
+Hadjigavriel, Stavriana and Hansen, James C., The Impact of Non-Accounting Related Lawsuits against Audit–Clients on Audit Quality: Distraction Spillover Effects and Distance Dynamics (March 30, 2023). Available at SSRN: https://ssrn.com/abstract=4404765 or http://dx.doi.org/10.2139/ssrn.4404765
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+E I Altman
+Corporate Financial Distress: A Complete Guide to Predicting, Avoiding, and Dealing with Bankruptcy Posted: 1983
+D Aobdia
+Do practitioner assessments agree with academic proxies for audit quality? Evidence from PCAOB and internal inspections
+Journal of Accounting and Economics , volume 67 , issue 1 , p. 144 - 174 Posted: 2019
+S K Asare , G M Trompeter , A M Wright
+The effect of accountability and time budgets on auditors' testing strategies
+Contemporary Accounting Research , volume 17 , issue 4 , p. 539 - 560 Posted: 2000
+K H Bae , R M Stulz , H Tan
+Do local analysts know more? A cross-country study of the performance of local analysts and foreign analysts
+Journal of Financial Economics , volume 88 , issue 3 , p. 581 - 606 Posted: 2008
+Load more
+1 Citations
+Reem Essam Bedeir
+The differential impact of distracted auditors in managing portfolio of financially distressed audit clients on audit quality: the role of professional skepticism
+Future Business Journal , volume 10 , issue 1 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+142
+ABSTRACT VIEWS
+878
+RANK
+470,088
+1 Citations
+46 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

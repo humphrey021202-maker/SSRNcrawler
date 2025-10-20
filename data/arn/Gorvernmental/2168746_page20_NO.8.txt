@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Using System Dynamics to Enhance Performance Management in Local Government: An Application to Residential Refuse Collection
+
+2012 APPAM Fall Research Conference, November 8-10, Baltimore (USA)
+
+25 Pages Posted: 31 Oct 2012
+
+Carmine Bianchi
+
+University of Palermo
+
+William C. Rivenbark
+
+University of North Carolina (UNC) at Chapel Hill - School of Government
+
+Date Written: July 30, 2012
+
+Abstract
+
+While some scholars have suggested that the forces of New Public Management are now in decline (Hughes, 2003), a clear success story of this reform is the use of performance measurement in the public sector for tracking the outputs and outcomes of service delivery. In fact, research has demonstrated that well-managed performance measurement systems are critical for accurately and systematically demonstrating operational accountability in governmental organizations (Rivenbark, 2007). However, we must be cautious in how we think about the use of performance measurement systems because of their two distinct parts as described by de Lancer Jules and Holzer (2001). The first part involves adoption, where public officials develop performance measures, track them over time, and report them on a periodic basis. The second part involves implementation, where public officials actually use performance information to make policy and process changes for improving service delivery. The problem is that success is clearly more associated with adoption rather than implementation.
+
+Ammons and Rivenbark (2008) addressed this issue by studying the patterns of implementation from fourteen municipalities associated with the North Carolina Benchmarking Project. While the authors concluded that the record of these municipalities actually using performance data remains modest, certain factors did emerge that promoted the move from adoption to implementation of performance measurement systems. They included the focus on the higher-order measures of efficiency and effectiveness, the willingness to benchmark against other organizations, and the need to imbed performance measures within other management systems. A more recent study also suggests that managerial involvement in the Government Performance and Results Act (GPRA) of 1993 and the Program Assessment Tool (PART) has produced relatively few aspects of performance information use in federal agencies (Moynihan and Lavertu, 2012). This research, however, identified a number of organizational factors that increase the likelihood of using performance data, including leadership commitment to results (Behn, 1991; Kotter and Heskett, 1992; Moynihan and Ingraham, 2004), learning routines led by supervisors, and the ability to link measures to actions.
+
+One possible avenue to enhance performance management in the public sector — which is the term used for the implementation of performance measurement as described by de Lancer Jules and Holzer (2001) — is the application of system dynamics, where modeling organizational systems and using simulation techniques are used for understanding the behavior of complex systems. This line of inquiry builds on the research of Ghaffarzadegan, Lyneis, and Richardson (2011), where small system dynamics models were used to enhance public policy, decision-making. The advantage of using this approach is placing performance measures into the broader context of the system, responding to the reality that even simple policy and process changes to impact specific outputs and outcomes are not likely to be that “simple” in organizations (Bianchi, Winch, and Tomaselli, 2008). There also is another possible advantage to the approach. Rather than looking for factors that promote data use, system dynamics may give insights to factors that prevent data use.
+
+The purpose of this paper is to demonstrate how system dynamics can be used to enrich performance management in local government, focusing specifically on how the development of conceptual and simulation system dynamic models can foster a common shared view of the relevant system among stakeholders to overcome factors that limit data use. We begin this paper by describing the background of a residential refuse collection program in a North Carolina municipality, including how specific performance measures were used to make changes in service delivery. After discussing the methodology of using system dynamics to enhance performance management, we present our case on how key drivers can be used to foster a shared view of the residential refuse collection system for supporting policy and process changes. In other words, our goal is to show how a systems approach can help public officials move from performance adoption to performance implementation. We conclude this paper by identifying several possibilities of how system dynamics can be used to improve the quality of performance management in local government.
+
+Suggested Citation:
+
+Bianchi, Carmine and Rivenbark, William C., Using System Dynamics to Enhance Performance Management in Local Government: An Application to Residential Refuse Collection (July 30, 2012). 2012 APPAM Fall Research Conference, November 8-10, Baltimore (USA), Available at SSRN: https://ssrn.com/abstract=2168746
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+David N Ammons
+Benchmarking as a Performance Management Tool: Experiences among Municipalities in North Carolina
+Journal of Public Budgeting, Accounting & Financial Management , volume 12 , p. 106 - 124 Posted: 2000
+Crossref
+David N Ammons , C William , Rivenbark
+Factors Influencing the Use of Performance Data to Improve Municipal Services: Evidence from the North Carolina Benchmarking Process
+Public Administration Review , volume 68 , issue 2 , p. 304 - 318 Posted: 2008
+Crossref
+Robert D Behn
+Leadership counts Posted: 1991
+Bianchi Carmine
+Improving Performance and Fostering Accountability in the Public Sector through System Dynamics Modelling: From an 'External' to an 'Internal' Perspective
+Systems Research and Behavioral Science , volume 27 , p. 1 - 25 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+187
+ABSTRACT VIEWS
+1,379
+RANK
+370,049
+32 References
+PlumX Metrics
+Related eJournals
+
+Governmental & Nonprofit Accounting eJournal
+
+Follow
+
+Political Institutions: Federalism & Sub-National Politics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Proportionate Growth and the Theoretical Foundations of Financial Ratios
+
+Abacus (Wiley), Vol. 38, No. 3, pp. 297-316, 2002
+
+22 Pages Posted: 20 Jul 2023
+
+Stuart McLeay
+
+University of Sussex; The University of Sydney
+
+Duarte Trigueiros
+
+ISTAR-IUL, University Institute of Lisbon
+
+Date Written: July 11, 2002
+
+Abstract
+
+The article proposes a theoretical framework for understanding financial ratios, showing that the multiplicative character of the financial variables from which financial ratios are constructed is a necessary condition of valid ratio usage, not just an assumption supported by evidence. Also, by assuming that firm size is a measurable statistical effect, the article offers an informed reappraisal of the limitations of financial ratios, pa1ticularly the well-known limitation of proportionality. The article is divided into two parts, one where ratio components are viewed as deterministic variables and the other where they are random. Such an approach allows the characteristics of ratios to be more easily understood before generalizing the relationship between ratio components to encompass randomness. In the second part. when variability introduced by firm size is treated as a random effect, it is shown that if the accounting variables Y and X used to calculate a financial ratio Y/X are exponential Brownian motion, and if continuous growth rates are equal and proportionate to firm size, this may lead to ratios which are asymmetric, but which do not necessarily drift.
+
+Keywords: Firm Size, Financial Ratio, Ratio Validity, Financial Analysis, Value-relevance of accounting information
+
+JEL Classification: C21, C22, M41, M42
+
+Suggested Citation:
+
+McLeay, Stuart and Trigueiros, Duarte, Proportionate Growth and the Theoretical Foundations of Financial Ratios (July 11, 2002). Abacus (Wiley), Vol. 38, No. 3, pp. 297-316, 2002, Available at SSRN: https://ssrn.com/abstract=4506810
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+E Altman
+Financial Ratios, Discriminant Analysis and the Prediction of Bankruptcy
+The Journal of Finance , volume 23 , issue 4 Posted: 1968
+P Andersen , Ø Borgan , R Gill , N Keiding
+Statistical Models Based on Counting Processes Posted: 1993
+R Ball , R Watts
+Some Time Series Properties of Accounting Income
+The Journal of Finance , volume 27 , issue 3 Posted: 1972
+P Barnes
+Methodological Implications of Non-Normally Distributed Financial Ratios
+Journal of Business Finance and Accounting , volume 9 , issue 1 Posted: 1982
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+72
+ABSTRACT VIEWS
+517
+RANK
+759,411
+1 Citations
+24 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

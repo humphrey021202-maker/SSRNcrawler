@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Evaluation of Alternative Multiple Testing Methods for Finance Applications
+
+51 Pages Posted: 13 Dec 2019 Last revised: 2 Feb 2020
+
+Campbell R. Harvey
+
+Duke University - Fuqua School of Business; National Bureau of Economic Research (NBER)
+
+Yan Liu
+
+Purdue University
+
+Alessio Saretto
+
+Federal Reserve Banks - Federal Reserve Bank of Dallas
+
+Date Written: February 2, 2020
+
+Abstract
+
+In almost every area of empirical finance, researchers are confronted with multiple tests. One high profile example is the identification of investment managers that outperform. Many beat their benchmarks purely by luck. Multiple testing methods are designed to control for luck. Factor selection is another glaring case. However, there are numerous other applications that do not get as much attention. Importantly, for example, in a simple regression model where, say, five variables are tested, a t-statistic of 2.0 is not enough to establish significance — because five variables were tried. Our paper provides a guide to various multiple testing methods and details a number of applications. We provide simulation evidence on the relative performance of different methods across a variety of testing environments. The goal of our paper is to provide a menu that researchers can choose from to improve inference in financial economics.
+
+Keywords: Multiple hypothesis testing, False rejections, False discovery rate, False non-discovery rate, False omission rate, Family-wise error rate, Data mining, Data snooping, Type I error, Type II error, False discovery control, Luck, Test power
+
+JEL Classification: G0, G1, G2, G3, G5, M4, C1, C5
+
+Suggested Citation:
+
+Harvey, Campbell R. and Liu, Yan and Saretto, Alessio, An Evaluation of Alternative Multiple Testing Methods for Finance Applications (February 2, 2020). Available at SSRN: https://ssrn.com/abstract=3480087 or http://dx.doi.org/10.2139/ssrn.3480087
+Download This Paper
+ 
+Open PDF in Browser
+74 References
+D Andrews , G Soares
+Inference for parameters defined by moment inequalities using generalized moment selection
+Econometrica , volume 78 , p. 119 - 157 Posted: 2010
+Crossref
+A Andrikogiannopoulou , F Papakonstantinou
+Reassessing false discoveries in mutual fund performance: Skill, luck, or lack of power
+Journal of Finance Forthcoming Posted: 2019
+Crossref
+P Bajgrowicz , O Scaillet
+Technical trading revisited: False discoveries, persistence tests, and transaction costs
+Journal of Financial Economics , volume 106 , p. 473 - 491 Posted: 2012
+Crossref
+P Bajgrowicz , O Scaillet , A Treccani
+Jumps in high-frequency data: Spurious detections, dynamics, and news
+Management Science , volume 62 , p. 2198 - 2217 Posted: 2016
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+946
+ABSTRACT VIEWS
+4,457
+RANK
+56,479
+17 Citations
+74 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

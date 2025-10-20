@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can Benford's Law Explain CEO Pay?
+
+Corporate Governance: An International Review, Forthcoming
+
+41 Pages Posted: 23 Mar 2016
+
+Shibashish Mukherjee
+
+emlyon business school
+
+Date Written: March 2016
+
+Abstract
+
+Manuscript Type: Empirical
+
+Research Issue: This study applies the statistical properties of Benford’s Law to CEO pay. Benford’s ‘Law’ states that in an unbiased dataset, the first digit values are usually unequally allocated when considering the logical expectations of equal distribution. In this study we question whether the striking empirical properties of Benford’s Law could be used to analyse the negotiation power and preferences of CEOs. We argue that performance-based or market-determined compensations should follow Benford’s Law, demonstrating no direct negotiation by the CEOs. Conversely, deviation from Benford’s Law could reveal CEO negotiating power or even preference.
+
+Research Findings: Our analysis shows that market-determined ‘Option Fair Value’ (the dollar value of stock options when exercised) conforms closely to Benford’s Law, as opposed to ‘Salary’, which is fully negotiated. ‘Bonus’, ‘Option Award’ and ‘Total Compensation’ are generally also largely consistent with Benford’s Law, but with some exceptions. We interpret these exceptions as negotiation by the CEOs. Surprisingly, we found that CEOs prefer to be paid in round figure values, especially ‘5’. We use Benford’s Law to study the negotiating powers of CEOs vs. that of Other Executives. Finally, we compare the negotiating tactics of CEOs before and after SOX and analyse the impact of firm size on their compensations.
+
+Academic Implications: This study introduces Benford’s Law and its applications within the corporate governance literature.
+
+Practitioner Implications: This method could be used by academics, industry and regulators to uncover compensation patterns within large business departments or/and organisations or even entire industry segments.
+
+Keywords: Corporate Governance, Benford's Law, Executive Compensation, Negotiating Power, Preference
+
+JEL Classification: G34, M4, M12, M21
+
+Suggested Citation:
+
+Mukherjee, Shibashish, Can Benford's Law Explain CEO Pay? (March 2016). Corporate Governance: An International Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2753141
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+Summary Statistics: In this table, we report the distribution of Executives (incl. CEOs) over the years with key compensation variables , volume 2
+Crossref
+Ex
+Tot. Ex./yr. gives the total Executives per year (incl. CEO). Tot. CEO/yr. gives the total CEO per year. Salary, Bonus, Op. Award, Op. FV, Total Comp.1 and Tot. Comp.2 gives the median of the variables, per firm per year. Panel B gives the time series averages, standard deviations, minimum, maximum, 1/4 percentile and 3/4 percentile values. Year Ex./yr
+Tot. Ex./yr. Tot. CEO/yr. Salary Bonus Op. Award Op. FV Tot. Comp.1 Tot. Comp , volume 2
+R M Abrantes-Metz , M Kraten , A D Metz , G S Seow
+Libor manipulation
+Journal of banking & finance , volume 36 , p. 136 - 150 Posted: 2012
+Crossref
+J Y Aono , L Guan
+The impact of sarbanes-oxley act on cosmetic earnings management , volume 20 , p. 205 - 215 Posted: 2008
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+106
+ABSTRACT VIEWS
+1,419
+RANK
+592,557
+55 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

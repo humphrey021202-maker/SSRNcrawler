@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Option-Based Compensation Affect Payout Policy? Evidence from FAS123R
+
+Columbia Business School Research Paper No. 17-2
+
+28th Annual Conference on Financial Economics and Accounting
+
+68 Pages Posted: 2 Dec 2016 Last revised: 16 Jul 2017
+
+Fabrizio Ferri
+
+University of Miami - Miami Business School; European Corporate Governance Institute
+
+Nan Li
+
+University of Minnesota - Twin Cities - Carlson School of Management
+
+Date Written: November 2, 2016
+
+Abstract
+
+Does option-based compensation have a causal influence on payout policy? To address this question we examine the adoption of mandatory expensing of stock options (via accounting standard FAS123R), a plausible exogenous shock to the use of option-based compensation. As FAS123R applies to all firms, our identification strategy exploits the fact that the reduction in option-based compensation in response to the accounting standard varies with the firm-specific expected accounting impact, as measured by the option expense disclosed in the footnotes prior to FAS123R. Using a difference-in-difference research design, across a battery of tests we do not find that (accounting-driven) reductions in option-based pay cause dividends to increase, repurchases to decrease or the payout composition to change. Our results contrast with the widely held belief that option-based pay has a significant causal influence on payout policy and cast doubts on its role in the shift from dividends to repurchases in recent decades.
+
+Keywords: dividends, repurchases, executive stock options, FAS123R, payout policy
+
+JEL Classification: G35, M41, M48, M52
+
+Suggested Citation:
+
+Ferri, Fabrizio and Li, Nan, Does Option-Based Compensation Affect Payout Policy? Evidence from FAS123R (November 2, 2016). Columbia Business School Research Paper No. 17-2, 28th Annual Conference on Financial Economics and Accounting, Available at SSRN: https://ssrn.com/abstract=2879218 or http://dx.doi.org/10.2139/ssrn.2879218
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+David Aboody
+Market Valuation of Employee Stock Options
+Journal of Accounting and Economics , volume 22 , p. 357 - 391 Posted: 1996
+Crossref
+David Aboody , Barth Mary , E , Ron Kasznik
+Firms' Voluntary Recognition of StockBased Compensation Expense
+Journal of Accounting Research , volume 42 , p. 123 - 150 Posted: 2004
+Crossref
+David Aboody , Ron Kasznik
+Executive stock-based compensation and firms' cash payout: the role of shareholders' tax-related payout preferences
+Review of Accounting Studies , volume 13 , p. 216 - 251 Posted: 2008
+Crossref
+Divya Anantharaman , Yong Gyu Lee
+Managerial risk taking incentives and corporate pension policy
+Journal of Financial Economics , volume 111 , p. 328 - 351 Posted: 2014
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+363
+ABSTRACT VIEWS
+2,672
+RANK
+187,924
+21 Citations
+33 References
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+University of Miami Herbert Business School Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

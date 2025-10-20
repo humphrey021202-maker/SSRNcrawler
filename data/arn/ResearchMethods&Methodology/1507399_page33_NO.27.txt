@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Estimation of Dynamic Latent Variable Models Using Simulated Nonparametric Moments
+
+43 Pages Posted: 17 Nov 2009
+
+Michael Creel
+
+Autonomous University of Barcelona
+
+Dennis Kristensen
+
+University College London; Cemmap (Centre for Microdata Methods and Practice)
+
+Date Written: November 12, 2009
+
+Abstract
+
+Given a model that can be simulated, conditional moments at a trial parameter value can be calculated with high accuracy by applying kernel smoothing methods to a long simulation. With such conditional moments in hand, standard method of moments techniques can be used to estimate the parameter. Because conditional moments are calculated using kernel smoothing rather than simple averaging, it is not necessary that the model be simulable subject to the conditioning information that is used to define the moment conditions. For this reason, the proposed estimator is applicable to general dynamic latent variable models. It is shown that as the number of simulations diverges, the estimator is consistent and a higher-order expansion reveals the stochastic difference between the infeasible GMM estimator based on the same moment conditions and the simulated version. In particular, we show how to adjust standard errors to account for the simulations. Monte Carlo results show how the estimator may be applied to a range of dynamic latent variable (DLV) models, and that it performs well in comparison to several other estimators that have been proposed for DLV models.
+
+Keywords: dynamic latent variable models, simulation-based estimation, simulated moments, kernel regression, nonparametric estimation
+
+JEL Classification: C13, C14, C15
+
+Suggested Citation:
+
+Creel, Michael and Kristensen, Dennis, Estimation of Dynamic Latent Variable Models Using Simulated Nonparametric Moments (November 12, 2009). Available at SSRN: https://ssrn.com/abstract=1507399 or http://dx.doi.org/10.2139/ssrn.1507399
+Download This Paper
+ 
+Open PDF in Browser
+69 References
+C Ai
+A semiparametric maximum likelihood estimator
+Econometrica , volume 65 , p. 933 - 963 Posted: 1997
+Crossref
+F Altissimo , A Mele
+Simulated nonparametric estimation of dynamic models
+Review of Economic Studies , volume 76 , p. 413 - 450 Posted: 2009
+Crossref
+S Anatolyev
+Approximately optimal instrument for multiperiod conditional moment restrictions, working paper
+New Economic School Posted: 2002
+S Anatolyev
+The form of the optimal nonlinear instrument for multiperiod conditional moment restrictions
+Econometric Theory , volume 19 , p. 602 - 609 Posted: 2003
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+92
+ABSTRACT VIEWS
+1,559
+RANK
+653,768
+3 Citations
+69 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+Recommended Papers
+
+Nonparametric Pricing of Interest Rate Derivative Securities
+
+By Yacine Ait-sahalia
+
+Back to the Future: Generating Moment Implications for Continuous-Time Markov Processes
+
+By Lars Peter Hansen and José A. Scheinkman
+
+Maximum-Likelihood Estimation of Discretely Sampled Diffusions: A Closed-Form Approach
+
+By Yacine Ait-sahalia
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

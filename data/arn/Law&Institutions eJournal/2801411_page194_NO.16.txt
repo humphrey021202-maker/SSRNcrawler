@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Insider Trading, Future Earnings, and Post-Earnings Announcement Drift
+
+62 Pages Posted: 29 Jun 2016 Last revised: 3 Jul 2023
+
+Lyungmae Choi
+
+The University of Newcastle
+
+Lucile Faurel
+
+Arizona State University (ASU) - School of Accountancy
+
+Stephen A. Hillegeist
+
+Arizona State University (ASU) - W. P. Carey School of Business, School of Accountancy
+
+There are 2 versions of this paper
+
+Date Written: July 1, 2023
+
+Abstract
+
+This paper examines the association between insider trading prior to quarterly earnings announcements and the magnitude of the post-earnings announcement drift (PEAD). We conjecture and find that insider trades reflect insiders’ private information about the persistence of earnings news. Thus, insider trades can help investors better understand and incorporate the time-series properties of quarterly earnings into stock prices in a timely and unbiased manner, thereby mitigating PEAD. As predicted, PEAD is significantly lower when earnings announcements are preceded by insider trading. The reduction in PEAD is driven by contradictory insider trades (i.e., net buys before large negative earnings news or net sells before large positive earnings news) and is more pronounced in the presence of more sophisticated market participants. Consistent with investors extracting and trading on insiders’ private information, pre-announcement insider trading is associated with smaller market reactions to future earnings news in each of the four subsequent quarters. Overall, our findings indicate insider trading contributes to stock price efficiency by conveying insiders’ private information about future earnings and especially the persistence of earnings news.
+
+Keywords: insider trading; price efficiency; post-earnings announcement drift; predicting earnings
+
+JEL Classification: G14, G38, M4
+
+Suggested Citation:
+
+Choi, Lyungmae and Faurel, Lucile and Hillegeist, Stephen A., Insider Trading, Future Earnings, and Post-Earnings Announcement Drift (July 1, 2023). Available at SSRN: https://ssrn.com/abstract=2801411 or http://dx.doi.org/10.2139/ssrn.2801411
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+631
+ABSTRACT VIEWS
+3,568
+RANK
+72,005
+4 Citations
+85 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

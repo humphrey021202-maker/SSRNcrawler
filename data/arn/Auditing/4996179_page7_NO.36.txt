@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Disclosure Requirements and Compliance Quality for Financial Reporting of Business Combinations in China
+
+Working paper presented at the 2024 Annual Academic Conference of the Enterprise Accounting Standards Section of the Accounting Society of China, Beijing, 26 October 2024 
+
+53 Pages Posted: 4 Dec 2024 Last revised: 7 Nov 2024
+
+Huifang Li
+
+Université Paris-Dauphine, PSL Research University
+
+Yuri Biondi
+
+Université Paris-Dauphine, PSL Research University - National Center for Scientific Research
+
+Date Written: September 19, 2024
+
+Abstract
+
+Our study analyses corporate compliance with the China Accounting Standard (CAS) No. 20, 'Business Combinations'. Using a sample of 448 deals from Chinese listed companies initiating business combinations in 2007, 2014, and 2021, we investigate to which extent these companies have complied with CAS No.20 specific requirements and whether the following main factors influence their compliance quality: temporal evolution; transaction type and related accounting method (under common control-BCUCC, or not under common control-BCNUCC); auditor type; transaction location (domestic or foreign); and government involvement. To assess the compliance level, a Business Combination Disclosure Index (BCCI) was developed. Annual financial reports were collected and analysed for each company, coding transaction information from these primary sources. Univariate and multivariate empirical analyses were used to examine the five main factors. Our results show that temporal evolution, transaction types and auditor types were factors that influenced the level of compliance, contrary to deal location and government involvement. In particular, compliance levels improved from 2007 to 2021, while BCUCC deals showed better compliance levels than BCNUCC ones. The auditor types appear to have some influence on the compliance quality, but only in specific cases. Among other factors beyond our hypotheses, sectors, acquirer size, the relative size of the target over the acquirer, and consideration paid structure appeared to affect the compliance level. Our results provide some useful evidence to inform preparers and policy-makers concerned with compliance quality in financial reporting of business combinations.
+
+Keywords: Chinese Accounting Standards, Mergers and Acquisitions (M&A), Business Combination, Mandatory Disclosure, Compliance
+
+Declaration of Interest
+
+The authors declare that there are no conflicts of interest regarding the publication of this paper.
+
+Suggested Citation:
+
+Li, Huifang and Biondi, Yuri, Disclosure Requirements and Compliance Quality for Financial Reporting of Business Combinations in China (September 19, 2024). Working paper presented at the 2024 Annual Academic Conference of the Enterprise Accounting Standards Section of the Accounting Society of China, Beijing, 26 October 2024 , Available at SSRN: https://ssrn.com/abstract=4996179 or http://dx.doi.org/10.2139/ssrn.4996179
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+B Al-Shammari , P Brown , A Tarca
+An Investigation of Compliance with International Accounting Standards by Listed Companies in the Gulf Co-Operation Council Member States
+The International Journal of Accounting , volume 43 , issue 4 , p. 425 - 447 Posted: 2008
+J P Boone , I K Khurana , K K Raman
+Do the Big 4 and the Second-tier firms provide audits of similar quality?
+Journal of Accounting and Public Policy , volume 29 , issue 4 , p. 330 - 352 Posted: 2010
+H Borgi , Y Mnif
+Compliance level with IFRS disclosure requirements across 12 African countries: Do enforcement mechanisms matter
+Journal of Financial Regulation and Compliance , volume 30 , issue 1 , p. 60 - 81 Posted: 2021
+S Cascino , J Gassen
+Comparability Effects of Mandatory IFRS Adoption
+SSRN Electronic Journal Posted: 2011
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+73
+ABSTRACT VIEWS
+515
+RANK
+753,736
+24 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

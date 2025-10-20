@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Information-based Theory of Auditor Switching
+
+51 Pages Posted: 30 Nov 2023
+
+Jing Li
+
+The University of Hong Kong - Faculty of Business and Economics
+
+Mingcherng Deng
+
+City University of New York (CUNY) - Baruch College
+
+Nan Zhou
+
+University of Cincinnati - Lindner College of Business
+
+Date Written: November 16, 2023
+
+Abstract
+
+We model auditor switching via a tender process involving an incumbent auditor, who possesses private information about a client firm's audit cost, and an uninformed outside auditor. When a firm's audit cost is high, the auditor is more susceptible to an audit failure, incorrectly attesting to the firm's favorable report. We show that in equilibrium, high-cost firms are more prone to switching to the outside auditor due to the winner's curse, especially after receiving an unfavorable audited report. Subsequently, after an auditor switch, the firm expects to have a lower audit fee and a high probability of receiving favorable audited reports from the outside auditor. These combined results align with empirical findings commonly interpreted as evidence supporting "opinion shopping," despite our model lacking such an incentive. We recommend that researchers examine opinion shopping with caution, taking into account the potential influence of information asymmetry among auditors on auditor switching.
+
+Keywords: Audit tender, Auditor switching, Opinion shopping
+
+JEL Classification: M41, M49
+
+Suggested Citation:
+
+Li, Jing and Deng, Mingcherng and Zhou, Nan, An Information-based Theory of Auditor Switching (November 16, 2023). Available at SSRN: https://ssrn.com/abstract=4634547 or http://dx.doi.org/10.2139/ssrn.4634547
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+R Antle , B Nalebuff
+Conservatism and auditor-client negotiation
+Journal of Accounting Research , volume 29 , p. 31 - 54 Posted: 1991
+D R Ayres , T L Neal , L C Reid , J E Shipman
+Auditing goodwill in the post-amortization era: Challenges for auditors
+Contemporary Accounting Research , volume 36 , issue 1 , p. 82 - 107 Posted: 2019
+T Baldenius , M Deng , J Li
+Accounting information and risk shifting with asymmetrically informed creditors
+Journal of Accounting and Economics forthcoming Posted: 2023
+V Beattie , S Fearnley
+Audit market competition: auditor changes and the impact of tendering
+The British Accounting Review , volume 30 , issue 3 , p. 261 - 289 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+154
+ABSTRACT VIEWS
+811
+RANK
+439,204
+51 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

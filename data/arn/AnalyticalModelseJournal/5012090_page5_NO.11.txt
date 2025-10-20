@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Inelastic Demand Meets Optimal Supply of Risky Sovereign Bonds
+
+IMF Working Paper No. 2024/227
+
+64 Pages Posted: 6 Nov 2024 Last revised: 4 Dec 2024
+
+Matias Moretti
+
+affiliation not provided to SSRN
+
+Lorenzo Pandolfi
+
+University of Naples Federico II
+
+Sergio L. Schmukler
+
+World Bank - Development Research Group (DECRG)
+
+Germán Villegas-Bauer
+
+International Monetary Fund
+
+Tomas Williams
+
+George Washington University; George Washington University - Elliott School of International Affairs (ESIA)
+
+Abstract
+
+We present evidence of inelastic demand for risky sovereign bonds and explore its implications for optimal government debt policies. Using monthly changes in the composition of a major international bond index, we identify flow shocks unrelated to fundamentals that shift the available bond supply. From these shocks, we estimate an inverse demand elasticity of -0.30 and show that it increases with countries’ default risk. We formulate a sovereign debt model with endogenous default and inelastic investors, calibrated to our empirical estimates. By penalizing additional borrowing, an inelastic demand acts as a disciplining device that reduces default risk and bond spreads.
+
+Keywords: inelastic financial markets, institutional investors, international capital markets, sovereign debt, IMF working paper research Department, debt issuance, price reaction, convenience yield, default cost parameter, long-term debt, U.S. dollar, bond payoff, investor demand, bond characteristics-month, inelastic investor, bond price change, unit price, price movement, Bonds, Asset prices, Demand elasticity, Debt default, Sovereign bonds, Global
+
+JEL Classification: F34, F41, G11, G15, G10, E31, Q11
+
+Suggested Citation:
+
+Moretti, Matias and Pandolfi, Lorenzo and Schmukler, Sergio and Villegas-Bauer, Germán and Williams, Tomas, Inelastic Demand Meets Optimal Supply of Risky Sovereign Bonds. IMF Working Paper No. 2024/227, Available at SSRN: https://ssrn.com/abstract=5012090 or http://dx.doi.org/10.5089/9798400293498.001
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+Adrian , T , H Shin
+Procyclical leverage and value-at-risk
+Review of Financial Studies , volume 27 , p. 373 - 403 Posted: 2014
+M Aguiar , G Gopinath
+Defaultable debt, interest rates, and the current account
+Journal of International Economics , volume 69 , issue 1 , p. 64 - 83 Posted: 2006
+R Ahmed , A Rebucci
+Dollar reserves and U.S. yields: Identifying the price impact of official flows
+Journal of International Economics , volume 152 Posted: 2024
+L Alfaro , F Kanczuk
+Fiscal rules and sovereign default
+NBER Working Papers 23370 Posted: 2017
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+61
+ABSTRACT VIEWS
+516
+RANK
+833,930
+57 References
+PlumX Metrics
+Related eJournals
+
+International Monetary Fund (IMF) Research Paper Series
+
+Follow
+
+Political Economy: Budget, Deficit, & Debt eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

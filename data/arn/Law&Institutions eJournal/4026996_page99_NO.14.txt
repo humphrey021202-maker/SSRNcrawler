@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Dark Side of Robotic Process Automation
+
+23 Pages Posted: 9 Feb 2022
+
+Marc Eulerich
+
+University of Duisburg-Essen, Mercator School of Management
+
+Nathan Waddoups
+
+University of Denver
+
+Martin Wagener
+
+University of Duisburg-Essen
+
+David A. Wood
+
+Brigham Young University - School of Accountancy
+
+Date Written: February 4, 2022
+
+Abstract
+
+Prior research on Robotic Process Automation (RPA) has largely focused on how it benefits firms and employees. In contrast, we interview 26 high-profile RPA stakeholders at a Fortune 500 firm to ascertain challenges, drawbacks, or pitfalls of using RPA. We identify five key problems related to RPA usage: (1) RPA is often used as a quick-fix band-aid instead of fixing core system issues, (2) RPA can cause serious control and security issues, (3) the true cost of RPA is often misunderstood and understated, (4) RPA governance is complicated and challenging, and (5) RPA usage can lead to a loss of process knowledge. Raising these issues should allow practitioners to make more informed decisions regarding RPA implementations and help inform them regarding the problematic areas that require better governance.
+
+Keywords: Robotic Process Automation, RPA, Automation, governance, challenges, drawbacks, pitfalls
+
+JEL Classification: O1, N7, G30, M42
+
+Suggested Citation:
+
+Eulerich, Marc and Waddoups, Nathan and Wagener, Martin and Wood, David A., The Dark Side of Robotic Process Automation (February 4, 2022). Available at SSRN: https://ssrn.com/abstract=4026996 or http://dx.doi.org/10.2139/ssrn.4026996
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,772
+ABSTRACT VIEWS
+4,501
+RANK
+22,488
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

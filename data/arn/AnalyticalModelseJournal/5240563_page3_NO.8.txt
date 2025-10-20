@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Axioms of Depreciation Methods
+
+29 Pages Posted: 3 May 2025
+
+Eiko Arata
+
+Keio University - Faculty of Business and Commerce
+
+Toru Hokari
+
+Keio University - Faculty of Economics
+
+Abstract
+
+This paper aims to provide a theoretical foundation of what is known as “ Generally Accepted Accounting Principles (GAAP),” focusing on depreciation. It is widely accepted that a depreciation method should be rational and systematic. There are many possible depreciation methods; however, only a few are used in practice, such as the straight-line method, the declining-balance method, the sum-of-the-years’ digits method, and the fair value measurement. We investigate through the axiomatic approach in what sense these depreciation methods can be considered rational and systematic. We provide a practical interpretation for each axiom examined in this paperand relate the axioms to accounting principles. Interestingly, it turns out that the straight-line method satisfies all axioms but consistency considered in the paper. Since the players are not humans in the model studied in the paper, it is not so clear whether the axiom of core selection is desirable or not in this context. Our analysis providesa positive answer to this question. Namely, we show that three appealing axioms, population-monotonicity, the final year reasonableness, and conservatism, jointly imply core selection.
+
+Keywords: Axiomatic approach, Cooperative games, Depreciation
+
+Suggested Citation:
+
+Arata, Eiko and Hokari, Toru, Axioms of Depreciation Methods. Available at SSRN: https://ssrn.com/abstract=5240563 or http://dx.doi.org/10.2139/ssrn.5240563
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+Accounting Principles Board Statement No. 4: Basic concepts and accounting principles underlying financial statements of business enterprises Posted: 1970
+J Aparicio , J Sánchez-Soriano
+Depreciation games
+Annals of Operations Research , volume 158 , issue 1 , p. 205 - 218 Posted: 2008
+E Arata , T Shimogawa , T Inohara
+Analysis of depreciation methods based on cooperative game theory: Focusing on the straight-line method
+International Game Theory Review. Advance online publication Posted: 2024
+B V Balachandran , R T Ramakrishnan
+Joint cost allocation: A unified approach
+The Accounting Review , volume 56 , issue 1 , p. 85 - 96 Posted: 1981
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+63
+ABSTRACT VIEWS
+261
+RANK
+819,493
+21 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,152 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Activist Directors and Agency Costs: What Happens When an Activist Director Goes on the Board?
+
+Columbia Business School Research Paper No. 18-15
+
+62 Pages Posted: 18 Jan 2018 Last revised: 19 Jan 2018
+
+John C. Coffee
+
+Columbia University - Law School; European Corporate Governance Institute (ECGI); American Academy of Arts & Sciences
+
+Robert J. Jackson, Jr.
+
+New York University School of Law; European Corporate Governance Institute (ECGI)
+
+Joshua Mitts
+
+Columbia Law School
+
+Robert E. Bishop
+
+Duke Law School
+
+Date Written: January 12, 2018
+
+Abstract
+
+We develop and apply a new and more rigorous methodology by which to measure and understand both insider trading and the agency costs of hedge fund activism. We use quantitative data to show a systematic relationship between the appointment of a hedge fund nominated director to a corporate board and an increase in informed trading in that corporation’s stock (with the relationship being most pronounced when the fund’s slate of directors includes a hedge fund employee). This finding is important from two different perspectives. First, from a governance perspective, activist hedge funds represent a new and potent force in corporate governance. A robust debate continues as to whether activist funds reduce the agency costs of corporate governance, but this is the first attempt to investigate whether the activist hedge fund also imposes new agency costs through widened bid/ask spreads and informed trading. Second, although insider trading is almost universally condemned, it has only been studied in individual cases. Using instead a quantitative approach, we develop a tool that enables regulators (civil and criminal) to identify suspicious trading patterns: Both to demonstrate such a pattern and to map these new agency costs, we assembled a data set of 475 settlement agreements, between target companies and activists funds relating to the appointment of fund nominated directors, from 2000 and 2015, in order to focus on what happens once such a fund-nominated director goes on the board.
+
+Among our principal findings are:
+
+1. Prevalence of Hedge Fund Employees on Slate. Approximately 70% of fund-nominated director slates include a hedge fund employee.
+
+2. Increase in Information Leakage. Once a fund-nominated director goes on the board, an abrupt increase in “information leakage” follows, with the result that the target corporation’s stock price begins to anticipate future public disclosures. Specifically, we examine some 635,450 Form 8-K’s filed by 7,799 public traded companies over the period of January 1, 2000 to September 30, 2016, and we construct a control group for each of the corporations subject to an activist intervention. We find that firms appointing an activist nominee or nominees experience a difference-in-differences increase in leakage of 25-27 percentage points.
+
+3. Hedge Funds versus Other Activists. We next consider whether post-appointment increases in leakage depend on the identity of the activist investors (i.e., hedge fund versus other activist investors). We find that the leakage effect is clearly driven by hedge fund activists (and no other type of activist).
+
+4. Leakage and Hedge Fund Employees. We investigate whether leakage increases depend on the identity of the director appointed to target firm’s board, distinguishing between hedge fund employees and non-hedge fund employees. We find that the increase in leakage is driven by the appointment of activist fund employees to the corporate board (and not by the appointment of other persons, such as industry professionals).
+
+5. Leakage and Confidentiality Provisions. We consider whether post-settlement increases in leakage are associated with confidentiality provisions restricting information sharing in the settlement agreements. The majority of settlement agreements have no confidentiality provisions, and information leakage is concentrated in these cases.
+
+6. Market Response to Settlement Agreements. We next examine whether the stock market’s response to settlement agreements depends on (a) whether a hedge fund employee is on the director slate, and (b) whether the settlement agreement contains or refers to a confidentiality provision. We find that the 5-day CAR is more than twice as high (4.2% vs. 1.97%) for settlements with only non-employee directors and also significantly higher (2.02% vs. 0.42%) for settlements with an explicit restriction on information sharing.
+
+7. Effect on Bid-Ask Spread. Bid-ask spreads increase by statistically meaningful amounts in our treatment group after an activist director gains access to the boardroom. Bid-ask spreads do not widen for the control groups. Further, we find that the increase in bid-ask spreads is concentrated in those cases in which (i) a hedge fund employee is appointed to the board, or (ii) no confidentiality provision is referenced in the settlement agreement.
+
+8. Options Trading. We find that options trading increases significantly after the appointment of an activist director and in a manner consistent with informed trading. Consistent with earlier research on informed trading, we find that options traders exploit unscheduled Form 8-K filings.
+
+9. Implications. The foregoing pattern is most plausibly explained as the product of informed trading. Material, non-public information appears to travel on a conduit from the hedge fund’s employee-director to others, whose trades move the market price prior to public disclosure. We reach no conclusions about who is trading or its legality in any individual case. Yet, the widened bid-ask spread strongly suggests that the market expects such trading, and the much more positive market response to director slates without a hedge fund employee (or with a confidentiality provision) suggests that the market suspects that informed trading is closely associated with the appointment of a hedge fund employee to the board.
+
+10. Hypothesis. Our data suggests that the ability to engage in informed trading is a significant subsidy that may inflate the rate of hedge fund activism (producing more engagements than if stronger controls on information sharing were imposed) and may encourage activists to pursue inefficient engagements. Further, information sharing may be the cement that holds together a “wolf-pack” of activists that would otherwise logically be unstable.
+
+11. Reforms. We consider and evaluate a variety of possible reforms that are consistent with an energetic role for hedge fund activism, but that remove (to various degrees) the subsidy of informed trading.
+
+Keywords: Activism, Agency Costs, Bid/Ask Spread, Corporate Governance, Hedge Fund, Hedge Fund Activism, Information Leakage, Informed Trading, Insider Trading, Options Trading, Principal Costs, Private Benefits, Private Settlements, Proxy Contests
+
+JEL Classification: G14, G23, G30, G32, G34, G38, K22, K41, K42, M14
+
+Suggested Citation:
+
+Coffee, John C. and Jackson, Jr., Robert J. and Mitts, Joshua and Bishop, Robert, Activist Directors and Agency Costs: What Happens When an Activist Director Goes on the Board? (January 12, 2018). Columbia Business School Research Paper No. 18-15, Available at SSRN: https://ssrn.com/abstract=3100995 or http://dx.doi.org/10.2139/ssrn.3100995
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+Acquisition of securities"), which provides as follows: "b(1) When two or more persons agree to act together for the purpose of acquiring, holding, voting, or disposing of equity securities of an issuer, the group formed thereby shall be deemed to have acquired beneficial ownership, for purpose of Sections 13(d) and 13(g) of the Act, as of the date of such agreement, of all equity securities of that issuer beneficially owned by any such persons
+See Hollywood Realty Partners v. Gotham Partners, 286 F , volume 3 Posted: 2002
+Mcvc Draper Fisher
+Jurvetson Fund v. Millennial Partners, 260 F. Supp. 2d , volume 616 , p. 631 - 634 Posted: 2003
+Crossref
+GAF v. Milstein, 453 F. 2d , volume 709 Posted: 1971
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+798
+ABSTRACT VIEWS
+6,855
+RANK
+71,261
+8 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

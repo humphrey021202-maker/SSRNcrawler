@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The kind of silence: managing a reputation for voluntary disclosure in financial markets
+
+Ann Finance (2023). https://doi.org/10.1007/s10436-023-00430-5
+
+Posted: 17 Oct 2023
+
+Miles B. Gietzmann
+
+Bocconi University - Department of Accounting
+
+Adam J. Ostaszewski
+
+London School of Economics
+
+Date Written: October 16, 2023
+
+Abstract
+
+We create a continuous-time setting in which to investigate how the management of a firm controls a dynamic choice between two generic voluntary disclosure decision rules (strategies) in the period between two consecutive mandatory disclosure dates: one with full and transparent disclosure termed candid, the other, termed sparing, under which values only above a dynamic threshold are disclosed. We show how parameters of the model such as news intensity, pay-for-performance and time-to-mandatory-disclosure determine the optimal choice of candid versus sparing strategies and the optimal times for management to switch between the two. The model presented develops a number of insights, based on a very simple ordinary differential equation characterizing equilibrium in a piecewise-deterministic model, derivable from the background Black–Scholes model and Poisson arrival of signals of firm value. It is shown that in equilibrium when news intensity is low a firm may employ a candid disclosure strategy throughout, but will otherwise switch (alternate) between periods of being candid and periods of being sparing with the truth (or the other way about). Significantly, with constant pay-for-performance parameters, at most one switching can occur.
+
+Keywords: Dynamic Disclosure, Voluntary Disclosure
+
+JEL Classification: C61,C72,G32,D86
+
+Suggested Citation:
+
+Gietzmann, Miles B. and Ostaszewski, Adam J., The kind of silence: managing a reputation for voluntary disclosure in financial markets (October 16, 2023). Ann Finance (2023). https://doi.org/10.1007/s10436-023-00430-5, Available at SSRN: https://ssrn.com/abstract=4603762
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+308
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

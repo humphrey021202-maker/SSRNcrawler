@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Prioritizing IT Management Issues and Business Performance
+
+Journal of Information Systems, DOI: https://doi.org/10.2308/ISYS-2020-016, (Forthcoming)
+
+Posted: 12 May 2022
+
+J. Philipp Klaus
+
+University of Texas at Arlington - Department of Accounting
+
+Kevin Kim
+
+University of Louisiana at Monroe
+
+Adi Masli
+
+University of Kansas - School of Business
+
+Katia Guerra
+
+affiliation not provided to SSRN
+
+Leon Kappelman
+
+College of Business, University of N. Texas
+
+Date Written: April 13, 2022
+
+Abstract
+
+We use a novel dataset extracted from the Society of Information Management’s (SIM) survey of chief information officers (CIOs) and top information technology (IT) executives to examine organizations’ most critical IT management issues during 2014-2017 and their effect on firm profitability. According to the SIM surveys, the top two IT issues management prioritizes are security/cybersecurity/privacy and IT alignment with the business. We find that firms that prioritize these two IT management issues exhibit higher profitability than firms that do not. Our study contributes to the Information Systems (IS) and Accounting Information Systems (AIS) literature on IT business value by providing empirical evidence on IT-business alignment – and to some extent, IT security – positively affecting firm financial performance.
+
+Keywords: IT management, IT-business alignment, data analytics, IT security, cybersecurity, IT business value, firm performance
+
+JEL Classification: G32, M10, M15, O32
+
+Suggested Citation:
+
+Klaus, Jan Philipp and Kim, Kevin and Masli, Adi and Guerra, Katia and Kappelman, Leon, Prioritizing IT Management Issues and Business Performance (April 13, 2022). Journal of Information Systems, DOI: https://doi.org/10.2308/ISYS-2020-016, (Forthcoming), Available at SSRN: https://ssrn.com/abstract=4089719
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+369
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

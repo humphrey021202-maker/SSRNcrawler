@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Capital Market Consequences of Journalists' Financial Accounting Focus
+
+56 Pages Posted: 20 Feb 2025 Last revised: 10 Sep 2025
+
+Kimball Chapman
+
+Arizona State University (ASU)
+
+Nicholas Guest
+
+Cornell University - Samuel Curtis Johnson Graduate School of Management; Cornell SC Johnson College of Business
+
+Jared N. Jennings
+
+Washington University in St. Louis
+
+Date Written: September 09, 2025
+
+Abstract
+
+We explore the usefulness of news articles written with a financial accounting focus. We measure the financial accounting focus of each article by counting the frequency of common finance and accounting words in a sample of 105,193 Wall Street Journal articles covering public firms between 2008 and 2021. We observe greater trading volume and unsigned abnormal returns following the publication of articles written with more of a financial accounting focus. The associations we document are amplified when there is more noise in stock prices and when analyst forecasts are more dispersed, which is when investors are more likely to look for help in identifying and interpreting information about the firm. We also find that the estimates are attenuated for firms with more robust information environments. Our results are robust to several approaches that address endogeneity concerns, including omitting articles published close to SEC filings, controlling for recent earnings announcement reactions, and using competing news coverage as an instrument for financial accounting focus. These results contribute to the literature on capital market consequences of news media by identifying a key financial-accounting-based mechanism through which journalists create and disseminate value-relevant information.
+
+Keywords: financial media, journalists, investors, valuation, specialization
+
+Declaration of Interest
+
+The authors have no conﬂicts of interest related to this research.
+
+JEL Classification: G10, G11, G12, G14, G20, M40, M41
+
+Suggested Citation:
+
+Chapman, Kimball and Guest, Nicholas and Jennings, Jared N., Capital Market Consequences of Journalists' Financial Accounting Focus (September 09, 2025). Available at SSRN: https://ssrn.com/abstract=5145051 or http://dx.doi.org/10.2139/ssrn.5145051
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+M E Barth , K Li , C G Mcclure
+Evolution in value relevance of accounting information
+The Accounting Review , volume 98 , issue 1 , p. 1 - 28 Posted: 2023
+E Bartov , L Faurel , P S Mohanram
+Can Twitter help predict firm-level earnings and stock returns?
+The Accounting Review , volume 93 , issue 3 , p. 25 - 57 Posted: 2018
+R Bhushan
+Firm characteristics and analyst following
+Journal of accounting and economics , volume 11 , issue 2-3 , p. 255 - 274 Posted: 1989
+E Blankespoor
+The impact of information processing costs on firm disclosure choice: Evidence from the XBRL mandate
+Journal of Accounting Research , volume 57 , issue 4 , p. 919 - 967 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+205
+ABSTRACT VIEWS
+1,212
+RANK
+339,352
+35 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

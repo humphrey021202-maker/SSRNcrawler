@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Role of Internationalization of Firm-Level Corporate Governance – The Case of Audit Committees
+
+IFN Working Paper No. 1370
+
+22 Pages Posted: 28 Dec 2020 Last revised: 6 Dec 2022
+
+Haroon Afzali
+
+Hanken School of Economics
+
+Minna Martikainen
+
+University of Vaasa; Hanken School of Economics
+
+Lars Oxelheim
+
+Research Institute of Industrial Economics (IFN); University of Agder; Lund University
+
+Trond Randoy
+
+University of Agder - University of Agder, School of Busines and Law, Students; Copenhagen Business School
+
+Date Written: November 24, 2020
+
+Abstract
+
+Motivated by agency theory and arguments from linguistic studies, we argue in this paper the internationalization of a firm’s audit committee to be associated with weaker firm-level corporate governance. Based on 2,015 publicly traded European firms from 16 countries over 2000-2018, we find the presence of foreign directors on audit committees to have a significant negative impact on financial reporting quality (FRQ). The effect is found to be weaker in countries with strong investor protection. We find linguistic differences within audit committees an important explanation for the negative influence of foreign directors on FRQ. The results are robust to alternative FRQ measures and model specifications, including difference-in-differences and propensity score matching. While foreign directors on a corporate board may create value for the firm by boosting the advisory capacity of that board, recruiting a foreign director to that firm’s audit committee may compromise the board’s monitoring function and the firm’s FRQ.
+
+Keywords: Reporting Quality, Foreign Directors, Audit Committee, Investor Protection
+
+JEL Classification: F23, G34, K22, M16, M42
+
+Suggested Citation:
+
+Afzali, Haroon and Martikainen, Minna and Oxelheim, Lars and Randoy, Trond, On the Role of Internationalization of Firm-Level Corporate Governance – The Case of Audit Committees (November 24, 2020). IFN Working Paper No. 1370, Available at SSRN: https://ssrn.com/abstract=3736849 or http://dx.doi.org/10.2139/ssrn.3736849
+Download This Paper
+ 
+Open PDF in Browser
+109 References
+A Abadie , G W Imbens
+Large sample properties of matching estimators for average treatment effects
+Econometrica , volume 74 , issue 1 , p. 235 - 267 Posted: 2006
+L J Abbott , S Parker , G F Peters
+Audit committee characteristics and restatements
+Auditing , volume 23 , issue 1 , p. 69 - 87 Posted: 2004
+A Agrawal , S Chadha
+Corporate governance and accounting scandals
+Journal of Law and Economics , volume 48 , issue 2 , p. 371 - 406 Posted: 2005
+E I Altman
+Corporate financial distress and bankruptcy Posted: 1993
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+84
+ABSTRACT VIEWS
+912
+RANK
+692,613
+109 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

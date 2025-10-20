@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Omitted Variables and Tests of Dividend Displacement
+
+47 Pages Posted: 25 Mar 2012
+
+Elisabeth Dedman
+
+Edge Hill University Business School
+
+Thanamas Kungwal
+
+Keele University - Keele Management School
+
+Andrew W. Stark
+
+Alliance Manchester Business School, University of Manchester
+
+Date Written: March, 24 2012
+
+Abstract
+
+Theory suggests that, under certain assumptions, corporate distributions should reduce market value on a one-to-one basis. This result is sometimes known as dividend displacement. Nonetheless, dividend displacement tends to be rejected by empirical tests for total dividends and regular dividends, but not for share buybacks, in the UK. This is associated with regular dividends having a stronger relationship with future earnings than share buybacks (that is, more information content). We study a conjecture in the literature that the omission of lagged accounting variables in accounting-based market value models is the cause of the rejection of dividend displacement for regular or total dividends. Our results suggest that this is not so, although lagged accounting variables are value relevant. When various controls for omitted variables in models used in prior literature are employed, it is in only one case that the results of prior studies are overturned. This case is when lagged market value is added into the estimated equation. Theoretically, within a general study of controlling for omitted variables in accounting-based market valuation models, we argue that including lagged market value as an independent variable cannot control for the omission of lagged accounting variables, or other omitted variables, without producing additional model mis-specification problems which, in turn, introduces bias into statistical tests. Qualitative analysis of the various empirical results suggests that the results concerning dividend displacement when lagged market value is included in the model are induced by coefficient bias. As a consequence, we conclude that the results in previous literature are robust to the inclusion of lagged accounting variables, and the evidence against these results when lagged market value is included in the model is unreliable.
+
+Keywords: Lagged accounting variables, accounting-based valuation models, dividend displacement
+
+JEL Classification: G35, M41
+
+Suggested Citation:
+
+Dedman, Elisabeth and Kungwal, Thanamas and Stark, Andrew W., Omitted Variables and Tests of Dividend Displacement (March, 24 2012). Available at SSRN: https://ssrn.com/abstract=2028444 or http://dx.doi.org/10.2139/ssrn.2028444
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+1 Citations
+Stefania Veltri
+Mandatory Non-financial Risk-Related Disclosure
+, p. 99 Posted: 2020
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+244
+ABSTRACT VIEWS
+1,975
+RANK
+286,433
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Recommended Papers
+
+Capital Markets Research in Accounting
+
+By S.p. Kothari
+
+What is the Intrinsic Value of the Dow?
+
+By Charles M.c. Lee, James N. Myers, ...
+
+Accruals and the Prediction of Future Cash Flows
+
+By Mary E. Barth, Donald P. Cram, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

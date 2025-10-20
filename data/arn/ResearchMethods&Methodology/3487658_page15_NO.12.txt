@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Regression Analysis and Panel Data - A Survival Guide to Using R Applied to Cross Sections, Time Series, and Panels
+
+35 Pages Posted: 1 Dec 2019 Last revised: 1 Apr 2020
+
+Joachim Landstrom
+
+Uppsala University, Dept of Business Administration
+
+Date Written: March 30, 2020
+
+Abstract
+
+This paper discuss linear regression analysis applied on cross sections, on time-series, and on panel data. It also cover topics such as heteroscedastic errors, serially correlated errors with HC and HAC covariance matrices. For panel regressions it covers one- and two-way models, fixed effect, pooled and random effects model. The section on panel regressions also covers HC and HAC covariance matrices. Along with the discussion I implement the discussion in this paper using R on accounting and stock market data.
+
+Keywords: regression analys, panel regressions, robust covariance matrix, panel regression, accounting, finance
+
+Suggested Citation:
+
+Landstrom, Joachim, Regression Analysis and Panel Data - A Survival Guide to Using R Applied to Cross Sections, Time Series, and Panels (March 30, 2020). Available at SSRN: https://ssrn.com/abstract=3487658 or http://dx.doi.org/10.2139/ssrn.3487658
+Download This Paper
+ 
+Open PDF in Browser
+5 References
+M Arellano
+Computing Robust Standard Errors for Within-Groups Estimators
+Oxford Bulletin of Economics & Statistics , volume 49 , issue 4 , p. 431 - 465 Posted: 1987
+Crossref
+William H Greene
+Econometric Analysis Posted: 2012
+Pearson , Daniel Hoechle
+Robust Standard Errors for Panel Regressions with Cross-Sectional Dependence
+The Stata Journal , volume 7 , issue 3 , p. 281 - 312 Posted: 2007
+Crossref
+Giovanni Millo , Yves Croissant
+Panel Data Econometrics with R Posted: 2018
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+825
+ABSTRACT VIEWS
+2,943
+RANK
+68,215
+5 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Multiple Equation Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

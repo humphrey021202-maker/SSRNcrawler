@@ -1,0 +1,96 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Self-Affinity in Financial Asset Returns
+
+International Review of Financial Analysis, Forthcoming
+
+Posted: 2 Jul 2012
+
+Enrico Onali
+
+University of Bristol
+
+John Goddard
+
+Bangor University - Bangor University
+
+Date Written: July 2, 2012
+
+Abstract
+
+We test for departures from normal and independent and identically distributed (NIID) log returns, for log returns under the alternative hypothesis that are self-affine and either long-range dependent, or drawn randomly from an L-stable distribution with infinite higher-order moments. The finite sample performance of estimators of the two forms of self-affinity is explored in a simulation study. In contrast to rescaled range analysis and other conventional estimation methods, the variant of fluctuation analysis that considers finite sample moments only is able to identify both forms of self-affinity. When log returns are self-affine and long-range dependent under the alternative hypothesis, however, rescaled range analysis has higher power than fluctuation analysis. The techniques are illustrated by means of an analysis of the daily log returns for the indices of 11 stock markets of developed countries. Several of the smaller stock markets by capitalization exhibit evidence of long-range dependence in log returns.
+
+Suggested Citation:
+
+Onali, Enrico and Goddard, John, Self-Affinity in Financial Asset Returns (July 2, 2012). International Review of Financial Analysis, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2097453
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,466
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

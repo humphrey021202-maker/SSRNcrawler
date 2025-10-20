@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Market-Based Credit Ratings
+
+31 Pages Posted: 15 Aug 2013
+
+Drew Creal
+
+University of Chicago - Booth School of Business - Econometrics and Statistics
+
+Robert Gramacy
+
+University of Chicago - Booth School of Business
+
+Ruey S. Tsay
+
+University of Chicago - Booth School of Business - Econometrics and Statistics
+
+Date Written: November 2, 2012
+
+Abstract
+
+We present a methodology for rating the credit worthiness of public companies in the U.S. from the prices of traded assets. Our approach uses asset pricing data to impute a term structure of risk neutral survival functions or default probabilities. Firms are then clustered into ratings categories based on their survival functions using a functional clustering algorithm. This allows all public firms whose assets are traded to be directly rated by market participants. For firms whose assets are not traded, we show how they can be indirectly rated through the use of matching estimators. We also show how the resulting ratings can be used to construct loss distributions for portfolios of bonds. Our approach has the advantages of being transparent, computationally tractable, simple to implement, and easy to interpret economically.
+
+Keywords: credit ratings, clustering, credit default swaps, default risk, survival functions
+
+JEL Classification: C32, G32
+
+Suggested Citation:
+
+Creal, Drew and Gramacy, Robert and Tsay, Ruey S., Market-Based Credit Ratings (November 2, 2012). Available at SSRN: https://ssrn.com/abstract=2310260 or http://dx.doi.org/10.2139/ssrn.2310260
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+A Abadie , G W Imbens
+Large sample properties of matching estimators for average treatment effects
+Econometrica , volume 74 , issue 1 , p. 235 - 267 Posted: 2006
+Crossref
+E Altman , N Fargher , E Kalotay
+A simple empirical model of equity-implied probabilities of default. Unpublished manuscript, Stern School of Business Posted: 2010
+J D Angrist , J.-S Pischke
+Mostly Harmless Econometrics Posted: 2009
+Crossref
+R Blanco , S Brennan , I W Marsh
+An empirical analysis of the dynamic relation between investment-grade bonds and credit-default swaps
+The Journal of Finance , volume 60 , p. 2255 - 2281 Posted: 2005
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+360
+ABSTRACT VIEWS
+3,048
+RANK
+189,693
+2 Citations
+26 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Observation Driven Mixed-Measurement Dynamic Factor Models with an Application to Credit Risk
+
+By Drew Creal, Bernd Schwaab, ...
+
+Stationarity and Ergodicity of Univariate Generalized Autoregressive Score Processes
+
+By Francisco Blasques, Siem Jan Koopman, ...
+
+Time-Varying Systemic Risk: Evidence from a Dynamic Copula Model of CDS Spreads
+
+By Dong Hwan Oh and Andrew J. Patton
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

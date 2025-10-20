@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Why Subsample-Based Proxies Should Not Be Used As Dependent Variables
+
+73 Pages Posted: 1 Apr 2022 Last revised: 24 May 2023
+
+Sudipta Basu
+
+Temple University - Department of Accounting
+
+Dmitri Byzalov
+
+Temple University - Department of Accounting
+
+Date Written: May 24, 2023
+
+Abstract
+
+Researchers often use non-linear distributional properties of accounting variables (e.g., standard deviation of demand conditional on managers’ information) to measure economic constructs like demand uncertainty. To model these distributional properties conditional on explanatory variables X, researchers typically compute subsample-based proxies (e.g., standard deviation of demand over a five-year rolling window) and regress them on X. However, we show that this standard approach can cause severe biases through non-linear transformations of noisy proxies. We develop alternative methods that address these biases by directly modeling the distributional property of Y conditional on the value of X for each observation. Simulations confirm that our methods perform well even when the standard method is severely biased. Our methods are transparent, robust, and can be implemented in a few lines of code, for which we provide examples. The use of our methods changes major prior findings.
+
+Keywords: conditional distribution, conditional moments, generalized method of moments (GMM), multi-stage estimation, bootstrapping
+
+JEL Classification: M41, C20, C25
+
+Suggested Citation:
+
+Basu, Sudipta and Byzalov, Dmitri, Why Subsample-Based Proxies Should Not Be Used As Dependent Variables (May 24, 2023). Available at SSRN: https://ssrn.com/abstract=4037806 or http://dx.doi.org/10.2139/ssrn.4037806
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+A Agarwal , S Chen; , L Mills
+Entity Structure and Taxes: An Analysis of Embedded Pass-Through Entities
+The Accounting Review , volume 96 , p. 1 - 27 Posted: 2021
+A Ahmed , S Duellman
+Managerial Overconfidence and Accounting Conservatism
+Journal of Accounting Research , volume 51 , p. 1 - 30 Posted: 2013
+R Ball
+Accounting Informs Investors and Earnings Management is Rife: Two Questionable Beliefs
+Accounting Horizons , volume 27 , p. 847 - 853 Posted: 2013
+S Basu
+Conservatism and the Asymmetric Timeliness of Earnings Posted: 1995
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+361
+ABSTRACT VIEWS
+1,362
+RANK
+189,110
+1 Citations
+53 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

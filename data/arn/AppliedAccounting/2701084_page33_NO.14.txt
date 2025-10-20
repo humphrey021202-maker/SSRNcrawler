@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Taxation of Investment Funds in Australia
+
+25 Pages Posted: 11 Dec 2015
+
+Justin Dabner
+
+Tax Re-Solutions
+
+Date Written: February 8, 2002
+
+Abstract
+
+The primary vehicles used to pool investment funds in Australia are: superannuation (pension) funds; investment trusts; investment companies; life insurance companies.
+
+Since the early 1980s the Government has manipulated the tax system to encourage the accumulation of funds in pension or superannuation funds. Initially the taxation regime was very favourable but the tax concessions have gradually been reduced. However the grandfathering of these concessions has created a highly complex tax regime.
+
+Superannuation support by employers is compulsory, currently to the extent of 8% of salary, but to be 9% from 1 July 2002. Contributions are often paid into large funds controlled by professional investment managers. However it is possible to structure a superannuation fund so that the members can manage the investment. Most commonly employers will establish a superannuation fund thereby enabling them more control over the investment. Naturally there are stringent prudential and preservation requirements.
+
+Broadly the trustees of superannuation funds are taxed at 15% on the income of the trust and contributions received on behalf of employees. A further surtax of 15% may be imposed on contributions on behalf of high income earners.
+
+Contributions on behalf of employees are deductible to the employer and sometimes rebateable if made by an employee.
+
+Benefits receive concessional tax treatment to the extent that they are reasonable. The taxation of lump sum benefits is highly complex but generally such benefits are taxed at a maximum of 20% when received from a superannuation fund. A rebate up to 15% may be available to the recipients of pensions. The tax regime encourages the commuting of benefits into pensions.
+
+Outside of these pension funds the choice of investment vehicle is typically between a unit trust or a company. With the exception of widely owned trusts undertaking trading activities unit trusts are treated as pass through vehicles. From an investment perspective this permits tax concessions to be passed through to the investor (unitholder) who will pay tax on the trust income. The income retains its source and character when a passing through the trust. This can provide tax advantages. However the receipt of non-assessable distributions can result in a reduction in the unitholder’s tax basis in its units.
+
+Since 1999 a proposal has existed to tax trusts in the same manner as companies. This has been termed “entity taxation”. The original proposal was to tax all trusts in the same manner as companies with the exception of "collective investment vehicles". These vehicles would be subject to a similar regime as that currently applying to unit trusts. The regime would be restricted to widely owned trusts undertaking only passive investments.
+
+The draft legislation released by the Government, however, completely exempted unit trusts from the new entity tax regime removing the need for the collective investment vehicle rules. This draft legislation was criticised by the small business and farming sectors that traditionally have utilised discretionary trusts that were not exempted. As a result the Government has withdrawn the legislation and its current status is unclear.
+
+Companies are taxed as separate entities. Whilst an imputation regime exists and shareholders receive a credit for company tax paid, the features of this system are such that tax concessions available to a company do not a pass through to shareholders. Thus investment trusts have typically been utilised rather than investment companies.
+
+Probably the major tax concession available to individual investors is a 50% discount on capital gains. Whilst this concession has been available to unitholders in investment trusts shareholders in companies could not access it. To neutralise this tax distortion a special regime to permit “listed investment companies” to provide shareholders with the capital gains tax discount was introduced on 1 July 2001.
+
+A regime also exists to permit investment companies to register as “pooled development funds” and thereby also access a reduced tax rate and other tax concessions. This regime is designed to encourage the creation of a source of venture capital for a small to medium size Australian resident entities.
+
+A further exception to the utilisation of investment trusts over companies has been investment in certain policies issued by life insurance companies. Until recently the life companies themselves were taxed under a very complicated regime that required the division of income into numerous classes. Now, with a view to ensuring parity of tax treatment between similar investment vehicles, life companies are taxed at the corporate tax rate except for income from assets used to discharge superannuation liabilities which is taxed at 15% and certain exempt income.
+
+Traditionally life companies have been able to issue investment linked life insurance policies or bonds. In particular a special regime has permitted such companies to offer policies that, provided they are held for at least 10 years, offer returns that are tax exempt. There is currently a proposal to repeal this regime and treat such policies in the same manner as equity investments. That is, the returns would be assessable but carry a credit for company tax paid on the underlying income.
+
+The taxation of returns on passive investment into Australia from overseas is primarily governed by withholding taxes. Most tax treaties restrict the dividend withholding tax to 15% and the interest withholding tax to 10%. Trust distributions to non-residents are taxed on an assessment basis but trustees are required to withhold tax upon payment of distributions to non-residents. Most recent treaties deem non-resident unit holders to have a permanent establishment in Australia if the trustee carries on business through a permanent establishment thereby ensuring that the income is not exempt under the business profits article. These treaties also seek to preserve to Australia the right to impose capital gain tax.
+
+Withholding tax and capital gains tax concessions are provided for non-resident tax exempt pension funds provided that they are established solely to provide benefits to non-residents of Australia.
+
+The receipt of passive income from investments by Australians overseas may be subject to either an exemption or foreign tax credits system. Where the receipt of foreign income in Australia is deferred there are a number of taxing regimes that may apply, in particular a controlled foreign company regime and a specific foreign investment funds regime. The effect of these regimes can be to attribute foreign source income to the Australian investor should an exemption not apply.
+
+Thus the Australian rules for the taxation of investment funds are merely a variation on the themes embraced elsewhere in the world. If there is any special feature it is probably the relative absence of special concessional tax regimes to encourage non-pension orientated investment funds. However the recent proposal to introduce entity taxation with its collective investment vehicle exception brings into focus the existence of special tax regimes for investment funds. This might be a useful opportunity to reconsider whether such regimes are appropriate.
+
+Suggested Citation:
+
+Dabner, Justin, The Taxation of Investment Funds in Australia (February 8, 2002). Available at SSRN: https://ssrn.com/abstract=2701084 or http://dx.doi.org/10.2139/ssrn.2701084
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+80
+ABSTRACT VIEWS
+1,482
+RANK
+713,739
+PlumX Metrics
+Related eJournals
+
+Tax Law & Policy eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

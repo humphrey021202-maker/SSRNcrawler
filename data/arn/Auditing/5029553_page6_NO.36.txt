@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+When Auditing Meets Blockchain: A Study on Applying Blockchain Smart Contracts in Auditing 
+
+70 Pages Posted: 10 Jan 2025
+
+Xiaoli Guo
+
+University of North Dakota
+
+Dong Andrew Li
+
+Christian Brothers University
+
+Yanjun Zuo
+
+University of North Dakota
+
+Date Written: August 01, 2024
+
+Abstract
+
+Blockchain's decentralized characteristics have posed unique challenges and unlocked novel opportunities for the accounting and auditing sector. While the potential impact of blockchain and smart contracts on auditing has been raised, comprehensive studies remain scarce. Using the Solidity language, this study explores the viability of encoding into smart contracts specific auditing rules that can automatically identify suspicious transactions in common fraud schemes. To illustrate the feasibility, it presents a proof-of-concept framework encompassing system architecture, smart contract development, and workflow procedures. Simulation results demonstrate that blockchain-based smart contract approach in this study can effectively identify problematic transactions in near real-time. Consequently, this could help auditors to allocate audit resources to focus efforts on higher risk transactions. The findings provide implications for future studies on the application of smart contracts in auditing.
+
+Keywords: Blockchain, Audit evidence, Efficiency, Fraud Schemes, Smart contract, Solidity
+
+Suggested Citation:
+
+Guo, Xiaoli and Li, Dong Andrew and Zuo, Yanjun, When Auditing Meets Blockchain: A Study on Applying Blockchain Smart Contracts in Auditing  (August 01, 2024). Available at SSRN: https://ssrn.com/abstract=5029553 or http://dx.doi.org/10.2139/ssrn.5029553
+Download This Paper
+ 
+Open PDF in Browser
+93 References
+J L Abernathy , M Barnes , C Stefaniak
+the combination of these records with the automated transaction checking by smart contracts could help address challenges in evidence collection and validation
+Journal of Accounting Literature , volume 32 , issue 1 , p. 30 - 60 Posted: 2013
+U S Aicpa
+AU Section 326
+C Antal , T Cioara , M Antal , I Anghel
+Blockchain platform for covid-19 vaccine supply management
+IEEE Open Journal of the Computer Society , volume 2 , p. 164 - 178 Posted: 2021
+Mitigating the risk of common fraud schemes: Insights from SEC enforcement actions Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+249
+ABSTRACT VIEWS
+2,708
+RANK
+282,998
+93 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Information Systems & Economics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

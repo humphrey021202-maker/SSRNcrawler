@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Effect of Reporting Opacity on Trading Opacity: New Evidence from American Depositary Receipt Trades in Dark Pools
+
+Contemporary Accounting Research, Forthcoming
+
+Posted: 9 Mar 2023
+
+Thomas J. Boulton
+
+Miami University
+
+Marcus V. Braga-Alves
+
+Pace University - Lubin School of Business
+
+Bidisha Chakrabarty
+
+Saint Louis University - Richard A. Chaifetz School of Business
+
+Date Written: June 16, 2022
+
+Abstract
+
+Trading volume is increasingly shifting to dark venues, and the causes of this move are not well understood. We examine whether a firm’s reporting opacity affects its dark pool trading and provide robust evidence that (partly) explains this volume migration. Exploiting the exogenous variation in home-country reporting opacity in a sample of American depositary receipts (ADRs) and using multiple metrics for reporting opacity, we find that greater opacity associates with increased dark pool trading. This relation holds after controlling for firms’ information environments, country-specific governance issues, observable differences between ADRs and other securities that trade in dark pools (matched sample analysis), volume migration to dark pools during earnings announcements, informed trading in lit versus dark venues, ADR levels, IFRS reporting requirements, and the possible endogenous determination of home-country reporting opacity and dark pool volume. The positive relation is stronger for ADRs held by (quasi-indexing) institutions with low turnover and diversified holdings and weaker for ADRs favored by (transient) institutions that trade frequently and (dedicated) institutions that hold concentrated portfolios. Bid-ask spreads are greater for higher opacity ADRs that trade in dark pools, indicating that reporting opacity is associated with the negative effect of dark pool trading on market quality. Our findings help inform the current debate on off-exchange trading by showing how reporting regimes affect the trading venue choice.
+
+Keywords: reporting opacity, dark pools, disclosure, earnings announcements, informed trading
+
+Suggested Citation:
+
+Boulton, Thomas J. and Braga-Alves, Marcus V. and Chakrabarty, Bidisha, The Effect of Reporting Opacity on Trading Opacity: New Evidence from American Depositary Receipt Trades in Dark Pools (June 16, 2022). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4144916
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+423
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

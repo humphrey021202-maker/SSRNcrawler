@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Comparison of Artificial Intelligence and Human Responses in Audit Experiments
+
+Georgia Tech Scheller College of Business Research Paper No. 5036687
+
+60 Pages Posted: 6 Jan 2025
+
+Nikki L. MacKenzie
+
+Georgia Institute of Technology - Scheller College of Business
+
+James Moon
+
+Georgia Institute of Technology - Scheller College of Business
+
+Susan Rykowski
+
+University of Alabama - Culverhouse School of Accountancy
+
+Quinn Thomas Swanquist
+
+University of Alabama - Culverhouse School of Accountancy
+
+Robert Lowell Whited
+
+North Carolina State University
+
+Date Written: November 26, 2024
+
+Abstract
+
+Artificial intelligence (AI) tools, such as large language models (LLMs), have the potential to transform the audit process. However, the nature and quality of LLM output remains unclear. This study compares LLM output to human responses in audit-related scenarios. Specifically, we use ChatGPT to simulate experimental participants and compare responses to those reported in four published audit experimental studies. Broadly speaking, ChatGPT provides a reasonable response to experimental tasks from all four studies, though it tends to provide more conservative responses than humans in audit-related judgements (e.g., inventory impairments). Moreover, ChatGPT does not generally respond to experimental manipulations like human participants in audit-related settings, though this sometimes reflects a reduced susceptibility to cognitive biases documented in the original studies. On the other hand, in the one non-audit-specific decision we consider (i.e., performance evaluation), we find that ChatGPT closely simulates human responses to manipulations, including the bias documented in the original study. Overall, our study provides researchers, auditors, and regulators with timely evidence on how LLMs respond to a variety of audit-related scenarios.
+
+Keywords: ChatGPT, LLMs, Auditors, Audit Experiments, Artificial Intelligence JEL Classifications: M42, O30, O33, C90
+
+JEL Classification: M42, O30, O33, C90
+
+Suggested Citation:
+
+MacKenzie, Nikki and Moon, James and Rykowski, Susan and Swanquist, Quinn Thomas and Whited, Robert Lowell, A Comparison of Artificial Intelligence and Human Responses in Audit Experiments (November 26, 2024). Georgia Tech Scheller College of Business Research Paper No. 5036687, Available at SSRN: https://ssrn.com/abstract=5036687 or http://dx.doi.org/10.2139/ssrn.5036687
+Download This Paper
+ 
+Open PDF in Browser
+70 References
+A Agrawal , J Gans , And A Goldfarb
+How Large Language Models Reflect Human Judgment
+Harvard Business Review Posted: 2023
+G Aher , R I Arriaga , A T Kalai
+Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies
+Proceedings of the 40th International Conference on Machine Learning Posted: 2023
+S Anderson , L Hodder , Y Xia
+Cost Anchoring in Fair Value Estimation Posted: 2024
+L P Argyle , E C Busby , N Fulda , J R Gubler , C Rytting , D Wingate
+Out of One, Many: Using Language Models to Simulate Human Samples
+Political Analysis , volume 31 , p. 337 - 351 Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+386
+ABSTRACT VIEWS
+1,792
+RANK
+175,588
+70 References
+PlumX Metrics
+Related eJournals
+
+Georgia Tech Scheller College of Business Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

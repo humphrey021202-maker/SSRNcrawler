@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Corporate Taxation on Bank Transparency: Evidence from Loan Loss Provisions
+
+Journal of Accounting & Economics (JAE), Vol. 63, No. 2-3, 2017
+
+60 Pages Posted: 15 Feb 2016 Last revised: 28 Sep 2017
+
+Kathleen Andries
+
+WHU - Otto Beisheim School of Management
+
+John Gallemore
+
+University of North Carolina Kenan-Flagler Business School
+
+Martin Jacob
+
+University of Navarra, IESE Business School
+
+Date Written: January 1, 2017
+
+Abstract
+
+We examine how the corporate tax system, through its treatment of loan losses, affects bank financial reporting choices. Our identification strategy exploits cross-country and intertemporal variation in corporate tax rates and the tax deductibility of loan loss provisions. Using an international sample of banks, we find that the loan loss provision is increasing in the corporate tax rate for countries that permit the tax deduction of general provisions. The effect is economically significant: when allowing general provision deductibility, a 1 percentage point increase in the corporate tax rate leads to an increase in provisions of approximately 4.9% of the sample average. Furthermore, we show that this effect is driven by the corporate tax system’s encouragement of timelier loan loss recognition: the extent to which future and current loan portfolio quality deteriorations are incorporated into the loan loss provision is increasing in the tax rate when general provisions are tax deductible. Overall, our results suggest that the corporate tax system is an important determinant of timely loan loss recognition and hence the financial reporting transparency of the banking sector.
+
+Keywords: bank transparency, bank regulation, loan loss provisions, corporate taxation
+
+JEL Classification: G21, G28, H25, M41
+
+Suggested Citation:
+
+Andries, Kathleen and Gallemore, John and Jacob, Martin, The Effect of Corporate Taxation on Bank Transparency: Evidence from Loan Loss Provisions (January 1, 2017). Journal of Accounting & Economics (JAE), Vol. 63, No. 2-3, 2017, Available at SSRN: https://ssrn.com/abstract=2732354 or http://dx.doi.org/10.2139/ssrn.2732354
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+V V Acharya , M Richardson
+Restoring Financial Stability : How to Repair a Failed System Posted: 2009
+Anat R. Admati , Peter M. DeMarzo , Martin F. Hellwig , Paul C. Pfleiderer
+Fallacies, Irrelevant Facts, and Myths in the Discussion of Capital Regulation: Why Bank Equity is Not Socially Expensive
+Max Planck Institute for Research on Collective Goods 2013/23, Rock Center for Corporate Governance at Stanford University Working Paper No. 161, Stanford University Graduate School of Business Research Paper No. 13-7 Pages: 77 Posted: 4 Nov 2013 Last revised: 12 Jan 2016
+Download PDF  Add Paper to My Library
+T J Atwood , M S Drake , L A Myers
+Book-Tax Conformity, Earnings Persistence and the Association between Earnings and Future Cash Flows
+Journal of Accounting and Economics , volume 50 , issue 1 , p. 111 - 125 Posted: 2010
+Crossref
+A J Auerbach , J Slemrod
+The Economic Effects of the Tax Reform Act of 1986
+Journal of Economic Literature , volume 35 , issue 2 , p. 589 - 632 Posted: 1997
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+676
+ABSTRACT VIEWS
+5,059
+RANK
+88,471
+27 Citations
+49 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

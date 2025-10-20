@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Research Note on Understandability, Readability and Translatability of IFRS
+
+13 Pages Posted: 22 Dec 2014
+
+Rachel F. Baskerville
+
+Victoria University of Wellington - Te Herenga Waka - School of Accounting and Commercial Law
+
+Huw Rhys
+
+University of Wales, Aberystwyth - School of Management and Business
+
+Date Written: November 19, 2014
+
+Abstract
+
+“Translations – of deep resonances and felt connections – are difficult, if not impossible, to make; one can learn another language, but acquiring all of the cultural accoutrements that accompany language is another story” (Bullaro, 2005).
+
+It is the objective of this study to review the nexus between Understandability, Translatability and Readability. Where communication serves specific purposes, for example in professions, highly specialized ‘dialects’ or varieties of language exist, referred to as 'languages for specific purposes.'
+
+Understandability is culturally bound and is not the same as translatability, although both depend on the expertise of the reader. Understandability of IFRS requires expert accounting knowledge, not only because the subject matter is accounting, but because accounting is a 'language for specific purposes'. Certainty that comes from the conservatism of such a specialized jargon enhances understandability for experts and specialists.
+
+There is also much research on readability of annual reports produced from the application of IFRS; but a key fundamental characteristic of the IFRS canon is understandability, not readability (to the disappointment of some non-expert users of the IFRS). Many such studies undertake analysis using some type of readability index; this is, most often, based on differential loadings applied to certain aspects of the text, aspects which could increase or decrease syntactical complexity; but the characteristics of understandability differ from any such readability measures.
+
+There is a particular scope for misunderstandings (and consequently a lack of understandability) where a confluence between professional bodies is required during the development of a sector-specific standard.
+
+This review of the characteristics of understandability, readability and translatability clarifies that there is a balance between these three characteristics of written IFRS text. Such a balance need to reviewed and considered without any lessening of the effectiveness of new standards to improve and effectively regulate financial reporting, especially as the new members of the Boards and Technical teams at the IASB are introduced to the mission of the IASB.
+
+Keywords: Understandability, Readability, Translatability, IFRS
+
+JEL Classification: M40, J44
+
+Suggested Citation:
+
+Baskerville, Rachel F. and Rhys, Huw, A Research Note on Understandability, Readability and Translatability of IFRS (November 19, 2014). Available at SSRN: https://ssrn.com/abstract=2528118 or http://dx.doi.org/10.2139/ssrn.2528118
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+A H Adelberg
+A Methodology for Measuring the Understandability of Financial Report Messages
+Journal of Accounting Research , p. 565 - 92 Posted: 1979
+Crossref
+A H Adelberg
+The accounting syntactic complexity formula: A new instrument for predicting the readability of selected accounting communications
+Accounting and Business Research , volume 13 , p. 163 - 175 Posted: 1983
+Crossref
+A H Adelberg , G E Farrelly
+Measuring the Meaning of Financial Statement Terminology: A Psycholinguistics Approach
+Accounting & Finance , volume 29 , issue 1 , p. 33 - 61 Posted: 1989
+Crossref
+A H Adelberg , J R Razek
+The Cloze procedure: A methodology for determining the understandability of accounting textbooks
+The Accounting Review , volume jou_vol[1].xmlText , p. 109 - 122 Posted: 1984
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+420
+ABSTRACT VIEWS
+2,520
+RANK
+159,412
+1 Citations
+47 References
+PlumX Metrics
+Related eJournals
+
+Corporate & Financial Law: Interdisciplinary Approaches eJournal
+
+Follow
+
+Cognitive Social Science eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

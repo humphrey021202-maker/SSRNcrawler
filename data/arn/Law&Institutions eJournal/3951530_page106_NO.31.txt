@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Firms’ Stock Prices, Stock Returns, and Remaining Lifetime Earnings
+
+53 Pages Posted: 4 Nov 2021 Last revised: 30 Apr 2025
+
+Sanjeev Bhojraj
+
+Cornell University - Samuel Curtis Johnson Graduate School of Management
+
+Ashish Ochani
+
+SUNY at Binghamton - School of Management; Cornell University, Samuel Curtis Johnson Graduate School of Management, Department of Accounting
+
+Shivaram Rajgopal
+
+Columbia University - Columbia Business School, Accounting, Business Law & Taxation
+
+Date Written: November 18, 2024
+
+Abstract
+
+We document the disconnect between earnings expectations as captured in stock price and the ultimate realization of earnings over long periods. To do so, we compare firms' stock prices on the first trading day and the beginning of each year to the realized earnings over their remaining lifetime (RLTEP ratio). We document that the RLTEP ratio averaged over long periods and over 15,000 US domestic public firms, approximates one, suggesting that expectations match actuals in the aggregate. However, most firms fail to deliver an RLTEP ratio greater than one. Merger acquisition prices are the largest contributors to the RLTEP ratio, with many surviving firms failing to generate enough earnings even after operating for between 15 and 45 years. The RLTEP ratio for survivors is positively associated with the future RLTEP ratio, future lifetime wealth creation, and future lifetime stock returns. Significant returns-based wealth creation by firms in the short term does not persist in the long term unless it is supported by fundamental wealth creation (high past RLTEP ratio).
+
+Keywords: lifetime, earnings, stock returns, wealth creation, mergers, IPOs
+
+JEL Classification: G11, G12, G23, G32, M41
+
+Suggested Citation:
+
+Bhojraj, Sanjeev and Ochani, Ashish and Rajgopal, Shivaram, Firms’ Stock Prices, Stock Returns, and Remaining Lifetime Earnings (November 18, 2024). Available at SSRN: https://ssrn.com/abstract=3951530 or http://dx.doi.org/10.2139/ssrn.3951530
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+R Ball , V Nikolaev
+On earnings and cash flows as predictors of future cash flows
+Journal of Accounting and Economics , volume 73 , issue 1 Posted: 2022
+H Bessembinder
+Do stocks outperform Treasury bills
+Journal of Financial Economics , volume 129 , issue 3 , p. 440 - 457 Posted: 2018
+M Carhart
+On Persistence in Mutual Fund Performance
+Journal of Finance , volume 52 , issue 1 , p. 57 - 82 Posted: 1997
+L Chan , J Karceski , J Lakonishok
+The level and persistence of growth rates
+Journal of Finance , volume 58 , issue 2 , p. 643 - 684 Posted: 2003
+Load more
+3 Citations
+Anaam Fayyaz , Judy Pozzerle , Suresh J. Antony
+A Retrospective Study Comparing Mortality Rates between Vaccinatedand Unvaccinated Kidney Transplant Recipients
+Infectious Disorders - Drug Targets , volume 24 , issue 4 Posted: 2024
+Crossref
+Gerald F. Davis , Theodore DeWitt
+Can Strategy Address the Climate Crisis Without Losing its Essence?
+Journal of Management Studies , volume 62 , issue 2 , p. 1003 Posted: 2025
+Crossref
+Shivaram Rajgopal , Anup Srivastava , Rong Zhao
+Do Digital Technology Firms Earn Excess Profits? Alternative Perspectives
+The Accounting Review , volume 98 , issue 4 , p. 321 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,023
+ABSTRACT VIEWS
+3,881
+RANK
+50,735
+3 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

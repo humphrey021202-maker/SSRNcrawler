@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Asset-Level Transparency and the (E)valuation of Asset-Backed Securities
+
+Journal of Accounting Research, Volume 60, Issue 3, 2022
+
+Posted: 11 Oct 2022
+
+Jed Neilson
+
+Pennsylvania State University
+
+Stephen G. Ryan
+
+New York University (NYU) - Leonard N. Stern School of Business
+
+K. Philip Wang
+
+University of Florida - Fisher School of Accounting
+
+Biqin Xie
+
+Office of Financial Research, U.S. Department of the Treasury
+
+There are 2 versions of this paper
+
+Date Written: June 1, 2022
+
+Abstract
+
+As of November 2016, SEC Regulation (“Reg”) AB II requires issuers of certain types of asset-backed securities (“ABS”) to disclose the credit-risk attributes of each asset in the underlying pool, a substantial expansion of prior disclosure requirements. We examine how ABS issuers’ asset-level disclosures under Reg AB II affect the (e)valuation of ABS by investors and credit rating agencies. Using difference-in-differences models that compare affected and unaffected types of ABS, we find that these disclosures improve the ability of initial ABS yields and credit ratings to predict the performance of the underlying assets. These results are concentrated in deals with above-median risk layering in the underlying assets and complexity in the tranching of credit risk. We further find that asset-level disclosures are associated with lower yields. Lastly, we provide evidence that most prospective ABS investors download asset-level information during the price formation period prior to ABS issuance.
+
+Keywords: asset-backed securities, asset-level disclosures, Reg AB II, transparency, risk layering, credit rating quality
+
+JEL Classification: G21, G24, G28, L1, M41, M48
+
+Suggested Citation:
+
+Neilson, Jed and Ryan, Stephen G. and Wang, Philip and Xie, Biqin, Asset-Level Transparency and the (E)valuation of Asset-Backed Securities (June 1, 2022). Journal of Accounting Research, Volume 60, Issue 3, 2022, Available at SSRN: https://ssrn.com/abstract=4138538
+ Not Available for Download
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+516
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

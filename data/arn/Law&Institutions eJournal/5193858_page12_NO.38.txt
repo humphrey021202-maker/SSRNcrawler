@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Migration Fear, Race-Related Biases and Analyst Forecast Accuracy
+
+SMU Cox School of Business Research Paper No. 25-8
+
+50 Pages Posted: 17 Apr 2025 Last revised: 26 Mar 2025
+
+Chi Wan
+
+San Diego State University
+
+Sean Wang
+
+Southern Methodist University (SMU) - Accounting Department
+
+Yakun Wang
+
+The Chinese University of Hong Kong, Shenzhen - School of Management and Economics; Shenzhen Finance Institute
+
+Alptug Yorulmaz
+
+The Métis Research Laboratory - EM Normandie
+
+Date Written: March 26, 2025
+
+Abstract
+
+This study examines whether heightened migration fear impairs minority analysts' ability to access and convey accurate financial information. Using aggregate U.S. newspaper article counts regarding migration fear as a proxy for society wide sentiment about ethnic minorities and a sample of 1.3 million quarterly earnings announcements over 1990-2023, we find that elevated levels of the Migration Fear Index increase absolute forecast errors for Non-White analysts. For the average firm in our sample, a one standard deviation increase in migration fear leads to an additional 4 cents in EPS forecast error for Non-White analysts. Our results are robust across alternative measures of xenophobia, analyst accuracy, entropy-balanced samples, and fixed effects models. Using shocks to migration fear from the launch of the "Make America Great Again" Campaign in 2015, we observe that the shock selectively impairs Non-White analysts' forecast accuracy. Further analyses reveal that migration fear's impact on Non-White analyst forecast accuracy is driven by ethnic out-group bias, as the negative effects of xenophobia on Non-White analysts disappear when the CEO is also Non-White or when the firm is headquartered in a pro-immigrant area. Findings suggest that elevated levels of the Migration Fear Index lead to reduced information sharing with Non-White analysts, limiting their access to private information from management and thereby increasing their forecast error. We find no evidence of migration fear reducing Non-White accuracy through impaired cognitive processing capacity. These findings underscore the role of societal biases in shaping information access across capital markets, potentially hindering both price discovery and minority analysts' career development.
+
+Keywords: Migration, immigration, financial analyst, earnings forecasts, earnings announcement, forecast accuracy
+
+JEL Classification: J71
+
+Suggested Citation:
+
+Wan, Chi and Wang, Sean and Wang, Yakun and Yorulmaz, Alptug, Migration Fear, Race-Related Biases and Analyst Forecast Accuracy (March 26, 2025). SMU Cox School of Business Research Paper No. 25-8, Available at SSRN: https://ssrn.com/abstract=5193858 or http://dx.doi.org/10.2139/ssrn.5193858
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+G A Akerlof , R E Kranton
+Identity and the economics of organizations
+Journal of Economic Perspectives , volume 19 , issue 1 , p. 9 - 32 Posted: 2005
+M Alsan , O Garrick , G Graziani
+Does diversity matter for health? experimental evidence from oakland
+American Economic Review , volume 109 , issue 12 , p. 4071 - 4111 Posted: 2019
+A Ang , R J Hodrick , Y Xing , X Zhang
+The cross-section of volatility and expected returns
+The Journal of Finance , volume 61 , issue 1 , p. 259 - 299 Posted: 2006
+S R Baker , N Bloom , S J Davis
+Measuring economic policy uncertainty
+The Quarterly Journal of Economics , volume 131 , issue 4 , p. 1593 - 1636 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+81
+ABSTRACT VIEWS
+702
+RANK
+708,207
+55 References
+PlumX Metrics
+Related eJournals
+
+SMU Cox School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

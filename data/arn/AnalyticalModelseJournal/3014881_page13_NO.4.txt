@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A New Perspective on the Benefits of Slack Building Under Participative Budgeting
+
+62 Pages Posted: 9 Aug 2017 Last revised: 1 Dec 2018
+
+Michael Kopel
+
+University of Graz
+
+Christian Riegler
+
+Vienna University of Economics and Business
+
+Georg Thomas Schneider
+
+University of Graz
+
+Date Written: December 1, 2018
+
+Abstract
+
+In contrast to authoritative budgeting, participative budgeting may improve the superior's knowledge and increase the subordinate's motivation, but often comes at the costs of padding budgets and slack building. Consequently, most analytical studies identify slack as one of the major costs of participative budgeting that signifcantly reduce its benefits. Despite these research findings, participative budgeting is widely used in corporate practice. In this paper, we identify a beneficial effect of participative budgeting that has been neglected so far in analytical accounting research. In particular, we argue that slack might have benefits for the firm if the impact of participative budgeting on the firm's supply side is taken into account. We employ a tractable adverse selection model to capture the interactions between budgetary slack and decisions made inside the firm with the firm's choice of production quantity and the supplier's input price decision. We demonstrate that slack building induces an increase in the costs of production, but at the same time might soften supplier pricing. Overall, the interplay between frictions within the firm that are due to agency problems and the supplier's pricing response crucially affect the firm's choice of participative budgeting over authoritative budgeting. The main insight of our paper is that an exclusive focus on intra-firm aspects of budgeting might miss important effects of participative budgeting. It seems fruitful to consider the interaction between external stakeholders and a firm's budgeting approach in future empirical research.
+
+Keywords: Participative Budgeting; Organizational slack; Budget padding; Input Pricing
+
+Suggested Citation:
+
+Kopel, Michael and Riegler, Christian and Schneider, Georg Thomas, A New Perspective on the Benefits of Slack Building Under Participative Budgeting (December 1, 2018). Available at SSRN: https://ssrn.com/abstract=3014881 or http://dx.doi.org/10.2139/ssrn.3014881
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+P Aghion , J Tirole
+Formal and Real Authority in Organizations
+Journal of Political Economy , volume 105 , issue 1 , p. 1 - 29 Posted: 1997
+Crossref
+A Arora , P Alam
+CEO Compensation and Stakeholders Claims
+Contemporary Accounting Research , volume 22 , issue 3 , p. 519 - 547 Posted: 2005
+Crossref
+A Arya , B Mittendorf
+Interacting Supply Chain Distortions: The Pricing of Internal Transfers and External Procurement
+The Accounting Review , volume 82 , p. 551 - 580
+Crossref
+A A Atkinson , R S Kaplan , E M Matsumura , S Young
+Management Accounting Posted: 2007
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+363
+ABSTRACT VIEWS
+2,639
+RANK
+187,924
+2 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

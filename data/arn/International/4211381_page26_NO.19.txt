@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Discounting and the Market Valuation of Defined Benefit Pensions
+
+Queen Mary University London School of Economics and Finance Working Paper No. 932
+
+59 Pages Posted: 21 Oct 2022 Last revised: 16 Jan 2023
+
+luca larcher
+
+Queen Mary University of London - School of Economics and Finance
+
+Francis Breedon
+
+University of London, Queen Mary - School of Economics and Finance
+
+Date Written: September 6, 2022
+
+Abstract
+
+We investigate how defined benefit pension schemes of FTSE firms are valued by the equity market, focusing on how future liabilities are discounted (since UK data allows us to estimate the duration of pension liabilities fairly accurately). We find that equity market valuation is consistent with discounting without allowing for credit risk. This differs from the approach used in published accounts for which IAS 19 (and SFAS No. 158, its US equivalent) allows for discounting with a corporate bond yield. The difference is significant, as credit risk free discounting would decrease the reported value of FTSE 100 firms by about 7%.
+
+Keywords: Defined benefit pensions, IAS 19, Valuation, UK companies
+
+JEL Classification: M41, G32
+
+Suggested Citation:
+
+larcher, luca and Breedon, Francis, Discounting and the Market Valuation of Defined Benefit Pensions (September 6, 2022). Queen Mary University London School of Economics and Finance Working Paper No. 932, Available at SSRN: https://ssrn.com/abstract=4211381 or http://dx.doi.org/10.2139/ssrn.4211381
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+80
+ABSTRACT VIEWS
+578
+RANK
+713,739
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

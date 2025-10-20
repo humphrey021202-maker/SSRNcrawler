@@ -1,0 +1,146 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Impact of Mandatory IFRS Adoption on Conditional Conservatism in Europe
+
+ESSEC Working Paper 1311
+
+42 Pages Posted: 2 Oct 2013 Last revised: 10 Jan 2014
+
+Paul André
+
+University of Bristol Business School
+
+Andrei Filip
+
+Catholic University of Lille - IESEG School of Management
+
+Luc Paugam
+
+HEC Paris, Accounting and Management Control Department; CFA Society France
+
+Date Written: August 27, 2013
+
+Abstract
+
+We study the effect of the mandatory adoption of IFRS in Europe in 2005 on conditional conservatism. To capture conditional conservatism, we use three measures: the Basu (1997) measure, the Khan and Watts (2009) measure, and a measure controlling for potential shifts in unconditional conservatism and cost of capital after the adoption of IFRS. From a sample of 7,251 firm-year observations drawn from 16 European countries, we document an overall decline of the degree of conditional conservatism across our three measures. While there is no change in weak enforcement/governance countries which remain less conditionally conservative than strong enforcement/governance countries, the latter exhibit a significant decrease. Further, we demonstrate that the decline is more significant for firms carrying intangible assets and goodwill in their balance sheets, items for which impairment tests rely on unverifiable fair value estimates. We argue that IFRS are conceptually conditionally conservative but that inappropriate application of conditional conservatism principles may have prevented financial reporting from reaching the level of conservatism targeted by the IASB.
+
+Keywords: Conditional Conservatism, IFRS, Europe, Enforcement, Governance, Intangibles, Impairment
+
+JEL Classification: M41, M48, G38
+
+Suggested Citation:
+
+Andre, Paul and Filip, Andrei and Paugam, Luc, Impact of Mandatory IFRS Adoption on Conditional Conservatism in Europe (August 27, 2013). ESSEC Working Paper 1311, Available at SSRN: https://ssrn.com/abstract=2333532 or http://dx.doi.org/10.2139/ssrn.2333532
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+H Amiraslani , G E Iatridis , P F Pope
+Accounting for asset impairment: A test for IFRS compliance across Europe, A research report by the centre for Financial Aanalysis and Reporting Research
+Cass Business School Posted: 2013
+R Aggarwal , I Erel , R M Stulz , R Williamson
+Differences in Governance Practices between U.S. and Foreign Firms: Measurement, Causes, and Consequences
+Review of Financial Studies , volume 22 , p. 3131 - 3169 Posted: 2009
+Crossref
+A S Ahmed , M Neel , D Wang
+Does mandatory adoption of IFRS improve accounting quality? Preliminary evidence
+Contemporary Accounting Research Posted: 2013
+Crossref
+R Ball , S P Kothari , V V Nikolaev
+On estimating conditional conservatism
+Accounting Review , volume 88 , p. 755 - 787 Posted: 2013
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+251
+ABSTRACT VIEWS
+2,724
+RANK
+278,525
+2 Citations
+59 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

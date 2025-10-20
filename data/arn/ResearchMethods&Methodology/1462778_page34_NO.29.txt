@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Analytical and Empirical Measure of the Degree of Conditional Conservatism
+
+44 Pages Posted: 27 Aug 2009
+
+Jeffrey L. Callen
+
+University of Toronto - Rotman School of Management
+
+Dan Segal
+
+Reichman University
+
+There are 3 versions of this paper
+
+Date Written: August 27, 2009
+
+Abstract
+
+The Vuolteenaho (2002) return decomposition is linear because it assumes that the market's return expectations are obtained solely from accounting information. By restricting accounting recognition rules to specific (and primarily) negative future cash flow shocks, conservative accounting drives a wedge between the market's return expectations that are based upon all positive and negative cash flow shocks and return expectations that are based solely on accounting numbers. This insight allow us to derive analytically a nonlinear relation between revisions to returns and earnings news for conservative firms, of which the Basu relation is a special case. This nonlinear relation is shown to be mathematically equivalent to two linear relations conditioned on the firm's degree of conservatism. From these relations, we derive a model-based measure of the degree of conservatism at the firm-year level which is a function of the determinants of conditional conservatism. To account for the endogeneity of the firm's degree of conservatism and mitigate potential sample selection bias (Dietrich, Muller and Reidl 2007), the model is implemented empirically using a switching regression approach in which the switch point, namely, the degree of conservatism, is both unobservable and endogenously determined. Consistent estimates of the parameters of the switching regression, including the endogenous determinants of conservatism posited by Watts, are obtained by simultaneous maximum likelihood estimation. The results indicate that the degree of conservatism is a positive function of contractual information asymmetry and litigation risk but a negative function of taxes.
+
+Keywords: accounting conservatism, nonlinearity, switching regression
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Callen, Jeffrey L. and Segal, Dan, An Analytical and Empirical Measure of the Degree of Conditional Conservatism (August 27, 2009). Available at SSRN: https://ssrn.com/abstract=1462778 or http://dx.doi.org/10.2139/ssrn.1462778
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+R Antle , J S Demski , S G Ryan
+Multiple Sources of Information, Valuation, and Accounting Earnings
+Journal of Accounting, Auditing and Finance , volume 9 , p. 675 - 696 Posted: 1994
+Crossref
+R Ball , L Shivakumar
+How Much New Information is there in Earnings
+Working Paper Posted: 2008
+Crossref
+Ray Ball , S.P. Kothari , Valeri V. Nikolaev
+Econometrics of the Basu Asymmetric Timeliness Coefficient and Accounting Conservatism
+Chicago Booth Research Paper No. 09-16 Pages: 36 Posted: 13 Jul 2007 Last revised: 19 Feb 2013
+Download PDF  Add Paper to My Library
+S Bar-Yosef , J L Callen , J Livnat
+Autoregressive Modeling of Earnings-Investment Causality
+Journal of Finance , volume 42 , p. 11 - 28 Posted: 1987
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+184
+ABSTRACT VIEWS
+2,066
+RANK
+109,965
+3 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+Singapore Management University School of Accountancy Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

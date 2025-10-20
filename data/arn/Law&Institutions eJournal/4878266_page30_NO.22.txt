@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information Asymmetry and Dividend Policy around the Sarbanes-Oxley Act
+
+Journal of Economic Studies(forthcoming)
+
+43 Pages Posted: 29 Jul 2024
+
+Mostafa Harakeh
+
+American University of Beirut
+
+Ghida Matar
+
+Lebanese American University
+
+Nagham Sayour
+
+Zayed University
+
+Date Written: January 01, 2020
+
+Abstract
+
+Purpose: The literature of financial economics documents a causal relationship between the level of information asymmetry in the firm and its dividend policy. Nevertheless, this relationship suffers endogeneity problems arising from reverse causality and omitted variable bias. The purpose of this study is to examine how the dividend policy reacts to changes in asymmetric information in an exogenous research setting.
+
+Design/methodology/approach: To overcome endogeneity concerns, we employ the enactment of the Sarbanes-Oxley Act (SOX) in the US in 2002 as a source of an exogenous variation in the level of information asymmetry to study the potential effect that this variation might have on the dividend policy. In doing so, we utilize a difference-indifferences research design, in which the treatment group is US publicly traded firms that were exposed to the policy and the control group is publicly traded companies in the UK where SOX was not enacted. Both countries have similar institutional settings and enforcement of laws, which makes them comparable in our research context. Findings: Our findings show that, compared to UK companies, US firms increase their dividend payments following a reduction in asymmetric information as a result of the SOX enactment. 
+
+Originality/value: The study contributes to the literature of financial economics by showing that policy makers can mitigate agency conflicts and protect shareholders by improving the corporate information environment and reducing asymmetric information.
+
+Keywords: Information shocks, Information Asymmetry, Dividend Policy, Corporate Financial Decisions, Sarbanes-Oxley Act
+
+Suggested Citation:
+
+Harakeh, Mostafa and Matar, Ghida and Sayour, Nagham, Information Asymmetry and Dividend Policy around the Sarbanes-Oxley Act (January 01, 2020). Journal of Economic Studies(forthcoming), Available at SSRN: https://ssrn.com/abstract=4878266
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+N Abdioglu , V Bamiatzi , S T Cavusgil , A Khurshed , K Stathopoulos
+Information asymmetry, disclosure and foreign institutional investment: An empirical investigation of the impact of the Sarbanes-Oxley Act
+International Business Review , volume 24 , issue 5 , p. 902 - 915 Posted: 2015
+V Acharya , T Eisert , C Eufinger , C Hirsch
+Real Effects of the Sovereign Debt Crisis in Europe: Evidence from Syndicated Loans
+The Review of Financial Studies , volume 31 , issue 8 , p. 2855 - 2896 Posted: 2018
+G Akerlof
+The Market for "Lemons": Quality Uncertainty and the Market Mechanism , volume 84 , p. 488 - 500 Posted: 1970
+H Al-Shaer , M Harakeh
+Gender Differences in Executive Compensation on British Corporate Boards: The Role of Conditional Conservatism
+Press Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+38
+ABSTRACT VIEWS
+297
+67 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

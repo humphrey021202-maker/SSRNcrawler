@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CFO Country of Origin and Accounting Quality. A Cross-Country Investigation
+
+57 Pages Posted: 20 Mar 2017 Last revised: 17 Jan 2018
+
+Antonio Marra
+
+Bocconi University - Department of Accounting
+
+Date Written: January 16, 2018
+
+Abstract
+
+Prior research has analyzed accounting quality around the world only working on institutional differences mainly at country level. Little research has been devoted to top management cultural values (here defined as CFO’s country of origin), which has turned out to be able to generate unique results on firms’ outcomes. In this work, building a unique hand collected dataset based on 954 unique CFOs across Europe and 4,478 firm-year observations I investigate the effect of CFO country of origin on accounting quality in the European Union. My findings show first, as a validity test, that there is a CFO fixed effect on accounting quality also in a cross-country setting (i.e. outside the US). Then, I show that in the EU foreign CFOs are able to foster accounting quality relative to local peers. Moreover, working on economies clusters I find that CFOs working in insider economies, but born elsewhere (outside this area) are able to marginally improve accounting quality for the firm they work with. On the contrary, this does not apply if a CFO born in an insider economy works outside his area of birth. Finally, working on CFO turnover, I find that overall CFO changes have an effect on accruals quality level. Nonetheless, cross-sectional tests reveal that such changes are significant when CFO turnover happens from CFO born in a low (high) IP country to a CFO born in a high (low) IP country, where accounting quality improves (worsens).
+
+Keywords: Accounting Quality, CFO, CFO culture, Country of Origin, Earnings quality
+
+JEL Classification: M41, M40
+
+Suggested Citation:
+
+Marra, Antonio, CFO Country of Origin and Accounting Quality. A Cross-Country Investigation (January 16, 2018). Available at SSRN: https://ssrn.com/abstract=2935870 or http://dx.doi.org/10.2139/ssrn.2935870
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+A Agrawal , J F Jaffe , J M Karpoff
+Management Turnover and Governance Changes Following the Revelation of Fraud
+Journal of Law & Economics , volume 42 , issue jou_issue[1].xmlText , p. 309 - 342 Posted: 1999
+Crossref
+A Alford , J Jones , R Leftwich , M Zmijewski
+The Relative Informativeness of Accounting Disclosures in Different Countries
+Journal of Accounting Research , volume 31 , p. 183 - 223 Posted: 1993
+Crossref
+A Ali , L-S Hwang
+Country-specific factors related to financial reporting and the value relevance of accounting data
+Journal of Accounting Research , volume 38 , issue 1 , p. 1 - 21 Posted: 2000
+Crossref
+R Ball , S P Kothari , A Robin
+The effect of international institutional factors on properties of accounting earnings
+Journal of Accounting & Economics , volume 29 , p. 1 - 52 Posted: 2000
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+144
+ABSTRACT VIEWS
+1,486
+RANK
+464,511
+32 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

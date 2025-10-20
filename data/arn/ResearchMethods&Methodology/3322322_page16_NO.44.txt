@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Estimating Heterogeneous Reactions to Experimental Treatments
+
+MPI Collective Goods Discussion Paper, No. 2019/1
+
+43 Pages Posted: 25 Jan 2019 Last revised: 14 Jan 2020
+
+Christoph Engel
+
+Max Planck Institute for Research on Collective Goods; University of Bonn - Faculty of Law & Economics; Erasmus University Rotterdam (EUR), Erasmus School of Law, Rotterdam Institute of Law and Economics, Students; Universität Osnabrück - Faculty of Law
+
+Date Written: January 11, 2020
+
+Abstract
+
+Frequently in experiments there is not only variance in the reaction of participants to treatment. The heterogeneity is patterned: discernible types of participants react differently. In principle, a finite mixture model is well suited to simultaneously estimate the probability that a given participant belongs to a certain type, and the reaction of this type to treatment. Yet often, finite mixture models need more data than the experiment provides. The approach requires ex ante knowledge about the number of types. Finite mixture models are hard to estimate for panel data, which is what experiments often generate. For repeated experiments, this paper offers a simple two-step alternative that is much less data hungry, that allows to find the number of types in the data, and that allows for the estimation of panel data models. It combines machine learning methods with classic frequentist statistics.
+
+Keywords: heterogeneous treatment effect, finite mixture model, panel data, two-step approach, machine learning, CART
+
+JEL Classification: C14, C23, C91
+
+Suggested Citation:
+
+Engel, Christoph, Estimating Heterogeneous Reactions to Experimental Treatments (January 11, 2020). MPI Collective Goods Discussion Paper, No. 2019/1, Available at SSRN: https://ssrn.com/abstract=3322322 or http://dx.doi.org/10.2139/ssrn.3322322
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+Daniel Ackerberg , Xiaohong Chen , Jinyong Hahn
+A practical asymptotic variance estimator for two-step semiparametric estimators
+Review of Economics and Statistics , volume 94 , issue 2 , p. 481 - 498 Posted: 2012
+Crossref
+Ahmed Alaa , Mihaela Schaar
+Limits of estimating heterogeneous treatment effects: Guidelines for practical algorithm design
+International Conference on Machine Learning , p. 129 - 138 Posted: 2018
+Susan Athey , Guido Imbens
+Recursive partitioning for heterogeneous causal effects
+Proceedings of the National Academy of Sciences , volume 113 , p. 7353 - 7360 Posted: 2016
+Crossref
+Nicholas Bardsley , G Peter , Moffatt
+The experimetrics of public goods: Inferring motivations from contributions
+Theory and Decision , volume 62 , issue 2 , p. 161 - 193 Posted: 2007
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+90
+ABSTRACT VIEWS
+1,692
+RANK
+662,989
+1 Citations
+53 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

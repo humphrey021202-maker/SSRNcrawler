@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fintech in Financial Reporting and Audit for Fraud Prevention and Safeguarding Equity Investments
+
+Roszkowska, P. (2020), "Fintech in financial reporting and audit for fraud prevention and safeguarding equity investments", Journal of Accounting & Organizational Change, Vol. 17 No. 2, pp. 164-196. https://doi.org/10.1108/JAOC-09-2019-0098
+
+44 Pages Posted: 28 Oct 2020 Last revised: 29 Jul 2021
+
+Paulina Roszkowska
+
+Bayes Business School (formerly Cass); Warsaw School of Economics (SGH)
+
+Date Written: July 7, 2020
+
+Abstract
+
+Purpose – The aim of this paper is to explore the audit-related causes of financial scandals and advise how emerging technologies can provide solutions thereto. Specifically, this study seeks to look at the facilitators of financial statement fraud and explain specific fintech advancements that contribute to financial information reliability for equity investments.
+
+Design/methodology/approach – The study uses the case studies of Enron and Arthur Andersen to document the evidence of audit-related issues in historical financial scandals. Then, a comprehensive and interdisciplinary literature review at the intersection of business, accounting, and engineering, provides a foundation to propose technology advancements that can solve identified problems in accounting and auditing.
+
+Findings – The findings show that blockchain, internet of things, smart contracts and artificial intelligence solutions have different functionality and can effectively solve various financial reporting and audit-related problems. Jointly, they have a strong potential to enhance the reliability of the information in financial statements and generally change how companies operate.
+
+Practical implications – The proposed and explained technology advancements should be of interest to all publicly listed companies and investors, as they can help safeguard equity investments, thus build investors’ trust towards the company.
+
+Social implications – Aside from implications for capital markets participants, the study findings can materially benefit various stakeholder groups, the broader company environment, and the economy.
+
+Originality/value – This is the first paper that seeks solutions to financial fraud and audit-related financial scandals in technology, and not in implementing yet another regulation. Given the recent technology advancements, the study findings provide insights into how the role of an external auditor might evolve in the future.
+
+Keywords: audit, blockchain, equity investment, financial reporting, fintech, internet of things, machine learning, smart contracts
+
+JEL Classification: G10, G15, M42
+
+Suggested Citation:
+
+Roszkowska, Paulina, Fintech in Financial Reporting and Audit for Fraud Prevention and Safeguarding Equity Investments (July 7, 2020). Roszkowska, P. (2020), "Fintech in financial reporting and audit for fraud prevention and safeguarding equity investments", Journal of Accounting & Organizational Change, Vol. 17 No. 2, pp. 164-196. https://doi.org/10.1108/JAOC-09-2019-0098, Available at SSRN: https://ssrn.com/abstract=3679816 or http://dx.doi.org/10.2139/ssrn.3679816
+Download This Paper
+ 
+Open PDF in Browser
+132 References
+D Ackman
+Enron The Incredible
+Forbes.Com Posted: 2002
+D A Appelbaum , A Kogan , M A Vasarhelyi
+Analytical procedures in external auditing: A comprehensive literature survey and framework for external audit analytics
+Journal of Accounting Literature , volume 40 , p. 83 - 101 Posted: 2018
+Crossref
+A Arnold
+Blockchain Is Not A Threat To Accounting, It's An Opportunity Posted: 2018-08
+V Arnold , P A Collier , S A Leech , S G Sutton
+Impact of intelligent decision aids on expert and novice decision-makers' judgments
+Accounting and Finance , volume 44 , issue 1 , p. 1 - 26 Posted: 2004
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,843
+ABSTRACT VIEWS
+3,965
+RANK
+21,228
+6 Citations
+132 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

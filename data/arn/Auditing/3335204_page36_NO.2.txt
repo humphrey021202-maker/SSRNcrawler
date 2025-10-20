@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Prepare for Takeoff: Improving Asset Measurement and Audit Quality with Drone-Enabled Inventory Audit Procedures
+
+Review of Accounting Studies
+
+38 Pages Posted: 7 Mar 2019 Last revised: 26 Jun 2020
+
+Margaret H. Christ
+
+University of Georgia - Terry College of Business
+
+Scott A. Emett
+
+Arizona State University (ASU) - School of Accountancy
+
+Scott L. Summers
+
+Brigham Young University - School of Accountancy
+
+David A. Wood
+
+Brigham Young University - School of Accountancy
+
+Date Written: June 20, 2020
+
+Abstract
+
+Auditors increasingly employ technologies to improve audit quality. Using a design science approach, we examine whether using drones and automated counting software can improve audit quality and thereby improve financial reporting. We assess three dimensions of audit quality—efficiency, effectiveness, and quality of audit documentation. We provide evidence that auditors can perform inventory counts with these technologies much more efficiently than they can with manual techniques, decreasing count time in our study from 681 hours to 19 hours. At the same time, auditors can maintain or improve audit effectiveness with these technologies, decreasing error rates in our study from 0.15% to 0.03%, while providing higher-quality audit documentation. Interviews with national-level partners and audit standard setters highlight impediments to adopting these technologies, including firm concerns about being first movers combined with inability of standard setters to provide guidance at a pace that matches the pace of technological development. Collectively, our results suggest that technology-enabled inventory audits can improve audit quality, and further regulatory guidance on using such technologies would enhance adoption.
+
+Keywords: Drones, Automated Software, Inventory Counting, Inventory, Design Science
+
+JEL Classification: M4, M40, M41, M42, M49, O30, O31
+
+Suggested Citation:
+
+Christ, Margaret H. and Emett, Scott A. and Summers, Scott L. and Wood, David A., Prepare for Takeoff: Improving Asset Measurement and Audit Quality with Drone-Enabled Inventory Audit Procedures (June 20, 2020). Review of Accounting Studies, Available at SSRN: https://ssrn.com/abstract=3335204 or http://dx.doi.org/10.2139/ssrn.3335204
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+D Appelbaum , R A Nehmer
+Using drones in internal and external audits: An exploratory framework
+Journal of Emerging Technologies in Accounting , volume 14 , issue 1 , p. 99 - 113 Posted: 2017
+Crossref
+A Austin , T Carpenter , M H Christ , C Nielson
+The Data Analytics Journey: Interactions among Auditors, Managers, Regulation, and Technology. Working Paper University of Georgia Posted: 2018
+Dereck Barr-Pulliam , Helen L. Brown-Liburd , Kerri Ann Sanderson
+The Effects of the Internal Control Opinion and Use of Audit Data Analytics on Perceptions of Audit Quality, Assurance, and Auditor Negligence
+Auditing: A Journal of Practice & Theory, 41(1): 25-48 Pages: 54 Posted: 21 Aug 2017 Last revised: 7 Mar 2022
+Download PDF  Add Paper to My Library
+W G Bennis , J Toole
+How business schools lost their way
+Harvard Business Review , volume 83 , issue 5 , p. 96 - 104 Posted: 2005
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,840
+ABSTRACT VIEWS
+7,313
+RANK
+21,234
+29 Citations
+32 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

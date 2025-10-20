@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Evaluating Heuristics Used when Designing Product Costing Systems
+
+Management Science, Forthcoming
+
+Posted: 25 Jul 2008 Last revised: 13 Feb 2011
+
+Ramji Balakrishnan
+
+University of Iowa - Department of Accounting
+
+Stephen C. Hansen
+
+University of Southern Maine - School of Business
+
+Eva Labro
+
+University of North Carolina (UNC) at Chapel Hill - Accounting Area
+
+Date Written: November 2010
+
+Abstract
+
+The academic and practitioner literature justifies firms' use of product costs in product pricing and capacity planning decisions as heuristics to address an otherwise intractable problem. However, product costs are the output of a cost reporting system, which itself is the outcome of heuristic design choices. In particular, because of informational limitations, when designing cost systems firms use simple rules of thumb to group resources into cost pools and to select drivers used to allocate the pooled costs to products. Using simulations, we examine how popular choices in costing system design influence the error in reported costs. Taking information needs into account, we offer alternative ways to translate the vague guidance in the literature to implementable methods. Specifically, we compare size-based rules for forming cost pools with more informationally demanding correlation-based rules and develop a blended method that performs well in terms of accuracy. In addition, our analysis suggests that significant gains can be made from using a composite driver rather than selecting a driver based on the consumption pattern for the largest resource only, especially when combined with correlation-based rules to group resources. We vary properties of the underlying cost structure (such as the skewness in resource costs, the traceability of resources to products, the sharing of resources across products, and the variance in resource consumption patterns) to address the generalizability of our findings and to show when different heuristics might be preferred.
+
+Keywords: costing system design, simulation, rules of thumb, heuristics
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Balakrishnan, Ramji and Hansen, Stephen C. and Labro, Eva, Evaluating Heuristics Used when Designing Product Costing Systems (November 2010). Management Science, Forthcoming, Available at SSRN: https://ssrn.com/abstract=1176442
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,969
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Entrepreneurship & Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

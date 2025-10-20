@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation
+
+152 Pages Posted: 10 May 2023 Last revised: 4 Apr 2025
+
+Aditya Chaudhry
+
+Ohio State University - Fisher College of Business
+
+Date Written: May 9, 2023
+
+Abstract
+
+I show that prices impact analyst cash flow expectations and argue this impact can partially reconcile subjective beliefs data with asset pricing models in which investors have rational expectations and discount rate variation drives prices. Previous work argues that correlations of biased analyst cash flow expectations with prices and future returns contradict rational models and imply biased investor expectations distort prices. However, using two instrumental variables for price, I find increases in price unrelated to cash flow news raise analyst cash flow expectations. Based on this empirical finding, I propose a model with rational investors that matches key moments in beliefs data: analysts form biased cash flow expectations by learning from prices that contain discount rate variation. Thus, while stylized facts in beliefs data can be consistent with investors having biased expectations that distort prices, these facts can also be consistent with investors having rational expectations and analysts learning from prices.
+
+Keywords: Asset Pricing, Subjective Beliefs, Expectations, Learning
+
+JEL Classification: G12,G4
+
+Suggested Citation:
+
+Chaudhry, Aditya, The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation (May 9, 2023). Available at SSRN: https://ssrn.com/abstract=4443349 or http://dx.doi.org/10.2139/ssrn.4443349
+Download This Paper
+ 
+Open PDF in Browser
+99 References
+E G Frankel , Lee
+Posted: 1998
+Myers Lee , Swaminathan
+Posted: 1999
+Bouchaud
+Landier and Thesmar (2020) among many others. 11 E.g. Chen Posted: 2013
+De La , O Myers
+Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+883
+ABSTRACT VIEWS
+2,882
+RANK
+62,151
+1 Citations
+99 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

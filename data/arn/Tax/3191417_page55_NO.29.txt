@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Identifying Illegal Subsidies
+
+American University Law Review, 2020, Forthcoming
+
+86 Pages Posted: 20 Jun 2019 Last revised: 4 May 2020
+
+Ruth Mason
+
+University of Virginia School of Law; Max Planck Institute for Tax Law and Public Finance
+
+Date Written: June 5, 2018
+
+Abstract
+
+This Article uses controversy over Apple and other recent EU state-aid cases to explore a defect common to many anti-subsidy regimes that limit states’ ability to use subsidies to interfere with private competition. Anti-subsidy regimes typically rely on tax-expenditure analysis to identify subsidies delivered through the tax law or tax administration. Under this approach, a state confers a tax subsidy when it deviates from its own generally applicable domestic law or procedure to reduce taxes for particular enterprises, such as exporters or multinationals. Special tax reductions could take the form of reduced tax rates, tax deductions, tax credits, or the like. This tax-expenditure approach to identifying subsidies works well when both the domestic law baseline and the “special” or deviating provisions are readily identifiable.
+
+But this approach becomes intractable when the subsidy reviewer and the accused state disagree over how to define the baseline from which tax expenditures (and therefore illegal subsidies) can be measured. This baseline problem is familiar to the tax-expenditure debate, and despite the enormous importance of the tax-expenditure concept to tax policy analysis, fifty years of study has brought little progress in finding a neutral tax baseline against which tax expenditures can be judged.
+
+The European Commission’s need to evaluate tax provisions that were not easily cognizable under traditional tax-expenditure analysis—including structural rules—led it to adopt a new approach to identifying illegal subsidies in recent cases. Instead of evaluating Member State tax rules against a baseline consisting of the challenged state’s own generally applicable tax law, the Commission began to evaluate Member State tax rules against external norms. In some cases, the Commission used an internationally accepted norm; in others, the Commission judged Member State taxes against its own view of good tax policy.
+
+The Commission now finds itself in a double bind. Benchmarking tax subsidies exclusively by reference to domestic law is underinclusive; for example, it regards structural rules as incapable of conveying state aid, regardless of their actual effects on cross-border commerce. But benchmarking by norms replaces policy preferences enacted by elected representatives with the policy preferences of the unelected Commission. Furthermore, because it mistakes mismatches for state aid, benchmarking by norms is overinclusive.
+
+This Article offers an escape from the double bind of tax-expenditure analysis. The European Commission and other subsidy adjudicators could use the U.S. Supreme Court’s internal consistency test to review tax laws. The Supreme Court developed the internal consistency test to analyze dormant Commerce Clause challenges to state tax rules, including structural provisions. Under the test, the Supreme Court assumes all states apply the challenged state’s law. If cross-border tax disadvantages persist despite hypothetical harmonization, they unconstitutionally discriminate against cross-border commerce.
+
+The internal consistency test easily can be adapted for subsidy analysis by looking for cross-border tax advantages rather than disadvantages. The test offers several benefits compared to tax-expenditure analysis.
+
+First, the assumption embedded in the test—that all states apply the challenged state’s rule—has the effect of hypothetically harmonizing Member State tax laws. As a result, if the cross-border tax advantage disappears under the harmony assumption, the Commission can safely conclude that it arose from a tax mismatch, not from discriminatory subsidization by a single state. By preventing the Commission from mistaking tax mismatches for state aid, internal consistency could help the Commission avoid false positives.
+
+Second, economic analysis has shown that the second step of the internal consistency test, which considers the impact on cross-border commerce of the harmonized rule, reveals whether the challenged rule functions equivalently to a tariff or an import or export subsidy. Because this is the precise effect the state aid rules aim to prohibit, internal consistency is a reliable test for state aid.
+
+Third, internal consistency applies the same way to every tax rule—structural or non-structural. By dispensing with the need to identify a baseline—be it the state’s own “normally” applicable law or an external norm—internal consistency completely avoids a major area of dispute between the Commission and the Member States.
+
+
+
+
+
+
+
+Keywords: state aid, apple, fundamental freedoms, tax, corporate tax avoidance, tax expenditures, subsidies, gibraltar
+
+Suggested Citation:
+
+Mason, Ruth, Identifying Illegal Subsidies (June 5, 2018). American University Law Review, 2020, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3191417 or http://dx.doi.org/10.2139/ssrn.3191417
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+on Tax Rulings in Case SA.38945 (ex 2015/NN) (ex 2014/CP) Granted by Luxembourg in Favour of McDonald's Europe , volume 20 Posted: 2018
+Id
+¶ ¶ 111-23 (the conflict involved interpreting the tax-treaty terms "permanent establishment
+Id
+¶ 113 (referring to Article 3(2) of the U.S.-Luxembourg tax treaty). 200. Id. ¶ ¶ 39-41 , volume 46
+AMERICAN UNIVERSITY LAW REVIEW , volume 69
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+732
+ABSTRACT VIEWS
+5,738
+RANK
+79,936
+13 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

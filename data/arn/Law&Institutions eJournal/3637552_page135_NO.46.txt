@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Managers on Systematic Risk
+
+Management Science, Forthcoming
+
+79 Pages Posted: 7 Jul 2020 Last revised: 7 Jul 2022
+
+Antoinette Schoar
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management; National Bureau of Economic Research (NBER)
+
+Kelvin Yeung
+
+City University of Hong Kong (CityU) - College of Business
+
+Luo Zuo
+
+National University of Singapore; National University of Singapore (NUS) - Sustainable & Green Finance Institute (SGFIN)
+
+There are 2 versions of this paper
+
+Date Written: July 7, 2022
+
+Abstract
+
+Tracking the movement of top managers across firms, we document the importance of manager-specific fixed effects in explaining heterogeneity in firm exposures to systematic risk. In equilibrium, manager fixed effects on systematic risk are positively related with manager fixed effects on stock returns. These differences in systematic risk are partially explained by managers’ corporate strategies, such as their preferences for internal growth and financial conservatism. Managers’ early-career experiences of starting their first job in a recession also contribute to differential loadings on systematic risk. These effects are more pronounced when managers wield more influence, as in smaller firms and firms that do not have an independent board. Overall, our results suggest that managers play an important role in shaping a firm’s systematic risk.
+
+Keywords: Manager Fixed Effects, Systematic Risk, Managerial Style.
+
+JEL Classification: G12, G30.
+
+Suggested Citation:
+
+Schoar, Antoinette and Yeung, Kelvin and Zuo, Luo, The Effect of Managers on Systematic Risk (July 7, 2022). Management Science, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3637552 or http://dx.doi.org/10.2139/ssrn.3637552
+Download This Paper
+ 
+Open PDF in Browser
+109 References
+J M Abowd , F Kramarz , D N Margolis
+High wage workers and high wage firms
+Econometrica , volume 67 , issue 2 , p. 251 - 333 Posted: 1999
+J D Angrist , J S Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2008
+C S Armstrong , R Vashishtha
+Executive stock options, differential risk-taking incentives, and firm value
+Journal of Financial Economics , volume 104 , issue 1 , p. 70 - 88 Posted: 2012
+T G Bali , R F Engle , S Murray
+Empirical Asset Pricing: The Cross Section of Stock Returns Posted: 2016
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+466
+ABSTRACT VIEWS
+2,886
+RANK
+125,691
+109 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

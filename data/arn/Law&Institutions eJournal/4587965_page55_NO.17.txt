@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Firms' Tweets and Stock Price Discovery
+
+62 Pages Posted: 27 Oct 2023 Last revised: 27 Aug 2025
+
+Jonathan Berkovitch
+
+Luiss Guido Carli University - Department of Business and Management
+
+Doron Israeli
+
+IDC Herzliya - Arison School of Business; Nazarbayev University - Graduate School of Business
+
+Venkat Subramanian
+
+Graduate School of Business - Nazarbayev University
+
+Date Written: August 27, 2025
+
+Abstract
+
+Do firms’ tweets improve stock price discovery at quarterly earnings announcements? We address this question using a comprehensive sample of tweets released by S&P 1500 firms at quarterly earnings announcements from 2008 through 2021. Firms’ tweets are associated with stronger stock price and volume reactions to earnings announcements. In addition, firms’ tweets reduce investor uncertainty, increase the timeliness and efficiency with which stock prices reflect information, and reduce the post-earnings announcement drift. We document that firms’ tweets improve stock price discovery by enhancing firm visibility and increasing retail investor trading, which facilitate faster incorporation of information into stock prices. Our inferences are robust to a host of control variables, including alternative measures of media coverage, and persist in both a propensity score matched sample and an entropy balanced sample, where firms that use Twitter are matched with similar firms that do not. Our findings are of interest to regulators who wish to improve the informativeness of security prices, investors who are interested in information that affects prices and volume, and managers who seek channels to communicate with investors. 
+
+Keywords: JEL classification: G11, G12, G14, M41 Firms' tweets, Stock price discovery, Informational efficiency of stock prices
+
+JEL Classification: G11, G12, G14, M41
+
+Suggested Citation:
+
+Berkovitch, Jonathan and Israeli, Doron and Subramanian, Venkat, Firms' Tweets and Stock Price Discovery (August 27, 2025). Available at SSRN: https://ssrn.com/abstract=4587965 or http://dx.doi.org/10.2139/ssrn.4587965
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+M Al Guindy
+Corporate Twitter use and cost of equity capital
+Journal of Corporate Finance , volume 68 Posted: 2021
+L S Bamber
+Unexpected Earnings, Volume Around firm Size, Quarterly and Trading Earnings Announcements
+The Accounting Review , volume 62 , issue 3 , p. 510 - 532 Posted: 1987
+B M Barber , T Odean , N Zhu
+Do retail trades move markets? Review of Financial Studies , volume 22 , p. 151 - 186 Posted: 2009
+M E Barth , K H Gee , D Israeli , R Kasznik
+Stock price management and share issuance: Evidence from equity warrants
+Accounting Review , volume 96 , issue 5 , p. 31 - 52 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+221
+ABSTRACT VIEWS
+1,261
+RANK
+315,603
+51 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

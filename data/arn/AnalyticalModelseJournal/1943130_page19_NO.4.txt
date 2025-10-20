@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Design of Financial Maintenance Covenants
+
+75 Pages Posted: 13 Oct 2011 Last revised: 16 Feb 2015
+
+Redouane Elkamhi
+
+University of Toronto - Rotman School of Management
+
+Latchezar Popov
+
+University of Virginia
+
+Raunaq S. Pungaliya
+
+Sungkyunkwan University (SKK) Graduate School of Business
+
+Date Written: February 1, 2015
+
+Abstract
+
+This article focuses on financial maintenance covenants as incentive instruments for borrowers under both moral hazard and adverse selection. We explain why maintenance covenants are conditioned on public information. We examine the effect of the firm's incentive to risk-shift, debt amount, and renegotiation costs on optimal covenants. In an extension of the model, we find that a reduction in financial signal quality 1) moves the equilibrium from pooling to separating, to no covenants at all, and 2) has a non-monotone effect on covenant strictness. We also allow for uncertainty in macroeconomic conditions and characterize state contingent covenants within our framework.
+
+Keywords: Covenants, Moral Hazard, Contract Design
+
+JEL Classification: G32, G21
+
+Suggested Citation:
+
+Elkamhi, Redouane and Popov, Latchezar and Pungaliya, Raunaq S., The Design of Financial Maintenance Covenants (February 1, 2015). Available at SSRN: https://ssrn.com/abstract=1943130 or http://dx.doi.org/10.2139/ssrn.1943130
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+P Aghion , P Bolton
+An Incomplete Contracts Approach to Financial Contracting
+The Review of Economic Studies , volume 59 , issue 3 , p. 473 - 494 Posted: 1992
+Crossref
+J Begley , S Chamberlain
+The Use of Debt Covenants in Public Debt: The Role of Accounting Quality and Reputation Posted: 2005
+Crossref
+M Berlin , L Mester
+Debt Covenants and Renegotiation
+Journal of Financial Intermediation , volume 2 , issue 2 , p. 95 - 133 Posted: 1992
+Crossref
+M Billett , R Elkamhi , R Pungaliya , L Popov
+Bank Skin in the Game and Loan Contract Design: Evidence from Covenant-Lite Loans
+forthcoming in the Journal of Financial and Quantitative Analysis Posted: 2014
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+256
+ABSTRACT VIEWS
+2,085
+RANK
+272,962
+1 Citations
+36 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Recommended Papers
+
+Large-Sample Evidence on the Debt Covenant Hypothesis
+
+By Ilia D. Dichev and Douglas J. Skinner
+
+How Does Financing Impact Investment? The Role of Debt Covenants
+
+By Sudheer Chava and Michael R. Roberts
+
+Syndicated Loans
+
+By Steven A. Dennis and Donald J. Mullineaux
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

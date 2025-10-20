@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Identifying Sanction Busters: An Application of Anomaly Detection Algorithms
+
+29 Pages Posted: 27 Mar 2025
+
+Paul Stricker
+
+Ruhr University of Bochum - Faculty of Economics
+
+Date Written: March 14, 2025
+
+Abstract
+
+Sanction evasion undermines the effectiveness of economic sanctions. This study applies unsupervised anomaly detection algorithms to firm-level financial data to identify companies potentially engaged in sanction evasion. Based on economic reasoning, hypotheses are developed on how sanction-busting activities might manifest in financial statements. Using firm data from the Orbis database, three detection techniques (univariate outlier detection, Mahalanobis distance, and Local Outlier Factor) are employed to flag anomalous firms, and a RIPPER rule-based classifier further categorizes detected anomalies based on financial characteristics. The results show that unsupervised anomaly detection effectively identifies firms warranting further investigation, with three out of eight web-searched firms exhibiting economic ties to Russia post-2022. These findings demonstrate that financial anomalies can serve as an indicator of suspicious business activity, warranting closer scrutiny by regulators.
+
+Keywords: Sanction Evasion, Anomaly Detection, Financial Forensics F23
+
+JEL Classification: F23, F51, K42
+
+Suggested Citation:
+
+Stricker, Paul, Identifying Sanction Busters: An Application of Anomaly Detection Algorithms (March 14, 2025). Available at SSRN: https://ssrn.com/abstract=5178567 or http://dx.doi.org/10.2139/ssrn.5178567
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+Adnoc References , Drilling
+Company website Posted: 2025-02-19
+Charu C Aggarwal
+Outlier Analysis Posted: 2013
+Al Seer , Marine
+Company website Posted: 2025-02-19
+Abdullah ; Albizri , Appelbaum , ; Deniz , Nicholas Rizzotto
+Evaluation of financial statements fraud detection research: a multi-disciplinary analysis
+In Int J Discl Gov , volume 16 , issue 4 , p. 206 - 241 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+56
+ABSTRACT VIEWS
+536
+RANK
+872,402
+39 References
+PlumX Metrics
+Related eJournals
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

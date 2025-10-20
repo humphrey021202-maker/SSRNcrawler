@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Using Large Language Models to Explore Contextualization Effects in Economics-Based Accounting Experiments
+
+127 Pages Posted: 17 Jul 2024 Last revised: 13 Dec 2024
+
+Fikir W. Edossa
+
+Humboldt University of Berlin - School of Business and Economics; TRR 266 Accounting for Transparency
+
+Joachim Gassen
+
+Humboldt University of Berlin - School of Business and Economics; TRR 266 Accounting for Transparency
+
+Victor S. Maas
+
+University of Amsterdam - Amsterdam Business School
+
+Date Written: November 28, 2024
+
+Abstract
+
+Most economics-based experimental accounting research tests hypotheses about the behavior of professionals in business settings. There is an ongoing debate about whether the specific business context should be made explicit in experiments, or whether researchers should instead rely on abstract, stylized settings with neutrally framed instructions. In this paper, we argue that the effects of contextualization are highly idiosyncratic and therefore difficult to anticipate without empirical testing. We then conjecture that large language models (LLMs) can be helpful to researchers designing experiments. We introduce “botex”, a software tool that allows researchers to run pilot tests with simulated participants. We illustrate the use of botex in a series of experiments comparing neutral and contextualized versions of three widely-used experimental games. We find that contextualization has significant, but not always consistent or straightforward effects on participants’ behavior, highlighting the potential value of using LLMs in the experimental design.
+
+Keywords: Framing, Large Language Models, Experiments, Games, Contextualization
+
+JEL Classification: B49, C81, C88, C90, D90, M40, M50
+
+Suggested Citation:
+
+Edossa, Fikir Worku and Gassen, Joachim and Maas, Victor S., Using Large Language Models to Explore Contextualization Effects in Economics-Based Accounting Experiments (November 28, 2024). Available at SSRN: https://ssrn.com/abstract=4891763 or http://dx.doi.org/10.2139/ssrn.4891763
+Download This Paper
+ 
+Open PDF in Browser
+83 References
+A Alekseev , G Charness , U Gneezy
+Experimental methods: When and why contextual instructions are important
+Journal of Economic Behavior & Organization , volume 134 , p. 48 - 59 Posted: 2017
+S W Anderson , M M Cheng , Y S Phua
+Influence of control precision and prior collaboration experience on trust and cooperation in inter-organizational relationships
+The Accounting Review , volume 97 , issue 6 , p. 1 - 22 Posted: 2022
+R Antle , G D Eppen
+Capital rationing and organizational slack in capital budgeting
+Management Science , volume 31 , issue 2 , p. 163 - 174 Posted: 1985
+L P Argyle , E C Busby , N Fulda , J R Gubler , C Rytting , D Wingate
+Out of one, many: Using language models to simulate human samples
+Political Analysis , p. 1 - 15 Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+450
+ABSTRACT VIEWS
+1,874
+RANK
+147,101
+83 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

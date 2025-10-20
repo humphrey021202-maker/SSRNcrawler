@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Abnormal CSR and Financial Performance
+
+European Accounting Review (2022, Forthcoming)
+
+46 Pages Posted: 8 Jun 2022
+
+Kerstin Lopatta
+
+University of Hamburg - Faculty of Business, Economics, and Social Sciences
+
+Felix Canitz
+
+University of Oldenburg
+
+Sebastian A. Tideman-Frappart
+
+Syracuse University
+
+Date Written: May 25, 2022
+
+Abstract
+
+This study develops a corporate social responsibility (CSR) measure for abnormal CSR. Based on a microeconomic framework, we argue and show that firm-level variables determine a firm-specific, normal (expected) level of CSR performance, where the marginal costs of CSR equal its marginal benefits. Any deviation from these equilibrium points is a proxy for abnormal CSR, which is negatively related to a firm’s short-term financial performance. Hereby, larger values result in proportionally larger decreases in financial performance (inverted U-shape). We conduct our empirical analyses using cross-sectional CSR performance data for U.S. listed companies from 1991 to 2013. Further analyses reveal that this negative effect of abnormal CSR exists for both positive and negative abnormal CSR. Our results hold for alternative measures of firm and CSR performance, an instrumental variable regression, and propensity score matching. Our model could serve as a first indicator for abnormal CSR for investors and other stakeholders.
+
+Keywords: Corporate Social Responsibility, CSR, Profitability, Abnormal CSR
+
+JEL Classification: M10, M40, Q50, Q56
+
+Suggested Citation:
+
+Lopatta, Kerstin and Canitz, Felix and Tideman-Frappart, Sebastian A., Abnormal CSR and Financial Performance (May 25, 2022). European Accounting Review (2022, Forthcoming), Available at SSRN: https://ssrn.com/abstract=4119559
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+H References Aguinis , A Glavas
+What we know and what we don't know about corporate social responsibility: A review and research agenda
+Journal of Management , volume 38 , issue 4 , p. 932 - 968 Posted: 2012
+P Bansal
+From issues to actions: The importance of individual concerns and organizational values in responding to natural environmental issues
+Organization Science , volume 14 , issue 5 , p. 510 - 527 Posted: 2003
+A Barnea , A Rubin
+Corporate social responsibility as a conflict between shareholders
+Journal of Business Ethics , volume 97 , issue 1 , p. 71 - 86 Posted: 2010
+J B Barney
+Resource-based theories of competitive advantage: A ten-year retrospective on the resource-based view
+Journal of Management , volume 27 , issue 6 , p. 643 - 650 Posted: 2001
+Load more
+2 Citations
+Christian Sparrer , Ralf Laschinger
+The Corporate Payout Puzzle: About the Payout Policy between CSI and CSR
+JBF-D-23-01299 · 48 Pages · Posted: 16 Dec 2023 · Downloads: 261
+Download PDF  Add Paper to My Library
+Jiaji An , He Di , Qiong Fu
+Do Banks' CSR Efforts that Focus on Specific Stakeholder Sets Lead to Financial Returns? An Fsqca Approach with Evidence from China
+FRL-D-24-00583 · 11 Pages · Posted: 14 Feb 2024 · Downloads: 28
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+303
+ABSTRACT VIEWS
+1,298
+RANK
+229,218
+2 Citations
+77 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

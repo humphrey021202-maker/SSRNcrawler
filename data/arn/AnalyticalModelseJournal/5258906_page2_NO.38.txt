@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Expected Loss Model and Model-Based Regulation: Unintended Effects on Income Smoothing
+
+30 Pages Posted: 18 May 2025
+
+Mariana González-Alzueta
+
+University of Oviedo
+
+Francisco González
+
+Universidad de Oviedo
+
+Abstract
+
+We analyze how the adoption of the expected credit loss (ECL) model by European banks in January 2018 affected income smoothing through loan loss provisions depending on the use of internal ratings-based (IRB) models. Using a difference-in-differences (DID) approach on a sample of 2,280 banks from 26 European countries, we find that IRB banks increased income smoothing relative to banks using standardized models after the adoption of the ECL model. These results hold after controlling for bank listing status, the type of supervisory authority, and a comprehensive set of control variables related to the capital management and risk-taking hypotheses.
+
+Keywords: Income smoothing, Loan-loss provisions, Expected loss model, IFRS 9, IRB
+
+Suggested Citation:
+
+González-Alzueta, Mariana and González, Francisco, The Expected Loss Model and Model-Based Regulation: Unintended Effects on Income Smoothing. Available at SSRN: https://ssrn.com/abstract=5258906 or http://dx.doi.org/10.2139/ssrn.5258906
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+References
+J Abad , J Suarez
+The procyclicality of expected credit loss provisions
+CEPR Discussion Paper No. DP13135 Posted: 2018
+V V Acharya , K V Subramanian
+Bankruptcy codes and innovation
+Rev. Financ. Stud , volume 22 , p. 4949 - 4988 Posted: 2009
+A S Ahmed , D Takeda , S Thomas
+Bank LLP: A reexamination of capital management, earnings management and signaling effects
+J. of Account. and Econ , volume 28 , p. 1 - 25 Posted: 1999
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+37
+ABSTRACT VIEWS
+229
+46 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Risk Management & Analysis in Financial Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

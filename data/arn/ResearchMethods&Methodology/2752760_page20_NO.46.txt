@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Program Evaluation with Right-Censored Data
+
+40 Pages Posted: 14 Apr 2016
+
+Pedro H. C. Sant'Anna
+
+Vanderbilt University - College of Arts and Science - Department of Economics
+
+Date Written: April 9, 2016
+
+Abstract
+
+In a unified framework, we provide estimators and confidence bands for a variety of treatment effects when the outcome of interest, typically a duration, is subjected to right censoring. Our methodology accommodates average, distributional, and quantile treatment effects under different identifying assumptions including unconfoundedness, local treatment effects, and nonlinear differences-in-differences. The proposed estimators are easy to implement, have close-form representation, are fully data-driven upon estimation of nuisance parameters, and do not rely on parametric distributional assumptions, shape restrictions, or on restricting the potential treatment effect heterogeneity across different subpopulations. These treatment effects results are obtained as a consequence of more general results on two-step Kaplan-Meier estimators that are of independent interest: we provide conditions for applying (i) uniform law of large numbers, (ii) functional central limit theorems, and (iii) we prove the validity of the ordinary nonparametric bootstrap in a two-step estimation procedure where the outcome of interest may be randomly censored.
+
+Keywords: Kaplan-Meier Integrals, Survival Analysis; Policy Evaluation, Treatment effects, Duration models
+
+Suggested Citation:
+
+Sant'Anna, Pedro H. C., Program Evaluation with Right-Censored Data (April 9, 2016). Available at SSRN: https://ssrn.com/abstract=2752760 or http://dx.doi.org/10.2139/ssrn.2752760
+Download This Paper
+ 
+Open PDF in Browser
+86 References
+A Abadie
+Bootstrap tests for distributional treatment effects in instrumental variable models
+Journal of the American Statistical Association , volume 97 , p. 231 - 263 Posted: 2002
+A Abadie , J D Angrist , G W Imbens
+Instrumental variables estimates of the effect of subsidized training on the quantiles of trainee earnings
+Econometrica , volume 70 , p. 91 - 117 Posted: 2002
+Crossref
+J H Abbring , G J Van Den , Berg
+The nonparametric identification of treatment effects in duration models
+Econometrica , volume 71 , p. 1491 - 1517 Posted: 2003
+Crossref
+M G Akritas
+The central limit theorem under censoring Posted: 2000
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+502
+ABSTRACT VIEWS
+2,796
+RANK
+129,029
+8 Citations
+86 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

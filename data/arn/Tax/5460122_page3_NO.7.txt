@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CLUSTER ANALYSIS ON THE PERFORMANCE OF TAX ADMINISTRATIONS IN THE EUROPEAN UNION
+
+21 Pages Posted: 9 Sep 2025
+
+Daniela Pirvu
+
+affiliation not provided to SSRN
+
+Carmen Mihaela Mogoiu
+
+affiliation not provided to SSRN
+
+Claudia STANCIU-TOLEA
+
+affiliation not provided to SSRN
+
+Abstract
+
+This study explores the use of cluster analysis to group the tax administrations of EU member states according to their characteristics and performance.Given the constantly changing economic environment, the tax administrations need to optimize their revenue collection strategies, while maintaining the balance between efficiency, administrative costs and tax compliance. This study aims to assess the performance structure of tax administrations applying segmentation techniques, facilitating the identification of groups of countries with similar characteristics and highlighting the differences between them.The cluster analysis allows classifying the tax administrations into homogeneous groups, using relevant indicators such as the share of tax revenues in GDP, the contribution of different tax categories to the collected and the administrative costs associated with collection. This methodology highlights the common patterns among the UE countries and identifies the most efficient tax models. The comparative analysis of clusters in two years (2018 and 2022) allows the identification of changes in the tax systems of the EU member states (the variations in the structure of tax revenues, the administration costs and the impact of tax reforms implemented during this period). This analysis also shows the existing discrepancies between the EU tax administrations and to identifies the most efficient tax practices, providing suggestions to improve the tax performance in the states with difficulties in this area.
+
+Keywords: cluster analysis, performance, tax administrations
+
+Suggested Citation:
+
+Pirvu, Daniela and Mogoiu, Carmen Mihaela and STANCIU-TOLEA, Claudia, CLUSTER ANALYSIS ON THE PERFORMANCE OF TAX ADMINISTRATIONS IN THE EUROPEAN UNION. Available at SSRN: https://ssrn.com/abstract=5460122 or http://dx.doi.org/10.2139/ssrn.5460122
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+M C Basri , M Felix , R. -Olken Hanna , B A
+Tax Administration vs. Tax Rates: Evidence from Corporate Taxation in Indonesia Posted: 2019
+J M Cordero , D.-C. -Francisco Carlos , P.-C. -Nickolaos , G T , W J Crandall
+A conditional directional distance function approach for measuring tax collection efficiency: Evidence from Spanish regional offices
+International Transactions in Operational Research , volume 28 Posted: 2010
+A E Efecan
+How Tax Wedge of Low and Upper-income Households Affects Income Distribution: Findings from OECD Countries
+Prague Economic Papers , volume 32 , issue 3 , p. 246 - 272 Posted: 2023
+C Evans
+The operating costs of taxation: A review of the research
+Economic Affairs , volume 21 , issue 2 , p. 5 - 9 Posted: 2001
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+14
+ABSTRACT VIEWS
+43
+22 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

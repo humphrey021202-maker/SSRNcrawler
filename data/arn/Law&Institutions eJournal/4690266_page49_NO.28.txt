@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting for Environmental Cost
+
+48 Pages Posted: 10 Jan 2024 Last revised: 30 Apr 2024
+
+Sanjay Bissessur
+
+Amsterdam Business School - University of Amsterdam
+
+Date Written: April 30, 2024
+
+Abstract
+
+Using a sample of US firms, this papers empirically tests if disclosed environmental cost display
+earnings recognition timeliness, and how the timeliness of disclosed environmental costs
+relates to the timeliness of recognized earnings and its components. First, results suggest
+that disclosed environmental cost displays timeliness, but at a low magnitude compared to
+recognized costs. Second, environmental cost display asymmetric timeliness, however at a
+lower rate than special items, and more comparable to core expenses. Timeliness of disclosed
+environmental cost is driven by (Scope 1) Greenhouse Gas costs, and is especially relevant
+for high intensity (i.e. emissions scaled by revenue) and high impact (i.e. environmental
+cost scaled by revenue) firms, and firms who do not have an ESG rating and are subject to
+regulatory fragmentation. Using the 2016 Paris Agreement on Climate Change as a plausibly
+exogenous shock in a difference-in-difference test shows that the asymmetric timeliness of
+disclosed environmental cost is driven by both economic and regulatory risk. Taken together,
+results suggest that environmental cost are treated as net operating assets. However, recognition
+rates are more similar to matched core expenses than long term expectations expenses.
+The results of this paper inform on whether the recognition of environmental expenses as
+separate line items should be considered by regulators and standard setter.
+
+Keywords: Environmental Cost, Earnings Recognition Timeliness, Revenue Recognition, Conservatism, Matching
+
+JEL Classification: M41, G38, E44, E52, E58
+
+Suggested Citation:
+
+Bissessur, Sanjay, Accounting for Environmental Cost (April 30, 2024). Available at SSRN: https://ssrn.com/abstract=4690266
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+J Aswani , A Raghunandan , S
+Are Carbon Emissions Associated with Stock Returns?
+Review of Finance , volume 28 , issue 1 , p. 75 - 106 Posted: 2024
+J Azar , M Duro , I Kadach , G Ormazabal
+The Big Three and corporate carbon emissions around the world
+Journal of Financial Economics , volume 142 , issue 2 , p. 674 - 696 Posted: 2021
+M Badia , M Duro , F Penalva , S G Ryan
+Debiasing the Measurement of Conditional Conservatism
+Journal of Accounting Research , volume 59 , issue 4 , p. 1221 - 1259 Posted: 2021
+T E Bakke , F Z Feng , H Mahmudi , C H Zhu
+Foreign competition and CEO risk-incentive compensation
+Journal of Corporate Finance , volume 76 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+132
+ABSTRACT VIEWS
+871
+RANK
+499,012
+38 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Materiality in sustainability reporting according to the European Sustainability Reporting Standards - (What) does it matter?
+
+11 Pages Posted: 13 Feb 2024
+
+Lars Moratis
+
+University of Antwerp - Antwerp Management School
+
+Luc Van Liedekerke
+
+KU Leuven
+
+Date Written: January 22, 2024
+
+Abstract
+
+As of January 2024 the Corporate Sustainability Reporting Directive (CSRD) will be in force. The CSRD is an elaboration of and replaces the already in 2014 adopted Non-Financial Reporting Directive (NFRD) that requires over 10,000 large European companies to report about non-financial aspects, notably sustainability, in addition to their financial annual report.
+
+The idea is to enhance transparency and accountability as to prevent greenwashing and encourage companies to increase their sustainability efforts in order to contribute to the European Green Deal agenda. The scope of CSRD reaches beyond this, though. Some 50,000 European companies will gradually, starting from reporting year 2024, have to comply with the requirements laid down within the CSRD – and the scope of the CSRD will increase in the course of time and include non-European companies that have business operations in Europe as well.
+
+Against the backdrop of creating a worldwide standard or minimum threshold for sustainability in general and more specifically for sustainability reporting, the CSRD comprises a set of rather detailed reporting guidelines. These guidelines are known as the European Sustainability Reporting Standards (ESRS) and were adopted by the European Commission in July 2023.
+
+Globally speaking, the ESRS are, both in spirit and contents, comparable to other standards for sustainability reporting, such as those of the Global Reporting Initiative (GRI). In addition to general corporate information the ESRS require companies to report in a detailed fashion by providing quantitative and qualitative information about environmental aspects, social aspects, and governance aspects that have been grouped into two general standards and 10 topical standards.
+The concept of materiality, notably the concept of double materiality, is a key part of the ESRS.
+
+Through a materiality assessment, companies need to determine which parts of the ESRS are the most relevant or important to both them and their stakeholders. Although the principle of materiality has been a mainstream starting point within accountancy practice and has developed into a cornerstone for non-financial reporting, this principle is not as evident, straightforward, and objective as it may seem, especially when it comes to sustainability-related information. Companies, for example, have a lot of degrees of freedom when assessing materiality. In addition, materiality is not a static concept. This may compromise the value of materiality assessments for both companies and their stakeholders.
+
+The objective of this paper is to clarify the principle of (double) materiality as it has taken center stage within the ESRS, and investigate where potential problems for companies and the practice of sustainability reporting may reside. In doing so, we discuss the process of assessing materiality in more depth and reflect on the consequences of the normativity that is inherent to the materiality concept. We end this paper with several conclusions and implications based on our analysis and findings.
+
+Keywords: Sustainability Reporting, Sustainability, ESRS, Materiality, Double Materiality, Normativity, Stakeholders
+
+JEL Classification: M14, M16, M40
+
+Suggested Citation:
+
+Moratis, Lars and Van Liedekerke, Luc, Materiality in sustainability reporting according to the European Sustainability Reporting Standards - (What) does it matter? (January 22, 2024). Available at SSRN: https://ssrn.com/abstract=4702851 or http://dx.doi.org/10.2139/ssrn.4702851
+Download This Paper
+ 
+Open PDF in Browser
+6 References
+AA1000 Accountability Principles Posted: 2018
+D Allison-Hope , P Muñoz Quick , C Bancilhon
+Impact-based materiality Posted: 2022
+R Eccles , M Krzus , S Ribot
+The integrated repor ng movement: Meaning, momentum, mo ves, and materiality Posted: 2014
+Annex to the Commission Delegated Regula on (EU) supplemen ng Direc ve 2013/34/EU of the European Parliament and of the Council as regards sustainability repor ng standards Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+616
+ABSTRACT VIEWS
+2,247
+RANK
+99,786
+6 References
+PlumX Metrics
+Related eJournals
+
+Corporate Governance & Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Taxing Financial Transactions in Fundamentally Heterogeneous Markets
+
+22 Pages Posted: 31 May 2016
+
+Edoardo Gaffeo
+
+University of Trento - Department of Economics and Management
+
+Massimo Molinari
+
+Bank of Italy
+
+Date Written: May 30, 2016
+
+Abstract
+
+The recent global financial crisis has revived a well-honored debate on the desirability and feasibility of taxing financial activities to curb speculation and promote price stability. In this paper we apply agent-based computational techniques to explore this issue in a multi-market environment in which the processes driving the fundamental value of the securities traded in different jurisdictions are heterogeneous. A natural exemplification is to assume that security dealers have the opportunity of submitting orders by choosing among stock markets at different stages of development. We argue that the proper policy objective to be targeted is not volatility in itself, but that in excess of the discounted stream of subsequent dividends, that is price efficiency. In this case, a global coordination is incentive-compatible, given that it minimizes the distortion associated to speculative trading on the one hand, and it ensures that the loss of trading volume is lower if compared to the case of unilateral taxation on the other one. Notwithstanding a fundamental heterogeneity of the markets involved, the optimal tax rate turns out to be uniform.
+
+Keywords: Agent-based models, Financial transaction tax, Heterogeneous traders
+
+JEL Classification: C63, D53, G18
+
+Suggested Citation:
+
+Gaffeo, Edoardo and Molinari, Massimo, Taxing Financial Transactions in Fundamentally Heterogeneous Markets (May 30, 2016). Available at SSRN: https://ssrn.com/abstract=2786691 or http://dx.doi.org/10.2139/ssrn.2786691
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+T Andersen , T Bollerslev , F Diebold , C Vega
+Real-time price discovery in global stock. bond and foreign exchange markets
+Journal of International Economics , volume 73 , p. 251 - 277 Posted: 2007
+Crossref
+B Baltagi , D Li , Q Li
+Transaction tax and stock market behavior: evidence from and emerging market
+Empirical Economics , volume 31 , p. 393 - 408 Posted: 2006
+Crossref
+G Bekaert , C Harvey
+Emerging equity market volatility
+Journal of Financial Economics , volume 43 , p. 29 - 77 Posted: 1997
+Crossref
+T Bresnahan , P Milgrom , J Paul
+The real output of the stock exchange
+Output Measurement in the Service Sectors. Chicago Posted: 1992
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+74
+ABSTRACT VIEWS
+1,866
+RANK
+747,753
+40 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Regulation of Financial Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

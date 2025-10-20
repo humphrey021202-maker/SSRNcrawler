@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Governance and Success in U.S. Securities-Based Crowdfunding
+
+72 Pages Posted: 12 Nov 2021 Last revised: 7 Jul 2023
+
+Douglas J. Cumming
+
+Stevens Institute of Technology - School of Business; European Corporate Governance Institute (ECGI)
+
+Sofia Johan
+
+Florida Atlantic University - Finance; University of Vaasa; Tilburg Law and Economics Center (TILEC)
+
+Robert S. Reardon
+
+Elon University - Love School of Business; Florida Atlantic University
+
+Date Written: May 24, 2023
+
+Abstract
+
+We examine the relevance of four governance mechanisms for securities-based crowdfunding campaign success through mitigating pronounced information asymmetries and agency problems. First, unlike IPOs for which the effect of Delaware incorporation has declined or disappeared over time, we propose Delaware incorporation matters a great deal for success in the new setting of securities-based crowdfunding. Second, we propose that the disclosure of two years of financial statement information has an immaterial effect on crowdfunding success due to limited forecasting ability. Third, we propose that the choice of security type is a critical determinant for securities-based crowdfunding success. Last, we propose that platforms as intermediaries between entrepreneurs and investors play an important role in mitigating and sometimes exacerbating information asymmetries and agency problems. The population of securities-based crowdfunding campaigns from market inception in May 2016 to December 2021 in the United States provides strong support for these propositions.
+
+Keywords: Equity Crowdfunding, Governance, Delaware Incorporation, Fintech, COVID-19
+
+JEL Classification: G21, G28, G51
+
+Suggested Citation:
+
+Cumming, Douglas J. and Johan, Sofia A. and Reardon, Robert S., Governance and Success in U.S. Securities-Based Crowdfunding (May 24, 2023). Available at SSRN: https://ssrn.com/abstract=3950966 or http://dx.doi.org/10.2139/ssrn.3950966
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+A Agrawal , C Catalini , A Goldfarb
+Crowdfunding: Geography, social networks, and the timing of investment decisions
+Journal of Economics & Management Strategy , volume 24 , issue 2 , p. 253 - 274 Posted: 2015
+G K Ahlers , D Cumming , C Gunther , D Schweizer
+Signaling in equity crowdfunding , volume 39 , p. 955 - 998 Posted: 2015
+F Allen , X Gu , J Jagtiani
+A Survey of Fintech Research and Policy Discussion
+Review of Corporate Finance , volume 1 , issue 3-4 , p. 259 - 339 Posted: 2021
+D B Audretsch , M C Keilbach , E E Lehmann
+Entrepreneurship and economic growth Posted: 2006
+Load more
+4 Citations
+Krzysztof Lorenz , Piotr Gutowski , Ewelina Gutowska , Izabela Rejer
+Analysis of the dynamics of social mobilization – crowdfunding and charitable collections in Poland
+Procedia Computer Science , volume 246 , p. 3361 Posted: 2024
+Crossref
+Massimo G. Colombo , Kourosh Shafi
+Firms’ venture capital affiliation, platforms’ “skin in the game” and the success of equity crowdfunding campaigns
+Journal of Industrial and Business Economics Posted: 2025
+Crossref
+Douglas Cumming , Robert S. Reardon
+COVID-19 and entrepreneurial processes in US equity crowdfunding
+Journal of Small Business Management , volume 61 , issue 5 , p. 2326 Posted: 2023
+Crossref
+Elena Borin , Giulia Fantini
+Participatory Governance as a Success Factor in Equity Crowdfunding Campaigns for Cultural Heritage
+Journal of Risk and Financial Management , volume 16 , issue 3 , p. 172 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+383
+ABSTRACT VIEWS
+1,905
+RANK
+177,110
+4 Citations
+63 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

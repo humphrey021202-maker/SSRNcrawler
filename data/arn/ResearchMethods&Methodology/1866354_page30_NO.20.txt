@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A General Differences-in-Differences Research Design for Evaluating Firms Deviations from Expectations
+
+45 Pages Posted: 20 Jun 2011 Last revised: 9 Jan 2012
+
+David G. Harris
+
+Syracuse University - Joseph I. Lubin School of Accounting
+
+Linna Shi
+
+University of Cincinnati - Lindner College of Business
+
+Date Written: january 1, 2012
+
+Abstract
+
+In this paper we set forth a robust and generalized research design for investigating potential EM and other firm behaviors hypothesized to deviate from some expected value. The design is robust in that it relies only on conservative rank-based variables and utilizes binomial test statistics, in addition to a bootstrap. Multiple regressions are proposed that rely only on indicator variables which are more conservative and robust than continuous-variables’ correlations. It is generalized in that it can capture hypothesized EM of many types, including positive, negative, large and small deviations. This design has wide potential application in that it can be applied in many accounting and finance research settings where firms’ deviations from expectations can be estimated in that it suggests how such deviations can be robustly associated with other factors of interest, such as firms’ performance, or management compensation, as well as managing reported financial income.
+
+Keywords: statistics, earnings management
+
+JEL Classification: G31, M40, M41
+
+Suggested Citation:
+
+Harris, David G. and Shi, Linna, A General Differences-in-Differences Research Design for Evaluating Firms Deviations from Expectations (january 1, 2012). Available at SSRN: https://ssrn.com/abstract=1866354 or http://dx.doi.org/10.2139/ssrn.1866354
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+B Ayers , J Jiang , E Yeung
+Discretionary accruals and earnings management: An analysis of pseudo earnings targets
+The Accounting Review , volume 81 , p. 617 - 652 Posted: 2006
+Crossref
+M Barth , J Elliott , M Finn
+Market rewards associated with patterns of increasing earnings
+Journal of Accounting Research , volume 32 , p. 387 - 413 Posted: 1999
+Crossref
+W Beaver , M Mcnichols , K Nelson
+An alternative interpretation of the discontinuity in earnings distributions
+Review of Accounting Studies , volume 12 , p. 525 - 556 Posted: 2007
+Crossref
+D Burgstahler , I Dichev
+Earnings management to avoid earnings decreases and losses
+Journal of Accounting and Economics , volume 24 , p. 99 - 126 Posted: 1997
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+151
+ABSTRACT VIEWS
+1,566
+RANK
+446,506
+2 Citations
+18 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Recommended Papers
+
+Detecting Earnings Management: A New Approach
+
+By Patricia Dechow, Amy P. Hutton, ...
+
+A Review of the Earnings Management Literature and its Implications for Standard Setting
+
+By Paul M. Healy and James Michael Wahlen
+
+Errors in Estimating Accruals: Implications for Empirical Research
+
+By Daniel W. Collins and Paul Hribar
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

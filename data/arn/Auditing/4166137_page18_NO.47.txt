@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does PCAOB regulatory enforcement deter low quality audits?
+
+55 Pages Posted: 8 Aug 2022
+
+Phillip T. Lamoreaux
+
+Arizona State University
+
+Michael J. Mowchan
+
+Baylor University
+
+Wei Zhang
+
+University of Massachusetts Amherst - Isenberg School of Management
+
+Date Written: July 14, 2022
+
+Abstract
+
+Regulatory economics suggests that one benefit of public enforcement is the deterrence of improper conduct. Using a difference-in-differences design, we investigate whether a deterrence effect follows the revelation of PCAOB enforcement. We find that large audit firm offices improve audit quality following enforcement naming another office within their firm while small firm offices improve following enforcement of local small firm competitors, with these responses varying by enforcement type. To understand potential mechanisms for the geographic deterrence effect, we examine the first occurrence of a revoked PCAOB registration within a market and find that results are stronger if there is greater news coverage or if non-sanctioned firms are in closer proximity to the sanctioned auditor. Supplemental tests reveal that results are stronger when non-sanctioned auditor clients are similar to the sanctioned firm’s clientele. Our findings suggest a positive, but varied deterrence effect following PCAOB enforcement.
+
+Keywords: PCAOB enforcement, audit quality, regulation, restatements, sanctions
+
+JEL Classification: G38, M42, M48
+
+Suggested Citation:
+
+Lamoreaux, Phillip T. and Mowchan, Michael J. and Zhang, Wei, Does PCAOB regulatory enforcement deter low quality audits? (July 14, 2022). Available at SSRN: https://ssrn.com/abstract=4166137 or http://dx.doi.org/10.2139/ssrn.4166137
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+A Amel-Zadeh , Y Zhang
+The economic consequences of financial restatements: Evidence from the market for corporate control
+The Accounting Review , volume 90 , issue 1 , p. 1 - 29 Posted: 2015
+D Aobdia
+The impact of the PCAOB individual engagement inspection process-Preliminary evidence
+The Accounting Review , volume 93 , issue 4 , p. 53 - 80 Posted: 2018
+D Aobdia
+Do practitioner assessments agree with academic proxies for audit quality? Evidence from PCAOB and internal inspections
+Journal of Accounting and Economics , volume 67 , p. 144 - 174 Posted: 2019
+D Aobdia
+The economic consequences of audit firms' quality control system deficiencies
+Management Science , volume 66 , issue 7 , p. 2883 - 2905 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+532
+ABSTRACT VIEWS
+1,622
+RANK
+120,303
+4 Citations
+77 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

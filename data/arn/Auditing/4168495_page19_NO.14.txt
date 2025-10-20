@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Partners and Loan Loss Provisioning: Evidence from U.S. Bank Holding Companies
+
+FRB of Dallas Working Paper No. 2209
+
+64 Pages Posted: 21 Jul 2022 Last revised: 10 Dec 2024
+
+Gauri Bhat
+
+Southern Methodist University (SMU) - Accounting Department
+
+Hemang Desai
+
+Southern Methodist University (SMU) - Accounting Department
+
+W. Scott Frame
+
+Bank Policy Institute
+
+Christoffer Koch
+
+International Monetary Fund (IMF)
+
+Erik J. Mayer
+
+University of Wisconsin-Madison, Finance Department
+
+Date Written: July, 2022
+
+Abstract
+
+This paper uses confidential data on audit engagement partner names from regulatory filings of bank holding companies (BHC) to investigate whether partners display individual style that affects the financial reporting of the BHCs. We focus on loan loss provisioning. We construct an audit partner-BHC matched panel data set that enables us to track different partners across different BHCs over time. We employ two empirical approaches to investigate partner style. The first approach tests whether partner fixed effects are statistically significant in loan loss provisioning models. The second approach tests whether a partner’s history of loan loss provisioning predicts future practices for the same partner. Our empirical evidence does not support systematic differences in loan loss provisioning across audit engagement partners, suggesting that the audit firm’s standards and quality control constrain personal partner style.
+
+Keywords: auditing, banking, Audit Partner Names, Audit Engagement, PCAOB, audit partner tenure, auditor rotation
+
+JEL Classification: G21, J01, J44, L84, M21, M42
+
+Suggested Citation:
+
+Bhat, Gauri and Desai, Hemang and Frame, W. Scott and Koch, Christoffer and Mayer, Erik J., Audit Partners and Loan Loss Provisioning: Evidence from U.S. Bank Holding Companies (July, 2022). FRB of Dallas Working Paper No. 2209, Available at SSRN: https://ssrn.com/abstract=4168495 or http://dx.doi.org/10.24149/wp2209r1
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+J M Abowd , F Kramarz , D N Margolis
+High Wage Workers and High Wage Firms
+Econometrica , volume 67 , issue 2 , p. 251 - 333 Posted: 1999
+R B Adams , H Almeida , D Ferreira
+Powerful CEOs and Their Impact on Corporate Performance
+The Review of Financial Studies , volume 18 , issue 4 , p. 1403 - 1432 Posted: 2005
+A S Ahmed , C Takeda , S Thomas
+Bank loan loss provisions: a reexamination of capital management, earnings management and signaling effects
+Journal of Accounting and Economics , volume 28 , issue 1 , p. 1 - 25 Posted: 1999
+Commission on Auditors' Responsibilities (Cohen Commission)
+Commission on Auditors' Responsibilities -Report, Conclusions, and Recommendations Posted: 1978
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+125
+ABSTRACT VIEWS
+775
+RANK
+521,427
+49 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

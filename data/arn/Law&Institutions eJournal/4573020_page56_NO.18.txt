@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Reporting Regulation in the Laboratory: A Case on Earnings Management
+
+Accepted by Management Science.
+
+89 Pages Posted: 11 Oct 2023 Last revised: 8 Jan 2025
+
+Yun Dai
+
+Lingnan College, Sun Yat-Sen University
+
+Te Bao
+
+Nanyang Technological University (NTU) - Division of Economics
+
+Jiahua Zhu
+
+Tianjin University
+
+There are 2 versions of this paper
+
+Date Written: December 31, 2024
+
+Abstract
+
+Using a controlled laboratory experiment, we investigate the causal effects of financial reporting regulation, providing comprehensive evidence along the entire causal path from regulatory changes to disclosure outcomes and economic consequences. We examine two types of financial reporting regulations: limits on earnings management and the possibility of auditing. Our findings indicate that a tight limit and the possibility of an audit enhance the informativeness of earnings disclosures, leading to improved pricing efficiency. Conversely, a weak limit fails to differentiate high-earning from low-earning managers, resulting in lower disclosure quality and greater pricing inefficiency. Furthermore, we identify two distinct mechanisms by which financial reporting regulations enhance disclosure quality: constraining earnings management practices and inducing signaling behavior. Among the treatments, the most remarkable welfare improvement and better-protected investors' interests are observed in the auditing treatment, where earnings management is most effectively suppressed. In contrast, treatments with limits induce over-investment in costly signals, i.e., aggressive earnings management by high-earning managers, which discourages market trading and reduces market welfare. Our results highlight the critical role of financial reporting regulation in determining market efficiency and shed light on previously contradictory empirical findings regarding financial reporting regulations.
+
+Keywords: Financial reporting regulation, Earnings management, Pricing efficiency, Welfare analysis
+
+JEL Classification: G14, M41, D82
+
+Suggested Citation:
+
+Dai, Yun and Bao, Te and Zhu, Jiahua, Financial Reporting Regulation in the Laboratory: A Case on Earnings Management (December 31, 2024). Accepted by Management Science., Available at SSRN: https://ssrn.com/abstract=4573020 or http://dx.doi.org/10.2139/ssrn.4573020
+Download This Paper
+ 
+Open PDF in Browser
+127 References
+L F Ackert , N Charupat , R Deaves , B D Kluger
+Probability judgment error and speculation in laboratory asset market bubbles
+Journal of Financial and Quantitative Analysis , volume 44 , issue 3 , p. 719 - 744 Posted: 2009
+J Aharony , J Wang , H Yuan
+Tunneling as an incentive for earnings management during the IPO process in China
+Journal of Accounting and Public Policy , volume 29 , issue 1 , p. 1 - 26 Posted: 2010
+A S Ahmed , M Neel , D Wang
+Does mandatory adoption of IFRS improve accounting quality? Preliminary evidence
+Contemporary Accounting Research , volume 30 , issue 4 , p. 1344 - 1372 Posted: 2013
+A Akhigbe , A D Martin
+Valuation impact of Sarbanes-Oxley: Evidence from disclosure and governance within the financial services industry
+Journal of Banking & Finance , volume 30 , issue 3 , p. 989 - 1006 Posted: 2006
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+208
+ABSTRACT VIEWS
+822
+RANK
+248,063
+127 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

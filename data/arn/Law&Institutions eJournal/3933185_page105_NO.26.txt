@@ -1,0 +1,91 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Sentimental Sustainability: Does What Companies Say Tell More Than What Companies Do?
+
+Posted: 18 Nov 2021
+
+Konstantin Ignatov
+
+WHU - Otto Beisheim School of Management
+
+Date Written: September 29, 2021
+
+Abstract
+
+Based on a sample of more than eleven thousand unique 10-K reports of US companies filed with SEC in period 2013 to 2018, this study examines the relationship between actual sustainability performance of companies evaluated by MSCI ESG performance scores and the extent and scope of sustainability-related information disclosure in their annual reports. The study shows empirical evidence supporting the theory of voluntary disclosure of ESG information in annual reports for most industries, while environmentally unfriendly companies from the mining industry show excessive reporting behavior favoring environmental topics, which is consistent with incentives to improve public image and mitigate social, political, and legal risks and thus with the legitimacy theory of information disclosure. The ESG disclosure scores based on inverse document frequency model following Loughran and McDonald (2011) showed significant results in econometric analysis even after controlling for past sustainability performance and firm-specific characteristics such as size, book-to-market ratio, asset productivity, and leverage. The use of recently introduced ESG dictonary from Baier et al. (2020) also allows to split the ESG disclosure into separate ESG pillar categories. The study shows evidence for positive relationship of environmetal and social disclosure scope with their respective actual performance categories, while the extent of governance-related disclosure shows negative relation to actual governance pillar performance. Using the forward-looking words library introduced by Li (2008), this study also shows that annual reports of companies belonging to the mining industry do not contain more forward-looking ESG information and thus future promises and commitments regarding sustainability improvements relative to other industries, which otherwise could contradict the reasoning of the legitimacy theory in environmentally unfriendly industries. When differentiating between forward and non-forward ESG statements, the study shows that companies providing more forward-looking ESG information in annual reports show better year-over-year actual ESG performance.
+
+Keywords: Content analysis, corporate social responsibility, ESG, information disclosure, sustainability disclosure, textual analysis, textual tone, ESG performance
+
+Suggested Citation:
+
+Ignatov, Konstantin, Sentimental Sustainability: Does What Companies Say Tell More Than What Companies Do? (September 29, 2021). Available at SSRN: https://ssrn.com/abstract=3933185
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+393
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Unveiling the Veil: Predicting Potential Shell Firms Using Machine Learning Approach
+
+37 Pages Posted: 4 Sep 2024
+
+Zijian Cheng
+
+Shandong University at Weihai
+
+Tianze Li
+
+Shandong University at Weihai
+
+Zhangxin (Frank) Liu
+
+The University of Western Australia - Department of Accounting and Finance
+
+Abstract
+
+The approval-based initial public offering (IPO) system in China contributed to the persistence of undisclosed shell firms. In this study, we apply machine learning (ML) techniques to identify potential shell firms involved in reverse mergers (RMs). Our findings reveal that these shell firms are typically overvalued and less responsive to market trends. The ML model outperforms traditional logistic models in distinguishing shell firms from regular firms, offering superior explanatory power. A cost-based analysis indicates that the model’s errors do not impose significant additional burdens on investors, auditors, or regulators. This research extends the RM literature by examining the antecedents of RM transactions and shedding light on the market inefficiencies introduced by IPO control systems, providing valuable insights for both developed and developing economies.
+
+Keywords: Machine Learning, Shell Firms, Reverse Mergers, IPO Control
+
+Suggested Citation:
+
+Cheng, Zijian and Li, Tianze and Liu, Zhangxin (Frank), Unveiling the Veil: Predicting Potential Shell Firms Using Machine Learning Approach. Available at SSRN: https://ssrn.com/abstract=4946721 or http://dx.doi.org/10.2139/ssrn.4946721
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+A S Glassner
+Deep learning: a visual approach Posted: 2021
+F Adjei , K B Cyree , M M Walker
+The determinants and survival of r everse mergers vs IPOs
+Journal of Economics and Finance , volume 32 , issue 2 , p. 176 - 194 Posted: 2008
+Y Bao , B Ke , B Li , Y J Yu , J Zhang
+Detecting Accounting Fra ud in Publicly Traded U.S. Firms Using a Machine Learning Approach
+Journ al of Accounting Research , volume 58 , issue 1 , p. 199 - 235 Posted: 2020
+M Beneish , P Vorst
+The Cost of Fraud Prediction Errors
+The Accounting Review Posted: 2021
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+38
+ABSTRACT VIEWS
+402
+42 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

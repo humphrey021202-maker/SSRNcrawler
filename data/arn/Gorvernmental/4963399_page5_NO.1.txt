@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Government Transparency on Corporate Tax Avoidance: Evidence from State Freedom of Information Laws
+
+61 Pages Posted: 31 Oct 2024
+
+Dongdi Gu
+
+University of Texas at Dallas
+
+Jiapeng He
+
+The Chinese University of Hong Kong (CUHK) - CUHK Business School
+
+Ying Huang
+
+University of Texas at Dallas
+
+Ningzhong Li
+
+University of Texas at Dallas
+
+Date Written: September 21, 2024
+
+Abstract
+
+This paper examines the effect of government transparency on corporate tax avoidance by using staggered changes in state freedom of information (FOI) laws to measure changes in state government transparency. Using a difference-in-differences design, we find that improvements in state FOI laws reduce state income tax avoidance by firms headquartered in the state. The effect is stronger for firms headquartered in counties that lack strong civic norms emphasizing civic responsibility, firms with stronger integrity culture, and firms headquartered in more corrupt states. Our mechanism analysis suggests that the reduction in tax avoidance is primarily due to firms being more willing to pay taxes when they perceive the government as more transparent and trustworthy, which is consistent with the reciprocity view in the tax morale literature. We also find that improvements in state FOI laws increase not only corporate income tax revenues but also sales tax and individual income tax revenues for the state government. Finally, consistent with our finding based on state FOI laws, we find that the 2016 Improvement Act of the federal Freedom of Information Act reduces federal tax avoidance for firms whose tax decisions are more likely to be affected by tax morale.
+
+Keywords: Freedom of Information Laws, Government Transparency, Government Accountability, State Taxes, Tax Avoidance, Tax Morale
+
+Suggested Citation:
+
+Gu, Dongdi and He, Jiapeng and Huang, Ying and Li, Ningzhong, The Effect of Government Transparency on Corporate Tax Avoidance: Evidence from State Freedom of Information Laws (September 21, 2024). Available at SSRN: https://ssrn.com/abstract=4963399 or http://dx.doi.org/10.2139/ssrn.4963399
+Download This Paper
+ 
+Open PDF in Browser
+75 References
+M Allingham , A Sandmo
+Income Tax Evasion: A Theoretical Analysis
+Journal of Public Economics , volume 1 , issue 3-4 , p. 323 - 338 Posted: 1972
+J Alm , J Martinez-Vazquez , C Mcclellan
+Corruption and Firm Tax Evasion
+Journal of Economic Behavior & Organization , volume 124 , p. 146 - 163 Posted: 2016
+J Alt , D Lassen
+Transparency, Political Polarization, and Political Budget Cycles in OECD Countries
+American Journal of Political Science , volume 50 , issue 3 , p. 530 - 550 Posted: 2006
+J Alt , R Lowry
+Transparency and Accountability: Empirical Results for US States
+Journal of Theoretical Politics , volume 22 , issue 4 , p. 379 - 406 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+357
+ABSTRACT VIEWS
+1,555
+RANK
+192,137
+75 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

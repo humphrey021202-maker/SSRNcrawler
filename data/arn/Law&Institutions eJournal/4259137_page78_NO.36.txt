@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Are Investors Aware of Relative Operational Inefficiency?
+
+44 Pages Posted: 29 Oct 2022
+
+Joshua Livnat
+
+New York University; Prudential Financial - Quantitative Management Associates
+
+Dan Segal
+
+Reichman University
+
+Duo Selina Pei
+
+University of Warwick - Warwick Business School
+
+Date Written: October 26, 2022
+
+Abstract
+
+Theory suggests that relatively inefficient firms should have lower and more uncertain future cash flows, which should lead to lower current equity values and higher future equity returns. However, the literature provides contradictory evidence on the relationship between operational efficiency and future stock performance. We provide evidence that investors are not fully aware of firms’ operational inefficiencies and are negatively surprised when future negative earnings are announced, resulting in a significant negative drift in returns for these firms. Furthermore, we provide evidence that analysts do not properly incorporate information about operational inefficiency into their earnings forecasts and target prices, and do not seem to care about the issue during conference calls.
+
+Keywords: Operational Efficiency; Data Envelopment Analysis (DEA); Conference Calls; Analysts Forecasts; Delayed Market Reaction
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Livnat, Joshua and Segal, Dan and Pei, Duo, Are Investors Aware of Relative Operational Inefficiency? (October 26, 2022). Available at SSRN: https://ssrn.com/abstract=4259137 or http://dx.doi.org/10.2139/ssrn.4259137
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+179
+ABSTRACT VIEWS
+970
+RANK
+384,900
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

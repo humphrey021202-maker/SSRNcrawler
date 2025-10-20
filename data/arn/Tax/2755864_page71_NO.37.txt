@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent?
+
+ISER Discussion Paper No. 966
+
+25 Pages Posted: 2 Apr 2016 Last revised: 6 Apr 2016
+
+Hirofumi Kurokawa
+
+School of Economics and Management
+
+Tomoharu Mori
+
+College of Comprehensive Psychology, Ritsumeikan University; Research Institute for Socionetwork Strategies, Kansai University
+
+Fumio Ohtake
+
+Osaka University - Center for Infectious Disease Education and Research
+
+Date Written: April 6, 2016
+
+Abstract
+
+We test the equivalence of income and consumption taxes through a choice experiment. Under a given set of income and consumption parameters, subjects were asked to choose among an income tax of 20%, a consumption tax of 25% (which is an equivalent tax burden), a consumption tax of 22%, and a consumption tax of 20%. Our results showed that subjects prefer income tax to consumption tax when the nominal consumption tax rate is higher than the nominal income tax rate. However, subjects tend to prefer consumption tax to income tax when the nominal tax rates are identical. Our result, that subjects prefer income tax to consumption tax despite a higher tax burden, implies the consumption tax miscalculation bias. The consumption tax miscalculation bias is one where subjects miscalculate the amount of consumption tax as if it is declared by tax inclusive, as in the case of income tax, despite consumption tax being tax exclusive. If the income tax burden is equivalent to the consumption tax burden, subjects prefer income tax. This result implies that income and consumption taxes are not equivalent due to the consumption tax miscalculation bias.
+
+Keywords: Tax equivalence, Income tax, Consumption tax, Misperception of tax, Behavioral and experimental economics
+
+JEL Classification: H24, C91
+
+Suggested Citation:
+
+Kurokawa, Hirofumi and Mori, Tomoharu and Ohtake, Fumio, A Choice Experiment on Taxes: Are Income and Consumption Taxes Equivalent? (April 6, 2016). ISER Discussion Paper No. 966, Available at SSRN: https://ssrn.com/abstract=2755864 or http://dx.doi.org/10.2139/ssrn.2755864
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+J Abeler , S Jäger
+Complex Tax Incentives. American Economic Journal: Economic Policy , volume 7 , issue 3 , p. 1 - 28 Posted: 2015
+Crossref
+R A Braun , D H Joines
+The Implications of a Graying Japan for Government Policy
+Journal of Economic Dynamics and Control , volume 57 , p. 1 - 23 Posted: 2015
+Crossref
+E P Bettinger , B T Long , P Oreopoulos , L Sanbonmatsu
+The Role of Application Assistance and Information in College Decisions: Results from the H&R Block FAFSA Experiment
+Quarterly Journal of Economics , volume 127 , issue 3 , p. 1205 - 1242 Posted: 2012
+Crossref
+T Blumkin , B J Ruffle , Y Ganun
+Are Income and Consumption Taxes Ever Really Equivalent? Evidence from a Real-Effort Experiment with Real Goods
+European Economic Review , volume 56 , issue 6 , p. 1200 - 1219 Posted: 2012
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+163
+ABSTRACT VIEWS
+1,566
+RANK
+418,383
+1 Citations
+29 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

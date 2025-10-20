@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Asymmetric Loan Loss Provision Models
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+97 Pages Posted: 15 Oct 2020
+
+Sudipta Basu
+
+Temple University - Department of Accounting
+
+Justin Vitanza
+
+Temple University - Department of Finance
+
+Wei Wang
+
+Temple University - Department of Accounting
+
+There are 2 versions of this paper
+
+Date Written: August 25, 2020
+
+Abstract
+
+Large net loan charge-offs are frequently associated with large decreases in nonperforming loans and large increases in loan loss provisions, inducing a V-shaped relation between loan loss provisions and nonperforming loan changes. Failure to model the asymmetry attributable to net loan charge-offs can change inferences about the presence of earnings management and the effects of delayed loan loss recognition in prior papers that assumed linearity. Future researchers should either include net loan charge-offs in linear models of loan loss provisions or explicitly model the asymmetry induced by omitting net loan charge-offs.
+
+Keywords: loan collectability, loan charge-offs, misspecification, delayed loan loss recognition, conditional conservatism
+
+JEL Classification: G21, G28, M41, M48
+
+Suggested Citation:
+
+Basu, Sudipta and Vitanza, Justin and Wang, Wei, Asymmetric Loan Loss Provision Models (August 25, 2020). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=3681397
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+142
+ABSTRACT VIEWS
+1,072
+RANK
+135,498
+10 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

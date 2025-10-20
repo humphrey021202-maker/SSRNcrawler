@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Predicting Corporate Environmental Irresponsibility
+
+63 Pages Posted: 31 Jan 2025 Last revised: 11 Sep 2025
+
+Quentin Moreau
+
+Hong Kong University of Science & Technology (HKUST)
+
+Hadi Movaghari
+
+University of Glasgow - Adam Smith Business School
+
+Date Written: September 10, 2025
+
+Abstract
+
+In this study, we use environmental fines as a proxy for corporate environmental irresponsibility and demonstrate that a simple machine learning approach can predict environmental irresponsibility with notable accuracy. Our parsimonious model generally outperforms both bootstrapped and financial statement-based benchmarks. Consistent with the view that firms may engage in corporate social responsibility (CSR) activities for legitimacy purposes, we find that most of the significant predictors of environmental irresponsibility are the firm’s CSR actions, and that more CSR actions are associated with an increased likelihood of future environmental irresponsibility. We illustrate how our machine learning approach can be useful for lenders and investors. Overall, our results suggest that 1) having CSR actions should not be conflated with achieving good environmental outcomes; 2) the prediction of environmental irresponsibility, especially at the extensive margin, should not rely solely on financial statement variables; and 3) machine learning predictions of environmental irresponsibility can help mitigate downside risk.
+
+Keywords: Environmental performance, Environmental irresponsibility, Machine learning, LASSO, CSR, Downside risk
+
+JEL Classification: D22, L2, D81, Q56, M14, O16
+
+Suggested Citation:
+
+Moreau, Quentin and Movaghari, Hadi, Predicting Corporate Environmental Irresponsibility (September 10, 2025). Available at SSRN: https://ssrn.com/abstract=5076052 or http://dx.doi.org/10.2139/ssrn.5076052
+Download This Paper
+ 
+Open PDF in Browser
+109 References
+H Akaike
+A new look at the statistical model identification
+IEEE Transactions on Automatic Control , volume 19 , issue 6 , p. 716 - 723 Posted: 1974
+R Albuquerque , Y Koskinen , C Zhang
+Corporate social responsibility and firm risk: Theory and empirical evidence
+Management Science , volume 65 , issue 10 , p. 4451 - 4469 Posted: 2019
+D Amiram , Z Bozanic , J D Cox , Q Dupont , J M Karpoff , R Sloan
+Financial reporting fraud and other forms of misconduct: a multidisciplinary review of the literature
+Review of Accounting Studies , volume 23 , p. 732 - 783 Posted: 2018
+D L Arjaliès , D Gibassier
+Can financialization save nature? The case of endangered species
+Contemporary Accounting Research , volume 40 , issue 1 , p. 488 - 525 Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+114
+ABSTRACT VIEWS
+780
+RANK
+560,264
+109 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+IO: Empirical Studies of Firms & Markets eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Pass Through Taxation of Collective Investment Funds – A Misguided Exception?
+
+The Tax Institute, April 2002
+
+19 Pages Posted: 10 Dec 2015
+
+Justin Dabner
+
+Tax Re-Solutions
+
+Date Written: 2002
+
+Abstract
+
+The primary vehicles used to pool investment funds in Australia are superannuation (pension) funds, investment trusts, investment companies and life insurance companies. The tax treatment of these structures reveals some striking contrasts.
+
+Since the early 1980s the Government has manipulated the tax system to encourage the accumulation of money in superannuation (pension) funds. Initially the taxation regime was very favourable but the tax concessions have gradually been reduced. Essentially the funds are taxed as “entities”, although at a concessional rate, “contributions” (investments) into the funds may be deductible although included in the taxable income of the funds and distributed returns are taxed concessionally. Prudential requirements on such funds prohibit them conducting a business.
+
+Outside of superannuation funds the choice of investment vehicle is typically between a unit trust or a company. With the exception of widely owned trusts undertaking trading activities, unit trusts are treated as pass through vehicles. That is, trust income retains its source and character when passing through the trust. This enables tax concessions to be passed through to the investor (unitholder) who will pay tax on the trust income. Whilst this can provide tax advantages the receipt of non-assessable distributions can result in a reduction in the unitholder’s tax basis in their units.
+
+In 1999 the Government indicated its intention to tax trusts in the same manner as companies, termed “entity taxation”. The original proposal provided an exception for "collective investment vehicles". These vehicles would be subject to a similar regime as that currently applying to unit trusts. The regime would be restricted to widely owned trusts undertaking only passive investments.
+
+The draft legislation released by the Government, however, completely exempted unit trusts from the new entity tax regime removing the need for the collective investment vehicle rules. Subsequently the Government withdrew the legislation in the face of strong criticism and its current status is unclear.
+
+Companies are taxed as separate entities and under the imputation regime tax concessions available to a company do not pass through to shareholders. Thus investment trusts have typically been utilised rather than investment companies.
+
+Probably the major tax concession available to individual investors is a 50 per cent discount on capital gains. Whilst this concession has been available to unitholders in respect to trust income the concession is not available to companies and, therefore, shareholders in investment companies were, initially, disadvantaged vis-à-vis unitholders in trusts. To neutralise this tax distortion a special regime to permit “listed investment companies” to effectively pass on a capital gains tax discount to their shareholders was introduced in July 2001.
+
+A regime also exists to permit investment companies to register as “pooled development funds” and thereby access a reduced tax rate and other tax concessions. This regime is designed to encourage the creation of a source of venture capital for small to medium sized Australian resident entities.
+
+A further exception to the utilisation of investment trusts over companies has been investment in certain policies issued by life insurance companies. Until recently the life companies themselves were taxed under a complicated regime that required the division of their income into numerous classes. Now, with a view to ensuring parity of tax treatment between similar investment vehicles, life companies are taxed at the corporate tax rate except for income from assets used to discharge superannuation liabilities (which is taxed at 15 per cent) and certain exempt income.
+
+Traditionally life companies have been able to issue investment linked life insurance policies or bonds. In particular a special regime permitted such companies to offer policies that, provided they are held for at least 10 years, offer returns that are tax exempt. Originally the Government had announced its intention to repeal this regime and treat such policies in the same manner as equity investments. That is, the returns would be assessable but carry a credit for company tax paid on the underlying income. Now it is unclear exactly what reforms will be forthcoming.
+
+The existence of these different tax outcomes for different types of investment vehicles offends the principle of neutrality to which tax systems should aspire. In particular the recent proposal to introduce entity taxation with its collective investment vehicle exception brings into sharp focus the existence of the tax rules applicable to investment trusts that permit a pass through of tax concessions. This provides a useful opportunity for reconsideration of whether these rules are appropriate.
+
+Suggested Citation:
+
+Dabner, Justin, Pass Through Taxation of Collective Investment Funds – A Misguided Exception? (2002). The Tax Institute, April 2002, Available at SSRN: https://ssrn.com/abstract=2701076
+Download This Paper
+ 
+Open PDF in Browser
+10 References
+For the types of investments that are permitted see Part 4 of the Pooled Development Funds Act 1992. See S Barkoczy
+The Tax Specialist , volume 54 Posted: 2001
+See s 124ZS and following of the ITAA 36
+Section 124ZM and following of the ITAA 36
+Section 128B(3)(ba) of the ITAA 36
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+58
+ABSTRACT VIEWS
+1,300
+RANK
+856,872
+10 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

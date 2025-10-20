@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Central Bank Digital Currency and Corporate Cash Holdings: Evidence from China’s e-CNY pilot
+
+56 Pages Posted: 25 Oct 2023 Last revised: 7 Dec 2023
+
+Guanglong Zhang
+
+affiliation not provided to SSRN
+
+Kam C. Chan
+
+Western Kentucky University - Department of Accounting and Finance
+
+Date Written: September 26, 2023
+
+Abstract
+
+This study investigates how the introduction of a central bank digital currency (CBDC) affects corporate cash holdings by exploiting China’s e-CNY (electronic Chinese yuan) staggered pilot program as an exogenous shock. Our results, based on a difference-in-differences research design, suggest that firms in pilot areas significantly reduce their cash holdings after the introduction of e-CNY. The findings are consistent with the notion that using e-CNY lowers firms’ transaction costs, increases transparency, and enhances traceability, leading to the reduction of firms’ transaction, precautionary, and agency motives to hoard excess cash. Additional analysis shows that firms without financing privileges (private firms and those lacking political connections), firms facing higher expropriation costs, firms with illiquid stocks, and firms experiencing volatile stock returns derive greater benefits from the e-CNY launch. Finally, our dynamic model suggests that using e-CNY facilitates firms’ faster cash holding adjustments toward their target cash holding levels. This study pioneers the investigation of CBDC’s economic implications for the corporate sector, highlighting its role in lowering transaction costs, enhancing traceability, and improving financial inclusivity.
+
+Keywords: Central bank digital currency; e-CNY; Corporate cash holdings
+
+JEL Classification: E42; E58; G32
+
+Suggested Citation:
+
+Zhang, Guanglong and Chan, Johnny, Central Bank Digital Currency and Corporate Cash Holdings: Evidence from China’s e-CNY pilot (September 26, 2023). Available at SSRN: https://ssrn.com/abstract=4584652 or http://dx.doi.org/10.2139/ssrn.4584652
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+F Allen , X Gu , J Jagtiani
+Fintech, cryptocurrencies, and CBDC: Financial structural transformation in China
+Journal of International Money and Finance , volume 124 Posted: 2022
+Y Amihud
+Illiquidity and stock returns: Cross-section and time-series effects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+I Appel , J Farre-Mensa , E Simintzi
+Patent trolls and startup employment
+Journal of Financial Economics , volume 133 , issue 3 , p. 708 - 725 Posted: 2019
+R Auer , G Cornelli , J Frost
+Rise of the central bank digital currencies: drivers, approaches and technologies Posted: 2020
+Load more
+1 Citations
+Hari Prasad Josyula
+Global Trends in Central Bank Digital Currencies
+RIBAF-D-23-00796 · 26 Pages · Posted: 26 Oct 2023 · Downloads: 247
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+353
+ABSTRACT VIEWS
+1,161
+RANK
+193,883
+1 Citations
+61 References
+PlumX Metrics
+Related eJournals
+
+Emerging Markets: Finance eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

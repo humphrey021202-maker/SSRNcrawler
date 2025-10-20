@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+ESG, Pension Assumptions, and Risky Asset Allocations in Defined Benefit Pension Plans
+
+47 Pages Posted: 5 Oct 2021 Last revised: 15 Apr 2025
+
+Donghyeok Jang
+
+American University of Sharjah (AUS)
+
+Date Written: April 01, 2025
+
+Abstract
+
+This paper examines the impact of ESG performance on defined benefit pension management. Firms with stronger ESG profiles assume lower pension returns and allocate fewer assets to equities, limiting earnings manipulation and excessive risk-taking. A quasi-natural experiment using the 2010 BP oil spill supports a causal link. OLS estimates show that an increase in one standard deviation in ESG score reduces assumed returns by 0.12 percentage points and equity allocations by 2.15 percentage points. These findings highlight ESG’s role in fostering financial integrity in pension assumptions and mitigating agency conflicts between shareholders and pension plan participants.
+
+Keywords: ESG, Defined Benefit Pension Plans, Pension Assumption, Earnings Management, Pension Asset Management
+
+JEL Classification: G23, G30, G14
+
+Suggested Citation:
+
+Jang, Donghyeok,
+ESG, Pension Assumptions, and Risky Asset Allocations in Defined Benefit Pension Plans
+(April 01, 2025). Available at SSRN: https://ssrn.com/abstract=3934772 or http://dx.doi.org/10.2139/ssrn.3934772
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+Paolo Agnese , Francesco De Masi , Pasqualina Porretta , Fabrizio Santoboni
+Sustainable or Not Sustainable Pension Fund: This is the Question -The Case of ESG Policies in the Italian Pension System
+Socio-Economic Planning Sciences , volume 94 Posted: 2024
+Rui Albuquerque , Yrjö Koskinen , Chendi Zhang
+Corporate Social Responsibility and Firm Risk: Theory and Empirical Evidence
+Management Science , volume 65 , issue 10 , p. 4451 - 4469 Posted: 2019
+Eli Amir , Elizabeth A Gordon
+Firms' Choice of Estimation Parameters: Empirical Evidence from SFAS No. 106
+Journal of Accounting, Auditing & Finance , volume 11 , issue 3 , p. 427 - 448 Posted: 1996
+Divya Anantharaman , Feng Gao , Hariom Manchiraju
+Does Social Responsibility Begin at Home? The Relation Between Firms' Pension Policies and CSR Activities
+Review of Accounting Studies , volume 27 , issue 1 , p. 76 - 121 Posted: 2022
+Load more
+2 Citations
+Ahmad Ismail , Samer Khalil , Assem Safieddine
+The accounting for defined benefit pension plans in family firms
+Financial Markets, Institutions & Instruments , volume 33 , issue 4 , p. 351 Posted: 2024
+Crossref
+Islam Habis Mohammad Hatamleh , Rahima Aissani , Raneem Farouq Suleiman Alduwairi
+The Role of Social Media Motivation in Enhancing Social Responsibility
+Social Sciences , volume 13 , issue 8 , p. 409 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+150
+ABSTRACT VIEWS
+858
+RANK
+448,944
+2 Citations
+51 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

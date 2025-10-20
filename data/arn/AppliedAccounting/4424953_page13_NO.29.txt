@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Analysis of Three ChatBots: BlenderBot, ChatGPT and LaMDA
+
+USC Marshall School of Business Research Paper Sponsored by iORB, No. Forthcoming
+
+23 Pages Posted: 21 Apr 2023
+
+Daniel E. O'Leary
+
+University of Southern California - Marshall School of Business; University of Southern California - Leventhal School of Accounting
+
+Date Written: February 1, 2023
+
+Abstract
+
+Google, Facebook, OpenAI and others, have released access to versions of language chatbots that they have developed. These chatbots have been trained on massive amounts of text using neural networks for language processing. Using an approach similar to security penetration testing, this paper investigates and compares three different chatbots, assessing potential strengths and limitations of these systems. The paper presents several findings, including a comparison of those systems across answers for common question, an analysis of the use of names and activities to guide discussion in two systems, an analysis of the extent of differences in responses, arising from “regeneration” of a question, the determination of a weakness in a system of knowing “who” invented something, development of a potential new subfield, sensitive topic classifiers and an analysis of some of the implications of these findings.
+
+Keywords: BlenderBot, ChatGPT, LaMDA, Chatbots, Case-Based Reasoning., Expert Systems, Enterprise Systems, Education, Ethics
+
+Suggested Citation:
+
+O'Leary, Daniel E., An Analysis of Three ChatBots: BlenderBot, ChatGPT and LaMDA (February 1, 2023). USC Marshall School of Business Research Paper Sponsored by iORB, No. Forthcoming, Available at SSRN: https://ssrn.com/abstract=4424953 or http://dx.doi.org/10.2139/ssrn.4424953
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+415
+ABSTRACT VIEWS
+1,935
+RANK
+161,684
+PlumX Metrics
+Related eJournals
+
+USC Marshall School of Business Research Paper Series
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

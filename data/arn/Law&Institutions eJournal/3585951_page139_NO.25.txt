@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Talk about the Coronavirus Pandemic: Initial Evidence from Corporate Disclosures
+
+51 Pages Posted: 28 Apr 2020
+
+Victor Xiaoqi Wang
+
+California State University, Long Beach - College of Business Administration
+
+Betty (Bin) Xing
+
+Baylor University - Hankamer School of Business
+
+Date Written: April 26, 2020
+
+Abstract
+
+The novel Coronavirus disease (COVID-19) has become the world’s center of attention in 2020. In this paper, we examine firm disclosures of COVID-19 during the first quarter of 2020, a time when firms face tremendous uncertainty and have little guidance on what and how to disclose. We compare Coronavirus-related disclosures in SEC filings and earnings conference calls with the timeline of the spread of the disease and with information gathering and disseminating activities in Google searches and news articles. We find that initial corporate disclosures are driven by information demand, and firm managers are proactive in providing information to investors. Our topic modelling analysis shows that although firms recognize the massive impact of the pandemic on their operations, their disclosures in SEC filings are general and lack specifics. Finally, we find that analysts are proactive in raising questions regarding the impact of COVID-19 during the Q&A session of the conference calls, and that firm managers are quick to provide necessary disclosures in the presentation session as the pandemic develops.
+
+Keywords: Coronavirus, COVID-19, Pandemics, Corporate disclosures, Earnings conference calls, SEC filings, Google Trends, News articles, Sentiment analysis, Textual analysis, Topic modelling
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Wang, Victor Xiaoqi and Xing, Betty (Bin), Talk about the Coronavirus Pandemic: Initial Evidence from Corporate Disclosures (April 26, 2020). Available at SSRN: https://ssrn.com/abstract=3585951 or http://dx.doi.org/10.2139/ssrn.3585951
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+Kristian D Allee , Matthew D Deangelis
+The Structure of Voluntary Disclosure Narratives: Evidence from Tone Dispersion
+Journal of Accounting Research , volume 53 , issue 2 , p. 241 - 274 Posted: 2015
+Crossref
+Brian J Bushee , A Dawn , Gregory S Matsumoto , Miller
+Open versus closed conference calls: the determinants and effects of broadening access to disclosure
+Journal of Accounting and Economics , volume 34 , issue 1 , p. 73 - 76 Posted: 2003
+Crossref
+Hyunyoung Choi , H A L Varian
+Predicting the Present with Google Trends
+Economic Record , volume 88 , issue s1 , p. 2 - 9 Posted: 2012
+Crossref
+Z H I Da , Joseph Engelberg , Pengjie Gao
+Search of Attention , volume 66 , p. 1461 - 1499 Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+612
+ABSTRACT VIEWS
+4,187
+RANK
+100,600
+18 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

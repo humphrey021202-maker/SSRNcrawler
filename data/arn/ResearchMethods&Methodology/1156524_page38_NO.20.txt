@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Applying a Systems Mindset to Stock Valuation
+
+25 Pages Posted: 7 Jul 2008 Last revised: 25 Jul 2008
+
+Bartley J. Madden
+
+Florida Atlantic University
+
+Date Written: July 16, 2008
+
+Abstract
+
+Research on the life-cycle valuation model began in 1969 at Callard, Madden & Associates in order to improve stock selection and investment returns. Beginning in the mid-1980s, the model was extensively refined and commercialized by HOLT Value Associates. Today, many institutional money managers use the life-cycle valuation model, as well as relevant data from the global database of 20,000 companies in 60 countries provided by Credit Suisse HOLT.
+
+This is a review of the five important choices that guided this 40-year research journey. A systems mindset that stressed intensive measurement and experimentation with variables was especially instrumental to the evolution of the life-cycle model. Systems thinking led to distinct departures from mainstream finance practices. For example, the life-cycle model uses a discount rate that is dependent upon the procedure used to forecast a firm's long-term, net cash receipt stream.
+
+Based on this research experience, I offer suggestions about the potential evolution of a new research program to address additional important, practical needs.
+
+Keywords: Valuation, CFROI, Life Cycle, Research Methodology, Systems Thinking
+
+JEL Classification: B40, C9, D84, G12, G30
+
+Suggested Citation:
+
+Madden, Bartley J., Applying a Systems Mindset to Stock Valuation (July 16, 2008). Available at SSRN: https://ssrn.com/abstract=1156524 or http://dx.doi.org/10.2139/ssrn.1156524
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+References Alessandri , M Todd , N David , Diane M Ford , Karyl B Lander , Marilyn Leggio , Taylor
+Managing risk and uncertainty in complex capital projects
+Quarterly Review of Economics and Finance December , volume 44 , issue 5 , p. 751 - 767 Posted: 2004
+Crossref
+Robert J Atra , Rawley Thomas
+The Fundamentals of Automated DCF Modeling Posted: 2008
+William J Baumol
+The Free-Market Innovation Machine: Analyzing the Growth Miracle of Capitalism Posted: 2002
+Richard A Brealey , C Stewart , Franklin Myers , Allen
+Principles of Corporate Finance Posted: 2006
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+598
+ABSTRACT VIEWS
+3,057
+RANK
+103,625
+38 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Recommended Papers
+
+Big Business Stability and Economic Growth: Is What's Good for General Motors Good for America?
+
+By Kathy Fogel, Randall Morck, ...
+
+Big Business Stability and Economic Growth: Is What's Good for General Motors Good for America?
+
+By Kathy Fogel, Randall Morck, ...
+
+Uncertainty and Valuations
+
+By Martijn Cremers and Hongjun Yan
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

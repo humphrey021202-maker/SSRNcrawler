@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Carbon Emissions Affect IPO Price Formation and Aftermarket Performance?
+
+60 Pages Posted: 23 Apr 2024
+
+Hung Neng Lai
+
+National Central University
+
+Cheng-Yi Shiu
+
+National Chengchi University (NCCU)
+
+Date Written: April 11, 2024
+
+Abstract
+
+This paper explores the impact of carbon emissions on IPO price formation and aftermarket performance. The sample consists of 1,720 new issues that went public between January 2004 and December 2021, with 298 IPOs categorized in the Disclosure Group (covered by the Trucost database) and the remaining 1,422 in the Non-Disclosure Group. Our analysis yields several noteworthy and original findings. Firstly, new issuers with higher carbon emissions tend to have lower initial offer values and experience more negative price revisions. This suggests that underwriters discount brown IPOs to a greater extent, and institutional investors exhibit a disfavorable bias towards such IPOs. Furthermore, the discount and downward price revision on brown IPOs intensify with increased climate change concerns and post the Paris Agreement. Secondly, the total level or intensity of an issuer's carbon emissions does not significantly impact underpricing. Thirdly, new issuers with higher carbon emissions demonstrate higher long-run post-issue abnormal returns compared to those with lower carbon emissions. We conduct several auxiliary tests to verify the robustness of our results against concerns about endogeneity issues. Overall, our findings support the notion that investors demand higher expected returns to invest in shares of brown firms. Consequently, this leads to lower initial offer values, more negative price revisions, and higher long-run post-issue abnormal returns associated with higher carbon risks.
+
+Keywords: Carbon emissions; Initial public offerings; IPO price formation; Long-run performance
+
+JEL Classification: G14; G30; M14; Q51; Q53; Q54
+
+Suggested Citation:
+
+Lai, Hung Neng and Shiu, Cheng-Yi, Do Carbon Emissions Affect IPO Price Formation and Aftermarket Performance? (April 11, 2024). Available at SSRN: https://ssrn.com/abstract=4790931 or http://dx.doi.org/10.2139/ssrn.4790931
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+David Ardia , Keven Bluteau , Kris Boudt , Koen Inghelbrecht
+Climate change concerns and the performance of green vs. brown stocks
+Management Science , volume 69 , p. 7607 - 7632 Posted: 2023
+Jitendra Aswani
+Aneesh Raghunandan, and Shiva Rajgopal, 2024a, Are carbon emissions associated with stock returns?
+Review of Finance , volume 28 , p. 75 - 106
+Jitendra Aswani
+Aneesh Raghunandan, and Shiva Rajgopal, 2024b, Are carbon emissions associated with stock returns?-Reply
+Review of Finance , volume 28 , p. 111 - 115
+Edward D Baker , Thomas J Boulton , V Marcus , Matthew R Braga-Alves , Morey
+ESG government risk and international IPO underpricing
+Journal of Corporate Finance , volume 67 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+162
+ABSTRACT VIEWS
+754
+RANK
+420,501
+37 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

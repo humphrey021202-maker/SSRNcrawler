@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Incentive System Design Based on Accrual Accounting: A Summary and Analysis
+
+Journal of Management Accounting Research, Forthcoming
+
+49 Pages Posted: 16 Apr 2010 Last revised: 28 Jul 2011
+
+Thomas Pfeiffer
+
+University of Vienna - Accounting and Control
+
+Louis Velthuis
+
+Goethe University Frankfurt
+
+Date Written: 2009
+
+Abstract
+
+This paper provides a formal analysis on how to design accrual based incentive systems so that a manager’s and owner’s interests are properly aligned. We introduce a general framework to summarize the literature, provide various extensions to it, and point to some of its limitations. We characterize the entire class of goal-congruent and preference-similar incentive systems when the owner has perfect as well as imperfect information about the manager’s preferences. This allows us to show how compensation functions and performance measures are interrelated and to demonstrate what information must be incorporated into compensation functions and performance measures. We illustrate how robust these results are, especially with respect to gaming and transaction smoothing. Furthermore, we show how to produce consistent performance measures by capitalizing investment costs and constructing appropriate depreciation schedules. Finally, we analyze the flexibility of accrual- versus cash-based allocation rules and highlight connections to the notion of conservatism.
+
+Keywords: Incentive Systems, Accrual Accounting, Goal-Congruence, Preference-Similarity
+
+JEL Classification: M4
+
+Suggested Citation:
+
+Pfeiffer, Thomas and Velthuis, Louis J., Incentive System Design Based on Accrual Accounting: A Summary and Analysis (2009). Journal of Management Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=1590785
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+Consistent with the literature, we require under both frameworks (goal-congruence and preference-similarity) that the manager's and owner's investment decisions must coincide. Given the result above, it would be interesting to analyze a notion of imperfect matching in which
+By concentrating our analysis on a single divisional manager our setting effectively ignores inter-company coordination problems that arise at different firm levels. For instance, if firms have to decide whether to acquire a common resource (corporate services, investments in R&D or capacity) or how to coordinate different hierarchy levels, the design of consistent incentive systems becomes significantly more complex because of strategic interactions among individual managers (see Arya
+Dutta and Reichelstein Posted: 2004
+analyze how such an aggregation scheme differs from Banker and Datar's (1989) aggregation rule
+R Antle , P Bogetoft , A Stark
+Incentive Problems and Investment Timing Options
+Essays in Accounting Theory in Honor of Joel S Demski , p. 145 - 168 Posted: 2007
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+546
+ABSTRACT VIEWS
+2,859
+RANK
+116,432
+61 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+Providing Managerial Incentives: Cash Flows Versus Accrual Accounting
+
+By Stefan J. Reichelstein
+
+Accrual-Based Compensation, Depreciation and Investment Decisions
+
+By Alfred Wagenhofer
+
+Controlling Investment Decisions: Depreciation- and Capital Charges
+
+By Sunil Dutta and Stefan J. Reichelstein
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

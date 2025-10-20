@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Local Government Valuation
+
+77 Pages Posted: 27 Jul 2022 Last revised: 9 Dec 2024
+
+Oliver Giesecke
+
+Stanford University - Hoover Institution
+
+Haaris Mateen
+
+C. T. Bauer College of Business, University of Houston
+
+Marcelo Jardim Sena
+
+Stanford University
+
+Date Written: July 12, 2022
+
+Abstract
+
+We construct a novel data set on the fiscal position of municipalities in the United States and document a secular decline in their financial health. Our data combines financial data from the Annual Comprehensive Financial Reports (ACFRs) of municipalities along with Census data of their revenue and expenditure cash flows. We find that 61% of municipalities operate with a negative net position---akin to a negative book equity position in the corporate context. We find that most of the decline originates from the accumulation of legacy obligations, i.e., pensions and other post-employment benefits (OPEBs); this is recognized by municipal bond markets through higher credit spreads. Since accounting values are backward looking, we turn to the market valuation of local governments' equity by estimating a stochastic discount factor (SDF) that matches the valuation of a wide range of assets in the economy to price untraded future tax and expenditure claims. Market values of equity are also negative for a sizable fraction of municipalities. The negative equity position---in terms of book and market values---for some local governments suggests the presence of implicit insurance by state and federal governments. Our results suggest that as many as half the municipalities with negative market value of equity would need 5 years of higher government intervention.
+
+Keywords: Municipal finance, financial distress, public finance, fiscal sustainability, empirical asset pricing
+
+JEL Classification: H30, H71, H72, H74, H75, G12
+
+Suggested Citation:
+
+Giesecke, Oliver and Mateen, Haaris and Jardim Sena, Marcelo, Local Government Valuation (July 12, 2022). Available at SSRN: https://ssrn.com/abstract=4160225 or http://dx.doi.org/10.2139/ssrn.4160225
+Download This Paper
+ 
+Open PDF in Browser
+64 References
+M Adelino , I Cunha , M A Ferreira
+The economic effects of public financing: Evidence from municipal bond ratings recalibration
+The Review of Financial Studies , volume 30 , issue 9 , p. 3223 - 3268 Posted: 2017
+K R Ahern
+The business of city hall Posted: 2021
+J E Alt , R C Lowry
+Divided government, fiscal institutions, and budget deficits: Evidence from the states
+American Political Science Review , volume 88 , issue 4 , p. 811 - 828 Posted: 1994
+F Alvarez , U J Jermann
+Using asset prices to measure the persistence of the marginal utility of wealth
+Econometrica , volume 73 , issue 6 , p. 1977 - 2016 Posted: 2005
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+342
+ABSTRACT VIEWS
+2,780
+RANK
+200,848
+2 Citations
+64 References
+PlumX Metrics
+Related eJournals
+
+Social Sciences Education eJournal
+
+Follow
+
+Macroeconomics: Monetary & Fiscal Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

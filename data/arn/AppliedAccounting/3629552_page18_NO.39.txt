@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Distributions to Beneficiaries of Tax-Favored Retirement Plans, before and after the Secure Act
+
+The Tax Lawyer, Vol. 74, No. 1
+
+62 Pages Posted: 19 Jun 2020 Last revised: 16 Dec 2020
+
+Vorris J. Blankenship
+
+Tax Planning for Retirees
+
+Date Written: June 17, 2020
+
+Abstract
+
+Individual beneficiaries of tax-favored retirement plans have long enjoyed substantial tax deferral by spreading required minimum distributions (RMDs) over their lifetimes or life expectancies. Often referred to as “stretch” distributions, these extended RMDs attracted the attention of reformers who questioned whether the deferrals served the needs of retirees, or were merely estate planning tools. The result of that concern was the enactment of the SECURE Act of 2019 that significantly changed the treatment of retirement plan distributions to beneficiaries.
+
+The SECURE Act primarily targets non-annuity RMDs made to designated beneficiaries from tax-favored retirement plans that are defined contribution plans (but including IRAs). The SECURE Act eliminates life expectancy RMDs for many if not most of these beneficiaries and instead requires distribution of the entire amount of the retirement benefit before the end of the calendar year containing the tenth anniversary of the participant’s death (the ten-year rule).
+
+The SECURE Act, however, preserves life expectancy RMDs for “eligible” designated beneficiaries. Eligible designated beneficiaries (EDBs) include only (1) the surviving spouse of the participant, (2) a minor child of the participant, (3) a disabled individual, (4) a chronically ill individual, or (5) an individual who is not more than ten years younger than the participant. The determination of whether a designated beneficiary is an EDB is made as of the date of death of the participant.
+
+The SECURE Act also helpfully replaces the old five-year distribution rule with the ten-year rule, even for designated beneficiaries who are not EDBs, i.e., for those who are ineligible designated beneficiaries (IDBs). The ten-year rule also applies now to beneficiaries who succeed to plan benefits upon the death of an EDB. Unfortunately, though, beneficiaries who succeed to plan benefits upon the death of an IDB must still distribute all the remaining benefit within the same period that was applicable to the IDB.
+
+Beneficiaries that are so-called “see-through” trusts have long been afforded special RMD treatment. Now, however, the possibility of making life expectancy distributions to such a trust may be lost if any of the trust beneficiaries are IDBs. The SECURE Act partially addresses this problem by providing for “applicable multi-beneficiary trusts” that can allow a trust for a disabled or chronically ill beneficiary to still take RMDs over the beneficiary’s life expectancy.
+
+The SECURE Act also applies to commercial annuities purchased by tax-favored retirement plans that are defined contribution plans (including IRAs). These plans may now purchase lifetime and period certain annuities only for EDBs. Such annuities purchased for IDBs would normally conflict with the required application of the ten-year distribution rule.
+
+Fortunately, the SECURE Act does not apply to traditional defined benefit plans. Stretch annuities are still available under such plans even for IDBs. These annuities may provide unreduced payments for a period certain, and may allow significant increases over time in the amount of an annuity payment. It is true that joint and survivor annuity payments may be limited in amount for beneficiaries more than ten years younger than the deceased participant. Nevertheless, the payments may be as much as 52 percent of the payments to the participant for even the youngest of beneficiaries (with a higher percentage for older beneficiaries).
+
+Note: Comments are welcomed.
+
+Suggested Citation:
+
+Blankenship, Vorris J., Distributions to Beneficiaries of Tax-Favored Retirement Plans, before and after the Secure Act (June 17, 2020). The Tax Lawyer, Vol. 74, No. 1, Available at SSRN: https://ssrn.com/abstract=3629552 or http://dx.doi.org/10.2139/ssrn.3629552
+Download This Paper
+ 
+Open PDF in Browser
+96 References
+Reg
+Q&A , volume 1 , issue 9
+Reg
+Q&A , volume 1 , issue 9
+I R C
+, volume 402
+Crossref
+Cf , Notice
+C.B , volume 395 , issue b Posted: 2001
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+100
+ABSTRACT VIEWS
+1,018
+RANK
+618,773
+96 References
+PlumX Metrics
+Related eJournals
+
+Tax Law & Policy eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

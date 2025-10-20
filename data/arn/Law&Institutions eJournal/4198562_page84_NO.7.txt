@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditor Selection and Investment Risk
+
+41 Pages Posted: 23 Aug 2022
+
+Mai Dao
+
+University of Toledo - College of Business Administration
+
+Benjamin W. Hoffman
+
+Cleveland State University
+
+Trung Pham
+
+University of Illinois Springfield
+
+Justyna Skomra
+
+Pennsylvania State University - Sam and Irene Black School of Business
+
+There are 2 versions of this paper
+
+Abstract
+
+This paper investigates the relation between the riskiness of a firm’s investment policies and the firm’s selection of an external auditor. Using a sample of U.S. publicly listed companies from 2004-2018, we hypothesize that firms with riskier investment policies are more likely to choose a higher quality auditor to reduce information asymmetry and increase the credibility of financial reports. We use logit regression analysis, applying four measures of auditor quality and four measures of investment policy risk. We find that firms with riskier investment policies are more likely to choose higher quality auditors. Specifically, firms with higher R&D expenditures, a greater number of business and geographic segments, lower capital expenditures and fewer acquisitions are more likely to hire an industry-specialist auditor or a Big 4 auditor. These results are robust to various additional analyses and robustness checks. Our findings support the notion that corporate policies directly determined by firm management still may influence external auditor selection in the post-SOX environment. This may be of interest to regulators and policymakers.
+
+Keywords: auditor choice, investment risk, auditor quality
+
+Suggested Citation:
+
+Dao, Mai and Hoffman, Benjamin W. and Pham, Trung and Skomra, Justyna, Auditor Selection and Investment Risk. Available at SSRN: https://ssrn.com/abstract=4198562 or http://dx.doi.org/10.2139/ssrn.4198562
+Download This Paper
+ 
+Open PDF in Browser
+92 References
+L J Abbott , S Parker
+Auditor selection and audit committee characteristics
+Auditing: A Journal of Practice and Theory , volume 19 , issue 2 , p. 47 - 66 Posted: 2000
+A R Abdel-Khalik
+CEO risk preference and investing in R&D
+Abacus , volume 50 , issue 3 , p. 245 - 278 Posted: 2014
+D Aboody , B Lev
+Information asymmetry, R&D, and insider gains
+The Journal of Finance , volume 55 , issue 6 , p. 2747 - 2766 Posted: 2000
+A Agrawal , G N Mandelker
+Managerial incentives and corporate investment and financing decision
+The Journal of Finance , volume 42 , issue 4 , p. 823 - 837 Posted: 1987
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+88
+ABSTRACT VIEWS
+755
+RANK
+317,057
+92 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

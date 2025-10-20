@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Informed Trading Competition and the Post-Earnings-Announcement Drift
+
+38 Pages Posted: 25 Mar 2025
+
+Harold Contreras
+
+University of Chile - Faculties of Economics and Business; University of Warwick, Warwick Business School
+
+Date Written: January 31, 2025
+
+Abstract
+
+The Post-Earnings Announcement Drift (PEAD) is one of the most prevailing anomalies in stock markets. This paper examines the impact of competition for trading between insiders and short sellers on the PEAD. Using a sample of U.S. stocks from 2006 to 2017, we show that when both insiders and short sellers agree and trade the same stocks shortly after the publication of earnings, the PEAD reduces significantly more than during times when they do not agree. This attenuating effect over the PEAD is also more pronounced for short sales than insider sales, as the latter is usually executed for liquidity or diversification. Moreover, the reduction in the PEAD is concentrated in firms with greater information uncertainty and in the trades made by a firm's CEOs and/or CFOs rather than other executives or non-executive directors. Overall, this paper sheds light on the crucial role of competition for trading in reducing information asymmetries after earnings announcements.
+
+Keywords: Insider trading, Short selling, Informed trading, Earnings announcements JEL Classification: G14, G19, G39, M41
+
+Suggested Citation:
+
+Contreras, Harold, Informed Trading Competition and the Post-Earnings-Announcement Drift (January 31, 2025). Available at SSRN: https://ssrn.com/abstract=5173167 or http://dx.doi.org/10.2139/ssrn.5173167
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+D M Alldredge , D C Cicero
+Attentive insider trading
+Journal of Financial Economics , volume 115 , issue 1 , p. 84 - 101 Posted: 2015
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of financial markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+P Asquith , P Pathak , J Ritter
+Short interest, institutional ownership, and stock returns
+Journal of Financial Economics , volume 78 , p. 243 - 276 Posted: 2005
+B C Ayers , O Z Li , P E Yeung
+Investor trading and the post-earningsannouncement drift
+The Accounting Review , volume 86 , issue 2 , p. 385 - 416 Posted: 2011
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+40
+ABSTRACT VIEWS
+908
+62 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

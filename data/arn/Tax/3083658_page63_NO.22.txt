@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cryptocurrency & Robots: How to Tax and Pay Tax on Them
+
+69 South Carolina Law Review 697 (69 S.C. L. Rev. 697)
+
+68 Pages Posted: 11 Dec 2017 Last revised: 3 Jun 2018
+
+Sami Ahmed
+
+Yale Law School
+
+Date Written: December 6, 2017
+
+Abstract
+
+New technologies, such as blockchain, cryptocurrency (e.g., Bitcoin), and artificial intelligence are rapidly changing how transactions occur in the United States. While scholars have started to examine how a number of areas of law should adapt, very little work has been done on what these changes mean for taxation. Yet these developments could have a huge impact on tax revenues. For example, some approaches to taxing transactions using cryptocurrency could result in these transactions being conducted abroad, beyond the reach of the U.S. taxing authorities. And if robots replace large segments of the labor force, this could drastically shrink federal and state income tax bases.
+
+The approach to taxing new technologies is a careful balance of capturing value and not disincentivizing growth. For example, if governments decide to levy a “robot tax” to replace revenues the income tax is no longer generating, they may accidentally stifle innovation in that jurisdiction.
+
+At the same time, these new technologies also provide tools that governments can harness to levy taxes far more effectively than they currently do. For example, using blockchain technology to track the history of income and company shares allows for the potential of an integrated tax system, which combines the currently separate corporate and personal taxes into one unified taxation regime. The effects of this transition are a removal of many distortions and behavioral inefficiencies.
+
+Just because technology can be used to levy taxes far more creatively does not mean that it should be. But given the rapid rate at which technological change is occurring, governments cannot afford to sit back and make these decisions by inertia. Rather, the main argument of this is that governments should: (i) recognize and adapt to shifting tax bases; and (ii) use technology such as blockchain to better target the populations and behaviors desired to be taxed. The paper recommends specific examples of how to better tax and use technologies, such as blockchain, to reform current taxation schemes.
+
+There is also ample discussion of whether cryptocurrency will be regulated as a security (as per the Howey test and recent SEC enforcement actions), a discussion of foreign jurisdictions' approaches to cryptocurrency regulation and taxation, and recommendations to the SEC and IRS on how they should adjust their taxation of cryptocurrency.
+
+Keywords: Bitcoin, Cryptocurrency, Robots, Tax, Integration, Taxation, International Tax
+
+Suggested Citation:
+
+Ahmed, Sami, Cryptocurrency & Robots: How to Tax and Pay Tax on Them (December 6, 2017). 69 South Carolina Law Review 697 (69 S.C. L. Rev. 697), Available at SSRN: https://ssrn.com/abstract=3083658
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+1 Citations
+Donato Masciandaro
+Central Bank Digital Cash and Cryptocurrencies: Insights from a New Baumol–Friedman Demand for Money
+Australian Economic Review, Vol. 51, Issue 4, pp. 540-550, 2018 · 11 Pages · Posted: 30 Nov 2018 · Downloads: 14
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,198
+ABSTRACT VIEWS
+5,648
+RANK
+40,455
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

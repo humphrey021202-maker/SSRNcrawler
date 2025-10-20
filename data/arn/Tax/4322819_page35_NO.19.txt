@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cybersecurity Carrots and Sticks
+
+61 American Business Law Journal 5 (2024)
+
+25 Pages Posted: 19 Jan 2023 Last revised: 24 May 2024
+
+Janine S. Hiller
+
+Virginia Tech
+
+Kathryn Kisska-Schulze
+
+Clemson University College of Business
+
+Scott Shackelford
+
+Indiana University - Kelley School of Business - Department of Business Law; Indiana University Bloomington - The Vincent and Elinor Ostrom Workshop in Political Theory & Policy Analysis; Center for Applied Cybersecurity Research; Harvard Kennedy School Belfer Center for Science & International Affairs; Stanford Center for Internet and Society; Stanford Law School
+
+Date Written: January 28, 2024
+
+Abstract
+
+In an unsustainable trend, each year is touted as the worst on record for data and system breaches. 2020's dubious top distinction was exceeded across numerous metrics in 2021, and 2022's numbers set another unwanted record. The growing epidemic of ransomware, data breaches, and cyber-enabled attacks pushes policymakers and business leaders to consider what can be done to reverse the cyberinsecurity spiral. Amidst the current cybersecurity landscape fraught with regulatory gaps, dependence on self-regulation, and resource constraints of small- and medium-sized businesses, policymakers should seize opportunities to reward reasonable cybersecurity postures and disincentivize underinvestment in cybersecurity best practices. Bold and coordinated actions are needed to dislodge the unsustainable trend of increasingly damaging cyberattacks, and to create a more holistically secure digital future. To move the needle toward a more robust cybersecurity ecosystem, this article proposes an incentive-based strategy that breaks the mandateversus-self-regulation dichotomy, leveraging a carrots and sticks tax approach to spur stronger cybersecurity postures across the ecosystem. Such proposal outlines a framework for a Federal Cybersecurity Investment Tax Credit, tailored and mapped to select entity types, combined with a cyberinsecurity tax, thus promoting the principle that businesses have basic cybersecurity responsibilities and fundamental duties to operate securely in a digital society. In addition, this article introduces supplementary tools as part of an enhanced cybersecurity tax policy toolkit. Given pressing national and global cyber risks, this article continues a long-standing conversation about the operative use of tax policy as part of a holistic approach to reaching a secure and sustainable digital future.
+
+Keywords: cybersecurity, tax, policy, risk management
+
+Suggested Citation:
+
+Hiller, Janine S. and Kisska-Schulze, Kathryn and Shackelford, Scott J., Cybersecurity Carrots and Sticks (January 28, 2024). 61 American Business Law Journal 5 (2024), Available at SSRN: https://ssrn.com/abstract=4322819 or http://dx.doi.org/10.2139/ssrn.4322819
+Download This Paper
+ 
+Open PDF in Browser
+162 References
+Governing the Internet of Everything, 72 HASTINGS L
+J , volume 627 , p. 635 - 636 Posted: 2021
+Kevin Bocek
+Software Supply Chains and Enterprise IoT Will Be Big Attack Targets in 2022
+FORBES , volume 10 Posted: 2022-01-18
+Bob Kolasky
+A Risk-Based Approach to National Cybersecurity, CYBERSECURITY & INFRASTRUCTURE SEC
+AGENCY Posted: 2021-11-01
+Understanding Systemic , Cyber Risk , F Econ , Lincoln Kaffenberger , Emanuel Kopp
+explaining systemic risk and cyber security
+Cyber Risk Scenarios, the Financial System, and Systemic Risk Assessment , p. 5 - 6 Posted: 2016-10
+Load more
+2 Citations
+Anders Henten , Iwona Windekilde , Morten Falch
+Cybersecurity institutions in the EU and the US
+25 Pages · Posted: 18 Oct 2024 · Last revised: 2 Dec 2024 · Downloads: 53
+Download PDF  Add Paper to My Library
+Suresh Neethirajan
+Safeguarding Digital Livestock Farming - A Comprehensive Cybersecurity Roadmap for Dairy and Poultry Industries
+31 Pages · Posted: 18 Feb 2025 · Downloads: 64
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+324
+ABSTRACT VIEWS
+1,696
+RANK
+213,115
+2 Citations
+162 References
+PlumX Metrics
+Related eJournals
+
+Cyberspace Law eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

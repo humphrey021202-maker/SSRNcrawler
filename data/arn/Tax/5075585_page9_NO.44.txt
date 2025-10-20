@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Volume Based Transfer Pricing for Integrated Supply Chain Structures
+
+Journal of International Taxation, October 2009.
+
+54 Pages Posted: 12 Feb 2025
+
+Stephen L. Curtis
+
+Cross Border Analytics, Inc.
+
+Ioseb Nutsubidze
+
+Ernst & Young LLP
+
+Curt Kinsky
+
+Ernst & Young LLP
+
+Date Written: October 01, 2009
+
+Abstract
+
+This 2009 paper analyzes how transfer pricing arrangements between related affiliates of a multinational company participating in an interrelated global supply chain need to have flexible pricing arrangements, in order to maintain compliance with the arm’s length standard across a range of revenue and cost outcomes. This is because many tax planning arrangements seek to limit risks and therefore profits in certain jurisdictions while placing those risks and profits in a lower taxed jurisdiction. However, when implementing such arrangements, the outcomes are often not as predicted. For instance, when the multinational experiences an aggregate loss for its worldwide supply chain, some “low risk” affiliates may have “guaranteed” profits in higher taxed countries due to these arrangements, resulting in the payment of taxes in the absence of profits on a combined basis. Based on the principle that there is no business operation is ever “risk-free” due to unforeseen circumstances, transfer pricing arrangements should not be static and result in cases of “taxes on losses” or “double taxation” in the event of various contingencies such as supply chain losses resulting from changes in demand or the cost of inputs. This paper provides various approaches to designing and implementing intercompany pricing arrangements that are flexible to maintain compliance with the arm’s le length principle and U.S. and non-U.S. transfer pricing rules under a variety of circumstances. Mostly these models adjust intercompany pricing based on a “subsidy” and “tariff” approach to adjusting profits to account for various contingent outcomes, tied in advance to changes in volumes and revenues. This is needed to account for the impacts on profits at a particular affiliate that can differ from other affiliates depending on differences in financial structures such as proportions of fixed and variable costs, functions, levels of inventory maintenance and turnover, asset intensity, and other forms of risk-bearing, as well as whether the affiliate is a contract or “full-fledged” manufacturer, distributor, or other type entity, and the levels at which  risks and profits are limited or not.
+
+Suggested Citation:
+
+Curtis, Stephen L and Nutsubidze, Ioseb and Kinsky, Curt, Volume Based Transfer Pricing for Integrated Supply Chain Structures (October 01, 2009). Journal of International Taxation, October 2009., Available at SSRN: https://ssrn.com/abstract=5075585 or http://dx.doi.org/10.2139/ssrn.5075585
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+Armen A Alchian , G Robert , Benjamin Crawford , Klein
+Vertical integration, appropriable rents, and the competitive contracting process
+Journal of Law and Economics , volume 21 , issue 2 , p. 297 - 326 Posted: 1978
+Krishnan Anand , Ravi Anupindi , Yehuda Bassok
+Strategic inventories in procurement contracts
+Ravi Anupindi , Ram Akella
+Diversification under supply uncertainty
+Management Science , volume 39 , p. 944 - 963 Posted: 1993
+Yossi Aviv
+The effect of collaborative forecasting on supply chain performance
+Management Science , volume 47 , p. 1326 - 1343 Posted: 2001
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+56
+ABSTRACT VIEWS
+282
+RANK
+872,691
+39 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

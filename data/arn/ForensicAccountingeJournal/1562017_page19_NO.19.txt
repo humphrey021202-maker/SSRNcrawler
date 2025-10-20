@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Executive Stock-Based Compensation: A Case Study in Valuing Employee Stock Options and Restricted Stock Issues in a Breach of Contract Case
+
+17 Pages Posted: 3 Mar 2010
+
+Dwight Steward
+
+EmployStats - Economists and Statisticians
+
+Date Written: March 1, 2010
+
+Abstract
+
+In this case study, the former CEO of a large telecommunication company filed a lawsuit against her former employer that alleged that the company’s contract breach resulted in the loss ESO grants and diminished the value of the vested ESOs that she held at the time of the alleged contract breach. The former company executive also alleges that the breach prevented her from receiving restricted company stock shares that she believes she was entitled to under her contract with the employer. In this paper, I present an application of the Shapiro and O’Connor (2001) modified Black-Scholes (B-S) and the Hull-White (2002) binomial lattice tree employee stock option (ESO) valuation models to the valuation of breach of employment contract damages. In addition to ESO valuation, this paper also illustrates the valuation of restricted company stock issues and provides a discussion of the approaches used to account for the unique valuation related issues that arise in litigation. The case study illustrates the importance of incorporating case specific factors, such as the plaintiff's historical ESO exercise rates and firm specific ESO forfeiture probabilities, into the valuation models.
+
+Keywords: Employee Stock Options, Hull White, Stock Option Pricing, Black Scholes, Breach of Employment Contract
+
+JEL Classification: M52, J33, K00
+
+Suggested Citation:
+
+Steward, Dwight, Executive Stock-Based Compensation: A Case Study in Valuing Employee Stock Options and Restricted Stock Issues in a Breach of Contract Case (March 1, 2010). Available at SSRN: https://ssrn.com/abstract=1562017 or http://dx.doi.org/10.2139/ssrn.1562017
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+David Aboody
+Market Valuation of Employee Stock Options
+Journal of Accounting & Economics , volume 22 , p. 357 - 391 Posted: 1996
+Crossref
+Les Barenbaum , Walt Schubert , Bonnie O&apos; Rourke
+Valuing Employee Stock Options Using a Lattice Model
+n. pag. New york State Society of CPAa. Web Posted: 2004-12-10
+Peter Brous
+Estimating Damages Associated with Stock Option Compensation in Wrongful Termination Lawsuits
+Journal of Forensic Economics , volume 15 , p. 269 - 283 Posted: 2002
+Crossref
+Jennifer Carpenter
+The Exercise and Valuation of Executive Stock Options
+Journal of Financial Economics , volume 48 , p. 127 - 158 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+364
+ABSTRACT VIEWS
+2,673
+RANK
+187,924
+21 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Finance Education eJournal
+
+Follow
+ 
+Recommended Papers
+
+Executive Compensation
+
+By Kevin J. Murphy
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

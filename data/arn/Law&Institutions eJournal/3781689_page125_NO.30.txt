@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Parent-only Balance Sheet Information and Credit Risk Assessments
+
+Accounting Horizons, 2024, Volume 38, Issue 3, pp. 135-156.
+
+38 Pages Posted: 18 Feb 2021 Last revised: 27 Mar 2025
+
+Jennifer Tucker
+
+University of Florida - Warrington College of Business
+
+Ying Zhou
+
+University of Connecticut
+
+Jigao Zhu
+
+University of International Business and Economics
+
+Date Written: September 6, 2023
+
+Abstract
+
+General-purpose financial statements prepared under GAAP are for a consolidated reporting entity—a collection of legal entities that include the parent and any subsidiaries it controls. This reporting model results in a loss of information about the individual legal entities within the consolidated reporting entity. Our study examines the role of parent-only balance sheet information in assessing the credit risk of the parent when it is a bank holding company. We obtain evidence from three trading platforms: credit default swaps (CDS), outstanding bonds, and new bonds. We find that parent-only leverage is useful for debtholders to assess the parent’s credit risk even after considering consolidated leverage. Moreover, in the CDS markets, parent-only leverage is more useful for firms without downstream guarantee than firms with guarantee and is less useful for firms with a stronger internal capital market. Our study raises the awareness of parent-only financial information for credit risk assessments.
+
+Keywords: Consolidation; parent-only; credit risk; debt; banks; disaggregation.
+
+JEL Classification: M2, M4, and G3.
+
+Suggested Citation:
+
+Tucker, Jennifer and Zhou, Ying and Zhu, Jigao, Parent-only Balance Sheet Information and Credit Risk Assessments (September 6, 2023). Accounting Horizons, 2024, Volume 38, Issue 3, pp. 135-156., Available at SSRN: https://ssrn.com/abstract=3781689 or http://dx.doi.org/10.2139/ssrn.3781689
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+V Acharya , T Johnson
+Insider trading in credit derivatives
+Journal of Financial Economics , volume 84 , p. 110 - 141 Posted: 2007
+P D Allison
+Fixed Effects Regression Models Posted: 2009
+A B Ashcraft
+Are banks really special? New evidence from the FDIC-induced failure of healthy banks
+American Economic Review , volume 95 , issue 5 , p. 1712 - 1730 Posted: 2005
+A B Ashcraft
+Are bank holding companies a source of strength to their banking subsidiaries
+Journal of Money, Credit and Banking , volume 40 , issue 2-3 , p. 273 - 294 Posted: 2008
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+234
+ABSTRACT VIEWS
+1,289
+RANK
+298,527
+35 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

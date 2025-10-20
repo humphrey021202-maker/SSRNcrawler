@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditor-Provided Nonpublic Signals of Misreporting and CFO Dismissal
+
+Review of Accounting Studies, forthcoming
+
+56 Pages Posted: 30 Apr 2024 Last revised: 16 Sep 2025
+
+Phillip T. Lamoreaux
+
+Arizona State University
+
+Summer Liu
+
+Texas A&M University - Department of Accounting
+
+Nathan J. Newton
+
+Florida State University
+
+Min Zhang
+
+Renmin University of China - School of Business
+
+Date Written: April 29, 2024
+
+Abstract
+
+Research suggests that board members value financial reporting quality because executive dismissal often follows low reporting quality events. However, inferences about the board’s demand for reporting quality in these studies are confounded by board members’ reputation incentives because the events examined are public (e.g., restatements). We investigate boards’ demand for reporting quality by exploiting a private signal of misreporting: audit adjustments communicated to the board by the external auditor. We first survey 29 audit committee chairs to understand whether boards use audit adjustments in their oversight of management and then conduct an empirical investigation to answer our research question. We find an increased likelihood of CFO dismissal following audit adjustments. This association is driven by adjustments that reduce income and by firms with better board oversight. These findings suggest that boards proactively use nonpublic signals of reporting quality and incorporate information from auditors into their monitoring function.
+
+Keywords: Private signals; audit adjustments; reporting quality; executive turnover; CFO dismissal
+
+JEL Classification: G34; L84; M41; M42
+
+Suggested Citation:
+
+Lamoreaux, Phillip T. and Liu, Summer and Newton, Nathan J. and Zhang, Min, Auditor-Provided Nonpublic Signals of Misreporting and CFO Dismissal (April 29, 2024). Review of Accounting Studies, forthcoming, Available at SSRN: https://ssrn.com/abstract=4811470 or http://dx.doi.org/10.2139/ssrn.4811470
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+A Agrawal , T Cooper
+Corporate governance consequences of accounting scandals: Evidence from top management, CFO, and auditor turnover
+Quarterly Journal of Finance , volume 7 , issue 1 , p. 1 - 41 Posted: 2017
+C S Armstrong , W R Guay , J P Weber
+The role of information and financial reporting in corporate governance and debt contracting
+Journal of Accounting and Economics , volume 50 , p. 179 - 234 Posted: 2010
+M L Arthaud-Day , S T Certo , C M Dalton , D R Dalton
+A changing of the guard: Executive and director turnover following corporate financial restatements
+Academy of Management Journal , volume 49 , issue 6 , p. 1119 - 1136 Posted: 2006
+M J Beck , E G Mauldin
+Who's really in charge? Audit committee versus CFO power and audit fees
+The Accounting Review , volume 89 , issue 6 , p. 2057 - 2085 Posted: 2014
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+179
+ABSTRACT VIEWS
+814
+RANK
+386,825
+79 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

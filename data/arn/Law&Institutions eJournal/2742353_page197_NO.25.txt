@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Endogenous Contract Selection on Budgetary Slack: An Experimental Examination of Trust, Distrust, and Trustworthiness
+
+47 Pages Posted: 7 Mar 2016 Last revised: 6 Apr 2017
+
+Jeremy Douthit
+
+University of Arizona - Dhaliwal-Reidy School of Accountancy
+
+Steven T. Schwartz
+
+SUNY at Binghamton - School of Management
+
+Douglas E. Stevens
+
+Georgia State University - Robinson College of Business
+
+Richard A. Young
+
+Ohio State University (OSU) - Department of Accounting & Management Information Systems
+
+Date Written: January 10, 2017
+
+Abstract
+
+We examine the effect of endogenous contract selection on budgetary slack using two slack-inducing contracts found in the literature: a trust contract where the superior must accept the subordinate’s budget and a discretion contract where the superior can accept or reject the budget. Because neither contract incorporates a formal control for budgetary slack, we apply insights from both agency theory and social norm theory to develop our theoretical expectations. We hypothesize and find that budgetary slack is lower for both contracts when they are endogenously selected by the superior than when they are exogenously assigned. Consistent with our theoretical expectations, exit questionnaire responses suggest that selecting a trust contract signals trust and expectations of trustworthiness whereas selecting a discretion contract signals distrust and an increased willingness to enforce trustworthiness by rejecting unreasonable budgets. Signaling distrust, however, appears optimal for superiors in our budgeting setting. In particular, far more superiors select the discretion contract under endogenous contract selection and doing so yields the efficiency of the optimal hurdle contract prescribed under traditional agency assumptions.
+
+Keywords: endogenous contract selection, trust, distrust, trustworthiness
+
+JEL Classification: C91, D83, M40
+
+Suggested Citation:
+
+Douthit, Jeremy and Schwartz, Steven T. and Stevens, Douglas E. and Young, Richard A., The Effect of Endogenous Contract Selection on Budgetary Slack: An Experimental Examination of Trust, Distrust, and Trustworthiness (January 10, 2017). Available at SSRN: https://ssrn.com/abstract=2742353 or http://dx.doi.org/10.2139/ssrn.2742353
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+R Antle , G Eppen
+Capital rationing and organizational slack in capital budgeting
+Management Science , volume 31 , issue 2 , p. 163 - 174 Posted: 1985
+Crossref
+R Antle , J Fellingham
+Models of capital investments with private information and incentives: A Selective review
+Journal of Business Finance and Accounting , volume 24 , issue jou_issue[1].xmlText , p. 887 - 908 Posted: 1997
+Crossref
+R Baron , D Kenny
+The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations
+Journal of Personality and Social Psychology , volume 51 , issue 6 , p. 1173 - 1182 Posted: 1986
+Crossref
+A Ben-Ner , F Halldorsson
+Trusting and trustworthiness: What they are, how to measure them, and what affects them
+Journal of Economic Psychology , volume 31 , issue 1 , p. 64 - 79 Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+329
+ABSTRACT VIEWS
+2,050
+RANK
+209,480
+17 Citations
+61 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

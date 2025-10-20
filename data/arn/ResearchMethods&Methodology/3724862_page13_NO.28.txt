@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analysts’ Estimates of the Cost of Equity Capital
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+67 Pages Posted: 9 Jan 2021
+
+Karthik Balakrishnan
+
+Rice University - Jesse H. Jones Graduate School of Business
+
+Lakshmanan Shivakumar
+
+London Business School
+
+Peeyush Taori
+
+London Business School
+
+There are 2 versions of this paper
+
+Date Written: October 30, 2020
+
+Abstract
+
+We explore a large sample of analysts’ estimates of the cost of equity capital (CoE) to evaluate their usefulness as expected return proxies (ERP). We find that the CoE estimates are significantly related to a firm’s beta, size, book-to-market ratio, leverage, and idiosyncratic volatility but not other risk proxies. Even after controlling for the popular return predictors, the CoE estimates incrementally predict future stock returns. This predictive ability is better explained as the CoE estimates containing ERP information rather than reflecting stock mispricing. When evaluated against traditional ERPs, including the implied costs of capital, the CoE estimates are found to be the least noisy. Finally, we document CoE responses around earnings announcements, demonstrating their usefulness to study discount-rate reactions of market participants. We conclude that analysts’ CoE estimates are meaningful ERPs that can be fruitfully employed in a variety of asset pricing contexts.
+
+Keywords: analysts, cost of equity, expected stock returns, implied cost of equity capital
+
+JEL Classification: G14, G24, G29, G32
+
+Suggested Citation:
+
+Balakrishnan, Karthik and Shivakumar, Lakshmanan and Taori, Peeyush, Analysts’ Estimates of the Cost of Equity Capital (October 30, 2020). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=3724862 or http://dx.doi.org/10.2139/ssrn.3724862
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+9 Citations
+Atif Ellahie , Rachel M. Hayes , Marlene A. Plumlee
+Growth Matters: Disclosure and Risk Premium
+The Accounting Review, 2022, 97 (4), 259–286, · 51 Pages · Posted: 2 Aug 2016 · Last revised: 12 Oct 2022 · Downloads: 540
+Download PDF  Add Paper to My Library
+Petri Jylha , Michael Ungeheuer
+Growth Expectations out of WACC
+81 Pages · Posted: 29 Jun 2020 · Last revised: 24 Nov 2021 · Downloads: 699
+Download PDF  Add Paper to My Library
+Jeremiah Green , John R. M. Hand , Anywhere Sikochi
+The asymmetric mispricing information in analysts’ target prices
+Review of Accounting Studies, forthcoming. · 41 Pages · Posted: 14 Aug 2020 · Last revised: 26 Sep 2022 · Downloads: 245
+Download PDF  Add Paper to My Library
+Stephannie A. Larocque , Yong Yu , Wuyang Zhao
+Analysts’ EPS-decreasing exclusions and target price forecasts
+Accepted at <i>Management Science.</i> · 53 Pages · Posted: 4 Jan 2021 · Last revised: 30 Nov 2024 · Downloads: 278
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+399
+ABSTRACT VIEWS
+1,589
+RANK
+47,241
+9 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

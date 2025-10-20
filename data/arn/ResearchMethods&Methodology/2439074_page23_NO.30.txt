@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Asymmetric Dependence, Tail Dependence, and the Time Interval over Which the Variables Are Measured
+
+29 Pages Posted: 20 May 2014 Last revised: 21 May 2014
+
+Byoung Uk Kang
+
+Hong Kong Polytechnic University - School of Accounting and Finance
+
+Gunky Kim
+
+Monash Business School
+
+Date Written: May 20, 2014
+
+Abstract
+
+The effect of time interval on the linear correlation coefficient between random variables is well documented in the literature. In this paper, we investigate the time interval effect on asymmetric dependence and tail dependence between random variables. We prove that when two random variables are characterized by asymmetric dependence (in any direction), the magnitude of asymmetry in their dependence structure decreases monotonically as the time interval increases, approaching zero (i.e., symmetry) in the limit. Also, when two random variables exhibit tail dependence, their tail dependence decreases monotonically as the time interval increases, approaching zero (i.e., tail independence) in the limit. Our results hold regardless of whether the variables are both additive, both multiplicative, or one is additive and the other is multiplicative.
+
+Keywords: Additive variables, Multiplicative variables, Copulas
+
+JEL Classification: C15, C20, G12
+
+Suggested Citation:
+
+Kang, Byoung Uk and Kim, Gunky, Asymmetric Dependence, Tail Dependence, and the Time Interval over Which the Variables Are Measured (May 20, 2014). Available at SSRN: https://ssrn.com/abstract=2439074 or http://dx.doi.org/10.2139/ssrn.2439074
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+M Alciatore , P Easton , N Spear
+Accounting for the impairment of long-lived assets: Evidence from the petroleum industry
+Journal of Accounting and Economics , volume 29 , p. 151 - 172 Posted: 2000
+Crossref
+A Ang , Chen , J
+Asymmetric correlations of equity portfolios
+Journal of Financial Economics , volume 63 , p. 443 - 494 Posted: 2002
+Crossref
+C S Armstrong , J E Core , D J Taylor , R E Verrecchia
+When does information asymmetry affect the cost of capital?
+Journal of Accounting Research , volume 49 , issue 1 , p. 1 - 40 Posted: 2011
+Crossref
+S Artstein , K M Ball , F Barthe , A Naor
+Solution of Shannon's problem on the monotonicity of entropy
+Journal of the American Mathematical Society , volume 17 , issue 4 , p. 975 - 982 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+138
+ABSTRACT VIEWS
+1,455
+RANK
+481,162
+37 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

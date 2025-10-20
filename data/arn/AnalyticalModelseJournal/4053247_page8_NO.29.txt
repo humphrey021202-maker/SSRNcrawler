@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditor Specialization and Information Spillovers
+
+The Accounting Review, Forthcoming
+
+Tuck School of Business Working Paper No. 4053247
+
+52 Pages Posted: 4 Apr 2022 Last revised: 6 Apr 2022
+
+Evgeny Petrov
+
+University of Zurich - Department of Business Administration
+
+Phillip C. Stocken
+
+Dartmouth College - Tuck School of Business
+
+Date Written: February 4, 2022
+
+Abstract
+
+We study the determinants of auditor industry specialization, the impact of specialization on fees and audit quality, and a regulator's optimal choice of audit standards in the presence of specialization. In industries with correlated firm values, a specialist auditor enjoys synergies from information spillovers between clients. These spillovers, however, only induce a specialist to decrease audit effort when the cost of effort and the prior precision of the firms' values are low. We derive empirical predictions about the determinants of specialization, and show that specialization benefits firms through lower expected fees and higher audit reporting quality, but only enhances the usefulness of reports to investors when the specialist exerts high audit effort. In a regulated setting, a stricter audit standard affects fees through its impact on specialization. We provide conditions under which standards that maximize firm value will be more strict and less strict when a regulator recognizes synergies.
+
+Keywords: information spillovers, audit quality, auditor specialization, audit fees, PCAOB regulation
+
+JEL Classification: C72, D80, D83, L22, M42, M48
+
+Suggested Citation:
+
+Petrov, Evgeny and Stocken, Phillip C., Auditor Specialization and Information Spillovers (February 4, 2022). The Accounting Review, Forthcoming , Tuck School of Business Working Paper No. 4053247, Available at SSRN: https://ssrn.com/abstract=4053247
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+A Admati , P Pfleiderer
+Forcing firms to talk: Financial disclosure regulation and externalities
+Review of Financial Studies , volume 13 , issue 3 , p. 479 - 519 Posted: 2000
+E D Almer , D R Philbrick , K H Rupley
+What drives auditor selection?
+Current Issues in Auditing , volume 8 , issue 1 , p. A26 - A42 Posted: 2014
+D Aobdia
+Proprietary Information Spillovers and Supplier Choice: Evidence from Auditors
+Review of Accounting Studies , volume 20 , issue 4 , p. 1504 - 1539 Posted: 2015
+T B Bell , M Causholli , W R Knechel
+Audit Firm Tenure, Non-Audit Services, and Internal Assessments of Audit Quality
+Journal of Accounting Research , volume 53 , issue 3 , p. 461 - 509 Posted: 2015
+Load more
+5 Citations
+Paul Mason , Steven Utke
+Can Audit Industry Market Share be Bought? Evidence from Audits in the Private Equity and Hedge Fund Industry
+59 Pages · Posted: 15 Sep 2020 · Last revised: 1 Oct 2025 · Downloads: 194
+Download PDF  Add Paper to My Library
+Minlei Ye
+The Theory of Auditing Economics: Evidence and Suggestions for Future Research
+127 Pages · Posted: 8 Mar 2021 · Last revised: 10 May 2023 · Downloads: 1,026
+Download PDF  Add Paper to My Library
+Ahmet C. Kurt
+Auditor Expertise in Government Contracting
+44 Pages · Posted: 13 Sep 2022 · Last revised: 6 Jan 2025 · Downloads: 166
+Download PDF  Add Paper to My Library
+Nikolaj Niebuhr Lambertsen , Matthias Lassak
+Managerial Overoptimism, Discretionary Disclosure, and Certification
+66 Pages · Posted: 25 Jan 2023 · Last revised: 4 Apr 2024 · Downloads: 210
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+458
+ABSTRACT VIEWS
+1,178
+RANK
+144,163
+5 Citations
+57 References
+PlumX Metrics
+Related eJournals
+
+Tuck School of Business at Dartmouth Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

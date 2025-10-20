@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Commentary: Ownership Neutrality and Practical Complications
+
+62 Tax L. Rev. 317 (2009)
+
+16 Pages Posted: 18 Dec 2015
+
+Stephen E. Shay
+
+Boston College Law School
+
+Date Written: 2009
+
+Abstract
+
+In "Reconsidering the Taxation of Foreign Income," Jim Hines analyzes the consequences of taxing, as opposed to exempting, active foreign business income by comparing the expected effects on capital ownership of a "pure" worldwide income taxation system with the effects on capital ownership of a "pure" territorial taxation regime. Consistent with his earlier work, Hines asserts that a capital ownership neutrality analysis supports exempting foreign active business income from home country residence taxation and points to global welfare losses from taxing income on a worldwide basis with a credit for foreign taxes.
+
+As he has previously, Hines sets up his discussion of capital ownership neutrality by criticizing the "older wisdom" of international tax policy that established a "tension between policies that maximize national welfare - NN - and policies that maximize global welfare - CEN." According to Hines, perhaps the most critical of the assumptions underlying the traditional investment location neutrality framework is that "home country taxation does not directly or indirectly affect foreign firms." Hines argues that if greater investment abroad triggers greater investment by foreign firms in the residence country, "[t]he NN implication that home countries maximize their own welfare by subjecting foreign income to taxation with only deductions for foreign income tax payments then no longer follows." If the productivity of an investment depends on its ownership (without regard to the location of the investment) and home and foreign firms compete for ownership of capital around the world, then taxation of foreign income (with a credit for foreign tax) does not necessarily contribute to production efficiency. Instead, Hines argues, different home country taxation resulting from worldwide taxation distorts optimal asset ownership and results in a global welfare loss. In the absence of a global adoption of worldwide taxation, Hines concludes that under an ownership neutrality analysis, exemption of foreign income advances national welfare.
+
+In considering the problem of allocation of expenses, Hines argues that, to assure ownership neutrality, it is not enough to exempt foreign net income. In addition, "general expenses," such as interest and general administrative overhead, should "not be allocated at all [between domestic and foreign income], but instead traced to their uses."
+
+Hines briefly considers the implications of certain practical complications, including transfer pricing and the difficulty of sourcing income, for his analysis. Hines suggests that allowing transfer pricing enforcement concerns to affect the policy prescription would have "a strong element of the transfer pricing tail wagging the tax system dog." In response to fairness questions raised by favorable treatment for foreign income, Hines argues that equity considerations in fact support a special regime for foreign income.
+
+This Commentary first considers the significance of ownership neutrality for economic efficiency based on observations of ownership arrangements in today's marketplace. It next probes certain premises of Hines' argument, including whether substituting foreign-owned for domestic-owned investment results in equal tax revenue from the investment and whether asset ownership is meaningfully linked to the method of double taxation relief employed by a residence country. I argue that the uncertainty of the explanatory power of ownership efficiency, and the limits of current empirical understanding of the effects of alternative international tax policies, makes ownership neutrality an unreliable guide for policy prescription.
+
+This Commentary next considers the effect of tracing indirect expenses, such as interest and general and administrative expense, and suggests this will result in an over-allocation of such expense to domestic income. I question whether it is desirable to further advantage foreign investment in light of the extent of questions regarding ownership neutrality as a policy guide. I then consider some of the "practical complications" briefly addressed by Hines, focusing on transfer pricing difficulties that make Hines' proposed exemption of foreign income (and the current system of deferral) problematic. This discussion supports evaluating policy changes at least in part on the basis of their expected effects on the business income tax base. The Commentary concludes with a brief consideration of Hines' comments on fairness.
+
+Suggested Citation:
+
+Shay, Stephen E., Commentary: Ownership Neutrality and Practical Complications (2009). 62 Tax L. Rev. 317 (2009), Available at SSRN: https://ssrn.com/abstract=2704600 or http://dx.doi.org/10.2139/ssrn.2704600
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+65
+ABSTRACT VIEWS
+1,480
+RANK
+805,836
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Nearly Exact Option Price Simulation Using Characteristic Functions
+
+International Journal of Theoretical and Applied Finance, Forthcoming
+
+37 Pages Posted: 23 Jul 2012
+
+Carole Bernard
+
+Grenoble Ecole de Management; Vrije Universiteit Brussel (VUB)
+
+Zhenyu Cui
+
+Stevens Institute of Technology - School of Business
+
+Don McLeish
+
+University of Waterloo
+
+Date Written: June 22, 2012
+
+Abstract
+
+This paper presents a new approach to perform a nearly unbiased simulation using inversion of the characteristic function. As an application we are able to give unbiased estimates of the price of forward starting options in the Heston model and of continuously monitored Parisian options in the Black-Scholes framework. This method of simulation can be applied to problems for which the characteristic functions are easily evaluated but the corresponding probability density functions are complicated.
+
+Keywords: Characteristic function, Monte Carlo, Option pricing, Parisian option, Heston model
+
+JEL Classification: C15, G12, G13
+
+Suggested Citation:
+
+Bernard, Carole and Cui, Zhenyu and McLeish, Don, Nearly Exact Option Price Simulation Using Characteristic Functions (June 22, 2012). International Journal of Theoretical and Applied Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2115875 or http://dx.doi.org/10.2139/ssrn.2115875
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+J Abate , W Whitt
+Numerical inversion of Laplace transforms of probability distributions
+ORSA Journal of Computing , volume 7 , issue 1 , p. 36 - 43 Posted: 1995
+Crossref
+R Ahlip , M Rutkowski
+Forward Start Options under Stochastic Volatility and Stochastic Interest Rates
+International Journal of Theoretical and Applied Finance , volume 12 , issue 2 , p. 209 - 225 Posted: 2009
+Crossref
+H Albrecher , D Kortschak , X Zhou
+Pricing of Parisian options for a jump-diffusion model with two-sided jumps
+Applied Mathematical Finance , volume 19 , issue 2 , p. 97 - 129 Posted: 2012
+Crossref
+L Alili , P Patie , J L Pedersen
+Representations of the First Hitting Time Density of an Ornstein-Uhlenbeck Process, Stochastic Models , volume 21 , p. 967 - 980 Posted: 2005
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+316
+ABSTRACT VIEWS
+2,633
+RANK
+218,958
+39 References
+PlumX Metrics
+Related eJournals
+
+Derivatives eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Low-Bias Simulation Scheme for the Heston Model by Inverse Gaussian Approximation
+
+By Shu Tong Tse and Justin W. L. Wan
+
+Generic Pricing of FX, Inflation and Stock Options Under Stochastic Interest Rates and Stochastic Volatility
+
+By Alexander Van Haastrecht and Antoon Pelsser
+
+Accounting for Stochastic Interest Rates, Stochastic Volatility and a General Dependency Structure in the Valuation of Forward Starting Options
+
+By Alexander Van Haastrecht and Antoon Pelsser
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

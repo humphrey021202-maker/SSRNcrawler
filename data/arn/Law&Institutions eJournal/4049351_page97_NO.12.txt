@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Gone with the Big Data: Institutional Lender Demand for Private Information
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+72 Pages Posted: 14 Mar 2022 Last revised: 31 Oct 2023
+
+Jung Koo Kang
+
+Harvard Business School
+
+Date Written: November 14, 2020
+
+Abstract
+
+I explore whether big-data sources can crowd out the value of private information acquired through lending relationships. Institutional lenders have been shown to exploit their access to borrowers’ private information by trading on it in financial markets. As a shock to this advantage, I use the release of the satellite data of car counts in store parking lots of U.S. retailers. This data provides accurate and near–real-time signals of firm performance, which can undermine the value of borrowers’ private information obtained through syndicate participation. I find that once the satellite data becomes commercially available, institutional lenders are less likely to participate in syndicated loans. The effect is more pronounced when borrowers are opaque or disseminate private information to their lenders earlier and when the data predicts borrower performance more accurately. I also show that institutional lenders’ reduced demand for private information leads to less favorable loan terms for borrowers.
+
+Keywords: Debt Contract, Relationship Lending, Information Asymmetries, Institutional Investors, Informed Trading, Big Data, Satellite Images, Alternative Data, Fintech
+
+JEL Classification: D82, G14, G21, G23, G30, M41
+
+Suggested Citation:
+
+Kang, Jung Koo, Gone with the Big Data: Institutional Lender Demand for Private Information (November 14, 2020). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=4049351 or http://dx.doi.org/10.2139/ssrn.4049351
+Download This Paper
+ 
+Open PDF in Browser
+83 References
+V Acharya , T Johnson
+Insider trading in credit derivatives
+Journal of Financial Economics , volume 84 , issue 1 , p. 110 - 141 Posted: 2007
+B Akins , J Ng , R Verdi
+Investor competition over information and the pricing of information asymmetry
+The Accounting Review , volume 87 , issue 1 , p. 35 - 58 Posted: 2012
+H Amiraslani , J Donovan , M Phillips , R Wittenberg-Moerman
+Contracting in the Dark: The rise of public-side lenders in the syndicated loan market
+Journal of Accounting and Economics Posted: 2023
+J Angrist , J Pischke
+Mostly harmless econometrics: An empiricist's companion Posted: 2008
+Load more
+3 Citations
+JUNG KOO KANG , LORIEN STICE‐LAWRENCE , YU TING FORESTER WONG
+The Firm Next Door: Using Satellite Images to Study Local Information Advantage
+Journal of Accounting Research , volume 59 , issue 2 , p. 713 Posted: 2021
+Crossref
+AJ Chen , Omri Even-Tov , Jung Koo Kang , Regina Wittenberg Moerman
+Digital Lending and Financial Well-Being: Through the Lens of Mobile Phone Data
+<i>The Accounting Review, Forthcoming</i>, Harvard Business School Accounting & Management Unit Working Paper No. 23-076, The Accounting Review, 2025[<a href="https://doi.org/10.2308/TAR-2024-0046" rel="nofollow">10.2308/TAR-2024-0046</a>] · 25 Pages · Posted: 6 Jun 2023 · Last revised: 23 Apr 2025 · Downloads: 385
+Download PDF  Add Paper to My Library
+Brigham Brau , Junyoung Jeong
+Digital Picket Lines: Strategic Employee Disclosure
+Kenan Institute of Private Enterprise Research Paper No. 4527388 · 67 Pages · Posted: 2 Aug 2023 · Last revised: 26 Jun 2024 · Downloads: 473
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+486
+ABSTRACT VIEWS
+1,874
+RANK
+134,171
+3 Citations
+83 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

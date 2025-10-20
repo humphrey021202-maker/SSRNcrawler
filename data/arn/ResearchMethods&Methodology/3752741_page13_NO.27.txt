@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Enhancing Stock Market Anomalies with Machine Learning
+
+Review of Quantitative Finance and Accounting, Forthcoming
+
+51 Pages Posted: 11 Jan 2021 Last revised: 29 Aug 2022
+
+Vitor Azevedo
+
+Department of Financial Management - RPTU Kaiserslautern-Landau
+
+Christopher Hoegner
+
+Technische Universität München (TUM), Department of Financial Management and Capital Markets, Students
+
+Date Written: December 21, 2020
+
+Abstract
+
+We examine the predictability of 299 capital market anomalies enhanced by 30 machine learning approaches and over 250 models in a dataset with more than 500 million firm-month-anomaly observations. We find significant monthly (out-of-sample) returns of around 1.8-2.0%, and over 80% of the models yield returns equal or larger than our linearly constructed baseline factor. The risk-adjusted returns are significant across alternative asset pricing models, considering transaction costs with round-trip costs of up to 2% and including only anomalies after publication. Our results indicate that non-linear models can reveal market inefficiencies (mispricing) that are hard to conciliate with risk-based explanations.
+
+Keywords: Anomalies, machine learning models, efficient market hypothesis, asset pricing models
+
+JEL Classification: G12, G29, M41
+
+Suggested Citation:
+
+Azevedo, Vitor and Hoegner, Christopher, Enhancing Stock Market Anomalies with Machine Learning (December 21, 2020). Review of Quantitative Finance and Accounting, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3752741 or http://dx.doi.org/10.2139/ssrn.3752741
+Download This Paper
+ 
+Open PDF in Browser
+97 References
+M Abe , H Nakayama
+Deep learning for forecasting stock returns in the crosssection. arXiv, q-fin , p. 1 - 12 Posted: 2018
+O I Abiodun , A Jantan , A E Omolara , K V Dada , N A Mohamed , H Arshad
+State-of-the-art in artificial neural network applications: A survey , volume 4 , p. 1 - 41 Posted: 2018
+P J Adeodato , A L Arnaud , G C Vasconcelos , R C Cunha , D S Monteiro
+MLP ensembles improve long term prediction accuracy over single networks
+International Journal of Forecasting , volume 27 , issue 3 , p. 661 - 671 Posted: 2011
+R Arnott , C R Harvey , H Markowitz
+A backtesting protocol in the era of machine learning
+The Journal of Financial Data Science , volume 1 , issue 1 , p. 64 - 74 Posted: 2019
+Load more
+8 Citations
+Vitor Azevedo , Sebastian Kaiser , Sebastian Müller
+Stock Market Anomalies and Machine Learning Across the Globe
+Journal of Asset Management, Forthcoming · 42 Pages · Posted: 13 Apr 2022 · Last revised: 20 Jul 2023 · Downloads: 1,740
+Download PDF  Add Paper to My Library
+Jeremiah Green , Wanjia Zhao
+Forecasting Earnings and Returns: A Review of Recent Advancements
+The Journal of Finance and Data Science, Forthcoming · 50 Pages · Posted: 12 May 2022 · Downloads: 437
+Download PDF  Add Paper to My Library
+Vitor Azevedo
+Analysts' Underreaction and Momentum Strategies
+Journal of Economic Dynamics and Control, Forthcoming · 49 Pages · Posted: 10 May 2022 · Last revised: 21 Nov 2022 · Downloads: 533
+Download PDF  Add Paper to My Library
+Nusret Cakici , Christian Fieberg , Daniel Metko , Adam Zaremba
+Machine Learning Goes Global: Cross-Sectional Return Predictability in International Stock Markets
+54 Pages · Posted: 28 Jun 2022 · Last revised: 16 Mar 2023 · Downloads: 1,692
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,421
+ABSTRACT VIEWS
+4,859
+RANK
+31,419
+8 Citations
+97 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

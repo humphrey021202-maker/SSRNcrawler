@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Big Data Analytics and Management Forecasting Behavior
+
+Forthcoming at Accounting Horizons
+
+Singapore Management University School of Accountancy Research Paper Forthcoming
+
+38 Pages Posted: 26 Jun 2023 Last revised: 19 Jul 2023
+
+Beng Wee Goh
+
+Singapore Management University - School of Accountancy
+
+Na Li
+
+York University, Canada; York University
+
+Tharindra Ranasinghe
+
+American University
+
+Date Written: May 23, 2023
+
+Abstract
+
+This paper investigates whether the use of big data analytics by firms has a spillover effect on management forecasting behavior. Insights provided by big data could potentially improve firms’ ability to forecast earnings (supply channel) and investor demand for earnings information is likely higher for firms engaging in data analytics (demand channel). Using a text-based measure of firms’ commitments to and usage of big data analytics, we find that big data analytics usage is positively associated with the propensity to issue management earnings forecasts. Consistent with the “supply channel” explanation, we find that big data analytics usage is positively associated with management forecast accuracy as well. Also, supporting the “demand channel” explanation, we find that big data analytics usage is associated with greater analyst following. Our findings of improved disclosure following commitments to big data analytics highlight a potentially unintended benefit of the big data revolution.
+
+Keywords: Big data, data analytics, management forecasts, voluntary disclosure
+
+JEL Classification: M15, M41, M49
+
+Suggested Citation:
+
+Goh, Beng Wee and Li, Na and Li, Na and Ranasinghe, Tharindra, Big Data Analytics and Management Forecasting Behavior (May 23, 2023). Forthcoming at Accounting Horizons, Singapore Management University School of Accountancy Research Paper Forthcoming, Available at SSRN: https://ssrn.com/abstract=4488722
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+Y Amihud , H Mendelson
+Liquidity and stock returns
+Financial Analysts Journal , volume 42 , issue 3 , p. 43 - 48 Posted: 1986
+L Bamber , Y Cheon
+Discretionary management earnings forecast disclosures: Antecedents and outcomes associated with forecast venue and forecast specificity choices
+Journal of Accounting Research , volume 36 , p. 167 - 190 Posted: 1998
+A Beyer , D A Cohen , T Z Lys , B R Walther
+The financial reporting environment: Review of the recent literature
+Journal of Accounting and Economics , volume 50 , issue 2 , p. 296 - 343 Posted: 2010
+S V Brown , J W Tucker
+Large-sample evidence on firms' year-over-year MD&A modifications
+Journal of Accounting Research , volume 49 , issue 2 , p. 309 - 346 Posted: 2011
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+297
+ABSTRACT VIEWS
+1,383
+RANK
+234,143
+50 References
+PlumX Metrics
+Related eJournals
+
+Singapore Management University School of Accountancy Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

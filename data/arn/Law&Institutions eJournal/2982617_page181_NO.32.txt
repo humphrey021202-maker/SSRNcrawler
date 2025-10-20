@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Agency Problems of Institutional Investors
+
+Journal of Economic Perspectives, Vol. 31 pp. 89-102 (Summer 2017).
+
+Harvard Law School Olin Discussion Paper No. 930
+
+26 Pages Posted: 9 Jun 2017 Last revised: 5 May 2020
+
+Lucian A. Bebchuk
+
+Harvard Law School; European Corporate Governance Institute (ECGI); National Bureau of Economic Research (NBER)
+
+Alma Cohen
+
+Harvard Law School; Harvard Law School; Tel Aviv University - Eitan Berglas School of Economics; Centre for Economic Policy Research (CEPR); European Corporate Governance Institute (ECGI); National Bureau of Economic Research (NBER)
+
+Scott Hirst
+
+Boston University - School of Law; European Corporate Governance Institute (ECGI)
+
+Date Written: June 1, 2017
+
+Abstract
+
+We analyze how the rise of institutional investors has transformed the governance landscape. While corporate ownership is now concentrated in the hands of institutional investors that can exercise stewardship of those corporations that would be impossible for dispersed shareholders, the investment managers of these institutional investors have agency problems vis-à-vis their own investors. We develop an analytical framework for examining these agency problems and apply it to study several key types of investment managers.
+
+We analyze how the investment managers of mutual funds - both index funds and actively managed funds - have incentives to under-spend on stewardship and to side excessively with managers of corporations. We show that these incentives are especially acute for managers of index funds, and that the rise of such funds has system-wide adverse consequences for corporate governance. Activist hedge funds have substantially better incentives than managers of index funds or active mutual funds, but their activities do not provide a complete solution for the agency problems of institutional investors.
+
+Our analysis provides a framework for future work on institutional investors and their agency problems, and generates insights on a wide range of policy questions. We discuss implications for disclosure by institutional investors; regulation of their fees; stewardship codes; the rise of index investing; proxy advisors; hedge funds; wolf pack activism; and the allocation of power between corporate managers and shareholders.
+
+This paper is part of a larger project on the incentives of investment managers that also includes Index Funds and the Future of Corporate Governance: Theory, Evidence, and Policy and The Specter of the Giant Three.
+
+Presentation slides for this paper are available on SSRN here.
+
+
+Keywords: institutional investors, investment managers, mutual funds, index funds, hedge fund activism
+
+JEL Classification: G23, G34, K22
+
+Suggested Citation:
+
+Bebchuk, Lucian A. and Cohen, Alma and Hirst, Scott, The Agency Problems of Institutional Investors (June 1, 2017). Journal of Economic Perspectives, Vol. 31 pp. 89-102 (Summer 2017)., Harvard Law School Olin Discussion Paper No. 930, Available at SSRN: https://ssrn.com/abstract=2982617 or http://dx.doi.org/10.2139/ssrn.2982617
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+Anat R Admati , Paul Pfleiderer
+The 'Wall Street Walk' and Shareholder Activism: Exit as a Form of Voice
+Review of Financial Studies , volume 22 , issue 7 , p. 2645 - 85 Posted: 2009
+Crossref
+Philippe Aghion , John Van Reenen , Luigi Zingales
+Innovation and Institutional Ownership
+American Economic Review , volume 103 , issue 1 , p. 277 - 304 Posted: 2013
+Crossref
+Rasha Ashraf , Narayanan Jayaraman
+Institutional Investors' Trading Behavior in Mergers and Acquisitions
+AFA 2007 Chicago Meetings Paper Pages: 55 Posted: 14 Mar 2006
+Download PDF  Add Paper to My Library
+Harley E Ryan
+Do Pension-Related Business Ties Influence Mutual Fund Proxy Voting? Evidence from Shareholder Proposals on Executive Compensation
+Journal of Financial and Quantitative Analysis , volume 47 , issue 3 , p. 567 - 88 Posted: 2012
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+5,006
+ABSTRACT VIEWS
+22,363
+RANK
+4,217
+109 Citations
+36 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

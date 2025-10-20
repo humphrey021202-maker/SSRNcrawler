@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Stricter Disclosure Regulation of Private Meetings between Management and Investors Improve the Information Environment?
+
+50 Pages Posted: 3 Nov 2020 Last revised: 22 Aug 2025
+
+Robert M. Bowen
+
+Chapman University - The George L. Argyros School of Business & Economics; University of Washington - Foster School of Business
+
+Shantanu Dutta
+
+University of Ottawa - Telfer School of Management
+
+Songlian Tang
+
+CUNY Baruch College; East China University of Science and Technology (ECUST)
+
+Pengcheng Zhu
+
+University of San Diego - School of Business Administration
+
+Date Written: August 04, 2025
+
+Abstract
+
+Private meetings between management and investors occur worldwide despite laws (such as Regulation Fair Disclosure in the U.S.) that prohibit sharing material private information. Some academics and practitioners have recommended that the existence, timing, and content of these private meetings be disclosed -- presumably because it would improve the information environment and level the playing field among investors.
+
+The Shenzhen Stock Exchange (SZSE) in China is unique worldwide in requiring disclosure of the details of private meetings between firm managers and outside investors. We investigate whether the SZSE’s increased disclosure requirements in July 2012 benefited or harmed the information environment. We use a difference-in-differences design (where possible) and a dataset that includes unaffected Shanghai Stock Exchange (SHSE) firms as a control group. Despite allegedly ‘improved’ disclosures, we find that the SZSE’s information environment degraded relative to pre-July 2012 and relative to SHSE firms – stock price volatility increased and information efficiency declined. After July 2012, private meetings became quasi-public, and disclosures became more positive and less informative. Mutual fund participation in private meetings increased – especially for funds with little or no ownership in the host firm. Increased participation by these less informed institutional investors is one explanation for observed higher stock volatility and lower information efficiency around these meetings.
+
+Keywords: disclosure regulation, private meetings, site visits, mutual funds, stock volatility, information efficiency, information environment
+
+JEL Classification: G14, G15, G18, G28, M48
+
+Suggested Citation:
+
+Bowen, Robert M. and Dutta, Shantanu and Tang, Songlian and Tang, Songlian and Zhu, Pengcheng, Does Stricter Disclosure Regulation of Private Meetings between Management and Investors Improve the Information Environment? (August 04, 2025). Available at SSRN: https://ssrn.com/abstract=3723824 or http://dx.doi.org/10.2139/ssrn.3723824
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+A Ali , M T Durney , J Fisch , H Kyung
+Managers' private communications with analysts: The effect of SEC v
+Siebel Systems, Inc. Contemporary Accounting Research , volume 40 , issue 3 , p. 1641 - 1670 Posted: 2023
+K D Allee , B J Bushee , T J Kleppe , A T Pierce
+Did the Siebel Systems case limit the SEC's ability to enforce Regulation Fair Disclosure
+Journal of Accounting Research , volume 60 , issue 4 , p. 1235 - 1291 Posted: 2022
+M Bengtzen
+Private investor meetings in public firms: The case for increasing transparency
+Fordham Journal of Corporate and Financial Law , volume 22 , p. 33 - 132 Posted: 2017
+A A Bonaimé
+Mandatory disclosure and firm behavior
+The Accounting Review , volume 90 , issue 4 , p. 1333 - 1362 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+231
+ABSTRACT VIEWS
+1,594
+RANK
+302,340
+32 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

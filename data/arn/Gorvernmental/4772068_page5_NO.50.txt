@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Effect of Social Media Sentiment on Donations Received by NPOS
+
+Social Network Analysis and Mining, (2024) 14:69
+
+16 Pages Posted: 30 Apr 2024
+
+Juan L. Gandía
+
+University of Valencia - Department of Accounting
+
+David Huguet
+
+University of Valencia - Department of Accounting
+
+Date Written: March 25, 2024
+
+Abstract
+
+Previous literature has analyzed the effect of internet disclosure on NPO donations, specifically, through website disclosure, showing a positive relation between internet disclosure and NPO income. Nonetheless, there is a lack of studies examining the association between sentiment on social media and NPO donations. Therefore, the aim of this study is to examine the effect that sentiment in Twitter messages has on the donations received by NPOs. Using a sample of NPOs listed on the Non-Profit Times 100, we examine whether the sentiment transmitted by the NPOs through Twitter affects their donations. The results show that the sentiment associated with certain specific categories of messages (community messages and information messages about matters not directly related to the NPO) has a significant effect on the amount of donations received.
+
+Keywords: NPO, Sentiment analysis, Social media, Economic model of giving, Donation
+
+JEL Classification: M40
+
+Suggested Citation:
+
+Gandía, Juan L. and Huguet, David, Effect of Social Media Sentiment on Donations Received by NPOS (March 25, 2024). Social Network Analysis and Mining, (2024) 14:69, Available at SSRN: https://ssrn.com/abstract=4772068
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+P Andrés-Alonso , N Martín , M E Romero-Merino
+The governance of nonprofit organizations: empirical evidence from nongovernmental development organizations in Spain
+Nonprofit Volunt Sect Q , volume 35 , issue 4 , p. 588 - 604 Posted: 2006
+T H Baek , S Yoon , S Kim , Y Kim
+Social exclusion influences on the effectiveness of altruistic versus egoistic appeals in charitable advertising
+Mark Lett , volume 30 , p. 75 - 90 Posted: 2019
+D A Campbell , K T Lambright
+Are you out there? Internet presence of nonprofit human service organizations
+Nonprofit Volunt Sect Q , volume 48 , issue 6 , p. 1296 - 1311 Posted: 2019
+D A Campbell , K T Lambright
+Terms of engagement: Facebook and Twitter use among non-profit human service organizations
+Nonprofit Manag Leadersh , volume 30 , p. 545 - 568 Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+43
+ABSTRACT VIEWS
+353
+43 References
+PlumX Metrics
+Related eJournals
+
+Corporate Governance & Economics eJournal
+
+Follow
+
+Corporate Governance: Disclosure, Internal Control & Risk-Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

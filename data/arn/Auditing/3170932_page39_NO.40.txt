@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Importance of Reputation in the Auditing of Companies: A Game Theory Analysis
+
+27 Pages Posted: 1 May 2018 Last revised: 15 Jan 2019
+
+Xeni Dassiou
+
+City University London - Department of Economics
+
+Dionysius Glycopantis
+
+City University London
+
+Date Written: 01 13, 2019
+
+Abstract
+
+Numerous, mainly empirical, studies of auditing behaviour have recently looked at the “reputation” of the auditor and the size of fees it attracts. Our model of the auditing market advances the study of the fundamental principles involved in determining behaviour in relation to the rewards and penalties using an extensive-form game of the auditing process. We set up a two-player fraud detection game with bribes, bonuses and fines faced by an auditor. Our model yields that the auditor’s reputation, reflected in the size of bonuses, is critical to establishing a non-fraudulent behaviour by the client. Hence the model confirms expected behaviour. We further find the new insight, that while the existence of penalties deters fraud by the client, their size is not critical. This is a new understanding of what determines auditor behaviour. It is the perception of a possible penalty that moves the auditor in the direction of executing a thorough investigation using his acquired expertise.
+
+
+Keywords: Interdependent Decisions, Auditor Reputation, Game Theory, Perfect Bayesian Equilibria
+
+JEL Classification: C72, M42, M48
+
+Suggested Citation:
+
+Dassiou, Xeni and Glycopantis, Dionysius, The Importance of Reputation in the Auditing of Companies: A Game Theory Analysis (01 13, 2019). Available at SSRN: https://ssrn.com/abstract=3170932 or http://dx.doi.org/10.2139/ssrn.3170932
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+N P Anastasopoulos , M P Anastasopoulos
+The Evolutionary Dynamics of Audit
+European Journal of Operational Research , volume 216 , p. 469 - 476 Posted: 2012
+Crossref
+L Deangelo
+Auditor Size and Audit Quality
+Journal of Accounting and Economics , volume 3 , p. 183 - 199 Posted: 1981
+Crossref
+J Barton
+Who Cares About Auditor Reputation, Contemporary Accounting Research , volume 22 , p. 549 - 586 Posted: 2005
+P J Beck , M G H Wu
+Learning by Doing and Audit Quality
+Contemporary Accounting Research , volume 23 , issue 1 , p. 1 - 30 Posted: 2006
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+240
+ABSTRACT VIEWS
+2,025
+RANK
+291,291
+31 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

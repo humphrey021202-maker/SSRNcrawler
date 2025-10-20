@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Essays on Responsible and Sustainable Finance
+
+Georgia Tech Scheller College of Business Research Paper No. 4840518
+
+373 Pages Posted: 29 May 2024
+
+Baridhi Malakar
+
+Georgia Institute of Technology - Scheller College of Business
+
+Date Written: May 24, 2023
+
+Abstract
+
+The dissertation consists of three essays on responsible and sustainable finance. I show
+that local communities should be seen as stakeholders to decisions made by corporations.
+In the first essay, I examine whether the imposition of fiduciary duty on municipal advisors affects bond yields and advising fees. Using a difference-in-differences analysis, I
+show that bond yields reduce by 9% after the imposition of the SEC Municipal Advisor
+Rule. Larger municipalities are more likely to recruit advisors after the rule is effective and
+experience a greater reduction in yields. However, smaller issuers do not seem to significantly benefit from the SEC Rule in terms of offering yield. Instead, their borrowing cost
+increases if their primary advisor exits the market. Using novel hand-collected data, I find
+that the average advising fees paid by issuers does not increase after the regulation. Offering yields reduce due to lower markup at the time of underwriting, driven by issuers for
+whom advisors play a more significant ex-ante role in selecting underwriters. Overall, my
+results suggest that while fiduciary duty may mitigate the principal-agent problem between
+some issuers and advisors, it has a limited effect on small issuers.
+In the second essay, we analyze the impact of $40 billion of corporate subsidies given by
+U.S. local governments on their borrowing costs. We find that winning counties experience
+a 15.2 bps increase in bond yield spread as compared to the losing counties. The increase
+in yields is higher (18 – 26 bps) when the subsidy deal is associated with a lower jobs
+multiplier or when the winning county has a lower debt capacity. However, a high jobs
+multiplier does not seem to alleviate the debt capacity constraints of local governments.
+Our results highlight the potential costs of corporate subsidies for local governments.
+In the third essay, we provide new evidence that the bankruptcy filing of a locally headquartered and publicly-listed manufacturing firm imposes externalities on the local
+governments. Compared to matched counties with similar economic trends, municipal
+bond yields for affected counties increase by 10 bps within a year of the firm’s bankruptcy filing. Counties that are more economically dependent on the industry of the bankrupt firm
+are more affected and do not immediately recover from the negative impact of the corporate
+bankruptcy. Our results highlight that local communities are major stakeholders in public
+firms and how they are adversely affected by corporate financial distress.
+The final essay examines whether managers walk the talk on the environmental and social discussion. We train a deep-learning model on various corporate sustainability frameworks to construct a comprehensive Environmental and Social (E&S) dictionary. Using
+this dictionary, we find that the discussion of environmental topics in the earnings conference calls of U.S. public firms is associated with higher pollution abatement and more
+future green patents. Similarly, the discussion of social topics is positively associated with
+improved employee ratings. The association with E&S performance is weaker for firms
+that give more non-answers and when the topic is immaterial to the industry. Overall, our
+results provide some evidence that firms do walk their talk on E&S issues.
+
+Keywords: Municipal Bonds, ESG, Deep Learning, NLP
+
+JEL Classification: H74, G30, M14, G14, Q52, Q53, Q55
+
+Suggested Citation:
+
+Malakar, Baridhi, Essays on Responsible and Sustainable Finance (May 24, 2023). Georgia Tech Scheller College of Business Research Paper No. 4840518, Available at SSRN: https://ssrn.com/abstract=4840518 or http://dx.doi.org/10.2139/ssrn.4840518
+Download This Paper
+ 
+Open PDF in Browser
+172 References
+* * * -2
+19 * * * -1.67 * * * -1.58 * * * -1.67 * * * -1.66 * * * -1.47 * * * -1.46 * * *
+* , *
+In Table B2.12, we use the ratio of the subsidy offered to the number of jobs promised at the deal level. We interact the baseline Equation (4.1) with dummies corresponding to above and below median levels of the subsidy-to-jobs-ratio. In Columns (1)-(2), we show results with after-tax yield spread from the secondary market as the dependent variable. We find that the impact on yields is higher (19.09 bps in Column (2)) when the deal is above the median value of the subsidy-to-jobs ratio. We find similar results when we use the offering yield of new municipal bonds from the primary market as the dependent variable. In fact, the primary offering yields actually reduce for subsidy deals with low subsidy-to-jobs ratio. . First, in Table B2.13, we show results using the logged value of the county-level house price index from the Federal Housing Finance Agency (FHFA) as the dependent variable. In Columns (1) and (2), we show results around three and five years of the subsidy announcement, respectively. We find that there is an aggregate increase in prices, as indicated by the positive coefficient on the Post dummy. However, the differential effect on winning counties seems to be negative. Further, in Columns (3) and (4), we show estimates from the interaction of the main coefficient with dummies corresponding to five years in Columns (1) and (2), respectively. Subsequently, the estimates in Columns (3) and (4) do not show much difference between low versus high debt capacity winning counties. This table reports the baseline results similar to Table 3.2 for our sample using Equation (4.1), with trading volume as the dependent variable. Columns (1)-(2) show the results for a sub-sample of customer buy trades. Columns (3)-(4) show the results for a sub-sample of customer sell trades. Finally, Columns (5)-(6) use the sum total of buy and sell trades
+Winner × Post 27 , volume 288 , p. 33 - 55
+R Doty , M Simpkins , L Norwood , N Singer , L Kommi
+Regulation and your consultants: Drawing the line
+Municipal Finance Journal , volume 38 , issue 4 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+78
+ABSTRACT VIEWS
+695
+RANK
+724,439
+172 References
+PlumX Metrics
+Related eJournals
+
+Georgia Tech Scheller College of Business Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

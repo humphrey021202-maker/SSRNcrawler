@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Reporting Systems in Bank Runs
+
+Forthcoming at The Accounting Review
+
+47 Pages Posted: 24 Jan 2021 Last revised: 31 Aug 2023
+
+Gaoqing Zhang
+
+Carnegie Mellon University - David A. Tepper School of Business
+
+Ronghuo Zheng
+
+University of Texas at Austin - McCombs School of Business
+
+Date Written: August 30, 2023
+
+Abstract
+
+We study the role of reporting systems in the context of bank runs. In our model, a bank receives an early but imprecise estimate of its investment performance, and its financial reporting system generates a report. We find that, from a financial-stability standpoint, the optimal reporting system requires full disclosure when the bank’s early estimate is below a certain threshold, but no disclosure otherwise. Importantly, such optimal reporting threshold should be tailored to the bank's exposure to bank-run risk. In particular, the threshold is non-monotonic and U-shaped in the bank-run risk. We also relate our results to current accounting standards and discuss their implications for policy-making and empirical research.
+
+Keywords: Reporting systems; financial institutions; bank runs; financial stability.
+
+JEL Classification: G21, G28, M41, M48.
+
+Suggested Citation:
+
+Zhang, Gaoqing and Zheng, Ronghuo, Optimal Reporting Systems in Bank Runs (August 30, 2023). Forthcoming at The Accounting Review, Available at SSRN: https://ssrn.com/abstract=3740168 or http://dx.doi.org/10.2139/ssrn.3740168
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+V Acharya , S Ryan
+Banks' financial reporting and financial system stability
+Journal of Accounting Research , volume 54 , issue 2 , p. 277 - 340 Posted: 2016
+V Acharya , P Schnabl , G Suarez
+Securitization Without Risk Transfer
+Journal of Financial Economics , volume 107 , issue 3 , p. 515 - 536 Posted: 2013
+R Anctil , J Dickhaut , C Johnson , C Kanodia
+Does Information Transparency Decrease Coordination Failure?
+Games and Economic Behavior , volume 70 , p. 228 - 241 Posted: 2010
+R Anctil , J Dickhaut , C Kanodia , B Shapiro
+Information Transparency and Coordination Failure: Theory and Experiment
+Journal of Accounting Research , volume 42 , p. 159 - 195 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+319
+ABSTRACT VIEWS
+1,639
+RANK
+216,668
+10 Citations
+59 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

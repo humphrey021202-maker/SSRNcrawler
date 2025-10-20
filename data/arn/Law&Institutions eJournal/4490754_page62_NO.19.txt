@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Reporting Quality of ESG Firms Listed in China
+
+Wu, M. & Abeysekera, I. 2023. Financial reporting quality of ESG firms listed in China. PLoS ONE. Vol. 18, No. 6, e0284684. https://doi.org 10.1371/journal.pone.0284684
+
+48 Pages Posted: 6 Jul 2023
+
+Indra Abeysekera (indraabeysekera@gmail.com)
+
+Ton Duc Thang University
+
+Feng Li
+
+University of Wollongong
+
+Yingjun Lu
+
+Shanghai University of International Business and Economics
+
+Date Written: 2023
+
+Abstract
+
+The quality of financial reporting shows how informative the accounting numbers are for decision-making. Because business outlook can influence financial reporting quality, this study examined predictable, moderately predictable and unpredictable business outlooks. The study randomly selected 100 firms from the 2021 China ESG Top 500 Outstanding Enterprises published by the Sina Finance ESG Rating Centre. It investigated determinants (financial health, governance and earnings management), controlling for the influence of known variables (firm age and firm-specific risk) on financial reporting quality measured as accruals quality and earnings smoothness. Ordinary robust least square regression was conducted. Financial health had an accrual quality, board size, China, earnings management, ESG, earnings smoothness, female directors, financial reporting quality, firm-specific risk, governance, financial distress, financial health, firm age, independent directors, predictability, persistent negative influence, but governance variables and earnings management did not affect financial reporting quality. The firm-specific risk was positively affected, but firm age did not influence financial reporting quality. Changes in business outlook had no impact on the determinants’ effect on financial reporting quality. The study found that ESG firms did not engage in earnings management and aggressively managed earnings, pointing to ethical behaviour. This is the first study to contribute to understanding the financial reporting quality of ESG firms listed in China.
+
+Keywords: accrual quality, board size, China, earnings management, ESG, earnings smoothness, female directors, financial reporting quality, firm-specific risk, governance, financial distress, financial health, firm age, independent directors, predictability, persistence
+
+JEL Classification: M49
+
+Suggested Citation:
+
+Abeysekera (indraabeysekera@gmail.com), Indra and Li, Feng and Lu, Yingjun, Financial Reporting Quality of ESG Firms Listed in China ( 2023). Wu, M. & Abeysekera, I. 2023. Financial reporting quality of ESG firms listed in China. PLoS ONE. Vol. 18, No. 6, e0284684. https://doi.org 10.1371/journal.pone.0284684, Available at SSRN: https://ssrn.com/abstract=4490754 or http://dx.doi.org/10.2139/ssrn.4490754
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+Y Wamg
+Tying the autocrat's hands: The rise of the rule of law in China , p. 1 - 15 Posted: 2014
+Y Ding , X Su
+Implementation of IFRS in a regulated market
+Journal of Accounting and Public Policy , volume 27 , p. 474 - 479 Posted: 2008
+P K Ip
+Is Confucianism good for business ethics in China
+Journal of Business Ethics , volume 88 , p. 463 - 476 Posted: 2009
+L Chen , J Zhang , Y You
+Air pollution, environmental perceptions, and citizen satisfaction: A mediation analysis
+Environmental Research , volume 184 Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+172
+ABSTRACT VIEWS
+936
+RANK
+398,904
+58 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

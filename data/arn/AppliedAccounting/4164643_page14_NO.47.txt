@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Development of a Sustainability Taxonomy for Investor Decision Usefulness – Reflection of SEC and ISSB Climaterelated Disclosures
+
+22 Pages Posted: 25 Jul 2022
+
+Dirk Beerbaum
+
+Aalto University - Department of Accounting and Finance
+
+Date Written: July 16, 2022
+
+Abstract
+
+Globalization has led to an unprecedented correlation of massive global systems causing systemic risk to increase exponentially (Centeno et al., 2013). 10 years after the global financial crisis, what are the lessons learned, what was improved and what still needs to be accomplished? It looks this times that the next global economic crisis will be impacted by a climate crisis. This can only be prevented if the system becomes sustainable. A system can only be sustainable if inequality, governance and environmental sustainability is surmounted. According to Beyer et al., significant progress was made in the modelling, as the Global Financial Crisis revealed shortcomings in the model strategy (Beyer et al., 2017). The question arises if also progress is made on social responsibility investing in the securities, selected for social environmental ethical and institutional aspects? Based on the EU led High-Level Expert Group on Sustainability (Cullen, 2018) the EU examines how to integrate sustainability consideration into its financial policy framework. The EU plans to develop a classification system (‘taxonomy’) on what can be considered an environmentally sustainable economic activity. To overcome the climate change challenge, a consensus has a pivotal role to enable to invest in climate friendly investments, which do not turn out to be a false labelling. The global architecture of climate finance is important part of a sustainable finance architecture. Additionally, disclosure regulation is planned that institutional investors integrate ESG (environmental, social and governance) factors into their investment-decision making process. In the absence of a globally integrated financial and non-financial framework, this paper tries to put emphasis back on decision-usefulness of the investor and a Sustainability Taxonomy considering the transparency technology Extensible Reporting Mark-up language (XBRL). This working paper tries to bridge early statements about environment and the responsibility for future generations in the financial service sector(Kipper, 2017)
+
+Suggested Citation:
+
+Beerbaum Dr., Dirk, Development of a Sustainability Taxonomy for Investor Decision Usefulness – Reflection of SEC and ISSB Climaterelated Disclosures (July 16, 2022). Available at SSRN: https://ssrn.com/abstract=4164643 or http://dx.doi.org/10.2139/ssrn.4164643
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+Tag -You're It! GRI Releases XBRL Taxonomies
+ANONYMOUS 2007 , volume 18 , p. 1 - 6
+G Aras , D Crowther
+Corporate sustainability reporting: a study in disingenuity
+Journal of business ethics , volume 87 Posted: 2009
+V Arnold , J C Bedard , J R Phillips , S G Sutton
+The impact of tagging qualitative financial information on investor decision making: Implications for XBRL
+International Journal of Accounting Information Systems Posted: 2012
+D Beerbaum
+Towards an XBRL-enabled corporate governance reporting taxonomy. An empirical study of NYSE-listed Financial Institutions Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+378
+ABSTRACT VIEWS
+1,087
+RANK
+179,717
+37 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

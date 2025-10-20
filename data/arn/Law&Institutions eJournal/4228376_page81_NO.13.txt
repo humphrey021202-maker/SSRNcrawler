@@ -1,0 +1,146 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Focusing on the fundamentals? An investigation of the relationship between corporate social irresponsibility and data breach risk
+
+Decision Support Systems, Volume 182
+
+40 Pages Posted: 29 Sep 2022 Last revised: 3 Jul 2023
+
+Junmin Xu
+
+City University of Hong Kong (CityU) - Department of Information Systems; Xi'an Jiaotong University (XJTU)
+
+Wei Thoo Yue
+
+City University of Hong Kong (CityU)
+
+Alvin Leung
+
+City University of Hong Kong (CityU) - Department of Information Systems
+
+Qin Su
+
+Xi'an Jiaotong University (XJTU)
+
+Date Written: September 19, 2022
+
+Abstract
+
+In an era of growing social activism, companies engaged in socially irresponsible practices are increasingly vulnerable to data breaches, resulting in substantial reputational and financial losses. This study examines how corporate social irresponsibility (CSI) influences a company's data breach risk. We argue that CSI has an impact on data breach risk by influencing the intentional behaviors of both employees and external hackers. Given that CSI is a broad concept and can take on various forms, we further examine whether some forms of CSI pose a more significant threat than others. Our empirical analysis of data breaches in publicly listed US firms from 2005 to 2017 indicates that compared to the forms of CSI that violate broader social norms (e.g., environmental damages), CSI activities that jeopardize a company's economic value delivery (e.g., product deficiencies) play a more dominant role in driving data breach risk. Furthermore, we find that corporate social responsibility (CSR) can have a dual impact on moderating the relationship between CSI and data breaches. While CSR often helps mitigate CSI-induced data breach risk, this risk is heightened when both CSR and CSI relate to a firm's economic value delivery. This study provides critical insights into how companies can navigate complex data breach risk by managing their social performance.
+
+Keywords: corporate social irresponsibility, corporate social responsibility, cyberattack, data breach, information security, organizational legitimacy
+
+Suggested Citation:
+
+Xu, Junmin and Yue, Wei Thoo and Leung, Alvin and su, qin, Focusing on the fundamentals? An investigation of the relationship between corporate social irresponsibility and data breach risk (September 19, 2022). Decision Support Systems, Volume 182, Available at SSRN: https://ssrn.com/abstract=4228376 or http://dx.doi.org/10.2139/ssrn.4228376
+Download This Paper
+ 
+Open PDF in Browser
+85 References
+A Abbasi , D Dobolyi , A Vance , F M Zahedi
+The Phishing Funnel Model: A Design Artifact to Predict User Susceptibility to Phishing Websites
+Information Systems Research , volume 32 , issue 2 , p. 410 - 436 Posted: 2021
+V Benjamin , B Zhang , J F Nunamaker , H Chen
+Examining Hacker Participation Length in Cybercriminal Internet-Relay-Chat Communities
+Journal of Management Information Systems , volume 33 , issue 2 , p. 482 - 510 Posted: 2016
+A S Bharadwaj , S G Bharadwaj , B R Konsynski
+Information Technology Effects on Firm Performance as Measured by Tobin's Q
+Management science , volume 45 , issue 7 , p. 1008 - 1024 Posted: 1999
+Y Cai , H Jo , C Pan
+Vice or Virtue? The Impact of Corporate Social Responsibility on Executive Compensation
+Journal of Business Ethics , volume 104 , issue 2 , p. 159 - 173 Posted: 2011
+Load more
+4 Citations
+Chelsea Liu , Muhammad Ali Babar
+Corporate cybersecurity risk and data breaches: A systematic review of empirical research
+Australian Journal of Management Posted: 2024
+Crossref
+Munir A. Abbasi , Azlan Amran , Rizwanullah Khan , Noor E Sahar
+Linking corporate social irresponsibility to workplace deviant behavior: A comparative analysis of generation Z and Generation Y
+Current Psychology , volume 43 , issue 2 , p. 1118 Posted: 2024
+Crossref
+Meng Bai , He Zhang , Junrui Zhang , Yuhui Jiang , Junmin Xu
+Challenging or Threatening? The Double-Edged Sword Effect of Intelligent Technology Awareness on Accountants’ Unethical Decision-Making
+Journal of Business Ethics , volume 197 , issue 1 , p. 159 Posted: 2025
+Crossref
+Pouyan Eslami , Mahdi M. Najafabadi , Amir Gharehgozli , Leily Kamali Farokhvar
+Exploring the Risk of Inaction on Justified Ai Insights: A Task Technology Fit Perspective
+DECSUP-D-24-01674 · 35 Pages · Posted: 19 Nov 2024 · Downloads: 58
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+198
+ABSTRACT VIEWS
+1,057
+RANK
+350,629
+4 Citations
+85 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

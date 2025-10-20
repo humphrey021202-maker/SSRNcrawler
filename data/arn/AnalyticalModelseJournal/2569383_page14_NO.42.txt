@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Performance Reward, Tax Compliance and Enforcement
+
+27 Pages Posted: 26 Feb 2015
+
+Christos Kotsogiannis
+
+University of Exeter
+
+Konstantinos Serfes
+
+Drexel University
+
+Date Written: February 24, 2015
+
+Abstract
+
+This paper incorporates the incentives of tax inspectors into an equilibrium model of tax compliance and enforcement when the taxpayers' true income is private information (adverse selection) and the effort of tax inspectors to verify reported income is unobservable (moral hazard). It characterizes the optimal remuneration for tax inspectors, which is a function of discovered tax evasion, paying particular attention to the determinants of the power of incentives and the curvature of the optimal reward scheme. It is shown that the structure of the optimal reward is increasing, and in general non-linear, in the magnitude of discovered tax evasion. The equilibrium characterized has the features that: taxpayers with higher true income under report less and tax inspectors' auditing effort, and hence the probability of detecting tax non-compliance, decreases with reported income.
+
+Suggested Citation:
+
+Kotsogiannis, Christos and Serfes, Konstantinos, Optimal Performance Reward, Tax Compliance and Enforcement (February 24, 2015). Available at SSRN: https://ssrn.com/abstract=2569383 or http://dx.doi.org/10.2139/ssrn.2569383
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+M Allingham , A Sandmo
+Income tax evasion: A theoretical analysis
+Journal of Public Economics , volume 1 , p. 323 - 338 Posted: 1972
+Crossref
+J Andreoni , B Erard , J Feinstein
+Tax compliance
+Journal of Economic Literature , volume 36 , issue 2 , p. 818 - 860 Posted: 1998
+T Besley , J Mclaren
+Taxes and bribery: the role of wage incentives
+Economic Journal , volume 103 , p. 119 - 141 Posted: 1993
+Crossref
+G Birkhoff , G Rota
+Ordinary Differential Equations Posted: 1989
+Load more
+1 Citations
+Christos Kotsogiannis , Konstantinos Serfes
+Optimal performance reward, tax compliance and enforcement
+Economic Theory Bulletin , volume 4 , issue 2 , p. 325 Posted: 2016
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+131
+ABSTRACT VIEWS
+1,721
+RANK
+502,079
+1 Citations
+26 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

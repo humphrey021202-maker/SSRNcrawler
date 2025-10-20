@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Organizational Structure, Aggregation of Performance Measures, and Incentives
+
+42 Pages Posted: 16 Aug 2010
+
+Christian Hofmann
+
+Ludwig Maximilian University of Munich (LMU) - Faculty of Business Administration (Munich School of Management)
+
+Steffen Reichmann
+
+University of Mannheim
+
+Date Written: August 16, 2010
+
+Abstract
+
+In this paper, we analyze the impact of organizational structure on incentives within a LEN-framework with agents on three hierarchical levels (bottom, middle, top), where the performance measures used for incentive design originate at the bottom-level. Previous literature has shown that with such disaggregated measures, the impact of organizational structure on incentives is limited to midlevel agents. In contrast, we show that with fully aggregated performance measures, organizational structure and incentives are independent. Furthermore, considering partially aggregated measures extends the impact of organizational structure on incentives to all hierarchical levels. The key to our results is that organizational structure affects the quality of aggregated performance measures, whereas the accounting system determines the extent of aggregation. We find that, frequently, the optimal organizational structure on the firm-level is detrimental to at least one hierarchical level. Based on this result we provide a rationale for the empirical lack of the theoretically well established trade-off between risk and incentives.
+
+Keywords: Organizational Structure, Incentives, Aggregation
+
+JEL Classification: D82, J41, M41
+
+Suggested Citation:
+
+Hofmann, Christian and Reichmann, Steffen, Organizational Structure, Aggregation of Performance Measures, and Incentives (August 16, 2010). Available at SSRN: https://ssrn.com/abstract=1659915 or http://dx.doi.org/10.2139/ssrn.1659915
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+Kenneth J Arrow
+The limits of organization Posted: 1974
+Anil Arya , John C Fellingham , Douglas A Schroeder
+Aggregation and Measurement Errors in Performance Evaluation
+Journal of Management Accounting Research , volume 16 Posted: 2004
+Crossref
+Rajiv D Banker , Datar , M Srikant
+Sensitivity, Precision, and Linear Aggregation of Signals for Performance Evaluation
+Journal of Accounting Research , volume 27 , issue 1 Posted: 1989
+Crossref
+David Baron , David Besanko
+Strategy, Organization, and Incentives. Industrial and Corporate Changes , volume 10 Posted: 2001
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+307
+ABSTRACT VIEWS
+2,069
+RANK
+225,902
+24 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+Private Information and Performance Measurement Bias with Multiple Agents
+
+By Naomi Rothenberg
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

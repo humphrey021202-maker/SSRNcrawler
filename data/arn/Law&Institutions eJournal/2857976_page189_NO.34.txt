@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Towards an XBRL-Enabled Corporate Governance Reporting Taxonomy An Empirical Study of NYSE-Listed Financial Institutions
+
+376 Pages Posted: 29 Oct 2016
+
+Dirk Beerbaum
+
+Aalto University - Department of Accounting and Finance
+
+Date Written: July 1, 2015
+
+Abstract
+
+Corporate Governance failures of large corporations such as Lehman Brothers have evoked a plethora of calls for changes in Corporate Governance Principles. Despite the fact that after the financial crisis, a number of transnational institutions have called for wide-scale changes related to Corporate Governance Principles by further protecting shareholders’ rights, it has been proven that theoretical extension and reform of Corporate Governance Principles is not enough, because it does not ensure successful implementation. According to a report from Isaksson (2009), corporate disclosures were not in line with OECD principles on good Corporate Governance. Moreover, according to Isaksson (2009), the financial crisis can also be traced back to incomplete Corporate Governance disclosures.
+
+One major implementation topic involves Corporate Governance Reporting, which is very complex for multinational companies, as it involves statutory compliance with multiple rules and laws, coping with heterogeneous “Systems of Corporate Governance” (Weimer and Pape, 1999; Leuz et al., 2003; Tylecote and Visintin, 2007) and additionally the compilation of codes (Cadbury, 1993) and industry-specific standards (Mach et al., 2006; Bebchuk and Spamann, 2010). Extensible Business Reporting Language (XBRL) is assumed as a benchmark related to interactive business disclosures (Chen and Sun, 2009; Debreceny et al., 2010; Alles and Piechocki, 2012). Does XBRL have the potential to help to reduce the complexity of companies’ Corporate Governance Reporting (Alles and Piechocki, 2012)? In the academic literature, there are many articles which conclude that it is possible for XBRL to enhance transparency and improve Corporate Governance for financial reporting (Abdullah et al., 2009; Roohani et al., 2010; Alles and Piechocki, 2012; Müller-Wickop et al., 2013): therefore, an additional question is whether the application of XBRL to the non-financial reporting of Corporate Governance can also contribute to enhanced transparency.
+
+XBRL will become mandatory based on the legal requirement of the Security and Exchange Commission (SEC) for Foreign Private Issuers (FPI) that are listed on the NYSE (Debreceny et al., 2010). Investors demand the extension of XBRL-enabled reporting to other financial reports, including CGR (Arnold et al., 2012), because within the peer group of listed Foreign Private Issuers on the New York Stock Exchange, comprising Financial Institutions, there is no adequate Corporate Governance framework to reflect Corporate Governance Reporting. Therefore, in this doctoral thesis, a taxonomy on Corporate Governance will be developed which can be put into practice for Corporate Governance Reporting.
+
+Suggested Citation:
+
+Beerbaum Dr., Dirk, Towards an XBRL-Enabled Corporate Governance Reporting Taxonomy An Empirical Study of NYSE-Listed Financial Institutions (July 1, 2015). Available at SSRN: https://ssrn.com/abstract=2857976 or http://dx.doi.org/10.2139/ssrn.2857976
+Download This Paper
+ 
+Open PDF in Browser
+417 References
+A Abdullah , I Khadaroo , J Shaikh
+Institutionalisation of XBRL in the USA and UK
+International Journal of Managerial and Financial Accounting , volume 1 , issue 3 , p. 292 - 304 Posted: 2009
+Crossref
+A Abdullah , I Khadaroo , J M Shaikh
+A 'macro' analysis of the use of XBRL
+International Journal of Managerial and Financial Accounting , volume 1 , issue 2 , p. 213 - 223 Posted: 2008
+Crossref
+S Abraham , P Cox
+Analysing the determinants of narrative risk information in UK FTSE 100 annual reports
+The British Accounting Review , volume 39 , issue 3 , p. 227 - 248 Posted: 2007
+Crossref
+S Abraham , P J Shrives
+Improving the relevance of risk factor disclosure in corporate annual reports
+The British Accounting Review , volume 46 , issue 1 , p. 91 - 107 Posted: 2014
+Crossref
+Load more
+6 Citations
+Dirk Beerbaum , Maciej Piechocki , Christoph Weber
+Is there a Conflict between Principles-based Standard Setting and Structured Electronic Reporting with XBRL?
+European Financial and Accounting Journal , volume 12 , issue 3 , p. 33 Posted: 2018
+Crossref
+Dirk Beerbaum Dr. , Maciej Piechocki
+IFRS 9 and IFRS 7 Disclosure Requirements – An Analysis of the IASB Taxonomy
+9 Pages · Posted: 18 Nov 2016 · Last revised: 2 May 2021 · Downloads: 499
+Download PDF  Add Paper to My Library
+Dirk Beerbaum Dr.
+Transforming to agile audit: A case study research
+20 Pages · Posted: 12 Apr 2021 · Downloads: 601
+Download PDF  Add Paper to My Library
+Dirk Beerbaum Dr.
+Benchmarking and Accounting – a Field Study
+11 Pages · Posted: 12 Apr 2021 · Downloads: 107
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+158
+ABSTRACT VIEWS
+2,154
+RANK
+429,664
+6 Citations
+417 References
+PlumX Metrics
+Related eJournals
+
+USC Marshall School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

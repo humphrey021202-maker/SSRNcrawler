@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Firms' Disclosure Strategies and Users' Information Acquisition
+
+55 Pages Posted: 15 Feb 2023 Last revised: 22 Jan 2024
+
+Fengzhi Zhu
+
+University of Glasgow
+
+Date Written: February 13, 2023
+
+Abstract
+
+I study how firms' disclosure strategies affect information acquisition. I define smoothing (bundling) as firms disclosing events that occur on the same (different) day(s) on different (the same) date(s). Examining non-earnings 8-Ks from 2003 to 2017, I find that smoothed 8-Ks receive more downloads. Also, bundled 8-Ks receive more downloads in the short run but fewer in the long run. In addition, smoothing and bundling effects persist when controlling for news sentiment and materiality, suggesting that users react to disclosure strategies even if information leaks before 8-K releases. Furthermore, the relation between disclosure strategies and information acquisition varies across mandatory and voluntary 8-Ks and various 8-K items, with users reacting stronger to the strategic disclosure of 8-K events that are less controllable in timing. These results suggest that bundling boosts short-term information acquisition but discourages it in the long run, while smoothing mitigates the negative consequences of disclosure overload.
+
+Keywords: Bundling, Smoothing, Information Acquisition, Disclosure Overload
+
+JEL Classification: M40, M41
+
+Suggested Citation:
+
+Zhu, Fengzhi, Firms' Disclosure Strategies and Users' Information Acquisition (February 13, 2023). Available at SSRN: https://ssrn.com/abstract=4356486 or http://dx.doi.org/10.2139/ssrn.4356486
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+V V Acharya , P Demarzo , I Kremer
+Endogenous Information Flows and the Clustering of Announcements , volume 101 , p. 2955 - 2979 Posted: 2011
+C Aghamolla , B.-J An
+Voluntary disclosure with evolving news
+Journal of Financial Economics , volume 140 , issue 1 , p. 21 - 53 Posted: 2021
+S Arif , N T Marshall , J H Schroeder , T L Yohn
+A growing disparity in earnings disclosure mechanisms: The rise of concurrently released earnings announcements and 10-Ks
+Journal of Accounting and Economics , volume 68 , issue 1 , p. 1 - 28 Posted: 2019
+R Ball , P Brown
+An Empirical Evaluation of Accounting Income Numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+197
+ABSTRACT VIEWS
+1,067
+RANK
+352,349
+58 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Environmental Sustainability, Governance, National Culture and COVID-19 Impact: International Evidence and Implications
+
+23 Pages Posted: 20 Jun 2022 Last revised: 24 Jun 2022
+
+Sudipta Bose
+
+Discipline of Accounting and Finance, Newcastle Business School, The University of Newcastle, Australia
+
+Dessalegn Mihret
+
+RMIT University
+
+Muhammad Jahangir Ali
+
+La Trobe University, Department of Accounting, Data Analytics, Economics and Finance
+
+Syed Shams
+
+University of Southern Queensland
+
+There are 2 versions of this paper
+
+Date Written: June 18, 2022
+
+Abstract
+
+Purpose – This study examines the association of environmental sustainability, governance factors and national culture with COVID-19 impact. We seek to draw implications for thinking and researching environmental accountability at the higher level than the organisation.
+
+Methodology/Approach/Theory – We draw on the conceptual lens of deep ecology. Using a sample of 44 countries, we employ ordinary-least-squares (OLS) regression to determine the association of environmental sustainability with COVID-19 impact proxied by total COVID-19 death and infection numbers. We collected data on country-level variables, namely, carbon emissions (as a proxy for national environmental sustainability), cultural orientations (individualism/collectivism, long-term orientation and environmental value focus), and ratings of countries on some governance variables.
+
+Findings – The results show that countries with a higher level of corporate carbon emissions suffered from higher COVID-19 impact. Further, countries with higher accountability and government effectiveness are associated with lower COVID-19 impact, which implies productive policy responses to the pandemic in such settings. The study also finds that the positive association between carbon emissions and COVID-19 impact is less pronounced for countries with individualism culture, suggesting that policy responses such as social distancing may have yielded better results in such cultures. Further, it is found that the positive impact of carbon emissions on COVID-19 impact is lower for countries having long-term orientation culture and environmental value orientation culture.
+
+Originality/Value – This study offers empirical insights that extend the literature on methodological thinking about the role of the corporation in environmental sustainability. It provides support to a holistic perspective to the thinking and researching environmental sustainability that transcends the organisation level.
+
+
+Keywords: COVID-19; Coronavirus; Climate change; Carbon emissions; Deep ecology; Governance effectiveness, National culture
+
+JEL Classification: G32; I10; M14; M40; M41; M49
+
+Suggested Citation:
+
+Bose, Sudipta and Mihret, Dessalegn and Ali, Muhammad Jahangir and Shams, Syed, Environmental Sustainability, Governance, National Culture and COVID-19 Impact: International Evidence and Implications (June 18, 2022). Available at SSRN: https://ssrn.com/abstract=4139882 or http://dx.doi.org/10.2139/ssrn.4139882
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+90
+ABSTRACT VIEWS
+670
+RANK
+495,993
+33 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

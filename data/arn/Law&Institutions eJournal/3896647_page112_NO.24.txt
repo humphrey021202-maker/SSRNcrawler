@@ -1,0 +1,149 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate governance and generalist CEOs: Evidence from board size
+
+25 Pages Posted: 2 Aug 2021
+
+Pattanaporn Chatjuthamard
+
+Sasin GIBA
+
+Viput Ongsakul
+
+NIDA Business School, National Institute of Development Administration (NIDA)
+
+Pornsit Jiraporn
+
+Pennsylvania State University - School of Graduate Professional Studies (SGPS)
+
+Ali Uyar
+
+La Rochelle Business School
+
+Date Written: July 30, 2021
+
+Abstract
+
+Purpose
+
+We contribute to the debate in the literature about generalist CEOs by exploring the effect of board governance on CEO general managerial ability, focusing on one of the most crucial aspects of the board of directors, board size. Prior research shows that smaller boards constitute a more effective governance mechanism and therefore are expected to reduce agency costs.
+
+Design/Methodology/Approach
+
+We estimate the effect of board size on CEO general managerial ability, using a fixed-effects regression analysis, propensity score matching, as well as an instrumental-variable analysis. These techniques mitigate endogeneity greatly and make our results much more likely to show causality.
+
+Findings
+
+Our results show that firms with smaller board size are more likely to hire generalist CEOs. Specifically, a decline in board size by one standard deviation raises CEO general managerial ability by 15.62%. A lack of diverse experiences in a small board with fewer directors makes it more necessary to hire a CEO with a broad range of professional experiences. Furthermore, the agency costs associated with generalist CEOs are greatly diminished in firms with a smaller board. Hence, firms with a smaller board are more inclined to hire generalist CEOs.
+
+Originality
+
+Although prior research has explored the effects of board size on various corporate outcomes, strategies, and policies, our study is the first to investigate the effect of board size on CEO general managerial ability. Our study contributes to the literature both in corporate governance and on CEO general managerial ability.
+
+
+
+Keywords: CEO general managerial ability, board size, corporate governance, generalist CEOs, specialist CEOs, CEO general managerial skills.
+
+JEL Classification: G32, G34
+
+Suggested Citation:
+
+Chatjuthamard, Pattanaporn and Ongsakul, Viput and Jiraporn, Pornsit and Uyar, Ali, Corporate governance and generalist CEOs: Evidence from board size (July 30, 2021). Available at SSRN: https://ssrn.com/abstract=3896647 or http://dx.doi.org/10.2139/ssrn.3896647
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+B K Agyei-Mensah
+The impact of board characteristics on corporate investment decisions: an empirical study
+Corporate Governance: The International Journal of Business in Society Posted: 2021
+Crossref
+J A Alexander , M L Fennell , M T Halpern
+Leadership instability in hospitals: The influence of board-CEO relations and organizational growth and decline
+Administrative Science Quarterly , volume 38 , p. 74 - 99 Posted: 1993
+Crossref
+A L Alhassan , K Zyambo , M A A Boakye
+Welcome on board': resource dependency and agency theoretic evidence from the South African life insurance market
+Corporate Governance: The International Journal of Business in Society Posted: 2021
+Crossref
+F Ali , M Wang , K Jebran , S T Ali
+Board diversity and firm efficiency: Evidence from China
+Corporate Governance: The International Journal of Business in Society Posted: 2021
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+121
+ABSTRACT VIEWS
+1,100
+RANK
+538,134
+42 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

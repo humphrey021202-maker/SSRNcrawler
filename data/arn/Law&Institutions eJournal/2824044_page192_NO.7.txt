@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Investigating Discretion in Executive Compensation: Extracting Private Information from Valuation Allowance Decisions
+
+Review of Accounting Studies (forthcoming)
+
+37 Pages Posted: 16 Aug 2016 Last revised: 13 Dec 2022
+
+Katharine D. Drake
+
+University of Arizona - Department of Accounting
+
+Ellen Engel
+
+University of Illinois at Chicago - College of Business Administration
+
+Melissa Martin
+
+University of Illinois at Chicago
+
+Date Written: December 30, 2020
+
+Abstract
+
+We investigate how boards incorporate private information about managerial performance in compensation and turnover decisions. Building from the literature documenting that loss firms’ publicly available valuation allowance (VA) disclosures contain value-relevant private information, we show that the decision of whether or not to record a VA also captures contract-relevant private information. We develop an approach to extract a private, firm-specific, time-varying signal of managerial performance by inferring a more positive (negative) private signal when the VA decision suggests the firm expects the loss to be transitory (persistent). Our empirical analyses rely on a joint test of whether the VA decision reflects a private signal of managerial performance and whether the board uses this private information in contracting. Confirming our hypothesis, we document significantly larger discretionary compensation for transitory loss-firm CEOs, relative to persistent loss-firms. We also show that the VA decision informs the weighting of earnings in determining CEO compensation. Additionally, we provide evidence that the likelihood of CEO turnover is lower in transitory loss-firm years relative to persistent loss-firms. Overall, extracting private information from the VA decision provides an innovative way to extend our understanding of how boards use discretion in contracting.
+
+Keywords: executive compensation, loss firms, valuation allowance
+
+JEL Classification: J3, M41, H25
+
+Suggested Citation:
+
+Drake, Katharine D. and Engel, Ellen and Martin, Melissa, Investigating Discretion in Executive Compensation: Extracting Private Information from Valuation Allowance Decisions (December 30, 2020). Review of Accounting Studies (forthcoming), Available at SSRN: https://ssrn.com/abstract=2824044 or http://dx.doi.org/10.2139/ssrn.2824044
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+W R Baber , S.-H Kang , K R Kumar
+Accounting earnings and executive compensation: The role of earnings persistence
+Journal of Accounting and Economics , volume 25 , issue 2 , p. 169 - 193 Posted: 1998
+C C Bauman , M P Bauman , R F Halsey
+Do firms use the deferred tax asset valuation allowance to manage earnings
+Journal of the American Taxation Association , volume 23 , p. 27 - 48 Posted: 2001
+J L Brown , K D Drake , M A Martin
+Compensation in the post-FIN 48 period: The case of contracting on tax performance and uncertainty
+Contemporary Accounting Research , volume 33 , issue 1 , p. 121 - 151 Posted: 2016
+R M Bushman , R J Indjejikian , A Smith
+CEO compensation: The role of individual performance evaluation
+Journal of Accounting and Economics , volume 21 , issue 2 , p. 161 - 193 Posted: 1996
+Load more
+1 Citations
+Mary Cowx , Jennifer L. Glenn , Patrick Kielty , Sean T. McGuire
+How Do Hedge Fund Activists Use and Affect Financial Reporting of Income Taxes? Evidence from the Valuation Allowance for Deferred Tax Assets
+50 Pages · Posted: 6 Jun 2024 · Last revised: 2 Jan 2025 · Downloads: 120
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+276
+ABSTRACT VIEWS
+2,750
+RANK
+252,662
+1 Citations
+43 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

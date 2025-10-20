@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Mandatory reporting frequency, informed trading, and corporate myopia
+
+62 Pages Posted: 2 Dec 2023
+
+Hwa Young Kim
+
+Hong Kong University of Science and Technology
+
+Date Written: April 11, 2023
+
+Abstract
+
+This paper examines the relationship between mandatory reporting frequency and corporate myopia in the presence of informed trading. While previous studies attribute myopia to frequent reporting, the empirical evidence of this claim is inconsistent. The results herein show that corporate myopia can be sustained under both frequent and infrequent reporting regimes. I also demonstrate that the level of myopia can even increase as mandatory reporting frequency decreases when the level of reporting noise is sufficiently high, because less frequent reporting induces more informed trading. The results are robust to extensions, including dynamic trading, different information structures, voluntary disclosure, or an alternative market structure. Overall, the results offer potential explanations for the mixed empirical findings regarding the relationship between mandatory reporting frequency and corporate myopia. Additionally, this study highlights that more frequent reporting does not always exacerbate corporate short-termism in the presence of alternative information sources.
+
+Keywords: Quarterly reporting, reporting frequency, corporate myopia, short-termism, informed trading
+
+JEL Classification: G10, M41, M48
+
+Suggested Citation:
+
+Kim, Hwa Young, Mandatory reporting frequency, informed trading, and corporate myopia (April 11, 2023). Available at SSRN: https://ssrn.com/abstract=4648847 or http://dx.doi.org/10.2139/ssrn.4648847
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+M Butler , A Kraft , I S Weiss
+The eect of reporting frequency on the timeliness of earnings: The cases of voluntary and mandatory interim reports
+Journal of Accounting and Economics , volume 43 , issue 2-3 Posted: 2007
+A C Call , S Chen , B Miao , Y H Tong
+Short-term earnings guidance and accrual-based earnings management
+Review of accounting studies , volume 19 , issue 2 Posted: 2014
+S Chen , K Huang , B Lao
+Is earnings guidance associated with less rm innovation? Available at SSRN 2546827 Posted: 2015
+M Cheng , K Subramanyam , Y Zhang
+Earnings guidance and managerial myopia. Available at SSRN 851545 Posted: 2005
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+145
+ABSTRACT VIEWS
+671
+RANK
+461,853
+2 Citations
+21 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

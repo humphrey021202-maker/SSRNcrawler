@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Mandatory Adoption of IFRS and Analysts’ Forecasts: How Much Does Enforcement Matter?
+
+UNSW Australian School of Business Research Paper No. 2009 ACCT 01
+
+58 Pages Posted: 5 Nov 2009 Last revised: 1 May 2013
+
+John P. Preiato
+
+The University of Western Australia
+
+Philip R. Brown
+
+UWA Business School, M250; Financial Research Network (FIRN)
+
+Ann Tarca
+
+University of Western Australia
+
+Date Written: March 21, 2013
+
+Abstract
+
+Differences in countries’ institutional settings are believed to impact on the extent to which benefits can be achieved from the adoption of International Financial Reporting Standards (IFRS). We investigate seven proxies that have been used to distinguish between institutional settings, including two self-constructed indexes that focus specifically on auditing and accounting enforcement (AUDIT and ENFORCE). Our measures are developed for 51 countries and three years: 2002 (that is, three years before IFRS were widely adopted in 2005); 2005; and 2008. To assess the merits of the proxies we focus on benefits manifest in firms’ information environments, as reflected in two properties of analysts’ earnings forecasts, namely their accuracy and the dispersion among them. Based on a sample of 357,034 firm-month observations available for 37 of the 51 countries, we find AUDIT and ENFORCE and the more general legal measure ‘rule of law’ of Kaufmann et al. (2010) have the strongest association with these two properties of analysts’ forecasts. We also find that AUDIT and ENFORCE provide additional explanatory power relative to ‘rule of law’. When our proxies and rule of law are included, both our measures are significant but the ‘rule of law’ proxy has explanatory power only in models based on dispersion. Thus we provide evidence of the importance of accounting enforcement in securing favourable capital market outcomes, which has not been demonstrated in the prior literature because researchers commonly use more general legal proxies for enforcement. The new AUDIT and ENFORCE proxies may be more useful than other proxies found in the literature when seeking to distinguish between countries according to the strength of their enforcement of accounting requirements.
+
+Keywords: IInternational Financial Reporting Standards, IFRS, Analyst Forecast Accuracy, Enforcement of Accounting Standards, Audit Fees, Regulation, Rule of Law
+
+JEL Classification: M41, M42, M48, K20
+
+Suggested Citation:
+
+Preiato, John P. and Brown, Philip R. and Tarca, Ann, Mandatory Adoption of IFRS and Analysts’ Forecasts: How Much Does Enforcement Matter? (March 21, 2013). UNSW Australian School of Business Research Paper No. 2009 ACCT 01, Available at SSRN: https://ssrn.com/abstract=1499625 or http://dx.doi.org/10.2139/ssrn.1499625
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+A Ahmed , M Neel , D Wang
+The effects of mandatory adoption of International Financial Reporting Standards on smoothness, conservatism and timeliness of accounting earnings
+Journal of Contemporary Accounting Research Posted: 2012
+H Ashbaugh , M Pincus
+Domestic accounting standards, International Accounting Standards, and the predictability of earnings'
+Journal of Accounting Research , volume 39 , issue 3 , p. 417 - 434 Posted: 2001
+Crossref
+K Bae , H Tan , M Welker
+International GAAP differences: the impact on foreign analysts
+The Accounting Review , volume 83 , issue 3 , p. 593 - 628 Posted: 2008
+Crossref
+R Baker , A Mikol , R Quick
+Regulation of the statutory auditor in the European Union: A comparative survey of the United Kingdom, France and Germany
+European Accounting Review , volume 10 , issue 4 , p. 763 - 86 Posted: 2001
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,673
+ABSTRACT VIEWS
+6,843
+RANK
+24,595
+10 Citations
+67 References
+PlumX Metrics
+Related eJournals
+
+UNSW Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+International Accounting Standards and Accounting Quality
+
+By Mary E. Barth, Wayne R. Landsman, ...
+
+Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences
+
+By Holger Daske, Luzi Hail, ...
+
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors
+
+By Ray Ball
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

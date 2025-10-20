@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Leading Indicator Variables and Managerial Incentives in a Dynamic Agency Setting
+
+49 Pages Posted: 5 Aug 2015 Last revised: 26 Apr 2018
+
+Qintao Fan
+
+University of Oregon, Lundquist School of Business
+
+Wei Li
+
+University of Washington-Bothell; University of Illinois at Urbana-Champaign - Department of Accountancy
+
+Date Written: April 2, 2018
+
+Abstract
+
+This paper studies, in a dynamic agency setting, how incentives and contractual efficiency are affected by leading indicators of firms' future financial performance. In our two-period model, a leading indicator variable provides a noisy forecast of the uncertain return from the manager's long-term effort, and both contracting parties cannot refrain from renegotiating contract terms based on updated information. We find that the leading indicator can reduce the manager's long-term effort incentive as it facilitates the firm owner to capture more of the resulting return through renegotiated wages (i.e., the manager is held up). By reducing the uncertainty about future aggregate cash flows, the leading indicator also exacerbates the "ratchet" effect and discourages the manager's short-term effort. In equilibrium, as the leading indicator becomes more accurate in forecasting future cash flows, the first-period contract attaches higher explicit weights to both the forward-looking leading indicator and backward-looking cash flow, and yet the manager may find it optimal to reduce both the short- and long-term efforts. We further show that with a more accurate leading indicator variable, the explicit incentive on the lagging cash flow may increase more than that on the leading indicator, and the equilibrium firm profit may decrease and diverge from the manager's equilibrium efforts.
+
+Keywords: leading indicator variable; ratchet effect; holdup problem
+
+JEL Classification: D8; G30; J33; M40
+
+Suggested Citation:
+
+Fan, Qintao and Li, Wei, Leading Indicator Variables and Managerial Incentives in a Dynamic Agency Setting (April 2, 2018). Available at SSRN: https://ssrn.com/abstract=2639699 or http://dx.doi.org/10.2139/ssrn.2639699
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+A Arya , J Glover , K Sivaramakrishnan
+Commitment issues in budgeting
+Journal of Accounting Research , volume 33 , p. 41 - 58 Posted: 1997
+Crossref
+-- , J Fellingham , J C Glover , K Sivaramakrishnan
+Capital budgeting, the hold-up problem, and information system design
+Management Science , volume 46 , p. 205 - 216 Posted: 2000
+S Baiman , T Baldenius
+Nonfinancial performance measures as coordination devices
+The Accounting Review , volume 84 , p. 299 - 330 Posted: 2009
+Crossref
+R Banker , S Datar
+Sensitivity, precision and linear aggregation of signals for performance evaluation
+Journal of Accounting Research , volume 27 , p. 21 - 39 Posted: 1989
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+212
+ABSTRACT VIEWS
+1,752
+RANK
+328,615
+3 Citations
+60 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

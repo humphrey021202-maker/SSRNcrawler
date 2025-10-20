@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bitcoin: An Accounting Regime
+
+30 Pages Posted: 2 Sep 2022
+
+Mélissa Fortin
+
+University of Quebec at Montreal (UQAM)
+
+Erica Pimentel
+
+Queen's University
+
+Abstract
+
+The Bitcoin blockchain is a payment system designed to disintermediate financial transactions. While many professional accounting bodies have sounded the alarm about the potential for blockchain technology to simplify accounting bookkeeping, few academic articles have been able to transcend high-level conceptual descriptions and dig deeper into the technological nuances of blockchain technology to assess whether or not, and if so, how, blockchain can undermine the accounting profession and its practices. Drawing on a netnography of the early Bitcoin community from the technology’s formation in 2008 through to the disappearance of its founder in 2011, this paper aims to explore the role of accounting in the development of a new financial system. We propose that Bitcoin is more than a form of digital currency, but rather a new accounting regime that effectively takes accounting expertise away from accountants. Using sophisticated cryptography and advanced computer programming, the Bitcoin blockchain has created new interpretative schema for measuring and recording financial transactions. Bitcoin relies on new types of experts, namely computer programmers and cryptographers, and a new form of expertise that fuses technological know-how with accounting concepts. We find that Bitcoin programmers can co-opt accounting knowledge because these concepts do not constitute a sufficiently esoteric knowledge basis to protect the jurisdictional boundaries of the profession.
+
+Keywords: Bitcoin, accounting regime, accounting profession, expert knowledge
+
+Suggested Citation:
+
+Fortin, Mélissa and Pimentel, Erica, Bitcoin: An Accounting Regime. Available at SSRN: https://ssrn.com/abstract=4208128 or http://dx.doi.org/10.2139/ssrn.4208128
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+117
+ABSTRACT VIEWS
+892
+RANK
+549,213
+PlumX Metrics
+Related eJournals
+
+Cryptocurrency Research eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

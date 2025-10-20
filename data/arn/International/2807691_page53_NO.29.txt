@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Foreign Institutional Ownership and Auditor Choice: Evidence from Worldwide Institutional Ownership
+
+Journal of International Business Studies 50, 83-110
+
+51 Pages Posted: 12 Jul 2016 Last revised: 4 Mar 2020
+
+Jeong-Bon Kim
+
+Simon Fraser University
+
+Mikhail Pevzner
+
+University of Baltimore - Merrick School of Business
+
+Xiangang Xin
+
+The Chinese University of Hong Kong (CUHK)
+
+Date Written: July 8, 2016
+
+Abstract
+
+We investigate the influence of foreign institutional investors on firms’ auditor choices in an international setting. Foreign institutional investors are likely to demand high-quality audits to mitigate the information asymmetry they face and facilitate their external monitoring when they invest overseas. On the other hand, foreign institutional investors not only face difficulties in monitoring overseas firms in general but also have the limited ability to influence their auditor choices in particular. Using a large sample of 111,078 firm-year observations from 40 non-U.S. countries for the period of 2001–2011, we find that firms with higher foreign institutional ownership are more likely to hire Big 4 auditors. To address the endogeneity concern, we show that our findings are robust to the use of identification strategies exploiting the exogenous variation in foreign institutional ownership following MSCI index additions, two-stage least squares regressions, and change-on-change regressions. More importantly, we further explore cross-sectional/cross-country variations in the relation between foreign institutional investors and auditor choice and find that this relation is stronger (a) when foreign institutional investors are from countries with stronger governance institutions and (b) when the investee firms are located in countries with higher information asymmetries. Overall, our findings suggest that cross-border institutional investment plays an important role in influencing firms’ auditor choices and improving the information environment of firms across different countries around the world.
+
+Keywords: Foreign Institutional Investors, Auditor Choice, Information Environment
+
+JEL Classification: M40, M41
+
+Suggested Citation:
+
+Kim, Jeong-Bon and Pevzner, Mikhail and Xin, Xiangang, Foreign Institutional Ownership and Auditor Choice: Evidence from Worldwide Institutional Ownership (July 8, 2016). Journal of International Business Studies 50, 83-110, Available at SSRN: https://ssrn.com/abstract=2807691 or http://dx.doi.org/10.2139/ssrn.2807691
+Download This Paper
+ 
+Open PDF in Browser
+73 References
+R Aggarwal , I Erel , M Ferreira , P Matos
+Does governance travel around the world? Evidence from institutional investors
+Journal of Financial Economics , volume 100 , issue 1 , p. 154 - 181 Posted: 2011
+Crossref
+R Aggarwal , L Klapper , P D Wysocki
+Portfolio preferences of foreign institutional investors
+Journal of Banking & Finance , volume 29 , issue 12 , p. 2919 - 2946 Posted: 2005
+Crossref
+R V Aguilera , K A Desender , M L P Lamy , J H Lee
+The governance impact of a changing investor landscape
+Journal of International Business Studies , volume 48 , issue 2 , p. 195 - 221 Posted: 2017
+Crossref
+J K Aier , L Chen , M Pevzner
+Debtholders' demand for conservatism: Evidence from changes in directors' fiduciary duties
+Journal of Accounting Research , volume 52 , issue 5 , p. 993 - 1027 Posted: 2014
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+369
+ABSTRACT VIEWS
+2,078
+RANK
+184,656
+28 Citations
+73 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

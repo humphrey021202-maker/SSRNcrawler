@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Reporting Opacity on Trading Opacity: New Evidence from ADR Trades in Dark Pools
+
+Pace University Finance Research Paper No. 2019/01
+
+54 Pages Posted: 7 May 2019 Last revised: 6 Jun 2022
+
+Thomas J. Boulton
+
+Miami University
+
+Marcus V. Braga-Alves
+
+Pace University - Lubin School of Business
+
+Bidisha Chakrabarty
+
+Saint Louis University - Richard A. Chaifetz School of Business
+
+Date Written: March 25, 2019
+
+Abstract
+
+We examine how a firm’s reporting opacity affects its dark pool trading. Exploiting the exogenous variation in home-country reporting opacity in a sample of ADRs and using multiple metrics for reporting opacity, we find that greater opacity associates with increased dark pool trading. This relation holds after controlling for firms’ information environments, country specific governance issues, observable differences between ADRs and other securities that trade in dark pools (matched sample analysis), volume migration to dark pools during earnings announcements, informed trading in lit versus dark venues, ADR levels, IFRS reporting requirements, and the possible endogenous determination of home-country reporting opacity and dark pool volume. The positive relation is stronger for ADRs held by (quasi-indexing) institutions with low turnover and diversified holdings, and it is weaker for ADRs favored by (transient) institutions that trade frequently and (dedicated) institutions that hold concentrated portfolios. Bid-ask spreads are greater for higher opacity ADRs that trade in dark pools, indicating that reporting opacity is associated with the negative effect of dark pool trading on market quality.
+
+Keywords: Reporting opacity; Dark pools; Disclosure; Earnings announcements; Informed trading
+
+JEL Classification: G10, G11, G14, M41
+
+Suggested Citation:
+
+Boulton, Thomas J. and Braga-Alves, Marcus V. and Chakrabarty, Bidisha, The Effect of Reporting Opacity on Trading Opacity: New Evidence from ADR Trades in Dark Pools (March 25, 2019). Pace University Finance Research Paper No. 2019/01, Available at SSRN: https://ssrn.com/abstract=3359992 or http://dx.doi.org/10.2139/ssrn.3359992
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+R Aggarwal , J Cao , F Chen
+Information environment, dividend changes, and signaling: Evidence from ADR firms
+Contemporary Accounting Research , volume 29 , issue 2 , p. 403 - 431 Posted: 2012
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+J Bacidore , G Sofianos
+Liquidity provision and specialist trading in NYSE-listed and non-U.S. stocks
+Journal of Financial Economics , volume 63 , issue 1 , p. 133 - 158 Posted: 2002
+T Balakrishnan , X Gkougkousi , W Landsman , P Taori
+Dark market share around earnings announcements and speed of resolution of investor disagreement
+The Accounting Review Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+174
+ABSTRACT VIEWS
+2,471
+RANK
+394,952
+59 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

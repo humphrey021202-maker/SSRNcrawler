@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+New Equivalence Tests for Approximate Independence in Contingency Tables
+
+Stats 2019, 2(2), 239-246; DOI:10.3390/stats2020018
+
+8 Pages Posted: 24 May 2019 Last revised: 26 Jun 2019
+
+Vladimir Ostrovski
+
+ERGO Group AG
+
+Date Written: April 23, 2019
+
+Abstract
+
+We introduce new equivalence tests for approximate independence in two-way contingency tables. The critical values are calculated asymptotically. The finite sample performance of the tests is improved by means of the bootstrap. An estimator of boundary points is developed to make the bootstrap based tests statistically efficient and computationally feasible. We compare the performance of the proposed tests for different table sizes by simulation. Then we apply the tests to real data sets. The tests are implemented in R and available online, see https://github.com/TestingEquivalence/EquivalenceTestIndependenceR.
+
+Keywords: testing, approximate independence, contingency tables, bootstrap, equivalence, minimum distance, boundary point estimator
+
+Suggested Citation:
+
+Ostrovski, Vladimir, New Equivalence Tests for Approximate Independence in Contingency Tables (April 23, 2019). Stats 2019, 2(2), 239-246; DOI:10.3390/stats2020018, Available at SSRN: https://ssrn.com/abstract=3379224
+Download This Paper
+ 
+Open PDF in Browser
+8 References
+J Hodges , E Lehmann
+Testing the approximate validity of statistical hypotheses
+J. Roy. Statist. Soc. Ser. B Posted: 1954
+Crossref
+P Diaconis , B Efron
+Testing for independence in a two-way table: New interpretations of the chi-square statistic
+Annals of Statistics , volume 13 , p. 845 - 913 Posted: 1985
+Crossref
+J Liu , B G Lindsay
+Building and using semiparametric tolerance regions for parametric multinomial models. The Annals of Statistics , volume 37 , p. 3644 - 3659 Posted: 2009
+Crossref
+S Wellek
+Testing statistical hypotheses of equivalence and noninferiority Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+52
+ABSTRACT VIEWS
+815
+RANK
+906,046
+8 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

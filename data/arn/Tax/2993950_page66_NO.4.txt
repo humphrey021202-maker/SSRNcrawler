@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Implicit Corporate Taxes and Income Shifting
+
+74 Pages Posted: 29 Jun 2017 Last revised: 12 Mar 2018
+
+Kevin Markle
+
+Michigan State University
+
+Lillian F. Mills
+
+The University of Texas at Austin; University of Texas at Austin - McCombs School of Business
+
+Braden Williams
+
+University of Texas at Austin - Department of Accounting
+
+Date Written: March 7, 2018
+
+Abstract
+
+Implicit tax theory predicts that as capital moves to tax-favored investments, the expected pretax returns on those investments decrease. At the global level, this should create a positive relation between country-level tax rates and firm-level pretax returns. However, theory in income-shifting predicts reported pretax returns are inversely related to tax rates, as firms shift profits into lower-tax countries. We analytically model these two theories and empirically test our predictions in two samples of European firms: single-country firms and affiliates of multinational firms. In the sample of single-country firms, we find robust evidence of country-wide implicit taxes, but that this effect is driven by closed economies (non-EU countries). In the sample of multinational firms, we find that the effects of income shifting overwhelm the effects of implicit taxes. Our results imply that certain measures of income shifting estimated using reported profits can be understated when the effects of implicit taxes are ignored, but these effects are less problematic when the research setting includes mostly open economies. Our granular setting of multiple countries and affiliate level data helps explain prior research that finds decreasing corporate implicit tax effects over time, particularly for multinationals.
+
+Keywords: implicit taxes, income shifting
+
+JEL Classification: H25, H26
+
+Suggested Citation:
+
+Markle, Kevin and Mills, Lillian F. and Mills, Lillian F. and Williams, Braden, Implicit Corporate Taxes and Income Shifting (March 7, 2018). Available at SSRN: https://ssrn.com/abstract=2993950 or http://dx.doi.org/10.2139/ssrn.2993950
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+479
+ABSTRACT VIEWS
+2,693
+RANK
+136,584
+11 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CECL: Timely Loan Loss Provisioning and Bank Regulation
+
+62 Pages Posted: 25 Feb 2020 Last revised: 2 Oct 2022
+
+Lucas Mahieux
+
+Tilburg University - Tilburg University School of Economics and Management
+
+Haresh Sapra
+
+Booth School of Business, University of Chicago
+
+Gaoqing Zhang
+
+Carnegie Mellon University - David A. Tepper School of Business
+
+Date Written: September 30, 2022
+
+Abstract
+
+We investigate how provisioning models affect bank regulation. We study an accuracy vs. timeliness trade-off between an incurred loss model (IL) and a current expected credit loss model (CECL). Relative to IL, CECL improves efficiency by enabling timely intervention to curb inefficient ex post asset-substitution even though the imprecise information of CECL entails false alarms. However, from a real effects perspective, our analysis uncovers a potential cost of CECL: banks respond to timely intervention by originating riskier loans so that timely intervention induces timelier risk-taking. By appropriately tailoring regulatory capital to information about credit losses, the regulator can improve the efficiency of CECL. In particular, we show that regulatory capital under CECL would be looser when early estimates of credit losses are sufficiently precise and/or risk-shifting incentives are not too severe. From a policy perspective, our analysis suggests that better coordination between standard setters and bank regulators could enable the latter to relax capital requirements in order to spur lending.
+
+Keywords: CECL; Expected Loss Model; Incurred Loss Model; Capital Requirements; Loan Loss Provisioning; Real Effects; Banking Regulation
+
+JEL Classification: G21, G28, M41, M48
+
+Suggested Citation:
+
+Mahieux, Lucas and Sapra, Haresh and Zhang, Gaoqing, CECL: Timely Loan Loss Provisioning and Bank Regulation (September 30, 2022). Available at SSRN: https://ssrn.com/abstract=3523321 or http://dx.doi.org/10.2139/ssrn.3523321
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+Jorge Abad , Javier Suarez
+The procyclicality of expected credit loss provisions Posted: 2018
+Acharya , V Viral , G Stephen , Ryan
+Banks' …nancial reporting and …nancial system stability
+Journal of Accounting Research , volume 54 , issue 2 , p. 277 - 340 Posted: 2016
+Pierre-Richard Agenor , Roy Zilberman
+Loan loss provisioning rules, procyclicality, and …nancial volatility
+Journal of Banking and Finance , volume 61 , p. 301 - 315 Posted: 2015
+Franklin Allen , Elena Carletti
+Mark-to-market accounting and liquidity pricing
+Journal of Accounting and Economics , volume 45 , issue 2-3 , p. 358 - 378 Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+804
+ABSTRACT VIEWS
+5,570
+RANK
+70,523
+28 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+European Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

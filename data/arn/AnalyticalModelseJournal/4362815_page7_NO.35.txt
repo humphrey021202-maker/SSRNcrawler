@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Local Predictability of Stock Returns and Cash Flows
+
+Journal of Empirical Finance, Forthcoming
+
+47 Pages Posted: 23 Feb 2023 Last revised: 26 Dec 2023
+
+Deshui Yu
+
+College of Finance and Statistics, Hunan University
+
+Li Chen
+
+WISE and School of Economics, Xiamen University
+
+Date Written: February 18, 2023
+
+Abstract
+
+Motivated by the present-value framework, this article proposes a novel and flexible semiparametric long-horizon time-varying model to investigate the so-called `pockets of predictability', which refer to local periods in which stock returns or cash flows are significantly predictable. A semiparametric profile method is used to estimate both time-varying and constant parameters. In the empirical studies, the predictive ability of the dividend-price ratio for dividend growth is significant in up to 67% of the sample period 1926-2022, which is considerably weaker than its ability to predict stock returns at both short and long horizons. Dividend smoothing only matters for dividend growth predictability at a low frequency. In addition, localized variance decomposition analysis suggests that the present-value relation is valid locally for most sample periods and that the main driver of the variation in the dividend-price ratio stems from the predictability of stock returns. Lastly, the empirical results using the earnings-price ratio are similar.
+
+Keywords: Present-value model, time-varying coefficient, semiparametric estimation, dividend smoothing, variance decomposition
+
+JEL Classification: C14, C22, C53, G17
+
+Suggested Citation:
+
+Yu, Deshui and Chen, Li, Local Predictability of Stock Returns and Cash Flows (February 18, 2023). Journal of Empirical Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4362815 or http://dx.doi.org/10.2139/ssrn.4362815
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+Y Amihud , C M Hurvich
+Predictive regressions: A reduced-bias estimation method
+Journal of Financial and Quantitative Analysis , volume 39 , issue 4 , p. 813 - 841 Posted: 2004
+Y Amihud , C M Hurvich , Y Wang
+Multiple-predictor regressions: Hypothesis testing
+Review of Financial Studies , volume 22 , issue 1 , p. 413 - 434 Posted: 2008
+A Ang , G Bekaert
+Stock return predictability: Is it there?
+Review of Financial Studies , volume 20 , issue 3 , p. 651 - 707 Posted: 2007
+A Ang , D Kristensen
+Testing conditional factor models
+Journal of Financial Economics , volume 106 , issue 1 , p. 132 - 156 Posted: 2012
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+140
+ABSTRACT VIEWS
+792
+RANK
+475,518
+1 Citations
+55 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

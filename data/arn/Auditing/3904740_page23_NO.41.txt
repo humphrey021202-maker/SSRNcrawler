@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Auditing Non-GAAP Measures: Signaling More Than Intended
+
+Contemporary Accounting Research, Forthcoming
+
+Posted: 2 Sep 2021
+
+Spencer B. Anderson
+
+Indiana University - Kelley School of Business - Department of Accounting
+
+Jessen L. Hobson
+
+University of Illinois at Urbana-Champaign
+
+Ryan Sommerfeldt
+
+Brigham Young University - School of Accountancy
+
+Date Written: July 30, 2021
+
+Abstract
+
+Many companies regularly disclose non-GAAP performance measures to communicate firm-specific information that does not fit within the mold of GAAP reporting. However, these non-GAAP measures may have low information content or even be misleading to investors. Thus, the question arises of whether auditors should play a larger role in the reporting of non-GAAP measures, which currently are not audited. We run an experiment to provide ex ante evidence on the effect of auditing non-GAAP measures. Specifically, we present investor-participants with a non-GAAP measure that should be used when making investment judgments (more informative) or should not be used when making investment judgments (less informative) and is either audited or is not audited. As predicted, we find that, when participants view a non-GAAP measure that is more informative, they appropriately use the non-GAAP measure in their investment-related judgments, regardless of whether the measure is audited. However, also as predicted, we find that, while participants appropriately do not use a less informative non-GAAP measure when it is not audited, participants inappropriately do use the less informative non-GAAP measure in their investment-related judgments when it is audited. Mediation results provide evidence consistent with audits affecting investors’ reliance on non-GAAP measures. Specifically, our results are consistent with audits of non-GAAP measures signaling more than is intended, evidenced by investors perceiving an audited non-GAAP measure as being useful in their investment decisions when the measure is less informative to them. Our findings suggest that regulators should exercise caution when it comes to prescribing assurance over non-GAAP measures.
+
+Keywords: non-GAAP measures, audit; expectation gap, attribute substitution, street earnings, pro-forma
+
+Suggested Citation:
+
+Anderson, Spencer B. and Hobson, Jessen L. and Sommerfeldt, Ryan, Auditing Non-GAAP Measures: Signaling More Than Intended (July 30, 2021). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3904740
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+471
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

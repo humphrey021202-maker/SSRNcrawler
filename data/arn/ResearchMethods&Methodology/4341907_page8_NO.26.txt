@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Event Studies With Intraday Data
+
+47 Pages Posted: 31 Jan 2023 Last revised: 16 Jun 2023
+
+Rajeev R. Bhattacharya
+
+Washington Finance and Economics
+
+Date Written: June 15, 2024
+
+Abstract
+
+Using intraday data from TAQ, TRACE, I/B/E/S, and Capital IQ, using daily data from CRSP, Compustat, CRSP-Compustat Merged Database, and FRED, I find that, for all publicly traded U.S. stocks for 2014 - September 2021, abnormal reactions are systemically all out of the system within two hours after a potentially material event. I compile a dataset of systematic, independent, and objective characterizations of each ticker-year, ticker-halfyear, ticker-quarter, and ticker-month, as statistically and economically significant efficient, statistically and economically significant inefficient, or otherwise. I find that capital markets during the first two months of the COVID-19 lockdown were statistically and economically significantly less efficient.
+JEL Classification Codes: G24; G32; G11; G12; G14; C58; C33.
+
+Keywords: Intraday data, Event studies, Earnings announcements and revisions, Analyst forecasts and revisions, Key developments, Market efficiency, COVID-19
+
+JEL Classification: G24; G32; G11; G12; G14; C58; C33.
+
+Suggested Citation:
+
+Bhattacharya, Rajeev, Event Studies With Intraday Data (June 15, 2024). Available at SSRN: https://ssrn.com/abstract=4341907 or http://dx.doi.org/10.2139/ssrn.4341907
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+Lakonishok Porta , Shleifer , Vishny , Mayers Dann , Raab
+18 Other measures of market e¢ ciency, 1) based on securities prices following random walks in e¢ cient markets used by Cao, Liang, Lo and Petrasek (2018) and Boehmer and Kelley (2009), 2) the two purely empirical measures of market e¢ ciency based on the asymmetry between positive and negative market returns used by Bris, Goetzmann and Zhu (2007), 3) the variance ratio measures of random walk 19 -see Campbell, Lo and MacKinlay (1997) for details, 4) the fric-16 For other recent event studies using intraday data, please see, for instance
+Samuelson (2009), and Rosch, Subrahmanyam and Dijk Posted: 1970
+Bhattacharya , ; Evans , O' Bhattacharya , Brien
+for the role of market e¢ ciency in securities litigation. For a description of the importance of relative e¢ ciency for valuations (especially Mark-to-Market) and securities class actions (especially class certi…cation), see Bhattacharya
+19 The last two methods were also used by Sa¢ and Sigurdsson Posted: 2006
+0 Before 9:30 AM U.S. Eastern , volume 640
+AM U.S. Eastern 7,186 , volume 315
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+379
+ABSTRACT VIEWS
+1,647
+RANK
+179,159
+5 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

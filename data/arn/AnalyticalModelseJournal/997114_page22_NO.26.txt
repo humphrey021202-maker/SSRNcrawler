@@ -1,0 +1,161 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Trading Volume on Analysts' Forecast Bias
+
+Accounting Review, Vol. 86, No. 2, March 2011
+
+43 Pages Posted: 28 Jun 2007 Last revised: 23 Oct 2010
+
+Anne Beyer
+
+Stanford Graduate School of Business
+
+Ilan Guttman
+
+Leonard N. Stern School of Business, New York University; New York University - Stern Scholl of business
+
+Date Written: September 27, 2010
+
+Abstract
+
+This study models the interaction between a sell-side analyst and risk-averse investors. It derives an analyst's optimal earnings forecast and investors' optimal trading decisions in a setting where the analyst's payoff depends on the trading volume the forecast generates as well as on the forecast error. In the fully separating equilibrium, we find that the analyst biases the forecast upward (downward) if his private signal reveals relatively good (bad) news.
+
+The model predicts that: (i) the analyst biases the forecast upward more often than downward and the forecast is on average optimistic; (ii) the magnitude of the analyst's bias is increasing in the per share benefit from trading volume he receives; and (iii) the analyst's expected squared forecast error may increase in the precision of his private information. Finally, we characterize the circumstances under which the (rational) analyst acts as if he overweights or underweights his private information.
+
+Keywords: Analysts' forecasts, forecast bias, trading volume, trading commission
+
+JEL Classification: G29, M41, D82
+
+Suggested Citation:
+
+Beyer, Anne and Guttman, Ilan, The Effect of Trading Volume on Analysts' Forecast Bias (September 27, 2010). Accounting Review, Vol. 86, No. 2, March 2011, Available at SSRN: https://ssrn.com/abstract=997114
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A R Admati , P Pfleiderer
+A monopolistic market for information
+Journal of Economic Theory , volume 39 , issue 2 , p. 400 - 439 Posted: 1986
+Crossref
+D Bernhardt , M Campello , E Kutsoati
+Who herds?
+Journal of Financial Economics , volume 80 , issue 3 , p. 657 - 675 Posted: 2006
+Crossref
+A Beyer
+Financial analysts' forecast revisions and managers' reporting behavior
+Journal of Accounting and Economics , volume 46 , issue jou_issue[1].xmlText , p. 334 - 348 Posted: 2008
+Crossref
+Q Chen , W Jiang
+Analysts' weighting of private and public information
+Review of Financial Studies , volume 19 , issue 1 , p. 319 - 355 Posted: 2006
+Crossref
+Load more
+4 Citations
+Sanjay Bissessur , David Veenman
+Analyst Information Precision and Small Earnings Surprises
+Review of Accounting Studies, Vol. 21, No. 4, 2016 · 46 Pages · Posted: 28 Sep 2013 · Last revised: 26 Jul 2017 · Downloads: 475
+Download PDF  Add Paper to My Library
+Sean Cleary , Jonathan Jona , Gladys Lee , Joshua Shemesh
+Underlying Risk Preferences and Analyst Risk-Taking Behavior
+Cleary, S., Jona, J., Lee, G., & Shemesh, J. (2020) Underlying risk preferences and analyst risk‐taking behavior. Journal of Business Finance & Accounting., · 54 Pages · Posted: 25 Jan 2018 · Last revised: 23 Feb 2023 · Downloads: 111
+Download PDF  Add Paper to My Library
+Ben Lourie , Devin M. Shanthikumar , Il Sun Yoo
+MiFID II and the Unbundling of Analyst Research from Trading Execution
+50 Pages · Posted: 19 Oct 2020 · Last revised: 18 Oct 2022 · Downloads: 330
+Download PDF  Add Paper to My Library
+Sean Cleary , Jonathan Jona , Gladys Lee , Joshua Shemesh
+Underlying Risk Preferences and Analyst Risk‐Taking Behavior
+Journal of Business Finance & Accounting, Vol. 47, Issue 7-8, pp. 949-981, 2020 · 33 Pages · Posted: 30 Sep 2020 · Downloads: 12
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+634
+ABSTRACT VIEWS
+3,366
+RANK
+96,103
+4 Citations
+31 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Rock Center for Corporate Governance at Stanford University Working Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Can Investors Profit from the Prophets? Consensus Analyst Recommendations and Stock Returns
+
+By Brad M. Barber, Reuven Lehavy, ...
+
+Security Analysts' Career Concerns and Herding of Earnings Forecasts
+
+By Jeffrey D. Kubik, Amit Solomon, ...
+
+The Relation between Analysts' Forecasts of Long-Term Earnings Growth and Stock Price Performance Following Equity Offerings
+
+By Patricia Dechow, Amy P. Hutton, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Persuasion Under Higher-Order Uncertainty
+
+Tuck School of Business Working Paper No. 2656144
+
+56 Pages Posted: 5 Sep 2015
+
+Patrick Hummel
+
+Google Inc.
+
+John Morgan
+
+University of California, Berkeley - Economic Analysis & Policy Group
+
+Phillip C. Stocken
+
+Dartmouth College - Tuck School of Business
+
+Date Written: September 2, 2015
+
+Abstract
+
+We study a general model of persuasion games under higher-order uncertainty about the sender's knowledge of an uncertain state variable. Unlike situations where such uncertainty is absent, we show that higher-order uncertainty eliminates truth-telling as an equilibrium. Instead, equilibrium consists of a convex interval of states where either disclosure or complete non-disclosure occurs, depending on the relative slopes of the ideal action lines of the sender and receiver. When choosing between senders differing in both expertise and preference alignment, we offer conditions where expertise dominates regardless of the degree of preference misalignment. Absent higher-order uncertainty, we provide an algorithm for constructing a truthful equilibrium, as well as necessary and sufficient conditions for equilibrium uniqueness.
+
+Keywords: High-order uncertainty, persuasion, cheap talk, truth-telling, unraveling, full revelation
+
+JEL Classification: C72, D80, D83
+
+Suggested Citation:
+
+Hummel, Patrick and Morgan, John and Stocken, Phillip C., Persuasion Under Higher-Order Uncertainty (September 2, 2015). Tuck School of Business Working Paper No. 2656144, Available at SSRN: https://ssrn.com/abstract=2656144 or http://dx.doi.org/10.2139/ssrn.2656144
+Download This Paper
+ 
+Open PDF in Browser
+23 References
+V P Crawford , J Sobel
+Strategic information transformation
+Econometrica , volume 50 , issue 6 , p. 1431 - 1451 Posted: 1982
+Crossref
+R A Dye
+Disclosure of nonproprietary information
+Journal of Accounting Research , volume 23 , issue 1 , p. 123 - 145 Posted: 1985
+Crossref
+D Eggen , M A Fletcher
+Embattled Gonzales Resigns. Washington Post (Tuesday Posted: 2007-08-28
+D Eggen , P Kane
+Senators Chastise Gonzales at Hearing. Washington Post (Friday Posted: 2007-04-20
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+237
+ABSTRACT VIEWS
+2,265
+RANK
+294,806
+3 Citations
+23 References
+PlumX Metrics
+Related eJournals
+
+Tuck School of Business at Dartmouth Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

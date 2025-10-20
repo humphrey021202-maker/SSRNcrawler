@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+The Consequences of Expanded Audit Reporting: Implications of Tax Key Audit Matters for Tax Attribute Valuation and Auditor-Provided Tax Services 
+
+69 Pages Posted: 29 Oct 2020 Last revised: 17 Aug 2023
+
+Dan Lynch
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Aaron Mandell
+
+University of Wisconsin - Milwaukee - Sheldon B. Lubar School of Business
+
+Linette M. Rousseau
+
+University of Houston, Bauer College of Business
+
+Date Written: November 9, 2021
+
+Abstract
+
+This study examines the consequences of tax key audit matters (KAMs) to the valuation of clients’ tax attributes and to auditor provided tax services (APTS). Existing literature on expanded audit reporting finds that KAMs are not associated with investor or audit outcomes. This creates an impetus to identify whether, in specific circumstances or for especially sensitive topics, KAMs are more consequential. Tax KAMs are an ideal setting for this investigation because they are prevalent, taxes are economically important, and auditors can provide tax services to their clients. We find that investors discount the tax avoidance and deferred tax assets of companies receiving tax KAMs. We find that these effects map directly into the specific topics of the company’s tax KAM such as uncertain tax positions (UTPs), deferred tax assets (DTAs), and multijurisdictional complexity. These results suggest managers have incentives to avoid tax KAMs. Consistent with self-interest threats to auditor independence, we find that receiving a tax KAM is negatively associated with clients’ concurrent APTS purchases, but clients increase their future APTS purchases when they stop receiving tax KAMs. Our results are strongest for UTP and DTA KAMs, where the auditor has the most discretion in issuing the KAM. These results reveal previously unknown consequences of tax KAMs to the valuation of companies’ tax attributes and the incentives around APTS. 
+
+Keywords: tax, key audit matters, critical audit matters, KAM, CAM, disclosure, auditor-provided tax services JEL Classifications: H20
+
+JEL Classification: H20, H25, M41
+
+Suggested Citation:
+
+Lynch, Dan and Mandell, Aaron and Rousseau, Linette,
+
+The Consequences of Expanded Audit Reporting: Implications of Tax Key Audit Matters for Tax Attribute Valuation and Auditor-Provided Tax Services 
+
+(November 9, 2021). Available at SSRN: https://ssrn.com/abstract=3689349 or http://dx.doi.org/10.2139/ssrn.3689349
+Download This Paper
+ 
+Open PDF in Browser
+108 References
+L Abbott , W L Buslepp
+Do Critical Audit Matters Provide Decision-Relevant Information to Investors? Evidence from Merger and Acquisition Announcements Posted: 2023
+N Alsadoun , V Naiker , F Navissi , D S Sharma
+Auditor-provided tax nonaudit services and the implied cost of equity capital
+Auditing: A Journal of Practice & Theory , volume 37 , issue 3 , p. 1 - 24 Posted: 2018
+E Amir , M Kirschenheiter , K Willard
+The valuation of deferred taxes
+Contemporary Accounting Research , volume 14 , issue 4 Posted: 1997
+E Amir , M Kirschenheiter , K Willard
+The aggregation and valuation of deferred taxes
+Review of Accounting Studies , volume 6 , p. 275 - 297 Posted: 2001
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,055
+ABSTRACT VIEWS
+3,923
+RANK
+48,555
+6 Citations
+108 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

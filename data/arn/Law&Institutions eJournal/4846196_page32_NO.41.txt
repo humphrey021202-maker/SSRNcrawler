@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is There a Premium for Sustainable Development Goals? The Case of Activist Investors
+
+44 Pages Posted: 24 Jun 2024
+
+Patricia Paiva Gomes Cruz (Bilezikjian)
+
+Independent
+
+Date Written: March 7, 2024
+
+Abstract
+
+This paper investigates the relationship between company valuations after being targeted by blockholder activists when their stated investment objectives exhibit some degree of similarity to Sustainable Development Goals (SDGs) as developped by the UN. Our empirical approach employs Natural Language Processing (NLP) to establish similarity scores from the textual content of activist regulatory filings (investment objectives) and the SDGs. We find a robust positive relationship that is both economically and statistically significant. Switching from no similarity to the average similarity increases the abnormal returns around the filing date of an activist investor by approximately 2%, about one fifth of the average abnormal return. These findings imply that activist investors may play a crucial rule in the transition towards a more sustainable economy.
+
+Keywords: Large shareholders, blockholders, activist investors, activism, corporate governance, sustainable finance, SDGs, textual analysis, NLP
+
+JEL Classification: G14, G23, G30, M14
+
+Suggested Citation:
+
+Paiva Gomes Cruz (Bilezikjian), Patricia, Is There a Premium for Sustainable Development Goals? The Case of Activist Investors (March 7, 2024). Available at SSRN: https://ssrn.com/abstract=4846196 or http://dx.doi.org/10.2139/ssrn.4846196
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+P Akey , I Appel
+Environmental Externalities of Activism Posted: 2020
+R Albuquerque , V Fos , E Schroth
+Value Creation in Shareholder Activism
+Journal of Financial Economics , volume 145 , p. 153 - 178 Posted: 2022
+J Angrist , J.-S Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2008
+D Ardia , K Bluteau , K Boudt , K Inghelbrecht
+Climate Change Concerns and the Performance of Green Versus Brown Stocks Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+48
+ABSTRACT VIEWS
+362
+37 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can Whistleblowing Improve Organizational Effectiveness? Evidence from Financial Reporting Misconduct
+
+42 Pages Posted: 18 Feb 2024 Last revised: 16 Feb 2025
+
+Hong Kim Duong
+
+Old Dominion University
+
+Sadok El Ghoul
+
+University of Alberta - Campus Saint-Jean
+
+Omrane Guedhami
+
+University of South Carolina - Moore School of Business
+
+Emmanuel Sequeira
+
+San Jose State University
+
+Zuobao Wei
+
+University of Texas at El Paso
+
+Date Written: January 01, 2021
+
+Abstract
+
+Background: While whistleblowing (WB) has attracted growing research interest in recent years, several critical WB-related issues remain underexplored.
+
+Purpose: This study examines the impact of external WB allegations on a firm’s organizational capital (OC). Such allegations often indicate management’s failure to address employee concerns internally, spotlighting potential deficiencies in internal reporting systems, employee communication, training, and trust in organizational fairness. To mitigate reputational damage, restore employee trust, and prevent future incidents, we posit that WB firms respond by increasing OC investment.
+
+Research Design: We employ a difference-in-differences approach, comparing OC changes in WB-targeted firms with those in a propensity score-matched control sample.
+
+Study Sample: Our dataset includes employee WB allegations obtained from OSHA (via a Freedom of Information Act request) and a hand-collected sample from public media.
+
+Results: We find that WB firms significantly increase OC in the post-allegation period. Additionally, higher OC investment is linked to fewer future WB incidents. The decision to strengthen OC is primarily influenced by employees, long-term institutional investors, and prior OC deficiencies, rather than by WB case credibility or CEO characteristics.
+
+Conclusions: Our findings indicate the importance of aligning long-term investment strategies and employee benefits with broader corporate goals to foster a responsive and adaptive organizational culture.
+
+Keywords: Whistleblowing, Financial Reporting Misconduct, Organizational Capital
+
+JEL Classification: G34; M48; M54
+
+Suggested Citation:
+
+Duong, Hong Kim and El Ghoul, Sadok and Guedhami, Omrane and Sequeira, Emmanuel and Wei, Zuobao, Can Whistleblowing Improve Organizational Effectiveness? Evidence from Financial Reporting Misconduct (January 01, 2021). Available at SSRN: https://ssrn.com/abstract=4714211 or http://dx.doi.org/10.2139/ssrn.4714211
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+J A Andrade
+Reconceptualising whistleblowing in a complex world
+Journal of Business Ethics , volume 128 , p. 321 - 335 Posted: 2015
+C S Armstrong , A D Jagolinzer , D F Larcker
+Chief executive officer equity incentives and accounting irregularities
+Journal of Accounting Research , volume 48 , issue 2 , p. 225 - 271 Posted: 2010
+Report to the nations: 2020 global study on occupational fraud and abuse Posted: 2020
+A Atkeson , P J Kehoe
+Modeling and measuring organization capital
+Journal of Political Economy , volume 113 , issue 5 , p. 1026 - 1053 Posted: 2005
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+98
+ABSTRACT VIEWS
+755
+RANK
+627,127
+28 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

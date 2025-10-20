@@ -1,0 +1,99 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+A Multi-Period Game Theoretic Model of Venture Capitalists and Entrepreneurs
+
+University of Illinois at Urbana-Champaign's Academy for Entrepreneurial Leadership Historical Research Reference in Entrepreneurship
+
+Posted: 24 Nov 2009
+
+Arieh Gavious
+
+Ono Academic College; Ben-Gurion University
+
+Ramy Elitzur
+
+University of Toronto - Rotman School of Management
+
+Date Written: 2003
+
+Abstract
+
+As venture capitalists (VCs) have an important role in financial start-ups, most studies have focused on venture capital as a short-term source of financing. The authors examine the relation between a VC and an entrepreneur in a multi-period game in which the contract is set at the beginning of the game, and follows the relation from its start to the end. This multi-period game theoretic model focuses on the problem of moral hazard – the entrepreneur's hidden effort and how a VC can cope with it, using staged investments. First a game between a VC and an entrepreneur is presented, in which the VC is unable to notice the entrepreneur’s effort. Next, a multi-period game between the parties is examined, where the contract is established at the beginning of the multi-period game. The results of the model are presented, and several propositions and theorems are advanced. The multi-period aspects of the model allow for deriving the strategic behavior of the VCs and entrepreneurs over time. The model is consistent with reality, where the average duration of the relation between venture capitalists and entrepreneurs is several years and the investment is made in stages. The study provides insights on optimal contracts and the characterization of an endogenous exit point. It is suggested that the optimal incentive scheme back load all incentive payments to the entrepreneur, and a straight debt contract is optimal in venture financing. Recommendations are made for further studies on the contracts among VCs who syndicate together, as well as the bargaining between the VC and the entrepreneur.(CBS)
+
+Keywords: Staged investments, Contracts & agreements, Moral hazard problem, Organizational behavior, Venture capital, Game theory, Closing firms, Strategic planning, Venture capitalists, Incentives
+
+Suggested Citation:
+
+Gavious, Arieh and Elitzur, Ramy, A Multi-Period Game Theoretic Model of Venture Capitalists and Entrepreneurs (2003). University of Illinois at Urbana-Champaign's Academy for Entrepreneurial Leadership Historical Research Reference in Entrepreneurship, Available at SSRN: https://ssrn.com/abstract=1510547
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,784
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+
+Entrepreneurship & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

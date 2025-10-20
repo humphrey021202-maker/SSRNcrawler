@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Real Options Perspective on Corporate Social Responsibility: Evidence Using Causal Forest
+
+45 Pages Posted: 27 Apr 2022 Last revised: 10 Jun 2022
+
+Dan Zhao
+
+Washington University in St. Louis - John M. Olin Business School
+
+Yue Maggie Zhou
+
+University of Michigan, Stephen M. Ross School of Business
+
+Date Written: December 31, 2020
+
+Abstract
+
+This paper uses real options theories to examine how two types of uncertainty influence Corporate Social Responsibility (CSR) activities based on these activities' unique features of enhancing revenue growth and insuring against negative events. In particular, we capture uncertainty over firms' negative social/environmental/political events (negative event uncertainty) using sentiment embedded in news reports and uncertainty in firms' product or financial market (market uncertainty) using crude oil price shocks. With the help of the machine learning method causal forest, we find that publicly-traded U.S. firms increase CSR activities when facing negative event uncertainty, but reduce CSR activities when facing market uncertainty. These relationships are moderated by firms' innovative productivity, which influences the opportunity cost of CSR investment, firms' brand equity, which influences the damage of negative events, and the competitiveness of firms' product markets, which influences CSR's value to the firm. The findings offer practical advice for corporate executives in CSR engagements and policymakers in encouraging CSR activities
+
+Keywords: Volatility and Uncertainty, Corporate Social Responsibility, ESG, Real Options, Machine Learning, Causal Forest
+
+JEL Classification: D81, M14, C58
+
+Suggested Citation:
+
+Zhao, Dan and Zhou, Yue Maggie, A Real Options Perspective on Corporate Social Responsibility: Evidence Using Causal Forest (December 31, 2020). Available at SSRN: https://ssrn.com/abstract=4084084 or http://dx.doi.org/10.2139/ssrn.4084084
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+214
+ABSTRACT VIEWS
+1,260
+RANK
+325,744
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

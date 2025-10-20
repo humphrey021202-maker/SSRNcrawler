@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is Audit Committee Equity Compensation Related to Audit Fees?
+
+Contemporary Accounting Research, Volume 38, No. 1, 2021.
+
+47 Pages Posted: 20 Jul 2020 Last revised: 14 Apr 2022
+
+Xinming Liu
+
+Xiamen University
+
+Gerald J. Lobo
+
+University of Houston - C.T. Bauer College of Business
+
+Hung-Chao Yu
+
+National Chengchi University
+
+Date Written: June 23, 2020
+
+Abstract
+
+Section 301 of SOX implicitly assumes that audit committees can independently determine audit fees. Critics of Section 301 have questioned this assumption, in particular, and the efficacy of Section 301, more generally. In response, the SEC issued a concept release in 2015 calling for public disclosure of the process that audit committees follow for determining auditor compensation. Motivated by these calls and the widespread use of stocks and options to compensate firms’ independent directors, we examine the relation between equity compensation granted to audit committee members and audit fees. Using a sample of 3,685 firm-year observations during 2007-2015, we find a negative relation between audit committee equity compensation and audit fees, consistent with larger equity pay inducing audit committee members to compromise independence by paying lower audit fees. These findings are robust to controlling for endogeneity, firm size, alternative measures of equity compensation, alternative samples, and an alternative treatment of extreme values. We further show that larger equity compensation is associated with lower earnings quality. We also find that the negative effect of equity compensation on audit fees is stronger when city-level audit market competition is high. However, this negative relation disappears when (1) firms face high litigation risk, (2) auditors have stronger bargaining power, (3) the audit committee includes a high proportion of accounting experts, and (4) auditors are industry experts. Our results are relevant to regulators and investors.
+
+Keywords: Audit committee, Audit fees, Auditor independence, Equity compensation
+
+JEL Classification: M41, G14
+
+Suggested Citation:
+
+Liu, Xinming and Lobo, Gerald J. and Yu, Hung-Chao, Is Audit Committee Equity Compensation Related to Audit Fees? (June 23, 2020). Contemporary Accounting Research, Volume 38, No. 1, 2021., Available at SSRN: https://ssrn.com/abstract=3636429 or http://dx.doi.org/10.2139/ssrn.3636429
+Download This Paper
+ 
+Open PDF in Browser
+81 References
+R B Adams , D Ferreria
+Do directors perform for pay?
+Journal of Accounting and Economics , volume 46 , issue 1 , p. 154 - 171 Posted: 2009
+J Alexander
+Do the merits matter? A study of settlements in securities class actions
+Stanford Law Review , volume 43 , issue 3 , p. 497 - 598 Posted: 1991
+F T Archambeault , D Dezoort , Hermanson
+Audit committee incentive compensation and accounting restatements
+Contemporary Accounting Research , volume 25 , issue 4 , p. 965 - 992 Posted: 2008
+C Armstrong , D Larcker , G Ormazabal , D Taylor
+The relation between equity incentives and misreporting: The role of risk-taking incentives
+Enhancing the Audit Committee Report: A Call to Action , volume 109 , p. 327 - 350 Posted: 2013
+Load more
+5 Citations
+Musaib Ashraf , Preeti Choudhary , Jacob Jaggi
+Are Audit Committees Overloaded? Evidence From The Effect Of Financial Risk Management Oversight On Financial Reporting Quality
+Management Science, Forthcoming; doi: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.00360 · 60 Pages · Posted: 13 Aug 2019 · Last revised: 24 Feb 2024 · Downloads: 639
+Download PDF  Add Paper to My Library
+Will Ciconte , Andrew Kitto
+Profit Persistence in the U.S. Audit Market
+102 Pages · Posted: 20 Apr 2020 · Last revised: 20 Jul 2023 · Downloads: 287
+Download PDF  Add Paper to My Library
+Xinming Liu , Gerald J. Lobo , Hung-Chao Yu , Zhen Zheng
+Multiple Directorships and Audit Committee Effectiveness: Evidence from Effort Allocation
+European Accounting Review 32 (5): 1273-1306. · 47 Pages · Posted: 4 Apr 2022 · Last revised: 25 Mar 2024 · Downloads: 261
+Download PDF  Add Paper to My Library
+Lauren M. Cunningham , Sarah E. Stein , Kimberly Walker , Karneisha Wolfe
+Imitation without Intention: A Qualitative Analysis of Isomorphic Audit Committee Disclosures
+54 Pages · Posted: 20 Oct 2022 · Last revised: 29 Apr 2025 · Downloads: 289
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+210
+ABSTRACT VIEWS
+1,217
+RANK
+331,544
+5 Citations
+81 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

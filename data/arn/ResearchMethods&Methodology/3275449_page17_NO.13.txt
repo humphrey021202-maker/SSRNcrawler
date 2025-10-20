@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Invite Your Friend and You’ll Move Up in Line: Optimal Design of Referral Priority Programs
+
+Forthcoming, Manufacturing & Service Operations Management
+
+40 Pages Posted: 26 Nov 2018 Last revised: 27 Nov 2019
+
+Luyi Yang
+
+University of California, Berkeley - Haas School of Business
+
+Date Written: October 30, 2018
+
+Abstract
+
+This paper studies the optimal design of referral priority programs, in which customers on a waitlist can jump the line by inviting their friends to also join the waitlist. Recent years have witnessed a growing presence of referral priority programs as a novel customer acquisition strategy for firms that maintain a waitlist. Different variations of this scheme are seen in practice, raising the question of what should be the optimal referral priority mechanism. We build an analytical model that integrates queueing theory into a mechanism design framework, where the objective of the firm is to maximize the system throughput, i.e., to accelerate customer acquisition as much as possible. Our analysis shows that the optimal mechanism has one of the following structures: full-priority, partial priority, first-in-first-out (FIFO), and strategic delay. A full-priority (partial-priority) scheme enables referring customers to get ahead of all (only some) non-referring ones. A FIFO scheme does not provide any priority-based referral incentive. A strategic-delay scheme grants full priority to referring customers, but artificially inflates the delay of non-referring ones. We show that FIFO is optimal if either the base market size or the referral cost is large. Otherwise, partial priority is optimal if the base market size is above a certain threshold; full priority is optimal at the threshold base market size; strategic delay is optimal if the base market size is below the threshold. We also find that referrals motivate the firm to maintain a larger capacity and therefore, can surprisingly shorten the average delay even though more customers sign up and strategic delay is sometimes inserted. Our paper provides prescriptive guidance for launching the optimal referral priority program and rationalizes common referral schemes seen in practice.
+
+Keywords: queueing, referrals, priority, customer acquisition, system throughput, mechanism design
+
+Suggested Citation:
+
+Yang, Luyi, Invite Your Friend and You’ll Move Up in Line: Optimal Design of Referral Priority Programs (October 30, 2018). Forthcoming, Manufacturing & Service Operations Management, Available at SSRN: https://ssrn.com/abstract=3275449 or http://dx.doi.org/10.2139/ssrn.3275449
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+P Afèche
+Incentive-compatible revenue management in queueing systems: Optimal strategic delay
+Manufacturing & Service Operations Management , volume 15 , issue 3 , p. 423 - 443 Posted: 2013
+Crossref
+P Afèche , H Mendelson
+Pricing and priority auctions in queueing systems with a generalized delay cost structure
+Management Science , volume 50 , issue 7 , p. 869 - 882 Posted: 2004
+Crossref
+P Afèche , M Pavlin
+Optimal price-lead time menus for queues with customer choice: Priorities, pooling and strategic delay
+Management Science , volume 62 , issue 8 , p. 2412 - 2436 Posted: 2016
+Crossref
+G Allon , A Bassamboo , I Gurvich
+We will be right with you": Managing customer expectations with vague promises and cheap talk
+Operations Research , volume 59 , issue 6 , p. 1382 - 1394 Posted: 2011
+Crossref
+Load more
+3 Citations
+Luyi Yang , Shiliang Cui , Zhongbin Wang
+Design of COVID-19 Testing Queues
+Production and Operations Management, Forthcoming · 62 Pages · Posted: 2 Nov 2020 · Last revised: 8 Feb 2023 · Downloads: 339
+Download PDF  Add Paper to My Library
+Setareh Farajollahzadeh , Ming Hu
+Potty Parity
+Rotman School of Management Working Paper No. 3914880 · 62 Pages · Posted: 3 Sep 2021 · Last revised: 4 Jun 2025 · Downloads: 916
+Download PDF  Add Paper to My Library
+Chenguang (Allen) Wu , Chen Jin , Ying-Ju Chen
+<div> Rewards or Upgrades? Incentive Designs in Referral <span>Programs</span> </div>
+<span style="color: rgb(80, 80, 80); font-family: NexusSerifWebPro-Italic; font-style: italic; background-color: rgb(255, 255, 255);">Management Information Systems Quarterly, Forthcoming</span> · 40 Pages · Posted: 4 Apr 2022 · Last revised: 4 Sep 2025 · Downloads: 150
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+176
+ABSTRACT VIEWS
+2,549
+RANK
+390,788
+3 Citations
+47 References
+PlumX Metrics
+Related eJournals
+
+Johns Hopkins Carey Business School Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

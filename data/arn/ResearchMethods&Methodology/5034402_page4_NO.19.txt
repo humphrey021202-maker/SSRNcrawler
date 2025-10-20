@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Understanding Accruals via Machine Learning
+
+Posted: 22 Jan 2025
+
+Mikko Ranta
+
+University of Vaasa
+
+Henry Jarva
+
+Hanken School of Economics
+
+Elina Haapamäki
+
+University of Vaasa
+
+Date Written: November 26, 2024
+
+Abstract
+
+Our goal is to better understand the key determinants of accruals and their complex relationships. Using machine learning (ML) techniques, we analyze the accrual process without relying on the linearity assumptions inherent in ordinary least squares regressions. We find that prior-period sales growth, profitability, and previous accruals are the most significant predictors of current accruals. Our ML approach uncovers significant nonlinear relationships and interactions among these variables, revealing dynamics that linear models would struggle to identify. Furthermore, by decomposing accruals into expected and unexpected components using the ML model, we enhance the prediction of future earnings. These findings contribute to the accrual accounting literature by providing a more nuanced framework for accrual estimation and demonstrate the value of integrating advanced analytical techniques in accounting research to improve financial reporting practices.
+
+Keywords: accruals, machine learning, prediction
+
+JEL Classification: C53, C63, M41
+
+Suggested Citation:
+
+Ranta, Mikko and Jarva, Henry and Haapamäki, Elina, Understanding Accruals via Machine Learning (November 26, 2024). Available at SSRN: https://ssrn.com/abstract=5034402
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+294
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

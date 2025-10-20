@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Understanding the 'Numbers Game'
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+61 Pages Posted: 18 Mar 2016 Last revised: 16 Jul 2019
+
+Andrew Bird
+
+Chapman University - The George L. Argyros College of Business and Economics
+
+Stephen A. Karolyi
+
+Donald G. Costello College of Business at George Mason University
+
+Thomas Ruchti
+
+Virginia Tech - Department of Accounting and Information Systems
+
+Date Written: June 21, 2019
+
+Abstract
+
+Two well-known stylized facts on earnings management are that the earnings surprise distribution has a discontinuity at zero, and that positive earnings surprises are associated with positive abnormal returns. We link these two facts in a model of the earnings management decision in which the manager trades off the capital market benefits of meeting earnings benchmarks against the costs of manipulation. We develop a new structural methodology to estimate the model and uncover the unobserved cost function. The estimated model parameters yield the percentage of manipulating firms, magnitude of manipulation, noise in manipulation, and sufficient statistics to evaluate proxies for identifying firms suspected of manipulation. Finally, we use the Sarbanes--Oxley Act as a policy experiment and find that by increasing costs, the Act reduced equilibrium earnings management by 36%. This reduction occurred despite an increase in benefits, consistent with the market rationally becoming less skeptical of firms that just meet benchmarks.
+
+Keywords: earnings management, managerial myopia, structural estimation, financial reporting
+
+Suggested Citation:
+
+Bird, Andrew and Karolyi, Stephen A. and Ruchti, Thomas, Understanding the 'Numbers Game' (June 21, 2019). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=2748220 or http://dx.doi.org/10.2139/ssrn.2748220
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+Anup Agrawal , Sahiba Chadha , Mark A Chen
+Who is afraid of Reg FD? The behavior and performance of sell-side analysts following the SECs fair disclosure rules
+The Journal of Business , volume 79 , issue 6 , p. 2811 - 2834 Posted: 2006
+Crossref
+Vasiliki Athanasakou , Norman C Strong , Martin Walker
+The market reward for achieving analyst earnings expectations: does managing expectations or earnings matter?
+Journal of Business Finance & Accounting , volume 38 , p. 58 - 94 Posted: 2011
+Crossref
+Brad M Barber , Emmanuel T De George , Reuven Lehavy , Brett Trueman
+The earnings announcement premium around the globe
+Journal of Financial Economics , volume 108 , issue 1 , p. 118 - 138 Posted: 2013
+Crossref
+Eli Bartov , Daniel A Cohen
+The "Numbers Game" in the pre-and post-Sarbanes-Oxley eras
+Journal of Accounting, Auditing & Finance , volume 24 , issue 4 , p. 505 - 534 Posted: 2009
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+689
+ABSTRACT VIEWS
+4,311
+RANK
+86,364
+10 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

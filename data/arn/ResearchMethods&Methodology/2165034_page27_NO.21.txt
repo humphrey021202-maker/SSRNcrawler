@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Risk Accounting: An Accounting Based Approach to Measuring Enterprise Risk and Risk Appetite
+
+40 Pages Posted: 22 Oct 2012 Last revised: 17 Jul 2013
+
+Kiran Fernandes
+
+Durham University Business School
+
+Allan D. Grody
+
+Financial InterGroup; New York University (NYU) - Leonard N. Stern School of Business
+
+Peter J. Hughes
+
+Durham Business School - Centre for Banking, Institutions & Development
+
+Oliver Phillips
+
+University of York - The York Management School
+
+Steve Toms
+
+University of Leeds - Faculty of Business; University of Leeds - Division of Accounting and Finance
+
+Date Written: July 1, 2013
+
+Abstract
+
+The resetting of the risk management agenda through successive capital accords has had little impact on the ability of many firms to prevent losses which raises concerns as to whether the risk calculation methods applied in the calibration of regulatory capital are fit for purpose. This has been the focus of recent public comment by global regulators, central bankers and industry commentators who suggest that excessively complex and flawed capital adequacy rules that rely on risk modeling techniques such as Value-at-Risk (VaR) were a contributing factor in the financial crisis.
+
+We argue that the disclosure of an enterprise’s financial condition and the concomitant determination of its capital adequacy must be a function of accounting rather than financial modeling. We further argue that if accounting is to fulfill this core function, the current practice of basing accounting on fair values must be adapted such that accounting is based on the risk exposures inherent in approved transactions. In this paper we demonstrate how this may be achieved by adding risk information to the existing management information that is attached to transactions upon their registration in accounting systems. The incremental risk information enables a calculation of risk-weighted transaction values that are accounted for using a new risk abstraction - the Risk Unit (RU). In this way a comprehensive risk management system is created that is tied to the financials of the enterprise.
+
+We further demonstrate how risk accounting aligned with management accounting can produce a system of integrated risk and management reporting by, for example, group, organisation unit, product, customer and geography which, in turn, enables the risk appetite setting process to become an integral part of the enterprise’s financial planning and budgeting cycle.
+
+Over time, risk accounting outputs can be correlated with expected and actual losses thereby imparting a monetary value to the RU abstraction which can be used in the determination of regulatory capital requirements, the computation of risk adjusted return on capital (RAROC) and adjusting the betas in the capital asset pricing model (CAPM) thus bridging accounting with economic theory and risk management concepts.
+
+Keywords: Risk measurement, Risk management, Operational risk, Enterprise risk, Risk appetite
+
+JEL Classification: D81, E10, F02, F23, G2, G38, L2, M4
+
+Suggested Citation:
+
+Fernandes, Kiran and Grody, Allan D. and Hughes, Peter J. and Phillips, Oliver and Toms, Steve, Risk Accounting: An Accounting Based Approach to Measuring Enterprise Risk and Risk Appetite (July 1, 2013). Available at SSRN: https://ssrn.com/abstract=2165034 or http://dx.doi.org/10.2139/ssrn.2165034
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+H Shalit , S Yitzhaki
+Mean-Gini, Portfolio Theory, and the Pricing of
+Risky Assets The Journal of Finance , volume 39 , p. 5 - 1449 Posted: 1984
+Crossref
+Jrm Hosking , J R Wallis
+Parameter and Quantile Estimation for the Generalized Pareto Distribution
+Technometrics , volume 29 , issue 3 , p. 339 - 349 Posted: 1987
+Crossref
+J Claus , J Thomas
+Equity Premia as Low as Three Percent? Evidence from Analysts' Earnings Forecasts for Domestic and International Stock Markets
+Journal of Finance , volume 55 , issue 5 , p. 1629 - 66 Posted: 2001
+Crossref
+R Brearley , S Myers
+Principles of Corporate Finance Posted: 1996
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+3,590
+ABSTRACT VIEWS
+16,319
+RANK
+7,296
+3 Citations
+12 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

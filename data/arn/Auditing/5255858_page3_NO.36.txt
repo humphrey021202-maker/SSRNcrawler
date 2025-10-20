@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Technology and Internal Auditing: An Overview of Performance Effects
+
+24 Pages Posted: 19 May 2025
+
+Marc Eulerich
+
+University of Duisburg-Essen, Mercator School of Management
+
+Annika Bonrath
+
+University of Duisburg-Essen - Mercator School of Management
+
+Date Written: May 14, 2025
+
+Abstract
+
+Technological advancements, such as data analytics, artificial intelligence (AI), and robotic process automation (RPA), are reshaping internal audit practices. These innovations have driven significant improvements in efficiency, effectiveness, and performance. Traditional internal audit processes are evolving with the integration of advanced technologies. The new Global Internal Audit Standards emphasize performance as a key factor in the success of modern internal audit functions (IAFs), which underscores the growing need to integrate advanced technologies into audit processes. However, adoption poses challenges, including data privacy concerns, cybersecurity risks, and the demand for specialized expertise. This paper reviews existing literature on technology-driven auditing, explores the impact of the New Global Internal Audit Standards, and identifies key challenges in implementing different technologies.
+
+Keywords: internal auditing, emerging technologies, digital transformation, global internal audit standards, audit innovation
+
+Suggested Citation:
+
+Eulerich, Marc and Bonrath, Annika, Technology and Internal Auditing: An Overview of Performance Effects (May 14, 2025). Available at SSRN: https://ssrn.com/abstract=5255858 or http://dx.doi.org/10.2139/ssrn.5255858
+Download This Paper
+ 
+Open PDF in Browser
+91 References
+L J Abbott , S Parker , G F Peters
+Internal audit assistance and external audit timeliness
+Auditing: A Journal of Practice & Theory , volume 31 , issue 4 , p. 3 - 20 Posted: 2012
+Abdel-Basset , M Chang , V Nabeeh , N A
+An intelligent framework using disruptive technologies for COVID-19 analysis
+Technological Forecasting and Social Change , volume 163 Posted: 2021
+Abu-Musa Aa
+Information technology and its implications for internal auditing: An empirical study of Saudi organizations
+Managerial Auditing Journal , volume 23 , issue 5 , p. 438 - 466 Posted: 2008
+Cima Aicpa
+Embracing technology in the audit
+Journal of Accountancy Posted: 2022-02-01
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+169
+ABSTRACT VIEWS
+627
+RANK
+405,369
+91 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+IO: Productivity, Innovation & Technology eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

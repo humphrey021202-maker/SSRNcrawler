@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditor Selection and Investment Risk
+
+35 Pages Posted: 4 Oct 2017 Last revised: 1 Aug 2018
+
+Benjamin W. Hoffman
+
+Cleveland State University
+
+Trung Pham
+
+Kent State University - College of Business Administration
+
+Mai Dao
+
+University of Toledo - College of Business Administration
+
+There are 2 versions of this paper
+
+Date Written: June 1, 2018
+
+Abstract
+
+Purpose: This paper investigates the relation between the riskiness of a firm’s investment policies and the firm’s appointment of an external auditor.
+
+Design/Methodology/Approach: Using a sample of U.S. publicly listed companies from 2004- 2014, we hypothesize that firms with riskier investment policies are more likely to choose a higher quality auditor to reduce information asymmetry and increase the credibility of financial reports. We use logit regression analysis, applying two measures of auditor quality (Big 4 and industry specialist auditors) and four measures of investment policy risk (research and development expenditure, diversification, capital expenditures, and acquisitions).
+
+Findings: We generally find that firms with riskier investment policies choose higher quality auditors. Specifically, firms with higher R&D expenditures and acquisitions are more likely to hire a Big 4 and/or industry specialist auditor, while firms with lower capital expenditures are more likely to select a Big 4 auditor.
+
+Practical Implications: Our findings support the notion that management characteristics and policies still may have influence over external auditor selection. This may be of interest to regulators and policymakers.
+
+Originality/Value: There is only limited research examining the effect of a firm’s investment policies on that firm’s decision
+
+Keywords: Auditor choice, investment risk, auditor quality
+
+Suggested Citation:
+
+Hoffman, Benjamin W. and Pham, Trung and Dao, Mai, Auditor Selection and Investment Risk (June 1, 2018). Available at SSRN: https://ssrn.com/abstract=3047610 or http://dx.doi.org/10.2139/ssrn.3047610
+Download This Paper
+ 
+Open PDF in Browser
+68 References
+L J Abbott , S Parker
+Auditor selection and audit committee characteristics
+Auditing: A Journal of Practice and Theory , volume 19 , issue 2 , p. 47 - 66 Posted: 2000
+Crossref
+D Aboody , B Lev
+Information asymmetry, R&D, and insider gains
+The Journal of Finance , volume 55 , issue 6 , p. 2747 - 2766 Posted: 2000
+Crossref
+A Agrawal , G N Mandelker
+Managerial incentives and corporate investment and financing decision
+The Journal of Finance , volume 42 , issue 4 , p. 823 - 837 Posted: 1987
+Crossref
+E D Almer , D R Philbrick , K H Rupley
+What drives auditor selection?
+Current Issues in Auditing , volume 8 , issue 1 , p. 26 - 42 Posted: 2014
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+132
+ABSTRACT VIEWS
+1,519
+RANK
+317,057
+1 Citations
+68 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

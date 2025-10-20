@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fair Value versus Amortized Cost Measurement and the Timeliness of Other-than-Temporary Impairments: Evidence from the Insurance Industry
+
+Columbia Business School Research Paper No. 17-109
+
+52 Pages Posted: 27 Nov 2017 Last revised: 22 Feb 2019
+
+Urooj Khan
+
+University of Texas at Austin - McCombs School of Business
+
+Stephen G. Ryan
+
+New York University (NYU) - Leonard N. Stern School of Business
+
+Abhishek Varma
+
+Illinois State University - Department of Finance, Insurance and Law
+
+Date Written: December 14, 2018
+
+Abstract
+
+We investigate the impact of recurring fair value versus amortized cost measurement for accounting recognition purposes on the timeliness of insurers’ other-than-temporary (OTT) impairments of non-agency residential mortgage-backed securities (NAMBS) around the 2007–2009 financial crisis. Unlike largely predetermined amortized cost measurement, recurring fair value measurement requires firms to invest in information and control systems to assess relevant economic conditions and estimate fair values quarterly. We expect these systems discipline insurers’ OTT impairments. Exploiting statutory requirements that PC (life) insurers measure securities with NAIC designations from 3 to 5 at fair value (amortized cost) and disclose security-level accounting information, we predict and find that PC insurers record timelier OTT impairments of the same NAMBS with NAIC designations of 3 to 5 than life insurers. We predict and find weaker evidence of spillover effects to the timeliness of OTT impairments of the same NAMBS with NAIC designations of 1 or 2.
+
+Keywords: Fair value accounting, amortized cost accounting, other-than-temporary impairment, financial crisis, insurance industry, residential mortgage-backed securities
+
+JEL Classification: G01, G20, G22, G32, M41
+
+Suggested Citation:
+
+Khan, Urooj and Ryan, Stephen G. and Varma, Abhishek, Fair Value versus Amortized Cost Measurement and the Timeliness of Other-than-Temporary Impairments: Evidence from the Insurance Industry (December 14, 2018). Columbia Business School Research Paper No. 17-109, Available at SSRN: https://ssrn.com/abstract=3074825 or http://dx.doi.org/10.2139/ssrn.3074825
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+A Ahmed , E Kilic , G Lobo
+Does recognition versus disclosure matter? Evidence from value-relevance of banks' recognized and disclosed derivative financial instruments
+The Accounting Review , volume 81 , issue 3 , p. 567 - 588 Posted: 2006
+Crossref
+Bank , England
+Financial Stability Report , volume 23 Posted: 2008-04
+M Barth
+Measurement in financial reporting: The need for concepts
+Accounting Horizons , volume 28 , issue 2 , p. 331 - 52 Posted: 2014
+Crossref
+A Beatty , S Liao
+Do delays in expected loss recognition affect banks' willingness to lend?
+Journal of Accounting and Economics , volume 51 , issue 1 , p. 1 - 20 Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+411
+ABSTRACT VIEWS
+3,478
+RANK
+163,928
+13 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

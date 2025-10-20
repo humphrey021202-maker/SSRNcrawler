@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Multiplicative Regression Models of the Relationship between Accounting Numbers and Market Value
+
+Posted: 16 Aug 2012 Last revised: 25 Feb 2013
+
+Michael Falta
+
+University of Otago
+
+Roger J. Willett
+
+Victoria University of Wellington - Te Herenga Waka - Victoria Business School
+
+Date Written: 2011
+
+Abstract
+
+The validity of ordinary least squares (OLS) estimates of relationships between accounting numbers and market value made in capital market research (CMR) using linear, additive models is questioned. Multiplicative models are argued to be more consistent with underlying economic theory for long-lived firms. Annual cross-section and firm-specific dynamic regression models of market on accounting values are estimated in levels and returns, using a selected panel of 30 of some of the largest long-lived USA firms over a 50 year period. Multiplicative models of levels data produce markedly improved statistical specifications compared to additive forms. Lags are also shown to be necessary to produce well-specified models of the relationship between accounting numbers and market value. Deflated returns models based on additive models are shown to suffer from additional problems of statistical inference. The consequences of using mis-specified additive models of the relationship between accounting numbers and market value, when data generating processes (DGPs) incorporate multiplicative relationships, are illustrated using analysis and computational experiments. Attention is drawn to the importance of the assumption of homogeneous firm parameters in cross-section estimation.
+
+Keywords: regression analysis, capital markets research, fundamentals, misspecification, multiplicative functional form, log-linear models
+
+Suggested Citation:
+
+Falta, Michael and Willett, Roger J., Multiplicative Regression Models of the Relationship between Accounting Numbers and Market Value (2011). Available at SSRN: https://ssrn.com/abstract=2130328 or http://dx.doi.org/10.2139/ssrn.2130328
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,320
+2 Citations
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Multiple Equation Models eJournal
+
+Follow
+Recommended Papers
+
+Truth and Robustness in Cross-Country Growth Regressions
+
+By Kevin D. Hoover and Stephen J. Perez
+
+The Properties of Automatic Gets Modelling
+
+By David F. Hendry and Martin Krolzig
+
+Selecting a Regression Saturated by Indicators
+
+By Soren Johansen, David F. Hendry, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Conforming Tax Avoidance and Capital Market Pressure
+
+The Accounting Review, Forthcoming
+
+67 Pages Posted: 17 Jun 2015 Last revised: 22 Feb 2019
+
+Brad A. Badertscher
+
+University of Notre Dame
+
+Sharon P. Katz
+
+INSEAD
+
+Sonja O. Rego
+
+Indiana University - Kelley School of Business - Department of Accounting
+
+Ryan J. Wilson
+
+University of Iowa - Henry B. Tippie College of Business
+
+Date Written: December 17, 2018
+
+Abstract
+
+In this study we develop a measure of corporate tax avoidance that reduces both financial and taxable income, which we refer to as “book-tax conforming” tax avoidance. We use simulation analyses, LIFO/FIFO inventory method conversions, and samples of private and public firms, to validate our measure of conforming tax avoidance. We then investigate the prevalence of conforming tax avoidance within a sample of public firms. Results from the validation tests indicate that our measure of conforming tax avoidance successfully captures book-tax conforming transactions and thus, variation in conforming tax avoidance across firms. Consistent with expectations, we also find that the extent to which public firms engage in conforming tax avoidance varies systematically with the capital market pressures to which they are subject. For example, public firms that lack analyst following, do not issue equity securities, report lower sales growth, or smaller discretionary accruals engage in relatively more conforming tax avoidance and less nonconforming tax avoidance. Our study develops a new measure of conforming tax avoidance that should be useful in future research and provides new insights on the extent to which public firms are willing to reduce income tax liabilities at the expense of reporting lower financial income.
+
+Keywords: Tax avoidance, Book-tax conformity, Capital market pressure, Private firms
+
+JEL Classification: M41, M49
+
+Suggested Citation:
+
+Badertscher, Brad A. and Katz, Sharon P. and Rego, Sonja O. and Wilson, Ryan J., Conforming Tax Avoidance and Capital Market Pressure (December 17, 2018). The Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2619317 or http://dx.doi.org/10.2139/ssrn.2619317
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+B Badertscher , N Shroff , H White
+Externalities of Public Firms: Evidence from Private Firms' Investment Decisions
+Journal of Financial Economics , volume 109 , p. 682 - 706 Posted: 2013
+Crossref
+M Barth , J A Elliott , M W Finn
+Market Rewards Associated with Patterns of Increasing Earnings
+Journal of Accounting Research , volume 37 , p. 387 - 413 Posted: 1999
+Crossref
+E Bartov , D Givoly , C Hayn
+The Rewards to Meeting or Beating Earnings Expectations
+Journal of Accounting and Economics , volume 33 , p. 173 - 204 Posted: 2002
+Crossref
+T Beasley , M
+Seemingly Unrelated Regression (SUR) Models as a Solution to Path Analytic Models with Correlated Errors , volume 34 , p. 1 - 7 Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,494
+ABSTRACT VIEWS
+6,837
+RANK
+29,186
+19 Citations
+52 References
+PlumX Metrics
+Related eJournals
+
+Indiana University Kelley School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

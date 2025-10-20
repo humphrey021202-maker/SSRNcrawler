@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is Cryptocurrency the New Haven for Tax Evaders? Exposé of Financial Secrecy in Tax Havens and Bitcoin Trading by Tax Evaders
+
+44 Pages Posted: 8 Mar 2024 Last revised: 26 Mar 2024
+
+Congcong Li
+
+Duquesne University - A.J. Palumbo School of Business Administration
+
+Mark (Shuai) Ma
+
+University of Pittsburgh - Katz Graduate School of Business
+
+Date Written: February 19, 2024
+
+Abstract
+
+The Paradise Papers revealed an enormous number of financial secrets hidden in tax havens. In this study, we examine whether the exposé of financial secrecy motivated tax evaders to further conceal their offshore assets through the Bitcoin market, which offers greater anonymity. First, we find that the largest Bitcoin boom in history began after the initiation of the Paradise Papers investigation in February 2017 and reached its peak following the release of the Paradise Papers on November 5, 2017. Second, following the release of the Paradise Papers, the 8-week trading volume of Bitcoin grew by 106 percent in 44 countries with the largest Bitcoin exchanges. Importantly, our difference-in-differences tests find that Bitcoin exchanges in tax havens experienced significantly higher growth in trading volumes than other exchanges after the Paradise Papers. Together, these findings are consistent with the use of Bitcoin by tax evaders to conceal their hidden wealth in tax havens. Third, we do not find similar results in the stock or gold market surrounding this event. Finally, we find similar Bitcoin market reactions to the Pandora Paper. For example, the second largest Bitcoin boom started after the initiation of the Pandora Papers investigation in October 2020 and reached another new all-time high after the official release on October 3, 2021. Our study highlights the role of Bitcoin in facilitating tax evasion and money laundry and has implications for investors and regulators to understand the potential risk related to investment in the Bitcoin market.
+
+Keywords: Bitcoin, Cryptocurrency, Financial Secrecy, Tax Evasion, Paradise Papers.
+
+JEL Classification: H26, O31
+
+Suggested Citation:
+
+Li, Congcong and Ma, Mark (Shuai), Is Cryptocurrency the New Haven for Tax Evaders? Exposé of Financial Secrecy in Tax Havens and Bitcoin Trading by Tax Evaders (February 19, 2024). Available at SSRN: https://ssrn.com/abstract=4731408 or http://dx.doi.org/10.2139/ssrn.4731408
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+D Amiram , B N Jørgensen , D Rabetti
+Coins for Bombs: The Predictive Ability of On-Chain Transfers for Terrorist Attacks
+Journal of Accounting Research , volume 60 , p. 427 - 466 Posted: 2022
+T J Atwood , C Lewellen
+The Complementarity between Tax Avoidance and Manager Diversion: Evidence from Tax Haven Firms
+Contemporary Accounting Research , volume 36 , p. 259 - 294 Posted: 2019
+J Allsop
+The quiet impact of the Paradise Papers
+Columbia Journalism Review Posted: 2017-12-22
+R Böhme , N Christin , B Edelman , T Moore
+Bitcoin: Economics, Technology, and Governance
+Journal of Economic Perspectives , volume 29 , issue 2 , p. 213 - 238 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+327
+ABSTRACT VIEWS
+1,773
+RANK
+210,853
+42 References
+PlumX Metrics
+Related eJournals
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+
+Cryptocurrency Research eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,146 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+   
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+What Board-level Control Mechanisms Changed in Banks Following the 2008 Financial Crisis? A Descriptive Study
+
+52 Pages Posted: 31 Jan 2019 Last revised: 21 Feb 2025
+
+Shivaram Rajgopal
+
+Columbia University - Columbia Business School, Accounting, Business Law & Taxation
+
+Suraj Srinivasan
+
+Harvard Business School
+
+Yu Ting Forester Wong
+
+City University of Hong Kong (CityU)
+
+Shelley Xin Li
+
+University of Southern California - Marshall School of Business
+
+Date Written: January 1, 2019
+
+Abstract
+
+Following the 2008 financial crisis, the Financial Crisis Inquiry Commission (FCIC) identified major shortcomings in bank board governance, contributing to systemic risk management failures. This study adapts a management control framework and empirically examines changes in board-level “process control” and “input control” mechanisms in 95 large U.S. bank holding companies (2000–2015) and contrasts these with 1,452 nonbanks. Our findings indicate that most post-2008 improvements occurred in "process controls," e.g. Chief Risk Officer (CRO) appointments increased from 53% pre-crisis to 91% post-crisis, with significantly more banks establishing a dedicated risk committee and identifying the committee responsible for reputation management. We also find progress in "input control” related to domain knowledge with an increase of 16% in new bank directors with prior risk management experience, and significant increase in directors with other relevant domain knowledge. We observed limited or no change in control mechanisms related to improving the board members’ ability to voice different perspectives or commit more time to their role. Our results show that improvements in certain types of controls seem to have taken precedence over others which have implications for explaining and implementing changes in corporate governance and control mechanisms.
+
+Keywords: banks, board of directors, financial crisis, management control, risk management, change management. JEL classification: G14, M40, M41
+
+JEL Classification: m41, m48
+
+Suggested Citation:
+
+Rajgopal, Shivaram and Srinivasan, Suraj and Wong, Yu Ting Forester and Li, Xin, What Board-level Control Mechanisms Changed in Banks Following the 2008 Financial Crisis? A Descriptive Study (January 1, 2019). Available at SSRN: https://ssrn.com/abstract=2722175 or http://dx.doi.org/10.2139/ssrn.2722175
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+R Abascal , F González
+Shareholder protection and bank executive compensation after the global financial crisis
+Journal of Financial Stability , volume 40 , p. 15 - 37 Posted: 2019
+R Adams , D Ferreira
+Women in the boardroom and their impact on governance and performance
+Journal of Financial Economics , volume 94 , issue 2 , p. 291 - 309 Posted: 2009
+V Aebi , G Sabato , M Schmid
+Risk management, corporate governance, and bank performance in the financial crisis
+Journal of Banking and Finance , volume 36 , issue 12 , p. 3213 - 3226 Posted: 2012
+C Armstrong , J Kepler , S Shi , D Tsui
+Supply constraints and directors' reputational incentives Posted: 2021
+Load more
+5 Citations
+Damiano B. Silipo , Giovanni Verga , Sviatlana Hlebik
+Managerial Beliefs and Banking Behavior
+Journal of Financial Services Research , volume 64 , issue 3 , p. 401 Posted: 2023
+Crossref
+E. Gómez-Escalonilla , L. Parte
+Modeling, Dynamics, Optimization and Bioeconomics IV
+, volume 365 , p. 229 Posted: 2021
+Crossref
+Pablo de Andres , Laura Arranz-Aperte , Juan Antonio Rodriguez-Sanz
+“Fit and proper” regulations in the banking industry: What we have learnt in the post-crisis years
+Journal of Governance and Regulation , volume 9 , issue 3 , p. 84 Posted: 2020
+Crossref
+Eleuterio Vallelado , Myriam García‐Olalla
+Bank board changes in size and composition: Do they matter for investors?
+Corporate Governance: An International Review , volume 30 , issue 2 , p. 161 Posted: 2022
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+861
+ABSTRACT VIEWS
+4,905
+RANK
+64,424
+5 Citations
+63 References
+PlumX Metrics
+Related eJournals
+
+Harvard Business School: Accounting & Management Unit Working Paper Series
+
+Follow
+
+Columbia Business School Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

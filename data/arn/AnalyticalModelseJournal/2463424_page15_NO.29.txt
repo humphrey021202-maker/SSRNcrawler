@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Risk Aversion on Optimal Bias in Incentive Contracts
+
+26 Pages Posted: 9 Jul 2014 Last revised: 10 Sep 2019
+
+Francois Larmande
+
+Université de Sherbrooke
+
+Date Written: September 1, 2019
+
+Abstract
+
+This paper analyzes the impact of agents' risk aversion and other agency parameters on optimal bias in the performance measures used for incentive contracts. Prior research has shown that the limited liability of the agent results in a demand for accounting systems that are stringent compared to the unobservable true outcome. This paper shows that risk aversion mitigates this preference for stringent accounting systems. Specifically, in a principal-agent model where the principal can choose between two accounting systems (ASs) with different biases, the optimal choice depends on the ranking of the overall information content (OIC) of these ASs and on the agent's level of risk aversion. The more stringent AS is always optimal if it has a higher OIC. When the more lenient AS has a higher OIC, it is optimal for high levels of risk aversion, the more stringent AS remaining optimal for low levels of risk aversion. This paper also analyzes the impact of the extent of the agent's possible liability and of the strength of the agency conflict. The paper contributes to the literature by identifying the role of the OIC, of agents' risk aversion, and of other agency parameters in the choice of an optimal reporting bias when accounting information is primarily used for stewardship.
+
+Keywords: Reporting bias, limited liability, risk aversion, accounting conservatism, principal-agent theory, lower of market or cost rule
+
+JEL Classification: D82, D86, M41, M52
+
+Suggested Citation:
+
+Larmande, Francois, The Effect of Risk Aversion on Optimal Bias in Incentive Contracts (September 1, 2019). Available at SSRN: https://ssrn.com/abstract=2463424 or http://dx.doi.org/10.2139/ssrn.2463424
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+A Arya , J Glover
+Performance measurement manipulation: cherry-picking what to correct
+Review of Accounting Studies , volume 13 , p. 119 - 139 Posted: 2008
+Ramji Balakrishnan , George Drymiotes , K Sivaramakrishnan
+The Effects of Biasing Performance Measurement Systems on Incentives and Retention Decisions
+Contemporary Accounting Research Posted: 2018
+Crossref
+J Bertomeu , M Darrough , W Xue
+Optimal Conservatism with Earnings Manipulation
+Contemporary Accounting Research , volume 34 , issue 1 , p. 252 - 284 Posted: 2017
+J Caskey , V Laux
+Corporate governance, accounting conservatism, and manipulation
+Management Science , volume 63 , issue 2 Posted: 2017
+Crossref
+Load more
+1 Citations
+Jeremy Bertomeu , Masako N. Darrough , Wenjie Xue
+Optimal Conservatism with Earnings Manipulation
+Contemporary Accounting Research (2017). https://doi.org/10.1111/1911-3846.12247 · 36 Pages · Posted: 20 May 2013 · Last revised: 5 Feb 2021 · Downloads: 1,014
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+309
+ABSTRACT VIEWS
+2,848
+RANK
+224,339
+1 Citations
+21 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

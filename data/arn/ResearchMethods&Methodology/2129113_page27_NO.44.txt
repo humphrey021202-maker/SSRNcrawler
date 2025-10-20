@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Model Uncertainty and Robustness Tests: Towards a New Logic of Statistical Inference
+
+37 Pages Posted: 14 Aug 2012
+
+Thomas Pluemper
+
+University of Essex - Department of Government; Vienna University of Economics and Business - Department of Socioeconomics
+
+Eric Neumayer
+
+London School of Economics and Political Science (LSE)
+
+Date Written: August 14, 2012
+
+Abstract
+
+We augment the increasingly common practice of typically ad hoc robustness tests into a research methodology that allows reliable inferences when researchers do not know the true data-generating process. We identify three principal sources of model uncertainty. First, theories simplify and aim at isolating causal mechanisms under ceteris paribus conditions. Theories thus cannot sufficiently specify the data-generating process. Second, empirical researchers are uncertain about what constitutes the population – the set of cases for which a theory claims validity – from which to draw a representative sample as required for econometric estimation. Finally, model uncertainty also results from the fact that many concepts used in social science theories cannot be observed and therefore can only be measured by proxy variables, which deviate in unknown, but potentially systematic ways from the theoretical concepts. These three causes of model uncertainty result in at least 16 specific aspects of uncertainty about model specification that can be subjected to various robustness tests. Defining robustness as stability of causal inferences, we argue against the misplaced focus on single point estimates from any specific test. Instead, we suggest scholars employ model averaging techniques to assess robustness in terms of the entire set of empirical evidence from the baseline and all robustness test models. This method avoids the type-II error bias of current practice and encourages researchers to undertake a larger set of robustness tests instead of carefully hand-selecting only those tests that do not deviate from their baseline model results. We illustrate our proposal using an example of an existing study by the authors on the political determinants of famine mortality, which contained only two robustness tests and thus begs the question whether the causal inferences are fragile. Subjecting our baseline model to a battery of additional tests, we conclude that our causal inferences are in fact robust: democracies respond more elastically than autocracies to the simultaneous presence of international food aid and a large share of the population being affected, which results in lower famine mortality.
+
+Keywords: model uncertainty, misspecification, robustness, inferences, model averaging
+
+Suggested Citation:
+
+Plümper, Thomas and Plümper, Thomas and Neumayer, Eric, Model Uncertainty and Robustness Tests: Towards a New Logic of Statistical Inference (August 14, 2012). Available at SSRN: https://ssrn.com/abstract=2129113 or http://dx.doi.org/10.2139/ssrn.2129113
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+Hirotugu Akaike
+A new look at the statistical model identification
+IEEE Transactions on Automatic Control , volume 19 , issue 6 , p. 716 - 723 Posted: 1974
+Crossref
+Akaike , ; M Hirotugu , Bernardo
+Likelihood and the Bayes procedure
+Bayesian Statistics , p. 143 - 166 Posted: 1980
+Crossref
+J D Angrist , J.-S Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2009
+J J Beggs
+Diagnostic Testing in Applied Econometrics
+Economic Record , volume 64 , p. 81 - 101 Posted: 1988
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+381
+ABSTRACT VIEWS
+3,038
+RANK
+178,157
+5 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Recommended Papers
+
+Natural Resource Abundance and Economic Growth
+
+By Jeffrey D. Sachs and Andrew M. Warner
+
+International Comparisons of Educational Attainment
+
+By Robert J. Barro and Jong-wha Lee
+
+I Just Ran Four Million Regressions
+
+By Xavier Sala-i-martin
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

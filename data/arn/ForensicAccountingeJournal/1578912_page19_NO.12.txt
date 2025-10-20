@@ -1,0 +1,156 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Process Mining of Event Logs in Auditing: Opportunities and Challenges
+
+32 Pages Posted: 27 Mar 2010
+
+Mieke Julie Jans
+
+Hasselt University; Maastricht University
+
+Michael Alles
+
+Rutgers Business School
+
+Miklos A. Vasarhelyi
+
+Rutgers Business School
+
+There are 2 versions of this paper
+
+Date Written: February 15, 2010
+
+Abstract
+
+In this paper we discuss the value that process mining of event logs can provide to internal and external auditors. Process mining aims to extract knowledge from event logs recorded by an information system. What makes an event log such a unique and potentially invaluable resource for auditing is not only that it provides the auditor with more data to analyze, but also because that additional data is recorded automatically and independently of the person whose behavior is the subject of the audit. In other words, an event log helps achieve the classic audit principle of “four eyes”, or in modern parlance, act as the equivalent of a surveillance camera, peering over the auditee’s shoulder. Until recently, the information contained in event logs was rarely used by auditors. In this paper is considered how process mining can add value to auditing, perhaps even to fundamentally transform it.
+
+Keywords: Event Logs, Process Mining, Auditing, Continuous Auditing
+
+Suggested Citation:
+
+Jans, Mieke Julie and Alles, Michael Gamini and Vasarhelyi, Miklos A., Process Mining of Event Logs in Auditing: Opportunities and Challenges (February 15, 2010). Available at SSRN: https://ssrn.com/abstract=1578912 or http://dx.doi.org/10.2139/ssrn.1578912
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+R Agrawal , D Gunopulos , F Leymann
+Mining Process Models from Workflow Logs
+Sixth International Conference on Extending Deatabas Technology , p. 469 - 483 Posted: 1998
+Crossref
+M Alles , A Kogan , M Vasarhelyi , J Wu
+The Implications of Unconstrained Data Avaliability and Aggregation Choice on Continuous Auditing Procedures // Unpublished working paper
+M Alles , A Kogan , M Vasarhelyi
+Restoring Auditor Credibility: Tertiary Monitoring and Logging of Continuous Assurance Systems
+International Journal of Accounting Information Systems , volume 5 , issue 2 , p. 183 - 202 Posted: 2004
+Crossref
+A K Alves De Medeiros
+Process Mining based on Clustering: A Quist for Precision , volume 4928 Posted: 2008
+Crossref
+Load more
+25 Citations
+Tiffany Chiu , Mieke Julie Jans
+Process Mining of Event Logs: A Case Study Evaluating Internal Control Effectiveness
+43 Pages · Posted: 12 Mar 2018 · Downloads: 826
+Download PDF  Add Paper to My Library
+Martin Schultz
+Design Science at the Intersection of Physical and Virtual Design
+, volume 7939 , p. 120 Posted: 2013
+Crossref
+Alifah Syamsiyah , Boudewijn F. van Dongen , Wil M. P. van der Aalst
+Data-Driven Process Discovery and Analysis
+, volume 307 , p. 53 Posted: 2018
+Crossref
+Onno Valkering , Reginald Cushing , Adam Belloum
+Brane: A Framework for Programmable Orchestration of Multi-Site Applications
+, p. 277 Posted: 2021
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,115
+ABSTRACT VIEWS
+4,249
+RANK
+26,300
+25 Citations
+21 References
+PlumX Metrics
+Related eJournals
+
+Forensic Accounting eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+Recommended Papers
+
+Process Mining of Event Logs in Auditing: Opportunities and Challenges
+
+By Mieke Julie Jans, Michael Alles, ...
+
+Aiding the Audit: Using the IT Audit as a Springboard for Continuous Controls Monitoring
+
+By Gerard Brennan and Ryan Teeter
+
+Remote Audit: A Research Framework
+
+By Ryan Teeter, Michael Alles, ...
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Blockchain Governance: What We Can Learn From the Economics of Corporate Governance
+
+Allen, D. W. E. and Berg, C. (2020) ‘Blockchain Governance: What We Can Learn from the Economics of Corporate Governance?’, The Journal of the British Blockchain Association 3 (1), 1-10. https://doi.org/10.31585/jbba-3-1-(8)2020
+
+14 Pages Posted: 7 Feb 2020 Last revised: 5 Dec 2023
+
+Darcy W E Allen
+
+Royal Melbourne Institute of Technology (RMIT University)
+
+Chris Berg
+
+Royal Melbourne Institute of Technology (RMIT University)
+
+Date Written: January 15, 2020
+
+Abstract
+
+Understanding the complexities of blockchain governance is urgent. The aim of this paper is to draw on other theories of governance to provide insight into the design of blockchain governance mechanisms. We define blockchain governance as the processes by which stakeholders (those who are affected by and can affect the network) exercise bargaining power over the network. Major considerations include the definition of stakeholders, how the consensus mechanism distributes endogenous bargaining power between those stakeholders, the interaction of exogenous governance mechanisms and institutional frameworks, and the needs for bootstrapping networks. We propose that on-chain governance models can only be partial because of the existence of implicit contracts that embed expectations of return among diverse stakeholders.
+
+Keywords: Blockchain Governance, Institutional Cryptoeconomics, Economics of Blockchain, Corporate Governance
+
+Suggested Citation:
+
+Allen, Darcy W E and Berg, Chris, Blockchain Governance: What We Can Learn From the Economics of Corporate Governance (January 15, 2020). Allen, D. W. E. and Berg, C. (2020) ‘Blockchain Governance: What We Can Learn from the Economics of Corporate Governance?’, The Journal of the British Blockchain Association 3 (1), 1-10. https://doi.org/10.31585/jbba-3-1-(8)2020, Available at SSRN: https://ssrn.com/abstract=3519564 or http://dx.doi.org/10.2139/ssrn.3519564
+Download This Paper
+ 
+Open PDF in Browser
+86 References
+A A Alchian , H Demsetz
+Production, Information Costs, and Economic Organization
+The American Economic Review , volume 62 , issue 5 , p. 777 - 795 Posted: 1972
+D W E Allen
+The Private Governance of Entrepreneurship: An Institutional Approach to Entrepreneurial Discovery Posted: 2017
+D W E Allen
+Governing the Entrepreneurial Discovery of Blockchain Applications
+Journal of Entrepreneurship and Public Policy
+D W E Allen , A Berg , B Markey-Towler
+Blockchain and Supply Chains: V-Form Organisations, Value Redistributions, De-Commoditisation and Quality Proxies
+The Journal of the British Blockchain Association , volume 2 , issue 1 , p. 57 - 65 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,611
+ABSTRACT VIEWS
+6,248
+RANK
+26,113
+4 Citations
+86 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

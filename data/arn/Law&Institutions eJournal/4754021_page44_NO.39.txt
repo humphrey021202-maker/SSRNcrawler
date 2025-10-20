@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Family Business Succession Questions in Scholarly Publications: A Data Analytics
+
+12 Pages Posted: 9 Mar 2024
+
+Fahmi Ali Hudaefi
+
+affiliation not provided to SSRN
+
+Abstract
+
+This study employed bibliometric analysis, i.e., a kind of big data analytics for evaluating scholarly publications, to assess the academic publications on the subjects of succession question and family business. The Scopus database was sourced to harvest 176 scholarly manuscripts published on 139 academic platforms which were written by 386 scholars. The analysis was primarily accomplished via the use of machine learning, i.e., R Studio and VOSviewer. Four research questions were formulated based on the fundamental bibliometric theories, i.e., performance analysis, citation and co-citation analyses, bibliographic coupling, and social network analysis. The questions aimed to identify the most impactful manuscripts, scholarly journals, authors, and institutions of affiliation related to the succession question and family business topics. This study further established the discussion of the current issues in succession question and family business from the authors’ keyword and the bibliographic coupling analytics. This study contributes to the critical novelty in the assessment of academic publications related to succession question and family business topics.
+
+Keywords: Bibliometrics, Data Analytics, Succession Question, Family Business, and Scientometrics.
+
+Suggested Citation:
+
+Hudaefi, Fahmi Ali, Family Business Succession Questions in Scholarly Publications: A Data Analytics. Available at SSRN: https://ssrn.com/abstract=4754021 or http://dx.doi.org/10.2139/ssrn.4754021
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+J.-P Ahrens
+The succession question and the family firm: A theoretical, conceptual, and historical reflection
+European Entrepreneurship Research and Practice: A Multifaceted Effort Towards Integration of Different Perspectives , p. 109 - 139 Posted: 2020
+M Aria , C Cuccurullo
+bibliometrix: An R-tool for comprehensive science mapping analysis
+Journal of Informetrics , volume 11 , issue 4 , p. 959 - 975 Posted: 2017
+Massimo Aria , C Cuccurullo
+bibliometrix: Comprehensive Science Mapping Analysis Posted: 2021
+Massimo Aria , C Cuccurullo , L D'aniello , M Misuraca , M Spano
+Thematic Analysis as a New Culturomic Tool: The Social Media Coverage on COVID-19 Pandemic in Italy , volume 14 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+40
+ABSTRACT VIEWS
+344
+36 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Entrepreneurship & Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

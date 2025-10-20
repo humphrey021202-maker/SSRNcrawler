@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effects of Decoupling Damage Awards On Financial Reporting and Auditing
+
+31 Pages Posted: 6 Jun 2024
+
+Stephen A. Hillegeist
+
+Arizona State University (ASU) - W. P. Carey School of Business, School of Accountancy
+
+Date Written: September 01, 2009
+
+Abstract
+
+In the setting of audit failures, decoupling involves breaking the connection between the damages paid by the fraudulent owner and negligent auditor from the damages received by the plaintiff shareholders. This article analyzes the effects of a simple form of decoupling have on an owner's financial reporting decision, an auditor's audit quality choice, and investors' pricing decisions within the context of a perfectly competitive securities market and owner solvency constraints. The strategic interactions between the players' strategies are analyzed within a setting where payoffs are endogenously determined and vary with the liability regime. The main finding is that the audit failure rate can decrease when there is a switch from a coupled to a decoupled liability regime, despite the fact that audit quality also declines. This result occurs when there are strategic interactions between the owner's reporting strategy and the auditor's quality decision.
+
+Keywords: auditing, financial reporting, decoupling, liability regimes
+
+Suggested Citation:
+
+Hillegeist, Stephen A., The Effects of Decoupling Damage Awards On Financial Reporting and Auditing (September 01, 2009). Available at SSRN: https://ssrn.com/abstract=4854375 or http://dx.doi.org/10.2139/ssrn.4854375
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+Statement of Auditing Standards No. 82: Consideration of Fraud in Financial Statements Posted: 1997
+S Datar , J Feltham , J Hughes
+The Role of Audits and Audit Quality in Valuing New Issues
+Journal of Accounting and Economics , volume 14 , p. 3 - 49 Posted: 1991-03
+N Dopuch , D Ingberman , R King
+An Experimental Investigation of Multi-defendant Bargaining in 'Joint-and-Several' and proportionate liability regimes
+Journal of Accounting and Economics , volume 23 , p. 189 - 221 Posted: 1997-07
+N Dopuch , R King , J Schatzberg
+An Experimental Investigation of Alternative Damage-Sharing Liability Regimes with an Auditing Perspective
+Journal of Accounting Research , volume 32 , issue Supplement , p. 103 - 130 Posted: 1994
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+35
+ABSTRACT VIEWS
+281
+15 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

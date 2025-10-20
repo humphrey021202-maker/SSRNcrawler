@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax-Induced Changes in Competitive Dynamics: Firms' Strategic Responses to Peers' Tax Rate Increases
+
+59 Pages Posted: 12 Dec 2024 Last revised: 2 Aug 2025
+
+Sunhwa Choi
+
+Seoul National University - Business School
+
+Lee-Seok Hwang
+
+Seoul National University - College of Business Administration
+
+Tyler Taejin Jung
+
+Hanyang University - School of Business
+
+Date Written: November 26, 2024
+
+Abstract
+
+We investigate how firms respond to statutory tax rate increases imposed on their industry peers, leveraging a unique policy change in Korea. In 2018, a new top corporate tax bracket raised rates for a subset of firms, generating two types of unaffected firms: those indirectly affected through shifts in competitive dynamics and those entirely unaffected. Using a difference-in-differences (DID) analysis on the sample of unaffected firms, we find that those indirectly affected by their peers’ higher tax rates significantly increase capital investment. These firms also experience subsequent gains in sales growth, market share, and profitability. Importantly, we show that the presence of such strategic peer responses—a violation of the Stable Unit Value Treatment Assumption (SUTVA)—can bias estimates of tax effects on corporate investment among targeted firms in standard DID models. Overall, this study provides evidence on how tax policies with heterogeneous effects influence competitive dynamics, offering valuable insights into their broader implications.
+
+Keywords: strategic response, corporate investment, competitive dynamics, externalities, tax policy, corporate tax rate increase, fixed assets, industry peers
+
+Suggested Citation:
+
+Choi, Sunhwa and Hwang, Lee-Seok and Jung, Tyler Taejin, Tax-Induced Changes in Competitive Dynamics: Firms' Strategic Responses to Peers' Tax Rate Increases (November 26, 2024). Available at SSRN: https://ssrn.com/abstract=5033834 or http://dx.doi.org/10.2139/ssrn.5033834
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+A Agrawal , C Rosell , T Simcoe
+Tax credits and small firm R&D spending
+American Economic Journal: Economic Policy , volume 12 , issue 2 , p. 1 - 21 Posted: 2020
+H J Amberger , K S Markle , D M P Samuel
+Repatriation taxes, internal agency conflicts, and subsidiary-level investment efficiency
+The Accounting Review , volume 96 , issue 4 , p. 1 - 25 Posted: 2021
+C S Armstrong , J D Kepler
+Theory, research design assumptions, and causal inferences
+Journal of Accounting and Economics , volume 66 , issue 2-3 , p. 366 - 373 Posted: 2018
+J Asker , J Farre-Mensa , A Ljungqvist
+Corporate investment and stock market listing: A puzzle? The Review of Financial Studies , volume 28 , p. 342 - 390 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+52
+ABSTRACT VIEWS
+425
+RANK
+906,353
+59 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

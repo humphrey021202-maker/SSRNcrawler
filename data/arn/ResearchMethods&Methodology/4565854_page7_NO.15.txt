@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measured Moderators in Experimental Research: Effects of Correlations between measured Moderators and Manipulated Explanatory Variables
+
+14 Pages Posted: 9 Sep 2023
+
+Peter Kotzian
+
+Heinrich Heine University Dusseldorf; Technical University of Darmstadt
+
+Date Written: September 8, 2023
+
+Abstract
+
+Using variables measured during an experiment fell out of favor among experimental researchers, in particular among reviewers. The reasons for this are not entirely clear, albeit reasons of causality and biasedness of statistical analyses are mentioned. Given that by categorically renouncing usage of variables measured during the experiment as moderating or mediating variables, experimental research imposes substantial limits on itself, a clear cut basis for this implicit convention is needed. This paper inquires into whether such problems exist, which coefficients – for main effects or interaction effects – are affected and what can be done to counter the problems. I find that including variables measured during the experiment, which are affected by experimental manipulations but also exert effects on their own, indeed causes a range of problems, notably changes in coefficients. However, residualizing the measured variable by first regressing it on the experimental manipulations and then using the residual in the further analysis solves the problem.
+
+Keywords: Experiments, Moderators, Measurements, Statistical Analysis of Experiments
+
+JEL Classification: C01, C12, C18, C90
+
+Suggested Citation:
+
+Kotzian, Peter, Measured Moderators in Experimental Research: Effects of Correlations between measured Moderators and Manipulated Explanatory Variables (September 8, 2023). Available at SSRN: https://ssrn.com/abstract=4565854 or http://dx.doi.org/10.2139/ssrn.4565854
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+212
+ABSTRACT VIEWS
+1,315
+RANK
+328,615
+9 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

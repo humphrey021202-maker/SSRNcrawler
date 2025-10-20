@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effects and Potential Benefits of Audit Committee Oversight in a Strategic Setting
+
+Contemporary Accounting Research, Forthcoming
+
+45 Pages Posted: 23 Nov 2020 Last revised: 15 Apr 2024
+
+Evelyn Patterson
+
+Indiana University-Kelley School of Business
+
+Reed Smith
+
+Kelley School of Business
+
+Samuel L. Tiras
+
+Indiana University - Kelley School of Business
+
+Date Written: December 29, 2023
+
+Abstract
+
+Since the passage of Sarbanes-Oxley in 2002, many notable frauds have been tied to ineffective
+audit committee (AC) oversight. As a result, AC oversight is of continuing interest and regulators
+continue to debate this issue, garnering a growing body of research focused on the role played by
+the AC. But little theoretical research exists to guide analytical and empirical researchers
+investigating AC oversight. The purpose of this study is to provide theoretical guidance by
+examining AC oversight in a strategic setting. We focus on the AC’s role in overseeing internal
+controls and the impact of whether the AC relies on management in designing the controls. We
+characterize how the nature of control risk changes, as well as how internal control strength is
+associated with the amount of managerial fraud, the expected probability of detection (which, on
+average, equates to audit effort), and audit quality (assessed as 1-audit risk) across two settings
+defined by the degree of AC oversight. As one example that highlights the need for theoretical
+guidance, consider the literature's presumption that internal control strength is negatively
+associated with audit effort. We find that this association may be positive or negative as internal
+control changes, where the association varies with the degree of direct audit committee oversight
+and the change in payoff parameters.
+
+Keywords: Strategic auditing, audit committee, internal control
+
+JEL Classification: M42
+
+Suggested Citation:
+
+Patterson, Evelyn and Smith, J. Reed and Tiras, Samuel L., The Effects and Potential Benefits of Audit Committee Oversight in a Strategic Setting (December 29, 2023). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3722346 or http://dx.doi.org/10.2139/ssrn.3722346
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+Aicpa
+Statements on Auditing Standards (SAS)\Codification. AU-C 200: Overall Objectives of the Independent Auditor and the Conduct of an Audit in Accordance with Generally Accepted Auditing Standards Posted: 2020
+Aicpa
+Statements on Auditing Standards (SAS)\Codification. AU-C 315: Understanding the Entity and Its Environment and Assessing the Risks of Material Misstatement Posted: 2020
+Aicpa
+Statements on Auditing Standards (SAS)\Codification. AU-C 240 Consideration of Fraud in a Financial Statement Audit Posted: 2020
+G Casella , R L Berger
+Statistical Inference Posted: 1990
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+205
+ABSTRACT VIEWS
+1,205
+RANK
+339,258
+30 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

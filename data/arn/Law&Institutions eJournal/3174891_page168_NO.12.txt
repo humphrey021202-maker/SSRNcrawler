@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+IRS Scrutiny and Corporate Innovation
+
+Contemporary Accounting Research, Forthcoming
+
+58 Pages Posted: 17 May 2018 Last revised: 27 Jul 2023
+
+Nathan C. Goldman
+
+North Carolina State University - Department of Accounting
+
+Niklas Lampenius
+
+University of Hohenheim - Faculty of Business, Economics and Social Sciences
+
+Suresh Radhakrishnan
+
+JSOM, University of Texas at Dallas
+
+Arthur Stenzel
+
+NHH Norwegian School of Economics - Department of Accounting, Auditing and Law
+
+Jose Elias Almeida
+
+University of Texas Rio Grande Valley (UTRGV) (Formerly University of Texas-Pan American) - Robert C. Vackar College of Business and Entrepreneurship
+
+Date Written: July 27, 2023
+
+Abstract
+
+The Internal Revenue Service (IRS) administers tax laws enacted by Congress. As part of the IRS’s duties, they often consider taxpayers’ financial statements to help ensure accurate tax reporting and payments. We posit that enhanced financial statement disclosures of tax information under FASB Interpretation Number 48 (FIN 48) lead to more IRS scrutiny and alter the incentives for corporate innovation. Using patent applications as a measure of corporate innovation, we employ a difference-in-difference research design with publicly listed U.S. firms as the treatment group and privately held U.S. firms not subject to the disclosure requirements as the control group. We find robust evidence that following the onset of FIN 48, the number of patent applications by publicly listed firms decreased by 15.4% to 24.3% relative to private firms. This decline in patent applications is attributable to incremental innovation, suggesting that firms lower innovation related to projects with tax benefits that are more likely to be scrutinized by the taxing authorities. These findings suggest that there are real effects of IRS scrutiny and, in particular, real effects of tax disclosures under FIN 48 on corporate innovation.
+
+Keywords: IRS Scrutiny; Unrecognized Tax Benefits, FIN 48, Radical Innovation, Incremental Innovation, Patents, Backward Citations
+
+JEL Classification: M40, M41, M48, O30, O38
+
+Suggested Citation:
+
+Goldman, Nathan C. and Lampenius, Niklas and Radhakrishnan, Suresh and Stenzel, Arthur and Almeida, Jose Elias, IRS Scrutiny and Corporate Innovation (July 27, 2023). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3174891 or http://dx.doi.org/10.2139/ssrn.3174891
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+489
+ABSTRACT VIEWS
+4,033
+RANK
+133,220
+1 Citations
+90 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

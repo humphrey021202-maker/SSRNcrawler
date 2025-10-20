@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Change-Point Testing for Risk Measures in Time Series
+
+53 Pages Posted: 21 Aug 2023 Last revised: 5 Oct 2025
+
+Lin Fan
+
+Stanford University
+
+Junting Duan
+
+Stanford University - Department of Management Science & Engineering
+
+Peter Glynn
+
+Stanford University
+
+Markus Pelger
+
+Stanford University - Department of Management Science & Engineering
+
+Date Written: September 10, 2018
+
+Abstract
+
+We propose novel methods for change-point testing for nonparametric estimators of expected shortfall and related risk measures in weakly dependent time series. We can detect general multiple structural changes in the tails of marginal distributions of time series under general assumptions. Self-normalization allows us to avoid the issues of standard error estimation. The theoretical foundations for our methods are functional central limit theorems, which we develop under weak assumptions. An empirical study of S&P 500 and US Treasury bond returns illustrates the practical use of our methods in detecting and quantifying instability in the tails of financial time series.
+
+Keywords: Time Series, Risk Measure, Change-Point Test, Confidence Interval, Self-Normalization, Sectioning, Expected Shortfall, Unsupervised Change Point Detection
+
+JEL Classification: C14, C58, G32
+
+Suggested Citation:
+
+Fan, Lin and Duan, Junting and Glynn, Peter and Pelger, Markus, Change-Point Testing for Risk Measures in Time Series (September 10, 2018). Available at SSRN: https://ssrn.com/abstract=4525844 or http://dx.doi.org/10.2139/ssrn.4525844
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+240
+ABSTRACT VIEWS
+1,101
+RANK
+291,202
+46 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Risk Management & Analysis in Financial Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+AAOIFI/FAS vs. IASB/IFRS: A Comparative Analysis of Financial Reporting in Islamic Financial Institutions
+
+20 Pages Posted: 28 Jan 2025 Last revised: 13 Feb 2025
+
+ZULKARNAIN BIN MUHAMAD SORI
+
+INCEIF UNIVERSITY
+
+Muhammad Hamdan Shafieq Ahmad
+
+Universiti Teknologi MARA (UiTM)
+
+Date Written: January 28, 2025
+
+Abstract
+
+Accounting and reporting of assets and liabilities by Islamic financial institutions under two competing financial reporting regimes—International Accounting Standards Board/International Financial Reporting Standards (IASB/IFRS) and the Accounting and Auditing Organization for Islamic Financial Institutions/Financial Accounting Standards (AAOIFI/FAS)—result in inconsistent information content. This inconsistency stems from the unique challenges of aligning Shariah principles with conventional accounting practices. The application of IFRS to Islamic financial transactions does not fully align with the values inherent in Islamic contracts. This paper explores the complexities involved in reporting Islamic financial transactions under the AAOIFI/FAS and IASB/IFRS frameworks, focusing on their compatibility with Islamic finance principles. The study examines 19 Islamic banks in Bahrain (which apply the AAOIFI/FAS financial reporting regime) and 16 Islamic banks in Malaysia (which apply the IASB/IFRS financial reporting regime). It was observed that uniform reporting practices are employed by Islamic banks in both Bahrain and Malaysia. Therefore, the study focuses on a representative Islamic bank for each jurisdiction: Bahrain Islamic Bank represents Islamic banks in Bahrain, while Bank Islam Malaysia Berhad represents Islamic banks in Malaysia.
+A comprehensive review of the literature reveals a gap in applying 'neutral' accounting standards to religious-based transactions, such as Islamic financial contracts. This paper explores the reporting dilemmas faced by Islamic banks, specifically comparing the application of IFRS 9 to sale-based, equity-based, and rental-based Islamic financial contracts. It critically examines the discrepancies between Shariah principles and conventional standards, highlighting the need for specialized guidelines to ensure compliance with Shariah principles. The examination covers the recognition of financial assets and liabilities, noting that the diverse values of Islamic contracts based on their type are diminished when these contracts fit the amortized cost's 'Solely Payment of Principal and Interest (SPPI)' test. Additionally, the study found that the application of the 'substance over form' principle by Islamic banks under the IASB/IFRS financial reporting regime produces conflicting accounting and reporting practices compared to the AAOIFI financial reporting regime. Moreover, it was found that Islamic banks under the AAOIFI financial reporting regime introduced a new category called Quasi Equity for Unrestricted Investment Accounts (UIAs), shifting the recognition of UIAs from liability under the IASB/IFRS regime to this new category. This reclassification acknowledges the unique nature of UIAs, which do not fit neatly into the categories of liability or equity.
+Finally, the paper proposes ways to overcome these challenges and enhance the alignment of Islamic finance principles with accounting standards. Regulatory bodies, Shariah scholars, accounting professionals, and other stakeholders should seriously address this issue and embark on concerted efforts to resolve these dilemmas. Stakeholders should exercise caution when examining and interpreting data from the financial statements of Islamic banks globally.
+
+Suggested Citation:
+
+MUHAMAD SORI, ZULKARNAIN BIN and Ahmad, Muhammad Hamdan Shafieq, AAOIFI/FAS vs. IASB/IFRS: A Comparative Analysis of Financial Reporting in Islamic Financial Institutions (January 28, 2025). Available at SSRN: https://ssrn.com/abstract=5114167 or http://dx.doi.org/10.2139/ssrn.5114167
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+361
+ABSTRACT VIEWS
+2,535
+RANK
+189,110
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

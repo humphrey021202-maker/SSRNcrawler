@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+IRS Audit Selection and Classification Processes
+
+Journal of Tax Practice & Procedure, February-March 2016
+
+8 Pages Posted: 29 Apr 2016
+
+Charles P. Rettig
+
+Hochman, Salkin, Rettig, Toscher & Perez, P.C.
+
+Date Written: March 20, 2016
+
+Abstract
+
+The IRS generally selects potentially noncompliant tax returns for audit using a multiphase process intended to narrow the large pool of available returns to those that most merit investment of limited audit resources. For audits to be conducted in the field, this process generally includes (1) identifying an initial inventory of tax returns that have audit potential (e.g., reporting noncompliance), (2) reviewing that audit potential to reduce the number of returns that merit selection for audit (termed “classification”), (3) selecting returns by assigning them to auditors based on a field manager’s review of audit potential given available resources and needs, and (4) auditing selected returns. For campus audits, returns generally are not further reviewed by managers before starting the audit. Once returns are selected for audit, taxpayers are notified, and auditors are assigned the return after taxpayers respond.
+
+In addition to audits, IRS conducts non-audit “compliance checks,” which may lead to an audit. These checks include the Math Error, Automated Under-reporter (AUR), and Automated Substitute for Return (ASFR) programs. The Math Error program electronically reviews tax returns as they are filed for basic computational errors or missing forms/schedules. Several months after returns have been filed, AUR electronically matches information reported by third parties, such as banks or employers, against the information that taxpayers report on their tax returns. This matching can identify potentially underreported income or unwarranted deductions or tax credits. ASFR also uses information return data to identify non-filers; constructs substitute tax returns for certain non-filers; and assesses tax, interest, and penalties based on those substitute returns.
+
+“Classification” is the process of experienced IRS examiners determining whether a return has potential noncompliance, what issues should be examined, and how the examination should be conducted Due to extremely limited resources, the Service can actually only examine a small percentage of the returns filed. As such, the classifier’s role is extremely important to ensure that these resources are used effectively.
+
+Classifiers generally consider the materiality of the potential audit issues within the return. Materiality includes the comparative size of the item within the return; the inherent character of the item - although the amount of an item may be insignificant, the nature of the item may be significant; e.g., airplane expenses claimed on a plumber’s Schedule C; evidence of intent to mislead – which may include missing, misleading, or incomplete schedules, or incorrectly showing an item on the return; the beneficial effect of the manner in which an item is reported - expenses claimed on a business schedule rather than claimed as an itemized deduction may be significant; relationship to other item(s) on the return - business expenses without corresponding income or a lack of reported dividends reported when Schedule D shows sales of stocks; permanency of the potential adjustment (a permanent adjustment is more material than one that will reverse itself in subsequent years.); and timing adjustments - the longer the deferral/acceleration period, the more material the item.
+
+IRS field audits generally are conducted by meeting with the taxpayer and/or his or her representatives. The field auditors include revenue agents who tend to audit the most complex returns and tax compliance officers who tend to audit simpler returns. IRS also conducts audits through its four campuses - formerly called service centers - which are facilities where IRS performs various operations, such as processing tax returns, handling taxpayer calls, and conducting correspondence audits. Campus audits tend to be the simplest and are generally done by tax examiners through correspondence with the taxpayers.
+
+Suggested Citation:
+
+Rettig, Charles P., IRS Audit Selection and Classification Processes (March 20, 2016). Journal of Tax Practice & Procedure, February-March 2016, Available at SSRN: https://ssrn.com/abstract=2771191
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+IRS Return Selection: Certain Internal Controls for Audits in the Small Business and SelfEmployed Division Should Be Strengthened Posted: 2015-01-13
+Crossref
+These data for all IRS audits exclude excise tax returns filed with the U.S. Customs and Border Protection and the Alcohol and Tobacco Tax and Trade Bureau; returns of tax-exempt organizations, government entities, employee retirement benefit plans and tax-exempt bonds
+The 33 different SB/SE Selection Methods or Work-streams are separately and more specifically
+Sources of Returns for Classification, is a mathematical technique used to score income tax returns for examination potential
+DIF as referenced in IRM 4.19.11.1.4
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+143
+ABSTRACT VIEWS
+1,465
+RANK
+467,335
+4 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

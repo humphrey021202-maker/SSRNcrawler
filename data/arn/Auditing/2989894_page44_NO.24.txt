@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Effect of the SEC's XBRL Mandate on Audit Report Lags
+
+Accounting Horizons: March 2018, Vol. 32, No. 1, pp. 1-27.
+
+Posted: 21 Jun 2017 Last revised: 22 Dec 2019
+
+Keval Amin
+
+Stony Brook University
+
+John Daniel Eshleman
+
+Rutgers - Camden
+
+Cecilia (Qian) Feng
+
+Stony Brook University - College of Business
+
+Abstract
+
+There is considerable debate about whether the adoption of EXtensible Business Reporting Language (XBRL) will result in timelier SEC filings. We provide empirical evidence on this debate by investigating the effect of XBRL adoption on audit report lags. Using a hand collected panel of S&P 1500 clients’ XBRL financial report filings and both levels and difference-in-differences analyses, we show that audit report lags decrease following the mandatory adoption of XBRL. These results are robust to various sub-samples and model specifications. On average, audit report lags decrease anywhere from 0.4 to 3.4 percent (0.21 to 1.93 days) in the post-adoption period, depending on the specification used. We further document that these results are concentrated among filers with strong internal control systems and no prior XBRL reporting experience. We also find that audit report lags continue to decline in the years following adoption, which is indicative of a learning curve and improvements in XBRL reporting quality. Additional tests reveal that XBRL is negatively associated with audit fees, suggesting that the XBRL effect is at least partially driven by auditor efficiency gains. Our findings are informative for assessing the economic consequences of requiring XBRL adoption, which should be of interest to regulators, managers, and researchers.
+
+Keywords: Audit Report Lag, XBRL, Audit Fees
+
+JEL Classification: M41, M42
+
+Suggested Citation:
+
+Amin, Keval and Eshleman, John Daniel and Feng, Cecilia (Qian), The Effect of the SEC's XBRL Mandate on Audit Report Lags. Accounting Horizons: March 2018, Vol. 32, No. 1, pp. 1-27., Available at SSRN: https://ssrn.com/abstract=2989894
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,926
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

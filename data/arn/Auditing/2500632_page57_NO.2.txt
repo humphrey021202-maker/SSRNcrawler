@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+PCAOB Form 2 Disclosure: A Firm-Level Signal of Audit Quality?
+
+65 Pages Posted: 25 Sep 2014 Last revised: 25 Jan 2016
+
+Steve Buchheit
+
+University of Alabama
+
+William L. Buslepp
+
+Louisiana State University, Baton Rouge - Department of Accounting
+
+Date Written: January 25, 2016
+
+Abstract
+
+In response to Section 102(d) of the Sarbanes-Oxley Act, PCAOB Rule 2200 required annual reporting from all registered accounting firms via PCAOB Form 2. Filed for the first time during the second quarter of 2010, PCAOB Form 2 provides information about (1) each accounting firm’s available human resources and (2) where firms deploy their human resources (e.g., public auditing engagements vs. other firm-provided services). We use Form 2 information to construct firm-specific audit workload measures and measures of non-audit work. We provide evidence that Form 2 information captures audit inputs incrementally better than common fee-based proxies. Specifically, our Form 2-based workload measure is associated with common audit quality proxies (restatements, discretionary accruals, and going concern opinions) during the available testing period (2009-2015); however, fee-based audit input proxies show minimal association with audit quality measures during the same time period. Given that various stakeholders desire publicly available audit quality indicators (e.g., Bedard, Johnstone, and Smith 2010; Martin 2013), our results suggest that PCAOB Form 2 has partially fulfilled the intended purpose of providing valuable information to the public (PCAOB 2008).
+
+Keywords: Audit quality, Auditor workload, Public Company Accounting Oversight Board
+
+JEL Classification: M42
+
+Suggested Citation:
+
+Buchheit, Steve and Buslepp, William L., PCAOB Form 2 Disclosure: A Firm-Level Signal of Audit Quality? (January 25, 2016). Available at SSRN: https://ssrn.com/abstract=2500632 or http://dx.doi.org/10.2139/ssrn.2500632
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+PCAOB Form , volume 2
+Crossref
+PCAOB Form , volume 2
+Crossref
+R Houston
+The effects of fee pressure and client risk on audit seniors' time budget decisions
+Auditing: A Journal of Practice & Theory , volume 18 , issue 2 , p. 70 - 86 Posted: 1999
+Crossref
+A framework for audit quality key elements that create an environment for audit quality. (International Federation of Accountants
+International Auditing and Assurance Standards Board (IAASB) Posted: 2014-02
+Load more
+4 Citations
+Brant E. Christensen , Steven M. Glover , Thomas C. Omer , Marjorie K. Shelley
+Understanding Audit Quality: Insights from Audit Professionals and Investors
+Contemporary Accounting Research , volume 33 , issue 4 , p. 1648 Posted: 2016
+Crossref
+B. Louise Hayes
+Identifying Unintentional Error in Restatement Disclosures
+2014 Canadian Academic Accounting Association (CAAA) Annual Conference · 55 Pages · Posted: 15 Jan 2014 · Downloads: 145
+Download PDF  Add Paper to My Library
+Brant E. Christensen , Steven M. Glover , Thomas C. Omer , Marjorie Shelley
+Understanding Audit Quality: Insights from Audit Professionals and Investors
+Contemporary Accounting Research, Forthcoming, Mays Business School Research Paper No. 2358163 · 61 Pages · Posted: 24 Nov 2013 · Last revised: 4 Mar 2019 · Downloads: 1,819
+Download PDF  Add Paper to My Library
+B. Louise Hayes
+Identifying Unintentional Error in Restatement Disclosures
+55 Pages · Posted: 25 May 2013 · Last revised: 15 Jan 2014 · Downloads: 316
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+571
+ABSTRACT VIEWS
+4,696
+RANK
+110,001
+4 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Tick Size and Financial Reporting Quality in Small‐Cap Firms: Evidence from a Natural Experiment
+
+Journal of Accounting Research, Volume 58, Issue 4, September 2020
+
+Posted: 2 Dec 2020
+
+Anwer S. Ahmed
+
+Texas A&M University - Mays Business School
+
+Yiwen Li
+
+Villanova University
+
+Nina Xu
+
+University of Connecticut
+
+There are 2 versions of this paper
+
+Date Written: September 1, 2020
+
+Abstract
+
+Using a natural experiment (the SEC's 2016 Tick Size Pilot Program), we investigate the effects of an increase in tick size on financial reporting quality. The tick size pilot program reduces algorithmic trading (AT) and increases fundamental investors’ information acquisition and trading activities. This in turn increases the scrutiny of managers’ financial reporting choices and reduces their incentives to engage in misreporting. Using a difference‐in‐differences research design, we find a significant decrease in the magnitude of discretionary accruals, a significant reduction in the likelihood of just meeting or beating analysts’ forecasts, and a marginally significant decrease in restatements for the treated firms in the pilot program. Furthermore, we find that the change in financial reporting quality is concentrated in treated firms experiencing decreases in AT and increases in information acquisition activities. We also find that the mispricing of accruals is significantly lower for treated firms. Taken together, our results suggest that an increase in tick size has a causal effect on firms’ financial reporting quality.
+
+Keywords: Tick size pilot program; Financial reporting quality; Information acquisition
+
+JEL Classification: M40; M41; G12; G14
+
+Suggested Citation:
+
+Ahmed, Anwer S. and Li, Yiwen and Xu, Nina, Tick Size and Financial Reporting Quality in Small‐Cap Firms: Evidence from a Natural Experiment (September 1, 2020). Journal of Accounting Research, Volume 58, Issue 4, September 2020, Available at SSRN: https://ssrn.com/abstract=3713372
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+739
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

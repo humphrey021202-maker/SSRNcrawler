@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Social Media and Voluntary Nonfinancial Disclosure: Evidence From Twitter Presence and Corporate Political Disclosure
+
+Forthcoming, Journal of Information Systems, DOI/abs/10.2308/isys-52189
+
+63 Pages Posted: 8 Aug 2018
+
+Lijun (Gillian) Lei
+
+University of North Carolina at Greensboro
+
+Yutao Li
+
+University of Lethbridge
+
+Yan Luo
+
+San Diego State University - Accountancy
+
+Date Written: July 17, 2018
+
+Abstract
+
+This study uses a sample of 1,316 firm-year observations of S&P 500 companies (2012–2016) to investigate whether and how social media (i.e., Twitter) affects firms’ voluntary nonfinancial disclosure (i.e., corporate political disclosure). Our results show that Twitter-adopting firms are generally more transparent in their disclosure of corporate political contributions and of related policies and board oversight. Moreover, firms with more Twitter followers and firms whose corporate political activities are targeted in more Twitter messages are more transparent in such disclosures. Our cross-sectional analysis suggests that this effect is stronger for firms whose stakeholders are more active on Twitter and firms that are less visible or more reputable. Our results remain robust to different econometric model specifications that address the endogeneity issue, including Heckman two-stage procedure, a difference-in-difference analysis, and controlling for preceding year’s corporate political disclosure transparency. Our results remain qualitatively the same when we control for alternative social media platforms (i.e., Facebook) and non-interactive social media platforms (i.e., blogs and Really Simple Syndication feeds). Taken together, our findings suggest that social media (i.e., Twitter) presence exerts pressure on firms’ voluntary nonfinancial disclosure practices (i.e., corporate political disclosure).
+
+Keywords: Corporate Political Disclosure, Nonfinancial, Social Media, Transparency, Twitter
+
+JEL Classification: G38, M41, M48
+
+Suggested Citation:
+
+Lei, Lijun and Li, Yutao and Luo, Yan, Social Media and Voluntary Nonfinancial Disclosure: Evidence From Twitter Presence and Corporate Political Disclosure (July 17, 2018). Forthcoming, Journal of Information Systems, DOI/abs/10.2308/isys-52189, Available at SSRN: https://ssrn.com/abstract=3215416 or http://dx.doi.org/10.2139/ssrn.3215416
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+274
+ABSTRACT VIEWS
+2,093
+RANK
+254,445
+5 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The (in)adequacy of legal contingency reporting
+
+56 Pages Posted: 21 Nov 2023
+
+Kevin Standridge
+
+University of Utah - School of Accounting and Information Systems
+
+Abigail M. Allen
+
+Brigham Young University - Marriott School
+
+Jake Thornock
+
+Brigham Young University
+
+Date Written: October 24, 2023
+
+Abstract
+
+Do firms provide adequate, timely, and transparent reporting on impending contingent litigation losses? Despite intense regulatory debate, related empirical evidence is sparse, dated, and lacks empirical identification. We use a hand-collected sample of firm disclosures together with novel legal dates to empirically identify conformity with the probability and estimability conditions of ASC 450. This innovation allows us to distinguish what should be reported from what is reported. Contrary to regulators’ expressed optimism, our findings suggest that current reporting of litigation losses is inadequate, untimely, and lacks transparency. In a high-powered setting where losses are unambiguously material, probable, and estimable, we find that roughly one sixth of firms fail to observably report accruals or estimated losses. Further, we find that less than 10% of material litigation losses are reported in advance of preliminary lawsuit resolution. Additionally, more than half of disclosures lack transparency about the underlying accounting treatment. Finally, our evidence suggests that legal contingency reporting is insensitive to a dramatic shift in the probability of litigation losses but highly sensitive to changes in estimability. Our results imply that managers overwhelmingly report contingent liabilities more like regular liabilities, waiting to report until contingent losses are nearly certain and precisely quantified.
+
+Keywords: litigation, contingent liability, securities law
+
+JEL Classification: K22, M41
+
+Suggested Citation:
+
+Standridge, Kevin and Allen, Abigail M. and Thornock, Jacob, The (in)adequacy of legal contingency reporting (October 24, 2023). Available at SSRN: https://ssrn.com/abstract=4611872 or http://dx.doi.org/10.2139/ssrn.4611872
+Download This Paper
+ 
+Open PDF in Browser
+14 References
+Financial reporting disclosures: Investor perspectives on transparency, trust and volume Posted: 2013
+L Cen , F Chen , Y Hou , G D Richardson
+Strategic disclosures of litigation loss contingencies when customer-supplier relationships are at risk
+The Accounting Review , volume 93 , issue 2 , p. 137 - 159 Posted: 2018
+C W Chen , D W Collins , T D Kravet , R D Mergenthaler
+Financial statement comparability and the efficiency of acquisition decisions
+Contemporary Accounting Research , volume 35 , issue 1 , p. 164 - 202 Posted: 2018
+E Chasan
+FASB Dumps Loss Contingency Disclosure Project. Wall St
+Journal Posted: 2012-07-10
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+242
+ABSTRACT VIEWS
+1,145
+RANK
+288,800
+1 Citations
+14 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

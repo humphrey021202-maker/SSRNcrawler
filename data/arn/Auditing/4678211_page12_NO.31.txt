@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Evolving Gender Disparities in Auditing
+
+36 Pages Posted: 18 Jan 2024 Last revised: 21 Apr 2025
+
+Jade Huayu Chen
+
+Loyola Marymount University
+
+Nicholas Hallman
+
+University of Texas at Austin; The Salem Center for Policy
+
+Jayanthi Sunder
+
+University of Arizona - Eller College of Management
+
+Date Written: February 24, 2025
+
+Abstract
+
+Both popular media and academic research have long asserted that the Big 4 audit firms (“the firms”) are “boys clubs” that fail to equitably retain and promote female auditors. Recently mandated Form-AP disclosures have reignited interest in gender disparities at the firms by revealing that, despite their explicit commitments to gender equity, only a small proportion of their public company engagements are led by female audit partners. We use newly available data on nearly 150 thousand rank-and-file auditors to show that these assertions about gender disparities at the firms were historically accurate. Throughout the 1990s and 2000s, female auditors faced lower retention and promotion rates than their male counterparts. These disparities were even more pronounced in auditing than in most other financial services professions. However, we also show that these disparities narrowed among auditors during the mid 2010s and reversed by the late 2010s. Indeed, we present evidence which suggests that from the late 2010s through the end of our sample period in 2023, it was male auditors who were at higher risk of leaving the firms and faced lower probabilities of promotion conditional on staying. The absence of a similar reversal in retention rates for other financial services professions during the same period bolsters our conclusion that the trends observed are not driven by broader industry or labor market factors.
+
+All the code used to create this paper is publicly available at https://github.com/njhallman/Gender-public.
+
+Keywords: gender, auditing, retention and promotion
+
+Suggested Citation:
+
+Chen, Jade and Hallman, Nicholas and Sunder, Jayanthi,
+
+Evolving Gender Disparities in Auditing
+
+(February 24, 2025). Available at SSRN: https://ssrn.com/abstract=4678211 or http://dx.doi.org/10.2139/ssrn.4678211
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+A Agrawal , I Hacamo , Z Hu
+Information Dispersion across Employees and Stock Returns
+The Review of Financial Studies , volume 34 , p. 4785 - 4831 Posted: 2021
+J Ahn , R Hoitash , U Hoitash , E Krause
+Diversity and Career Trajectories: Evidence from LinkedIn Data on Race, Ethnicity, and Gender in Auditing
+The Accounting Review Forthcoming Posted: 2025
+A Albrecht , E G Mauldin , N J Newton
+Do Auditors Recognize the Potential Dark Side of Executives' Accounting Competence?
+The Accounting Review , volume 93 , p. 1 - 28 Posted: 2018
+F Anderson-Gough , C Grey , K Robson
+The Organizational Embedding of Gender Relations in Public Audit Firms
+Accounting, Organizations and Society , volume 30 , p. 469 - 490 Posted: 2005
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+430
+ABSTRACT VIEWS
+1,726
+RANK
+155,190
+38 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Demographics, Gender & Diversity in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

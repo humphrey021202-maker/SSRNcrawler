@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+ETF Activities and Analysts’ Forecasts
+
+MIT Sloan Research Paper No. 6935-23
+
+HKU Jockey Club Enterprise Sustainability Global Research Institute - Archive
+
+52 Pages Posted: 6 Apr 2023 Last revised: 28 Oct 2024
+
+S.P. Kothari
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Jing Li
+
+The University of Hong Kong - Faculty of Business and Economics
+
+Xu Li
+
+The University of Hong Kong
+
+Mei Sheng
+
+The University of Hong Kong - HKU Business School
+
+Date Written: October 22, 2024
+
+Abstract
+
+We document analysts of follower firms revise their earnings forecasts more efficiently (i.e., exhibit greater sensitivity) to earnings announcements of an announcer firm in the same sector ETF. We identify a possible channel for this result, i.e., because sector ETFs are more informative with respect to industry-level information, analysts learn directly and efficiently from ETFs about this type of information component in individual firms’ earnings. As a result, analysts have an opportunity to re-optimize their attention to firm-specific information and improve forecast accuracy. Furthermore, this revision is stronger when ETFs are more actively traded and when analysts are more constrained in their attention to individual firms. We also provide direct evidence that analysts increase their attention to firm-specific information following the initiation of a sector ETF using textual analysis of conference call scripts. Lastly, we utilize Russell index reconstitution to establish the causality of the forecast accuracy improvement following an increase in sector ETF ownership. 
+
+Keywords: ETFs, Information Transfer, Sector ETFs, Analysts’ Forecasts, Analyst Learning
+
+JEL Classification: G12, G14, G32, M41, D53
+
+Suggested Citation:
+
+Kothari, S.P. and Li, Jing and Li, Xu and Sheng, Mei, ETF Activities and Analysts’ Forecasts (October 22, 2024). MIT Sloan Research Paper No. 6935-23, HKU Jockey Club Enterprise Sustainability Global Research Institute - Archive, Available at SSRN: https://ssrn.com/abstract=4398547 or http://dx.doi.org/10.2139/ssrn.4398547
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+J S Abarbanell , V L Bernard
+Tests of Analysts' Overreaction/Underreaction to Earnings Information as an Explanation for Anomalous Stock Price Behavior
+The Journal of Finance , volume 47 , p. 1181 - 1207 Posted: 1992
+V Agarwal , P Hanouna , R Moussawi , C W Stahel
+Do ETFs Increase the Commonality in Liquidity of Underlying Stocks? Working Paper Posted: 2019
+C Antoniou , F Weikai Li , X Liu , A Subrahmanyam , C Sun
+Exchange-Traded Funds and Real Investment
+The Review of Financial Studies , volume 36 , p. 1043 - 1093 Posted: 2022
+I R Appel , T A Gormley , D B Keim
+Passive Investors, Not Passive Owners
+Journal of Financial Economics , volume 121 , p. 111 - 141 Posted: 2016
+Load more
+2 Citations
+VIDHAN K. GOYAL , DANIEL URBAN , WENTING ZHAO
+Index Creation, Information Changes, and Financing*
+Journal of Accounting Research Posted: 2025
+Crossref
+Wenjing Ouyang , Samuel H. Szewczyk , Jeffrey Miles
+Female directors on the sensitivity of investment to growth opportunities
+Accounting & Finance , volume 65 , issue 1 , p. 713 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+521
+ABSTRACT VIEWS
+2,319
+RANK
+123,344
+2 Citations
+52 References
+PlumX Metrics
+Related eJournals
+
+MIT Sloan School of Management Working Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

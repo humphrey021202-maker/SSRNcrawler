@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Attention Is All You Need: An Analysis Of The Valuation Of Artificial Intelligence Tokens
+
+7 Pages Posted: 19 Dec 2024
+
+Mfon Akpan
+
+Northeastern State University - College of Business & Technology
+
+Date Written: October 20, 2024
+
+Abstract
+
+This study discusses the parameters that define the value of artificial intelligence (AI) tokens based on user interaction, their pricing mechanism, and their correlation with the predicted value thus evaluating AI token valuation based on user engagement, pricing, and website visits. This study tests hypotheses that examine the factors that influence the value of AI tokens. Using data from ten AI tokens, the study employs correlation and regression analyses to examine these relationships. The results show that monthly active users (MAU) and website visits significantly predict valuation, while pricing shows a marginal effect. This research provides insights for stakeholders in understanding economic factors affecting AI token values, emphasizing user engagement and pricing strategies. 
+
+Keywords: AI Tokens, Valuation, Monthly Active Users (MAU), Pricing, User Engagement, Website Visits, Regression Analysis, AI
+
+JEL Classification: M41, O33, C63
+
+Suggested Citation:
+
+Akpan, Mfon, Attention Is All You Need: An Analysis Of The Valuation Of Artificial Intelligence Tokens (October 20, 2024). Available at SSRN: https://ssrn.com/abstract=4993784 or http://dx.doi.org/10.2139/ssrn.4993784
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A Agrawal , J S Gans , A Goldfarb
+Artificial intelligence: The ambiguous labor market impact of automating prediction
+Journal of Economic Perspectives , volume 33 , issue 2 , p. 31 - 50 Posted: 2019
+I Ahmed , M Kajol , U Hasan , P P Datta , A Roy , R Reza
+ChatGPT versus bard: A comparative study. Engineering Reports. Advance online publication Posted: 2024
+M Akpan
+The Elon Musk effect: How community initiative spending impacts earned social media valuation
+Risk Governance and Control: Financial Markets & Institutions , volume 12 , issue 3 , p. 34 - 48 Posted: 2022
+R Ali , J Xu , M H Baig , H S U Rehman , M Waqas Aslam , K U Qasim
+From data to decisions: Enhancing financial forecasts with LSTM for AI token prices
+Journal of Economic Studies. Advance online publication Posted: 2024
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+134
+ABSTRACT VIEWS
+924
+RANK
+492,803
+1 Citations
+31 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

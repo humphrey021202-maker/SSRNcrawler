@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Quality and Investment Efficiency with Endogenous Information in Markets
+
+57 Pages Posted: 1 Aug 2018 Last revised: 30 Aug 2021
+
+Nisan Langberg
+
+Tel Aviv University - Coller School of Management
+
+Naomi Rothenberg
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+Date Written: August 16, 2021
+
+Abstract
+
+We study audit quality and investment efficiency when information produced by a third
+party, e.g., a financial analyst, can curb overvaluation, and auditors are subject to legal liability
+following audit failure. With the auditor's damage payment based on the price inflation caused
+by audit failure, the analyst's information brings prices closer to fundamentals and provides
+a hedge to the auditor against legal liability risk. This weakens incentives for audit quality,
+and the analyst responds with more information production due to the penalty for mispricing.
+Consequently, in equilibrium, stricter legal liability leads to higher audit quality, which reduces
+overinvestment, but also less information production, which increases underinvestment. Thus,
+stricter legal liability has a non-monotonic effect on firm value: it increases the value of high
+growth firms, but reduces the value of low growth firms. The results have implications for the
+optimal level of legal liability that maximizes the expected value of the firm.
+
+Keywords: Auditor liability, financial reporting quality, analyst's forecast, information production, capital investment
+
+JEL Classification: M41, M42, G14, G23, G32
+
+Suggested Citation:
+
+Langberg, Nisan and Rothenberg, Naomi, Audit Quality and Investment Efficiency with Endogenous Information in Markets (August 16, 2021). Available at SSRN: https://ssrn.com/abstract=3224561 or http://dx.doi.org/10.2139/ssrn.3224561
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+M Alles , R Lundholm
+On the Optimality of Public Signals in the Presence of Private Information
+The Accounting Review , volume 68 , issue 1 , p. 93 - 112 Posted: 1993
+K Balakrishnan , M Billings , B Kelly , A Ljungqvist
+Posted: 2014
+Causal E¤ects of Voluntary Disclosure
+The Journal of Finance , volume 69 , issue 5 , p. 2237 - 2278
+A Beyer , D Cohen , T Lys , B Walther
+The …nancial reporting environment: Review of the recent literature
+Journal of Accounting and Economics , volume 50 , p. 296 - 343 Posted: 2010
+Load more
+1 Citations
+Minlei Ye
+The Theory of Auditing Economics: Evidence and Suggestions for Future Research
+127 Pages · Posted: 8 Mar 2021 · Last revised: 10 May 2023 · Downloads: 1,026
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+383
+ABSTRACT VIEWS
+2,137
+RANK
+177,110
+1 Citations
+60 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

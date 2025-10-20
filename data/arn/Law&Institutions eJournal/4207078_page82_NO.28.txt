@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Intended and Unintended Deterrence Effects of Tax Whistleblower Laws: Evidence From New York’s FCA
+
+52 Pages Posted: 18 Sep 2022
+
+Yoojin Lee
+
+California State University, Long Beach
+
+Shaphan Ng
+
+Singapore Management University - School of Accountancy
+
+Terry J. Shevlin
+
+University of California-Irvine; University of California-Irvine
+
+Aruhn Venkat
+
+McCombs School of Business, University of Texas at Austin; University of California, Irvine
+
+Date Written: August 31, 2022
+
+Abstract
+
+In this study, we provide evidence on the deterrence effects of state tax whistleblower laws. We exploit a novel 2010 amendment to New York’s False Claims Acts that explicitly extended whistleblower incentives to corporate income tax whistleblowers. We identify treated firms (firms exposed to New York’s FCA) using establishment-level data and descriptive analyses. Using a traditional difference-in-differences design, we find evidence that New York’s FCA reduced state tax avoidance, consistent with deterrence benefits. In cross-sectional tests, we find that effects are increasing in firms that grant fewer employee stock options and industry regulation, consistent with deterrence increasing in employee and regulator monitoring. We also find evidence that New York’s FCA deterred federal tax avoidance, consistent with positive vertical tax externalities. Next, we focus on particular tax strategies and find evidence of reduced probability of Double Irish tax structures, reduced relationships to tax planning banks, reduced use of special purpose vehicles and reduced outbound tax-motivated income shifting. Finally, we disentangle ex ante deterrence from ex post peer deterrence using hand-collected New York tax whistleblower press releases from the Attorney General. We find evidence of both types of deterrence. Overall, this study provides policy-relevant evidence on the deterrence benefits and externalities of tax whistleblower laws.
+
+Keywords: State tax whistleblower protections, FCAs, deterrence effect, spillover effect, tax externalities, tax avoidance
+
+Suggested Citation:
+
+Lee, Yoojin and Ng, Shaphan and Shevlin, Terry J. and Shevlin, Terry J. and Venkat, Aruhn, The Intended and Unintended Deterrence Effects of Tax Whistleblower Laws: Evidence From New York’s FCA (August 31, 2022). Available at SSRN: https://ssrn.com/abstract=4207078 or http://dx.doi.org/10.2139/ssrn.4207078
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+S Aldatmaz , P Ouimet , E D Van Wesep
+The option to quit: The effect of employee stock options on turnover
+Journal of Financial Economics , volume 127 , issue 1 , p. 136 - 151 Posted: 2018
+M G Allingham , A Sandmo
+Income tax evasion: A theoretical analysis
+Journal of Public Economics , volume 1 , issue 3-4 , p. 323 - 338 Posted: 1972
+S K Ampaabeng , P A Mclaughlin , T Powers
+Census of Regulatory Restrictions. Anon. 2010a. Senator Eric. T. Schneiderman Shepherds Historic Anti-Fraud Taxpayer Protection Measure Through Legislature | NY State Senate Posted: 2022
+Anon
+Sen Schneiderman News Release -7-1-10 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+248
+ABSTRACT VIEWS
+1,392
+RANK
+282,907
+77 References
+PlumX Metrics
+Related eJournals
+
+Singapore Management University School of Accountancy Research Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

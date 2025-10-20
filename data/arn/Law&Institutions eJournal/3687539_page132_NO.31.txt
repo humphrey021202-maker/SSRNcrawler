@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Disclosure Regulation, Investor Behavior, and Market Integration: Evidence from Form 20-F Reconciliation Elimination
+
+Posted: 12 Sep 2020
+
+Yongtae Kim
+
+Santa Clara University - Leavey School of Business
+
+Jedson Pinto
+
+University of Texas at Dallas
+
+Edward Sul
+
+George Washington University
+
+Date Written: September 6, 2020
+
+Abstract
+
+In 2007, the SEC eliminated the Form 20-F reconciliation requirement for cross-listed firms that prepare financial statements under IFRS (IFRS filers). We examine the effect of this elimination on investors’ information acquisition decisions and how accounting information is used across multiple markets. Using a difference-in-differences analysis with non-IFRS filers as a control sample, we show that investors download fewer Form 20-F filings after the elimination, if IFRS filers’ 20-Fs are filed with a significant delay. Consistent with a shift of investors’ attention away from Form 20-Fs to local earnings announcements, we also find greater US market reactions to IFRS filers’ home-country earnings announcements. In addition, we find that the reconciliation elimination increases return co-movement between the US ADR market and IFRS filers’ home-country stock market, especially during months of IFRS filers’ home-country earnings announcements. Our results bring novel insights regarding the cross-market impact of the disclosure policy change.
+
+Keywords: Disclosure, Investor Attention, Market Integration, IFRS, Cross-Listing
+
+JEL Classification: G12, G15, G18, G30, M41
+
+Suggested Citation:
+
+Kim, Yongtae and Pinto, Jedson and Sul, Edward, Disclosure Regulation, Investor Behavior, and Market Integration: Evidence from Form 20-F Reconciliation Elimination (September 6, 2020). Available at SSRN: https://ssrn.com/abstract=3687539
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,169
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

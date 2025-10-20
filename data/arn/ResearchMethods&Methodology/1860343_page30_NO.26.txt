@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bid and Ask Prices Tailored to Traders’ Risk-Aversion and Gain-Propension
+
+20 Pages Posted: 9 Jun 2011
+
+Marta Cardin
+
+Ca Foscari University of Venice - Dipartimento di Economia
+
+Bennet Eisenberg
+
+Lehigh University - Industrial and Systems Engineering Department
+
+Luisa Tibiletti
+
+University of Turin - Department of Management
+
+Date Written: May 17, 2011
+
+Abstract
+
+Bid and ask prices tailored to the traders’ risk-aversion and gain-propension are defined. Risk and gain premia are given by the Extended Gini indices, where the characteristic parameter captures the traders’ perception of the under-performance and over-performance of the asset. Sufficient and necessary conditions for successful trading are set out. The bid-ask price spread and the so-called probability of trading are used to measure the chances of trading. Numerical tables for these measures are given for the most common distributions and different levels of buyer’s risk-aversion and seller’s gain-propension.
+
+Keywords: Extended Gini Index, bid and ask prices, pessimism and optimism index
+
+JEL Classification: G10, G11, G12, G29
+
+Suggested Citation:
+
+Cardin, Marta and Eisenberg, Bennet and Tibiletti, Luisa, Bid and Ask Prices Tailored to Traders’ Risk-Aversion and Gain-Propension (May 17, 2011). Available at SSRN: https://ssrn.com/abstract=1860343 or http://dx.doi.org/10.2139/ssrn.1860343
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+H A David , H N Nagaraja
+Order Statistics, Wiles Series in Probability and Statistics Posted: 2003
+Crossref
+D Denneberg
+Premium Calculation Why Standard Deviation Should be Replaced by Absolute Deviation
+ASTIN Bulletin , volume 20 , issue 2 , p. 181 - 190 Posted: 1990
+Crossref
+J Dow , S R Da Costa Werlang
+Uncertainty aversion, risk aversion, and the optimal choice of portfolio
+Econometrica , volume 60 , issue 1 , p. 197 - 204 Posted: 1992
+Crossref
+M Eling , S Farinelli , D Rossello , L Tibiletti
+Tail Risk in Hedge Funds: Classical Skewness Coefficients vs Azzalini's Skewness Parameter
+International Journal of Managerial Finance , volume 6 , issue 4 , p. 290 - 304 Posted: 2010
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+102
+ABSTRACT VIEWS
+2,141
+RANK
+609,870
+15 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Properties of the Extended Gini Measures of Variability and Inequality
+
+By Shlomo Yitzhaki and Edna Schechtman
+
+The Gini Instrumental Variable, or 'the Double IV Estimator'
+
+By Edna Schechtman and Shlomo Yitzhaki
+
+Measuring the Returns to Education Nonparametrically
+
+By Shawn W. Ulrick
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Tax Benefits of Separating Alpha from Beta
+
+Financial Analysts Journal, 2020, 76 (1) 38-61; DOI: doi.org/10.1080/0015198X.2019.1675421
+
+55 Pages Posted: 25 May 2018 Last revised: 31 Jan 2020
+
+Joseph Liberman
+
+AQR Capital Management, LLC
+
+Clemens Sialm
+
+University of Texas at Austin - McCombs School of Business; National Bureau of Economic Research (NBER)
+
+Nathan Sosner
+
+AQR Capital Management, LLC
+
+Lixin Wang
+
+AQR Capital Management, LLC
+
+Date Written: January 30, 2020
+
+Abstract
+
+We show using both simulated and historical data that separating active returns (i.e., alpha) from market exposure (i.e., beta) can have significant tax benefits. An investment strategy that separately invests into a passive index portfolio and an actively-managed long-short portfolio is more tax-efficient than a long-only actively-managed strategy with similar risk and style exposures. The turnover of a traditional active strategy causes capital gain realizations on both the active and the passive portfolio components. In contrast, the turnover of a strategy that separates alpha from beta is concentrated on the active long-short component and enables the deferral of capital gain realizations on the passive market component. Separating alpha from beta is an approach to tax efficiency that is different from systematic tax management described in the literature. It can provide a practical solution for taxable investors in a world dominated by tax-agnostic managers.
+
+Keywords: Alpha-Beta Separation, Portable Alpha, Active Management, Long-Short, Long-Only, Tax Efficiency, After-Tax Performance
+
+JEL Classification: G11, H21, H24
+
+Suggested Citation:
+
+Liberman, Joseph and Sialm, Clemens and Sosner, Nathan and Wang, Lixin, The Tax Benefits of Separating Alpha from Beta (January 30, 2020). Financial Analysts Journal, 2020, 76 (1) 38-61; DOI: doi.org/10.1080/0015198X.2019.1675421, Available at SSRN: https://ssrn.com/abstract=3178273 or http://dx.doi.org/10.2139/ssrn.3178273
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+4 Citations
+Nathan Sosner , Ted Pyne , Joseph Liberman , Steven Liu
+Understanding a Tax-Aware Defensive Equity Long-Short Strategy
+22 Pages · Posted: 22 May 2020 · Downloads: 249
+Download PDF  Add Paper to My Library
+Nathan Sosner , Michael Gromis , Stanley Krasner
+The Tax Benefits of Direct Indexing, and How They Are Affected by the Biden Tax Plan
+The Journal of Beta Investment Strategies, Direct Indexing Special Issue 2022, 13 (2) 28-51; DOI: https://doi.org/10.3905/jbis.2022.1.001 · 59 Pages · Posted: 10 May 2021 · Last revised: 24 May 2022 · Downloads: 1,089
+Download PDF  Add Paper to My Library
+Stanley Krasner , Nathan Sosner
+Loss Harvesting or Gain Deferral? A Surprising Source of Tax Benefits of Tax-Aware Long-Short Strategies
+The Journal of Wealth Management, Summer 2024, 27 (1) 8-24; DOI: 10.3905/jwm.2024.1.233 · 35 Pages · Posted: 18 Oct 2023 · Last revised: 17 May 2024 · Downloads: 1,051
+Download PDF  Add Paper to My Library
+Fangzhou Lu
+Robo-Advising Meets Large Language Models: Educating Investors on Alpha and Beta of Mutual Funds and Stocks <br>
+63 Pages · Posted: 14 Feb 2025 · Last revised: 17 Oct 2025 · Downloads: 255
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+769
+ABSTRACT VIEWS
+4,909
+RANK
+74,954
+4 Citations
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Cost of Deferred Revenue
+
+8 Pages Posted: 14 Aug 2019
+
+Andy A. Torosyan
+
+Holthouse, Carlin & Van Trigt LLP
+
+Shahab Razani
+
+CSUN; AICPA; AAA; ACFE
+
+Date Written: July 1, 2019
+
+Abstract
+
+The law known as the Tax Cuts and Jobs Act amended Sec. 451 to allow accrual-basis taxpayers to defer recognizing income until it is taken into account in their applicable financial statements. This rule can eliminate some book-tax timing differences regarding unearned revenue, also known as deferred revenue.
+
+In 1964, the Eighth Circuit in James M. Pierce Corp. held that a publisher selling its assets to another company in a liquidation was not only required to recognize previously deferred income relating to the seller's reserve for certain subscription liabilities; it was also required to pick up the liability associated with the prepayments as an amount realized on the sale. However, the court also allowed the seller a deduction for having taken a reduction in the transaction sale price by including it in working capital, which corresponded to the assumed liabilities, which it said represented a deemed payment to the buyer.
+
+Although liquidating distributions like the one in Pierce Corp. were made taxable under Sec. 336 in 1986, the current result to the seller is to recognize ordinary income for the extinguishment of the unearned revenue obligation, an ordinary deduction for the deemed payment to the buyer for the assumption of the obligation to provide future services, and to recognize as additional capital gain any similar service liability assumed by the buyer.
+
+The deemed payment made to a buyer for assuming an unearned revenue account is gross income to the buyer for tax purposes, which may be eligible for deferral. The buyer may also be required to capitalize the costs in servicing the contracts related to the unearned revenue, presumably as they are incurred because they are contingent liabilities assumed in the transaction.
+
+Buyers and sellers in M&A transactions should make sure their purchase agreement addresses not only the economics associated with advance payments but also the tax recognition of deferred revenue and the estimated cost of future obligations assumed by the buyer. Both buyers and sellers will likely encounter book-tax differences, which must be analyzed and recorded as well.
+
+Suggested Citation:
+
+Torosyan, Andy A. and Razani, Shahab, The Cost of Deferred Revenue (July 1, 2019). Available at SSRN: https://ssrn.com/abstract=3435401 or http://dx.doi.org/10.2139/ssrn.3435401
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+157
+ABSTRACT VIEWS
+1,219
+RANK
+432,122
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

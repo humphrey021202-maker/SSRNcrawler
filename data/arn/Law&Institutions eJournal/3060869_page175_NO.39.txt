@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Short-Termism
+
+European Corporate Governance Institute (ECGI) - Finance Working Paper No. 546/2018
+
+Asian Finance Association (AsianFA) 2018 Conference
+
+58 Pages Posted: 30 Oct 2017 Last revised: 22 Jun 2021
+
+Dirk Hackbarth
+
+Boston University - Questrom School of Business; Centre for Economic Policy Research (CEPR); European Corporate Governance Institute (ECGI)
+
+Alejandro Rivera
+
+University of Texas at Dallas - School of Management - Department of Finance & Managerial Economics
+
+Tak-Yuen Wong
+
+National Tsing Hua University - Department of Quantitative Finance
+
+There are 2 versions of this paper
+
+Date Written: June 10, 2021
+
+Abstract
+
+This paper develops a dynamic contracting (multi-tasking) model of a levered firm. In particular, the manager selects long-term and short-term efforts and shareholders choose optimal debt and default policies. Excessive short-termism ex-post is optimal for shareholders, because debt has an asymmetric effect: shareholders receive all gains from short-term effort but share gains from long-term effort. We find that grim growth prospects and shareholder impatience imply higher optimal levels of short-termism. Also, an incentive cost effect and a real option effect create non-trivial patterns for the endogenous default threshold. Finally, we quantify agency costs of excessive short-termism, which underscore the economic significance of our results.
+
+Keywords: Capital Structure, Contracting, Multi-Tasking
+
+JEL Classification: D86, G13, G32, G33, J33
+
+Suggested Citation:
+
+Hackbarth, Dirk and Rivera, Alejandro and Wong, Tak-Yuen, Optimal Short-Termism (June 10, 2021). European Corporate Governance Institute (ECGI) - Finance Working Paper No. 546/2018, Asian Finance Association (AsianFA) 2018 Conference, Available at SSRN: https://ssrn.com/abstract=3060869 or http://dx.doi.org/10.2139/ssrn.3060869
+Download This Paper
+ 
+Open PDF in Browser
+23 References
+John Asker , Joan Farre-Mensa , Alexander Ljungqvist
+Corporate Investment and Stock Market Listing: A Puzzle?
+Review of Financial Studies , volume 28 , issue 2 , p. 342 - 390 Posted: 2015
+Crossref
+Brian Akins , Jonathan Bitting , David De Angelis , Maclean Gaulin
+The Salience of Creditors' Interests and CEO Compensation Posted: 2018
+Emmanuelle Auriol , Guido Friebel , Lambros Pechlivanos
+Career Concerns in Teams
+Journal of Labor Economics , volume 20 , issue 2 , p. 289 - 307 Posted: 2002
+Crossref
+Antonio Bernardo , Hongbin Cai , Jiang Luo
+Capital Budgeting in Multidivision Firms: Information, Agency, and Incentives , volume 17 , p. 739 - 767 Posted: 2004
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+730
+ABSTRACT VIEWS
+5,603
+RANK
+79,770
+8 Citations
+23 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+European Corporate Governance Institute (ECGI) - Finance Working Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring Industry Relatedness and Corporate Coherence
+
+24 Pages Posted: 6 May 2011
+
+Giulio Bottazzi
+
+Scuola Superiore Sant’Anna
+
+Davide Pirino
+
+Department of Economics and Finance, University of Rome "Tor Vergata"
+
+Date Written: November 3, 2010
+
+Abstract
+
+Since the seminal contribution of Teece et al. (1994), the strength, scope and quality of corporate diversification is often detected comparing the observed value of some statistics derived from the diversification patterns of a sample of firms, with its expected value. The latter is obtained under a null hypothesis which assumes some random assignment procedure of sectors to firms. The approaches generally adopted in the literature present two problems. First, being based on the observed value of a statistic, these methods could lead, depending on the nature of the sample, to noisy and non-homogeneous estimates. Second, the benchmark value used to identify the presence and strength of deterministic patterns are obtained under specific and privileged null hypothesis. Both effects could lead to the erroneous classification of spurious random effects as deterministic. This paper shows that the adoption of p-scores as measure of relatedness strongly alleviate the first problem, leading to cleaner and more homogeneous estimates. We design and implement a null hypothesis which rules out random artifacts and effectively identify new features in firm diversification pattern. Using the NBER database on patents, we apply our results to the study of the relationship between the coherence and the scope of corporate patent portfolios.
+
+Keywords: corporate coherence, relatedness, null model analysis, patent data
+
+JEL Classification: C1, D2, L2
+
+Suggested Citation:
+
+Bottazzi, Giulio and Pirino, Davide, Measuring Industry Relatedness and Corporate Coherence (November 3, 2010). Available at SSRN: https://ssrn.com/abstract=1831479 or http://dx.doi.org/10.2139/ssrn.1831479
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+C H Berry
+Corporate growth and diversification Posted: 1975
+Crossref
+J Bessen
+Matching patent data to compustat firms. Nber working papers Posted: 2009-05
+Y Y M Bishop , S E Fienberg , P W Holland
+Discrete Multivariate Analysis Posted: 1975
+S Breschi , F Lissoni , F Malerba
+Knowledge-relatedness in firm technological diversification
+Research Policy , volume 32 , issue 1 , p. 69 - 87 Posted: 2003
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+267
+ABSTRACT VIEWS
+2,121
+RANK
+261,368
+14 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

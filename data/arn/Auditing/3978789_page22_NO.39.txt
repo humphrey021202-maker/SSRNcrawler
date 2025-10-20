@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Compliance and Truthfulness: Leveraging Peer Information with Competitive Audit Mechanisms
+
+62 Pages Posted: 6 Dec 2021
+
+Timo Goeschl
+
+Heidelberg University
+
+Andreas Marcel Oestreich
+
+Brock University - Department of Economics
+
+Alice Solda
+
+EM Lyon (Ecole de Management de Lyon) - Emlyon Business School; GATE - CNRS
+
+Abstract
+
+How to design audit mechanisms that harness the benefits of self-reporting for achieving compliance with regulatory targets while limiting misreporting is a pressing questionin many regulatory contexts, from climate policies to public health. We theoretically and experimentally study the relative performance of a competitive audit mechanism inregulating a socially undesirable activity when peer information about others’ activity levels is present or absent. Using random auditing as a benchmark, the analytical frameworkpredicts always more truthful self-reporting under the competitive mechanism and, in the presence of peer information, fully compliant activity levels. A quasi-laboratoryexperiment confirms the core theoretical findings: Under the competitive audit mechanism, reports are more truthful on average and, in the presence of peer information,participants’ average activity levels, while not reaching full compliance, are closer to the social optimum. The experimental results highlight the considerable potential ofcompetitive audit mechanisms for achieving regulatory targets.
+
+Keywords: Regulation, Compliance, tournament theory, quasi-laboratory experiment
+
+Suggested Citation:
+
+Goeschl, Timo and Oestreich, Andreas Marcel and Solda, Alice, Compliance and Truthfulness: Leveraging Peer Information with Competitive Audit Mechanisms. Available at SSRN: https://ssrn.com/abstract=3978789 or http://dx.doi.org/10.2139/ssrn.3978789
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+77
+ABSTRACT VIEWS
+543
+RANK
+730,413
+29 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

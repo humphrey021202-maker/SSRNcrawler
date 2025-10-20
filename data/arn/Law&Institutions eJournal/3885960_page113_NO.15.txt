@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Data Breaches Damage Reputation? Evidence from 45 Companies Between 2002 and 2018
+
+TPRC49: The 49th Research Conference on Communication, Information and Internet Policy
+
+23 Pages Posted: 14 Jul 2021
+
+Christos Makridis
+
+Stanford University; Institute for the Future (IFF), Department of Digital Innovation, School of Business, University of Nicosia; The Gallup Organization; Arizona State University (ASU)
+
+Date Written: July 13, 2021
+
+Abstract
+
+While data breaches have become more common, there is little evidence that companies that incur them experience a persistent decline in financial performance or security prices. Using new firm-level data between 2002 and 2018, this paper finds that firms experience a 26-29% increase in intangible capital following an average data breach. However, the largest and most salient breaches are associated with a 5-9% decline in intangible capital following a data breach. These effects are concentrated among firms in consumer-facing industries: smaller (larger) data breaches are associated with more positive (negative) effects on intangible capital. These results suggest that current regulatory guidance may not provide complete incentives for firms to invest in cybersecurity capabilities, particularly for small to medium size breaches.
+
+Keywords: Brand, cybersecurity, data breach, intangible capital, reputation
+
+JEL Classification: D91, G41, H56, L21
+
+Suggested Citation:
+
+Makridis, Christos, Do Data Breaches Damage Reputation? Evidence from 45 Companies Between 2002 and 2018 (July 13, 2021). TPRC49: The 49th Research Conference on Communication, Information and Internet Policy, Available at SSRN: https://ssrn.com/abstract=3885960 or http://dx.doi.org/10.2139/ssrn.3885960
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+Ross Anderson , Tyler Moore
+The economics of information security
+Science , volume 314 , issue 5799 , p. 610 - 613 Posted: 2006
+Crossref
+Ross Anderson , Chris Barton , Rainer Bohme , Richard Clayton , Carlos Ganan , Tom Grasso , Michael Levi , Tyler Moore , Stefan Savage , Marie Vasek
+Measuring the changing cost of cybercrime Posted: 2019
+Crossref
+Frederico Belo , Vito D Gala , Juliana Salomao , Maria Ana Vitorino
+Decomposing firm value. Working paper Posted: 2019
+Jonah Berger , Alan T Sorensen , Scott J Rasmussen
+Positive effects of negative publicity: When negative reviews increase sales
+Marketing Science , volume 29 , issue 5 , p. 815 - 827 Posted: 2010
+Crossref
+Load more
+3 Citations
+Guillaume Revillod
+Recruitment Through Ai in Swiss Organizations: The Importance of Organizational, Environmental, and Contextual Factors
+ORGDYN-D-24-00149 · 40 Pages · Posted: 9 May 2024 · Downloads: 89
+Download PDF  Add Paper to My Library
+sandeep suntwal , David Kocis , Morgan M. Shepherd
+Decrypting Data Breaches: An Exploratory Analysis of Cyber Fault Lines Across Industry Sectors and Attack Types
+COSE-D-24-04214 · 54 Pages · Posted: 4 Dec 2024 · Downloads: 108
+Download PDF  Add Paper to My Library
+Md. Shariful Islam , NUSRAT FARAH , Thomas Stafford
+Do Women on the Board Mitigate Cybersecurity Risk?
+CORFIN-D-25-00123 · 1 Pages · Posted: 6 Feb 2025 · Last revised: 23 Mar 2025 · Downloads: 95
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+241
+ABSTRACT VIEWS
+2,192
+RANK
+289,981
+3 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

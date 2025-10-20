@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Conceptual Model for ERP Failure Prediction Using Fuzzy Petri-Nets for Small and Medium Enterprises
+
+European Journal of Scientific Research, Vol. 87, No. 3, pp. 330-338, October, 2012
+
+9 Pages Posted: 13 Dec 2012
+
+Vijayakumar Bharathi
+
+Symbiosis International University - Symbiosis Centre for Information Technology (SCIT); Symbiosis International University - Symbiosis Centre for Information Technology
+
+Dhanya Pramod
+
+Symbiosis International University - Symbiosis Centre for Information Technology
+
+Ramakrishnan Raman
+
+SIBM, Pune - SIU
+
+Date Written: April 30, 2012
+
+Abstract
+
+This paper attempts to identify and evaluate certain critical pitfalls in the planning stage of ERP adoption in Small and Medium Enterprises (SMEs) and develop into a model for evaluating the risk of failure. In the planning stage a set of risks have been identified based on past research work and each of these risks have been explained through a set of well-defined risk factors or pitfalls. The evaluation model based on the concept of Fuzzy Petri Nets (FPN) is proposed in this paper. FPN is used because it is simple and efficient and can quantitatively evaluate the risks inherent in the planning stage of ERP adoption by SMEs.
+
+Keywords: ERP adoption, SMEs, failure prediction, risk, fuzzy petri-nets
+
+JEL Classification: D83, L21, L60, M1, M19, O30, O33
+
+Suggested Citation:
+
+Bharathi, Vijayakumar and Bharathi, Vijayakumar and Pramod, Dhanya and Raman, Ramakrishnan, A Conceptual Model for ERP Failure Prediction Using Fuzzy Petri-Nets for Small and Medium Enterprises (April 30, 2012). European Journal of Scientific Research, Vol. 87, No. 3, pp. 330-338, October, 2012 , Available at SSRN: https://ssrn.com/abstract=2186972
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+A Pasha
+Growing with ERP in the driver's seat Posted: 2007-02
+T H Davenport
+Putting the Enterprise into the Enterprise System
+Harvard Business Review , volume 76 , p. 121 - 133 Posted: 1998
+T H Davenport
+Mission Critical: Realizing the Promise of Enterprise Systems Posted: 2000
+J Scott
+The FoxMeyer Drugs' Bankruptcy: Was it a Failure of ERP?
+Proceedings of AMCIS 1999 Americas Conference on Information Systems , p. 223 - 225 Posted: 1999
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+242
+ABSTRACT VIEWS
+1,812
+RANK
+288,800
+13 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Operations Management eJournal
+
+Follow
+ 
+Recommended Papers
+
+A Comparative Study on the Conceptual and Contextual Perception About CSF for ERP Adoption in the SMEs
+
+By Vijayakumar Bharathi and Shrikant Parikh
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

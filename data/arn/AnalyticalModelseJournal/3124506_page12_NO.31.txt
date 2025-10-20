@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Agency Model Free from the Utility Theory
+
+Accepted and presented in 48th Annual Meeting of the Decision Sciences Institute, Washington DC, 2017.
+
+2017, D. Armani, "An Agency Model Free from the Utility Theory," 48th Annual Meeting of the Decision Sciences Institute, Washington DC. 
+
+48 Pages Posted: 7 Mar 2018 Last revised: 24 Dec 2019
+
+Daniel Armani
+
+McCombs School of Business - University of Texas at Austin; The Eli Broad Graduate School of Management, Michigan State University
+
+Date Written: June 27, 2014
+
+Abstract
+
+In most of the agency literature, risk aversion or dis-utility of effort is necessary to yield a nontrivial problem. While utility theory has been challenged in many studies, this paper aims at examining an alternative source of moral hazard other than risk or effort aversion. Here, the agent is assumed to be risk-neutral and does not incur (different levels of) dis-utility from making decisions. His sole responsibility is to allocate a finite resource to multiple tasks or divisions. The resource has a concave effect on the expected output and the performance of each task, reflecting its diminishing return. Consequently, resource scarcity imposes an ellipsoidal constraint on the expected output levels. The value created and the agent’s payment (contract) both linearly depend on the measurable outputs of the tasks.
+
+
+
+
+We find the optimal linear contracts for different situations using KKT conditions. It shows that information asymmetry does not necessarily induce moral hazard in the absence of other sources of tension. After imposing a limit on salary, we observe that it is not optimal to pay the agent based on his contributed value even if it is measurable from the outputs. The solutions to the complete model debunk the common “incentive alignment” paradigm that the performance-based compensation should be proportional to the value the agent creates. In fact, however measurable the gain is, gain-sharing plans are not optimal. Furthermore, maximizing the principal’s net profit is not equivalent to maximizing the value created.
+
+Keywords: Incentive Mechanisms, Multi-Tasking, Compensation, Quadratic Constraint, Agency Theory, Principal Agent Problem, Agency Conflict, Moral Hazard
+
+JEL Classification: C72, D82, D86, J33, M12
+
+Suggested Citation:
+
+Armani, Daniel, An Agency Model Free from the Utility Theory (June 27, 2014).
+Accepted and presented in 48th Annual Meeting of the Decision Sciences Institute, Washington DC, 2017.
+, 2017, D. Armani, "An Agency Model Free from the Utility Theory," 48th Annual Meeting of the Decision Sciences Institute, Washington DC. , Available at SSRN: https://ssrn.com/abstract=3124506 or http://dx.doi.org/10.2139/ssrn.3124506
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+J; Aaron , M; Harris , William Mcdowell , Brandon Cline
+Optimal CEO Incentive Contracts: A Prospect Theory Explanation
+Journal of Business Strategies , volume 31 , issue 2 , p. 336 - 356 Posted: 2014
+George P Baker
+Incentive Contracts and Performance Measurement
+Journal of Political Economy , volume 100 , issue 3 , p. 598 - 614 Posted: 1992
+Stanley ; Baiman , Fischer , Paul; Rajan , V Madhav , Richard Saouma
+Resource Allocation Auctions with Firms
+Journal of Accounting Research , volume 45 , issue 5 , p. 915 - 946 Posted: 2007
+R D Banker , H Chang , S N Janakiraman , C Konstans
+A Balanced Scorecard Analysis of Performance Metrics
+European Journal of Operational Research , volume 154 , p. 423 - 436 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+131
+ABSTRACT VIEWS
+1,991
+RANK
+502,079
+27 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

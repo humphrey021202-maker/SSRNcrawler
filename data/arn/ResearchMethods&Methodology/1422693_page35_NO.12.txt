@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Combined Algorithm for Detection of Manipulation in Financial Statements
+
+27 Pages Posted: 22 Jun 2009 Last revised: 10 Jul 2009
+
+Igor Pustylnick
+
+Far Eastern Federal University; Conestoga College
+
+Date Written: June 19, 2009
+
+Abstract
+
+This paper identifies several approaches to detection of manipulation in financial statements and creates a combined practical approach, which uses each of the existing algorithms in the complement manner to the others. It also introduces new P-Score formula, which in conjunction with Altman Z-score formula creates new approach to detection of fraud in financial statements of the public companies. It uses data from multiple yearly statements of the company in the sample to monitor manipulation signs. The analysis, conducted on the sample of companies, which were charged with fraud, shows that new P-Score/Z-Score approach gives 82.76% chance of detecting fraud and combined approach gives 96.55% chance of detecting fraud in financial statements, which is a significant improvement over other models. The paper also introduces a finite set of variables, which can be found in the financial statements of the public companies in easy and transparent manner. The ultimate goal of the study is to create a basis for using XBRL based data to detect financial statement fraud automatically.
+
+Keywords: fraud detection, fraud, manipulation, SAS 99, Beneish, Altman, Z-Score, XBRL
+
+JEL Classification: M41, M49, M43, G34
+
+Suggested Citation:
+
+Pustylnick, Igor, Combined Algorithm for Detection of Manipulation in Financial Statements (June 19, 2009). Available at SSRN: https://ssrn.com/abstract=1422693 or http://dx.doi.org/10.2139/ssrn.1422693
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+7 Citations
+Shafiqul Alam , Sumon Kumar Das , Umma Rumman Dipa , Syed Zabid Hossain
+Predicting financial distress through ownership pattern: dynamics of financial resilience of Bangladesh
+Future Business Journal , volume 10 , issue 1 Posted: 2024
+Crossref
+Igor Pustylnick
+Use of Z-Score in Detection of Revenue Manipulations
+21st International Conference on Economics and Management. Brno, Czech Republic (2016) · 8 Pages · Posted: 14 Mar 2015 · Last revised: 16 Jul 2017 · Downloads: 211
+Download PDF  Add Paper to My Library
+Asafo Adjei Anning , Michael Adusei
+An Analysis of Financial Statement Manipulation among Listed Manufacturing and Trading Firms in Ghana
+Journal of African Business , volume 23 , issue 1 , p. 165 Posted: 2022
+Crossref
+Igor Pustylnick
+The Mechanism of Retrieval of Data from XBRL, Its Uses and Potential Enhancements
+17 Pages · Posted: 26 Jul 2013 · Downloads: 230
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,362
+ABSTRACT VIEWS
+4,899
+RANK
+33,461
+7 Citations
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Accrual Reliability, Earnings Persistence and Stock Prices
+
+By Scott A. Richardson, Richard G. Sloan, ...
+
+Accrued Earnings and Growth: Implications for Earnings Persistence and Market Mispricing
+
+By Patricia M. Fairfield, Scott Whisenant, ...
+
+Insider Trading, Earnings Quality, and Accrual Mispricing
+
+By Mark E. Vargus and Messod D. Beneish
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Trade Secrets Protection and Stock Price Crash Risk
+
+The Financial Review 58 (2), 395-421. DOI: https://doi.org/10.1111/fire.12330 
+
+57 Pages Posted: 9 Jun 2020 Last revised: 1 Oct 2025
+
+Dan Hu
+
+University of Massachusetts Lowell
+
+Eunju Lee
+
+University of Massachusetts Lowell
+
+Bingxin Li
+
+West Virginia University; West Virginia University - Department of Finance
+
+Date Written: January 01, 2023
+
+Abstract
+
+This paper provides evidence that the effect of trade secrets protection increases stock price crash risk. Using a quasi-experimental setting with the Uniform Trade Secrets Act (UTSA), we find that firms headquartered in states adopting the UTSA tend to have higher stock price crash risk. The results are robust to controlling for other trade secrets laws and the choice of crash risk measures, and they are more pronounced in small firms and firms with high market-to-book and low leverage ratios. A detailed mechanism analysis reveals that increased crash risk for firms under the UTSA is attributed to higher information asymmetry, low reporting quality, and more negative news withheld following the UTSA. Overall, our results highlight that trade secrets protection leads to the unexpected, negative consequence of elevated stock price crash risk.
+
+Keywords: Trade secrets protection; Uniform Trade Secrets Act; Stock price crash risk; Information asymmetry; Earnings response coefficient; Short interest
+
+JEL Classification: G12, G14, D82
+
+Suggested Citation:
+
+Hu, Dan and Lee, Eunju and Li, Bingxin, Trade Secrets Protection and Stock Price Crash Risk (January 01, 2023). The Financial Review 58 (2), 395-421. DOI: https://doi.org/10.1111/fire.12330 , Available at SSRN: https://ssrn.com/abstract=3600610 or http://dx.doi.org/10.2139/ssrn.3600610
+Download This Paper
+ 
+Open PDF in Browser
+82 References
+M B Abramowicz , J F Duffy
+Intellectual property for market experimentation
+New York University Law Review , volume 83 , p. 337 - 410 Posted: 2008
+M A Al Mamun , B Balachandran , H N Duong
+Powerful CEOs and stock price crash risk Posted: 2019
+A Ali , N Li , W Zhang
+Restrictions on managers' outside employment opportunities and asymmetric disclosure of bad versus good news
+The Accounting Review , volume 94 , issue 5 , p. 1 - 25 Posted: 2018
+D S Almeling , D W Snyder , M Sapoznikow , W E Mccollum , J Weader
+A statistical analysis of trade secret litigation in federal courts
+Gonzaga Law Review , volume 57 , p. 291 - 333 Posted: 2010
+Load more
+3 Citations
+Cara Vansteenkiste
+Informed Acquirers and M&A Outcomes
+51 Pages · Posted: 19 Oct 2018 · Last revised: 7 Mar 2023 · Downloads: 506
+Download PDF  Add Paper to My Library
+Alexander Michaelides , Andreas Milidonis , Vitaliy Ryabinin , Yupana Wiwattanakantang
+The Value of Trade Secrets: Evidence from Economic Espionage
+FEB-RN Research Paper No. 92/2025 · 51 Pages · Posted: 25 Jun 2024 · Last revised: 12 Sep 2025 · Downloads: 197
+Download PDF  Add Paper to My Library
+James Driver , Adam C. Kolasinski , Jared R. Stanfield
+Trade Secrets, Labor Mobility, and Innovation
+99 Pages · Posted: 29 Oct 2024 · Last revised: 2 Sep 2025 · Downloads: 168
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+196
+ABSTRACT VIEWS
+1,612
+RANK
+354,044
+3 Citations
+82 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

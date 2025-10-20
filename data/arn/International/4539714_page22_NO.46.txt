@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Information in Fail-to-Deliver Short Sales: Implications for Research and Regulation
+
+49 Pages Posted: 13 Aug 2023 Last revised: 21 Aug 2023
+
+Harrison Liu
+
+University of Texas at San Antonio - Department of Accounting
+
+Edward P. Swanson
+
+Mays Business School, Texas A&M University
+
+Date Written: August 13, 2023
+
+Abstract
+
+When a short seller sells shares on day t (trade date) but fails to deliver those shares on day t+3 (settlement date), non-existent (electronic) shares are in circulation. Corporate executives and regulators often contend that high “fail-to-deliver” (FTD) levels indicate that short sellers are forcing a company’s stock price down by artificially increasing the number of shares in circulation. This study investigates three sequential research questions relevant to price discovery: Are FTDs information-based? How does the information compare to that in covered short sales (CSS)? Is the information due to stocks that are expensive to borrow (“on special”)? For each research question, we consider two types of information: 1) accounting and market fundamentals used in financial statement analysis and shown to be associated with stock prices, and 2) future returns, which incorporate a broad information set which includes fundamentals. We conduct analyses for two time periods, with different SEC enforcement rules and economic conditions. Our results show that FTDs are information-based, the information exceeds that in CSS, and much of the information is due to stocks on special. Finding that FTDs are more information-based than previously known has important implications for regulating short selling. For researchers, FTDs provide a new source of data to study short sellers’ valuation information, including whether they establish positions in advance of adverse events and the extent to which constraints on their trading limit arbitrage.
+
+Keywords: short selling, accounting fundamental, arbitrage, trading strategies, fails-to-deliver, naked short selling, market regulation
+
+JEL Classification: G1, G14, G23, K22, K41, M14, M43, M45
+
+Suggested Citation:
+
+Liu, Harrison and Swanson, Edward P., The Information in Fail-to-Deliver Short Sales: Implications for Research and Regulation (August 13, 2023). Available at SSRN: https://ssrn.com/abstract=4539714 or http://dx.doi.org/10.2139/ssrn.4539714
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+165
+ABSTRACT VIEWS
+1,866
+RANK
+413,954
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

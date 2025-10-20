@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fragility of the Fragility Index: When Calculation Becomes Impossible
+
+16 Pages Posted: 13 Oct 2025
+
+Thomas F. Heston
+
+University of Washington - School of Medicine; Elson S Floyd College of Medicine, Washington State University
+
+Date Written: October 10, 2025
+
+Abstract
+
+Background: The Fragility Index (FI) may become unattainable under Fisher's exact test constraints in common clinical trial scenarios, including rare events, balanced small samples, and extreme imbalances. Methods: We analyzed 14 representative 2×2 tables spanning rare events, balanced designs, and extreme imbalances, and computed alternative fragility metrics. Results: FI was not attainable in all 14 cases. Risk Quotient (RQ), Percent Fragility Index (PFI), and Relative Risk Index (RRI) computed in 14/14; Robustness Index (RI) in 12/14. Conclusions: FI is not attainable in everyday scenarios. Robust fragility metrics include the RQ, which quantifies distance to therapeutic neutrality on a bounded 0-1 scale, and the PFI, which quantifies the percentage change needed to flip statistical significance.
+
+Keywords: Fragility Index, Percent Fragility Index, Risk Quotient, statistical robustness, clinical trials, methodology limitations, evidence assessment, Fisher's exact test, Robustness Index, p-value sensitivity
+
+Declaration of Interest
+
+No competing interests declared.
+
+Funder Statement
+
+No specific funding received for this work.
+
+Suggested Citation:
+
+Heston, Thomas F, Fragility of the Fragility Index: When Calculation Becomes Impossible (October 10, 2025). Available at SSRN: https://ssrn.com/abstract=5589130 or http://dx.doi.org/10.2139/ssrn.5589130
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+12
+ABSTRACT VIEWS
+53
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+   
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Inhouse Lawyers and the Impact of Crisis-Driven Financial Legislation: Evidence from Sarbanes-Oxley
+
+Northwestern Law & Econ Research Paper No. 23-11
+
+Northwestern Public Law Research Paper No. 23-37
+
+Forthcoming, University of Chicago Legal Forum
+
+26 Pages Posted: 25 Apr 2023 Last revised: 1 Nov 2024
+
+Dhruv Aggarwal
+
+Northwestern University - Pritzker School of Law
+
+Date Written: April 13, 2023
+
+Abstract
+
+The Sarbanes-Oxley Act of 2002 (SOX) entrusted the general counsel (GC) of public companies with overseeing a new system of internal controls and reporting misconduct at their firms. I use a hand-collected dataset tracking the backgrounds of inhouse lawyers to argue that SOX increased the value of “experienced” GCs who had worked at the firm for longer as of 2002. I find that firms with experienced GCs exhibited positive abnormal returns around key legislative dates associated with the passage of SOX. Experienced GCs also saw larger increases in compensation immediately after the passage of SOX. Experienced GCs could be more valuable to the firm since they are: (1). better acquainted with the firm and able to oversee its internal controls, or (2). less independent of senior management and less likely to report misconduct. I find some evidence consistent with the second reason: firms with experienced GCs and larger positive abnormal returns around SOX were more likely to face credible securities class action lawsuits in the years after the legislation passed.
+
+ 
+
+This paper’s findings raise two important questions about the role of inhouse lawyers and firms’ compliance apparatus in evaluating the impact of major financial legislation. First, compliance with crisis-driven financial legislation may depend on the firm-specific capital accrued by GCs and other personnel situated within the company. In dealing with the fallout from financial disasters, top-down legislative measures ought to account for firm-specific executive dynamics. Second, an employee’s possession of firm-specific capital could be a double-edged sword. While firm-specific capital may allow workers to understand a firm’s culture and business model, it could also allow them to turn a blind eye toward misconduct in their workplace.
+
+Keywords: Corporate Governance, Corporate misconduct, Executive compensation, Sarbanes-Oxley
+
+JEL Classification: G38, K22, K42, M12, M52
+
+Suggested Citation:
+
+Aggarwal, Dhruv, Inhouse Lawyers and the Impact of Crisis-Driven Financial Legislation: Evidence from Sarbanes-Oxley (April 13, 2023). Northwestern Law & Econ Research Paper No. 23-11, Northwestern Public Law Research Paper No. 23-37, Forthcoming, University of Chicago Legal Forum, Available at SSRN: https://ssrn.com/abstract=4417579 or http://dx.doi.org/10.2139/ssrn.4417579
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+While the chief financial officer (CFO) is the corporate executive most associated with the internal controls under SOX §404, industry commentators and law firms have noted the significant role of the GC in ensuring the
+See Deborah , A Demott
+The Discrete Roles of General Counsel, 74 FORDHAM L Posted: 2005
+Benjamin W Heineman
+THE INSIDE COUNSEL REVOLUTION: RESOLVING THE PARTNER-GUARDIAN TENSION Posted: 2016
+D I Veasey , Guglielmo
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+133
+ABSTRACT VIEWS
+934
+RANK
+495,993
+12 References
+PlumX Metrics
+Related eJournals
+
+Northwestern University Pritzker School of Law, Public Law & Legal Theory Research Paper Series
+
+Follow
+
+Northwestern University Pritzker School of Law, Law & Economics Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

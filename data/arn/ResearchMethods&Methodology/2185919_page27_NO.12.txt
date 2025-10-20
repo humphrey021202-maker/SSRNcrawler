@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Finding Rules for Audit Opinions Prediction Through Data Mining Methods
+
+9 Pages Posted: 8 Dec 2012
+
+Seyed Mojtaba Saif
+
+Islamic Azad University, Safashahr, Iran - Department of Computer, Safashahr Branch
+
+Mehdi Sarikhani
+
+Department of Accounting, Safashahr Branch, Islamic Azad University, Safashahr, Iran.
+
+Fahime Ebrahimi
+
+Islamic Azad University, Safashahr, Iran - Department of Accounting, Safashahr Branch
+
+Date Written: October 13, 2012
+
+Abstract
+
+Nowadays data mining, which is used in various accounting and financial applications, has received a great deal of attention. One of these applications is predicting and identifying the audit opinion type. The objective of research is to help auditors identify audit opinions by using a support vector machine from data mining methods. The system receives the data from financial reports and identifies the type of audit opinions. This approach combine support vector machine with a decision tree that can understand and interpret the obtained results. In this paper, a novel approach for rule extraction from support vector machine and decision tree is presented and its application is shown in the prediction of audit opinions. The research result is 30 rules that predict the audit opinions.
+
+Keywords: Audit opinions, data mining, support vector machine, artificial neural networks, decision tree
+
+Suggested Citation:
+
+Saif, Seyed Mojtaba and Sarikhani, Mehdi and Ebrahimi, Fahime, Finding Rules for Audit Opinions Prediction Through Data Mining Methods (October 13, 2012). Available at SSRN: https://ssrn.com/abstract=2185919 or http://dx.doi.org/10.2139/ssrn.2185919
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+References Beasley , S M Carcello , J V Hermanson , D R
+Fraudulent financial reporting: 1987-1997: an analysis of US public companies Posted: 1999
+T Bell , R Tabor
+Empirical analysis of audit uncertainty qualifications
+Journal of Accounting Research , volume 29 , p. 350 - 370 Posted: 1991
+Crossref
+M Bonneville , J Meunier , Y Bengio , J P Soucy
+Support vector machines for improving the classification of brain PET images
+Proceedings of the SPIE medical imaging symposium , volume 3338 , p. 264 - 273 Posted: 1998
+Crossref
+C J C Burges
+SA tutorial on support vector machines for pattern recognition
+Data Mining and knowledge , volume 2 , issue 2 , p. 121 - 167 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+345
+ABSTRACT VIEWS
+1,786
+RANK
+198,863
+5 Citations
+24 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Ethics eJournal
+
+Follow
+ 
+Recommended Papers
+
+More than a Dummy: The Probability of Failure, Survival and Acquisition of Firms in Financial Distress
+
+By Thomas B. Astebro and Joachim K. Winter
+
+Takeover Likelihood Models for UK Quoted Companies
+
+By Robin Nuttall
+
+An Empirical Analysis of the Effects of the Threat of Takeover on UK Company Performance
+
+By Robin Nuttall
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

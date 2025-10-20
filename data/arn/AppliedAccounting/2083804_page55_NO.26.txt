@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Effectively Curbing the GST Exemption for Perpetual Trusts
+
+Tax Notes, Vol. 135, No. 10, June 2012
+
+U of Michigan Law & Econ Research Paper No. 12-007
+
+U of Michigan Public Law Working Paper No. 274
+
+The Shelf Project
+
+7 Pages Posted: 13 Jun 2012 Last revised: 7 Jul 2012
+
+Lawrence W. Waggoner
+
+University of Michigan Law School
+
+Date Written: June 4, 2012
+
+Abstract
+
+Current law allows a married couple to transfer up to $10.24 million into a trust that is exempt from the federal generation-skipping transfer tax. Congress did not impose a federal durational limit on trusts that qualify for the GST exemption, relying instead on state perpetuity laws that limited the life of the trust. The absence of a durational limit on the GST exemption provided an incentive for banks and the estate-planning bar to lobby their state legislatures to pass legislation allowing trusts to last forever or for several centuries. The lobbying efforts proved successful in many states. The result is that the wealthy are creating trusts in significant numbers that will be GST-exempt for much longer than Congress originally intended. As part of the Obama Administration’s Fiscal Year 2013 revenue proposals, the Treasury Department stated its position that the absence of a durational limit on the GST exemption is inconsistent with the purpose of the exemption and undermines the policy of the GST tax, but its proposed solution would leave many trusts and much wealth GST-exempt for much longer than Congress originally intended. For perpetual trusts created before enactment, the Treasury Proposal would allow them to continue to be unburdened by a durational limit. For perpetual trusts created after the effective date of enactment, the Treasury Proposal would still allow them to qualify for the GST exemption, but would have the exemption expire ninety years after the trust was created.
+
+In this essay, the author advances a solution that would be far more effective than the Treasury Proposal. For new trusts, my proposal would deny the GST exemption ab initio, unless the trust must terminate within one of three perpetuity periods: (1) 21 years after the death of a life in being; (2) 90 years after creation; or (3) the death of the last living beneficiary who is no more than two generations younger than the settlor. For existing trusts, my proposal would allow a grace period during which the trusts can be modified to terminate within the allowed period, but absent modification, the trusts would lose their GST exemption at the end of the grace period. The solution the author advances is consistent with the original intent of the GST exemption, for it would truly end the perpetual-trust movement and its associated perpetual GST exemption for both new and existing trusts.
+
+Keywords: trusts, GST exemption, generation-skipping transfer tax, time limits, perpetual-trust, perpetuity laws
+
+JEL Classification: K34, H24
+
+Suggested Citation:
+
+Waggoner, Lawrence W., Effectively Curbing the GST Exemption for Perpetual Trusts (June 4, 2012). Tax Notes, Vol. 135, No. 10, June 2012, U of Michigan Law & Econ Research Paper No. 12-007, U of Michigan Public Law Working Paper No. 274, The Shelf Project, Available at SSRN: https://ssrn.com/abstract=2083804
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+241
+ABSTRACT VIEWS
+2,354
+RANK
+290,067
+PlumX Metrics
+Related eJournals
+
+University of Michigan Law School, Law & Economics Research Paper Series
+
+Follow
+
+University of Michigan Law School, Public Law & Legal Theory Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

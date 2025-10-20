@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Effect of Mandatory IFRS Adoption on Accounting-Based Prediction Models for CDS Spreads
+
+46 Pages Posted: 2 Jun 2014 Last revised: 28 May 2017
+
+Pepa Kraft
+
+HEC Paris
+
+Wayne R. Landsman
+
+University of North Carolina Kenan-Flagler Business School
+
+There are 2 versions of this paper
+
+Date Written: May 26, 2017
+
+Abstract
+
+This study examines the effects of mandatory IFRS adoption on accounting-based prediction models for CDS spreads for a sample of 357 firms in 16 IFRS-adopting countries. We do this by estimating accounting-based prediction models for CDS spreads separately for financial and non-financial firms before and after mandatory IFRS adoption. We find that mean and median absolute percentage prediction errors are larger for both financial and non-financial firms after mandatory IFRS adoption. We also estimate accounting-based prediction models for CDS spreads separately for financial and non-financial US firms before and after mandatory IFRS adoption to obtain prediction errors serve that as a benchmark. Although US firms also exhibit an increase in mean and median absolute percentage prediction errors over the same period, findings from regressions using a difference-in-difference design indicate that the increase is significantly greater for firms in countries that adopted IFRS mandatorily. We also find that in the post-adoption period, prediction errors are larger for firms in countries with low levels of and decreases in legal and regulatory quality.
+
+Keywords: IFRS, credit markets
+
+JEL Classification: M40
+
+Suggested Citation:
+
+Kraft, Pepa and Landsman, Wayne R., Effect of Mandatory IFRS Adoption on Accounting-Based Prediction Models for CDS Spreads (May 26, 2017). Available at SSRN: https://ssrn.com/abstract=2444274 or http://dx.doi.org/10.2139/ssrn.2444274
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+A S Ahmed , M Neel , D Wang
+Does mandatory adoption of IFRS improve accounting quality? Preliminary evidence
+Contemporary Accounting Research , volume 30 , issue 4 , p. 1344 - 1372 Posted: 2013
+Crossref
+E I Altman
+Financial ratios, discriminant analysis and the prediction of corporate bankruptcy
+The Journal of Finance , volume 23 , issue 4 , p. 589 - 609 Posted: 1968
+Crossref
+Sandro C. Andrade , Elaine Henry , Dhananjay Nanda
+The Impact of Operating Leases and Purchase Obligations on Credit Market Prices
+Pages: 50 Posted: 10 Oct 2011 Last revised: 25 May 2016
+Download PDF  Add Paper to My Library
+C S Armstrong , M E Barth , A D Jagolinzer , E J
+Market reaction to the adoption of IFRS in Europe
+The Accounting Review , volume 85 , issue 1 , p. 31 - 61 Posted: 2010
+Crossref
+Load more
+9 Citations
+Gauri Bhat , Jeffrey L. Callen , Dan Segal
+Testing the Transparency Implications of Mandatory IFRS Adoption: The Spread/Maturity Relation of Credit Default Swaps
+Management Science , volume 62 , issue 12 , p. 3472 Posted: 2016
+Crossref
+Emmanuel T. De George , Xi Li , Lakshmanan Shivakumar
+A Review of the IFRS Adoption Literature
+Review of Accounting Studies, Forthcoming · 118 Pages · Posted: 24 Sep 2015 · Last revised: 29 May 2016 · Downloads: 3,517
+Download PDF  Add Paper to My Library
+Steve Lin
+Discussion of The Effects of Financial Reporting on Bank Loan Contracting in Global Markets: Evidence from Mandatory IFRS Adoption
+Journal of International Accounting Research , volume 14 , issue 2 , p. 83 Posted: 2015
+Crossref
+Emmanuel T. De George , Xi Li , Lakshmanan Shivakumar
+A review of the IFRS adoption literature
+Review of Accounting Studies , volume 21 , issue 3 , p. 898 Posted: 2016
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+422
+ABSTRACT VIEWS
+3,608
+RANK
+120,303
+9 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

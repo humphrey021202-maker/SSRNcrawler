@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Charitable Subsidies and Nonprofit Governance: Comparing the Charitable Deduction with the Exemption for Endowment Income
+
+Columbia Law and Economics Working Paper No. 558
+
+52 Pages Posted: 15 Feb 2017 Last revised: 5 Jun 2018
+
+David M. Schizer
+
+Columbia University - Law School
+
+Date Written: May 21, 2017
+
+Abstract
+
+Charitable subsidies are supposed to encourage positive externalities from charity. In principle, the government can pursue this goal by evaluating specific charitable initiatives and deciding how much each should receive. But this Article focuses on two income tax rules that leave the government very little discretion about which charities to fund: the deduction for donations to charity (“the deduction”) and the exemption of a charity’s investment income (“the exemption”). Under each rule, as long as charities satisfy very general criteria, federal dollars flow automatically. While both of these sibling subsidies delegate key decisions to private individuals, they create very different incentives and effects. This Article breaks new ground by showing their different effects on the governance of nonprofits.
+
+Specifically, the deduction has three advantages over the exemption. First, the deduction uses a more reliable test for determining whether a charity should receive government funding: a charity has to attract donations, which means donors believe in the charity. For the exemption, by contrast, the charity has to run a surplus, which is less dependable evidence of social value. Second, the deduction empowers donors to monitor nonprofit managers, while the exemption sometimes undercuts this monitoring. Since the exemption offers tax-free returns only to charities, and not to donors, it encourages donors to turn over assets to charities (“endowment gifts”), instead of keeping these assets and making annual gifts of the investment return (“spendable gifts”). If a donor gives an endowment to an operating charity, such as a university or a museum, she cannot redirect this money to another charity, even if she later develops doubts about the charity’s mission or management. Alternatively, if a donor gives the endowment to a grant-making charity that she can influence, such as a private foundation or a donor advised fund, she avoids committing to a particular operating charity, but she is likely to incur other costs, such as taxes, managerial fees, and agency costs (e.g., when managers disregard donor preferences in making grants). Third, in favoring endowments, the exemption exacerbates another familiar governance problem: cumbersome or stale limits on endowments.
+
+These governance issues are an important, but largely overlooked, reason to favor the deduction over the exemption. Yet although scaling back the exemption solves one set of problems, it creates another: charities would begin making tax-motivated saving and investment decisions. In deciding how much of the subsidy for charities should be delivered through the exemption, as opposed to the deduction, Congress needs to manage this tradeoff. This Article explores various ways to do so.
+
+Keywords: charitable subsidies, charitable deduction, exemption of endowment returns, nonprofit governance, income tax, agency costs, endowment restrictions, non-profit, governance, deduction, exemption, charity, endowment
+
+Suggested Citation:
+
+Schizer, David M., Charitable Subsidies and Nonprofit Governance: Comparing the Charitable Deduction with the Exemption for Endowment Income (May 21, 2017). Columbia Law and Economics Working Paper No. 558, Available at SSRN: https://ssrn.com/abstract=2916882 or http://dx.doi.org/10.2139/ssrn.2916882
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+At the same time, when extremely wealthy donors help upper middle-income beneficiaries, distributional goals are advanced, at least to an extent. To make a reliable judgment about the distributional impact of charity, then, we need to know the source of the funds. Does endowment income tend to come from wealthier people than donations? Once again, a generalization on this issue is not easy. On one hand, donors who give endowments are likely to be wealthier
+degree of redistribution from charity (and thus from the charitable subsidies that encourage it) depends not only on the beneficiary, but also on the donor
+Andreoni , Philanthropy
+Crossref
+Charities with large endowments are likely to outcompete other charities. For example, some critics argue that this inequality can lead to overconcentration of talent in small number of universities
+The Great American University , volume 483 Posted: 2009
+because she can use the subsidy to get to her "target" contribution), the donor, rather than the beneficiary, is helped by the subsidy. Yet the evidence suggests that subsidies do not usually
+Likewise, if a subsidy allows a donor to reduce her giving
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+200
+ABSTRACT VIEWS
+2,299
+RANK
+347,495
+9 References
+PlumX Metrics
+Related eJournals
+
+Columbia Law School, Law & Economics Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

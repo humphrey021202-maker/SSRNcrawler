@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bank Sustainability Characteristics, Bank-Based Climate Change Initiatives and Financial Performance: The Role of Corporate Governance Mechanisms
+
+79 Pages Posted: 21 Dec 2023
+
+douglas adu
+
+affiliation not provided to SSRN
+
+Mohammad Zoynul Abedin
+
+Teesside University
+
+Vida Yamoah Saa
+
+affiliation not provided to SSRN
+
+Frank Boateng
+
+University of Mines and Technology
+
+Abstract
+
+This study elucidates the interrelationships among corporate governance disclosure index (CGDI), bank sustainability characteristics (BSCs), bank-based climate change initiatives (BCCIs) and financial performance (FP) through the lens of multi-theoretical framework. Based on a panel dataset of 2785 observations (220 banks) from 16 Sub-Saharan African countries between 2007 and 2022, we observe that bank sustainability reporting framework (BSRF) and board sustainability committee (BSCOM) are positively related to increased levels of BCCIs. Second, the study shows that the BSRF-BCCIs and BSCOM-BCCIs associations are positively moderated by CGDI, indicating that these relationships are contingent on the quality of the bank's corporate governance mechanisms. Third, the study then provides evidence that BSCOM is positively related to FP, but BSRF has no effect on FP. Fourth, we also observe that BCCIs disclosure has positive impact on FP, but actual BCCIs investments do not seem to improve FP. Fifth, the study detects that the association between BCCIs and FP is significantly moderated by CG mechanisms. We identify CG disclosure as the possible channel through which BCCIs and FP are interlinked. Finally, we show that the predicted relationships vary across banks’ operating periods. Our findings are robust to endogeneity and selection bias concerns.
+
+Keywords: Corporate governance, sustainability reporting, board sustainability committees, climate change initiatives, financial performance
+
+Suggested Citation:
+
+adu, douglas and Abedin, Mohammad Zoynul and Saa, Vida Yamoah and Boateng, Frank, Bank Sustainability Characteristics, Bank-Based Climate Change Initiatives and Financial Performance: The Role of Corporate Governance Mechanisms. Available at SSRN: https://ssrn.com/abstract=4671638 or http://dx.doi.org/10.2139/ssrn.4671638
+Download This Paper
+ 
+Open PDF in Browser
+95 References
+T Abdelfattah , A Aboud
+Tax avoidance, corporate governance, and corporate social responsibility: The case of the Egyptian capital market
+Journal of International Accounting, Auditing and Taxation , volume 38 Posted: 2020
+D A Adu
+Sustainable banking initiatives, environmental disclosure and financial performance: The moderating impact of corporate governance mechanisms
+Business Strategy and the Environment , volume 31 , issue 5 , p. 2365 - 2399 Posted: 2022
+D A Adu , B Al-Najjar , T Sitthipongpanich
+Executive compensation, environmental performance, and sustainable banking: The moderating effect of governance mechanisms
+Business Strategy and the Environment , volume 31 , issue 4 , p. 1439 - 1463 Posted: 2022
+D A Adu , A Flynn , C Grey
+Executive compensation and sustainable business practices: The moderating role of sustainability-based compensation
+Business strategy and the environment , volume 31 , issue 3 , p. 698 - 736 Posted: 2022
+Load more
+2 Citations
+Amir Karbassi Yazdi , Yong Aaron Tan , Antônio Mamede , Peter Wanke , David Roubaud , Emilios C. Galariotis
+A Hybrid Second-Order Cone Programming and Multi-Criteria Decision-Making Approach for Cost-Benefit Analysis in Global Banking
+ESWA-D-24-22324 · 40 Pages · Posted: 20 Dec 2024 · Downloads: 42
+Download PDF  Add Paper to My Library
+Abdurohim Abdurohim , Novie Susyani
+Inovasi Terbuka Dalam Perbankan Berkelanjutan: Pendekatan Metode Campuran Untuk Mengevaluasi Transformasi Digital Dan Integrasi Ekonomi Hijau-Biru Di Indonesia
+DIGBUS-D-25-00071 · 39 Pages · Posted: 5 Mar 2025 · Downloads: 101
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+56
+ABSTRACT VIEWS
+489
+RANK
+872,402
+2 Citations
+95 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

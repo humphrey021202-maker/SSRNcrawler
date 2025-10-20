@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Scalar Conception of Tax Residence for Individuals
+
+41 Virginia Tax Review 149 (2020)
+
+54 Pages Posted: 22 Jul 2021 Last revised: 28 Nov 2022
+
+David Elkins
+
+Netanya College School of Law
+
+Date Written: July 20, 2021
+
+Abstract
+
+Residence is one of the fundamental concepts in international taxation. As a rule, residents are taxed on their worldwide income while nonresidents are taxed only on their domestic-source income. The criteria for residence vary from country to country. Some countries look to physical presence. Other rely upon more obtuse concepts such as domicile, permanent home, ordinary residence, habitual abode, connections, or ties. Many countries use a variety of tests. Tax treaties typically employ a series of tie-breaking provisions to determine residency when each of the two signatories views an individual as a resident in accordance with its own domestic rules.
+
+Despite the wide variety of tests for determining individual residence, all share a common underlying premise, namely that residence is a binary attribute. An individual either is or is not a resident. There are no shades of grey. An individual who barely satisfies the relevant test is classified as a resident, while an individual who just fails to do so is classified as a nonresident.
+
+This structure is not normatively justifiable. The most persuasive explanation for the disparate tax treatment of residents and nonresidents is that from the perspective of distributive justice, individuals have qualitatively different rights and obligations vis-à-vis other members of the society to which they belong than they have vis-à-vis others. However, it is difficult to defend the proposition that, for those on the margin, an infinitesimally small change in circumstance could affect such a significant change in moral obligations. It is more reasonable to posit that the intensity of these rights and obligations varies along a continuum: that the closer one’s connection to a country, the more intense are one’s societal rights and obligations. An alternative explanation for the disparate tax treatment of residents and nonresidents is that the former benefit from government services in a manner in which the latter do not. This explanation, too, cannot ground a binary conception of residence. Presumably individuals who maintain varying degrees of connection with a country will procure varying degrees of benefit from public expenditures.
+
+The thesis of this Article is that residence should be viewed on a continuum, from complete absence of association with a particular country on the one extreme to exclusive association (that is, lack of association with any other country) on the other. The extent to which an individual is subject to tax on foreign-source income should be a function of that individual’s degree of connectedness to the country, in accordance with whatever criteria the country concerned considers relevant. Thus, where residency is determined by physical presence, the more days an individual is physically present in the country during the tax year (or during a succession of tax years), the greater the tax burden that would be imposed on that individual’s foreign-source income.
+
+As opposed to the current binary definition, a scalar conception of individual residence would more accurately represent real-world connections between individuals and countries, would better accord with the principle of horizontal equity, and would be less manipulable. After making the normative and practical case for a scalar conception of residence, the Article goes on to address a number of possible challenges to its adoption. It also considers the role of citizenship as a determinant of subjectivity to taxation. It argues that in the current context citizenship and residence are commensurable values and that the tax law should assign each an appropriate weight when determining the extent of an individual’s association with the country.
+
+Keywords: taxation, international taxation, residence
+
+JEL Classification: K34
+
+Suggested Citation:
+
+Elkins, David, A Scalar Conception of Tax Residence for Individuals (July 20, 2021). 41 Virginia Tax Review 149 (2020), Available at SSRN: https://ssrn.com/abstract=3889245 or http://dx.doi.org/10.2139/ssrn.3889245
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+366
+ABSTRACT VIEWS
+1,347
+RANK
+186,369
+2 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law: International & Comparative Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The LIBOR-SOFR Transition and the Use of Financial Covenants
+
+HKUST Business School Research Paper No. 2025-228
+
+49 Pages Posted: 14 Aug 2025 Last revised: 9 Sep 2025
+
+Fred Asante
+
+Cornell University
+
+Arthur Morris
+
+Hong Kong University of Science & Technology (HKUST) - Department of Accounting
+
+John Donovan
+
+University of Notre Dame - Department of Accountancy
+
+Date Written: May 06, 2025
+
+Abstract
+
+Most credit agreements specify interest rates relative to a base rate, which allows interest payments to adjust to market conditions without the need to renegotiate the contract. The London Interbank Offered Rate (LIBOR) was the standard base rate, until a combination of changes in the credit market and high-profile scandals led central banks around the world to develop alternatives and between 2021 and 2023 U.S. credit markets transitioned to Secured Overnight Financing Rate (SOFR). The LIBOR-SOFR transition directly impacted lenders' ability to price credit risk. We explore how debt contract terms are used to manage this transition. To do this we, first, construct a loan path panel from the set of loans issued with LIBOR base rates and compare changes in the terms of loans that adopt SOFR after origination to those that do not. Here we find that loans that transition from LIBOR to SOFR use more financial covenants, and that this increase is driven by performance, rather than capital, covenants. Next, we compare changes in the terms of loans that transition from LIBOR to SOFR to those that are issued with a SOFR base rate. In this setting we find a similar association between financial covenant use and SOFR adoption. When we estimate the dynamic effects of switching to SOFR rather than remaining with LIBOR, we find that the increase in covenant use is limited to the two years after the switch, suggesting that the uncertainty being managed with these contract terms is transient. We believe that this analysis presents two unique insights. First, this is evidence on how markets use non-price mechanisms to manage uncertainty inherent to the transition. Second, this expands the focus of the literature from it's focus on spreads to include the entire debt contract.
+
+Keywords: Credit spreads, Reference rate, Debt contracting, LIBOR, SOFR
+
+Suggested Citation:
+
+Asante, Fred and Morris, Arthur and Donovan, John, The LIBOR-SOFR Transition and the Use of Financial Covenants (May 06, 2025). HKUST Business School Research Paper No. 2025-228, Available at SSRN: https://ssrn.com/abstract=5389579 or http://dx.doi.org/10.2139/ssrn.5389579
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+P Aghion , P Bolton
+An incomplete contracts approach to financial contracting
+The Review of Economic Studies , volume 59 , p. 473 - 494 Posted: 1992
+J D Angrist , J S Pischke
+Mostly harmless econometrics: An empiricist's companion Posted: 2008
+Arrc
+The arrc selects a broad repo rate as its recommended alternative reference rate
+Second report of the alternative reference rates committee , p. 2025 - 2027 Posted: 2017
+Arrc
+Arrc recommendations regarding more robust fallback language for new originations of libor syndicated loans , p. 2025 - 2027 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+62
+ABSTRACT VIEWS
+372
+RANK
+826,677
+29 References
+PlumX Metrics
+Related eJournals
+
+HKUST Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

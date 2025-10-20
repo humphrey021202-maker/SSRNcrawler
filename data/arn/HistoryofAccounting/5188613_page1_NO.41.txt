@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Recognition Reduce Pollution? Evidence from Environmental Remediation Liabilities
+
+51 Pages Posted: 16 Apr 2025 Last revised: 2 Oct 2025
+
+Sara Malik
+
+University of Utah - David Eccles School of Business
+
+Edward Owens
+
+University of Utah - David Eccles School of Business
+
+Date Written: March 21, 2025
+
+Abstract
+
+We examine the effects of recognizing environmental remediation liabilities in financial statements on firms' pollutant output when the firms' detailed pollutant data is already publicly available. Since 1986, industrial facilities in the U.S. have reported to the EPA, by chemical compound, the amount of toxins released into the environment. In 1996, the AICPA released Statements of Position 96-1, which led some firms to increase the recognition of environmental remediation liabilities associated with the released toxins. We find that facilities most impacted by SOP 96-1 reduce total onsite emissions by 28% in the years after the SOP adoption. Emission reduction is most pronounced for ground pollution, and evidence suggests that facilities reduce emissions through waste management processes rather than abatement activities. Firms most affected by SOP 96-1 experience abnormal negative stock market returns and a decrease in bidask spread when the additional liabilities are recognized in their 10-K filings, consistent with market discipline facilitated by reduced information asymmetry. Overall, our study highlights a role for recognition of pollution-related liabilities in reducing pollution.
+
+Keywords: recognition, pollution, environmental remediation liabilities, SOP 96-1
+
+JEL Classification: G14, M14, M41, M48, Q53
+
+Suggested Citation:
+
+Cui, Simon and Malik, Sara and Owens, Edward, Does Recognition Reduce Pollution? Evidence from Environmental Remediation Liabilities (March 21, 2025). Available at SSRN: https://ssrn.com/abstract=5188613 or http://dx.doi.org/10.2139/ssrn.5188613
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+C Ai , E Norton
+Interaction terms in logit and probit models
+Economics Letters , volume 80 , p. 123 - 129 Posted: 2003
+P Akey , I Appel
+The limits of limited liability: Evidence from industrial pollution
+Journal of Finance , volume 76 , issue 1 , p. 5 - 55 Posted: 2021
+M E Barth , M F Mcnichols
+Estimation and market valuation of environmental liabilities relating to superfund sites
+Journal of Accounting Research , volume 32 , p. 177 - 209 Posted: 1994
+M E Barth , G Clinch , T Shibano
+Market effects of recognition and disclosure
+Journal of Accounting Research , volume 41 , issue 4 , p. 581 - 609 Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+125
+ABSTRACT VIEWS
+590
+RANK
+521,427
+35 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

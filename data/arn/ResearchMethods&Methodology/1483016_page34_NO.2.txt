@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Cash Flow on Investment: An Empirical Test of the Balance Sheet Channel
+
+Sveriges Riksbank Research Paper Series No. 59
+
+Sveriges Riksbank Working Paper Series No. 228
+
+38 Pages Posted: 12 Oct 2009
+
+Ola Melander
+
+Stockholm School of Economics
+
+Date Written: April 1, 2009
+
+Abstract
+
+This paper tests the balance sheet theory, where the status of balance sheets affects the economy's response to monetary and other shocks. The theory predicts a positive effect of cash flow on investment, given fundamental determinants of investment. I use an empirical method developed by Gilchrist and Himmelberg (1995, 1999), which has previously only been used to study very large, publicly traded firms. In contrast, this paper uses a large Swedish data set with many smaller firms, where balance sheet effects are likely to be especially important. I find that a firm's cash flow has a positive impact on its investment, controlling for any information in cash flow about investment opportunities. As predicted by the balance sheet channel, the estimated effect of cash flow on investment is especially large for firms which, a priori, are more likely to be financially constrained (low-dividend, small and non-group firms). Moreover, the investment-cash flow sensitivity is significantly larger and more persistent during the first half of the sample period, which includes a severe banking crisis and recession, than during the second half.
+
+Keywords: financial frictions, balance sheet channel, financial accelerator, investment, cash flow
+
+JEL Classification: C33, E22, E44, E55
+
+Suggested Citation:
+
+Melander, Ola, The Effect of Cash Flow on Investment: An Empirical Test of the Balance Sheet Channel (April 1, 2009). Sveriges Riksbank Research Paper Series No. 59, Sveriges Riksbank Working Paper Series No. 228, Available at SSRN: https://ssrn.com/abstract=1483016 or http://dx.doi.org/10.2139/ssrn.1483016
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+M Arellano , O Bover
+Another Look at the Instrumental Variable Estimation of Error-Components Models
+Journal of Econometrics , volume 68 , issue 1 , p. 29 - 51 Posted: 1995
+Crossref
+B S Bernanke , M Gertler , S G Gilchrist
+The Financial Accelerator in a Quantitative Business Cycle Framework
+Handbook of Macroeconomics , p. 1341 - 1393 Posted: 1999
+Crossref
+O J Blanchard , C Rhee , L H Summers
+The Stock Market, Pro…t, and Investment , volume 108 , p. 115 - 136 Posted: 1993
+Crossref
+S Bond , C Meghir
+Dynamic Investment Models and the Firm's Financial Policy
+Review of Economic Studies , volume 61 , issue 2 , p. 197 - 222 Posted: 1994
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+556
+ABSTRACT VIEWS
+3,852
+RANK
+113,793
+4 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Rent-sharing, Holdup, and Wages: Evidence from Matched Panel Data
+
+By David Card, Francesco Devicienti, ...
+
+Rent-Sharing, Hold-Up, and Wages: Evidence from Matched Panel Data
+
+By David Card, Francesco Devicienti, ...
+
+Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority
+
+By Patrick Kline and Enrico Moretti
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

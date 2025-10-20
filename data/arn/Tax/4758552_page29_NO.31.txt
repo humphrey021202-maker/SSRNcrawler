@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Taxation with Incomplete Markets–An Exploration Via Reinforcement Learning
+
+44 Pages Posted: 13 Mar 2024
+
+Zhigang Feng
+
+University of Nebraska at Omaha
+
+Jiequn Han
+
+Flatiron Institute
+
+Shenghao Zhu
+
+University of International Business and Economics (UIBE)
+
+Abstract
+
+In this paper, we delve into the optimal taxation, government debt/asset management, and price volatility in economies with incomplete markets. Employing a quasi-linear pref- erence framework, we find that any finite level of government asset is sustainable, and the derivative of the value function behaves as a martingale, exhibiting no convergence. However, when taxes or assets are bounded, the asset accumulation process assumes an ergodic nature, even as government expenditure adheres to a Markov process. Moreover, we demonstrate that the well-known Martingale convergence result in existing literature is attributed to a weak precautionary savings motive by the government. Conversely, with a sufficiently strong precautionary savings motive, the asset accumulation process regains its ergodic characteris- tics. Additionally, we introduce a computational method based on machine learning to solve the equilibrium set of endogenous state variables, policy, and value functions. Our numerical simulations reveal that optimal taxation and government debt/asset management are closely intertwined, exerting substantial influence on asset pricing.
+
+Keywords: Ramsey Taxation, Asset Pricing, Debt Management, Deep Neural Network, Reinforcement Learning.
+
+Suggested Citation:
+
+Feng, Zhigang and Han, Jiequn and Zhu, Shenghao, Optimal Taxation with Incomplete Markets–An Exploration Via Reinforcement Learning. Available at SSRN: https://ssrn.com/abstract=4758552 or http://dx.doi.org/10.2139/ssrn.4758552
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+D Abreu , D Pearce , E Stacchetti
+Toward a Theory of Discounted Repeated Games with Imperfect Monitoring
+Econometrica , volume 58 , p. 1041 - 1063 Posted: 1990
+S R Aiyagari , A Marcet , T J Sargent , J Seppala
+Optimal Taxation without State-Contingent Debt
+Journal of Political Economy , volume 110 , p. 1220 - 1254 Posted: 2002
+R J Barro
+On the Determination of the Public Debt
+Journal of Political Economy , volume 87 , p. 940 - 971 Posted: 1979
+A Barron
+Universal approximation bounds for superpositions of a sigmoidal function
+IEEE Transactions on Information Theory , volume 39 , p. 930 - 945 Posted: 1993
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+103
+ABSTRACT VIEWS
+496
+RANK
+605,632
+21 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

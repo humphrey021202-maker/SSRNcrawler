@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Auditor-Provided Tax Services Impair Auditor Independence or Generate Knowledge Spillover? Evidence from the Tax Cuts and Jobs Act of 2017
+
+58 Pages Posted: 5 Jul 2023 Last revised: 19 May 2024
+
+Bo Ren
+
+The University of Illinois at Urbana-Champaign
+
+Date Written: July 31, 2022
+
+Abstract
+
+Regulators increasingly express concerns over auditor-provided tax services (APTS) because accounting firms have increasingly relied on the sales from APTS and have expanded their tax advisory services (e.g., tax structuring services) in recent years, raising new regulatory concerns about compromised auditor independence. To date, research on the impact of APTS on auditor independence has yielded mixed results, possibly due to endogeneity issues, providing no clear guidance to regulators. I leverage the Tax Cuts and Jobs Act of 2017 (TCJA), which resulted in an unexpected shock to tax complexity that increased the demand for APTS by multinational firms, and a difference-in-differences research design to provide new insight into this relation. I document that multinational firms most likely affected by the TCJA have a significant increase in APTS fees and audit quality after the enactment of the TCJA. The effect is concentrated in clients that are more complex and in restatement types that are likely to be associated with the knowledge spillover, suggesting knowledge spillover is a potential channel for APTS to affect audit quality.
+
+Keywords: Non-Audit Services, Auditor-Provided Tax Services, Audit Quality, TCJA.
+
+JEL Classification: M41, M42, M44.
+
+Suggested Citation:
+
+Ren, Bo, Do Auditor-Provided Tax Services Impair Auditor Independence or Generate Knowledge Spillover? Evidence from the Tax Cuts and Jobs Act of 2017 (July 31, 2022). Available at SSRN: https://ssrn.com/abstract=4496274 or http://dx.doi.org/10.2139/ssrn.4496274
+Download This Paper
+ 
+Open PDF in Browser
+94 References
+J Ahn , R Hoitash , U Hoitash
+Auditor task-specific expertise: The case of fair value accounting
+The Accounting Review , volume 95 , issue 3 , p. 1 - 32 Posted: 2020
+Aicpa
+AICPA Code of Professional Conduct Posted: 2014
+A Albrecht , E G Mauldin , N J Newton
+Do auditors recognize the potential dark side of executives' accounting competence?
+The Accounting Review , volume 93 , issue 6 , p. 1 - 28 Posted: 2018
+N Alsadoun , V Naiker , F Navissi , D S Sharma
+Auditor-provided tax nonaudit services and the implied cost of equity capital
+AUDITING: A Journal of Practice & Theory , volume 37 , issue 3 , p. 1 - 24 Posted: 2018
+Load more
+1 Citations
+Mikhail Pevzner , Alan Reinstein , Matthew Wynter , Tong Yao
+The impact of capping the SALT deduction on municipal bond pricing
+Journal of Accounting and Public Policy , volume 51 , p. 107312 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+213
+ABSTRACT VIEWS
+1,302
+RANK
+327,319
+1 Citations
+94 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

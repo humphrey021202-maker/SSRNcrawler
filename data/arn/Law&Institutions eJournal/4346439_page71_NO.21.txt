@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Insider trading
+
+Balogh, A. Insider trading. Scientific Data 10, 237 (2023).
+
+16 Pages Posted: 3 Feb 2023 Last revised: 17 May 2023
+
+Attila Balogh
+
+University of Melbourne - Department of Finance
+
+Date Written: March 21, 2023
+
+Abstract
+
+This paper describes a dataset capturing insider trading activity at publicly traded companies. Investors and investment analysts demand this information because executives, directors and large shareholders are expected to have more intimate knowledge of their company's prospects than outsiders. Insider stock sales and purchases may reveal information about the firm's business not disclosed in financial statements. They may also convey new information predictive of stock price movements if insiders can better interpret public information about the firm. Since mid-2003, the Securities and Exchange Commission has made these insider trading reports available to the public in a structured format; however, most academic papers use proprietary commercial databases instead of regulatory filings directly. This makes replication challenging as the data manipulation and aggregation processes are opaque and historical records could be altered by the database provider over time. To overcome these limitations, the presented dataset is created from original regulatory filings; it is updated daily and includes all information reported by insiders without alteration.
+
+Dataset URL: https://doi.org/10.7910/DVN/VH6GVH
+Published paper: https://www.nature.com/articles/s41597-023-02147-6
+
+Keywords: insider trading
+
+JEL Classification: G11, G18, G34, K22
+
+Suggested Citation:
+
+Balogh, Attila, Insider trading (March 21, 2023). Balogh, A. Insider trading. Scientific Data 10, 237 (2023)., Available at SSRN: https://ssrn.com/abstract=4346439 or http://dx.doi.org/10.2139/ssrn.4346439
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+418
+ABSTRACT VIEWS
+1,826
+RANK
+160,264
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

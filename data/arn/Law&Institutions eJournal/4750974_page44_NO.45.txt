@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Independent Directors’ Status and R&D: A Study Based on Chinese Cultural Background
+
+China Accounting & Finance Review, Vol. 26, No. 1, 2024
+
+32 Pages Posted: 8 Mar 2024
+
+Shangkun Liang
+
+Central University of Finance and Economics
+
+Rong Fu
+
+Central University of Finance and Economics
+
+Yanfeng Jiang
+
+Beijing University of Agriculture
+
+Date Written: March 1, 2024
+
+Abstract
+
+Purpose
+Independent directors are important corporate decision participants and makers. Based on the Chinese cultural background, this paper interprets the listing order of independent directors as independent directors’ status, exploring their influence on the corporate research and development (R&D) behavior.
+
+Design/methodology/approach
+This paper studies A-share listed firms in China from 2008 to 2018 as the sample. The main method is ordinary least square (OLS) regression. We also use other methods to deal with endogenous problems, such as the firm fixed effect method, change model method, two-stage instrumental variable method, and Heckman two-stage method.
+
+Findings
+(1) Higher independent directors’ status attribute to more effective exertion of supervision and consultation function, and positively enhance the corporate R&D investment. The increase of the independent director’ status by one standard deviation will increase the R&D investment by 4.6%. (2) The above effect is more influential in firms with stronger traditional culture atmosphere, higher information opacity and higher performance volatility. (3) High-status independent directors promote R&D investment by improving the scientificity of R&D evaluation and reducing information asymmetry. (4) The enhancing effect of independent director’ status on R&D investment is positively associated with the firm’s patent output and market value.
+
+Originality/value
+This paper contributes to understanding the relationship between the independent directors’ status and their duty execution from an embedded cultural background perspective. The findings of the study enlighten the improvement of corporate governance efficiency and the healthy development of the capital market.
+
+Keywords: Cultural background, Independent directors’ status, R&D investment, R&D evaluation, Information asymmetry
+
+JEL Classification: G34, M14, Z13
+
+Suggested Citation:
+
+Liang, Shangkun and Fu, Rong and Jiang, Yanfeng, Independent Directors’ Status and R&D: A Study Based on Chinese Cultural Background (March 1, 2024). China Accounting & Finance Review, Vol. 26, No. 1, 2024, Available at SSRN: https://ssrn.com/abstract=4750974
+Download This Paper
+ 
+Open PDF in Browser
+68 References
+R B Adams , D Ferreira
+Do directors perform for pay
+Journal of Accounting and Economics , volume 46 , issue 1 , p. 154 - 171 Posted: 2008
+M S Beasley
+An empirical analysis of the relation between the board of director composition and financial statement fraud
+The Accounting Review , volume 71 , issue 4 , p. 443 - 465 Posted: 1996
+S Blader , Y Chen
+Differentiating the effects of status and power: A justice perspective
+Journal of Personality and Social Psychology , volume 102 , issue 5 , p. 994 - 1014 Posted: 2012
+J R Brown , G Martinsson , B C Petersen
+Do financing constraints matter for R&D?
+European Economic Review , volume 56 , issue 8 , p. 1512 - 1529 Posted: 2012
+Load more
+1 Citations
+Sandy Harianto , Janto Haman
+The Effects of Political Connections on Labor Investment: Evidence from Indonesia
+China Accounting &amp; Finance Review, volume 26, issue 5, 2024 · 34 Pages · Posted: 17 Dec 2024 · Downloads: 25
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+57
+ABSTRACT VIEWS
+714
+RANK
+864,457
+1 Citations
+68 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

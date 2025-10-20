@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Opaque Scorecard: Environmental, Social and Financial Information during a Crisis
+
+41 Pages Posted: 1 May 2023 Last revised: 19 Jun 2025
+
+Mircea Epure
+
+Universitat Pompeu Fabra (UPF) - Department of Economics and Business; Barcelona School of Economics; UPF Barcelona School of Management
+
+Serhat Hasancebi
+
+Universitat Pompeu Fabra (UPF) - Department of Economics and Business; University of the Basque Country - Faculty of Economic Science and Business Studies
+
+Date Written: April 19, 2023
+
+Abstract
+
+We show that firms with higher environmental and social (ES) engagement exhibited lower financial reporting quality (FRQ) during the COVID-19 crisis—a pattern not observed in the pre-crisis period. We argue that this decline can be driven by increased complexity and reduced monitoring effectiveness under crisis-induced uncertainty. The result is robust across different ES measures, including ES scores and (social) media sentiment, and holds under both standard and synthetic difference-in-differences approaches. The effect is more pronounced in contexts with greater government intervention via income support and debt relief, policies that may have added to reporting complexity. At the firm level, the decline in FRQ is stronger among firms with weaker governance or management practices—specifically when the CEO pay is not linked to shareholder returns or that of senior executives to sustainability objectives, and with lower strategic or institutional ownership. We identify potential channels for the decline in FRQ, such as increased variation in depreciation and amortization expenses, intangible assets, R&D spending, inventories, and labor costs during the crisis.
+
+Keywords: environmental, social, governance, ESG, financial reporting quality, crisis
+
+JEL Classification: M14, M41, G18, G32, G34
+
+Suggested Citation:
+
+Epure, Mircea and Hasancebi, Serhat, The Opaque Scorecard: Environmental, Social and Financial Information during a Crisis (April 19, 2023). Available at SSRN: https://ssrn.com/abstract=4423702 or http://dx.doi.org/10.2139/ssrn.4423702
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+R Albuquerque , Y Koskinen , S Yang , C Zhang
+Resiliency of environmental and social stocks: An analysis of the exogenous COVID-19 market crash
+The Review of Corporate Finance Studies , volume 9 , issue 3 , p. 593 - 621 Posted: 2020
+A Amel-Zadeh , G Serafeim
+Why and how investors use ESG information: Evidence from a global survey
+Financial Analysts Journal , volume 74 , issue 3 , p. 87 - 103 Posted: 2018
+D Arkhangelsky , S Athey , D A Hirshberg , G W Imbens , S Wager
+Synthetic difference-in-differences
+American Economic Review , volume 111 , issue 12 , p. 4088 - 4118 Posted: 2021
+V Asriyan , L Laeven , A Martín
+Collateral booms and information depletion
+Review of Economic Studies , volume 89 , issue 2 , p. 517 - 555 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+185
+ABSTRACT VIEWS
+1,198
+RANK
+373,551
+47 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Agency Conflicts, Bank Capital Regulation, and Marking-to-Market
+
+Forthcoming, Accounting Review
+
+71 Pages Posted: 25 Mar 2019
+
+Tong Lu
+
+University of Houston
+
+Haresh Sapra
+
+Booth School of Business, University of Chicago
+
+Ajay Subramanian
+
+Georgia State University
+
+Date Written: February 14, 2019
+
+Abstract
+
+We show how shareholder-debtholder agency conflicts interact with strategic reporting under asymmetric information to influence bank regulation. Relative to a benchmark unregulated economy, higher capital requirements mitigate inefficient asset substitution, but potentially exacerbate under investment due to debt overhang. The optimal regulatory policy balances distortions created by agency conflicts and asymmetric information, while incorporating the social benefit of bank debt. Asymmetric information and strategic reporting only impact regulation for intermediate social debt benefit levels. For lower social debt benefits in this interval, regulatory capital requirements are insensitive to accounting reports so bank balance sheets need not be marked to market to implement the optimal regulatory policy. For higher social debt benefits, however, capital requirements are sensitive to accounting reports, thereby necessitating mark-to-market accounting to implement bank regulation. Mark-to-market accounting is essential when bank leverage levels are high, and is more likely to be necessary as banks' asset risk or specificity increases.
+
+Keywords: mark-to-market accounting; bank regulation; agency conflicts
+
+Suggested Citation:
+
+Lu, Tong and Sapra, Haresh and Subramanian, Ajay, Agency Conflicts, Bank Capital Regulation, and Marking-to-Market (February 14, 2019). Forthcoming, Accounting Review, Available at SSRN: https://ssrn.com/abstract=3359565
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+293
+ABSTRACT VIEWS
+2,657
+RANK
+237,535
+6 Citations
+19 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

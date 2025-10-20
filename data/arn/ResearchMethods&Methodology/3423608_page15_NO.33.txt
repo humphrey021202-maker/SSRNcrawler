@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Salience of Management Guidance Affects Forecasting Behavior: Evidence from a Quasi-Natural Experiment on Estimize
+
+47 Pages Posted: 21 Jul 2019 Last revised: 9 Jun 2020
+
+Qin Li
+
+Hong Kong Polytechnic University
+
+Ben Lourie
+
+University of California, Irvine
+
+Siew Hong Teoh
+
+UCLA Anderson School of Management
+
+Date Written: May 21, 2020
+
+Abstract
+
+In October 2014, Estimize.com began providing management guidance on its platform for firms that provide guidance. We exploit this exogenous shock to salience of management guidance as a quasi-natural experiment to study how salience of management guidance affects forecasting behavior. Using a difference-in-differences design, we show that an increase in salience increases the number of Estimize contributors, increases contributors’ forecast accuracy, lowers contributors’ forecast dispersion, and increases herding by contributors towards the guidance forecast. Our results imply that, absent endogeneity, the increased salience of management guidance increases attention to the guidance information by market participants with attentional constraints, thereby increasing the likelihood that they incorporate guidance information when forming expectations about a firm’s future performance.
+
+Keywords: Salience, Limited attention, Field experiment, Estimize, Management guidance
+
+JEL Classification: M41, G11, G17, F14, G38, G41, C93, G28, G29
+
+Suggested Citation:
+
+Li, Qin and Lourie, Ben and Teoh, Siew Hong, How Salience of Management Guidance Affects Forecasting Behavior: Evidence from a Quasi-Natural Experiment on Estimize (May 21, 2020). Available at SSRN: https://ssrn.com/abstract=3423608 or http://dx.doi.org/10.2139/ssrn.3423608
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+K Balakrishnan , M Billings , B Kelly , A Ljungqvist
+Shaping liquidity: On the causal effects of voluntary disclosure
+The Journal of Finance , volume 69 , p. 2237 - 2278 Posted: 2014
+Crossref
+O E Barron , C O Kile , T B O&apos;keefe
+MD&A quality as measured by the SEC and analysts' earnings forecasts
+Contemporary Accounting Research , volume 16 , p. 75 - 109 Posted: 1999
+Crossref
+M E Barth , W H Beaver , W R Landsman
+The relevance of the value relevance literature for financial accounting standard setting: another view
+Journal of Accounting and Economics , volume 31 , p. 77 - 104 Posted: 2001
+Crossref
+M E Barth , R Kasznik , M F Mcnichols
+Analyst coverage and intangible assets
+Journal of Accounting Research , volume 39 , p. 1 - 34 Posted: 2001
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+291
+ABSTRACT VIEWS
+2,418
+RANK
+239,255
+1 Citations
+12 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

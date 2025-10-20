@@ -1,0 +1,160 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+SiSOB Data Extraction and Codification: A Tool to Analyse Scientific Careers
+
+Forthcoming in Research Policy special issue on Big Data
+
+SPRU Working Paper Series SWPS 2014-03 (February)
+
+47 Pages Posted: 9 Feb 2015
+
+Aldo Geuna
+
+University of Turin - Department Cultures, Politics and Society
+
+Rodrigo Kataishi
+
+University of Turin - Department of Economics S. Cognetti de Martiis
+
+Manuel Toselli
+
+University of Turin - Department of Economics S. Cognetti de Martiis
+
+Eduardo Guzman
+
+University of Malaga
+
+Cornelia Lawson
+
+The University of Manchester - Alliance Manchester Business School
+
+Ana Fernandez-Zubieta
+
+Complutense University of Madrid
+
+Beatriz Barros
+
+University of Malaga
+
+Date Written: January 15, 2015
+
+Abstract
+
+This paper describes the methodology and software tool used to build a database on the careers and productivity of academics, using public information available on the Internet, and provides a first analysis of the data collected for a sample of 360 US scientists funded by the National Institute of Health (NIH) and 291 UK scientists funded by the Biotechnology and Biological Sciences Research Council (BBSRC). The tool’s structured outputs can be used for either econometric research or data representation for policy analysis. The methodology and software tool is validated for a sample of US and UK biomedical scientists, but can be applied to any countries where scientists’ CVs are available in English. We provide an overview of the motivations for constructing the database, and the data crawling and data mining techniques used to transform webpage-based information and CV information into a relational database. We describe the database and the effectiveness of our algorithms and provide suggestions for further improvements. The software developed is released under free software GNU General Public License; the aim is for it to be available to the community of social scientists and economists interested in analysing scientific production and scientific careers, who it is hoped will develop this tool further.
+
+Keywords: Information retrieval, Extraction and data integration, Academic careers, Research productivity, Mobility of Research Scientists
+
+JEL Classification: C81; C88; I23; O31
+
+Suggested Citation:
+
+Geuna, Aldo and Kataishi, Rodrigo and Toselli, Manuel and Guzman, Eduardo and Lawson, Cornelia and Fernandez-Zubieta, Ana and Barros, Beatriz, SiSOB Data Extraction and Codification: A Tool to Analyse Scientific Careers (January 15, 2015). Forthcoming in Research Policy special issue on Big Data, SPRU Working Paper Series SWPS 2014-03 (February), Available at SSRN: https://ssrn.com/abstract=2561876 or http://dx.doi.org/10.2139/ssrn.2561876
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+H L Ackers
+Moving people and knowledge, the mobility of scientists within the European Union
+International Migration , volume 43 , p. 99 - 129 Posted: 2005
+H L Ackers , Oliver E
+From Flexicurity to Flexsecquality? The impact of the fixedterm contract provisions on employment in science research
+International Studies of Management and Organization , volume 37 , issue 1 , p. 53 - 79 Posted: 2007
+Crossref
+C Antonelli , C Franzoni , A Geuna
+The organization, economics, and policy of scientific research: What we do know and what we don't know-an agenda for research
+Industrial and Corporate Change , volume 20 , issue 1 , p. 201 - 213 Posted: 2011
+Crossref
+L Auriol , M Misu , R Freeman
+Careers of doctorate holders: Analysis of labour market and mobility indicators
+OECD STI Working Papers , issue 4 Posted: 2013
+Load more
+3 Citations
+Aldo Geuna , Rodrigo Kataishi , Manuel Toselli , Eduardo Guzman , Cornelia Lawson , Ana Fernandez-Zubieta , Beatriz Barros
+SiSOB Data Extraction and Codification: A Tool to Analyse Scientific
+SWPS 2015-03 · 47 Pages · Posted: 8 Mar 2016 · Downloads: 57
+Download PDF  Add Paper to My Library
+Aldo Geuna , Rodrigo Kataishi , Manuel Toselli , Eduardo Guzman , Cornelia Lawson , Ana Fernandez-Zubieta , Beatriz Barros
+SiSOB Data Extraction and Codification: A Tool to Analyse Scientific Careers
+Forthcoming in Research Policy special issue on Big Data, SPRU Working Paper Series SWPS 2014-03 (February) · 47 Pages · Posted: 9 Feb 2015 · Downloads: 67
+Download PDF  Add Paper to My Library
+Karoline Rogge , Kristin Reichardt
+Going Beyond Instrument Interactions: Towards a More Comprehensive Policy Mix Conceptualization for Environmental Technological Change
+SWPS 2015-12 · 50 Pages · Posted: 8 Mar 2016 · Downloads: 305
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+67
+ABSTRACT VIEWS
+3,321
+RANK
+791,953
+3 Citations
+47 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Computer Programs & Software eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

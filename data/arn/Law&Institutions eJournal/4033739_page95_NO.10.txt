@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of ESG Ratings on the Systemic Risk of European Blue-Chip Firms
+
+62 Pages Posted: 5 Apr 2022
+
+Mustafa Hakan Eratalay
+
+Tartu University
+
+Ariana Paola Cortés Ángel
+
+Tartu University
+
+Date Written: February 13, 2022
+
+Abstract
+
+There are diverging results in the literature on whether engaging in ESG related activities increases or decreases the financial and systemic risks of firms. In this paper we explore whether maintaining higher ESG ratings would reduce the systemic risks of firms in a stock market context. For this purpose we analyse the systemic risk indicators of the constituent stocks of S&P Europe 350 for the period of January 2016 - September 2020, which also partly covers the Covid-19 period. We apply a VAR-MGARCH model to extract the volatilities and correlations of the return shocks of these stocks. Then we obtain the systemic risk indicators by applying a principle components approach to the estimated volatilities and correlations. Our focus is on the impact of ESG ratings on systemic risk indicators, while we consider network centralities, volatilities and financial performance ratios as control variables. We use fixed effects and OLS methods for our regressions. Our results indicate that (1) the volatility of a stock’s returns and its centrality measures in the stock network are the main sources contributing to the systemic risk measure (2) firms with higher ESG ratings face up to 7.3% less systemic risk contribution and exposure compared to firms with lower ESG ratings, (3) Covid-19 augmented the partial effects of volatility, centrality measures and some financial performance ratios. When considering only the Covid-19 period, we found that social and governance factors have statistically significant impacts on systemic risk.
+
+Keywords: Systemic risk, network centrality, sustainable, ESG, volatility, principal components, Covid-19
+
+JEL Classification: C32, C33, C58, Q56
+
+Suggested Citation:
+
+Eratalay, Mustafa Hakan and Cortés Ángel, Ariana Paola, The Impact of ESG Ratings on the Systemic Risk of European Blue-Chip Firms (February 13, 2022). Available at SSRN: https://ssrn.com/abstract=4033739 or http://dx.doi.org/10.2139/ssrn.4033739
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+143
+ABSTRACT VIEWS
+1,046
+RANK
+467,197
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

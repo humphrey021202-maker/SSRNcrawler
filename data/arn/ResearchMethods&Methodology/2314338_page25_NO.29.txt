@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tests for Parameter Instability in Dynamic Factor Models
+
+67 Pages Posted: 23 Aug 2013 Last revised: 13 Mar 2014
+
+Xu Han
+
+City University of Hong Kong (CityU) - Department of Economics & Finance
+
+Atsushi Inoue
+
+Southern Methodist University
+
+Date Written: March 12, 2014
+
+Abstract
+
+We develop tests for structural breaks of factor loadings in dynamic factor models. We focus on the joint null hypothesis that all factor loadings are constant over time. Because the number of factor loading parameters goes to infinity as the sample size grows, conventional tests cannot be used. Based on the fact that the presence of a structural change in factor loadings yields a structural change in second moments of factors obtained from the full sample principal component estimation, we reduce the infinite-dimensional problem into a finite-dimensional one and our statistic compares the pre- and post-break subsample second moments of estimated factors. Our test is consistent under the alternative hypothesis in which a fraction of or all factor loadings have structural changes. The Monte Carlo results show that our test has good finite-sample size and power.
+
+Keywords: factor models, structural break
+
+JEL Classification: C12, C33
+
+Suggested Citation:
+
+Han, Xu and Inoue, Atsushi, Tests for Parameter Instability in Dynamic Factor Models (March 12, 2014). Available at SSRN: https://ssrn.com/abstract=2314338 or http://dx.doi.org/10.2139/ssrn.2314338
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+D W K Andrews
+Tests for Parameter Instability and Structural Change with Unknown Change Point
+Econometrica , volume 61 , p. 821 - 856 Posted: 1993
+Crossref
+D W. K. &amp; W Andrews , Ploberger
+Optimal Tests When a Nuisance Parameter Is Present Only Under the Alternative
+Econometrica , volume 62 Posted: 1994
+Crossref
+J Bai
+Estimating Multiple Breaks One at a Time
+Econometric Theory , volume 13 , p. 315 - 352 Posted: 1997
+Crossref
+J Bai
+Inferential Theory for Factor Models of Large Dimensions
+Econometrica , volume 71 , p. 135 - 172 Posted: 2003
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+206
+ABSTRACT VIEWS
+1,405
+RANK
+337,747
+11 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+Recommended Papers
+
+The Generalized Dynamic Factor Model: One-Sided Estimation and Forecasting
+
+By Mario Forni, Marc Hallin, ...
+
+Arbitrage, Factor Structure, and Mean-Variance Analysis on Large Asset Markets
+
+By Gary Chamberlain and Michael Rothschild
+
+Arbitrage and Mean-Variance Analysis on Large Asset Markets
+
+By Gary Chamberlain and Michael Rothschild
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+ESG Risk Exposure: A Tale of Two Tails
+
+47 Pages Posted: 6 May 2022 Last revised: 13 Dec 2022
+
+Runfeng Yang
+
+Central South University
+
+Massimiliano Caporin
+
+University of Padua - Department of Statistical Sciences
+
+Juan-Angel Jiménez-Martin
+
+Complutense University of Madrid
+
+Date Written: April 12, 2022
+
+Abstract
+
+Investing in ESG assets has now become the rule of thumb whenever investors want risk
+shield, especially during the COVID period. Since ESG investments are evidenced to have
+lower downside risk, how and to which extent the downside risk of a company is affected by
+its ESG activities is of particular interest to investors and regulators. This paper studies the
+ESG impact to the downside risk of companies in the US market by introducing a novel
+measure, the ESG risk contribution (△CoESGRisk). △CoESGRisk is a measurement based
+on the co-movement between the ESG risk factor (the realization of ESG activities in the
+market) and the downside risk. We show that when there is a sudden increase in the ESG risk factor, the downside risk of high-ESG companies is reduced. However, under extreme conditions, the downside risk of high-ESG companies could also be increased. The ESG impact is positively correlated with the ESG performance and company size, and it varies among different sectors. Our paper provides investors with a new method for ESG risk management. For regulators, our new
+measurement offers some references on evaluating the impact of ESG-related policies through
+quantifying the ESG risk contribution.
+
+Keywords: ESG, ESG Risk Factor, Fama/MacBeth Risk Factor, Quantile Regression, CoVaR, ESG Sentiment
+
+JEL Classification: G12, G32, C51
+
+Suggested Citation:
+
+Yang, Runfeng and Caporin, Massimiliano and Jiménez-Martin, Juan-Angel, ESG Risk Exposure: A Tale of Two Tails (April 12, 2022). Available at SSRN: https://ssrn.com/abstract=4082332 or http://dx.doi.org/10.2139/ssrn.4082332
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+491
+ABSTRACT VIEWS
+1,762
+RANK
+132,890
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Fees Post-SOX: An Auction Model
+
+30 Pages Posted: 27 Jun 2016
+
+Ramy Elitzur
+
+University of Toronto - Rotman School of Management
+
+Arieh Gavious
+
+Ben-Gurion University of the Negev; Ono Academic College - Faculty of Business Administration
+
+Yizhaq Minchuk
+
+Shamoon College of Engineering
+
+There are 2 versions of this paper
+
+Date Written: May 5, 2016
+
+Abstract
+
+Research shows that audit fees have increased after the SOX ban on providing non-audit services (NAS) to audit clients, but the reasons behind it have been unclear. Using an auction-modeling approach, this study aims to bridge this gap by providing a theoretical explanation for this empirical finding. Specifically, the paper analyzes the impact of the ban imposed in SOX/Title II on providing both audit services and NAS to audit clients. The study builds and compares an auction setting where auditors can compete for both auditing and NAS (the pre-SOX setting) with one where auditors can compete on only one of the two (the post-SOX setting). The model shows that NAS fees should have increased after SOX. The intuition behind this result is that the SOX-imposed ban on providing both NAS and audit services to the same clients has lessened the competition in the NAS auction. Next, the study demonstrates that audit fees will be higher in the post-SOX setting than the pre-SOX one. The intuition behind this finding is that in the post-SOX regime, to ensure that audit firms will participate in the audit auction even if they are inefficient, clients need to compensate the winner in the audit auction for giving up the NAS auction. The study also demonstrates that if clients’ budgets would stay the same, or increase, NAS prices would increase to reflect reduced competition. If, on the other hand, NAS budgets are reduced then, the study demonstrates that there is a threshold budget beyond which, the utility of audit firms would improve, and below it decrease. The intuition behind this result stems from the tradeoff between the increase in audit fees and the reduced NAS revenues, thus, leading to a threshold above which the auditors’ utility increases, and below which it decreases.
+
+Keywords: Auctions, Auditing, Audit Fees, Nonaudit Services, Sarbanes-Oxley
+
+JEL Classification: M41, N40, G18
+
+Suggested Citation:
+
+Elitzur, Ramy and Gavious, Arieh and Minchuk, Yizhaq, Audit Fees Post-SOX: An Auction Model (May 5, 2016). Available at SSRN: https://ssrn.com/abstract=2801202 or http://dx.doi.org/10.2139/ssrn.2801202
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+H Ashbaugh , R Lafond , B W Mayhew
+Do nonaudit services compromise auditor independence? Further evidence
+The Accounting Review , volume 78 , p. 611 - 639 Posted: 2003
+Crossref
+M Causholli , M De Martinis , D Hay , W R Knechel
+Audit markets, fees and production: Towards an integrated view of empirical audit research
+Journal of Accounting Literature , volume 29 , p. 167 - 215 Posted: 2010
+J H Choi , J B Kim , X Liu , D Simunic
+Audit pricing, legal liability regimes, and Big-4 premiums: Theory and cross-country evidence
+Contemporary Accounting Research , volume 25 , issue 1 , p. 55 - 99 Posted: 2008
+Crossref
+J H Choi , J Kim , X Liu , D A Simunic
+Cross-listing audit fee premiums: Theory and evidence
+The Accounting Review , volume 84 , issue 5 , p. 1429 - 1463 Posted: 2009
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+87
+ABSTRACT VIEWS
+1,446
+RANK
+340,955
+32 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

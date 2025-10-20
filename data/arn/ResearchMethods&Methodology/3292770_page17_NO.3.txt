@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Application of Data Envelopment Analysis in Auditing
+
+United States Patent Application Publication, Pub. No.:US 2005/0288980A1, Pub. Date: December 29, 2005.
+
+Posted: 2 Jan 2019
+
+Ehsan H. Feroz
+
+University of Washington Tacoma, Milgard School of Business-Accounting ; University of Illinois at Urbana-Champaign; Government of the United States of America - US GAO Advisory Council; University of Minnesota Duluth, Labovitz School of Business-Department of Accounting; University of Minnesota, Carlson School of Management-Department of Accounting; Baruch College, City University of New York; The State University of New York at Buffalo
+
+Sungsoo Kim
+
+Rutgers Business School - Camden; University of Minnesota - Minneapolis
+
+Raymond L. Raab
+
+University of Minnesota, Duluth - Labovitz School of Business and Economics (LSBE)
+
+Date Written: December 29, 2005
+
+Abstract
+
+A data processing procedure, DEA (Data Envelopment Analysis) is described as as an analytical tool in audit engagement. DEA receives data inputs from from financial statements of a plurality of clients, constructs efficiency frontiers and evaluates relative income efficiencies. DEA can be used in the overall review stage to detect any anomalies and to assess the reasonableness of financial statements. Application of DEA can significantly minimize errors in an audit judgment by providing accurate and reliable benchmarks and red flags at a reasonable low cost.
+
+Note: Also see, Feroz, Kim and Raab, "Analytical Procedures: A Data Envelopment Analysis Approach" (2005).
+
+Keywords: Patent, DEA, Analytics, Income Efficiency, Input-Output Models, Financial Statements, Efficiency, Audit, Red Flags, Risk Management, Capital Markets, SEC, PCAOB
+
+JEL Classification: C44, C61, C67, D61, G14, G30, M11, M40, M41, M49
+
+Suggested Citation:
+
+Feroz, Ehsan H. and Kim, Sungsoo and Raab, Raymond L., Application of Data Envelopment Analysis in Auditing (December 29, 2005). United States Patent Application Publication, Pub. No.:US 2005/0288980A1, Pub. Date: December 29, 2005., Available at SSRN: https://ssrn.com/abstract=3292770
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+374
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Economics Educator: Courses, Cases & Teaching eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

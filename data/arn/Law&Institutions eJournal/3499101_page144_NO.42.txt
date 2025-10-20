@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Inference with Cluster Imbalance: The Case of State Corporate Laws
+
+Harvard Law School John M. Olin Center Discussion Paper No. 1024 (2019)
+
+European Corporate Governance Institute – Finance Working Paper No. 644/2019
+
+34 Pages Posted: 17 Dec 2019 Last revised: 28 Dec 2023
+
+Allen Hu
+
+University of British Columbia (UBC) - Division of Finance
+
+Holger Spamann
+
+Harvard Law School; ECGI
+
+Date Written: December 28, 2020
+
+Abstract
+
+A workhorse research design identifies the effects of corporate governance by changes in state laws, clustering standard errors by state of incorporation. Asymptotic inference using these standard errors, however, dramatically understates false positives: in a typical specification, randomly generated placebo laws have 1/5/10%-level significant estimated treatment effects 9/21/30% of the time. This poor finite sample performance is due to unequal cluster sizes, especially Delaware's concentration of half of all incorporations. Bootstrap or permutation tests mostly fix the problem, common robustness checks less so. The placebo law approach can also be used to calculate power, which will be acceptably high only for substantial effect sizes.
+
+Keywords: Anti-Takeover Laws, Corporate Governance, Cluster-Robust Inference, Monte Carlo, Placebo Laws, Permutation Test
+
+JEL Classification: C12, G34, G38, K22
+
+Suggested Citation:
+
+Hu, Allen and Spamann, Holger, Inference with Cluster Imbalance: The Case of State Corporate Laws (December 28, 2020). Harvard Law School John M. Olin Center Discussion Paper No. 1024 (2019), European Corporate Governance Institute – Finance Working Paper No. 644/2019, Available at SSRN: https://ssrn.com/abstract=3499101 or http://dx.doi.org/10.2139/ssrn.3499101
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+Alberto Abadie , Susan Athey , Guido W Imbens , Jeffrey Wooldridge
+When Should You Adjust Standard Errors for Clustering Posted: 2017
+Joshua D Angrist , Jörn-Steffen Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2008
+Marianne Bertrand , Esther Duflo , Sendhil Mullainathan
+How Much Should We Trust Differences-In-Differences Estimates?
+The Quarterly Journal of Economics , volume 119 , p. 249 - 275 Posted: 2004
+Marianne Bertrand , Sendhil Mullainathan
+Enjoying the Quiet Life? Corporate Governance and Managerial Preferences
+Journal of Political Economy , volume 111 , p. 1043 - 1075 Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+497
+ABSTRACT VIEWS
+3,372
+RANK
+130,619
+11 Citations
+51 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+European Corporate Governance Institute (ECGI) - Finance Working Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Time-Series Momentum versus Moving Average Trading Rules
+
+45 Pages Posted: 27 Feb 2013 Last revised: 26 Feb 2015
+
+Ben R. Marshall
+
+Massey University - School of Economics and Finance
+
+Nhut H. Nguyen
+
+Auckland University of Technology
+
+Nuttawat Visaltanachoti
+
+Massey University - Department of Economics and Finance
+
+Date Written: December 22, 2014
+
+Abstract
+
+Time-series momentum (TSMOM) and moving average (MA) trading rules are closely related; however there are important differences. TSMOM signals occur at points that coincide with a MA direction change, whereas MA buy (sell) signals only require price to move above (below) a MA. Our empirical results show MA rules frequently give earlier signals leading to meaningful return gains. Both rules perform best outside of large stock series which may explain the puzzle of their popularity with investors yet lack of supportive evidence in academic studies.
+
+Keywords: G11, G12
+
+JEL Classification: Technical analysis, time-series momentum, moving average, return predictability
+
+Suggested Citation:
+
+Marshall, Ben R. and Nguyen, Nhut H. and Visaltanachoti, Nuttawat, Time-Series Momentum versus Moving Average Trading Rules (December 22, 2014). Available at SSRN: https://ssrn.com/abstract=2225551 or http://dx.doi.org/10.2139/ssrn.2225551
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+Yufen Han , Guofu Ke Yan , Zhou
+A new anomaly: The cross-sectional profitability of technical analysis -Journal of Financial and Quantitative Analysis Forthcoming Posted: 2012
+Sam James Henkel , J Spencer Martin , Federico Nardari
+Time-varying shorthorizon predictability
+Journal of Financial Economics , volume 99 , p. 560 - 580 Posted: 2011
+Crossref
+Harrison Hong , Jeremy Stein
+A unified theory of underreaction, momentum trading, and overreaction in asset markets
+Journal of Finance , volume 54 , p. 2143 - 2148 Posted: 1999
+Crossref
+Harrison Hong , Terence Lim , Jeremy C Stein
+Bad news travels slowly: Size, analyst coverage, and the profitability of momentum strategies
+Journal of Finance , volume 55 , issue 1 , p. 265 - 295 Posted: 2000
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+3,306
+ABSTRACT VIEWS
+18,142
+RANK
+8,309
+9 Citations
+16 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Momentum Crashes
+
+By Kent D. Daniel
+
+Momentum Crashes
+
+By Kent D. Daniel and Tobias J. Moskowitz
+
+Momentum Crashes
+
+By Kent D. Daniel and Tobias J. Moskowitz
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

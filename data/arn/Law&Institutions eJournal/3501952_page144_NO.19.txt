@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Capital-Market Liberalization and Auditors' Accounting Adjustments: Evidence from a Quasi-Experiment
+
+64 Pages Posted: 31 Dec 2019 Last revised: 14 May 2021
+
+Yingwen Deng
+
+Renmin University of China - School of Business
+
+Ole-Kristian Hope
+
+University of Toronto - Rotman School of Management
+
+Cyndia Wang
+
+University of Utah - David Eccles School of Business
+
+Min Zhang
+
+Renmin University of China - School of Business
+
+Date Written: May 14, 2021
+
+Abstract
+
+Using a shock to the Chinese capital market and unique and detailed audit-adjustment data, this paper investigates the effect of a capital-market liberalization program on auditors’ adjustments to their clients’ financial reports. Employing difference-in-differences tests with propensity-score matching and firm fixed effects, we find that the capital-market liberalization induced by the implementation of the Shanghai - Hong Kong Stock Connect affects auditors’ professional judgment and leads to audit-adjustment changes stimulated by greater reputational and litigation risks for auditors. Specifically, while the liberalization significantly decreases the frequency and magnitude of upward audit adjustments, the probability of downward adjustments remains the same in most cases. Further evidence shows that the effect is more pronounced for companies with high trading volume from Hong Kong investors, audited by the largest audit firms, and with low financial transparency.
+
+Keywords: Auditing, stock-market liberalization, audit adjustments, monitoring effects of market participants, asymmetric auditor behavior, China, regulations
+
+JEL Classification: G30, G34, G38, M10, M40, M41, M42, M48
+
+Suggested Citation:
+
+Deng, Yingwen and Hope, Ole-Kristian and Wang, Cyndia and Zhang, Min, Capital-Market Liberalization and Auditors' Accounting Adjustments: Evidence from a Quasi-Experiment (May 14, 2021). Available at SSRN: https://ssrn.com/abstract=3501952 or http://dx.doi.org/10.2139/ssrn.3501952
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+L J Abbott , K A Gunny , T C Zhang
+When the PCAOB Talks, Who Listens? Evidence from Stakeholder Reaction to GAAP-Deficient PCAOB Inspection Reports of Small Auditors
+AUDITING: A Journal of Practice and Theory , volume 32 , issue 2 , p. 1 - 31 Posted: 2013
+Crossref
+G A Akerlof
+The missing motivation in macroeconomics
+American Economic Review , volume 97 , issue 1 , p. 5 - 36 Posted: 2007
+Crossref
+F Allen , J Qian , M Qian
+Law, Finance, and Economic Growth in China
+Journal of Financial Economics , volume 77 , issue 1 , p. 57 - 116 Posted: 2005
+Crossref
+A G Backof , E M Bamber , T D Carpenter
+Do Auditor Judgment Frameworks Help in Constraining Aggressive Reporting? Evidence under More Precise and Less Precise Accounting Standards
+Accounting, Organizations, and Society , volume 51 , p. 1 - 11 Posted: 2016
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+543
+ABSTRACT VIEWS
+8,979
+RANK
+117,225
+4 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

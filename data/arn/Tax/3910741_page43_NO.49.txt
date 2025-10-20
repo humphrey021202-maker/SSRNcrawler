@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Applying Blockchain Technology to Cross-Border Tax Reporting
+
+University College London Centre for Blockchain Technologies, Discussion Papers, No 4. Q3 2020; http://blockchain.cs.ucl.ac.uk/wp-content/uploads/2020/11/UCL_CBT_DPS_Q3_2020_online%5ELN6.pdf
+
+42 Pages Posted: 26 Sep 2021 Last revised: 27 Sep 2021
+
+Kellen Yent
+
+Independent
+
+Date Written: May 20, 2020
+
+Abstract
+
+Current reporting schemes for cross-border taxation are not completely fraud proof. Both the OECD’s Common Reporting Standards (CRS) and the US’s Foreign Account Tax Compliance Act (FATCA) allow tax evaders to hold assets abroad outright untaxed, or further allow for participation in schemes that can lead to tax manipulation, such as citizenship or residency by investment schemes (CBI/RBI). Besides closing these loopholes in the legislation, this paper proposes a blockchain solution. The proposed blockchain model will be derived from an existing blockchain solution to VAT fraud proposed by Ainsworth, Alwohaibi, and Cheetham. The blockchain specifically envisioned for tax reporting in this paper would be permissioned and controlled by a central authority, in order to regulate access. Zero knowledge proofs (ZKP) would be utilised to keep computational space and data private between jurisdictions participating on the shared distributed ledger. This blockchain solution could not only bring tax reporting into real time while increasing tax collection and transparency, but also automate a fairly complicated and bureaucratic process. However, implementation of such a process is costly and should be weighed against each jurisdiction’s national policy needs. Moreover, such a solution is not practical unless tax reporting is fully digitalised. A blockchain solution may have varied results on horizontal equity conditions within a nation, but it will not increase vertical equity. Finally, sovereignty is one major issue this paper is highly aware of when proposing a global solution to tax reporting. Because of ZKP and the fact that jurisdictions can opt-in, this paper does not foresee a diminishing of any jurisdiction’s national sovereignty.
+
+Suggested Citation:
+
+Yent, Kellen, Applying Blockchain Technology to Cross-Border Tax Reporting (May 20, 2020). University College London Centre for Blockchain Technologies, Discussion Papers, No 4. Q3 2020; http://blockchain.cs.ucl.ac.uk/wp-content/uploads/2020/11/UCL_CBT_DPS_Q3_2020_online%5ELN6.pdf, Available at SSRN: https://ssrn.com/abstract=3910741 or http://dx.doi.org/10.2139/ssrn.3910741
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+273
+ABSTRACT VIEWS
+1,189
+RANK
+255,505
+61 References
+PlumX Metrics
+Related eJournals
+
+Cyberspace Law eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

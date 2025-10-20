@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Don’t shoot yourself in the foot! A (real-effort task) experiment on income redistribution and voting.
+
+45 Pages Posted: 22 Nov 2019 Last revised: 21 Oct 2021
+
+Natalia Jimenez Jimenez
+
+Universidad Pablo de Olavide
+
+Elena Molis
+
+affiliation not provided to SSRN
+
+Angel Solano-García
+
+Universidad de Granada
+
+Date Written: October 15, 21
+
+Abstract
+
+According to the World Inequality Database 2020, income inequality has increased in almost all countries in recent decades. Nevertheless, top tax rates on upper-income earners have declined during the same period. This empirical evidence seems not to support models based on the median voter theorem as the one proposed by Meltzer and Richard (1981). To shed some light on this contradictory evidence, this paper reports results from a laboratory experiment that investigates the Meltzer–Richard model of equilibrium tax rates in which individuals face a real-effort task that includes leisure at the work place. We classify participants into high-skilled and low-skilled workers, according to their performance in a tournament at the beginning of the experiment. They vote over two (high and low) exogenous tax rates and their pre-tax income is determined according to their performance in a real-effort task and also to the skill premium. We find that a large proportion of low-skilled workers vote for the lowest tax rate (the one that gives them the lowest payoff), especially when the alternative tax rate is very high. However, this proportion is significantly reduced in treatments in which the subjects are given extra information about how the tax operates in redistributing income. This result suggests that the lack of information about the role of taxes in income redistribution may be an important factor in explaining the counter-intuitive voting behavior of low-income voters over income redistribution. We also find some support that the prospect of upward mobility and the belief in the negative effect of taxes on productivity make low-income voters support low tax rates, especially when the alternative tax rate is very high.
+
+Keywords: income inequality, income redistribution, voting, taxation, real-effort task.
+
+JEL Classification: C92, D72, H30, J41
+
+Suggested Citation:
+
+Jimenez Jimenez, Natalia and Molis, Elena and Solano-García, Angel, Don’t shoot yourself in the foot! A (real-effort task) experiment on income redistribution and voting. (October 15, 21). Available at SSRN: https://ssrn.com/abstract=3485548 or http://dx.doi.org/10.2139/ssrn.3485548
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+L F Ackert , J Martinez-Vazquez , M Rider
+Social Preferences and Tax Policy Design: Some Experimental Evidence
+Economic Inquiry , volume 45 , issue 3 , p. 487 - 501 Posted: 2007
+M Agranov , T R Palfrey
+Equilibrium Tax Rates and Income Redistribution: A laboratory Study
+Journal of Public Economics , volume 130 , p. 45 - 58 Posted: 2015
+M Agranov , T R Palfrey
+The Effects of Income Mobility and Tax Persistence onIncome Redistribution and Inequality
+The American Economic Review , volume 123 , issue 4 , p. 960 - 980 Posted: 2005
+I Almås , A W Cappelen , B Tungodden
+Cutthroat Capitalism versus Cuddly Socialism: Are Americans More Meritocratic and Efficiency-Seeking than Scandinavians?
+Journal of Political Economy , volume 128 , issue 5 , p. 1753 - 1788 Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+88
+ABSTRACT VIEWS
+994
+RANK
+672,864
+31 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

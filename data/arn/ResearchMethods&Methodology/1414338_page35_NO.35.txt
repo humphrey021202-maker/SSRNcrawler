@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Nonparametric Structural Estimation Via Continuous Location Shifts in an Endogenous Regressor
+
+Cowles Foundation Discussion Paper No. 1702
+
+43 Pages Posted: 4 Jun 2009
+
+Peter C. B. Phillips
+
+University of Auckland Business School; Yale University - Cowles Foundation; Singapore Management University - School of Economics
+
+Liangjun Su
+
+Singapore Management University - School of Economics
+
+Date Written: June 4, 2009
+
+Abstract
+
+Recent work by Wang and Phillips (2009b, c) has shown that ill posed inverse problems do not arise in nonstationary nonparametric regression and there is no need for nonparametric instrumental variable estimation. Instead, simple Nadaraya Watson nonparametric estimation of a (possibly nonlinear) cointegrating regression equation is consistent with a limiting (mixed) normal distribution irrespective of the endogeneity in the regressor, near integration as well as integration in the regressor, and serial dependence in the regression equation. The present paper shows that some closely related results apply in the case of structural nonparametric regression with independent data when there are continuous location shifts in the regressor. In such cases, location shifts serve as an instrumental variable in tracing out the regression line similar to the random wandering nature of the regressor in a cointegrating regression. Asymptotic theory is given for local level and local linear nonparametric estimators, links with nonstationary cointegrating regression theory and nonparametric IV regression are explored, and extensions to the stationary strong mixing case are given. In contrast to standard nonparametric limit theory, local level and local linear estimators have identical limit distributions, so the local linear approach has no apparent advantage in the present context. Some interesting cases are discovered, which appear to be new in the literature, where nonparametric estimation is consistent whereas parametric regression is inconsistent even when the true (parametric) regression function is known. The methods are further applied to establish a limit theory for nonparametric estimation of structural panel data models with endogenous regressors and individual effects. Some simulation evidence is reported.
+
+Keywords: fixed effects, kernel regression, location shift, mixing, nonparametric IV, nonstationarity, panel model, structural estimation
+
+JEL Classification: C13, C14
+
+Suggested Citation:
+
+Phillips, Peter C. B. and Su, Liangjun, Nonparametric Structural Estimation Via Continuous Location Shifts in an Endogenous Regressor (June 4, 2009). Cowles Foundation Discussion Paper No. 1702, Available at SSRN: https://ssrn.com/abstract=1414338 or http://dx.doi.org/10.2139/ssrn.1414338
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+)% A )3 ! 34!4) , volume 29
+$%:.%$ )
+!&quot;! , !)!-
+@IB89@@@ ++ 00 5B8 ## %% )CK9@@ RRB8C;9B9=HM =B G9A=D5F5A9HF=7 5B8 BCBD5F5A9HF=7 F9;F9GG=CB AC89@GGS "B $6!.#%3 ). #/./-)#3 !.$ #/./-%42)#33 (%/29 !.$ 00
+Crossref
+Load more
+2 Citations
+Peter C. B. Phillips , Liangjun Su
+Non‐parametric regression under location shifts
+The Econometrics Journal , volume 14 , issue 3 , p. 457 Posted: 2011
+Crossref
+Peter C. B. Phillips , Liangjun Su
+A Paradox of Inconsistent Parametric and Consistent Nonparametric Regression
+Cowles Foundation Discussion Paper No. 1704 · 32 Pages · Posted: 5 Jun 2009 · Downloads: 146
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+100
+ABSTRACT VIEWS
+1,807
+RANK
+618,599
+2 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+Recommended Papers
+
+Asymptotic Theory for Local Time Density Estimation and Nonparametric Cointegration Regression
+
+By Qiying Wang and Peter C. B. Phillips
+
+Structural Nonparametric Cointegrating Regression
+
+By Qiying Wang and Peter C. B. Phillips
+
+Limit Theorems for Functionals of Sums that Converge to Fractional Stable Motions
+
+By P. Jeganathan
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

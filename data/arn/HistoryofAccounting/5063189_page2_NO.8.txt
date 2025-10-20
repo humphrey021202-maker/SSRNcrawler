@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fair Value Accounting and Financial Statements: Evidence from Oil and Gas Companies Listed on the Nigerian Exchange Group (2014-2023)
+
+15 Pages Posted: 3 Jan 2025
+
+Boniface Umoh E.
+
+Institute of Management and Technology (IMT), Enugu
+
+Date Written: August 08, 2024
+
+Abstract
+
+Discussions concerning the applicability and significance of fair value accounting persist in a financial environment that is changing quickly. In the face of investor scrutiny and market volatility, it is imperative that oil and gas companies accurately portray their financial health. In order to clarify the efficacy of fair value accounting in the Nigerian context, this study investigates the ways in which company factors impact earnings. With an emphasis on MRS Oil Nigeria Plc (2014-2023), this study looks at fair value accounting and financial statements in oil and gas companies listed on the Nigerian Exchange Group (NGX). This study's specific objective was to determine the impact of company size, age, and leverage on earnings per share of oil and gas companies. An ex-post facto research design was adopted. We performed a trend analysis and a SWOT analysis. Descriptive analysis was also emphasis while the Multiple Ordinary Least Squares regression method was used to test the hypotheses using e-view software. Shockingly, the results of the study showed that the earnings per share of oil and gas companies listed on the NGX during the reviewed period were not significantly impacted by the age, leverage, or size of the company (p-values of 0.8098, 0.3208, and 0.0636 > 0.05 threshold of significance, respectively). This suggests that fair value accounting has no discernible effect on financial statements. The study recommends that oil and gas companies prioritize innovation, operational efficiency, and customer satisfaction over company size, leverage, or historical presence in order to increase earning quality via EPS.
+
+Keywords: Fair value accounting, company's' age, leverage, size, financial statements and earnings per share
+
+Declaration of Interest
+
+no personal or financial relationship with persons or organisations
+
+Funder Statement
+
+self
+
+Suggested Citation:
+
+Umoh E., Boniface, Fair Value Accounting and Financial Statements: Evidence from Oil and Gas Companies Listed on the Nigerian Exchange Group (2014-2023) (August 08, 2024). Available at SSRN: https://ssrn.com/abstract=5063189 or http://dx.doi.org/10.2139/ssrn.5063189
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+A N Agha
+Earnings per share impact on nonfinancial firms performance
+Journal of Economic Info (JEI) , volume 1 , issue 4 , p. 1 - 7 Posted: 2014
+S T Ajagbe , B O Bolaji , T O Usman
+Impact of financial statement analysis on bank's customer patronage of selected banks in Nigeria
+Al-Hikmah International Journal of Finance (AHIJoF) , volume 1 , issue 1 , p. 17 - 26 Posted: 2021
+O W Akeem , O K Akinwumi , C D Tinuola
+Corporate attributes and financial performance of listed agricultural and agro-allied companies in Nigeria
+International Journal of Accounting Research , issue 2 , p. 103 - 111 Posted: 2022
+O D Akwu , G N Ofoegbu , R G Okafor
+Fair value measurement, depreciation and profitability of listed manufacturing companies in Nigeria
+International Journal of Scientific Research and Innovative Technology , volume 4 , issue 9 , p. 153 - 176 Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+131
+ABSTRACT VIEWS
+943
+RANK
+502,214
+52 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Quantitative Methods in Investing & Financial Statement Analysis eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

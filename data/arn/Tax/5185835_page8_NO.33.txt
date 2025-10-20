@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Private Letter Rulings: Unlocking Tax Certainty, Triggering IRS Monitoring
+
+66 Pages Posted: 15 Apr 2025
+
+Jesse Gardner
+
+Clemson University - Wilbur O. and Ann Powers College of Business
+
+Ryan Polk
+
+Clemson University - Wilbur O. and Ann Powers College of Business
+
+Courtney Yazzie
+
+Clemson University - School of Accountancy & Legal Studies
+
+Date Written: March 18, 2025
+
+Abstract
+
+In this study, we investigate whether firms requesting Private Letter Rulings (PLRs) from the Internal Revenue Service (IRS) face higher levels of tax authority monitoring than other firms. PLRs offer tax certainty by clarifying the tax implications of specific transactions, but they also require significant disclosure and involve high direct and indirect costs. Using a sample of 16,383 firm-years from 2010 to 2023, of which 14% of firms requested a PLR, we analyze the effect of PLRs on tax authority scrutiny using the monitoring measure developed by Finley and Stekelberg (2022). Our findings reveal that firms requesting PLRs face heightened tax monitoring, consistent with salience theory. This conclusion holds even after removing PLR requests related to tax-free mergers, spin-offs, and reorganizations, some of the most common requests from public corporations, suggesting that the results broadly apply to PLR-requesting firms. Finally, we do not find evidence that firms requesting a tax opinion from their external tax advisors, rather than a PLR from the IRS, face similarly heightened monitoring. This research extends the nascent PLR literature and provides insights into the consequences of voluntary tax disclosures on tax authority monitoring. The findings should be relevant to managers and tax advisors weighing the costs and benefits of a PLR request, particularly in light of the IRS’s recent expansion of the scope of issues eligible for PLRs.
+
+Keywords: Private Letter Ruling, Tax Enforcement, IRS Monitoring, Tax Planning
+
+Suggested Citation:
+
+Gardner, Jesse and Polk, Ryan and Yazzie, Courtney, Private Letter Rulings: Unlocking Tax Certainty, Triggering IRS Monitoring (March 18, 2025). Available at SSRN: https://ssrn.com/abstract=5185835 or http://dx.doi.org/10.2139/ssrn.5185835
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+D M Armstrong , S Glaeser , J L Hoopes
+Measuring firm exposure to government agencies
+Journal of Accounting and Economics Posted: 2024
+B C Ayers , J K Seidman , E M Towery
+Tax reporting behavior under audit certainty , volume 36 , p. 326 - 358 Posted: 2019
+P J Beck , P Lisowsky
+Tax uncertainty and voluntary real-time tax audits
+The Accounting Review , volume 89 , issue 3 , p. 867 - 901 Posted: 2014
+C Boike , A Sharp
+The Basics of Private Letter Rulings
+The CPA Journal , volume 80 , issue 11 , p. 44 - 47 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+61
+ABSTRACT VIEWS
+377
+RANK
+834,175
+62 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

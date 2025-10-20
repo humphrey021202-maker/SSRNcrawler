@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Risk Factor Disclosures, Debt, and Corporate Governance
+
+39 Pages Posted: 30 Jun 2021
+
+Abiodun S. Isiaka
+
+University of Regina
+
+Date Written: February 24, 2021
+
+Abstract
+
+This paper examines the effect of corporate governance on managerial discretion in reporting Risk Factor Disclosures (RFDs) and the subsequent effect on cost of debt in the public debt market. Managerial discretion in reporting RFD, termed Abnormal Risk Factor Disclosure (ARFD), is measured as the residual from the regression of RFDs on its determinants. To examine the effect of strong versus weak corporate governance on cost of debt, this study focuses on firms that pay a price for perceived higher risk, i.e., firms with Positive Abnormal Risk Factor Disclosure (PARFD) firms. I expect the presence of strong corporate governance will mitigate the expected higher cost of debt for these firms. Cost of debt is measured using S&P debt issuer rating (RATING) while corporate governance (GOV) is measured as the composite score of three corporate governance measures (Independent Directors – IND, Expert Directors – EXPERT, and Board Maturity – BMAT). The results reveal positive associations between GOV and ARFD which is consistent with the expectation that corporate governance will promote more transparent reporting. However, there is no cost of debt mitigating effect for riskier firms (PARFD) with strong corporate governance. As expected, riskier firms (PARFD) with weak corporate governance have higher cost of debt. The findings are useful to regulators in setting mandatory disclosure requirements and to management in implementing corporate governance structures in the organization.
+
+Keywords: Corporate Governance, Risk Factor Disclosures, Public Debt
+
+Suggested Citation:
+
+Isiaka, Abiodun, Risk Factor Disclosures, Debt, and Corporate Governance (February 24, 2021). Available at SSRN: https://ssrn.com/abstract=3792357 or http://dx.doi.org/10.2139/ssrn.3792357
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+78
+ABSTRACT VIEWS
+458
+RANK
+724,439
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

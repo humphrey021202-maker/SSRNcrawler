@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Alpha Representation for Active Portfolio Management and High Frequency Trading in Seemingly Efficient Markets
+
+JSM Proceedings, Business and Economic Statistics Section, pp. 673-687, American Statistical Association, Alexandria, VA, 2011
+
+15 Pages Posted: 1 Sep 2011 Last revised: 12 Mar 2012
+
+G. Charles-Cadogan
+
+University of Leicester
+
+Date Written: August 31, 2011
+
+Abstract
+
+We introduce a trade strategy representation theorem for performance measurement and portable alpha in high frequency trading, by embedding a robust trading algorithm that describe portfolio manager market timing behavior, in a canonical multifactor asset pricing model. First, we present a spectral test for market timing based on behavioral transformation of the hedge factors design matrix. Second, we find that the typical trade strategy process is a local martingale with a background driving Brownian bridge that mimics portfolio manager price reversal strategies. Third, we show that equilibrium asset pricing models like the CAPM exists on a set with P-measure zero. So that excess returns, i.e. positive alpha, relative to a benchmark index is robust to no arbitrage pricing in turbulent capital markets. Fourth, the path properties of alpha are such that it is positive between suitably chosen stopping times for trading. Fifth, we demonstrate how, and why, econometric tests of portfolio performance tend to under report positive alpha.
+
+Keywords: market timing, empirical alpha process, trading strategy, martingale system, behavioural finance, high frequency trading, Brownian Bridge, Jensen's Alpha, portable alpha
+
+JEL Classification: C02, G12, G13
+
+Suggested Citation:
+
+Charles-Cadogan, G., Alpha Representation for Active Portfolio Management and High Frequency Trading in Seemingly Efficient Markets (August 31, 2011). JSM Proceedings, Business and Economic Statistics Section, pp. 673-687, American Statistical Association, Alexandria, VA, 2011, Available at SSRN: https://ssrn.com/abstract=1920605
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+A Admati , P Pfleiderer
+A Theory of Intraday Patterns: Volume and Price Variability
+Review of Financial Studies , volume 1 , issue 1 , p. 3 - 40 Posted: 1988
+Crossref
+V Agarwal , N Naik
+Risks and Portfolio Decisions Involving Hedge Funds
+Review of Financial Studies , volume 17 , issue 1 , p. 63 - 98 Posted: 2004
+Crossref
+C Avery , J A Chevallier , R A Zeckhauser
+The "CAPS" Prediction System and Stock market Returns Posted: 2011-08
+Crossref
+Gurdip S. Bakshi , George Panayotov , Georgios Skoulakis
+Improving the Predictability of Real Economic Activity and Asset Returns with Forward Variances Inferred from Option Portfolios
+Robert H. Smith School Research Paper No. RHS 06-137 Pages: 47 Posted: 8 Jun 2010 Last revised: 29 Feb 2012
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+619
+ABSTRACT VIEWS
+3,475
+RANK
+99,108
+60 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

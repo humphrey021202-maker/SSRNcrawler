@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analysis On the Financial Performance of Bankruptcy Filings in Korea
+
+73 Pages Posted: 25 May 2022
+
+Yong Rin Park
+
+Korea Capital Market Institute (KCMI)
+
+Date Written: December 14, 2021
+
+Abstract
+
+This report explores the efficiency of corporate rehabilitation under the “Debtor Rehabilitation and Bankruptcy Act”, the equivalent of Chapter 11 in the US, using 1,530 hand-collected bankruptcy filings made by external financial audit corporations in Korea from 2006 through 2020. The empirical analysis of this report centers around the characteristics of authorized filings, corporate reorganization process itself, financial performance post exit, and the relation between the types of corporate distress and the mode of exit.
+
+The main results of the analyses are as follows. First, the corporate rehabilitation appears to successfully screen the inflow of distressed companies with low turnaround potential. Second, post-exit financial performance did not improve compared to pre-filing performance for the five years post exit. Third, debt-asset ratio of the authorized filings which exited through capital structure readjustment seems to have been sufficient implying corporate reorganization was efficient in its intrinsic role. Fourth, the mode of exit was consistent with the types of corporate distress, i.e., the firms with business distress and marginal firms exited more through M&A than through capital structure readjustment and the firms with financial distress and non-marginal firms exited more through capital structure readjustment than through M&A, consistent with asset redeployment role of corporate rehabilitation.
+
+Enhancing the efficiency of corporate rehabilitation requires the followings. First, systematic turnaround of marginal firms though corporate reorganization is difficult, therefore it is advised that marginal firms are induced to go through preemptive M&A or that the plan of reorganization gets endorsed on the condition that the firms go through asset sale. Second, management and creditors need to be incentivized for active restructuring and value enhancement through devices such as equity buy-back options and strengthened creditor rights and monitoring. Third, provision of post exit public financing is necessary for proper turnaround of newly exited firms for the first few post exit years when private capital is scarce. Fourth, acquisition demand in the capital markets for firms in corporate reorganization, one of the main driving forces for efficient corporate restructuring and asset redeployment, should be heightened.
+
+Keywords: Debtor Rehabilitation and Bankruptcy Act, Chapter 11
+
+JEL Classification: G33, G34
+
+Suggested Citation:
+
+Park, Yong Rin, Analysis On the Financial Performance of Bankruptcy Filings in Korea (December 14, 2021). Available at SSRN: https://ssrn.com/abstract=4115154 or http://dx.doi.org/10.2139/ssrn.4115154
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+특징 기업회생 신청기업의 재무성과 분석 참고문헌 기업회생의 , 대법원
+Posted: 2021
+미국의 기업회생절차상 CRO(구조조정담당임원) 제도, 『경영법 률』28 , p. 113 - 140 Posted: 2018
+『기업회생을 위한 Dip금융의 역할 확대 박용린 , 자본시장연구원 방안』 , 이슈보고
+, p. 19 - 25
+『기업부문 배분효율성 제고를 위한 자본시장의 박용린‧노산하‧이상호 , 자 역할』 , 본시장연구원
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+70
+ABSTRACT VIEWS
+1,108
+RANK
+772,295
+36 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Law eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

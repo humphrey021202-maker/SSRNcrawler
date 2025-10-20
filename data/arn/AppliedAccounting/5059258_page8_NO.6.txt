@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Organized Crime and Banks: Assessing the Effects of Anti-Mafia Police Actions on Lending
+
+31 Pages Posted: 17 Dec 2024
+
+Bruno Buchetti
+
+University of Padua - Department of Economics and Management ; European Central Bank (ECB)
+
+Michele Fabrizi
+
+University of Padua
+
+Elisabetta Ipino
+
+Seattle University - Albers School of Business and Economics
+
+Ixart Miquel-Flores
+
+European Central Bank (ECB); Frankfurt School of Finance & Mangement.
+
+Antonio Parbonetti
+
+University of Padua
+
+There are 2 versions of this paper
+
+Date Written: December 02, 2024
+
+Abstract
+
+This study examines the impact of dismantling Mafia-connected firms on bank lending practices in Italy, focusing on changes in credit terms. Leveraging a unique dataset of 667 Mafia-connected firms and data from the European Central Bank, we analyze the consequences of 38 targeted anti-Mafia operations from 2019 to 2021. Our findings indicate a rise in loan volumes per line of credit, with peer firms in affected municipalities experiencing an average increase of 0.8%. This effect is more pronounced in areas with extensive Mafia activities, showing a 1.2% increase, and in regions where removed firms were involved in rent extraction, where the increase reaches 2.1%. These results underscore the potential for significant economic recovery in these regions. Alongside the surge in lending, borrowing costs have also increased, driven by heightened risk perceptions stemming from the explicit revelation of Mafia-infiltrated companies within certain territories. This disclosure has increased the likelihood of default by firms in these areas. Cross-sectional analyses indicate that responses to these new risks vary among banks: local and domestic banks, as well as those that have newly discovered Mafia-connected customers due to recent police actions, show no significant changes in their interest rates. In contrast, non-local and foreign banks, as well as banks without prior exposure to Mafia-affiliated firms, face heightened challenges due to a general lack of detailed local knowledge about the evolving economic landscape. These findings highlight the dynamic responses of financial institutions to the eradication of organized crime, illustrating both the challenges and opportunities for economic revitalization in post-Mafia environments.
+
+Keywords: Credit Market, Organized Crime, E58, G11, Credit Risk, E52
+
+JEL Classification: E52, E58, G11
+
+Suggested Citation:
+
+Buchetti, Bruno and Fabrizi, Michele and Ipino, Elisabetta and Miquel-Flores, Ixart and Parbonetti, Antonio, Organized Crime and Banks: Assessing the Effects of Anti-Mafia Police Actions on Lending (December 02, 2024). Available at SSRN: https://ssrn.com/abstract=5059258 or http://dx.doi.org/10.2139/ssrn.5059258
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+S Agarwal , R Hauswald
+Distance and private information in lending
+The Review of Financial Studies , volume 23 , issue 7 , p. 2757 - 2788 Posted: 2010
+G A Akerlof
+The market for "lemons": Quality uncertainty and the market mechanism , volume 84 , p. 488 - 500 Posted: 1970
+F Allum , R Siebert
+Organised crime and the challenge to democracy Posted: 2004
+F Ambrosini , M Fabrizi , E Ipino , A Parbonetti
+Mafia entrepreneur: Implications for industry peers in non-traditional territories Posted: 2024
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+161
+ABSTRACT VIEWS
+976
+RANK
+331,643
+43 References
+PlumX Metrics
+Related eJournals
+
+Banking & Insurance eJournal
+
+Follow
+
+Regulation of Financial Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Board Independence Reduce Informed Short Selling Prior to Earnings Announcements? Evidence From Quasi-Natural Experiment
+
+59 Pages Posted: 24 Sep 2019
+
+Suchi Mishra
+
+Florida International University (FIU) - Department of Finance
+
+Anisur Rahman
+
+Westminster College
+
+Arun Upadhyay
+
+Florida International University
+
+Date Written: September 14, 2019
+
+Abstract
+
+Independent boards improve financial disclosure quality and reduce the opacity of information between insiders and outsiders, which lowers the incentives of informed traders that benefit from the information gap. We test this conjecture by estimating short sellers’ predictions of the direction of unexpected quarterly earnings. We find that short sellers’ predictions are less accurate in firms with independent boards relative to firms with non-independent boards. Furthermore, short-selling excess returns in firms with independent boards are insignificant. A quasi-natural experiment using the exogenous shock to board independence represented by the Sarbanes-Oxley Act of 2002 provides further support for these findings. We also show that a decrease in both information asymmetry and information leakage in firms with independent boards are potential reasons for a decrease in the accuracy of short sellers’ predictions. Further analyses show that the effects of independent boards are stronger in firms with larger information asymmetry and also in firms that have poor governance mechanisms. Sub-sample analyses suggest that these results are not driven by the idiosyncrasies of unusual periods such as the 2007–2009 global financial crisis.
+
+Keywords: short selling, board independence, unexpected earnings
+
+JEL Classification: G28, G30, G34
+
+Suggested Citation:
+
+Mishra, Suchismita and Rahman, Anisur and Upadhyay, Arun, Does Board Independence Reduce Informed Short Selling Prior to Earnings Announcements? Evidence From Quasi-Natural Experiment (September 14, 2019). Available at SSRN: https://ssrn.com/abstract=3453858 or http://dx.doi.org/10.2139/ssrn.3453858
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+97
+ABSTRACT VIEWS
+1,097
+RANK
+631,426
+2 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

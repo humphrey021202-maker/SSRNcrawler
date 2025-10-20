@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fixing the Double Deduction from Carried Interest
+
+The Shelf Project Tax Notes, p. 203, April 2011
+
+12 Pages Posted: 26 Apr 2011
+
+Calvin H. Johnson
+
+University of Texas at Austin - School of Law
+
+Date Written: April 20, 2011
+
+Abstract
+
+Commonly and appropriately, a service partner is taxed on the value of a partnership interest transferred as compensation. When the value of the interest exceeds its tax book value (capital account), the partnership seems to be allowed a double deduction, akin to deduction of both the accrual and the payment of the expense. The partnership gets a deduction for the fair market value of the partnership interest that the service partner includes in income and the other non-service partners later allocate partnership income over to the service partner, which is functionally equivalent to a second deduction for the same item.
+
+The Shelf Project proposal would limit the partnership’s deduction to the basis or capital account transferred to the service partner. The proposal also would tax sale of an income interest in the partnership as immediate ordinary income. The proposal would also apply to S corporation stock, where the problem is the same.
+
+The proposal is equivalent to treating the partnership as if it had sold ordinary assets to pay the partnership interest. The discussion rejects the argument that the transfer of the partnership interest fits under section 721 for nonrecognition, and rejects an analogy between section 1032 (nonrecognition by a corporation in issuing stock) and section 721. It rejects the argument that the partnership should be treated as selling a fractional share of all its assets. A partnership can sometimes achieve a result better than the proposal by a real sale of assets, but the real sale would solve valuation difficulties and sometimes prevent the inappropriate accounting.
+
+The proposal is made as a part of the Shelf Project, which is a collaboration among tax professionals to develop proposals to raise revenue in the ongoing revenue crisis by defending the tax base. It is intended to raise revenue without a VAT or a rate increase in ways that will improve the fairness, efficiency, and rationality of the tax system. The hard work needs to be done now to develop viable proposals. Shelf projects are intended to foreclose both 85 percent income tax rates and 60 percent federal sales taxes.
+
+Shelf Project proposals follow the format of a congressional tax committee report in explaining current law, what is wrong with it, and how to fix it.
+
+Suggested Citation:
+
+Johnson, Calvin Harsha, Fixing the Double Deduction from Carried Interest (April 20, 2011). The Shelf Project Tax Notes, p. 203, April 2011, Available at SSRN: https://ssrn.com/abstract=1816725 or http://dx.doi.org/10.2139/ssrn.1816725
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+1 Citations
+Sigitas Karpavicius , Fan Yu
+Should Interest Expenses Be Tax Deductible?
+Economic Modelling, Forthcoming · 43 Pages · Posted: 17 Feb 2013 · Last revised: 20 Dec 2015 · Downloads: 107
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+127
+ABSTRACT VIEWS
+2,124
+RANK
+514,796
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

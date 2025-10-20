@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Transparency and Bank Liability Structure
+
+49 Pages Posted: 29 Nov 2023 Last revised: 8 Oct 2025
+
+Xu Jiang
+
+Duke University
+
+Lucas Mahieux
+
+Tilburg University - Tilburg University School of Economics and Management
+
+Date Written: August 13, 2025
+
+Abstract
+
+We study the desirability of transparent accounting information for banks depending on their liability structure. In our model, a bank finances a long-term project with both uninsured and insured deposits. While uninsured deposits increase rollover risk and may generate inefficient liquidations, they may also discipline the bank with efficient liquidations. Importantly, the transparent accounting regime provides more timely information to depositors about the underlying performance of the project than the opaque regime. We show that the transparent regime is more likely to be welfare-enhancing when the amount of insured deposits is small, as the bank then issues the optimal amount of uninsured deposits and benefits from the disciplinary role of those deposits. Otherwise, when the amount of insured deposits is large, the cost from inefficient liquidations triggered by uninsured deposits dominates, resulting in the opaque regime being welfare-enhancing. Our results show that more transparent accounting is not a panacea and provide some support for the “mark-to-funding” accounting rule discussed in the literature (Bischof et al., 2021; Brunnermeier et al., 2009). They also generate novel empirical and policy implications, in light of the recent regional bank failures in the US.
+
+Keywords: liability structure, moral hazard, rollover risk, financial institutions, mark-to-funding accounting, transparency
+
+Suggested Citation:
+
+Jiang, Xu and Mahieux, Lucas, Transparency and Bank Liability Structure (August 13, 2025). Available at SSRN: https://ssrn.com/abstract=4628747 or http://dx.doi.org/10.2139/ssrn.4628747
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+A S Ahmed , E Kilic , G J Lobo
+Does recognition versus disclosure matter? evidence from value-relevance of banks' recognized and disclosed derivative financial instruments
+Accounting Review , volume 81 , issue 3 , p. 567 - 588 Posted: 2006
+F Allen , E Carletti
+Mark-to-Market Accounting and Liquidity Pricing
+Journal of Accounting and Economics , volume 45 , issue 2 , p. 358 - 378 Posted: 2008
+J Bertomeu , L Mahieux , H Sapra
+Interplay between accounting and prudential regulation
+The Accounting Review , volume 98 , issue 1 , p. 29 - 53 Posted: 2023
+M T Billett , J A Garfinkel
+Financial flexibility and the cost of external finance for us bank holding companies
+Journal of Money, Credit and banking , p. 827 - 852 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+235
+ABSTRACT VIEWS
+933
+RANK
+297,230
+55 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

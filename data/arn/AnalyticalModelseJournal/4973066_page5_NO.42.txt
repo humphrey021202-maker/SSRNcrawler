@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Impact of Managerial Discretion and Convertible Debt on Capital Structure a Real Options Analysis of Investment Timing and Agency Costs
+
+39 Pages Posted: 1 Oct 2024
+
+Yuhong Liu
+
+National Cheng Kung University
+
+I-Ming Jiang
+
+Yuan Ze University - College of Management
+
+Chia-Chun Lo
+
+affiliation not provided to SSRN
+
+Chun-Chieh Kuo
+
+National Cheng Kung University
+
+andreas karathanasopoulos
+
+SOAS University of London
+
+Abstract
+
+Convertible debt is an important financing tool for companies, offering lower capital costs than traditional debt. Its growing use highlights its increasing role in corporate finance. Early research suggests that convertible debt can help reduce agency costs between shareholders and debtholders, which originate from shareholders’ underinvestment issues. When ownership and control are separated, managers often have more decision-making power than shareholders and may prioritize personal gain over shareholder interests. This underscores the need for compensation mechanisms that encourage managers to work for the company’s overall benefit. This paper builds on that by exploring the agency problems between managers and shareholders, as well as between managers and debtholders. By incorporating convertible debt into capital structure models, the study examines how it influences the interactions among managers, shareholders, and both types of debtholders. Our analysis shows that higher expected income, salary, and ownership stakes can lead to overinvestment. However, with convertible debt, managers may underinvest to avoid sharing profits with debtholders. If a project’s EBIT reaches the conversion threshold, debtholders may convert their debt into equity, shifting returns to shareholders and managers. Including convertible debt in the capital structure increases the likelihood of conversion, enhancing the value of the investment option but also leading to more underinvestment and higher agency costs.
+
+Keywords: convertible debt, managerial discretion, underinvestment, agency costs
+
+Suggested Citation:
+
+Liu, Yuhong and Jiang, I-Ming and Lo, Chia-Chun and Kuo, Chun-Chieh and karathanasopoulos, andreas, Impact of Managerial Discretion and Convertible Debt on Capital Structure a Real Options Analysis of Investment Timing and Agency Costs. Available at SSRN: https://ssrn.com/abstract=4973066 or http://dx.doi.org/10.2139/ssrn.4973066
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A Andrikopoulos
+Irreversible investment, managerial discretion and optimal capital structure
+Journal of Banking & Finance , volume 33 , issue 4 , p. 709 - 718 Posted: 2009
+E Barucci , L D Viva
+Countercyclical contingent capital
+Journal of Banking and Finance , volume 36 , p. 1688 - 1709 Posted: 2012
+A Bensoussan , B Chevalier-Roignant , A Rivera
+Does performance-sensitive debt mitigate debt overhang
+Journal of Economic Dynamics and Control , volume 131 Posted: 2021
+M J Brennan , E S Schwartz
+The case for convertibles
+Journal of Applied Corporate Finance , volume 1 , issue 2 , p. 55 - 64 Posted: 1988
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+46
+ABSTRACT VIEWS
+361
+31 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

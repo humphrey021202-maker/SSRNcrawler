@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Empirical Research Frameworks in a Changing World: The Case of Audit Data Analytics
+
+Journal of International Accounting, Auditing and Taxation, Forthcoming
+
+55 Pages Posted: 14 Oct 2021 Last revised: 9 Jun 2022
+
+Klaus Ruhnke
+
+Freie Universitaet Berlin - Department of Finance, Accounting and Taxation
+
+Date Written: June 02, 2022
+
+Abstract
+
+Advances in data analytics is fundamentally changing the field of auditing. The primary objective of this paper is to develop a holistic, multidimensional framework to better understand the dynamics of the diffusion of audit data analytics (ADA). The framework we developed covers categories related to the diffusion of ADA (the technology, the actors using it, the external rules that regulate it) and the actors reproducing the rules and technologies (focusing on the audit process, cognitive processes). We analyze the key findings from 40 empirical studies within and across the interrelated categories of the framework. The findings emphasize that a better understanding of auditors’ judgment and decision making (cognitive processes) is fundamental for a study of the diffusion of ADA. Primary drivers of fundamental changes include audit quality, audit efficiency and the expectation gap. Our results suggest that ADA competencies should be a professional priority. In addition, conceptual issues (the audit risk model, the concepts of audit evidence, audit assertions) and materiality considerations need to be resolved. A solution of these problems is a prerequisite for in-depth changes to audit standards, which in turn will also open the door to the diffusion of ADA.
+
+Keywords: Audit, audit evidence, big data, data analytics, empirical research, framework
+
+JEL Classification: D91, M42, O30
+
+Suggested Citation:
+
+Ruhnke, Klaus, Empirical Research Frameworks in a Changing World: The Case of Audit Data Analytics (June 02, 2022). Journal of International Accounting, Auditing and Taxation, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3941961 or http://dx.doi.org/10.2139/ssrn.3941961
+Download This Paper
+ 
+Open PDF in Browser
+156 References
+J L Abernathy , M Barnes , C Stefaniak , A Weisbarth
+An international perspective on audit report lag: a synthesis of the literature and opportunities for future research
+International Journal of Auditing , volume 21 , p. 100 - 127 Posted: 2017
+Acca
+Banishing bias? Audit, objectivity and the value of professional scepticism Posted: 2017-06-02
+A Alawadhi , K D Allee , B Baik , Y Roh
+Detecting financial misreporting with real production activity
+Contemporary Accounting Research , volume 38 , issue 3 , p. 1581 - 1615 Posted: 2015-06-02
+M G Alles , G L Gray
+Incorporating big data in audits: identifying inhibitors and a research agenda to address those inhibitors
+International Journal of Accounting Information Systems , volume 22 , p. 44 - 59 Posted: 2016
+Load more
+2 Citations
+Debbi Chyntia Ovami , Iskandar Muda
+Proceedings of the 12th International Conference on Green Technology (ICGT 2022)
+, volume 221 , p. 93 Posted: 2023
+Crossref
+Dereck Barr‐Pulliam , Helen L. Brown‐Liburd , Ivy Munoko
+The effects of person‐specific, task, and environmental factors on digital transformation and innovation in auditing: A review of the literature
+Journal of International Financial Management & Accounting , volume 33 , issue 2 , p. 337 Posted: 2022
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+640
+ABSTRACT VIEWS
+2,507
+RANK
+95,379
+2 Citations
+156 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

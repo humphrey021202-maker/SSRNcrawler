@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Detecting Financial Misreporting with Real Production Activity: Evidence from an Electricity Consumption Analysis
+
+Contemporary Accounting Research, Forthcoming
+
+Posted: 22 Mar 2021
+
+Kristian D. Allee
+
+University of Arkansas, Fayetteville - Department of Accounting
+
+Bok Baik
+
+Seoul National University
+
+Yongoh Roh
+
+McGill University - Desautels Faculty of Management
+
+There are 2 versions of this paper
+
+Date Written: February 22, 2021
+
+Abstract
+
+This study examines whether a real production activity measure, firm-level electricity consumption growth, is useful in detecting firm financial misreporting. Identifying proxies for a firm’s underlying financial performance that are not a function of the firm’s accounting system is essential for misreporting detection. We propose that the difference between revenue growth and electricity consumption growth (i.e., growth wedge) is a useful signal of financial misreporting. Using electricity consumption data for Korean firms from 2006 to 2014, we find that the growth wedge is positively associated with discretionary revenues and accruals and the likelihood of financial misreporting as proxied by accounting restatements, qualified audit opinions, and regulatory enforcement actions. The growth wedge provides incremental information over firm characteristics and earnings management signals examined by prior research. Our findings are robust to a battery of additional tests, including within-firm and industry comparisons that do not require access to cross-sectional firm-level electricity data. Overall, our study documents new evidence on the role of a real production activity measure from an independent reporting entity in detecting financial misreporting. Our evidence speaks to the potential usefulness of real activity metrics in forensic economics.
+
+Keywords: financial misreporting, fraud, nonfinancial information, forensic economics, accrual accounting, real production
+
+JEL Classification: M41, M43, M49, G30, G38, K42
+
+Suggested Citation:
+
+Allee, Kristian D. and Baik, Bok and Roh, Yongoh, Detecting Financial Misreporting with Real Production Activity: Evidence from an Electricity Consumption Analysis (February 22, 2021). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3796154
+ Not Available for Download
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+616
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

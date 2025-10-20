@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+IFRS Consequences on Accounting Conservatism in Europe: Do Auditor Incentives Matter?
+
+52 Pages Posted: 4 Feb 2011 Last revised: 5 Oct 2015
+
+Charles Piot
+
+Univ. Grenoble Alpes; University of Angers - Centre de Recherches Appliquées à la Gestion (CERAG)
+
+Pascal Dumontier
+
+University of Grenoble; University of Angers - Centre de Recherches Appliquées à la Gestion (CERAG)
+
+Rémi Janin
+
+University of Grenoble and CERAG-CNRS
+
+There are 2 versions of this paper
+
+Date Written: October 2015
+
+Abstract
+
+We investigate the way auditor characteristics (i.e., reputation and industry specialization) interact on the consequences of mandatory IFRS adoption in Europe in terms of accounting conservatism. Indeed, a mandatory adoption setting may control for firm-level reporting incentives when gauging the effects of a change in accounting standards. However, companies still have some flexibility in their choice of auditor, and the later has a significant say on the accounting policy. We use a dataset of European firms adopting IFRS in 2005 in response to the IAS Regulation (2,973 unique firms) and observed between 2001 and 2008. The main findings are that: (1) the decrease in conditional conservatism (as proxied by the asymmetric timeliness of bad vs. good news), also evidenced in other studies (Ahmed et al., 2013; André et al., 2013) is attributable to Big 4-audited companies; (2) correlatively, unconditional conservatism is higher under IFRS in the presence of a Big 4 auditor; and (3) none of these moderating effects occur when considering auditor industry specialization metrics. We conclude that Big 4 auditors placed more emphasis on auditor risk incentives in the IFRS adoption context, by influencing overly conservative accounting practices in response to the new and uncertain accounting environment, with detrimental effects on earnings quality.
+
+Keywords: Mandatory IFRS adoption; Conservatism; Big 4; industry specialization; Europe
+
+JEL Classification: M48, M41, M42
+
+Suggested Citation:
+
+Piot, Charles and Dumontier, Pascal and Janin, Rémi, IFRS Consequences on Accounting Conservatism in Europe: Do Auditor Incentives Matter? (October 2015). Available at SSRN: https://ssrn.com/abstract=1754504 or http://dx.doi.org/10.2139/ssrn.1754504
+Download This Paper
+ 
+Open PDF in Browser
+128 References
+C P Agoglia , T S Doupnik , G T Tsakumis
+Principles-Based versus RulesBased Accounting Standards: The Influence of Standard Precision and Audit Committee Strength on Financial Reporting Decisions
+The Accounting Review , volume 86 , issue 3 , p. 747 - 767 Posted: 2011
+Crossref
+A S Ahmed , B K Billings , R M Morton , M Stanford-Harris
+The role of accounting conservatism in mitigating bondholder-shareholder conflicts over dividend policy and in reducing debt costs
+The Accounting Review , volume 77 , issue 4 , p. 867 - 890 Posted: 2002
+Crossref
+A S Ahmed , M Neel , D Wang
+Does Mandatory Adoption of IFRS Improve Accounting Quality? Preliminary Evidence
+Contemporary Accounting Research , volume 30 , issue 4 , p. 1344 - 1372 Posted: 2013
+Crossref
+D Alexander , B Eirle , C Hutten
+The auditor as standard-setter: Some US evidence and its implication
+29th congress of the French Accounting Association Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,359
+ABSTRACT VIEWS
+5,494
+RANK
+14,706
+6 Citations
+128 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring Country Differences in Enforcement of Accounting Standards: An Audit and Enforcement Proxy
+
+FIRN Research Paper
+
+68 Pages Posted: 28 Jun 2013 Last revised: 24 Apr 2014
+
+Philip R. Brown
+
+UWA Business School, M250; Financial Research Network (FIRN)
+
+John P. Preiato
+
+The University of Western Australia
+
+Ann Tarca
+
+University of Western Australia
+
+Date Written: December 10, 2013
+
+Abstract
+
+In this paper we present an index designed to capture differences between countries in relation to the institutional setting for financial reporting, specifically the auditing of financial statements and the enforcement of compliance with each country’s accounting standards. The adoption of International Financial Reporting Standards (IFRS) aims, in broad terms, to promote the comparability and transparency of financial statements and to improve the quality of financial reporting. However, the effectiveness of IFRS adoption is believed to be hampered by differences, across countries, in the institutional setting in which financial reporting occurs. Studies of the impact of IFRS have used a range of proxies to capture these country differences, but the proxies seldom focus explicitly on factors that affect how compliance with accounting standards is promoted through external audit and the activities of independent enforcement bodies. To address this deficiency, we calculate measures of the quality of public company audits (AUDIT) and the degree of accounting enforcement activity (ENFORCE) for 51 countries for each of the years 2002, 2005 and 2008, using publicly available data provided by the International Federation of Accountants (IFAC), the World Bank and the national securities regulators. Our aim in constructing and publishing our index is to make available, to researchers and other interested parties, country-level enforcement measures that are more obviously focused on financial reporting practices.
+
+Keywords: security market regulation, external audit, IFRS, compliance, enforcement, accounting quality
+
+JEL Classification: M41, M42, M48, K20
+
+Suggested Citation:
+
+Brown, Philip R. and Preiato, John P. and Tarca, Ann, Measuring Country Differences in Enforcement of Accounting Standards: An Audit and Enforcement Proxy (December 10, 2013). FIRN Research Paper, Available at SSRN: https://ssrn.com/abstract=2286029 or http://dx.doi.org/10.2139/ssrn.2286029
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,197
+ABSTRACT VIEWS
+5,595
+RANK
+40,557
+24 Citations
+60 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Recommended Papers
+
+International Accounting Standards and Accounting Quality
+
+By Mary E. Barth, Wayne R. Landsman, ...
+
+Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences
+
+By Holger Daske, Luzi Hail, ...
+
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors
+
+By Ray Ball
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

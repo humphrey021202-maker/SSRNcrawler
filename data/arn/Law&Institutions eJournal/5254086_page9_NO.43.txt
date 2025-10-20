@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does the timing of going dark influence market evaluation? Evidence from the Tokyo Stock Exchange Reform
+
+28 Pages Posted: 14 May 2025
+
+Ritsuko Okada
+
+Otemon Gakuin University
+
+Date Written: May 14, 2025
+
+Abstract
+
+While the reasons and economic consequences of delisting have been widely studied, little is known about how the timing of such decisions is evaluated by investors. This study addresses this gap by examining a unique set of firms that were effectively forced to delist from a top-tier market and transfer to a lower-tier segment under pressure from the 2022 Tokyo Stock Exchange (TSE) reform. These firms-referred to as quasimandatory going-dark cases-retained discretion over the timing of their exit, offering a rare opportunity to isolate the market consequences of delayed decision-making in the context of delisting. The analysis first shows that firms with weaker fundamentals-such as smaller size, higher leverage, and lower ROE and PBR-are more likely to go dark. Interestingly, among these firms, those with higher asset growth, stronger market valuations, and more developed governance structures tend to postpone their transfer, suggesting an effort to remain in the top-tier market for as long as possible. Most importantly, this study finds that firms that delay this critical decision face significantly more negative market reactions. This effect persists not only on the announcement day but also over the subsequent 30 trading days, indicating a clear post-announcement drift. These results suggest that investors respond more critically to firms that hesitate to act in the face of delisting pressure, especially when the outcome is inevitable.
+
+Keywords: delisting, go dark, Tokyo Stock Exchange, stock reaction, event study, governance
+
+JEL Classification: G18, G34, G38, K22
+
+Suggested Citation:
+
+Okada, Ritsuko, Does the timing of going dark influence market evaluation? Evidence from the Tokyo Stock Exchange Reform (May 14, 2025). Available at SSRN: https://ssrn.com/abstract=5254086 or http://dx.doi.org/10.2139/ssrn.5254086
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+B Baik , D B Farber , S S Lee
+CEO Ability and Management Earnings Forecasts , volume 28 , p. 1645 - 1668 Posted: 2011
+G P Baker , R E Kennedy
+Survivorship and the Economic Grim Reaper
+The Journal of Law, Economics, and Organization , volume 18 , issue 2 , p. 324 - 361 Posted: 2002
+S Bernstein , A Dev , J Lerner
+The creation and evolution of entrepreneurial public markets
+Journal of Financial Economics , volume 136 , issue 2 , p. 307 - 329 Posted: 2020
+W Bessler , J Beyenbach , M S Rapp , M Vendrasco
+Why do firms down-list or exit from securities markets?
+Review of Managerial Science , volume 17 , issue 4 , p. 1175 - 1211 Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+80
+ABSTRACT VIEWS
+786
+RANK
+713,531
+26 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

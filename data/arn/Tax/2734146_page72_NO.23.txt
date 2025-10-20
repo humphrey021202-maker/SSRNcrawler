@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Relationship between Effective Tax Rate and Firm Size. Size as a Determinant Factor for Effective Tax Rate Change in the UK Wholesale and Retail Trade Sectors
+
+Posted: 20 Feb 2016 Last revised: 21 Feb 2016
+
+Epameinondas Katsikas
+
+University of Kent
+
+Jacob Lewis
+
+Durham University Business School
+
+Date Written: January 5, 2016
+
+Abstract
+
+The current research studies firm size and other determinants of effective tax rates for UK companies operating in the wholesale and retail trade sector. A panel of 784 companies from the BvD Company Independence Indicator (BvD’s FAME database) is studied over the six year period 2008-2013. The analysis shows that size, and profitability, were significant factors affecting the average effective tax rates of companies in the wholesale and retail trade sector.
+
+This research examines the extent to which firm size, and other factors, have an influence on effective tax rates in the UK wholesale and retail trade sector. It will seek to explore the potential explanations as to why these factors would have an impact on effective tax rates more generally, and in the particular sector studied. It also argues that some of the factors studied are significant in the determination of effective tax rates in UK wholesale and retail trade companies and other determinants less/not so.
+
+Many business decisions are affected by taxation, it is therefore useful to have a measure of taxation that is more meaningful to specific companies than simply the legislative or statutory tax rate (STR). This is due to the STR not taking account of certain factors such as allowances, deductions and timing differences (Moes, 1999). Effective tax rates allow us to take account of some of these factors, and allow better comparisons between companies and judgements about tax systems more generally. They also allow us to look at the fairness or the distortedness of the tax system in how different factors have an influence on the amount of tax paid by a company.
+
+A measure of effective tax rate is needed in this study in order to study the differences in the taxes paid between the companies in the study. For this study, the measure of effective tax rate is given by corporation tax divided by pre-tax profit.
+
+The aim of this study is to determine if firm size (along with other relevant variables) is a differentiating factor in terms of corporate effective tax rate of UK wholesale and retail trade sector companies over the six year period 2008-2013. There have been few if any multivariate studies examining the relationship of effective tax rates with multiple determinants within the UK. This dissertation therefore aims to address this deficiency.
+
+Using annual financial reporting data from the FAME database this research will propose to model the relationship between effective tax rates and determinants thought to affect it. The wholesale and retail sector was chosen because this was the sector with the most data available and is a sector in which the effective tax rate is not influenced by financial instruments as is the case with the financial services sector (Fernández-Rodríguez & Martínez-Arias, 2014). The particular model that has been chosen is one that enables the discovery of non-linear effects which has not previously been done for the UK. Annual financial reports have been used as these are readily available and comparable with other studies using similar data.
+
+Keywords: tax rate, size, retail, wholesale
+
+Suggested Citation:
+
+Katsikas, Epameinondas and Lewis, Jacob, The Relationship between Effective Tax Rate and Firm Size. Size as a Determinant Factor for Effective Tax Rate Change in the UK Wholesale and Retail Trade Sectors (January 5, 2016). Available at SSRN: https://ssrn.com/abstract=2734146
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,152
+PlumX Metrics
+Related eJournals
+
+European Finance eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

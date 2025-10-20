@@ -1,0 +1,152 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dynamic Predictive Density Combinations for Large Data Sets in Economics and Finance
+
+Tinbergen Institute Discussion Paper 15-084/III
+
+73 Pages Posted: 21 Jul 2015 Last revised: 6 Mar 2017
+
+Roberto Casarin
+
+University Ca' Foscari of Venice - Department of Economics
+
+Stefano Grassi
+
+University of Kent - Canterbury Campus
+
+Francesco Ravazzolo
+
+Free University of Bozen-Bolzano - Faculty of Economics and Management; BI Norwegian Business School - Department of Data Science and Analytics
+
+H. K. van Dijk
+
+Tinbergen Institute; Econometric Institute
+
+There are 2 versions of this paper
+
+Date Written: March 10, 2016
+
+Abstract
+
+A Bayesian semi-parametric dynamic model combination is proposed in order to deal with a large set of predictive densities. It extends the mixture of experts and the smoothly mixing regression models by allowing combination weight dependence between models as well as over time. It introduces an information reduction step by using a clustering mechanism that allocates the large set of predictive densities into a smaller number of mutually exclusive subsets. The complexity of the approach is further reduced by making use of the class-preserving property of the logistic-normal distribution that is specified in the compositional dynamic factor model for the weight dynamics with latent factors defined on a reduced dimension simplex. The whole model is represented as a nonlinear state space model that allows groups of predictive models with corresponding combination weights to be updated with parallel clustering and sequential Monte Carlo filters. The approach is applied to predict Standard & Poor’s 500 index using more than 7000 predictive densities based on US individual stocks and finds substantial forecast and economic gains. Similar forecast gains are obtained in point and density forecasting of US real GDP, Inflation, Treasury Bill yield and employment using a large data set.
+
+Keywords: Density Combination, Large Set of Predictive Densities, Compositional Factor Models, Nonlinear State Space, Bayesian Inference, GPU Computing
+
+JEL Classification: C11, C15, C53, E37
+
+Suggested Citation:
+
+Casarin, Roberto and Grassi, Stefano and Ravazzolo, Francesco and van Dijk, Herman K., Dynamic Predictive Density Combinations for Large Data Sets in Economics and Finance (March 10, 2016). Tinbergen Institute Discussion Paper 15-084/III, Available at SSRN: https://ssrn.com/abstract=2633388 or http://dx.doi.org/10.2139/ssrn.2633388
+Download This Paper
+ 
+Open PDF in Browser
+78 References
+K A Aastveit , F Ravazzolo , H K Van Dijk
+Combined density nowcasting in an uncertain economic environment
+Journal of Business Economics & Statistics, forthcoming Posted: 2015
+Crossref
+J Aitchinson
+The statistical analysis of compositional data
+Journal of the Royal Statistical Society Series, Series B , volume 44 , p. 139 - 177 Posted: 1982
+Crossref
+J Aitchinson
+The Statistical Analysis of Compositional Data Posted: 1986
+J Aitchinson
+On criteria for measures of compositional difference
+Mathematical Geology , volume 24 , p. 365 - 379 Posted: 1992
+Crossref
+Load more
+8 Citations
+Nalan Basturk , Lennart F. Hoogerheide , Herman K. van Dijk
+Bayesian Analysis of Boundary and Near-Boundary Evidence in Econometric Models with Reduced Rank
+Tinbergen Institute Discussion Paper No. 17-058/III · 91 Pages · Posted: 29 Jun 2017 · Downloads: 73
+Download PDF  Add Paper to My Library
+Leopoldo Catania
+Dynamic Adaptive Mixture Models with an Application to Volatility and Risk
+32 Pages · Posted: 14 May 2019 · Downloads: 231
+Download PDF  Add Paper to My Library
+Nalan Baştürk , Roberto Casarin , Francesco Ravazzolo , Herman Van Dijk
+Computational Complexity and Parallelization in Bayesian Econometric Analysis
+Econometrics , volume 4 , issue 1 , p. 9 Posted: 2016
+Crossref
+Roberto Casarin , Stefano Grassi , Francesco Ravazzolo , Herman K. van Dijk
+Parallel Sequential Monte Carlo for Efficient Density Combination: The Deco Matlab Toolbox
+Tinbergen Institute Discussion Paper 13-055/III · 28 Pages · Posted: 4 May 2015 · Last revised: 4 May 2015 · Downloads: 536
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+245
+ABSTRACT VIEWS
+2,363
+RANK
+222,795
+8 Citations
+78 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

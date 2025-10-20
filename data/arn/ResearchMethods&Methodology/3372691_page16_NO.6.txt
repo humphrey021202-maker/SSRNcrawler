@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring Multidimensional Investment Opportunity Sets with 10-K Text
+
+71 Pages Posted: 15 May 2019 Last revised: 29 Jan 2021
+
+Sudipta Basu
+
+Temple University - Department of Accounting
+
+Xinjie Ma
+
+University of Iowa - Department of Accounting
+
+Hoa Briscoe-Tran
+
+Monash Business School
+
+Date Written: January 8, 2021
+
+Abstract
+
+We show that firms’ investment opportunity sets (IOS) are multidimensional. Analyzing Form 10-K texts, we identify 445 unique keywords that predict firms’ future investments during 1995-2009 and combine them into 43 underlying factors. Industry-specific factors include Bio-Pharma, Banking, Information Technology, Oil & Gas and Retail Stores, while more general factors include Equity Intensity, Debt Intensity, Lease, Going Concern and Acquisition. These factors form our multidimensional measures of IOS. They outperform Tobin’s Q and/or industry fixed effects, in predicting out-of-sample (2010-15) investments and related corporate policies, and even inform incrementally over lagged dependent variables. We trace the factors’ improved predictive power to their multidimensional nature, which captures IOS-related variation within and between industries, and stability in IOS that allows 10-K texts to be more informative.
+
+Keywords: Investment Opportunities, IOS, Textual Analysis, Tobin’s Q, Corporate Policies, Lasso
+
+JEL Classification: G31, G32, G35, M41, M21
+
+Suggested Citation:
+
+Basu, Sudipta and Ma, Xinjie and Briscoe-Tran, Hoa, Measuring Multidimensional Investment Opportunity Sets with 10-K Text (January 8, 2021). Available at SSRN: https://ssrn.com/abstract=3372691 or http://dx.doi.org/10.2139/ssrn.3372691
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+George Paper
+Crossref
+P Milgrom , J Roberts
+Complementarities and fit strategy, structure, and organizational change in manufacturing
+Journal of Accounting and Economics , volume 19 , issue 2-3 , p. 179 - 208 Posted: 1995
+Crossref
+S C Myers
+Determinants of corporate borrowing
+Journal of Financial Economics , volume 5 , issue 2 , p. 147 - 175 Posted: 1977
+Crossref
+R C Nash , J M Netter , A B Poulsen
+Determinants of contractual relations between shareholders and bondholders: Investment opportunities and restrictive covenants
+Journal of Corporate Finance , volume 9 , issue 2 , p. 201 - 232 Posted: 2003
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+963
+ABSTRACT VIEWS
+3,974
+RANK
+55,151
+4 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

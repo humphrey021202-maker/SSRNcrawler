@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Taxes and the Earnings Distribution: Effects of the Domestic Production Activities Deduction
+
+FEDS Working Paper No. 2021-81
+
+85 Pages Posted: 5 Jan 2022 Last revised: 20 Jan 2022
+
+Christine Dobridge
+
+Board of Governors of the Federal Reserve System
+
+Paul Landefeld
+
+Government of the United States of America - Joint Committee on Taxation
+
+Jacob Mortenson
+
+Joint Committee on Taxation, US Congress
+
+Date Written: December, 2021
+
+Abstract
+
+This paper investigates how corporate tax changes affect workers’ earnings. We use a dataset of U.S. worker-level W-2 filings matched with corporate tax returns and study the implementation of the Domestic Production Activities Deduction (DPAD). We find the DPAD tax rate reduction has a substantial effect on the distribution of annual wage earnings within a firm. Earnings of workers at the top of their firm’s earnings distribution rise relative to those at the bottom of the distribution. We estimate a semi-elasticity of average earnings of 1.1 with respect to the DPAD marginal tax rate reduction, while the semi-elasticity of median earnings is notably smaller—0.5. Furthermore, we estimate a semi-elasticity of 1.3 at the 95th percentile of workers’ earnings and 2.7 at the 99th percentile. This trend of larger semi-elasticities at the top of the earnings distribution is especially pronounced for small firms. Looking at overall employment effects, we see no change overall, but the number of employees rises at small firms and declines at large firms. In contrast, we find that capital investment rises for large firms, suggesting that the DPAD also resulted in domestic capitallabor substitution for large corporations. Our paper has significant implications for assessing the progressivity of the U.S. tax code and for analyzing the effect of corporate tax policy changes on the U.S. income distribution.
+
+Keywords: Corporate taxation, Earnings distribution, Employment, Investment
+
+JEL Classification: D31, H22, H25, J31
+
+Suggested Citation:
+
+Dobridge, Christine and Landefeld, Paul and Mortenson, Jacob, Corporate Taxes and the Earnings Distribution: Effects of the Domestic Production Activities Deduction (December, 2021). FEDS Working Paper No. 2021-81, Available at SSRN: https://ssrn.com/abstract=3997002 or http://dx.doi.org/10.17016/FEDS.2021.081
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+Rosanne Altshuler , Li Liu
+Measuring the Burden of the Corporate Income Tax under Imperfect Competition
+National Tax Journal , volume 66 , issue 1 , p. 215 - 238 Posted: 2013
+Daron Acemoglu , David Autor
+Skills, Tasks and Technologies: Implications for Employment and Earnings
+Handbook of Labor Economics , volume 4 , p. 1043 - 1166 Posted: 2011
+Alan J Auerbach , James M Poterba
+Who Bears the Corporate Tax? A Review of What We Know
+Tax Policy and the Economy , volume 20 , p. 1 - 40 Posted: 2005
+Wiji Arulampalam , Michael Devereux , Giorgia Maffini
+The Direct Incidence of Corporate Income Tax on Wages
+European Economic Review , volume 56 , p. 1038 - 1054 Posted: 2012
+Load more
+1 Citations
+William G. Gale , Samuel Thorpe
+Rethinking the Corporate Income Tax: The Role of Rent Sharing
+45 Pages · Posted: 10 May 2022 · Downloads: 161
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+202
+ABSTRACT VIEWS
+995
+RANK
+344,239
+1 Citations
+62 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Board of Governors of the Federal Reserve System Research Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

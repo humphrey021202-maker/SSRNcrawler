@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Artificial Intelligence Agentic Auditing
+
+37 Pages Posted: 12 Aug 2024 Last revised: 5 Jan 2025
+
+Marco Schreyer
+
+International Computer Science Institute (ICSI); University of St. Gallen
+
+Hanchi Gu
+
+Shanghai University of Finance and Economics
+
+Kevin Moffitt
+
+Rutgers University
+
+Miklos A. Vasarhelyi
+
+Rutgers Business School
+
+Date Written: July 25, 2024
+
+Abstract
+
+The integration of artificial intelligence (AI) agents in financial auditing has the potential to transform auditing practices. Leveraging large language models (LLMs), these autonomous systems can enhance auditing by managing complex and interdependent tasks. This study explores the progression from co-piloted LLM-enabled auditing to auto-piloted agent-enabled auditing. We introduce a framework for implementing AI agentic workflows in financial auditing. Through a detailed case study on agentic journal entry testing, we demonstrate the practical application of these systems. Our findings highlight how AI agentic audit workflows, characterised by iterative refinement and specialised tool use, can execute advanced audit procedures. We envision this work as an initial step towards the adoption of agents in auditing and advocate for the exploration of AI agents in this domain.
+
+Keywords: artificial intelligence, artificial intelligence agents, large language models, financial auditing, accounting information systems, journal entry testing
+
+Declaration of Interest
+
+None
+
+Funder Statement
+
+Marco Schreyer's research is supported by an IFI fellowship (No. 57515245) of the German Academic Exchange Service (DAAD).
+
+JEL Classification: M40, M41, M42, O30, O32, O33
+
+Suggested Citation:
+
+Schreyer, Marco and Gu, Hanchi and Moffitt, Kevin and Vasarhelyi, Miklos A., Artificial Intelligence Agentic Auditing (July 25, 2024). Available at SSRN: https://ssrn.com/abstract=4909147
+Download This Paper
+ 
+Open PDF in Browser
+54 References
+J Achiam , S Adler , S Agarwal , L Ahmad , I Akkaya , F L Aleman , B Mcgrew
+Posted: 2023
+D Appelbaum , A Kogan , M A Vasarhelyi
+Big Data and analytics in the modern audit engagement: Research needs
+Auditing: A Journal of Practice & Theory , volume 36 , issue 4 , p. 1 - 27 Posted: 2017
+R Bommasani , D A Hudson , E Adeli , R Altman , S Arora , S Von Arx , . . Liang , P
+On the opportunities and risks of foundation models Posted: 2021
+R Bommasani , K Klyman , S Longpre , S Kapoor , N Maslej , B Xiong , . . Liang , P
+The foundation model transparency index Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,426
+ABSTRACT VIEWS
+5,361
+RANK
+31,274
+54 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

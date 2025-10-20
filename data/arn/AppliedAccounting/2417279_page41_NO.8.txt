@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Unwinding the Ceiling Rule
+
+Virginia Tax Review, 2014 Forthcoming
+
+36 Pages Posted: 29 Mar 2014 Last revised: 24 Jul 2014
+
+Leigh Osofsky
+
+University of North Carolina (UNC) at Chapel Hill
+
+Date Written: March 28, 2014
+
+Abstract
+
+As is widely known, the so-called “ceiling rule,” which applies under the traditional method for section 704(c) allocations, can create the wrong tax result. Specifically, the ceiling rule can result in misallocations of income, gain, loss, and deduction to both a partner contributing property and to the noncontributing partners. Notwithstanding these predictable misallocations, the Treasury Department still permits application of the ceiling rule under section 704(c). This Article challenges longstanding assumptions regarding the operation of the ceiling rule in the context of section 704(c). Historically, Congress and partnership tax experts assumed that the ceiling rule is perfectly unwound on liquidation or sale of a partnership interest. This assumption still operates to some extent today. The assumption glosses over a significantly more complicated reality. This Article closely examines the history of section 704(c) and the interaction between the ceiling rule and the rules regarding sales and liquidations of partnership interests. Doing so reveals that when and to what extent the perfect unwinding assumption holds depends (perhaps to a surprising degree) on (1) a variety of relatively arbitrary facts regarding the assets held by the partnership on liquidation or sale, and (2) the unintended interactions of inordinately complicated partnership tax rules. In reaching this conclusion, this Article displays that the ceiling rule, which has always been part of the section 704(c) regime, is even worse than it is commonly thought to be.
+
+Fully appreciating the extent to which the ceiling rule can perpetuate mistaxation long after the liquidation or sale of a partner’s interest in the partnership is important. As explained in this Article, the ceiling rule creates enormous complexity and planning opportunities that unjustifiably accrue to the well informed. The ceiling rule creates this complexity and these planning opportunities not in order to tax taxpayers appropriately. Instead, when it applies, the ceiling rule creates uncontrovertibly incorrect tax results. The ceiling rule thereby unnecessarily creates a mess of the fundamentally important section 704(c) partnership tax rules governing allocations with respect to contributed property. Despite the mess it makes of the section 704(c) regime, the ceiling rule has remained part of it for decades in part because of the mistaken and oversimplified assumptions regarding the unwinding of the ceiling rule, and the resulting perceptions of the limited impact of the ceiling rule. By debunking these long-held assumptions, this Article displays there is no reasonable justification to continue to retain the ceiling rule.
+
+Suggested Citation:
+
+Osofsky, Leigh, Unwinding the Ceiling Rule (March 28, 2014). Virginia Tax Review, 2014 Forthcoming, Available at SSRN: https://ssrn.com/abstract=2417279
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+To correct distortions created by the ceiling rule, a partnership using the traditional method under paragraph (b) of this section may make reasonable curative allocations to reduce or eliminate disparities between book and tax items of noncontributing partners Posted: 2013
+at the time of contribution of $300. The partnership is an equal one-third partnership, in which each of A, B, and C holds a one-third interest in all partnership income, losses, and capital. Based on these facts, $100 in book value from the contributed property will be allocated to each of B and C. They will each be entitled to take depreciation for book purposes of $100 for the contributed property Posted: 2013
+Unlike ceiling rule limitations of depreciation or depletion, ceiling rule limitations of gain or loss are attributable to post-contribution changes in value , volume 650
+Barksdale Hortenstine , &amp; Gregory , J Marich
+An Analysis of the Rules Governing Partnership 132 I.R.C. § 704(c)(1)(C)(i)
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+388
+ABSTRACT VIEWS
+2,836
+RANK
+174,586
+29 References
+PlumX Metrics
+Related eJournals
+
+Tax Law & Policy eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

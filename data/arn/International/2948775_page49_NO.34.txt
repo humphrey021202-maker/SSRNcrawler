@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Mandatory IFRS Adoption and the Usefulness of Accounting Information in Predicting Future Earnings and Cash Flows
+
+51 Pages Posted: 10 Apr 2017 Last revised: 11 Jun 2021
+
+Siyi Li
+
+California State University, Fullerton - Department of Accounting
+
+Theodore Sougiannis
+
+University of Illinois at Urbana-Champaign - Department of Accountancy
+
+Sophia Wang
+
+California State University, Fullerton
+
+Date Written: April 7, 2017
+
+Abstract
+
+We examine whether the mandatory adoption of International Financial Reporting Standards (IFRS) has changed the usefulness of accounting information in predicting future earnings and cash flows out-of-sample. Using a sample of firms from European Union countries that mandatorily adopted IFRS in 2005, we find the out-of-sample earnings and cash flows forecasts become significantly more accurate after IFRS adoption. Improvements in earnings forecast accuracy vary with the strength of legal enforcement but not with the strength of securities regulation and differences between domestic accounting standards (DAS) and IFRS while improvements in cash flow forecast accuracy do not vary with institutional characteristics. Total accruals are useful in the prediction of earnings both before and after IFRS adoption and their usefulness does not vary with institutional characteristics. However, total accruals are useful in the prediction of cash flows only after IFRS adoption and their usefulness does not depend on institutional characteristics. Accrual components do not have incremental predictive ability over total accruals. Earnings are (not) more informative about future cash flows than cash flows alone in countries with weak (strong) enforcement/regulation and high (low) DAS differences from IFRS. Portfolios of stocks based on the out-of-sample forecasts generate higher hedge returns after IFRS adoption, which corroborates the detected forecast accuracy improvements. Overall, an important dimension of accounting quality, predictive ability of future earnings and cash flows, has improved after mandatory IFRS adoption.
+
+Keywords: IFRS, out-of-sample prediction, earnings, cash flows
+
+JEL Classification: M41, G15, G17, G18
+
+Suggested Citation:
+
+Li, Siyi and Sougiannis, Theodore and Wang, Sophia, Mandatory IFRS Adoption and the Usefulness of Accounting Information in Predicting Future Earnings and Cash Flows (April 7, 2017). Available at SSRN: https://ssrn.com/abstract=2948775 or http://dx.doi.org/10.2139/ssrn.2948775
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+A S Ahmed , M Neel , D Wang
+Does Mandatory Adoption of IFRS Improve Accounting Quality? Preliminary Evidence
+Contemporary Accounting Research , volume 30 , p. 1344 - 1372 Posted: 2013
+Crossref
+C S Armstrong , W R Guay , J P Weber
+The role of information and financial reporting in corporate governance and debt contracting
+Journal of Accounting & Economics , volume 50 , p. 179 - 234 Posted: 2010
+Crossref
+T J Atwood , M S Drake , J N Myers , L A Myers
+Do earnings reported under IFRS tell us more about future earnings and cash flows?
+Journal of Accounting and Public Policy , volume 30 , issue 2 , p. 103 - 121 Posted: 2011
+Crossref
+K Bae , H Tan , M Welker
+International GAAP differences: the impact on foreign analysts
+The Accounting Review , volume 83 , issue 3 , p. 593 - 628 Posted: 2008
+Crossref
+Load more
+6 Citations
+Mohamed Ibrahim Mohamed Hessian
+The Impact of IFRS Adoption on Earnings Management Activities and Value Relevance of Accounting Information: Applied Study
+International Journal of Business Ethics and Governance , volume 1 , issue 3 , p. 11 Posted: 2018
+Crossref
+Jairaj Gupta , Mariachiara Barzotto
+Insights on Bankruptcy Emergence
+SSRN Electronic Journal Posted: 2018
+Crossref
+André Aroldo Freitas de Moura , Jairaj Gupta
+Mandatory adoption of IFRS in Latin America: A boon or a bias
+Journal of International Financial Markets, Institutions and Money , volume 60 , p. 111 Posted: 2019
+Crossref
+Esmaeil Dargahi , Arash Tahriri
+Representing a Model for Implementing International Financial Reporting Standards in Iran
+Revista de la Universidad del Zulia , volume 11 , issue 31 , p. 141 Posted: 2020
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,418
+ABSTRACT VIEWS
+5,225
+RANK
+31,567
+6 Citations
+51 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

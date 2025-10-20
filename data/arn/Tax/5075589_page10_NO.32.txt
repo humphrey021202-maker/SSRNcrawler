@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Transfer Pricing for Inter-Company Services: What Corporate Executives and Practitioners Should Know
+
+Journal of Payments Strategy & Systems, Vol. 6, No. 4, 2013.
+
+21 Pages Posted: 6 Jan 2025
+
+Stephen L. Curtis
+
+Cross Border Analytics, Inc.
+
+Date Written: February 06, 2013
+
+Abstract
+
+This 2013 paper develops and proposes various approaches for complying with U.S. transfer pricing regulations for intercompany services, which became effective with tax years beginning after December 31, 2006. This transfer pricing regulation was complex and effectively required any service activity performed in the U.S. that provided a benefit to a related foreign affiliate to be assessed a transfer price and charged to that affiliate. For large multinational corporations with tens of thousands of U.S. employees performing all manner of services to include back office, head office, administrative and other supply chain services on behalf of the global enterprise, the compliance efforts could be substantial, necessitating a comprehensive exercise by the corporation’s tax department to determine cost allocation methodologies based on fact gathering that could include interviews of many corporate executives and other personnel throughout the organization, as well as detailed analysis and fact gathering related to establishing the expenses to be allocated at the departmental level. The compliance exercise also involves determination of the appropriate profit element to apply to the intercompany charge, as well as a “benefits test” and determination whether any particular service whose expense is to be allocated to a foreign related affiliate could be duplicative to a similar service performed by the recipient affiliate or otherwise might provide only a remote or non-existent benefit to that affiliate. The resulting compliance exercise could involve allocating billions in expenses at the largest corporations, in millions of individual transactions, involving computations of one or more allocation drivers, a profit element, a benefits test, and execution of the charges with information required by U.S. and foreign tax authorities, as well as preparation of a transfer pricing documentation study. In addition, the expenses to be allocated must include stock-based compensation and any applicable overhead expenses. The paper builds a computational process for use in the development of automation software to accomplish the documentation exercise, in which the inputs to the exercise can be loaded into a software model, that can perform the requisite computations automatically, and produce outputs that could include computational information, information required by tax regulations, and documents such as invoicing and payment records. The paper shows sample approaches and sample calculations of intercompany services fees using the proposed computational framework, and various approaches to executing the services fees in the context of a multinational corporation. 
+
+Keywords: accounting, multinational, transfer pricing, taxation JEL classification: M4, F23, H21, H25, H26, K34
+
+Suggested Citation:
+
+Curtis, Stephen L, Transfer Pricing for Inter-Company Services: What Corporate Executives and Practitioners Should Know (February 06, 2013). Journal of Payments Strategy & Systems, Vol. 6, No. 4, 2013., Available at SSRN: https://ssrn.com/abstract=5075589 or http://dx.doi.org/10.2139/ssrn.5075589
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+50
+ABSTRACT VIEWS
+483
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Tax Planning eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

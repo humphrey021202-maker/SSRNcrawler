@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Management's Tone Change, Post Earnings Announcement Drift and Accruals
+
+65 Pages Posted: 20 Oct 2008 Last revised: 16 Jul 2009
+
+Ronen Feldman
+
+Hebrew University of Jerusalem - Jerusalem School of Business Administration
+
+Suresh Govindaraj
+
+Rutgers University - Rutgers Business School - Newark and New Brunswick
+
+Joshua Livnat
+
+New York University; Prudential Financial - Quantitative Management Associates
+
+Benjamin Segal
+
+Fordham University; Hebrew University of Jerusalem
+
+Date Written: May 11, 2009
+
+Abstract
+
+This study explores whether the management discussion and analysis (MD&A) section of Forms 10-Q and 10-K has incremental information content beyond financial measures such as earnings surprises and accruals. It uses a classification scheme of words into positive and negative categories to measure the tone change in the MD&A section relative to prior periodic SEC filings. Our results indicate that short window market reactions around the SEC filing are significantly associated with the tone change of the MD&A section, even after controlling for accruals and earnings surprises. We show that management’s tone change adds significantly to portfolio drift returns in the window of two days after the SEC filing date through one day after the subsequent quarter’s preliminary earnings announcement, beyond financial information conveyed by accruals and earnings surprises. The drift returns are affected by the ability of the tone change signals to help predict the subsequent quarter’s earnings surprise but cannot be completely attributed to this ability. We also find that the incremental information of management’s tone change depends on the strength of the firm’s information environment.
+
+Keywords: Textual analysis, earnings drift, accruals, earnings surprises, management tone change, MD&A
+
+JEL Classification: G12, G14, M41
+
+Suggested Citation:
+
+Feldman, Ronen and Govindaraj, Suresh and Livnat, Joshua and Segal, Benjamin, Management's Tone Change, Post Earnings Announcement Drift and Accruals (May 11, 2009). Available at SSRN: https://ssrn.com/abstract=1287083 or http://dx.doi.org/10.2139/ssrn.1287083
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+E Abrahamson , E Amir
+The information content of the President's letter to shareholders
+Journal of Business Finance &Accounting , volume 23 , issue 8 Posted: 1996-10
+Crossref
+E Amir , B Lev
+Value-relevance of nonfinancial information: The wireless communications industry
+Conference on Contemporary Financial Reporting Issues , p. 1 - 42 Posted: 1995-10
+Crossref
+J W Bagby , M R Kintzele , P Kintzele
+Management discussion and performance: an analytical and empirical evaluation
+American Business Law Journal , volume 26 , p. 57 - 98 Posted: 1988
+Crossref
+O E Barron , C O Kile
+MD&A quality as measured by the SEC and analysts' earnings forecasts
+Contemporary Accounting Research , volume 16 , issue jou_issue[1].xmlText , p. 75 - 109 Posted: 1999
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,262
+ABSTRACT VIEWS
+6,979
+RANK
+37,420
+68 Citations
+49 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Recommended Papers
+
+Giving Content to Investor Sentiment: The Role of Media in the Stock Market
+
+By Paul C. Tetlock
+
+More than Words: Quantifying Language to Measure Firms' Fundamentals
+
+By Paul C. Tetlock, Maytal Saar-tsechansky, ...
+
+Is All that Talk Just Noise? The Information Content of Internet Stock Message Boards
+
+By Murray Z. Frank and Werner Antweiler
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

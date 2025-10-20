@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Funded Inside: The Internal Transfer of Costs and Risks from Collateralized and Funded Derivatives
+
+25 Pages Posted: 28 Aug 2012 Last revised: 7 Jan 2013
+
+Christian P. Fries
+
+Ludwig Maximilian University of Munich (LMU) - Faculty of Mathematics; DZ Bank AG
+
+Joerg Zinnegger
+
+Z-FRM GmbH
+
+Date Written: September 2, 2012
+
+Abstract
+
+By introducing a funding cost component like a funding valuation adjustment (FVA) into the valuation of derivatives, the replication strategy inherent in the valuation approach needs to be reflected in the real management of the position. Whilst in theory the replication takes place in one self financing portfolio, the roles in an institution is often split between various functions like trading, collateral management or treasury. The first part of the article revisits the dynamic replication of the derivative to maintain profit and loss neutral position with respect to the funding. The second part focuses on the roles that are involved in the replication strategy and the required internal transactions between these roles. This serves as a starting point to assign the roles to existing functions or the setup of dedicated functions.
+
+Keywords: funding, derivative, collateral, valuation, FVA
+
+Suggested Citation:
+
+Fries, Christian P. and Zinnegger, Joerg, Funded Inside: The Internal Transfer of Costs and Risks from Collateralized and Funded Derivatives (September 2, 2012). Available at SSRN: https://ssrn.com/abstract=2115900 or http://dx.doi.org/10.2139/ssrn.2115900
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+Christoph ; Burgard , Kjaer , Mats
+In the balance. Risk magazine Posted: 2011-11
+Christian P. Fries
+Funded Replication: Valuing with Stochastic Funding
+Pages: 26 Posted: 6 Mar 2011 Last revised: 14 Apr 2011
+Download PDF  Add Paper to My Library
+Christian P. Fries
+Funded Replication: Fund Exchange Process and the Valuation with Different Funding-Accounts (Cross-Currency Analogy to Funding Revisited)
+Pages: 12 Posted: 23 Jul 2012 Last revised: 25 Jul 2012
+Download PDF  Add Paper to My Library
+Vladimir V Piterbarg
+Funding beyond Collateral. Risk 2010. c 2012 Christian Fries
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+303
+ABSTRACT VIEWS
+1,737
+RANK
+229,218
+4 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

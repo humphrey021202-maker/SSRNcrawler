@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do CEOS Overpower Blockholders and Governance Mechanisms in CEO Turnover?
+
+49 Pages Posted: 24 Jun 2024
+
+Monica Jurin
+
+James Cook University
+
+Abstract
+
+Although corporate governance practices and shareholder protection have improved over time, CEO turnover remains an opaque process in China. I used the longest panel data from 2002 to 2022 to investigate CEO power channels through structural, ownership, and prestige power on CEO turnover in the presence of blockholders in China. Generalized estimating equations are used to examine each channel of CEO powers against the same power by the directors and shareholders, and overall effects. The predicted CEO turnover is then used to investigate the impacts of CEO turnover and similar power channels on firm performance. I find CEO ownership power dominates ultimate blockholders and shareholder directors in deterring CEO turnover. Different levels of ultimate ownership concentration of State-Owned Enterprises (SOEs) and Individuals have varying effects on turnover. In addition, CEO prestige through external directorships also prevents their departure. Both power channels positively affect firm performance in the post-turnover period. CEO structural power through CEO-Chairman duality has a weak effect and is not robust. There are important implications for the use of corporate governance and equity-based incentive plans. Governance mechanisms are endogenous, and their combined effects can vary in different ownership settings. Moreover, power channels can be endogenous, which affects the effectiveness of equity-based incentive plans. CEOs who hold shares face the dual role of being top executive and minority shareholders in the presence of blockholders, which affects strategic decisions and firm performance.
+
+Keywords: CEO turnover, CEO power, corporate governance, firm performance
+
+Suggested Citation:
+
+Jurin, Monica, Do CEOS Overpower Blockholders and Governance Mechanisms in CEO Turnover?. Available at SSRN: https://ssrn.com/abstract=4874610 or http://dx.doi.org/10.2139/ssrn.4874610
+Download This Paper
+ 
+Open PDF in Browser
+102 References
+C Aghamolla , T Hashimoto
+Aggressive boards and ceo turnover
+Journal of Accounting Research , volume 59 , issue 2 , p. 437 - 486 Posted: 2021
+Z S Alam , M A Chen , C S Ciccotello , H E Ryan
+Does the location of directors matter? Information acquisition and board decisions
+Journal of Financial and Quantitative Analysis , volume 49 , issue 1 , p. 131 - 164 Posted: 2014
+A Amin , L Chourou , S Kamal , M Malik , Y Zhao
+It's who you know that counts: Board connectedness and csr performance
+Journal of Corporate Finance , volume 64 Posted: 2020
+R C Anderson , D M Reeb
+Board composition: Balancing family influence in s&p 500 firms [Article]
+Administrative Science Quarterly , volume 49 , issue 2 , p. 209 - 237 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+26
+ABSTRACT VIEWS
+288
+102 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

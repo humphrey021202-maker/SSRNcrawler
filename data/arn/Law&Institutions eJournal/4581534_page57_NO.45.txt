@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Social Trust Mitigate Insiders’ Opportunistic Behavior? Evidence from Insider Trading
+
+71 Pages Posted: 23 Sep 2023
+
+Yonggang Tian
+
+Guangzhou University
+
+James S. Ang
+
+Florida State University; Florida State University - College of Law
+
+Panpan Fu
+
+Hunan University
+
+Chaoqun Ma
+
+Hunan University - Business School
+
+Xiuhua Wang
+
+Hunan University
+
+Abstract
+
+Does social trust restrain or exacerbate opportunistic behaviors of corporate insiders? On the one hand, insiders who are susceptible to a high trust environment surrounding them will be less opportunistic; on the other hand, unethical insiders may exploit high trust people to engage in more opportunistic behaviors. In this paper, we test the two competing hypotheses by investigating how trust surrounding corporate headquarters affects insider trading profitability under the assumption that opportunistically informed trades are with higher trading profits. We show that social trust negatively affects insiders’ trading gains. This relation holds after instrumental variable regressions and a difference-in-difference framework. Additionally, the role of trust is more prominent when insiders face more trading opportunities arising from information asymmetry, weak monitoring, and concentrated ownership structure, but attenuates when formal regulations are in place. We also examine the indirect channels including cautious financial reports, informative disclosure, and active communications with investors through which social trust can deter informed trading. Overall, our evidence suggests that social trust can discourage opportunistic proclivity and spur ethical deeds among managers.
+
+Keywords: Social trust, Insider trading, corporate governance, Information asymmetry
+
+Suggested Citation:
+
+Tian, Yonggang and Ang, James S. and Fu, Panpan and Ma, Chaoqun and Wang, Xiuhua, Does Social Trust Mitigate Insiders’ Opportunistic Behavior? Evidence from Insider Trading. Available at SSRN: https://ssrn.com/abstract=4581534 or http://dx.doi.org/10.2139/ssrn.4581534
+Download This Paper
+ 
+Open PDF in Browser
+126 References
+D Aboody , B Lev
+Information asymmetry, R&D, and insider gains
+The journal of Finance , volume 55 , p. 2747 - 2766 Posted: 2000
+R B Adams , H Almeida , D Ferreira
+Powerful CEOs and their impact on corporate performance
+The Review of Financial Studies , volume 18 , p. 1403 - 1432 Posted: 2005
+P Aghion , Y Algan , P Cahuc , A Shleifer
+Regulation and distrust
+The Quarterly journal of economics , volume 125 , p. 1015 - 1049 Posted: 2010
+K R Ahern , D Daminelli , C Fracassi
+Lost in translation? The effect of cultural values on mergers around the world
+Journal of Financial Economics , volume 117 , p. 165 - 189 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+75
+ABSTRACT VIEWS
+509
+RANK
+741,762
+126 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

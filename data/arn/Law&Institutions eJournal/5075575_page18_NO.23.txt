@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Econometric Adjustment for Risk
+
+9 Pages Posted: 8 Jan 2025
+
+Stephen L. Curtis
+
+Cross Border Analytics, Inc.
+
+Candace Marriott
+
+Ernst & Young LLP
+
+Ioseb Nutsubidze
+
+Ernst & Young LLP
+
+Date Written: May 03, 2010
+
+Abstract
+
+This 2010 paper highlight issues arising in the selection of comparable uncontrolled companies for use in corporate transfer pricing compliance analyses for U.S. tax compliance requirements and tax documentation when adjusting the sample for risk and provides an adjustment to improve reliability that the authors assert may be preferable to the methods commonly used to benchmark limited-risk entities. The proposed model uses concepts from mean-variance analysis to stratify a set of comparable companies in terms of their risk as measured by the variance of their profits over time and selecting a subset of the companies with low variance of profits when seeking to identify a set of “low-risk” type businesses with which to benchmark a “limited risk” return. The paper also proposes a statistical test in order to assess and improve the reliability of the analysis and adjustments performed, by performing a “two-population hypothesis test” based on a two-rank sum test for parametric data, otherwise known as a Mann-Whitney test, for testing whether the two sub-samples resulting from bifurcating the original sample (based on variance of profits) then have a statistically significant difference in their mean returns. The paper proposes that such an approach can also be used to optimize the reliability of the sample by using the test to select the optimal dividing line between the “high risk” and “low risk” subsamples based on stratification by variance of profits, and choosing the dividing line that results in the maximum value of the test statistic for the two-population hypothesis test.
+
+Suggested Citation:
+
+Curtis, Stephen L and Marriott, Candace and Nutsubidze, Ioseb, An Econometric Adjustment for Risk (May 03, 2010). Available at SSRN: https://ssrn.com/abstract=5075575 or http://dx.doi.org/10.2139/ssrn.5075575
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+42
+ABSTRACT VIEWS
+395
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

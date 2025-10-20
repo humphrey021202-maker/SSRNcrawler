@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+From Principle to Practice: Exploring Sectoral Challenges in Revenue Recognition under IND AS and IFRS
+
+36 Pages Posted: 24 Jun 2025
+
+Srikanth Potharla
+
+ICFAI Business School (IBS) Hyderabad, India
+
+Date Written: June 20, 2025
+
+Abstract
+
+This study investigates the practical challenges in implementing the converged revenue recognition standards-IFRS 15 and Ind AS 115-across key economic sectors in India. Although these standards provide a unified, principle-based framework centered on the transfer of control and a five-step model, their application varies significantly across industries due to differences in contractual arrangements, business models, and regulatory oversight. Through a sector-by-sector analysis covering manufacturing, logistics, retail, financial services, utilities, and technology, this report highlights nuanced implementation complexities such as identifying distinct performance obligations, estimating variable consideration, contract modifications, and principal-agent distinctions. It also explores associated disclosure requirements and regulatory expectations, drawing on insights from NFRA circulars, SEBI filings, and industry case studies. The findings suggest that while convergence enhances comparability and transparency, it also introduces judgment-driven risks, including potential earnings management through strategic allocation of transaction price and revenue timing. The report emphasizes that consistent application, documentation of key estimates, and integration with related standards (e.g., Ind AS 116, Ind AS 109, IFRIC 12) are essential to faithful representation. Notably, sectors like retail and tech face high variability in revenue streams, whereas regulated sectors like utilities encounter disclosure and classification challenges. By blending academic literature, regulatory guidance, and company disclosures, the study offers comprehensive insights into the evolving landscape of revenue recognition in India and underscores the need for tailored governance and audit responses to sector-specific complexities.
+
+Keywords: Revenue Recognition, IND AS 115, IFRS 15, Performance Obligations, Contract Modifications, Principal-Agent Assessment, Earnings Management, Financial Reporting, Sectoral Analysis, Regulated Industries, Retail Revenue Models, Software Licensing, Transportation Revenue, Financial Services Accounting, Utility Revenue Regulation, Disclosure Practices, Indian Accounting Standards, Audit Oversight, Financial Statement Impact JEL Classification: M41, M48, G38, L86, L81, L98, G21, O16 Review Article on Revenue Recognition Dr. Srikanth Potharla
+
+JEL Classification: M41, M48, G38, L86, L81, L98, G21, O16
+
+Suggested Citation:
+
+Potharla, Srikanth, From Principle to Practice: Exploring Sectoral Challenges in Revenue Recognition under IND AS and IFRS (June 20, 2025). Available at SSRN: https://ssrn.com/abstract=5313058 or http://dx.doi.org/10.2139/ssrn.5313058
+Download This Paper
+ 
+Open PDF in Browser
+2 References
+Accounting for revenue -the new normal: Ind AS 115 | Grant Thornton India Posted: 2018-04-01
+Revenue From Contracts With Customers
+?bypass=on Microsoft Word -IFRS 15 transport and logistics , volume 15
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+118
+ABSTRACT VIEWS
+941
+RANK
+545,411
+2 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

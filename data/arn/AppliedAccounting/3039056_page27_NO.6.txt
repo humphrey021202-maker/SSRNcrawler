@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Audit Risk Model, the Signal Detection Theory, and the Information Manipulation Theory
+
+9 Pages Posted: 27 Sep 2017
+
+Ashraf Elsayed
+
+Northcentral University
+
+Date Written: May 5, 2017
+
+Abstract
+
+The Audit Risk Model. The Statement of Auditing Standard (SAS) 99, 107, and International Standards on Auditing (ISA) 240, 315, and 330 require auditors to assess fraud risk factors and materiality level (risk of material misstatement) in a client's financial statements (Bhattacharjee, Maletta, & Moreno, 2016). It further requires auditors to gather sufficient appropriate audit evidences in order to provide reasonable assurance whether the client's financial statements are free of material misstatements (Bhattacharjee, Maletta, & Moreno, 2016). The auditors have to assess the effectiveness of a client’s internal control over the financial reporting, thereby plan the nature, timing, and the extent of their audit procedures to assess the fraud risk in a client's financial statements (Burton, Wilks, & Zimbelman, 2013). The SAS 107 provides a model for audit risk, in which, audit risk (AR) = inherent risk (IR) X control risk (CR) X detection risk (DR). The inherent risk is the susceptibility for an account or assertion to be materially misstated, whereas the control risk is the risk that an entity's internal controls fail to detect financial reporting misstatement. The detection risk is the risk that substantive and analytical audit procedures fail to detect misstatements in the financial reporting. However, this model does not address the influence of sociological, organizational, and ethical factors on the management fraud and does not account for type I and type II audit errors risk, which is the risk to reject fairly presented financial reporting (false negative), and the risk to accept fraudulent audit report (false positive) respectively.
+
+Suggested Citation:
+
+Elsayed, Ashraf, The Audit Risk Model, the Signal Detection Theory, and the Information Manipulation Theory (May 5, 2017). Available at SSRN: https://ssrn.com/abstract=3039056 or http://dx.doi.org/10.2139/ssrn.3039056
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+S Bhattacharjee , M J Maletta , K K Moreno
+The Role of Account Subjectivity and Risk of Material Misstatement on Auditors' Internal Audit Reliance Judgments. Accounting Horizons , volume 30 , p. 225 - 238 Posted: 2016
+Crossref
+F G Burton , T J Wilks , M F Zimbelman
+How auditor legal liability influences the detection and frequency of fraudulent financial reporting
+Current Issues in Auditing , volume 7 , issue 2 , p. 9 - 15 Posted: 2013
+Crossref
+A A Elsayed
+Predictability of financial statements fraud-risk (Order No. 10271451) Posted: 2017
+J M Honeycutt , J H Eldredge
+Applying game theory and signal detection theory to conflict escalation: A case study of a police investigator viewing a domestic argument
+International Journal of Mathematics , volume 24 , issue 1 , p. 13 - 23 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+781
+ABSTRACT VIEWS
+3,419
+RANK
+73,440
+9 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

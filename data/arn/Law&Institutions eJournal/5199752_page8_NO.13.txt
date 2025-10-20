@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How does Managers' Willingness to Disclose Affect Analysts' Earning Forecasts-A Measurement by LLMs
+
+63 Pages Posted: 13 Jun 2025
+
+Qingwen Liang
+
+University of Illinois at Urbana-Champaign
+
+Matias Carrasco Kind
+
+University of Illinois at Urbana-Champaign
+
+Date Written: March 31, 2025
+
+Abstract
+
+This paper examines the impact of managers’ non-responses (NORs) during quarterly earnings calls on analyst forecast behavior by developing a novel measure of NORs using two mainstream large language models: Chat-GPT4 and Llama 3.3. We adopt a three-step prompting approach–namely identification, classification, and evaluation–to extract and classify NORs from the transcripts of S&P 500 firms’ quarterly earnings conference calls. After validations, we document significantly positive relations between NORs and analyst forecast errors, dispersion, and uncertainty. The result is robust with Llama3.3 identified NORs. We hypothesis that the positive relations between NORs and analyst forecast features are driven by greater information asymmetry and uncertainty. Consistent with the assumption, the cross-sectional analysis shows that the positive relationship between NORs and analysts’ forecast features is concentrated in the set of sample firms operating across multiple industries, with higher institutional ownership and R&D expenditures, and those holding earnings calls during the COVID period. In further analysis, we find that earnings calls with more NORs are followed by a greater post-earnings announcement drift, indicating that NORs increase information asymmetry by raising information processing costs. Additionally, we find that NORs are associated with more return volatility, higher trading volume and wider bid-ask spreads, suggesting that NORs aggravate information uncertainty. Overall, our study demonstrates managers’ non-responses during earnings calls can exacerbate the information environment faced by analysts.
+
+Keywords: Large Language Model, Chat-GPT4, Analyst Forecast, Llama3.3, Non-disclosure
+
+Suggested Citation:
+
+Liang, Qingwen and Carrasco Kind, Matias, How does Managers' Willingness to Disclose Affect Analysts' Earning Forecasts-A Measurement by LLMs (March 31, 2025). Available at SSRN: https://ssrn.com/abstract=5199752 or http://dx.doi.org/10.2139/ssrn.5199752
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+C Aghamolla , K Smith
+Strategic complexity in disclosure
+Journal of Accounting and Economics , volume 76 , issue 2 Posted: 2023
+C S Armstrong , W R Guay , J P Weber
+The role of information and financial reporting in corporate governance and debt contracting
+Journal of accounting and economics , volume 50 , issue 2-3 , p. 179 - 234 Posted: 2010
+D M Armstrong
+Measuring tax enforcement with generative AI Posted: 2023
+J J Bai , N M Boyson , Y Cao , M Liu , C Wan
+Executives vs. chatbots: Unmasking insights through human-AI differences in earnings conference Q&A
+Northeastern U. D'Amore-McKim School of Business Research Paper , issue 4480056 Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+111
+ABSTRACT VIEWS
+552
+RANK
+572,087
+67 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

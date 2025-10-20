@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can Earning Fixated Traders Survive in a Competitive Securities Market?: Implication for Sustained Price Anomalies and Mark to Market Accounting
+
+33 Pages Posted: 27 Feb 2011
+
+Jeffrey L. Callen
+
+University of Toronto - Rotman School of Management
+
+Guo Ying Luo
+
+McMaster University
+
+Date Written: February 26, 2011
+
+Abstract
+
+We model the dynamic survival of earning fixated traders in a competitive security market populated by heterogeneous investors that allows for learning and arbitrage. We prove that in the absence of noise traders, rational investors will drive out earnings fixated investors from the market in the long-run. More interestingly, we show that in a market with noise traders, some proportion of earning fixated traders survive in long-run equilibrium for all feasible model parameter values. Furthermore, under no circumstances can the earning fixated traders be driven out of the market completely. On the contrary, for some parameter values, the earning fixated traders drive out the rational traders entirely. These results obtain because in a competitive security market with noise traders, earning fixated traders adopt a trading strategy that is more effective than the trading strategy of rational traders at exploiting the misvaluations created by noise traders. These results rationalize the long-run sustainability of common pricing anomalies. They also highlight a potential benefit to society of mark to market accounting.
+
+Keywords: Earning Fixated Traders, Survivorship, Mark to Market Accounting
+
+Suggested Citation:
+
+Callen, Jeffrey L. and Luo, Guo Ying, Can Earning Fixated Traders Survive in a Competitive Securities Market?: Implication for Sustained Price Anomalies and Mark to Market Accounting (February 26, 2011). Available at SSRN: https://ssrn.com/abstract=1770422 or http://dx.doi.org/10.2139/ssrn.1770422
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+J S Abarbanell
+Do Analysts' Earnings Forecasts Incorporate Information in Prior Stock Price Changes?
+Journal of Accounting and Economics , volume 14 , issue 2 , p. 147 - 165 Posted: 1991
+Crossref
+J S Abarbanell , V L Bernard
+Tests of Analysts' Overreaction/Underreaction to Earnings Information as an Explanation for Anomalous Stock Price Behavior
+Journal of Finance , volume 47 , issue 3 , p. 1181 - 1208 Posted: 1992
+Crossref
+J S Abarbanell , B J Bushee
+Fundamental Analysis, Future Earnings, and Stock Prices
+Journal of Accounting Research , volume 35 , issue 1 , p. 1 - 24 Posted: 1997
+Crossref
+D Aboody
+Recognition Versus Disclosure in the Oil and Gas Industry
+Journal of Accounting Research , volume 34 , p. 21 - 32 Posted: 1996
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+115
+ABSTRACT VIEWS
+1,822
+RANK
+556,453
+1 Citations
+62 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

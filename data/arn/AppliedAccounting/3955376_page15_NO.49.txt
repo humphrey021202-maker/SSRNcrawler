@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Tax Implications of the American Families Plan on Iowa Farmland Owners
+
+Center for Agricultural and Rural Development (CARD) Policy Brief 21-PB 35
+
+55 Pages Posted: 18 Nov 2021
+
+Wendong Zhang
+
+Cornell University - Charles H. Dyson School of Applied Economics and Management; Cornell SC Johnson College of Business
+
+Date Written: November 2, 2021
+
+Abstract
+
+President Biden proposed the American Families Plan (AFP) on April 28, 2021, to provide new social programs to millions of Americans. Specifically, the AFP proposes increasing the top marginal tax rate, taxing some capital gain at ordinary income tax rates, and subjecting more gain to the 3.8% Medicare tax. The AFP would thus boost the top federal rate at which some capital gain is taxed to 43.4% in 2022 and beyond.
+
+In addition to increasing tax rates, the AFP proposes taxing previously unrealized capital gain upon the transfer of appreciated property at death or by gift. This new tax—never before implemented in the United States—would generally apply to gain exceeding $1 million per person. It would supplement, not replace, the current estate and gift tax, which—because of a current exclusion of $11.7 million per person—impacts very few estates. As proposed, the AFP would generally eliminate the tax-free step up in basis for capital gain exceeding $1 million. T
+
+To determine the potential impact of these proposals on the owners of Iowa farmland, we analyze statistically representative data of farmland and landowners in Iowa, collected through the 2017 Iowa Farmland Ownership and Tenure Survey (IFOTS). We determine the basis of the farmland based upon its location and how and when it was acquired. We then calculate potential gain based upon estimated county-level fair market value (FMV) in 2021, which is assumed to be 5% higher than the average county farmland value estimates reported in the ISU Land Value Survey as of November 1, 2020.
+
+We find that that 53% of all Iowa farmland acres and 17% of all Iowa owners would be impacted by the new AFP tax at death or gift. The average tax for these owners would be $623,888. These numbers, however, include all types of owners and land holdings, regardless of size.
+
+Among full-time farmers with ownership in a whole farm of 100 acres or more, we estimate that 46% of owners and 72% of acres would be impacted by the AFP tax at death or gift. That number jumps to 99% of owners and 98.2% of acres when the whole farm size reaches 500 acres or more. The average tax at death or gift for these owners would be 15% of the FMV of their farmland.
+
+We further estimate that 62% of full-time farmer owners with an interest in 200 acres or more—comprising 79% Iowa farmland acres—would be impacted by the AFP tax at death or gift. The average tax for this group would be $782,576 or 13% of the FMV of their farmland.
+Our data suggest that 57% of part-time farmers with an interest in 200 acres or more and 76% of acres owned by part-time farmers would be subject to liability at death or gift under the AFP. Average tax liability for this group would be $618,497, averaging 11% of the FMV of the property.
+
+Keywords: American Families Plan, Inheritance Tax, Estate Tax, Capital Gains Tax, Farmland, Land Ownership
+
+Suggested Citation:
+
+Zhang, Wendong, The Tax Implications of the American Families Plan on Iowa Farmland Owners (November 2, 2021). Center for Agricultural and Rural Development (CARD) Policy Brief 21-PB 35, Available at SSRN: https://ssrn.com/abstract=3955376 or http://dx.doi.org/10.2139/ssrn.3955376
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+8% Retired Farmer; farm size 750-1000 acres $668,889 $222,493 300.6% $222,493 300.6% Retired Farmer , volume 936
+Retired Farmer
+All) $530,237 $127
+Non-Active Farmer
+4% Non-active Farmer; farm size 500-750 acres $517,877 $124
+3% Non-active Farmer; farm size 750-1000 acres $640,582 $131,150 488.4% $230 , volume 906
+7% Full-time Farmers $2,261,583 $421,422 $780,411 11.3% 18.3% Part-time Farmers $1,590,421 $289,506 $515,712 10.1% 15.1% Retired Farmers $1,941,668 $422,464 $636,764 16.5% 22.3% Non-active Farmers $1,193,832 $250,765 $367 , volume 104 , p. 776 - 787
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+43
+ABSTRACT VIEWS
+532
+40 References
+PlumX Metrics
+Related eJournals
+
+Tax Law & Policy eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Importance of Assurance in Carbon Accounting
+
+MIT Sloan Research Paper No. 6969-24
+
+26 Pages Posted: 25 Mar 2024 Last revised: 18 Sep 2025
+
+Florian Berg
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Jaime Oliver Huidobro
+
+Clarity AI Europe S.L.
+
+Roberto Rigobon
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Date Written: February 23, 2024
+
+Abstract
+
+Firms that obtain assurance for their carbon accounting report on average a 9.5% higher Scope 1 carbon intensity and 13.7% higher Scope 1 absolute emissions than their peers in the first year of obtaining assurance. This might indicate that firms underestimate their emissions without assurance. Moreover, when controlling for assurance, we do not find evidence that SBTi target-setters reduce their future emissions. Instead, only the subset of firms that obtain assurance reduce their future Scope 1 emissions over our sample. The implications for portfolio managers and ESG raters are that taking reported carbon emissions at face value could lead to penalizing firms that are more serious about their carbon accounting as well as reductions. It also supports calls for mandatory assurance when carbon reporting is mandatory and when reported emissions are generally relied upon in regulation.
+
+Keywords: Carbon Emission Targets, Carbon Accounting, Assurance
+
+JEL Classification: Q54, Q56
+
+Suggested Citation:
+
+Berg, Florian and Oliver Huidobro, Jaime and Rigobon, Roberto, On the Importance of Assurance in Carbon Accounting (February 23, 2024). MIT Sloan Research Paper No. 6969-24, Available at SSRN: https://ssrn.com/abstract=4734240 or http://dx.doi.org/10.2139/ssrn.4734240
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+J Assael , T Heurtebize , L Carlier , F Soupé
+Greenhouse gases emissions: estimating corporate non-reported emissions using interpretable machine learning
+Sustainability , volume 15 Posted: 2023
+J Aswani , A Raghunandan , S
+Are carbon emissions associated with stock returns?
+Review of Finance, forthcoming Posted: 2023
+P Bolton , M T Kacperczyk
+Firm Commitments. SSRN Scholarly Paper ID 3840813 Posted: 2021-11-27
+F Dahlmann , L Branicki , S Brammer
+Managing carbon aspirations: The influence of corporate climate change targets on environmental performance
+Journal of business ethics , volume 158 , p. 1 - 24 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,984
+ABSTRACT VIEWS
+9,989
+RANK
+9,710
+2 Citations
+11 References
+PlumX Metrics
+Related eJournals
+
+MIT Sloan School of Management Working Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

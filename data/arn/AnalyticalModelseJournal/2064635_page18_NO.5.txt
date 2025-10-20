@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax-Optimal Step-Up and Imperfect Loss Offset
+
+BuR Business Research Journal, Vol. 5, No. 1, pp. 8-23, May 2012
+
+16 Pages Posted: 22 May 2012
+
+Markus Diller
+
+affiliation not provided to SSRN
+
+Date Written: May 18, 2012
+
+Abstract
+
+In the field of mergers and acquisitions, German and international tax law allow for several opportunities to step up a firm's assets, i.e., to reevaluate the assets at fair market values. When a step-up is performed the taxpayer recognizes a taxable gain, but also obtains tax benefits in the form of higher future depreciation allowances associated with stepping up the tax base of the assets. This tax-planning problem is well known in taxation literature and can also be applied to firm valuation in the presence of taxation. However, the known models usually assume a perfect loss offset. If this assumption is abandoned, the depreciation allowances may lose value as they become tax effective at a later point in time, or even never if there are not enough cash flows to be offset against. This aspect is especially relevant if future cash flows are assumed to be uncertain. This paper shows that a step-up may be disadvantageous or a firm overvalued if these aspects are not integrated into the basic calculus. Compared to the standard approach, assets should be stepped up only in a few cases and - under specific conditions - at a later point in time. Firm values may be considerably lower under imperfect loss offset.
+
+Keywords: CAPM, business taxation, hidden reserves, step-up
+
+JEL Classification: H25, M41
+
+Suggested Citation:
+
+Diller, Markus, Tax-Optimal Step-Up and Imperfect Loss Offset (May 18, 2012). BuR Business Research Journal, Vol. 5, No. 1, pp. 8-23, May 2012, Available at SSRN: https://ssrn.com/abstract=2064635
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+Gernot Brähler , Max Göttsche , Bernhard Rauch
+Verlustnutzung von Kapitalgesellschaften bei Umwandlungen -Eine ökonomis-che Vorteilhaftigkeitsanalyse
+Zeitschrift für Betriebswirtschaft , volume 79 , issue 10 , p. 1175 - 1191 Posted: 2009
+Crossref
+François Chapeau-Blondeau , Abdelilah Monir
+Numerical Evaluation of the Lambert W Function and Application to Generation of Generalized Gaussian Noise With Exponent 1/2
+IEEE Transactions on Signal Processing , volume 50 , issue 9 , p. 2160 - 2165 Posted: 2002
+Crossref
+Robert M Corless , H Gaston , D E G Gonnet , David J Hare , Donald E Jeffrey , Knuth
+On the Lambert W Function , volume 5 , p. 329 - 359 Posted: 1996
+Crossref
+Harry Deangelo , Ronald W Masulis
+Optimal Capital Structure Under Corporate and Personal Taxation
+Jounal of Financial Economics , volume 8 , issue 1 , p. 3 - 29 Posted: 1980
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+61
+ABSTRACT VIEWS
+1,352
+RANK
+833,930
+21 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+European Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

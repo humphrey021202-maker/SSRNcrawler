@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The News in Earnings Announcement Disclosures: Capturing Word Context Using LLM Methods
+
+Management Science, Forthcoming
+https://doi.org/10.1287/mnsc.2024.05417
+
+48 Pages Posted: 3 Apr 2025
+
+Federico Siano
+
+University of Texas at Dallas - Naveen Jindal School of Management
+
+Date Written: February 25, 2025
+
+Abstract
+
+This study examines the information content of textual disclosures in firms' earnings announcements. Using a large language model (LLM) to capture information in both words and word context, I show that the news in earnings press releases (i) explains three times more variation in short-window stock returns than a host of textual measures based on dictionary and non-LLM machine learning methods; (ii) doubles the R2 of an array of financial statement surprises, modeled with conventional regression or machine learning approaches; and (iii) accounts for a large fraction of immediate price revisions within just 5 minutes of release. LLM-modeled conference calls further enhance R2 by one-fourth compared to press releases and financial surprises. Textual disclosures are more informative when earnings are less persistent and during periods of aggregate uncertainty. Most news arises from text describing numbers, at the beginning of the disclosure, and including novel contents. These findings highlight the role of firms' textual disclosures in moving stock prices and advance our understanding of how investors utilize corporate disclosures.
+
+Keywords: Disclosure, Earnings Announcements, Textual Analysis, Large Language Models (LLMs), Machine Learning
+
+JEL Classification: G12, G14, G32, M21, M41
+
+Suggested Citation:
+
+Siano, Federico, The News in Earnings Announcement Disclosures: Capturing Word Context Using LLM Methods (February 25, 2025). Management Science, Forthcoming
+https://doi.org/10.1287/mnsc.2024.05417, Available at SSRN: https://ssrn.com/abstract=5198675 or http://dx.doi.org/10.2139/ssrn.5198675
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+R Ball , P Brown
+An empirical evaluation of accounting income numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+R Ball , L Shivakumar
+How much new information is there in earnings
+Journal of Accounting Research , volume 46 , issue 5 , p. 975 - 1016 Posted: 2008
+M E Barth , K Li , C Mcclure
+Evolution in value relevance of accounting information
+The Accounting Review , volume 98 , issue 1 , p. 1 - 28 Posted: 2022
+K Bochkay , S V Brown , A J Leone , J W Tucker
+Textual analysis in accounting: What's next?
+Contemporary Accounting Research , volume 40 , issue 2 , p. 765 - 805 Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,671
+ABSTRACT VIEWS
+4,141
+RANK
+24,634
+57 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Trends and Insights in ESG Reporting: An Analysis of DAX 40 Companies from 2019 to 2023
+
+38 Pages Posted: 20 Dec 2024
+
+Elena Tanirak
+
+Reutlingen University; Ravensburg-Weingarten University
+
+Christian Lazar
+
+Ravensburg-Weingarten University
+
+Date Written: October 22, 2024
+
+Abstract
+
+This study provides an analysis of ESG reporting practices among DAX 40 companies from 2019 to 2023. It examines trends in the scope and complexity of annual and sustainability reports, and their correlations with ESG ratings from Morgan Stanley Capital International (MSCI) and Carbon Disclosure Project (CDP). The findings confirm an increase in report lengths, driven by regulatory demands and stakeholder expectations, with annual reports growing from 253 in 2019 to 315 in 2023. Sustainability reports also expanded, albeit at a slower rate. A trend towards integrated reporting was observed, as some companies incorporated sustainability disclosures into their annual reports, leading to shorter standalone sustainability reports. Despite these changes, the analysis found no significant correlation between the length of business or sustainability reports and the corresponding ESG ratings. Although companies with shorter or no sustainability reports tended to have higher MSCI ratings, and CDP ratings favored shorter sustainability reports, these trends were not statistically significant, suggesting that report length alone is not a strong determinant of ESG ratings. The correlation between MSCI and CDP ratings remains significant but is relatively weak, reflecting the diverging evaluation criteria of different rating agencies. The readability of sustainability reports indicates that despite the increasing amount of information, there was no significant change in content complexity, with average readability index (LIX) scores remaining stable around 58-59 from 2019 to 2023. These findings emphasize the importance of focusing on the quality of disclosures rather than the quantity. The study provides practical recommendations for DAX 40 companies, small and medium-sized enterprises (SMEs), and international companies on how to optimize their sustainability reporting and use best practices. Maintaining readability, while ensuring comprehensive yet concise reporting, is highlighted as a key strategy for improving ESG performance across different sectors. This information can be beneficial for companies, especially for finance departments and CFOs, to further improve their reporting practices and to develop and implement best practice approaches.
+
+Keywords: ESG Reporting, DAX 40 Companies, ESG Ratings, Regulatory Requirements, Sustainability Disclosure, Report Readability, Integrated Reporting, Corporate Transparency, Finance and CFO Functions
+
+Suggested Citation:
+
+Tanirak, Elena and Lazar, Christian, Trends and Insights in ESG Reporting: An Analysis of DAX 40 Companies from 2019 to 2023 (October 22, 2024). Available at SSRN: https://ssrn.com/abstract=4995673 or http://dx.doi.org/10.2139/ssrn.4995673
+Download This Paper
+ 
+Open PDF in Browser
+99 References
+Cf , Mio
+Posted: 2021
+Cf , Carungu
+Posted: 2021
+Cf , Venturelli
+Posted: 2020
+Cf , Busch
+Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+376
+ABSTRACT VIEWS
+3,231
+RANK
+180,781
+99 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information Bundling and Securities Litigation
+
+San Diego Legal Studies Paper No. 16-219
+
+53 Pages Posted: 15 Jun 2016 Last revised: 28 Nov 2016
+
+Barbara A. Bliss
+
+University of San Diego
+
+Frank Partnoy
+
+University of California, Berkeley - School of Law; European Corporate Governance Institute (ECGI)
+
+Michael Furchtgott
+
+University of California, San Diego (UCSD) - Department of Economics
+
+Date Written: November 26, 2016
+
+Abstract
+
+We examine two distinct forms of information bundling that can occur when a firm releases a restatement: “positive bundling,” the release of good news with the restatement, and “negative bundling,” the release of additional bad news. We use a triple differences testing approach to exploit the exogenous shock of a 2005 U.S. Supreme Court decision that heightened the loss causation requirements in securities class actions to examine how information bundling affects litigation risk and outcomes. We find that positive bundling offsets the stock decline at the restatement announcement, and significantly reduces the likelihood of litigation. In contrast, negative bundling magnifies the stock price decline accompanying a restatement, but makes litigation less attractive, by confounding the evidence about which piece of bad news caused the decline. On average, non-bundled restatements are 5.94 times more likely to result in litigation compared to bundled restatements in our set of treatment firms. Among restatements that lead to lawsuits, bundled restatements are 8.17 times more likely to be dismissed and are associated with approximately $20 to $24 million lower average settlement amounts.
+
+Keywords: strategic information disclosure, class-action securities lawsuits, litigation risk, earnings restatements
+
+JEL Classification: K22, K41, G14, M41
+
+Suggested Citation:
+
+Bliss, Barbara A. and Partnoy, Frank and Furchtgott, Michael, Information Bundling and Securities Litigation (November 26, 2016). San Diego Legal Studies Paper No. 16-219, Available at SSRN: https://ssrn.com/abstract=2795164 or http://dx.doi.org/10.2139/ssrn.2795164
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+J L Rogers , A Van Buskirk
+Shareholder litigation and changes in disclosure behavior
+Journal of Accounting and Economics , volume 47 , issue 1 , p. 136 - 156 Posted: 2009
+Crossref
+J L Rogers , A Van Buskirk
+Bundled forecasts in empirical accounting research
+Journal of Accounting and Economics , volume 55 , issue 1 , p. 43 - 65 Posted: 2013
+Crossref
+G C Sanger , J D Peterson
+An empirical analysis of common stock delistings
+Journal of Financial and Quantitative Analysis , volume 25 , issue 2 , p. 261 - 272 Posted: 1990
+Crossref
+S Scholz
+Financial restatement trends in the United States Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+389
+ABSTRACT VIEWS
+2,784
+RANK
+174,026
+13 Citations
+11 References
+PlumX Metrics
+Related eJournals
+
+University of San Diego Law School Legal Studies Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

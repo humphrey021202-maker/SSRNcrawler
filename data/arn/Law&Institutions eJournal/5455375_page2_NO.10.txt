@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Relevance to Investors of Greenhouse Gas Methane Emissions
+
+60 Pages Posted: 26 Sep 2025
+
+Paul A. Griffin
+
+University of California, Davis - Graduate School of Management
+
+Zhe Michael Guo
+
+Iowa State University - College of Business
+
+Estelle Yuan Sun
+
+Boston University - Questrom School of Business
+
+Date Written: September 07, 2025
+
+Abstract
+
+While much evidence identifies the human and environmental impacts of excessive methane gas (CH4) emissions, climate scientists and world bodies have yet to explore whether financial markets price these impacts. Financial markets play an important role in reducing global warming because investors can penalize emitter firms today as a reduction in market value for the costs of their future emissions. Using firmlevel data on industrial CH4 and CO2 emissions mandatorily reported to the U.S. Environmental Protection Agency (EPA), we document five key findings. First, the equity market penalizes firms for high levels of CH4 by imposing a share price discount that is at least six times higher than the share price discount for CO2. Second, this discrepancy arguably reflects investors' use of a higher global warming factor for CH4 than the one used by the EPA. Third, the CH4 valuation discount is largely driven by industry-level rather than firm-specific emissions. Fourth, the market penalty is stronger for firms in Blue states, those with limited CH4 disclosure in 10-K filings, and those with limited media mentions, suggesting that investors' negative response to CH4 is more severe when climate regulation is stricter and disclosure transparency weaker. Fifth, we examined two regulations, finding that (i) firms located in states supporting the 2016 EPA methane regulations to reduce emissions face a sharper market penalty after the rules were later overturned by a federal court; and (ii) firms headquartered in states required to disclose harmful chemicals used in hydraulic fracturing experience a smaller market penalty.
+
+Keywords: Methane Emissions, CH4, Market Impact of Methane, Media Attention, 10-K Disclosure, EPA Rules To Curb Methane Emissions, CO2
+
+Declaration of Interest
+
+The authors certify that they have no affiliation with or involvement in any organization or entity with any financial interest or non-financial interest in the subject matter or materials discussed in this manuscript. All data are from public sources identified in the paper. Some require a subscription.
+
+Suggested Citation:
+
+Griffin, Paul A. and Guo, Zhe Michael and Sun, Estelle Yuan, The Relevance to Investors of Greenhouse Gas Methane Emissions (September 07, 2025). Available at SSRN: https://ssrn.com/abstract=5455375 or http://dx.doi.org/10.2139/ssrn.5455375
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+33
+ABSTRACT VIEWS
+104
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

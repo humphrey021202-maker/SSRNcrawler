@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Is Scrutiny by Plaintiffs’ Lawyers Associated with Audit Outcomes?
+
+Posted: 4 Jan 2024
+
+Myojung Cho
+
+Pace University
+
+Feiqi Huang
+
+Pace University
+
+Gopal V. Krishnan
+
+Bentley University
+
+Xin Luo
+
+Marquette University
+
+Date Written: January 3, 2024
+
+Abstract
+
+Kartapanis and Yust (2022) propose the number of views of the SEC filings by plaintiffs’ lawyers of security class actions as an ex ante measure of litigation and find that views are positively associated with future litigations and case outcomes. We empirically evaluate the validity of the views measure in the auditing context. In comparison to the existing measures of litigation risk- the high litigation industry indicator and the Kim and Skinner (2012) measure, we find that only the measures based on the number of views are consistently and significantly associated with audit fees, going concern opinion, and auditor resignation. Further, when we include views along with the two existing measures in the model at the same time, only the measures based on the views are significant, indicating that the number of views is incrementally informative about the three audit outcomes. We also find similar results in cross-sectional tests based on auditor types and litigation likelihood. A one standard deviation increase in the number of views increases audit fees by about 14 to 19 percent, the likelihood of going concern opinions by about 16 to 17 percent, and the likelihood of auditor resignation by about 23 to 30 percent. The incremental contribution of the measures based on the views over the extant measures supports the notion that the plaintiffs' lawyers are aware of material, adverse information that is not yet public. Our findings are relevant to researchers and practitioners interested in examining the impact of litigation on audit phenomena as well as in settings where litigation risk is a control variable.
+
+Keywords: Litigation, plaintiff lawyer, audit fees, going concern, auditor resignation, EDGAR.
+
+Suggested Citation:
+
+Cho, Myojung and Huang, Feiqi and Krishnan, Gopal and Luo, Xin, Is Scrutiny by Plaintiffs’ Lawyers Associated with Audit Outcomes? (January 3, 2024). Available at SSRN: https://ssrn.com/abstract=4682450
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+239
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

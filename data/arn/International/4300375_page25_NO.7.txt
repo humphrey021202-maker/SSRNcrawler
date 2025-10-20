@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Compliance with the OECD Model Tax Convention: An Analysis of OECD and Non-Member Countries
+
+11 Pages Posted: 23 Dec 2022 Last revised: 10 Nov 2023
+
+Markus Diller
+
+University of Passau
+
+Daniel Ehm
+
+Passau University
+
+Patrick Katzlmayr
+
+University of Passau
+
+Johannes Lorenz
+
+University of Regensburg; TRR 266 Accounting for Transparency
+
+Date Written: December 12, 2022
+
+Abstract
+
+We investigate whether OECD countries are more likely to comply with the 2017 OECD Model Tax Convention on Income and on Capital (Model Convention) than are non-OECD members when designing bilateral Double Taxation Agreements (DTAs). Using Natural Language Processing (NLP) techniques, we construct vector representations for 2,925 DTAs currently in force to measure their similarity to the OECD Model Convention. We find that treaties where both parties are OECD members are less likely to resemble the OECD Model Convention than treaties between non-OECD members. Overall, our study suggests that it is essential to take the textual design of DTAs into account when the influential factors behind bargaining positions and intentions in international tax policymaking are examined.
+
+Keywords: double taxation agreement, international tax policy, OECD, tax competition
+
+JEL Classification: K33, K34, F55
+
+Suggested Citation:
+
+Diller, Markus and Ehm, Daniel and Katzlmayr, Patrick and Lorenz, Johannes, Compliance with the OECD Model Tax Convention: An Analysis of OECD and Non-Member Countries (December 12, 2022). Available at SSRN: https://ssrn.com/abstract=4300375 or http://dx.doi.org/10.2139/ssrn.4300375
+Download This Paper
+ 
+Open PDF in Browser
+10 References
+Retrieved from IBFD database , p. 2023 - 2027 Posted: 2023
+E Ash , O Marian
+The Making of International Tax Law: Empirical Evidence from Tax Treaties Text
+Florida Tax Review , volume 24 , p. 151 - 190 Posted: 2020
+R S Avi-Yonah , K P Sauvant , L E Sachs
+Double Tax Treaties: An Introduction
+The Effect of Treaties on Foreign Direct Investment: Bilateral Investment Treaties, Double Taxation Treaties, and Investment Flows , p. 99 - 106 Posted: 2009
+A M Bauer , K J Klassen
+Assessing the Market Reaction to Unfavorable Tax Settlements: Using Textual Analysis to Categorize Ambiguous Tabulated Disclosures Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+171
+ABSTRACT VIEWS
+896
+RANK
+401,129
+10 References
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

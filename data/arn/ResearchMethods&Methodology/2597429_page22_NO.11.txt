@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Incorrect Inferences When Using Residuals as Dependent Variables
+
+83 Pages Posted: 23 Apr 2015 Last revised: 29 Sep 2017
+
+Wei Chen
+
+University of Connecticut - Department of Accounting
+
+Paul Hribar
+
+University of Iowa - Department of Accounting; University of Iowa - Henry B. Tippie College of Business
+
+Sam Melessa
+
+University of Iowa - Department of Accounting
+
+There are 2 versions of this paper
+
+Date Written: Sep 28, 2017
+
+Abstract
+
+We analyze a procedure common in empirical accounting and finance research where researchers use ordinary least squares to decompose a dependent variable into its predicted and residual components and use the residuals as the dependent variable in a second regression. This two-step procedure is used to examine determinants of constructs such as discretionary accruals, real activities management, discretionary book-tax differences, and abnormal investment. We show that the typical implementation of this procedure generates biased coefficients and standard errors that can lead to incorrect inferences, with both type I and type II errors. We further show that magnitude of the bias in coefficients and standard errors is a function of the correlations between model regressors. We illustrate the potential magnitude of the bias in accounting research in four commonly used settings. Our results indicate significant bias in many of these settings. We offer three solutions to avoid the bias.
+
+Keywords: two-stage, residuals, coefficient bias, discretionary accruals, real earnings management
+
+JEL Classification: M40, M41, C18, G10, G30
+
+Suggested Citation:
+
+Chen, Wei and Hribar, Paul and Melessa, Sam, Incorrect Inferences When Using Residuals as Dependent Variables (Sep 28, 2017). Available at SSRN: https://ssrn.com/abstract=2597429 or http://dx.doi.org/10.2139/ssrn.2597429
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,829
+ABSTRACT VIEWS
+7,552
+RANK
+21,401
+26 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

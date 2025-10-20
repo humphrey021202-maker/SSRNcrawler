@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Using Python for Text Analysis in Accounting Research
+
+Vic Anand, Khrystyna Bochkay, Roman Chychyla and Andrew Leone (2020), "Using Python for Text Analysis in Accounting Research", Foundations and Trends® in Accounting: Vol. 14: No. 3–4, pp 128-359. http://dx.doi.org/10.1561/1400000062
+
+University of Miami Business School Research Paper No. 3576098
+
+223 Pages Posted: 7 Jun 2020 Last revised: 5 Dec 2020
+
+Vic Anand
+
+Texas State University, San Marcos - Department of Accounting
+
+Khrystyna Bochkay
+
+University of Miami Herbert Business School
+
+Roman Chychyla
+
+University of Miami - School of Business Administration
+
+Andrew J. Leone
+
+Northwestern University
+
+Date Written: September 23, 2020
+
+Abstract
+
+The prominence of textual data in accounting research has increased dramatically. To assist researchers in understanding and using textual data, this monograph defines and describes common measures of textual data and then demonstrates the collection and processing of textual data using the Python programming language. The monograph is replete with sample code that replicates textual analysis tasks from recent research papers.
+
+In the first part of the monograph, we provide guidance on getting started in Python. We first describe Anaconda, a distribution of Python that provides the requisite libraries for textual analysis, and its installation. We then introduce the Jupyter notebook, a programming environment that improves research workflows and promotes replicable research. Next, we teach the basics of Python programming and demonstrate the basics of working with tabular data in the Pandas package.
+
+The second part of the monograph focuses on specific textual analysis methods and techniques commonly used in accounting research. We first introduce regular expressions, a sophisticated language for finding patterns in text. We then show how to use regular expressions to extract specific parts from text. Next, we introduce the idea of transforming text data (unstructured data) into numerical measures representing variables of interest (structured data). Specifically, we introduce dictionary-based methods of 1) measuring document sentiment, 2) computing text complexity, 3) identifying forward-looking sentences and risk disclosures, 4) collecting informative numbers in text, and 5) computing the similarity of different pieces of text. For each of these tasks, we cite relevant papers and provide code snippets to implement the relevant metrics from these papers.
+
+Finally, the third part of the monograph focuses on automating the collection of textual data. We introduce web scraping and provide code for downloading filings from EDGAR.
+
+Keywords: Text analysis, data collection, Python, natural language processing
+
+JEL Classification: B4, C8, M41
+
+Suggested Citation:
+
+Anand, Vic and Bochkay, Khrystyna and Chychyla, Roman and Leone, Andrew J., Using Python for Text Analysis in Accounting Research (September 23, 2020). Vic Anand, Khrystyna Bochkay, Roman Chychyla and Andrew Leone (2020), "Using Python for Text Analysis in Accounting Research", Foundations and Trends® in Accounting: Vol. 14: No. 3–4, pp 128-359. http://dx.doi.org/10.1561/1400000062, University of Miami Business School Research Paper No. 3576098, Available at SSRN: https://ssrn.com/abstract=3576098
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+<? xml version = " 1.0 " encoding = " US -ASCII " ? > <! --XBRL Document Created with WebFilings
+Crossref
+&lt;! --P
+, p. 1 - 976
+&lt; Xbrli
+Disentangling managers' and analysts' non-GAAP reporting
+xbrl xmlns : country = , volume 56 , p. 1039 - 1081 Posted: 2018
+Jeremiah W. Bentley , Kyle Stubbs , Yushi Tian , Robert Lowell Whited
+Manipulating the Narrative: Managerial Discretion in the Use of Plain English in Earnings Announcements
+Pages: 82 Posted: 19 Dec 2019 Last revised: 22 Mar 2021
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+4,226
+ABSTRACT VIEWS
+11,237
+RANK
+5,546
+52 References
+PlumX Metrics
+Related eJournals
+
+University of Miami Herbert Business School Research Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Reputation or Confounding Effects? Intraday Evidence from the Collapse of Arthur Andersen
+
+49 Pages Posted: 7 May 2025 Last revised: 25 Sep 2025
+
+John (Xuefeng) Jiang
+
+Michigan State University
+
+Tom shang
+
+Michigan State University
+
+Isabel Yanyan Wang
+
+Michigan State University
+
+Date Written: April 28, 2025
+
+Abstract
+
+We test whether auditor reputation affects client firm values using the canonical setting of Arthur Andersen’s collapse. Using high-frequency intraday data, we examine market reactions to Andersen’s January 10, 2002 admission of document shredding and its March 14, 2002 criminal indictment. Within narrow [-5, +10] minute windows, Andersen clients experienced statistically significant and economically non-trivial negative returns—about 12 basis points after the shredding admission and 11 basis points after the indictment—relative to other Big N clients. These effects remain robust after controlling for intraday oil price movements and are not attributable to Andersen’s Houston office concentration or to routine market volatility. Cumulative return plots demonstrate that these differentials persisted for at least one hour after the announcements, indicating sustained market recognition rather than transient noise. Our findings provide well-identified evidence that capital markets recognize auditor-specific reputation shocks in real time, resolving prior ambiguity in the literature. Because our design prioritizes identification, the estimated magnitudes represent lower bounds of reputation damage rather than total effects.
+
+Keywords: Auditor reputation, Arthur Andersen, Event studies, Intraday returns
+
+JEL Classification: G14, M41, M42
+
+Suggested Citation:
+
+Jiang, John (Xuefeng) and shang, Tom (Cong) and Wang, Isabel, Reputation or Confounding Effects? Intraday Evidence from the Collapse of Arthur Andersen (April 28, 2025). Available at SSRN: https://ssrn.com/abstract=5238855 or http://dx.doi.org/10.2139/ssrn.5238855
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+A Acito , C Hogan , R Mergenthaler
+The effects of PCAOB inspections on auditorclient relationships
+The Accounting Review , volume 93 , issue 2 , p. 1 - 35 Posted: 2018
+B Alhusaini , P Lamoreaux , N Newton
+IPOs and Auditor Reputation: Evidence from Audit Firm Data Breaches
+The Accounting Review , p. 1 - 25 Posted: 2025
+R Alquist , L Kilian
+What do we learn from the price of crude oil futures
+Journal of Applied Econometrics , volume 25 , issue 4 , p. 539 - 573 Posted: 2010
+T Andersen , T Bollerslev , F Diebold , C Vega
+Micro effects of macro announcements: real-time price discovery in foreign exchange
+American Economic Review , volume 93 , issue 1 , p. 38 - 62
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+93
+ABSTRACT VIEWS
+542
+RANK
+649,413
+60 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

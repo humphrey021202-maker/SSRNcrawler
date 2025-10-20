@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Governance Meets Data and Technology
+
+European Corporate Governance Institute – Finance Working Paper No. 970/2024
+
+Foundations and Trends in Finance, Forthcoming
+
+88 Pages Posted: 5 Mar 2024 Last revised: 21 Mar 2024
+
+Wei Jiang
+
+Emory University Goizueta Business School; ECGI; NBER
+
+Tao Li
+
+University of Florida - Warrington College of Business Administration; European Corporate Governance Institute (ECGI)
+
+Date Written: July 08, 2024
+
+Abstract
+
+Corporate governance encompasses a set of processes, customs, policies, laws, and institutions that affect how a corporation is directed, administered, or controlled. Technology both enhances and disrupts the traditional board-centric corporate governance system, enhancing efficiency and transparency while introducing new challenges and risks. In this paper we examine three key themes comprehensively: the redefinition of information and information asymmetry through the generation of and access to big data; blockchain technology’s transformative potential for aggregating preferences and exercising shareholder voting rights while blurring the line between securities and tokens; and the impact of smart contracts and their underlying infrastructure on the expansion of contracts and the implementation of decentralized governance through decentralized autonomous organizations. These innovative technological solutions empower stakeholders to exercise governance rights effectively, but their complexity also gives rise to new barriers and inequalities. As technology evolves, collaboration among researchers, policymakers, and practitioners is imperative to ensure that corporate governance remains effective and responsive to the current dynamic business environment.
+
+
+Keywords: Corporate Governance; Technology, Blockchain, Big Data, AI, decentralized autonomous organization (DAO)
+
+JEL Classification: C55, D74, D82, G23, G34, G38, O33
+
+Suggested Citation:
+
+Jiang, Wei and Li, Tao, Corporate Governance Meets Data and Technology (July 08, 2024). European Corporate Governance Institute – Finance Working Paper No. 970/2024, Foundations and Trends in Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4746141 or http://dx.doi.org/10.2139/ssrn.4746141
+Download This Paper
+ 
+Open PDF in Browser
+164 References
+S Abis , L Veldkamp
+The changing economics of knowledge production
+The Review of Financial Studies , volume 37 , issue 1 , p. 89 - 118 Posted: 2024
+S Adhami , G Giudici , S Martinazzi
+Why do businesses go crypto? An empirical analysis of initial coin offerings
+Journal of Economics and Business , volume 100 , p. 64 - 75 Posted: 2018
+P Aghion , P Bolton
+An incomplete contracts approach to financial contracting
+The review of economic Studies , volume 59 , issue 3 , p. 473 - 494 Posted: 1992
+A Aloosh , J Li
+Direct evidence of bitcoin wash trading
+Management Science Posted: 2022
+Load more
+1 Citations
+Sean Shun Cao , Wei Jiang , Lijun (Gillian) Lei , Qing (Clara) Zhou
+Applied AI for finance and accounting: Alternative data and opportunities
+Pacific-Basin Finance Journal , volume 84 , p. 102307 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+957
+ABSTRACT VIEWS
+3,371
+RANK
+55,589
+1 Citations
+164 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+European Corporate Governance Institute (ECGI) - Finance Working Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

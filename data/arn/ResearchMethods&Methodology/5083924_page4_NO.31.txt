@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Research Trends in Corporate Financial Distress Prediction: A Bibliometric Study
+
+Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024)
+
+19 Pages Posted: 7 Jan 2025
+
+Gengatharan Ramesh
+
+University of Technology and Applied Sciences – Ibra
+
+Al-Mughairi Habiba
+
+University of Technology and Applied Sciences – Ibra
+
+Madbouly Araby
+
+Muscat College
+
+Date Written: November 15, 2024
+
+Abstract
+
+This research paper presents a bibliometric analysis of recent research papers in prediction of corporate financial distress. Research in this area has become a crucial in the present uncertain global economic environment. The study aims to explore the trends, patterns, and key contributors in academic research on corporate financial distress prediction. This research employs a systematic approach in sourcing data from the Scopus database that spans the period of 2013-2022. Several bibliometric studies were performed such as the number of published articles’ yearly growth, the study citation index, co-authors’ networks and keyword frequencies. The findings showed an exceptional annual increase in the scientific papers published within the specific domain of interest. Also, this particular result notes the most prominent journals, authors and citations ranked the countries. Chinese authors leading in publication output in this research field. Research collaborations between China and the UK, underscored the global nature of research in this domain. The study also tracked the evolution of research themes, emphasising persistent focuses on ‘financial distress,’ ‘bankruptcy,’ and ‘financial ratios.’ For researchers, the identified top journals and keywords provide crucial insights for staying current and contributing to the academic discourse. The most frequent keywords may be helpful to practitioners in tailoring their tactics in line with the industry practice. The results may also be useful to policy makers to develop international linkages and institutional frameworks pertaining to corporate financial distress prediction. This study adds to the already existed literature because it systematically analyses recent research papers taken from available evidence based on bibliometric methods in corporate financial distress prediction. The identified trends, influential contributors, and evolving research themes provide a valuable resource for researchers, practitioners, and policymakers alike. The study’s originality lies in its nuanced exploration of international collaborations, evolving themes, and key contributors, offering a holistic view of the recent research in the field of corporate financial distress prediction.
+
+Keywords: Bibliometric Study, Corporate Financial Distress, Bankruptcy Prediction, Firm Financial Distress, Citation Analysis
+
+Suggested Citation:
+
+Ramesh, Gengatharan and Habiba, Al-Mughairi and Araby, Madbouly, Research Trends in Corporate Financial Distress Prediction: A Bibliometric Study (November 15, 2024). Proceedings of the 3rd International Conference on Optimization Techniques in the Field of Engineering (ICOFE-2024), Available at SSRN: https://ssrn.com/abstract=5083924 or http://dx.doi.org/10.2139/ssrn.5083924
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+A Abrizah , A N Zainab , K Kiran , R G Raj
+LIS journals scientific impact and subject categorization: A comparison between Web of Science and Scopus
+Scientometrics , volume 94 , issue 2 , p. 721 - 740 Posted: 2013
+H A Alaka , L O Oyedele , H A Owolabi , V Kumar , S O Ajayi , O O Akinade , M Bilal
+Systematic review of bankruptcy prediction models: Towards a framework for tool selection
+Expert Systems with Applications , volume 94 , p. 164 - 184 Posted: 2018
+E I Altman
+Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy
+The Journal of Finance , volume 23 , issue 4 , p. 589 - 609 Posted: 1968
+K O Appiah , A Chizema , J Arthur
+Predicting corporate failure: a systematic literature review of methodological issues
+International Journal of Law and Management , volume 57 , issue 5 , p. 461 - 485 Posted: 2015
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+86
+ABSTRACT VIEWS
+816
+RANK
+682,301
+45 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

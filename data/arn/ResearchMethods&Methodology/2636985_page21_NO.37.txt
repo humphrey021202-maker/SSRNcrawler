@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Private Equity Net Asset Values and Future Cash Flows
+
+Forthcoming The Accounting Review
+
+46 Pages Posted: 29 Jul 2015 Last revised: 4 Apr 2019
+
+Tim Jenkinson
+
+University of Oxford - Said Business School; European Corporate Governance Institute (ECGI)
+
+Wayne R. Landsman
+
+University of North Carolina Kenan-Flagler Business School
+
+Brian Rountree
+
+Rice University - Jesse H. Jones Graduate School of Business
+
+Kazbi Soonawalla
+
+University of Oxford - Said Business School
+
+Date Written: March 26, 2019
+
+Abstract
+
+This paper analyzes whether fair value estimates of fund net asset values (NAVs) produced by private equity managers are accurate and unbiased predictors of future discounted cash flows (DCF). We exploit the fact that private equity funds have finite lives to compare reported NAVs to DCFs based on realized cash flows for 384 venture capital (VC) funds and 195 buyout funds spanning 1988-2016. Findings reveal that Buyout funds' NAVs display little systematic bias, but VC funds' NAVs are relatively aggressively biased compared to Buyout funds, especially since 2000. Accuracy is worse in the first half of the sample period even though NAV estimates generally are more conservative. Overall, the results reveal significant differences in the association between NAVs and DCFs for Buyout versus VC funds, which is particularly important for private equity fund investors in their consideration of the relevance and reliability of NAV estimates provided by fund managers.
+
+Keywords: Private equity, asset valuation, fair value
+
+JEL Classification: G00, G24, G30, M40
+
+Suggested Citation:
+
+Jenkinson, Tim and Landsman, Wayne R. and Rountree, Brian Robert and Soonawalla, Kazbi, Private Equity Net Asset Values and Future Cash Flows (March 26, 2019). Forthcoming The Accounting Review, Available at SSRN: https://ssrn.com/abstract=2636985 or http://dx.doi.org/10.2139/ssrn.2636985
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+B M Barber , A Yasuda
+Interim fund performance and fundraising in private equity
+Journal of Financial Economics , volume 124 , p. 172 - 194 Posted: 2017
+Crossref
+M E Barth
+Fair Value Accounting: Evidence from Investment Securities and the Market Valuation of Banks
+The Accounting Review , volume 69 , p. 1 - 25 Posted: 1994
+M E Barth , W H Beaver , W R Landsman
+Value-relevance of banks' fair value disclosures under SFAS 107
+The Accounting Review , volume 71 , p. 513 - 537 Posted: 1996
+M E Barth , G Clinch
+International differences in accounting standards: evidence from UK, Australian, and Canadian firms
+Contemporary Accounting Research , issue jou_issue[1].xmlText , p. 135 - 170 Posted: 1996
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,572
+ABSTRACT VIEWS
+7,847
+RANK
+27,022
+9 Citations
+26 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

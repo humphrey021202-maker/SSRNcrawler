@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Pension Risk Management: Derivatives, Fiduciary Duty and Process
+
+69 Pages Posted: 26 Dec 2008
+
+Susan Mangiero
+
+I Paint With Words, LLC
+
+Date Written: October 15, 2008
+
+Abstract
+
+Risk is on everyone's mind these days. Volatile markets and rapidly changing demographics exacerbate already large funding gaps for some defined benefit plans, motivating pension fiduciaries to look for potential higher returns in the form of complex securities, derivatives and portable alpha strategies. As famed economist Milton Friedman said, there is no free lunch. Greater risk accompanies higher returns. In assessing financial uncertainty, pension decision-makers will likely want to make sure that the due diligence of external managers - especially those who employ leverage inducing strategies - includes a rigorous assessment of traders' risk management policies and procedures.
+
+On the accounting front, newly proposed asset disclosure rules, if approved, are slated to force change by requiring pension plans to categorize investment risks. Valuation rules such as FAS 157 are likewise causing change by forcing recognition as to how economic interests are marked to market or marked to model. Headlines about billion dollar losses in the financial sector are a reminder that effective risk management is a fundamental determinant of the economic viability of any organization. For plan sponsors, poor process may result in a host of problems such as those relating to liquidity, funding status and/or regulatory compliance. Low interest rates and recessionary pressures pose additional challenges, often leaving employers little room to maneuver. Participants, shareholders and taxpayers are potentially exposed to significant losses if the identification, measurement and management of pension risk fall short of best practices.
+
+Recognizing that meaningful change, as needed, cannot occur without knowledge of the status quo, the objectives of this research are threefold - (a) understand why and how plan sponsors employ derivative instruments, if at all (b) identify what plan sponsors are doing to address investment risk in the context of fiduciary responsibilities and (c) assess if and how plan sponsors vet the way in which their external money managers handle investment risk, including the valuation of instruments which do not trade in a ready market. A total of 162 retirement plan decision-makers in the United States and Canada represent survey-takers.
+
+Keywords: derivatives, pension, risk management, pension risk management, fiduciary duty, fiduciary, enterprise risk
+
+JEL Classification: G11, G15
+
+Suggested Citation:
+
+Mangiero, Susan, Pension Risk Management: Derivatives, Fiduciary Duty and Process (October 15, 2008). Available at SSRN: https://ssrn.com/abstract=1283323 or http://dx.doi.org/10.2139/ssrn.1283323
+Download This Paper
+ 
+Open PDF in Browser
+6 References
+plan(s)? (The term "risk" is used here to refer to interest rate, currency, equity, credit, mortality and/or inflation risk.) Check all items that apply. • Lack of Fiduciary Understanding • Perception of Excess Risk • Prohibition Against Possible Leverage • Limited Technology Budget to Track Trades • Small Staff • Considered Too Complex • Defined Benefit Plan Risk Not Considered Significant • Other, Please Specify NON-USER plan(s). Check all items that apply
+New Management • Changed Circumstances • Economic Losses • Questions About Why They Are Not Being Used • Increased Market Volatility • Better Understanding of Liability-Driven Investing • Recommendation by Bank of Consultant • Use by Pension Peers • Improved Regulatory Guidance • Other
+Please Specify NON-USER AND USER the risk of your organization's defined benefit plan(s)? • Yes -For Analysis Only • Yes -For Strategy Recommendations Only • Yes -For Both Analysis and Strategy Recommendations • No • Not Sure • Does Not Apply • Other, Please Specify NON-USER AND USER Do you think defined benefit plan risk management strategies should focus on assets, liabilities or an integration of the two? • Assets Only • Liabilities Only • Integrated Approach • Not Sure • Other, Please Specify NON-USER AND USER What types of risk metrics do you currently employ to evaluate and manage defined benefit plan risk? Check all that apply. • Correlation • Nonparametrics • Qualitative Judgment • Regression Analysis • Scenario Analysis • Simulation • Standard Deviation • Stress Testing • Tree Analysis • Value at Risk • Other, Please Specify NON-USER AND USER ASSET-LIABILITY MANAGEMENT PRACTICES RESPONDENT TYPE What defined benefit plan risk areas concern you? Check all that apply
+Copyright © 2008 by the Society of Actuaries and Pension Governance, LLC. ASSET-LIABILITY MANAGEMENT PRACTICES RESPONDENT TYPE How involved is the actuary you use in identifying defined benefit plan risk? • Actively Involved • Moderately Involved • Minimally Involved • Not Involved • Not Sure • Does Not Apply • Other
+Hedge Credit Risk • Hedge Currency Risk • Hedge Equity Risk • Hedge Interest Rate Risk • Liquidity Management • Synthesize Security or Sector Exposure • Trade Volatility • Transform Cash Flows • Does Not Apply -We Manage All Funds Internally • Other -Please Specify USER Are derivatives integral to any debt or equity issuance related to improving defined benefit plan funding status? • Always • Sometimes • Never • Does Not Apply • Not Sure • Other, Please Specify USER Has or will FAS 158 cause you to change your current use of derivatives as part of defined benefit plan risk management? • Will Significantly Increase Use • Will Somewhat Increase Use • Will Significantly Decrease Use • Will Somewhat Decrease Use • Will Have No Effect • Does Not Apply • Not Sure • Other, Please Specify USER Copyright © 2008 by the Society of Actuaries and Pension Governance, LLC. FINANCIAL RISK MANAGEMENT BY DIRECT USERS OF DERIVATIVES RESPONDENT TYPE Which derivative instruments do you currently use? Check all that apply. • Credit Derivatives • Currency Swaps • Forward Rate Agreements • Futures • Interest Rate Swaps • Listed Options • Over-the-Counter Options • Other
+Copyright © 2008 by the Society of Actuaries and Pension Governance, LLC. FINANCIAL RISK MANAGEMENT BY DIRECT USERS OF DERIVATIVES RESPONDENT TYPE What are the primary reasons you use derivatives, either internally or via external money managers? Check all that apply. • Asset-Liability Matching • Enhance Returns •
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+388
+ABSTRACT VIEWS
+3,062
+RANK
+174,532
+6 References
+PlumX Metrics
+Related eJournals
+
+Derivatives eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

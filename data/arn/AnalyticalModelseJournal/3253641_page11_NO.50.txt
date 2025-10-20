@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Regulating the Market for Audit Services: A Game Theoretic Approach
+
+45 Pages Posted: 12 Oct 2018 Last revised: 19 Dec 2019
+
+Konstantinos Eleftheriou
+
+University of Piraeus
+
+Iliya Komarev
+
+affiliation not provided to SSRN; Montpellier Business School
+
+Paul J. M. Klumpes
+
+Aalborg University Business School
+
+Date Written: September 22, 2018
+
+Abstract
+
+We apply game theory to model how alternative mandatory audit firm rotation regimes can affect the strategic interaction between auditee and auditor firms, and analyze potential consequences on detection risk and impairment of auditor skepticism. The major results suggest that, (1) relative to an initial state with no rotation requirement but high probability for impaired auditor skepticism, imposing either short-term or long-term mandatory audit firm rotation will remove the threat to auditor skepticism and lead to higher audit fees and lower detection risk; (2) relative to long-term mandatory audit firm rotation, imposing a short-term rotation will lead to lower audit fees and higher detection risk, resulting from greater informational frictions. We further find that supplementary regulatory instruments such as increased scrutiny of the auditee and/or auditor can be used to lower the detection risk and increase the audit quality. The public policy and empirical implications of our findings are discussed.
+
+Keywords: Auditing, Game theory, Regulation, Rotation
+
+JEL Classification: M42, M48
+
+Suggested Citation:
+
+Eleftheriou, Konstantinos and Komarev, Iliya and Komarev, Iliya and Klumpes, Paul J.M., Regulating the Market for Audit Services: A Game Theoretic Approach (September 22, 2018). Available at SSRN: https://ssrn.com/abstract=3253641 or http://dx.doi.org/10.2139/ssrn.3253641
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+K Amin , J Krishnan , Joon Sun , Y
+Going concern opinion and cost of equity
+Audit.: A J. Pract. Theor , volume 33 , issue 4 , p. 1 - 39 Posted: 2014
+Crossref
+N P Anastasopoulos , M P Anastasopoulos
+The evolutionary dynamics of audit
+Europ. J. Oper. Res , volume 216 , issue 2 , p. 469 - 476 Posted: 2012
+Crossref
+M S Beasley , J V Carcello , D R Hermanson
+Top 10 Audit De…ciencies
+J. Accountancy , volume 191 , issue 4 , p. 63 - 66 Posted: 2001
+M S Beasley , J V Carcello , D R Hermanson , Neal T
+An Analysis of Alleged Auditor De…ciencies
+SEC Fraud Investigations: 1998-2010. The Center for Audit Quality Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+153
+ABSTRACT VIEWS
+1,839
+RANK
+441,693
+1 Citations
+60 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

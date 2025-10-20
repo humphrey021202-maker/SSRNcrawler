@@ -1,0 +1,95 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Valuing Emerging Market Equities - The Empirical Evidence
+
+Journal of Applied Finance, Fall/Winter 2011, Volume 21, Issue 2, pp. 123-141
+
+Pace University Finance Research Paper No. 2012/11
+
+Posted: 8 Aug 2012
+
+Niso Abuaf
+
+Pace University - Lubin School of Business; Samuel A. Ramirez & Co., Inc.
+
+Abstract
+
+Though practitioners and academics rely on similar conceptual frameworks when valuing international equities in general and emerging market equities in particular, they emphasize different aspects of the framework. In contrast to academics, practitioners adjust discount rates as opposed to cash flows, and use the US as opposed to the global equity market risk premium. After summarizing the arguments on the academic and practitioner sides, this paper lets the data do the judging and presents evidence that US dollar returns on emerging market equities (American Depository Receipts, ADRs) primarily are a function of returns on the broad US equity market (e.g., the S&P 500) and on the corresponding country’s credit default swap (CDS) spreads. Because CDSs are standardized contracts that are far more liquid than dollar-denominated emerging market bonds, we use them in our empirical work. Analyzing emerging market equities from a different perspective, we also find evidence that international valuation multiples are statistically dependent on CDS spreads and macroeconomic growth rates. As macroeconomic conditions in an economy become more volatile, US dollar returns on a specified foreign equity start becoming more statistically dependent on the specified country’s CDS spreads. Moreover, the US and European-sparked financial crisis of 2007-2010 have caused practitioners to de-emphasize the “market is correct” viewpoint in favor of “the markets may periodically under or over-react” viewpoint. In this light, the paper presents evidence on the warning signals of international under or overvaluation. The logical extension of this view is that asymmetric currency expectations need to be modeled in cash flows.
+
+Keywords: emerging market equities, discount rates, ADRs, credit default swap (CDS), financial crisis, warning signals
+
+Suggested Citation:
+
+Abuaf, Niso, Valuing Emerging Market Equities - The Empirical Evidence. Journal of Applied Finance, Fall/Winter 2011, Volume 21, Issue 2, pp. 123-141, Pace University Finance Research Paper No. 2012/11, Available at SSRN: https://ssrn.com/abstract=2126272
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,567
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

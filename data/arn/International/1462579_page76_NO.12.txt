@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Simultaneous Presence of Different Domestic GAAPs and Investors’ Limited Attention Bias in U.S. Equity Markets: Implications for Convergence*
+
+AAA 2010 Financial Accounting and Reporting Section (FARS) Paper
+
+47 Pages Posted: 24 Nov 2009
+
+Sabrina Chi
+
+University of California, Irvine
+
+Date Written: August 26, 2009
+
+Abstract
+
+I examine how the presence of domestic accounting standards of various countries affects market reactions to firms’ earnings announcements on a given day and subsequent post-earnings announcement drifts (PEAD) in U.S capital markets. Drawing from the finance and accounting literatures on investors’ limited attention bias, I posit that the presence of fewer multiple domestic GAAPs reduces investors’ cognitive burdens to analyze earnings of firms from different countries and thus results in less distraction and stock mispricing when investors respond to firms’ earnings news.
+
+I use the number of domestic GAAPs at the firm level on a given earnings announcement day as the proxy for extent of simultaneous presence of domestic GAAPs and test the incremental effects of the number of domestic GAAPs on initial market reactions to earnings and on PEAD of U.S. and non-U.S. firms. I find that the presence of fewer different domestic GAAPs yields higher earnings response coefficients and trading volume reactions to firms’ earnings news and induces a smaller incremental effect on PEAD. A hedge portfolio based on PEAD on earnings announcement days with fewer domestic GAAPs is less profitable than one based on announcement days with more domestic GAAPs. The results indicate that the presence of fewer domestic GAAPs facilitates investment decision making and improves market efficiency by mitigating investors’ limited attention bias. The findings provide the important implication for the current movement of convergence of domestic accounting standards. This is also the first paper to empirically investigate the relation between different domestic GAAPs and investors’ limited attention bias.
+
+Keywords: Domestic GAAP, Limited Attention, ERC, PEAD, Web Crawling
+
+JEL Classification: M41, G15, G38
+
+Suggested Citation:
+
+Chi, Sabrina, Simultaneous Presence of Different Domestic GAAPs and Investors’ Limited Attention Bias in U.S. Equity Markets: Implications for Convergence* (August 26, 2009). AAA 2010 Financial Accounting and Reporting Section (FARS) Paper, Available at SSRN: https://ssrn.com/abstract=1462579 or http://dx.doi.org/10.2139/ssrn.1462579
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+C Armstrong , M Barth , A Jagolinzer , A Riedl
+Market reaction to the IFRS adoption in Europe, Working Paper Posted: 2008
+H Ashabugh
+Non-U.S. Firms' Accounting Standard Choices
+Journal of Accounting and Public Policy , p. 129 - 53 Posted: 2001
+Crossref
+H Ashbaugh , M Pincus
+Domestic accounting standards, international accounting standards, and the predictability of earnings
+Journal of Accounting Research , volume 39 , issue 3 , p. 417 - 451 Posted: 2001
+Crossref
+K H Bae , H Tan , M Welker
+International GAAP differences: the Impact on foreign Analysts
+The Accounting Review , volume 83 , p. 593 - 628 Posted: 2008
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+246
+ABSTRACT VIEWS
+2,214
+RANK
+284,192
+3 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+International Accounting Standards and Accounting Quality
+
+By Mary E. Barth, Wayne R. Landsman, ...
+
+Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences
+
+By Holger Daske, Luzi Hail, ...
+
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors
+
+By Ray Ball
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

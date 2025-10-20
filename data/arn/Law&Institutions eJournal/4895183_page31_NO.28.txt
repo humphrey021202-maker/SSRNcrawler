@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Shareholder Litigation Rights and Tax Avoidance: Evidence from Universal Demand Laws
+
+67 Pages Posted: 15 Jul 2024
+
+Md Noman Hossain
+
+California State University Fullerton
+
+Ahmed Elnahas
+
+The University of Texas Rio Grande Valley
+
+Ghada Ismail
+
+University of Texas Rio Grande Valley
+
+There are 2 versions of this paper
+
+Abstract
+
+Exploiting the staggered adoption of universal demand (UD) laws as an exogenous shock to derivative lawsuits, we investigate the relationship between shareholders’ litigation rights and corporate tax avoidance. Our difference-in-differences estimate shows that the affected firms increased their engagement in tax avoidance following the adoption of UD laws. Results are stronger for firms with lower external monitoring, higher financial constraints, and higher ex-ante litigation threats. Further, we find that the elevated tax avoidance caused by the adoption of UD laws has a negative effect on firm value. Our results are robust to addressing selection bias using the propensity score matching and omitted variable bias using Oster’s test, using trend analysis, and controlling for other antitakeover laws. Overall, our findings suggest that stronger shareholders’ litigation rights reduce managerial rent extraction opportunities and mitigate agency problems.
+
+Keywords: Keywords: Shareholder Litigation, Tax Avoidance, Agency Problems.
+
+Suggested Citation:
+
+Hossain, Md Noman and Elnahas, Ahmed and Ismail, Ghada, Shareholder Litigation Rights and Tax Avoidance: Evidence from Universal Demand Laws. Available at SSRN: https://ssrn.com/abstract=4895183 or http://dx.doi.org/10.2139/ssrn.4895183
+Download This Paper
+ 
+Open PDF in Browser
+136 References
+V V Acharya , H Almeida , M Campello
+Is cash negative debt? A hedging perspective on corporate financial policies
+Journal of financial intermediation , volume 16 , issue 4 , p. 515 - 554 Posted: 2007
+B Adhikari , A Agrawal , B Sharma
+Does litigation risk deter insider trading? Evidence from universal demand laws Posted: 2019-06
+A K Agrawal
+Corporate governance objectives of labor union shareholders: Evidence from proxy voting
+The Review of Financial Studies , volume 25 , issue 1 , p. 187 - 226 Posted: 2012
+A Agrawal , G N Mandelker
+Large shareholders and the monitoring of managers: The case of antitakeover charter amendments
+Journal of Financial and Quantitative analysis , volume 25 , issue 2 , p. 143 - 161 Posted: 1990
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+39
+ABSTRACT VIEWS
+333
+136 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

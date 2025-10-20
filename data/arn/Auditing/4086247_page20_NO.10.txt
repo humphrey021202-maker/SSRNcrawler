@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Network Connectedness and the Convergence of Audit Styles
+
+57 Pages Posted: 6 May 2022
+
+Lin Wang
+
+The Chinese University of Hong Kong (CUHK); Central University of Finance and Economics (CUFE); The Chinese University of Hong Kong
+
+Donghui Wu
+
+The Chinese University of Hong Kong (CUHK) - CUHK Business School
+
+Yuping Zhao
+
+University of Houston
+
+Date Written: March 31, 2022
+
+Abstract
+
+Viewing audit teams as social groups of auditors, we utilize network analysis algorithm “n-clans” to identify clustering of individual auditors, that is, audit teams, based on individual collaboration history. Drawing upon social learning theory, we argue that team network connectedness, specifically network density and closeness, shapes the similarity in the audit styles among team members. We first validate the team construct by showing the existence of team styles in audit outcomes and audit pricing. Using the dispersion of audit outcomes and abnormal audit fees as inverse measures of au-dit-style similarity, we find that more closely connected teams exhibit lower within-team variation in these measures. Further, the role of network connectedness for the within-team convergence of audit styles is more pronounced when firm-level quality control is less robust, the teams include junior auditors, and the clients served by the teams are more divergent. Network density and closeness also strengthen the relation between audit-team style and that of team members. We extend prior literature by identifying the audit team as a relevant unit of the analysis for audit production and documenting the importance of network connectedness to more consistent audit outcomes.
+
+Keywords: Audit Team; Social Network; Social Learning; Audit Style; Knowledge Sharing; Audit Quality
+
+JEL Classification: M41; M42; D83
+
+Suggested Citation:
+
+Wang, Lin and Wang, Lin and Wu, Donghui and Zhao, Yuping, Network Connectedness and the Convergence of Audit Styles (March 31, 2022). Available at SSRN: https://ssrn.com/abstract=4086247 or http://dx.doi.org/10.2139/ssrn.4086247
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+481
+ABSTRACT VIEWS
+1,588
+RANK
+135,862
+PlumX Metrics
+Related eJournals
+
+Economics of Networks eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

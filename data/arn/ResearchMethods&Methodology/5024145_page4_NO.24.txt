@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Road to False Positives: Sample Selection and Specification Choice in Randomized and Natural Experiments
+
+SMU Cox School of Business Research Paper No. 25-2
+
+Northwestern Law & Econ Research Paper No. 25-07
+
+53 Pages Posted: 15 Jan 2025 Last revised: 16 Jan 2025
+
+Bernard S. Black
+
+Northwestern University - Pritzker School of Law; European Corporate Governance Institute (ECGI)
+
+Hemang Desai
+
+Southern Methodist University (SMU) - Accounting Department
+
+Kate Litvak
+
+Northwestern University - Pritzker School of Law
+
+Woongsun Yoo
+
+Central Michigan University
+
+Jeff Jiewei Yu
+
+University of Arizona
+
+Date Written: November 17, 2024
+
+Abstract
+
+During 2005-2007, the SEC conducted a randomized trial in which it removed shortsale restrictions from one-third of the Russell 3000 firms. Early studies found no effect of removing the restrictions on short interest, share returns, volatility, or price efficiency. In prior work, we confirm the lack of evidence for a natural causal channel that could explain these results (Black et al., 2024). Yet over 80 studies report evidence for a wide range of indirect effects on firms from the experiment. Given the lack of a causal channel, many of these results are likely to be false positives. We confirm that suspicion by closely reexamining the principal results from 10 of these studies using a simple specification with firm and year fixed effects. None of the results survive. We then examine best-match specifications that closely follow the sample selection, methodology and specification reported in the respective papers. Again, we mostly obtain null results. The gaps between reported and best match results reflects reported coefficients being much larger in magnitude, reported standard errors being much smaller than best-match, or both. The large gaps between best-match and reported results implies that the study authors made choices that are not evident from the explanation of their research design, which strongly affected the reported results. Our results suggest that researchers retain extensive discretion over the sample and model specification, even (as here) for a true randomized experiment. The choices in these studies produced statistically significant results when other reasonable choices would not. We draw lessons from our analysis for empirical practice and for ways in which researchers can find false positives results.
+
+Keywords: natural experiments, causal channels, specification choice, Regulation SHO, SEC experiment, short-sale experiment
+
+Suggested Citation:
+
+Black, Bernard S. and Desai, Hemang and Litvak, Kate and Yoo, Woongsun and Yu, Jeff Jiewei, The Road to False Positives: Sample Selection and Specification Choice in Randomized and Natural Experiments (November 17, 2024). SMU Cox School of Business Research Paper No. 25-2, Northwestern Law & Econ Research Paper No. 25-07, Available at SSRN: https://ssrn.com/abstract=5024145 or http://dx.doi.org/10.2139/ssrn.5024145
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+185
+ABSTRACT VIEWS
+1,016
+RANK
+373,425
+PlumX Metrics
+Related eJournals
+
+SMU Cox School of Business Research Paper Series
+
+Follow
+
+Northwestern University Pritzker School of Law, Law & Economics Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

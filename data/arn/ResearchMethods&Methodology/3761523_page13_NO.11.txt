@@ -1,0 +1,148 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+When Do Short Sellers Trade? Evidence from Intraday Data and Implications for Informed Trading Models
+
+Journal of Financial Economics, forthcoming
+
+85 Pages Posted: 18 Feb 2021 Last revised: 6 Sep 2025
+
+Danqi Hu
+
+Peking University - Guanghua School of Management
+
+Charles M. Jones
+
+Columbia University
+
+Xiaoyan Zhang
+
+Tsinghua University - PBC School of Finance
+
+Xinran Zhang
+
+Central University of Finance and Economics (CUFE) - School of Finance
+
+Date Written: February 16, 2021
+
+Abstract
+
+Using 2015-2019 intraday short sale data from CBOE, we show that shorting flows near the open, middle, and close all negatively predict future returns, but the shorting flows near the open and middle have stronger predictive power than shorting flows near the close. We relate our findings to three informed trading models with different predictions on the timing of the trades. The long term predictive power of shorting flows near the open and midday is consistent with Kyle’s (1985) model of steady trading; the intraday variation in shorting flows’ predictive power is more consistent with Holden and Subrahmanyam’s (1992) aggressive trading model, in the sense that predictive power of shorting flows is stronger when there is greater urgency to trade at open and when the securities lending market is more competitive; and the liquidity timing hypothesis from Collin-Dufresne and Fos (2016) is also supported by the finding that opening shorting flows increase for firms with better liquidity conditions. 
+
+Keywords: short selling, intraday trading, information content, off-exchange trading, dynamic informed trading models. JEL codes: G11, G12, G14, G23
+
+JEL Classification: G11, G12, G14, G23
+
+Suggested Citation:
+
+Hu, Danqi and Jones, Charles M. and Zhang, Xiaoyan and Zhang, Xinran, When Do Short Sellers Trade? Evidence from Intraday Data and Implications for Informed Trading Models (February 16, 2021). Journal of Financial Economics, forthcoming, Available at SSRN: https://ssrn.com/abstract=3761523 or http://dx.doi.org/10.2139/ssrn.3761523
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+A R Admati , P Pfleiderer
+Selling and trading on information in financial markets
+American Economic Review , volume 78 , issue 2 , p. 96 - 103 Posted: 1988
+H J Ahn , K H Bae , K Chan
+Limit orders, depth, and volatility: Evidence from the Stock Exchange of Hong Kong
+The Journal of Finance , volume 56 , issue 2 , p. 767 - 788 Posted: 2001
+P Akey , V Gré , C Martineau
+Price revelation from insider trading: Evidence from hacked earnings news
+Journal of Financial Economics , volume 143 , issue 3 , p. 1162 - 1184 Posted: 2022
+D W K Andrews
+Heteroskedasticity and autocorrelation consistent covariance matrix estimation
+Econometrica , volume 59 , p. 817 - 858 Posted: 1991
+Load more
+4 Citations
+Lawrence Kryzanowski , Ali Rouhghalandari
+Institutional/retail investor active attention and behavior: Firm coverage on Mad Money
+Journal of Behavioral and Experimental Finance , volume 42 , p. 100937 Posted: 2024
+Crossref
+Albert Lee , Kee H. Chung
+Hidden Liquidity, Market Quality, and Order Submission Strategies
+118 Pages · Posted: 30 Jun 2020 · Last revised: 25 Apr 2022 · Downloads: 413
+Download PDF  Add Paper to My Library
+Jane Chen
+See it, Say it, Shorted: Strategic Announcements in Short-Selling Campaigns
+69 Pages · Posted: 28 Jun 2023 · Last revised: 16 Jan 2024 · Downloads: 262
+Download PDF  Add Paper to My Library
+Jiageng Huang , Nianhua Zhang , Fei Wang
+When Opinions Collide:Investor Sentiment Divergence and Stock Liquidity
+JFS-D-25-01322 · 59 Pages · Posted: 27 Sep 2025 · Downloads: 18
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,430
+ABSTRACT VIEWS
+5,274
+RANK
+31,134
+4 Citations
+67 References
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

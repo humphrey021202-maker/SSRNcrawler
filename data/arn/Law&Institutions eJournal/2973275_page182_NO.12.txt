@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Managerial Incentives and Changes in Corporate Investments Following the Inception of Credit Default Swap Trade
+
+Tuck School of Business Working Paper No. 2973275
+
+56 Pages Posted: 24 May 2017 Last revised: 20 Mar 2018
+
+Hyun A. Hong
+
+University of California, Riverside (UCR) - A. Gary Anderson Graduate School of Management
+
+Jiwoo Ryou
+
+West Virginia University
+
+Anup Srivastava
+
+University of Calgary - Haskayne School of Business
+
+There are 2 versions of this paper
+
+Date Written: March 15, 2018
+
+Abstract
+
+A credit default swap (CDS) enables a lender to hedge its risk exposure on a loan given to reference client. The lender then reduces the monitoring of the client’s activities as well as aiding the distressed client. Two contrasting predictions can be made about how the borrower would respond to the altered lender-borrower relationship. (1) The borrower reduces risky investments to lower its vulnerability to financial distress. (2) The borrower pursues volatility-enhancing projects to increase the value of call options built into its shareholder investments. We find that a borrower shifts to a more conservative policy when its managers have low portfolio sensitivity to stock volatility (vega). A borrower with high managerial vega, however, seeks volatility-enhancing projects. Shareholders then increase vega incentives for managers to maintain investments in risky, positive NPV projects at pre CDS levels. This action, however, also results in higher bankruptcy risk. Our study shows a unique interaction between the manager-shareholder and lender-shareholder conflicts arising from CDS inception, which alters the course of the borrower’s operating policy.
+
+Keywords: Credit default swap (CDS); Agency conflict; Managerial compensation; Operating risks; Investment policy; Bankruptcy
+
+JEL Classification: G32, G33, M41, M48
+
+Suggested Citation:
+
+Hong, Hyun A. and Ryou, Jiwoo and Srivastava, Anup, Managerial Incentives and Changes in Corporate Investments Following the Inception of Credit Default Swap Trade (March 15, 2018). Tuck School of Business Working Paper No. 2973275, Available at SSRN: https://ssrn.com/abstract=2973275 or http://dx.doi.org/10.2139/ssrn.2973275
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+222
+ABSTRACT VIEWS
+2,305
+RANK
+199,490
+87 References
+PlumX Metrics
+Related eJournals
+
+Tuck School of Business at Dartmouth Research Paper Series
+
+Follow
+
+Risk Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

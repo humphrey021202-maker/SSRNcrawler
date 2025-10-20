@@ -1,0 +1,92 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Addressing Unobserved Endogeneity Bias in Accounting Studies: Control and Sensitivity Methods by Variable Type
+
+Accounting and Business Research, 44 (5), pp. 545-571, 2014.
+
+Posted: 6 Jul 2014 Last revised: 12 Aug 2014
+
+Michael J. Peel
+
+Cardiff University - Cardiff Business School
+
+Date Written: July 4, 2014
+
+Abstract
+
+Together with their associated statistical routines, this paper describes the control and sensitivity methods that can be employed by accounting researchers to address the important issue of unobserved (omitted) variable bias in regression and matching models according to the types of variables employed. As with other social science disciplines, an important and pervasive issue in observational (non-experimental) accounting research is omitted variable bias (endogeneity). Causal inferences for endogenous explanatory variables are biased. This occurs in regression models where an unobserved (confounding) variable is correlated with both the dependent (outcome) variable in a regression model and the causal explanatory (often a selection) variable of interest. The Heckman treatment effect model has been widely employed to control for hidden bias for continuous outcomes and endogenous binary selection variables. However, in accounting studies, limited (categorical) dependent variables are a common feature and endogenous explanatory variables may be other than binary in nature. The purpose of this paper is to provide an overview of contemporary control methods, together with the statistical routines to implement them, which extend the Heckman approach to binary, multinomial, ordinal, count and percentile outcomes and to where endogenous variables take various forms. These contemporary methods aim to improve causal estimates by controlling for hidden bias, though at the price of increased complexity. A simpler approach is to conduct sensitivity analysis. This paper also presents a synopsis of a number of sensitivity techniques and their associated statistical routines which accounting researchers can employ routinely to appraise the vulnerability of causal effects to potential (simulated) unobserved bias when estimated with conventional regression and propensity score matching estimators.
+
+Keywords: Unobserved bias, control methods, sensitivity techniques, limited dependent variables, endogenous variable types, statistical routines
+
+JEL Classification: C10, C21, M40, M41
+
+Suggested Citation:
+
+Peel, Michael J., Addressing Unobserved Endogeneity Bias in Accounting Studies: Control and Sensitivity Methods by Variable Type (July 4, 2014). Accounting and Business Research, 44 (5), pp. 545-571, 2014., Available at SSRN: https://ssrn.com/abstract=2462560
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,170
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

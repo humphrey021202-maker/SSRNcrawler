@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Bridging networks, systems and controls frameworks for cybersecurity curriculums and standards development
+
+The Journal of Operational Risk, March 2018, Vol. 13, No. 1, pp. 77-99.
+
+Posted: 19 Jun 2017 Last revised: 6 Apr 2022
+
+Yogesh Malhotra
+
+Global Risk Management Network, LLC; Amazon Web Services Partner
+
+Date Written: April 13, 2017
+
+Abstract
+
+Applied Cybersecurity practices in the US private and public industry are transitioning to an overall focus on Cyber Risk Management. It is hence necessary to align IT-Cybersecurity professional association application standards and related educational curricula with emerging applications in practice. Current standards and educational curricula seem fragmented across Networks Protocols and Network Analysis Tools Frameworks, Systems and Networks Infrastructure Frameworks, and, Risk Management & Controls Policy Frameworks. This article develops an applied framework for aligning, integrating, and, streamlining standards and curricula across the above three levels to align them with needs of applied Risk Management practice. The Cyber Risk Management framework is developed with focus on VoIP networks which have been gaining central prominence across diverse industries such as global Banking and Finance over the past decade. Despite central role technologically and economically, sparse attention has been given to critical vulnerabilities described as the ‘weakest links’ in global Banking and Finance networks as evident from Cybersecurity and Penetration Testing. This article demonstrates the contribution of the proposed Cyber Risk Management framework in addressing such critical gaps in global Banking and Finance Cybersecurity and Information Assurance practices as an example while being extendable to multiple other industries such as Healthcare.
+
+Accessible on the Journal Site: https://www.risk.net/journal-of-operational-risk/5462036/bridging-networks-systems-and-controls-frameworks-for-cybersecurity-curriculums-and-standards-development .
+
+Related Conference Presentation: Toward Integrated Enterprise Risk Management, Model Risk Management & Cyber-Finance Risk Management: Bridging Networks, Systems and Controls Frameworks. Presented at: 2015 NY Cyber Security & Engineering Technology Association Conference, Oct. 22, 2015, Rochester Institute of Technology, Rosica Hall, NTID, Rochester, New York. (http://ssrn.com/abstract=2792629).
+
+Related Accepted Conference Paper: Bridging Networks, Systems and Controls Frameworks for Cybersecurity Curricula & Standards Development, 2015 NY Cyber Security & Engineering Technology Association Conference, Oct. 22, 2015 Rochester Institute of Technology, Rosica Hall, NTID, Rochester, New York. (http://ssrn.com/abstract=2792636).
+
+Keywords: Cyber Risk Management, Cybersecurity & Penetration Testing, Computer Science Curricula, Professional Standards of Practice, Networks Protocols & Network Analysis, Systems & Networks Infrastructure, Risk Management & Controls Policy, Innovative design and development Practices
+
+Suggested Citation:
+
+Malhotra, Yogesh, Bridging networks, systems and controls frameworks for cybersecurity curriculums and standards development (April 13, 2017). The Journal of Operational Risk, March 2018, Vol. 13, No. 1, pp. 77-99., Available at SSRN: https://ssrn.com/abstract=2988154
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,151
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

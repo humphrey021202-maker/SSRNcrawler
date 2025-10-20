@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+PCAOB Inspections: An Analysis of Entity-Level and Application-Level Control Audit Deficiencies
+
+56 Pages Posted: 7 Sep 2018
+
+Maureen Mascha
+
+Marquette University
+
+Melvin A. Lamboy-Ruiz
+
+Georgia Southern University; Iowa State University
+
+Diane Joyce Janvrin
+
+Iowa State University - Department of Accounting and Finance
+
+Date Written: June 20, 2018
+
+Abstract
+
+The Public Company Accounting Oversight Board (PCAOB) inspection process identifies deficiencies related to how firms conduct audits. Our work extends prior research by examining the type of internal control audit deficiencies (entity-level or application-level). Internal control audit deficiencies of both types may increase the risk of material misstatement, so the PCAOB is concerned with whether audit firms are performing appropriate procedures to identify entity-level and application-level internal control audit deficiencies, including those involving information technology general controls (ITGCs). Using text analysis to examine audit deficiencies by internal control type and firm size, we find that PCAOB inspection reports identify significantly more application-level than entity-level control audit deficiencies. Application-level control deficiencies generally involve revenue, inventory, and accounts receivable accounts whereas entity-level deficiencies often involve lack of centralized controls or controls over period end financial reporting. The number of application-level deficiencies identified for both Big 4 and second-tier firms varied between inspection years 2010 and 2015. However, the number of entity-level deficiencies, including ITGCs for both Big 4 and second-tier firms, held nearly steady during the period. Our findings should be of interest to practicing accountants, regulators, and other users of PCAOB inspection reports.
+
+Keywords: Internal Control Audit Deficiency, Entity-Level Control, Application-Level Control, PCAOB Inspection, Inspection Report
+
+JEL Classification: M42, M48
+
+Suggested Citation:
+
+Mascha, Maureen and Lamboy-Ruiz, Melvin and Janvrin, Diane Joyce, PCAOB Inspections: An Analysis of Entity-Level and Application-Level Control Audit Deficiencies (June 20, 2018). Available at SSRN: https://ssrn.com/abstract=3235585 or http://dx.doi.org/10.2139/ssrn.3235585
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+T Loughran , B Mcdonald
+Textual analysis in accounting and finance: a survey
+Journal of Accounting Research , volume 54 , issue 4 , p. 1187 - 1230 Posted: 2016
+Crossref
+D J Lowe , J L Bierstaker , D J Janvrin , G Jenkins
+Information technology in an audit context: have the Big 4 lost their advantage
+Journal of Information Systems , volume 32 , issue 1 , p. 87 - 107 Posted: 2018
+Crossref
+A L Nagy
+PCAOB quality control inspection reports and auditor reputation
+Auditing: A Journal of Practice & Theory , volume 33 , issue 3 , p. 87 - 104 Posted: 2014
+Crossref
+E J Pedhazur , L P Schmelkin
+Measurement, Design, and Analysis: An Integrated Approach
+Lawrence Erlbaum Posted: 1991
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+180
+ABSTRACT VIEWS
+1,614
+RANK
+383,022
+24 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

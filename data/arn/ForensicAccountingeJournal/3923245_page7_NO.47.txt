@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cybersecurity in Accounting Research
+
+49 Pages Posted: 27 Oct 2021
+
+Elina Haapamäki
+
+University of Vaasa
+
+Jukka Sihvonen
+
+Aalto University
+
+Date Written: May 22, 2019
+
+Abstract
+
+Purpose – This paper aims to update the cybersecurity-related accounting literature by synthesizing 39 recent theoretical and empirical studies on the topic. Furthermore, the paper provides a set of categories into which the studies fit.
+
+Design/methodology/approach – This is a synthesis paper that summarizes the research literature on cybersecurity, introducing knowledge from the extant research and revealing areas requiring further examination.
+
+Findings – This synthesis identifies a research framework that consists of the following research themes: cybersecurity and information sharing; cybersecurity investments; internal auditing and controls related to cybersecurity; disclosure of cybersecurity activities; and security threats and security breaches.
+
+Practical implications – Academics, practitioners, and the public would benefit from a research framework that categorizes the research topics related to cybersecurity in the accounting field. This type of analysis is vital to enhance the understanding of the academic research on cybersecurity and can be used to support the identification of new lines for future research.
+
+Originality/value – This is the first literature analysis of cybersecurity in the accounting field, and it has significant implications for research and practice by detailing, for example, the benefits of and obstacles to information sharing. This synthesis also highlights the importance of the model for cybersecurity investments. Further, the review emphasizes the role of internal auditing and controls to improve cybersecurity.
+
+Keywords: cybersecurity, risk management, accounting, auditing, digitalization
+
+JEL Classification: M40, M15, K24
+
+Suggested Citation:
+
+Haapamäki, Elina and Sihvonen, Jukka, Cybersecurity in Accounting Research (May 22, 2019). Available at SSRN: https://ssrn.com/abstract=3923245 or http://dx.doi.org/10.2139/ssrn.3923245
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+A A Abu-Musa
+Perceived security threats of computerized accounting information systems in the Egyptian banking industry
+Journal of Information Systems , volume 20 , issue 1 , p. 187 - 203 Posted: 2006
+Cybersecurity risk management reporting fact sheet Posted: 2018-11
+SOC for cybersecurity: a backgrounder Posted: 2018-11
+E Amir , S Levi , T Livne
+Do firms underreport information on cyber-attacks? Evidence from capital markets
+Review of Accounting Studies , volume 23 , issue 3 , p. 1177 - 1206 Posted: 2018
+Load more
+4 Citations
+Volodymyr Korol , Olga Dmytryk , Oleksandr Karpenko , Valeriia O. Riadinska , Oleksandr Basiuk , Dmytro Kobylnik , Volodymyr Moroz , Olha Safronova , Eugene Alisov , Tetyana Mishchenko
+Elaboration of recommendations on the development of the state internal audit system when applying the digital technologies
+Eastern-European Journal of Enterprise Technologies, 1 (13 (115)), 39–48. doi: https://doi.org/10.15587/1729-4061.2022.252424, · 10 Pages · Posted: 13 Apr 2022 · Downloads: 539
+Download PDF  Add Paper to My Library
+Muhammed Zakir Hossain , Fatema Tuj Johora
+Cybersecurity in Accounting: Protecting Financial Data in the Digital Age
+17 Pages · Posted: 25 Jun 2024 · Last revised: 12 Mar 2025 · Downloads: 179
+Download PDF  Add Paper to My Library
+Xiaohui Liu , Juan Luo , Alfred Yawson
+Equity offering following cyberattacks
+64 Pages · Posted: 13 Jan 2025 · Last revised: 14 Jan 2025 · Downloads: 35
+Download PDF  Add Paper to My Library
+Ahmad Alodat , Marwan Mansour
+Board characteristics and cybersecurity disclosure: evidence from the UK
+19 Pages · Posted: 14 Feb 2025 · Downloads: 199
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+439
+ABSTRACT VIEWS
+1,812
+RANK
+151,482
+4 Citations
+61 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

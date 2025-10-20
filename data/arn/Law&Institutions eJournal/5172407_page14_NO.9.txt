@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Corporate Governance on Financial Reporting Quality: Evidence from Nigerian Manufacturing Firms (2014-2023)
+
+17 Pages Posted: 10 Mar 2025
+
+Boniface Umoh E.
+
+Institute of Management and Technology (IMT), Enugu
+
+Date Written: March 07, 2025
+
+Abstract
+
+This study investigates the impact of corporate governance on the quality of financial reporting at Cadbury Nigeria Plc between 2014 and 2023. Specifically, it examines the influence of board size (BSIZE), board composition (BCOMP), and directors' remuneration (DREM) on the company's return on assets (ROA). Employing an ex-post-facto research design, the study analyzes secondary data using trend analysis, SWOT analysis, and regression techniques via E-Views software; additionally, a PESTEL analysis is incorporated to explore external factors that may influence the organization. The findings indicate that none of the corporate governance factors-BSIZE, BCOMP, or DREMsignificantly impact ROA, with p-values of 0.9228, 0.3812, and 0.4305, respectively, all exceeding the 0.05 significance threshold. Furthermore, the overall regression model is not statistically significant (p = 0.520073). These results suggest that, corporate governance factors do not play a significant role in determining the quality of financial reporting. The study urges caution in the widespread belief that board independence directly correlates with improved financial performance, highlighting potential misinterpretations of this relationship. It recommends a reassessment of governance strategies, advocating for more targeted approaches to enhance financial performance beyond structural governance reforms.
+
+Keywords: Corporate Governance, board size, board composition, directors' remuneration and financial reporting
+
+Declaration of Interest
+
+no personal or financial relationship
+
+Ethics Approval
+
+As the study is based on secondary data, all sources of data have been properly cited and referenced to ensure transparency and data integrity. I have also ensured that the data used is publicly available and does not involve any unethical practices such as data fabrication or misrepresentation. The ethical considerations for this research primarily focus on responsible data usage, proper acknowledgment of original sources, and adherence to relevant copyright and intellectual property laws.
+
+Funder Statement
+
+self
+
+Suggested Citation:
+
+Umoh E., Boniface, The Impact of Corporate Governance on Financial Reporting Quality: Evidence from Nigerian Manufacturing Firms (2014-2023) (March 07, 2025). Available at SSRN: https://ssrn.com/abstract=5172407 or http://dx.doi.org/10.2139/ssrn.5172407
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+B A Abubakar , A I Mohammed , Z Usman
+Corporate governance and financial reporting: Evidence from Nigerian manufacturing sector
+European Journal of Business and Management , volume 12 , issue 3 , p. 93 - 112 Posted: 2020
+A A Adediran , H A Salawu
+Directors' compensation and firm performance: Empirical evidence from Nigerian manufacturing firms
+Journal of Accounting and Financial Management , volume 6 , issue 1 , p. 49 - 64 Posted: 2021
+A A Adediran , H A Salawu
+Board diversity and financial reporting quality in Nigerian manufacturing firms
+South Asian Journal of Accounting and Finance , volume 13 , issue 2 , p. 141 - 155 Posted: 2021
+F Adeola , O A Adewale , K
+Transparent and accountable corporate governance in the capital market: challenges formarket operators and stakeholders. Nigerian Stock Market Annual Adeyemi
+Journal of Business Economics and Management , volume 24 , issue 3 , p. 1089 - 1105 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+294
+ABSTRACT VIEWS
+1,623
+RANK
+236,690
+62 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

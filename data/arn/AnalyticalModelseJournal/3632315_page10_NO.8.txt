@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information Sharing in Financial Markets
+
+64 Pages Posted: 14 Jul 2020 Last revised: 24 Jan 2023
+
+Itay Goldstein
+
+University of Pennsylvania - The Wharton School - Finance Department ; National Bureau of Economic Research (NBER)
+
+Yan Xiong
+
+The University of Hong Kong - School of Business
+
+Liyan Yang
+
+University of Toronto - Rotman School of Management
+
+Date Written: June 22, 2021
+
+Abstract
+
+We study information sharing between strategic investors who are informed about asset fundamentals. We demonstrate that a coarsely informed investor optimally chooses to share information if his counterparty investor is well informed. By doing so, the coarsely informed investor invites the other investor to trade against his information, thereby reducing his price impact. Paradoxically, the well informed investor loses from receiving information because of the resulting worsened market liquidity and the more aggressive trading by the coarsely informed investor. Our analysis sheds light on phenomena such as private communications among investors and public information sharing on social media.
+
+Keywords: Information sharing, trading against error, trading profits, asset markets JEL: D82, G14, G18
+
+JEL Classification: D82, G14, G18
+
+Suggested Citation:
+
+Goldstein, Itay and Xiong, Yan and Yang, Liyan, Information Sharing in Financial Markets (June 22, 2021). Available at SSRN: https://ssrn.com/abstract=3632315 or http://dx.doi.org/10.2139/ssrn.3632315
+Download This Paper
+ 
+Open PDF in Browser
+54 References
+W Antweiler , M Z Frank
+Is all that talk just noise? the information content of internet stock message boards
+Journal of Finance , volume 59 , issue 3 , p. 1259 - 1294 Posted: 2004
+S Balasubramaniam
+Information sharing among strategic traders: The role of disagreement Posted: 2021
+R Benabou , G Laroque
+Using privileged information to manipulate markets: Insiders, gurus, and credibility
+Quarterly Journal of Economics , volume 107 , issue 3 , p. 921 - 958 Posted: 1992
+N Boyarchenko , D O Lucca , L Veldkamp
+Taking orders and taking notes: Dealer information sharing in treasury auctions
+Journal of Political Economy , volume 129 , issue 2 , p. 607 - 645 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,163
+ABSTRACT VIEWS
+4,422
+RANK
+42,319
+5 Citations
+54 References
+PlumX Metrics
+Related eJournals
+
+HKUST Business School Research Paper Series
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,98 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Computer-Assisted Functions for Auditing XBRL-Related Documents
+
+Journal of Emerging Technologies in Accounting (2016) 13 (1): 53–83. https://doi.org/10.2308/jeta-51436
+
+Posted: 7 Dec 2014 Last revised: 9 Dec 2021
+
+J. Efrim Boritz
+
+University of Waterloo - School of Accounting and Finance
+
+Won Gyun No
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+Date Written: March 1, 2016
+
+Abstract
+
+The increasing global adoption of XBRL and its potential to replace traditional formats for business reporting create a need for quality assurance for XBRL-tagged data. Although prior studies have addressed assurance issues on XBRL-related documents (i.e., instance documents and extension taxonomy) and related audit objectives, they primarily focus on the U.S. and, thus, may not be comprehensive enough for use in other countries. Furthermore, no prior literature discusses what and how computer-assisted audit functions can help auditors while they are performing assurance on XBRL-related documents. The main goal of this paper is to introduce computer-assisted audit functions that can be used by auditors to perform audit tasks to attain identified audit objectives. Based on professional guidelines and prior academic studies, this study introduces a set of audit objectives and related audit tasks that auditors might confront if they are asked to provide assurance on XBRL-related documents. The study then demonstrates a set of related computer-assisted audit functions for conducting the audit tasks and discuss how the identified audit objectives could be achieved using these functions.
+
+Keywords: XBRL (eXtensible Business Reporting Language), assurance, computer-assisted auditing tools for XBRL
+
+Suggested Citation:
+
+Boritz, Efrim and No, Won Gyun, Computer-Assisted Functions for Auditing XBRL-Related Documents (March 1, 2016). Journal of Emerging Technologies in Accounting (2016) 13 (1): 53–83. https://doi.org/10.2308/jeta-51436, Available at SSRN: https://ssrn.com/abstract=2534540 or http://dx.doi.org/10.2139/ssrn.2534540
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,426
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

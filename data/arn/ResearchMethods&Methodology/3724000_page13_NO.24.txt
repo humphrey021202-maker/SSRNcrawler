@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Non-Equilibrium Skewness, Market Crises, and Option Pricing: Non-Linear Langevin Model of Markets with Supersymmetry
+
+39 Pages Posted: 14 Jan 2021 Last revised: 27 Dec 2021
+
+Igor Halperin
+
+Fidelity Investments, Inc.
+
+Date Written: December 23, 2021
+
+Abstract
+
+This paper presents a tractable model of non-linear dynamics of market returns using a Langevin approach. Due to non-linearity of an interaction potential, the model admits regimes of both small and large return fluctuations. Langevin dynamics are mapped onto an equivalent quantum mechanical (QM) system. Borrowing ideas from supersymmetric quantum mechanics (SUSY QM), a parameterized ground state wave function (WF) of this QM system is used as a direct input to the model, which also fixes a non-linear Langevin potential. Using a two-component Gaussian mixture as a ground state WF with an asymmetric double well potential produces a tractable low-parametric model with interpretable parameters, referred to as the NES (Non-Equilibrium Skew) model. Supersymmetry (SUSY) is then used to find time-dependent solutions of the model in an analytically tractable way. Additional approximations give rise to a final practical version of the NES model, where real-measure and risk-neutral return distributions are given by three component Gaussian mixtures. This produces a closed-form approximation for option pricing in the NES model by a mixture of three Black-Scholes prices, providing accurate calibration to option prices for either benign or distressed market environments, while using only a single volatility parameter.
+These results stand in stark contrast to the most of other option pricing models such as local, stochastic, or rough volatility models that need more complex specifications of noise to fit the market data.
+
+
+Keywords: Non-Equilibrium Market Dynamics, Langevin Dynamics, Non-Perturbative Methods, Quantum Mechanics, Supersymmetry, the Black-Scholes Model
+
+JEL Classification: G10, G11, G12, G13, C00, C02, C32, C50, C51, C52, C58, C60, C62, C65, C68, B23
+
+Suggested Citation:
+
+Halperin, Igor, Non-Equilibrium Skewness, Market Crises, and Option Pricing: Non-Linear Langevin Model of Markets with Supersymmetry (December 23, 2021). Available at SSRN: https://ssrn.com/abstract=3724000 or http://dx.doi.org/10.2139/ssrn.3724000
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+Y Aharonov , C K Au
+New Approach to Perturbation Theory
+Phys. Rev. Lett , volume 42 Posted: 1979
+C Alexander , S Narayanan
+Option Pricing with Normal Mixture Returns: Modelling Excess Kurtosis and Uncertainty in Volatility
+ICMA Centre Discussion Papers in Finance icma-dp2001-10 Posted: 2001
+F Black , M Scholes
+The Pricing of Options and Corporate Liabilities
+Journal of Political Economy , volume 81 , issue 3 , p. 637 - 654 Posted: 1973
+J P Bouchaud , R Cont
+A Langevin Approach To Stock Market
+The European Physical Journal B , volume 6 , issue 4 , p. 543 - 550 Posted: 1998
+Load more
+3 Citations
+Igor Halperin
+Phases of MANES: Multi-Asset Non-Equilibrium Skew Model of a Strongly Non-Linear Market with Phase Transitions
+38 Pages · Posted: 6 Apr 2022 · Downloads: 652
+Download PDF  Add Paper to My Library
+Igor Halperin
+SCOP: Schrodinger Control Optimal Planning for Goal-Based Wealth Management
+34 Pages · Posted: 9 Sep 2023 · Downloads: 625
+Download PDF  Add Paper to My Library
+Galin Georgiev
+Hamiltonian formalism in financial markets: equations-of-motion and energy.
+12 Pages · Posted: 13 Dec 2024 · Last revised: 20 Sep 2025 · Downloads: 636
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,504
+ABSTRACT VIEWS
+5,600
+RANK
+28,904
+3 Citations
+35 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

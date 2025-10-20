@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Integrating Federated Deep Learning and Blockchain for Privacy-Preserving Precision Medicine in Medical Virology
+
+https://doi.org/10.1007/978-981-96-8919-4_10
+
+34 Pages Posted: 30 Sep 2025 Last revised: 1 Oct 2025
+
+Hrishikesh Desai
+
+Arkansas State University
+
+Date Written: July 01, 2024
+
+Abstract
+
+This study proposes a novel framework that integrates federated deep learning and blockchain technology for preserving privacy in precision medicine in medical virology. As healthcare institutions increasingly utilize deep learning for tasks such as viral genome analysis and outbreak prediction, concerns about data privacy and security have increased. My framework addresses these challenges by proposing collaborative model training across multiple institutions without centralizing sensitive patient data. I also build a mathematical model that demonstrates how global model optimization can be achieved through distributed local computations, while blockchain technology ensures secure and transparent record-keeping of model updates. Smart contracts provide additional security through update validation. The framework shows potential for scalability and addresses data heterogeneity across institutions. While theoretical in nature, this research opens new avenues for privacy-compliant, large-scale data analysis in medical virology. It provides a blueprint for accelerating research while maintaining regulatory compliance and individual data sovereignty. Future work should focus on practical implementation and empirical validation in real-world healthcare settings.
+
+Keywords: Federated Learning, Blockchain in Healthcare, Privacy-Preserving AI, Medical Virology, Distributed Machine Learning
+
+Suggested Citation:
+
+Desai, Hrishikesh, Integrating Federated Deep Learning and Blockchain for Privacy-Preserving Precision Medicine in Medical Virology (July 01, 2024). https://doi.org/10.1007/978-981-96-8919-4_10, Available at SSRN: https://ssrn.com/abstract=5540860
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+M Abadi , A Chu , I Goodfellow , H B Mcmahan , I Mironov , K Talwar , L Zhang
+Deep learning with differential privacy
+Proceedings of the 2016 ACM SIGSAC conference on computer and communications security , p. 308 - 318 Posted: 2016-10
+S Abdulrahman , H Tout , H Ould-Slimane , A Mourad , C Talhi , M Guizani
+A survey on federated learning: The journey from centralized to distributed on-site learning and beyond
+IEEE Internet of Things Journal , volume 8 , issue 7 , p. 5476 - 5497 Posted: 2020
+F Ahmed , I S Kang , K H Kim , A Asif , C S A Rahim , A Samantasinghar , . . Choi , K H
+Drug repurposing for viral cancers: A paradigm of machine learning, deep learning, and virtual screening-based approaches
+Journal of Medical Virology , volume 95 , issue 4 Posted: 2023
+E Androulaki , A Barger , V Bortnikov , C Cachin , K Christidis , Caro De , A , . Yellick , J
+Hyperledger fabric: a distributed operating system for permissioned blockchains
+Proceedings of the thirteenth EuroSys conference , p. 1 - 15 Posted: 2018-04
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+5
+ABSTRACT VIEWS
+146
+63 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

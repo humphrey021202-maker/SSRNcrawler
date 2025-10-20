@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Commitment to Income-Decreasing Accounting Choices as a Credible Signal to Reduce Information Asymmetry: The Case of Asset Revaluations
+
+Kelley School of Business Research Paper No. 2020-59
+
+39 Pages Posted: 30 Mar 2020 Last revised: 13 Apr 2020
+
+Fabio Moraes da Costa
+
+University of Iowa - Henry B. Tippie College of Business; FUCAPE Business School
+
+Carol Liu
+
+Arizona State University (ASU), W.P. Carey School of Business, School of Accountancy, Students
+
+Regina Rosa
+
+University of New Orleans - College of Business Administration
+
+Samuel L. Tiras
+
+Indiana University - Kelley School of Business
+
+There are 2 versions of this paper
+
+Date Written: February 29, 2020
+
+Abstract
+
+Bagnoli and Watts (2005) propose that a manager could reduce information asymmetry by choosing an income-decreasing accounting choice that signals the firm’s relatively good future prospects. A limitation in testing this theory is that most income-decreasing accounting choices over time reverse such that aggregated earnings would be the same, regardless of the choice. One income-decreasing accounting choice that never reverses is the choice of upward asset revaluation, where the resulting gains are recognized through OCI and reduce future earnings by increasing future depreciation expense. In the UK, prior to FRS15, firms had the option to upwardly revalue on a one-time basis. FRS15, and subsequently IFRS, however, require those firms that upwardly revalue precommit to revalue on a consistent basis. This precommitment sacrifices future reporting discretion, which Bagnoli and Watts (2005) suggest serves as a costly signal of a firm’s relatively good future prospects that reduces information asymmetry. The choice not to upwardly revalue, therefore, serves as a signal of a firm’s relatively poor future prospects and also reduces information asymmetry, but this choice does not require precommitment such that the reduction in information asymmetry would be less than the choice to precommit to upward revaluations. Using a propensity-score matched-pair design on a sample of UK firms to test our predictions during the period requiring precommitment, we find lower forecast dispersion, lower return volatility, and a lower cost of capital for firms that precommit to upward asset revaluations, relative to those firms that choose not to upwardly revalue their operating assets.
+
+Keywords: Upward Asset Revaluations; Income-Decreasing Accounting Choice, Forecast Dispersion, Return Volatility, Cost of Capital, Precommitment
+
+JEL Classification: M41
+
+Suggested Citation:
+
+da Costa, Fabio Moraes and Liu, Carol and Rosa, Regina and Tiras, Samuel L., The Commitment to Income-Decreasing Accounting Choices as a Credible Signal to Reduce Information Asymmetry: The Case of Asset Revaluations (February 29, 2020). Kelley School of Business Research Paper No. 2020-59, Available at SSRN: https://ssrn.com/abstract=3548581 or http://dx.doi.org/10.2139/ssrn.3548581
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+D Aboody , M E Barth , R Kasznik
+Revaluations of fixed assets and future firm performance, evidence from the UK
+Journal of Accounting and Economics , volume 26 , issue 1-3 , p. 149 - 78 Posted: 1999
+Crossref
+D Aboody , M E Barth , R Kasznik
+Firms' voluntary recognition of stock-based compensation expense
+Journal of Accounting Research , volume 42 , issue 2 , p. 123 - 50 Posted: 2004
+Crossref
+C S Armstrong , A D Jagolinzer , D F Larcker
+Chief executive officer equity incentives and accounting irregularities
+Journal of Accounting Research , volume 48 , issue 2 , p. 225 - 71 Posted: 2010
+Crossref
+M Bagnoli , S G Watts
+Conservative accounting choices
+Management Science , volume 51 , issue 5 , p. 786 - 801 Posted: 2005
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+139
+ABSTRACT VIEWS
+1,209
+RANK
+478,514
+2 Citations
+33 References
+PlumX Metrics
+Related eJournals
+
+Indiana University Kelley School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

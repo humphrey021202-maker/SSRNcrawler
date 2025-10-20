@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Value of Financial Statements in Predicting the Innovation Potential of High-Tech Startups
+
+58 Pages Posted: 13 Jun 2025
+
+Bin Ke
+
+National University of Singapore; Independent
+
+Xinjie Ma
+
+University of Iowa - Department of Accounting
+
+Yanbo Wang
+
+University of Hong Kong
+
+Date Written: June 13, 2025
+
+Abstract
+
+Using a proprietary dataset of grant applications submitted to China's Innovation Fund for Small Technology-based Firms (Innofund), this study evaluates the usefulness of financial statements in predicting the innovation potential of high-tech startup firms. We find that an XGBoost model trained solely on raw accounting statement data outperforms a counterpart model based on the evaluation scores of human experts using the full grant applications. Furthermore, combining accounting data with expert scores yields only modest improvement in predictive accuracy, suggesting limited incremental value from expert judgment. Shapley value analysis reveals significant differences in the evaluation criteria employed by human experts and the XGBoost model and helps identify two categories of theoretical constructs-related to financial constraints and innovation investment-that can closely mimic the predictive performance of the accounting data-based XGBoost model. Overall, our findings underscore the value of financial statement data in identifying high-tech startups with strong innovation prospects.
+
+Keywords: machine learning, high-tech startup firms, predictive value of financial statements, innovation potential
+
+Declaration of Interest
+
+none
+
+Suggested Citation:
+
+Ke, Bin and Ma, Xinjie and Wang, Yanbo, The Value of Financial Statements in Predicting the Innovation Potential of High-Tech Startups (June 13, 2025). Available at SSRN: https://ssrn.com/abstract=5292340 or http://dx.doi.org/10.2139/ssrn.5292340
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+95
+ABSTRACT VIEWS
+869
+RANK
+640,039
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

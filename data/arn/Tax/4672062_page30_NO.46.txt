@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cashless Payments and Tax Evasion: Evidence From VAT Gaps in the EU
+
+ZEW - Centre for European Economic Research Discussion Paper No. 60
+
+29 Pages Posted: 22 Dec 2023
+
+Albrecht Bohne
+
+ZEW – Leibniz Centre for European Economic Research
+
+Antonios Koumpias
+
+University of Michigan at Dearborn - Department of Social Sciences
+
+Annalisa Tassi
+
+Fondazione Bruno Kessler; Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+Date Written: 2023
+
+Abstract
+
+This paper explores the connection between the proliferation of cashless, or e-money, payments and value-added tax (VAT) compliance. We present both visual and descriptive evidence that illustrates a negative correlation between e-money use and VAT evasion, proxied by the VAT compliance gap for countries in the European Union, from 2001 until 2021. We find that increased e-money usage by 100 percentage points (pp) is associated with a reduction in the VAT gap of 0.3pp or 1.92% of the aggregate VAT compliance gap over time. Moreover, we contribute a novel estimate of the causal impact of cashless payments on VAT evasion during the COVID-19 public health emergency. We identify a link between mobility restrictions in the European Union and reductions in VAT compliance gaps, facilitated by changes in payment norms. An estimated rise of 1pp or 5.51% in e-money use results in an 11.9% reduction in the VAT compliance gap. Our findings suggest that changes in transaction payment behavior such as the adoption of cashless payments may yield significantly more tax revenues by curbing non-compliance. Policies aimed at promoting e-money usage and limiting cash circulation are relevant steps forward in this direction.
+
+Keywords: Tax evasion, VAT gap, cashless payments, e-money, mobility restrictions, COVID-19 pandemic
+
+JEL Classification: H26, K42
+
+Suggested Citation:
+
+Bohne, Albrecht and Koumpias, Antonios and Tassi, Annalisa, Cashless Payments and Tax Evasion: Evidence From VAT Gaps in the EU ( 2023). ZEW - Centre for European Economic Research Discussion Paper No. 60, Available at SSRN: https://ssrn.com/abstract=4672062 or http://dx.doi.org/10.2139/ssrn.4672062
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+A Alognon , A M Koumpias , J Martinez-Vazquez
+The impact of plastic money use on vat compliance: Evidence from eu countries , p. 5 - 26 Posted: 2021
+N Artavanis , A Morse , M Tsoutsoura
+Measuring income tax evasion using bank credit: Evidence from greece
+The Quarterly Journal of Economics , volume 131 , issue 2 , p. 739 - 798 Posted: 2016
+A K Bartscher , S Seitz , S Siegloch , M Slotwinski , N Wehrhöfer
+Social capital and the spread of covid-19: Insights from european countries
+Journal of health economics , volume 80 Posted: 2021
+C F Baum , M E Schaffer , S Stillman
+Enhanced routines for instrumental variables/generalized method of moments estimation and testing
+The Stata Journal , volume 7 , issue 4 , p. 465 - 506 Posted: 2007
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+181
+ABSTRACT VIEWS
+1,069
+RANK
+381,120
+32 References
+PlumX Metrics
+Related eJournals
+
+Cyberspace Law eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

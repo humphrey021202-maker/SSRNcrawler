@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Impact of XBRL adoption on financial reporting quality: A global evidence
+
+36 Pages Posted: 10 Aug 2022
+
+Vincent Tawiah
+
+University of Mysore - Department of Commerce; Griffith University; University of Cape Coast; Dublin City University Business School
+
+Hela Borgi
+
+Princess Nourah Bint Abdulrahman University, Riyadh, Saudi Arabia
+
+Date Written: August 1, 2022
+
+Abstract
+
+Purpose: In this paper, we examine the effect of XBRL adoption on financial reporting quality at the country-level (developing and developed countries).
+Design/methodology: We use data from 98 developed and developing countries between 2005-2018. We collected data from various sources such as the World Economic Forum, World Development Indicators, World Governance Indicators and XBRL website.
+Finding: Our results show that XBRL is associated with an increased financial reporting quality. However, the relationship is stronger in developing countries than in developed countries. We also find that the results remain the same after accounting for years of XBRL experience and the effect of accounting globalisation. The results are consistent with the assumption that XBRL formatted financial statements improve information efficiency through increased searching efficiency, quality of display, and comparability. Our results are robust to alternative econometric modifications such as controlling for country, year effects and endogeneity.
+Implications: Our results can potentially assist the XBRL promoters and regulators in expeditiously assessing the benefits of XBRL and advocating its adoption by many countries. Our findings offer more motivations for regulators around the world to mandate this new filing standard format.
+Originality: This study contributes to the literature by providing empirical evidence on the consequences of XBRL at the country-level. The present study provides evidence on an important question of whether the XBRL, new information technology in the accounting field, can play a useful role in improving financial reporting.
+
+
+Suggested Citation:
+
+Tawiah, Vincent and Tawiah, Vincent and Borgi, Hela, Impact of XBRL adoption on financial reporting quality: A global evidence (August 1, 2022). Available at SSRN: https://ssrn.com/abstract=4177937 or http://dx.doi.org/10.2139/ssrn.4177937
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+A Ahmi , M H M Nasir
+Examining the Trend of the Research on eXtensible Business Reporting Language (XBRL): A Bibliometric
+International Journal of Innovation, Creativity and Change , volume 5 , issue 2 Posted: 2019
+M Alles , M Piechocki
+Will XBRL improve corporate governance? A framework for enhancing governance decision making using interactive data
+International Journal of Accounting Information Systems , volume 13 , issue 2 , p. 91 - 108 Posted: 2012
+A Apostolou , K Nanopoulos
+Interactive financial reporting using XBRL: An overview of the global markets and Europe
+International Journal of Disclosure and Governance , volume 6 , issue 3 , p. 262 - 272 Posted: 2009
+R Ball , A Robin , J Wu
+Incentives versus standards: Properties of accounting income in four East Asian countries
+Journal of Accounting and Economics , volume 36 , issue 1-3 , p. 235 - 270 Posted: 2003
+Load more
+5 Citations
+Asliddin Habibullaev
+Applying XBRL, RegTech, and DLT to Strengthen Shareholders’ Rights in Uzbekistan
+Legalis : Journal of Law Review , volume 3 , issue 2 , p. 13 Posted: 2025
+Crossref
+Roslee Uyob , Ku Maisurah Ku Bahador , Ram Al Jaffri Saad
+Do Incentives Matter in Persuading Companies to Embrace Advanced Reporting Standards Voluntarily?
+Foresight and STI Governance , volume 17 , issue 2 , p. 36 Posted: 2023
+Crossref
+N. Abhishek , Habeeb Ur Rahiman , Abhinandan Kulal , Ujwala Kambali , Velita Sibon Lobo , D. Bindu , M. S. Divyashree
+Artificial Intelligence (AI) and Finance
+, volume 488 , p. 228 Posted: 2023
+Crossref
+Awni Rawashdeh , Mashael Bakhit , Saleh K. Al-Okdeh , Nidaa Alsous
+Innovation, Technologies, and Business Management (ICTIM)
+, p. 377 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+390
+ABSTRACT VIEWS
+1,784
+RANK
+175,068
+5 Citations
+67 References
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

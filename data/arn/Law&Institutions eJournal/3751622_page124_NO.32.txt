@@ -1,0 +1,97 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Role of Peer Events in Corporate Governance: Evidence From Data Breaches
+
+The Accounting Review, Forthcoming; https://doi.org/10.2308/TAR-2019-1033
+
+Posted: 19 Feb 2021 Last revised: 12 Apr 2021
+
+Musaib Ashraf
+
+Michigan State University - Eli Broad College of Business
+
+Date Written: December 18, 2020
+
+Abstract
+
+Economic theory suggests that negative peer events can result in market-wide spillovers which help unaffected firms take real actions to enhance corporate governance. Motivated by the SEC’s concern about cybersecurity, I study the role of peer events in corporate governance using the setting of data breaches. While controlling for firm-specific time-varying unobservable characteristics, I find that peer data breaches are associated with a reduction in future internal control material weaknesses for non-breached firms. The association is robust to a changes analysis and varies cross-sectionally with breach, firm, and board characteristics. Inferences remain consistent when studying IT-related material weaknesses only. Finally, non-breached firms are more likely to have a cybersecurity expert on the top management team after a peer breach. My findings have important implications for mandatory disclosure regulation in general and, in particular, suggest that regulators can help reduce market-wide exposure to cyber risk by facilitating disclosure of cyber incidents.
+
+Keywords: peer events, corporate governance, internal controls, information technology, cybersecurity, information spillover, data breaches
+
+JEL Classification: G34, M15
+
+Suggested Citation:
+
+Ashraf, Musaib, The Role of Peer Events in Corporate Governance: Evidence From Data Breaches (December 18, 2020). The Accounting Review, Forthcoming; https://doi.org/10.2308/TAR-2019-1033, Available at SSRN: https://ssrn.com/abstract=3751622
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,185
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

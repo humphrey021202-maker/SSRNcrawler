@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Earnings Expectations Game and the Dispersion Anomaly
+
+Management Science, Forthcoming
+
+62 Pages Posted: 21 Jan 2021
+
+David Veenman
+
+University of Amsterdam - Amsterdam Business School (ABS)
+
+Patrick Verwijmeren
+
+Erasmus University Rotterdam (EUR)
+
+Date Written: December 2020
+
+Abstract
+
+This study examines the role of differences in firms' propensity to meet earnings expectations in explaining why firms with high analyst forecast dispersion experience relatively low future stock returns. We first demonstrate that the negative relation between dispersion and returns is concentrated around earnings announcements. Next, we show that this relation disappears when we control for ex-ante measures of firms' propensity to meet earnings expectations and that the component of dispersion explained by these measures drives the return predictability of dispersion. We further demonstrate that firms with low analyst dispersion are substantially more likely to achieve positive earnings surprises, and provide new evidence consistent with both expectations management and strategic forecast pessimism explaining this result. Overall, we conclude that investor mispricing of firms' participation in the earnings expectations game provides a viable explanation for the dispersion anomaly.
+
+Keywords: earnings announcements, sell-side analysts, forecast bias, expectations management, mispricing, forecast dispersion, earnings surprises
+
+JEL Classification: D80, G12, G14, G24, M41
+
+Suggested Citation:
+
+Veenman, David and Verwijmeren, Patrick, The Earnings Expectations Game and the Dispersion Anomaly (December 2020). Management Science, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3754858 or http://dx.doi.org/10.2139/ssrn.3754858
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+J Abarbanell , H Park
+Do Bright-Line Earnings Surprises Really Affect Stock Price Reactions?
+Management Science , volume 63 , p. 1063 - 1084 Posted: 2017
+Crossref
+D Avramov , T Chordia , G Jostova , A Philipov
+Dispersion in Analysts' Earnings Forecasts and Credit Rating
+Journal of Financial Economics , volume 91 , p. 83 - 101 Posted: 2009
+Crossref
+R Ball , S P Kothari
+Security Returns around Earnings Announcements
+The Accounting Review , volume 66 , p. 718 - 738 Posted: 1991
+B M Barber , E T De George , R Lehavy , B Trueman
+The Earnings Announcement Premium Around the Globe
+Journal of Financial Economics , volume 108 , p. 118 - 138 Posted: 2013
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+460
+ABSTRACT VIEWS
+1,902
+RANK
+143,403
+77 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

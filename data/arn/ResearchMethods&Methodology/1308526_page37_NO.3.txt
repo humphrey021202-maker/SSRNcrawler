@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Value Relevance of Alternative Methods of Accounting for Actuarial Gains and Losses
+
+29 Pages Posted: 1 Dec 2008 Last revised: 8 Dec 2008
+
+Ana Morais
+
+University Institute of Lisbon (IUL) - School of Business
+
+Date Written: November, 28 2008
+
+Abstract
+
+The adoption of IAS 19: Employee benefits (2004) provided managers with an important accounting choice affecting the time and placement of actuarial gains and losses recognition. IAS 19 enables a choice between three major accounting methods related to the recognition of actuarial gains and losses of defined benefit plans: profit or loss method, equity recognition method and corridor method. The objective of this paper is to compare the ability of the three alternative methods for recognising actuarial gains and losses to reflect companies' value. We manually collect information about the accounting method of recognising actuarial gains and losses adopted by 91 European companies listed in EURONEXT100, in 2005, 2006 and 2007. We applied regression analysis to investigate the value relevance of financial information under equity recognition method, profit or loss method and corridor method. Findings suggest that the recognition of all actuarial gains and losses in equity best reflects the market's valuation of actuarial gains and losses.
+
+Keywords: actuarial gains and losses, corridor, equity, defined benefit plans.
+
+JEL Classification: M4.
+
+Suggested Citation:
+
+Morais, Ana, Value Relevance of Alternative Methods of Accounting for Actuarial Gains and Losses (November, 28 2008). Available at SSRN: https://ssrn.com/abstract=1308526 or http://dx.doi.org/10.2139/ssrn.1308526
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+Accounting Standards Board , volume 17 Posted: 2000
+Crossref
+A Ali , L Hwang
+Country specific factors related to financial reporting and the value relevance of accounting data
+Journal of Accounting Research , volume 38 , p. 1 - 21 Posted: 2000
+Crossref
+M Amen
+Simulation-based comparison of existent IAS 19 Accounting options
+European Accounting Review , volume 16 , issue 2 , p. 243 - 276 Posted: 2007
+Crossref
+E Amir , E Gordon
+Firms' choice of estimation parameters: empirical evidence from SFAS 106
+Journal of Accounting, Auditing and Finance , volume 11 , issue 3 Posted: 1996
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+695
+ABSTRACT VIEWS
+3,766
+RANK
+85,416
+17 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Investment and Financing Constraints: Evidence from the Funding of Corporate Pension Plans
+
+By Joshua D. Rauh
+
+Taxation and Corporate Pension Policy
+
+By Irwin Tepper
+
+Earnings Manipulation, Pension Assumptions and Managerial Investment Decisions
+
+By Daniel Bergstresser, Joshua D. Rauh, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

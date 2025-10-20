@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Income Smoothing in Banks: Obfuscation or information?
+
+50 Pages Posted: 18 Mar 2021 Last revised: 10 Dec 2024
+
+Ganapathi S. Narayanamoorthy
+
+Tulane University - Accounting & Taxation
+
+Barrett Wheeler
+
+affiliation not provided to SSRN
+
+Date Written: August 22, 2024
+
+Abstract
+
+Discretionary income smoothing has been argued to increase bank opacity and degrade financial system stability by making banks more difficult to monitor. However, no direct empirical association between discretionary smoothing and opacity has been established to date. We argue that smoothing could reflect either the opportunistic exercise of discretion that disconnects loan loss provisions from changes in underlying credit quality, consistent with smoothing increasing opacity, or an informative exercise of discretion to communicate forward-looking information about loan losses. We examine the association between discretionary smoothing and the informativeness of loan loss provisions for a sample of banks from 1994 to 2019 and find that discretionary smoothing is, on average, associated with more informative loan loss provisions. However, this association is nuanced, with cross-sectional differences and changes over time. We find evidence that an intervention by the SEC into bank loan loss provisioning practices in the late 1990s curbed opportunistic smoothing via provisioning for homogeneous loans. Subsequently, smoothing is associated with more informative provisions, including for banks with both more homogeneous and more heterogeneous loan portfolios. Our findings are inconsistent with the notion that smoothing may be associated with greater opacity.
+
+Keywords: loan loss provisions, smoothing, transparency
+
+JEL Classification: G21, M41
+
+Suggested Citation:
+
+Narayanamoorthy, Ganapathi S. and Wheeler, Barrett, Income Smoothing in Banks: Obfuscation or information? (August 22, 2024). Available at SSRN: https://ssrn.com/abstract=3805961 or http://dx.doi.org/10.2139/ssrn.3805961
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+202
+ABSTRACT VIEWS
+1,008
+RANK
+344,140
+53 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

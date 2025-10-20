@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+WK1 Model: Prediction Intervals for Your Forecasts
+
+10 Pages Posted: 6 Nov 2011 Last revised: 16 Jun 2014
+
+Martin van Wunnik
+
+affiliation not provided to SSRN
+
+Date Written: November 6, 2011
+
+Abstract
+
+This paper sets forth a synergy of existing statistical theories to obtain a clear-cut model for calculating forecasts with prediction intervals, named the “WK1 model.”
+
+Many predictive models calculate a linear or non-linear trend from the historical data and generate a single, discrete forecast value, being a single dot on this defined trend line (i.e. point forecast).
+
+Our “WK1 model” increases the power of such a single discrete point forecast by adding its probable accuracy with top and bottom limits. The decision-maker obtains thus different ranges of values, each within several pre-defined prediction intervals to assess for that specific outcome probability.
+
+The first step is obviously to establish the degree of the predicting power between the two variables that will be used, based on the historical data and their statistical fundamentals (covariance and correlation).
+
+Once the predicting power of one variable for another one is proven, the second step of the “WK1 model” will calculate the trend line in the usual way. Finally, the results of the first two steps are combined with the calculation of the different prediction intervals (e.g. 60% probability, 75%, 90%, 95%, 99%, 99.5%) to provide the decision-maker a forecast supplemented with its prediction intervals (outcome probability), instead of a single point forecast. These ranges are based on the trend line value, but supplemented with calculated probability margins above and below. By doing so, the “WK1 model” thus includes accuracy and reliability to the point values from the trend line.
+
+Keywords: predictive analytics, prediction intervals, correlation, covariance, trends, future values, estimates, WK1 model, Martin van Wunnik, Consolite, ARSIMA, ARSIMA Projects
+
+JEL Classification: C53, C13, C49, D89, G10
+
+Suggested Citation:
+
+van Wunnik, Martin, WK1 Model: Prediction Intervals for Your Forecasts (November 6, 2011). Available at SSRN: https://ssrn.com/abstract=1955450 or http://dx.doi.org/10.2139/ssrn.1955450
+Download This Paper
+ 
+Open PDF in Browser
+8 References
+Van Wunnik , Martin , Peter Lakay , Nicolas Meerschaert
+Voorspelling van de verkoop van BMWmotorfietsen, met behulp van LOTUS 123
+Ass. A. Thys) Posted: 1991-03-01
+Chris Chatfield
+Calculating Interval Forecasts
+Journal of Business & Economic Statistics , volume 11 , issue 2 , p. 121 - 135 Posted: 1993-04
+Crossref
+Jiahui Luan , Tang , Jian , Chen Lu
+Prediction Interval on Spacecraft Telemetry Data Based on Modified Block Bootstrap Method
+International Conference, AICI 2010 Posted: 2010-10
+Crossref
+Gillian M Mimmack , Gary J Manas , Denny H Meyer
+Introductory statistics for business: the analysis of business data Posted: 2001
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+166
+ABSTRACT VIEWS
+2,183
+RANK
+411,549
+8 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

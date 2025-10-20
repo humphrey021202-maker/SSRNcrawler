@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Rent Extraction Amid Borrowers’ Adversity: Evidence from Activist Short Sellers’ Attacks
+
+HEC Paris Research Paper No. ACC-2023-1497
+
+74 Pages Posted: 5 Oct 2023 Last revised: 13 Jun 2025
+
+Albert Mensah
+
+HEC Paris - Accounting and Management Control Department
+
+Jeong-Bon Kim
+
+Simon Fraser University
+
+Luc Paugam
+
+HEC Paris, Accounting and Management Control Department; CFA Society France
+
+Hervé Stolowy
+
+HEC Paris - Accounting and Management Control Department
+
+Date Written: September 6, 2023
+
+Abstract
+
+Finance theory suggests that the privileged information that traditional banks obtain about borrowers through monitoring creates opportunities for banks to impose informational hold-up costs on such borrowers. Because a surge in borrower risk increases banks’ hold-up power, banks with information monopoly should be able to increase their rates beyond the level explained by borrower risk alone. We test this theory using the setting of activist short sellers’ public allegations—a setting that increases borrower risk and restricts borrower access to public financing sources—and find, on average, that, after controlling for both ex ante and ex post changes in borrower credit risk, banks increase loan pricing following activist short sellers’ allegations. Our loan pricing results not explained by changes in borrower credit risk are consistent with banks extorting borrowers during times of adversity.
+
+Keywords: activist short sellers, private debt, loan pricing, information, rent extraction
+
+JEL Classification: M41, G21, G10, G30, G32
+
+Suggested Citation:
+
+Mensah, Albert and Kim, Jeong-Bon and Paugam, Luc and Stolowy, Hervé,
+Rent Extraction Amid Borrowers’ Adversity: Evidence from Activist Short Sellers’ Attacks
+(September 6, 2023). HEC Paris Research Paper No. ACC-2023-1497, Available at SSRN: https://ssrn.com/abstract=4567750 or http://dx.doi.org/10.2139/ssrn.4567750
+Download This Paper
+ 
+Open PDF in Browser
+92 References
+S Agca , V Babich , J R Birge , J Wu
+Credit shock propagation along supply chains: Evidence from the CDS market
+Management Science , volume 68 , issue 9 , p. 6506 - 6538 Posted: 2022
+I Appel , V Fos
+Active short selling by hedge funds Posted: 2019
+R P Baghai , H Servaes , A N E Tamayo
+Have rating agencies become more conservative? Implications for capital structure and debt pricing
+J. Finance , volume 69 , issue 5 , p. 1961 - 2005 Posted: 2014
+A Berndt
+A credit spread puzzle for reduced-form models
+The Review of Asset Pricing Studies , volume 5 , issue 1 , p. 48 - 91 Posted: 2015
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+216
+ABSTRACT VIEWS
+1,262
+RANK
+322,813
+92 References
+PlumX Metrics
+Related eJournals
+
+HEC Paris Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

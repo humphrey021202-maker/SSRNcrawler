@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The SEC’s Use of Voluntary Disclosure for the Oversight of Mandatory Disclosure
+
+Georgetown McDonough School of Business Research Paper No. 4477255
+
+Posted: 19 Jun 2023 Last revised: 22 Apr 2024
+
+Kai Li
+
+University of British Columbia (UBC) - Sauder School of Business; Asian Bureau of Finance and Economic Research (ABFER); China Academy of Financial Research (CAFR); European Corporate Governance Institute (ECGI); Canadian Sustainable Finance Network (CSFN)
+
+Rafael Rogo
+
+University of Cambridge - Judge Business School
+
+Xiaoli (Shaolee) Tian
+
+Georgetown University - Department of Accounting and Business Law
+
+Ray Zhang
+
+Simon Fraser University - Beedie School of Business
+
+Date Written: December 8, 2022
+
+Abstract
+
+One key challenge of regulatory oversight is information asymmetry between the regulator and the regulated. We investigate this issue through a unique setting in which the SEC uses firms’ voluntary disclosures to bridge the information gap during their periodic reviews of mandatory disclosures. We first document that over the sample period 2004-2019, reviewers increasingly quote information from conference calls in their comment letters on annual reports, requesting clarifications or future improvements (averaging over 5% during our sample period). We then develop a conceptual framework of key tradeoffs faced by the regulator to guide our empirical investigation of the determinants and consequences of such regulatory behavior. Consistent with our framework, we find that reviewers are more likely to cross-check conference call disclosures when a firm’s annual report disclosures suggest higher uncertainty or gloomy prospects, when a firm’s review process triggers concerns about potential disclosure issues, when a firm has high media coverage or more corporate events, when a firm has an eventful earnings season, or when reviewers themselves are not busy. Finally, we show that such regulatory behavior leads to some unintended consequences of firms reducing future conference call disclosures, which slows down price discovery during earnings announcements. Overall, our findings shed light on the inner workings of regulatory oversight, highlighting that referencing voluntary disclosures during regulatory scrutiny of mandatory disclosures may amplify firms’ concern about regulatory risks associated with voluntary disclosures and reduce future voluntary disclosures.
+
+Keywords: SEC, information asymmetry, voluntary disclosure, mandatory disclosure, comment letters, earnings conference calls, computational linguistic methods
+
+JEL Classification: G38, M41, M48
+
+Suggested Citation:
+
+Li, Kai and Rogo, Rafael and Tian, Xiaoli (Shaolee) and Zhang, Ray, The SEC’s Use of Voluntary Disclosure for the Oversight of Mandatory Disclosure (December 8, 2022). Georgetown McDonough School of Business Research Paper No. 4477255, Available at SSRN: https://ssrn.com/abstract=4477255 or http://dx.doi.org/10.2139/ssrn.4477255
+ Not Available for Download
+0 References
+1 Citations
+Lauren M. Cunningham , Taylor Joo
+Sin Stocks and SEC Filing Reviews
+Journal of Accounting, Auditing & Finance Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,412
+PlumX Metrics
+Related eJournals
+
+Georgetown University McDonough School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

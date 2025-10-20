@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Simulating Fundamental Analysis of a Firm Using a VECX Model
+
+21 Pages Posted: 28 Feb 2011
+
+Otavio Ribeiro de Medeiros
+
+Universidade de Brasília (UnB) - Campus Universitario Darcy Ribeiro
+
+José Bonifácio De Araújo Júnior
+
+University of Brasilia
+
+Bernardus Ferdinandus Nazar Van Doornik
+
+Government of the Federative Republic of Brazil - Central Bank of Brazil
+
+Date Written: February 25, 2011
+
+Abstract
+
+The study aims at simulating and forecasting a company’s stock returns and prices by a fundamentalist analysis process based on a Vector Error Correction with Exogenous Variables (VECX) econometric model. To achieve this, we selected relevant fundamentalist indicators and specified a model capable of simulating a fundamentalist analysis of a Brazilian publicly listed company, Sadia S/A. The VECX model statistical validation was carried out by performing unit root tests, cointegration tests, Granger causality tests, correlation analysis, impulse-response functions, and variance decomposition. Data taken from the firm’s financial statements were used to compute seven fundamentalist indicators, which were defined as the model’s endogenous variables. The exogenous variables included in the model are the Brazilian Stock Market (Bovespa) Index return, the Brazilian GDP, the Brazilian basic interest rate (Selic), the US$/BRL exchange rate, and the international price of commodities poultry and corn. The final version of the estimated model takes into account cointegration relationships among the endogenous variables. Based on this model, the Company’s ex-post forecasts of the fundamentalist indicators were obtained, as well as its stock return and price forecasts. The results show that the simulation by a VECX econometric model is robust as seen by the quality of the forecasts obtained. Finally, a prognostic fundamental analysis was carried out based on the forecasts.
+
+Keywords: Fundamental Analysis, Econometric Model, Forecasts, Sadia, VARX, VECX
+
+JEL Classification: C10, C13, C32, C51, C53, G12, M21, M41
+
+Suggested Citation:
+
+de Medeiros, Otavio Ribeiro and De Araújo Júnior, José Bonifácio and Doornik, Bernardus Ferdinandus Nazar Van, Simulating Fundamental Analysis of a Firm Using a VECX Model (February 25, 2011). Available at SSRN: https://ssrn.com/abstract=1769634 or http://dx.doi.org/10.2139/ssrn.1769634
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+Taxa Bacen , Selic
+, p. 25 - 32
+J R Barbee , W C Mukherji , S Raines , G A
+Do sales-price and debt-equity explain stock returns better than book-market and firm size?
+Financial Analysts Journal , issue 2 , p. 56 - 60 Posted: 1996
+Crossref
+Z Bodie , A Kane , A Marcus
+BOVESPA. Índice Bovespa: Definição e metodologia Posted: 2001
+_________ , Sistema De Divulgação Interna
+Available in <www.bovespa.com.br> Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+226
+ABSTRACT VIEWS
+2,706
+RANK
+308,851
+36 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+Asset Pricing When Returns are Nonnormal: Fama-French Factors vs. Higher-Order Systematic Co-Moments
+
+By Y. Peter Chung, Herb Johnson, ...
+
+Asset Pricing When Returns are Nonnormal: Fama-French Factors vs. Higher-Order Systematic Co-Moments
+
+By Y. Peter Chung, Herb Johnson, ...
+
+Conditional Coskewness and Asset Pricing
+
+By Daniel R. Smith
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

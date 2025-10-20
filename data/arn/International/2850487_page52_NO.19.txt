@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Detecting Target-Driven Earnings Management Based on the Distribution of Digits
+
+Journal of Business Finance & Accounting, 2017, Vol. 44, No. 1, pp. 63-93; DOI: 10.1111/jbfa.12223 (Creative Commons Attribution Non-Commercial License)
+
+31 Pages Posted: 12 Oct 2016 Last revised: 9 Oct 2017
+
+Robert Ullmann
+
+University of Augsburg; Norwegian Center for Taxation
+
+Christoph Watrin
+
+University of Muenster - Accounting Center; University of Muenster - Accounting Center
+
+Date Written: September 29, 2016
+
+Abstract
+
+We present a novel research design to detect target-driven earnings management in accounting data. As a particular concern in this line of research, information about the exact earnings target value of a given firm is often not available. We therefore develop an empirical strategy that does not require such information. To this end, we rely on the concept of the distribution of digits rather than the distribution of the earnings metric itself. We then theoretically derive that the mean of the distribution of digits, in particular, exhibits a specific pattern around the earnings target that can be exploited to investigate target-driven earnings management. This pattern arises regardless of the distribution of digits that obtains in unmanaged data. We extensively test our theoretical predictions using both simulative and archival data.
+
+Keywords: Distribution of Digits, Target-Driven Earnings Management, Benford’s Law
+
+JEL Classification: C21, C22, C23, M41
+
+Suggested Citation:
+
+Ullmann, Robert and Watrin, Christoph and Watrin, Christoph, Detecting Target-Driven Earnings Management Based on the Distribution of Digits (September 29, 2016). Journal of Business Finance & Accounting, 2017, Vol. 44, No. 1, pp. 63-93; DOI: 10.1111/jbfa.12223 (Creative Commons Attribution Non-Commercial License), Available at SSRN: https://ssrn.com/abstract=2850487
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+W Alissa , S B I Bonsall , K Koharki , M W J Penn
+Firms' Use of Accounting Discretion to Influence Their Credit Ratings
+Journal of Accounting and Economics , volume 55 , issue jou_issue[1].xmlText , p. 129 - 176 Posted: 2013
+Crossref
+Benjamin C. Ayers , Andrew C. Call , Casey M. Schwab
+Do Analysts’ Cash Flow Forecasts Encourage Managers to Enhance Real Cash Flows? Evidence from Tax Planning
+2013 American Taxation Association Midyear Meeting: JATA Conference Pages: 48 Posted: 13 Feb 2013
+Download PDF  Add Paper to My Library
+B A Badertscher , D W Collins , T Lys
+Discretionary Accounting Choices and the Predictive Ability of Accruals with Respect to Future Cash Flows
+Journal of Accounting and Economics , volume 53 , issue 1 , p. 330 - 52 Posted: 2012
+Crossref
+E Bartov , D Givoly , C Hayn
+The Rewards to Meeting or Beating Earnings Expectations , volume 33 , p. 173 - 204 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+75
+ABSTRACT VIEWS
+1,273
+RANK
+741,983
+50 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Small Firm PCAOB De-Registrations, Structural Changes, and Client Effects
+
+52 Pages Posted: 13 Jun 2025
+
+Mary Stone
+
+affiliation not provided to SSRN
+
+Abstract
+
+The availability of small audit firms to audit small public entities is a global concern. From 2003- 2018 approximately 60% of small U.S. audit firms de-registered from the PCAOB. Critics asserted the cost of complying with PCAOB requirements contributed to the shrinkage. We provide initial evidence on the overall effects of de-registration by identifying the determinants of de-registration, the structural changes firms made around the time of de-registration (e.g., provide services other than public company audits, merge, cease operations), and the effects of de-registrations on the prices paid and audit quality received by clients of de-registering firms. We develop a theory of small firm competitive viability and use publicly available data to estimate a logistic regression model of the determinants of de-registration. We find that firms that de-register are more likely to receive negative PCAOB audit quality signals and to be involved in lawsuits; firms that maintain registration have more resources, higher client retention and growth, and a risk-mitigating form of governance. Estimation of a multinomial logit model shows that consistent with efficient sorting, firms receiving the most negative audit quality signals are likely to cease operations while those receiving the least are likely to merge. Former clients of de-registering firms pay higher fees to PCAOB-registered successor firms but do not experience significant changes in audit quality. Our results show that small audit firms consider indicators of competitive viability, including PCAOB quality signals, in determining whether to de-register and how to re-deploy their resources.
+
+Keywords: Small audit firms, PCAOB de-registration, audit firm mergers, audit fees, Audit Quality, efficient sorting
+
+Suggested Citation:
+
+Stone, Mary, Small Firm PCAOB De-Registrations, Structural Changes, and Client Effects. Available at SSRN: https://ssrn.com/abstract=5293340 or http://dx.doi.org/10.2139/ssrn.5293340
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+L A Aguilar
+The importance of small business capital formation. Forum on small business capital formation Posted: 2014
+R Baskerville , D Hay
+The effect of accounting firm mergers on the market for audit services
+New Zealand evidence. Abacus , volume 42 , issue 1 , p. 87 - 104 Posted: 2006
+C Binder
+Valuing professional service firms
+The CPA Journal , volume 87 , issue 12 Posted: 2017
+G R Botic
+The essential role of smaller audit firms to investors and the capital markets. Presented at the Forum on auditing in the small business environment and on auditing broker-dealers Posted: 2024-06-05
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+27
+ABSTRACT VIEWS
+197
+37 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

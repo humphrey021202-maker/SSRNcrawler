@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+   
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Firms with Specialized M&A Staff Make Better Acquisitions?
+
+Fisher College of Business Working Paper No. 2021-03-006
+
+Charles A. Dice Working Paper No. 2021-006
+
+European Corporate Governance Institute – Finance Working Paper No. 778/2021
+
+81 Pages Posted: 5 May 2021
+
+Sinan Gokkaya
+
+Department of Finance, Ohio University
+
+Xi Liu
+
+Miami University of Ohio - Richard T. Farmer School of Business Administration
+
+René M. Stulz
+
+Ohio State University (OSU) - Department of Finance; National Bureau of Economic Research (NBER); European Corporate Governance Institute (ECGI)
+
+Date Written: April 30, 2021
+
+Abstract
+
+We open the black box of the M&A decision process by constructing a comprehensive sample of US firms with specialized M&A staff. We investigate whether specialized M&A staff improves acquisition performance or facilitates managerial empire building instead. We find that firms with specialized M&A staff make better acquisitions when acquisition performance is measured by stock price reactions to announcements, long-run stock returns, operating performance, divestitures, and analyst earnings forecasts. This effect does not hold when the CEO is powerful, overconfident, or entrenched. Acquisitions by firms without specialized staff do not create value, on average. We provide evidence on mechanisms through which specialized M&A staff improves acquisition performance. For identification, we use the staggered recognition of inevitable disclosure doctrine as a source of exogenous variation in the employment of specialized M&A staff.
+
+Keywords: Mergers and acquisitions, acquisitions, corporate takeover market, corporate development, M&A staff
+
+JEL Classification: G30, G34, G14, G24
+
+Suggested Citation:
+
+Gokkaya, Sinan and Liu, Xi and Stulz, Rene M., Do Firms with Specialized M&A Staff Make Better Acquisitions? (April 30, 2021). Fisher College of Business Working Paper No. 2021-03-006, Charles A. Dice Working Paper No. 2021-006, European Corporate Governance Institute – Finance Working Paper No. 778/2021, Available at SSRN: https://ssrn.com/abstract=3840238 or http://dx.doi.org/10.2139/ssrn.3840238
+Download This Paper
+ 
+Open PDF in Browser
+1 References
+Information on corporate development managers is from Boardex of Management Diagnostic Limited Individual with supplementary data from LinkedIn.com, Bloomberg, Reuters, and Marquis Who's Who databases. The M&A sample is drawn from the Thomson One Platinum Securities Data Company M&A database (SDC) and includes a sample of U.S. public, private, and subsidiary acquisitions announced over the period
+This table presents ordinary least squares (OLS) regression analyses of cumulative abnormal returns (CARs) on specialized M&A staff, acquirer-, and deal-specific characteristics Posted: 2000-01-01
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+933
+ABSTRACT VIEWS
+4,368
+RANK
+57,555
+1 References
+PlumX Metrics
+Related eJournals
+
+Ohio State University, Fisher College of Business Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

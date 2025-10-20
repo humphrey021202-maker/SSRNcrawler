@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+MANOVA with Summary Statistics: A Stata Program
+
+Pak.j.stat.oper.res., Vol. IV, No. 1, pp. 9-17, 2008
+
+9 Pages Posted: 18 Dec 2010 Last revised: 18 May 2011
+
+Nadeem Shafique Butt
+
+King Abdul Aziz University
+
+Muhammad Qaiser Shahbaz
+
+COMSATS Institute of Information Technology (CIIT)
+
+SK
+
+British American Tobacco, Pakistan
+
+Date Written: December 17, 2010
+
+Abstract
+
+Almost all available statistical packages are capable of performing Multivariate Analysis of Variance (MANOVA) from raw data. Some of statistical packages have capability to perform independent sample t-test, ANOVA and some other tests of significance on summary data, but you come across not single software that has the capability to perform MANOVA directly on summary data. A STATA programme has been written to perform Multivariate ANOVA on summary data. The programme computes available statistics for Multivariate ANOVA (i.e Willk’s Lembda, Lawley’s-Hotelling trace, Pillae’s trace and Roy’s largest root). The programme is also capable to perform Box–M test for testing equality of covariance matrices on summary data. Example has been given by using the programme on summary data to perform Multivariate ANOVA.
+
+Keywords: MANOVA, Summary Data
+
+Suggested Citation:
+
+Butt, Nadeem Shafique and Shahbaz, Muhammad Qaiser and Kamal, Shahid, MANOVA with Summary Statistics: A Stata Program (December 17, 2010). Pak.j.stat.oper.res., Vol. IV, No. 1, pp. 9-17, 2008 , Available at SSRN: https://ssrn.com/abstract=1727491 or http://dx.doi.org/10.2139/ssrn.1727491
+Download This Paper
+ 
+Open PDF in Browser
+6 References
+G E P Box
+A general distribution theory for a class of likelihood ratio criteria
+Biometrike , volume 36 , p. 317 - 346 Posted: 1949
+Crossref
+N S Butt , S Kamal , M Q Shahbaz
+ANOVA using summary data: A STATA programe
+Pak Jour. Of Stat. and Oper. Res , volume 2 , issue 1 Posted: 2006
+H Hotelling
+A generalized T test and measure of multivariate dispersion
+Proceeding of the Second Berkeley Symposium on Mathematical Statistics and Probability , p. 23 - 41 Posted: 1951
+K C S Pillai
+Some new test criteria in multivariate analysis
+Annals of Mathematical Statistics , volume 26 , p. 117 - 121 Posted: 1955
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+241
+ABSTRACT VIEWS
+2,335
+RANK
+289,981
+6 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Computer Programs & Software eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

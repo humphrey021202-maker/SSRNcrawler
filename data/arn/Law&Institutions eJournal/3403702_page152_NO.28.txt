@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Structure of Private Funds, Their Relation to Private Firms, and the Implications for Accounting, Economics, and Finance Research
+
+Posted: 20 Jun 2019 Last revised: 29 Jun 2022
+
+Paul Mason
+
+Baylor University
+
+Steven Utke
+
+University of Connecticut - Department of Accounting
+
+Date Written: June 13, 2019
+
+Abstract
+
+This paper is being split into 3 papers:
+
+"Understanding Private Equity Funds: A Guide to Private Equity Research in Accounting" available at: https://ssrn.com/abstract=4029787
+
+"Private Equity Fund Pricing in Secondary Markets: Effects of Taxes and Fund Structure" available at: https://ssrn.com/abstract=4007635
+
+"Many Datasets Do Not Contain “Firm-Level” Data: Implications for Finance and Economics Research" available soon
+
+
+
+Original Abstract:
+Private equity and venture capital funds (“private funds”) are an increasingly important component of the economy and hold substantial ownership in other private firms. These funds have unique legal organizational structures, which academic literature has not yet accounted for. This paper has three main goals. First, we lay out the basic legal structure of private funds and describe how these funds interact with the firms they own (“portfolio companies”). Second, we explain the implications of this structure for recent finance research, focusing on how funds’ structure affects secondary market pricing of funds. Third, we discuss how both private fund and private firm structure affects accounting and economics research on private firms. Because a large number of private firms are now owned by private funds, falling under the funds’ unique organizational structure, we urge caution in drawing conclusions regarding private firms when researchers are unable to clearly distinguish between stand-alone private firms and those private firms owned and controlled by private funds (or other parent entities). We also specifically discuss the use of tax return data to study private firms; under the current laws of the U.S., these data are unlikely to allow researchers to isolate stand-alone firms, making these data unreliable for evaluating certain private firm attributes in economics, as well as private firm financial reporting choices in accounting.
+
+Keywords: Private Funds, Private Firms, Liquidity, Financial Reporting, Governance
+
+JEL Classification: M40
+
+Suggested Citation:
+
+Mason, Paul and Utke, Steven, The Structure of Private Funds, Their Relation to Private Firms, and the Implications for Accounting, Economics, and Finance Research (June 13, 2019). Available at SSRN: https://ssrn.com/abstract=3403702 or http://dx.doi.org/10.2139/ssrn.3403702
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,911
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Joint Audit, Audit Market Structure, and Consumer Surplus
+
+50 Pages Posted: 10 Aug 2017 Last revised: 21 Jul 2022
+
+Qiang Guo
+
+University of Southern Denmark - Department of Business and Economics
+
+Christopher Koch
+
+Johannes Gutenberg University Mainz - Gutenberg School of Economics and Management
+
+Aiyong Zhu
+
+Southwestern University of Finance and Economics (SWUFE) - School of Accounting
+
+Date Written: July 20, 2017
+
+Abstract
+
+We use a structural application of the discrete choice model to investigate how the introduction of a joint audit policy would affect audit market structure and consumer surplus. We perform this policy evaluation by identifying demand fundamentals in a joint audit regime and applying them to a single audit regime. We find that a joint audit requirement has the potential to change the audit market structure substantially but that the effects are sensitive to the specific policy design. For example, small audit firms gain market share in a joint audit regime but only if an equal sharing of the workload between the two joint auditors is not required. Our counterfactual analysis reveals that the introduction of a joint audit regime would be associated with a substantial loss of consumer surplus. The loss results from restricting clients from giving all of the audit work to their most preferred audit firm, but it is partly offset by gains in consumer surplus deriving from the opportunity to choose the best combination of auditor pairs. Our policy evaluation should be of interest to regulators, audit firms, and audit clients.
+
+Keywords: joint audit, demand estimation, audit market structure, consumer surplus
+
+JEL Classification: M42, M48, L11, L84
+
+Suggested Citation:
+
+Guo, Qiang and Koch, Christopher and Zhu, Aiyong, Joint Audit, Audit Market Structure, and Consumer Surplus (July 20, 2017). Available at SSRN: https://ssrn.com/abstract=3006094 or http://dx.doi.org/10.2139/ssrn.3006094
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+234
+ABSTRACT VIEWS
+1,326
+RANK
+298,603
+8 Citations
+49 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

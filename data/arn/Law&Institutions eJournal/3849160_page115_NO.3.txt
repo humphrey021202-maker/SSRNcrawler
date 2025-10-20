@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Empirical Analysis of Joint Impact of Enterprise Risk Management (ERM) and Corporate Governance (CG) on Firm Value
+
+33 Pages Posted: 13 Jun 2021
+
+Ananth Rao
+
+University of Dubai
+
+Date Written: May 19, 2016
+
+Abstract
+
+This paper analyzes simultaneity and endogeneity of ERM and Corporate Governance. It assesses quantitative relationship between Corporate Governance, ERM and value of the firm. The research results provide quantitative justifications for the boards to make investments in ERM and Corporate Governance initiatives for improved shareholder wealth. 3SLS-IV system modeling was applied on 2004-11 data of Gulf Cooperation Council financial institutions. Our research confirms the simultaneity and endogeneity of Corporate Governance, ERM and Firm Value determinants. Firm value is jointly and positively impacted by ERM & Corporate Governance initiatives although the impact was less significant. Unexpectedly, ERM initiative was significantly and negatively impacted by determinants such as intangibility, and profitability. Firm size was the only determinant that showed significant and positive impact on firm value. Relative to UAE the corporate governance mechanism was active in Bahrain, Saudi Arabia, Kuwait and Oman firms. Further, the existence of audit committees in the GCC firm’s boards and ERM adoption significantly positively impacted the corporate governance by 3.42% and 1.7239% respectively.
+
+Keywords: Corporate Governance, Enterprise Risk Management, Firm Value, Simultaneity, Endogeneity, Gulf Cooperation Council (GCC) economies
+
+JEL Classification: C15, C21, C51, D57, F30, G21, G32, G34, K22, L21, M31, M41, N25, O16
+
+Suggested Citation:
+
+Rao, Ananth, Empirical Analysis of Joint Impact of Enterprise Risk Management (ERM) and Corporate Governance (CG) on Firm Value (May 19, 2016). Available at SSRN: https://ssrn.com/abstract=3849160 or http://dx.doi.org/10.2139/ssrn.3849160
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+G Allayannis , J Weston
+The Use of Foreign Currency Derivatives and Firm Market Value
+Review of Financial Studies , volume 14 , p. 243 - 276 Posted: 2001
+A M Best
+Best Comments on Enterprise Risk Management and Capital Models Posted: 2006
+M S Beasley , R Clune , D R Hermanson
+Enterprise Risk Management: An Empirical Analysis of Factors Associated with the Extent of Implementation
+Journal of Accounting and Public Policy , volume 24 , p. 521 - 531 Posted: 2005
+M S Beasley , D Pagach , R Warr
+The Information Conveyed in Hiring Announcements of Senior Executives Overseeing Enterprise-Wide Risk Management Processes
+Journal of Accounting, Auditing, and Finance , volume 23 , p. 311 - 332 Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+191
+ABSTRACT VIEWS
+809
+RANK
+362,694
+44 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

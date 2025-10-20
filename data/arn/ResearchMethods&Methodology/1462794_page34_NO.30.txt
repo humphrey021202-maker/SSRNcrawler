@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Another Look at Equity and Enterprise Valuation Based on Multiples
+
+45 Pages Posted: 27 Aug 2009 Last revised: 5 Apr 2012
+
+Mingcherng Deng
+
+City University of New York (CUNY) - Baruch College
+
+Peter D. Easton
+
+University of Notre Dame - Department of Accountancy
+
+Julian Yeo
+
+Columbia University - Accounting
+
+Date Written: April 2, 2012
+
+Abstract
+
+We examine errors in enterprise and equity valuation based on multiples of firm fundamentals. Our study, which is based on a more representative sample (including firms with losses, smaller start up firms, etc.), complements extant studies, which are based on larger, profitable firms followed by analysts. Contrary to the results in the extant studies, we find that: (1) valuation errors for multiples based on sales are often lowest for both enterprise and equity value; and, (2) when we compare book value and earnings as valuation fundamentals, we find that book-value-based multiples outperform earnings-based multiples. Our focus is on multiples of current financial variables. We show vast improvement in valuation errors when an average omitted variable (intercept) is incorporated in the calculation of harmonic means. We extend the extant literature by demonstrating how harmonic means can be calculated when different multiples are combined, enabling us to examine the change in valuation errors when a combination of multiples is used instead of just a single multiple. Our results show that valuation errors are significantly improved when combining fundamentals from different financial statements; the largest improvement is observed when balance sheet fundamentals (net operating assets and book value of equity) are combined with fundamentals from the income statement (for example, EBITDA).
+
+Keywords: Valuation, Financial Statement Analysis, Multiples, Market Efficiency
+
+JEL Classification: G12, M41
+
+Suggested Citation:
+
+Deng, Mingcherng and Easton, Peter D. and Yeo, Julian, Another Look at Equity and Enterprise Valuation Based on Multiples (April 2, 2012). Available at SSRN: https://ssrn.com/abstract=1462794 or http://dx.doi.org/10.2139/ssrn.1462794
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+P Asquith , M Mikhail , A Au
+Information Content of Equity Analyst Reports
+Journal of Financial Economics , volume 75 , p. 245 - 282 Posted: 2005
+Crossref
+R P Beatty , S Riffe , R Thompson
+The Method of Comparables and Tax Court Valuations of Private Firms: An Empirical Investigation
+Accounting Horizon , volume 13 , p. 177 - 199 Posted: 1999
+Crossref
+R Brealey , S Myers , F Allen
+Principles of Corporate Finance. 8 th Edition Posted: 2007
+A Damodaran
+Investment Valuation: Tools and Techniques for Determining the Value of any Asset Posted: 2002
+Load more
+2 Citations
+Maria Dimitriou
+The Accounting Treatment of Firms’ Valuation Based on IFRS and Greek GAAP for Appropriate Investment Decision Making Using ICT
+Multinational Finance Conference Booklet (IF:0,58), 25: 150-151, 2018 · 40 Pages · Posted: 17 Mar 2020 · Downloads: 82
+Download PDF  Add Paper to My Library
+Maria Dimitriou
+A Philosophical Research Paradigm and a Theoretical Perspective of a Valuation Report in the Beverage Sector
+Multinational Finance Conference Booklet (IF: 0,47), Spring,7:38, 2019 · 34 Pages · Posted: 16 Mar 2020 · Downloads: 84
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,637
+ABSTRACT VIEWS
+5,894
+RANK
+25,428
+2 Citations
+20 References
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Can Investors Profit from the Prophets? Consensus Analyst Recommendations and Stock Returns
+
+By Brad M. Barber, Reuven Lehavy, ...
+
+Security Analysts' Career Concerns and Herding of Earnings Forecasts
+
+By Jeffrey D. Kubik, Amit Solomon, ...
+
+The Relation between Analysts' Forecasts of Long-Term Earnings Growth and Stock Price Performance Following Equity Offerings
+
+By Patricia Dechow, Amy P. Hutton, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

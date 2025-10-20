@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+When Effect Size Meets Significance: Resolving Two Paradoxes ... in Empirical Financial Economics
+
+36 Pages Posted: 6 May 2025
+
+Robert W. Faff
+
+Corvinus University Budapest; University of Queensland; Bond University
+
+Date Written: April 18, 2025
+
+Abstract
+
+This paper unpacks two pervasive-but often conflated-paradoxes in modern quantitative research. Paradox #1 holds that statistically significant results may be economically trivial; Paradox #2 reminds us that valuable research might fail to reach conventional significance thresholds-or it might uncover that no effect exists at all. Using a financial economics lens, we integrate guidance on: (i) translating coefficients into decision relevant units, (ii) evaluating and communicating economically meaningful nulls, and (iii) distinguishing between 'absence of evidence' and 'evidence of absence'. We catalogue ten proven methods for demonstrating economic significance, six complementary lenses for interrogating null or weak findings, and illustrate each with mini cases. A workflow checklist and policy implications close the discussion. This preliminary version was heavily developed in collaboration with ChatGPT. In the spirit of transparency and responsible science, readers are invited to contribute to a crowd-sourced fact-checking effort to help refine and strengthen the work. Indeed, this "ground zero" version of the paper intentionally makes no attempt to "fact check" any of the "literaturelinked claims" ... that are highlighted herein in yellow ... made in the inaugural version of this AI-assisted paper. As such, this 1.0 version stands as a baseline exhibit.
+
+Keywords: effect size, economic significance, statistical significance, translation matters, null results, financial economics, crowd-sourced fact checking JEL classifications: C12, C58, G14, G18, G38
+
+Suggested Citation:
+
+Faff, Robert W., When Effect Size Meets Significance: Resolving Two Paradoxes ... in Empirical Financial Economics (April 18, 2025). Available at SSRN: https://ssrn.com/abstract=5221965 or http://dx.doi.org/10.2139/ssrn.5221965
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+References
+V Acharya , R Engle , M Richardson
+Capital shortfall: A new approach to ranking and regulating systemic risks
+American Economic Review , volume 102 , issue 3 , p. 59 - 64 Posted: 2012
+M Baker , J Wurgler
+Investor sentiment and the cross-section of stock returns
+Journal of Finance , volume 61 , issue 4 , p. 1645 - 1680 Posted: 2006
+J B Berk , J H Van Binsbergen
+Measuring skill in the mutual fund industry
+Journal of Financial Economics , volume 118 , issue 1 , p. 1 - 20 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+62
+ABSTRACT VIEWS
+309
+RANK
+826,408
+51 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

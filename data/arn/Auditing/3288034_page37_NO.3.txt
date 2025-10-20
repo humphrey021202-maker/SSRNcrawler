@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Selection Bias in Audit Firm Tenure Research
+
+University of Connecticut School of Business Research Paper No. 22-14
+
+64 Pages Posted: 3 Dec 2018 Last revised: 2 Jun 2023
+
+Ying Zhou
+
+University of Connecticut
+
+David P. Weber
+
+University of Connecticut - Department of Accounting
+
+Ce Wen
+
+University of Connecticut - Department of Accounting
+
+There are 2 versions of this paper
+
+Date Written: March 15, 2023
+
+Abstract
+
+This study examines selection bias in audit firm tenure research. We first illustrate conceptually, in the presence of selection bias, how conventional pooled cross-sectional tests can lead researchers to spuriously estimate a causal effect of tenure on audit quality when none exists. We then empirically demonstrate the existence of selection bias: longer versus shorter duration client-auditor pairs differ systematically in a variety of ways that also relate to measures of audit quality, and these differences exist at the outset of relationships. Finally, we re-examine models of audit quality and tenure after including client-audit firm relationship fixed effects. These relationship fixed effects mitigate selection bias by moving the level of analysis from between clients (cross-sectional) to within client-auditor pairs (longitudinal). Our longitudinal analysis shows no evidence that audit quality changes with tenure over time within client-audit firm relationships. Overall, the combined evidence suggests that the previously documented association between audit firm tenure and audit quality is likely attributable to selection bias and cannot be taken as evidence of a causal link.
+
+Keywords: Auditor Tenure, Audit Quality, Selection Bias, Fixed Effects
+
+Suggested Citation:
+
+Zhou, Ying and Weber, David P. and Wen, Ce, Selection Bias in Audit Firm Tenure Research (March 15, 2023). University of Connecticut School of Business Research Paper No. 22-14, Available at SSRN: https://ssrn.com/abstract=3288034 or http://dx.doi.org/10.2139/ssrn.3288034
+Download This Paper
+ 
+Open PDF in Browser
+108 References
+The Commission on Auditors' Responsibilities: Report, Conclusions, and Recommendations Posted: 1978
+E I Altman
+Corporate financial distress: A complete guide to predicting, avoiding, and dealing with bankruptcy Posted: 1983
+J Angrist , J.-S Pischke
+Mostly Harmless Econometrics Posted: 2009
+D Aobdia
+Do practitioner assessments agree with academic proxies for audit quality? Evidence from PCAOB and internal inspections
+Journal of Accounting and Economics , volume 67 , issue 1 , p. 144 - 174 Posted: 2019
+Load more
+2 Citations
+Man Yuan He , Qing Hui
+Behind the Curtain: Linking CSR Disclosure to Internal Control in Chinese Firms
+FRL-D-24-01454 · 44 Pages · Posted: 18 Apr 2024 · Downloads: 39
+Download PDF  Add Paper to My Library
+Christian Friedrich , Sebastian Kronenberger
+Effects of Transitory Client Characteristics on Auditor Switching Cost
+48 Pages · Posted: 28 Jun 2024 · Last revised: 2 Apr 2025 · Downloads: 77
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+342
+ABSTRACT VIEWS
+2,334
+RANK
+200,911
+2 Citations
+108 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,164 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Factor-Loading Uncertainty and Expected Returns
+
+AFA 2010 Atlanta Meetings Paper
+
+52 Pages Posted: 12 Nov 2008 Last revised: 13 Sep 2012
+
+Chris Armstrong
+
+Stanford Graduate School of Business
+
+Snehal Banerjee
+
+University of Michigan at Ann Arbor - Finance
+
+Carlos Corona
+
+Ohio State University (OSU) - Department of Accounting & Management Information Systems
+
+Date Written: August 9, 2012
+
+Abstract
+
+Firm-specific information can affect expected returns if it affects investor uncertainty about risk-factor loadings. We show that a stock's expected return is decreasing in factor-loading uncertainty, controlling for the average level of its factor loading. When loadings are persistent, learning by investors can induce time-series variation in price-dividend ratios, expected returns, and idiosyncratic volatility, even when the aggregate risk-premium is constant and fundamental shocks are homoscedastic. Consistent with our predictions, we estimate that average annual returns of a firm with the median level of factor-loading uncertainty are 400 to 525 basis points lower than a comparable firm without factor-loading uncertainty.
+
+Keywords: Expected Return, Information Quality, Uncertainty, Stochastic volatility
+
+JEL Classification: G12, G14
+
+Suggested Citation:
+
+Armstrong, Chris S. and Banerjee, Snehal and Corona, Carlos, Factor-Loading Uncertainty and Expected Returns (August 9, 2012). AFA 2010 Atlanta Meetings Paper, Available at SSRN: https://ssrn.com/abstract=1300100 or http://dx.doi.org/10.2139/ssrn.1300100
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+T Adrian , F Franzoni
+Learning about beta: time-varying factor loadings, expected returns, and the conditional CAPM
+Journal of Empirical Finance , volume 16 , issue 4 , p. 537 - 56 Posted: 2009
+Crossref
+T Andersen , T Bollerslev , F Diebold , J Wu
+A framework for exploring the macroeconomic determinants of systematic risk
+American Economic Review , volume 95 , issue 2 , p. 398 - 404 Posted: 2005
+Crossref
+E Anderson , E Ghysels , J Juergens
+Do heterogeneous beliefs matter for asset pricing?
+Review of Financial Studies , volume 18 , issue 3 , p. 875 - 924 Posted: 2005
+Crossref
+A Ang , J Chen
+CAPM over the long run: 1926-2001
+Journal of Empirical Finance , volume 14 , issue 1 , p. 1 - 40 Posted: 2007
+Crossref
+Load more
+7 Citations
+Yaron Levi , Ivo Welch
+Best Practice for Cost-of-Capital Estimates
+Marshall School of Business Working Paper No. 17-4 · 65 Pages · Posted: 4 Oct 2015 · Last revised: 21 Feb 2017 · Downloads: 1,687
+Download PDF  Add Paper to My Library
+Manuel Ammann , Sebastian Fischer , Florian Weigert
+Factor Exposure Variation and Mutual Fund Performance
+Financial Analyst Journal, Forthcoming, University of St.Gallen, School of Finance Research Paper No. 2018/17 · 38 Pages · Posted: 30 Aug 2018 · Last revised: 1 Dec 2020 · Downloads: 810
+Download PDF  Add Paper to My Library
+Yufei Lin
+Soft and Ambiguous Risk Disclosure
+63 Pages · Posted: 3 Jul 2019 · Downloads: 248
+Download PDF  Add Paper to My Library
+Kevin Smith , Eric C. So
+Measuring Risk Information
+Stanford University Graduate School of Business Research Paper No. 3519543 · 63 Pages · Posted: 7 Feb 2020 · Last revised: 16 Apr 2021 · Downloads: 992
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,523
+ABSTRACT VIEWS
+8,719
+RANK
+28,338
+7 Citations
+55 References
+PlumX Metrics
+Related eJournals
+
+American Finance Association Meetings (AFA)
+
+Follow
+
+The Wharton School, University of Pennsylvania Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+The Cross-Section of Volatility and Expected Returns
+
+By Andrew Ang, Robert J. Hodrick, ...
+
+The Cross-Section of Volatility and Expected Returns
+
+By Andrew Ang, Robert J. Hodrick, ...
+
+Idiosyncratic Risk Matters!
+
+By Amit Goyal and Pedro Santa-clara
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

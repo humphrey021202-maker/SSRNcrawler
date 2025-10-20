@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Improving the Accuracy of Estimated Intrinsic Value Through Industry-Specific Valuation Models
+
+Review of Business & Finance Studies, v. 12 (1) p. 79-89
+
+11 Pages Posted: 18 Oct 2021
+
+Yanfu Li
+
+Chengdu Technological University
+
+Date Written: 2021
+
+Abstract
+
+This study aims to improve the accuracy of estimated intrinsic value by the industry-specific valuation model. Different industries have unique characteristics. As such, they should be valued by different valuation models. This study offers a comprehensive overview of the characteristics of financial and information technology industries and identifies the appropriate industry-specific valuation models for each industry. As the features of firms may still vary greatly even within the same industry, this study further classifies each industry into several sectors according to the Industry Classification Benchmark. After that, a series of corresponding valuation models for each sector are recommended. Detailed explanations for the recommendations are provided for each sector. This study contributes to the literature of valuation methodology by identifying the corresponding valuation models for different sectors/industries. More accurate estimation of intrinsic value can be expected as a result of more compatible valuation model.
+
+Keywords: Industry Characteristic, Industry-Specific Valuation Method
+
+JEL Classification: G12, G14, C10
+
+Suggested Citation:
+
+Li, Yanfu, Improving the Accuracy of Estimated Intrinsic Value Through Industry-Specific Valuation Models (2021). Review of Business & Finance Studies, v. 12 (1) p. 79-89, Available at SSRN: https://ssrn.com/abstract=3942064
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+P Asquith , B M Mikhail , A S Au
+Information content of equity analyst reports
+Journal of Financial Economics , volume 75 , issue 2 , p. 245 - 282 Posted: 2005
+V L Bernard
+The Feltham-Ohlson framework: implications for empiricists
+Contemporary Accounting Research , volume 11 , issue 2 , p. 733 - 747 Posted: 1995
+C S A Cheng , R Mcnamara
+The valuation accuracy of the price-earnings and price-book benchmark valuation methods
+Review of Quantitative Finance and Accounting , volume 15 , issue 4 , p. 349 - 370 Posted: 2000
+A Damodaran , E G Demirakos , N C Strong , M Walker
+What valuation models do analysts use? Accounting Horizons , volume 18 , p. 221 - 240 Posted: 2004
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+297
+ABSTRACT VIEWS
+1,096
+RANK
+234,143
+18 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

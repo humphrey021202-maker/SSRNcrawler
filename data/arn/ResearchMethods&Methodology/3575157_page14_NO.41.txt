@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Management Disclosure of Risk Factors and COVID-19
+
+Forthcoming in Financial Innovation
+
+18 Pages Posted: 14 Apr 2020 Last revised: 30 Jan 2023
+
+Tim Loughran
+
+University of Notre Dame
+
+Bill McDonald
+
+University of Notre Dame - Mendoza College of Business - Department of Finance
+
+Date Written: January 28, 2023
+
+Abstract
+
+Public companies in the United States are required to file annual reports (i.e., Form 10-K) and disclose, among other things, the risk factors that may harm their stock price. The risk of a pandemic was well known before the recent crisis, and we now know that the initial impact on many shareholders was significant and negative. To what extent did managers forewarn their shareholders about this valuation risk? We examine all 10-K filings from 2018, before any knowledge of the current pandemic, and find that less than 21% of them contain any reference to pandemic-related terms. Given the management’s presumed in-depth knowledge of their business and the general awareness that pandemics have been identified as a significant global risk for at least the past decade, this number should have been higher. We find an unexpectedly positive correlation (0.137) between the use of pandemic-related words in annual reports and realized stock returns during the actual pandemic at the industry level. Some industries most severely impacted by COVID-19 barely mentioned pandemic risk in their financial disclosures to shareholders, indicating that managers were ineffective in highlighting their exposure to pandemic risks to investors.
+
+Keywords: pandemic, COVID-19, Form 10-K, risk factors
+
+JEL Classification: G12, G18, G38, G02
+
+Suggested Citation:
+
+Loughran, Tim and McDonald, Bill, Management Disclosure of Risk Factors and COVID-19 (January 28, 2023). Forthcoming in Financial Innovation, Available at SSRN: https://ssrn.com/abstract=3575157 or http://dx.doi.org/10.2139/ssrn.3575157
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+G Akerloff
+The market for lemons: Quality uncertainty and the market mechanism
+Quarterly Journal of Economics , volume 84 , p. 488 - 500 Posted: 1970
+D Altig , S Baker , J M Barrero , N Bloom , P Bunn , S Chen , S J Davis , J Leather , B Meyer , E Mihaylov , P Mizen
+Economic uncertainty before and during the COVID-19 pandemic
+Journal of Public Economics , volume 191 , p. 104 - 274 Posted: 2020
+S R Baker , N Bloom , S J Davis , K Kost , M Sammon , T Viratyosin , A Cheema-Fox , B R Laperla , H S Wang , G Serafeim
+The unprecedented stock market reaction to COVID-19
+Journal of Applied Corporate Finance , volume 10 , p. 24 - 40 Posted: 2020
+L Cohen , C Malloy , Q Nguyen
+Lazy prices
+Journal of Finance , volume 75 , p. 1371 - 1415 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,264
+ABSTRACT VIEWS
+10,563
+RANK
+15,209
+23 Citations
+31 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

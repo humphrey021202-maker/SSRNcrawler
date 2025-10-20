@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bootstrap Inference for Penalized GMM Estimators with Oracle Properties
+
+19 Pages Posted: 7 May 2019
+
+Lorenzo Camponovo
+
+(SUPSI) Scuola universitaria professionale della Svizzera italiana
+
+Date Written: January 2019
+
+Abstract
+
+We study the validity of bootstrap methods in approximating the sampling distribution of penalized GMM estimators with oracle properties. More precisely, we focus on bridge estimators with Lq penalty for 0 < q < 1, and adaptive lasso estimators. We show that the nonparametric bootstrap with recentered moment conditions provides a valid method for approximating the distribution of these estimators. Furthermore, using the bootstrap approach, we also propose a data-driven method for the selection of tuning parameters in the penalization terms. Monte Carlo simulations confirm the reliability and accuracy of the bootstrap procedure. The empirical coverages for the active variables implied by the nonparametric bootstrap are always very close to the nominal coverage probabilities.
+
+Suggested Citation:
+
+Camponovo, Lorenzo, Bootstrap Inference for Penalized GMM Estimators with Oracle Properties (January 2019). Available at SSRN: https://ssrn.com/abstract=3372756 or http://dx.doi.org/10.2139/ssrn.3372756
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+D W K Andrews
+Higher-order improvements of a computationally attractive k-step bootstrap for extremum estimators
+Econometrica , volume 70 , p. 119 - 162 Posted: 2002
+Crossref
+F Audrino , L Camponovo
+Oracle Properties, Bias Correction, and Inference of the Adaptive Lasso for Time Series Extremum Estimators
+Journal of Time Series Analysis , volume 39 , p. 111 - 128 Posted: 2018
+Crossref
+A Belloni , V Chernozhukov , C Hansen
+Inference on treatment effects after selection among high-dimensional controls
+Review of Economic Studies , volume 81 , p. 608 - 650 Posted: 2014
+Crossref
+A Belloni , V Chernozhukov , C Hansen
+High-dimensional methods and inference on structural and treatment effects
+Journal of Economic Perspectives , volume 28 , p. 29 - 50 Posted: 2014
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+75
+ABSTRACT VIEWS
+934
+RANK
+741,762
+27 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Political Methods: Quantitative Methods eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

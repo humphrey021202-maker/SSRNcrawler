@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Are Regulators Effective at Unraveling Accounting Manipulation? Evidence from Public Utility Commissions
+
+Management Science 67(7), p.3985-4642
+
+52 Pages Posted: 10 Jun 2020 Last revised: 14 Sep 2021
+
+Jivas Chakravarthy
+
+University of Texas at Arlington - Department of Accounting
+
+Katie McDermott
+
+University of Virginia - McIntire School of Commerce
+
+Roger M. White
+
+Arizona State University (ASU) - School of Accountancy
+
+Date Written: April 14, 2020
+
+Abstract
+
+Prior research proposes that a monopolist with private information inflates their reported costs under rate regulation to extract an informational rent. Using a sample of U.S. electric utilities from 1990-2011, we first confirm an unexpected increase in operating expense during rate review periods, then decompose operating expense into its cash and accrual components and find the cash component accounts for 89% of this increase. The observed pattern is consistent with some combination of real activities management and utility managers misrepresenting transitory expense shocks as permanent. We then focus on identifying regulators’ effectiveness at unraveling this manipulation and minimizing the rent. We estimate that, on average, regulators allow 17¢ out of every dollar of abnormal cash expense to be recovered in future annual revenue, a statistically significant amount. Next, we study the effects of regulators’ ability (proxied by experience) and motivation (proxied by whether they were elected) to unravel accounting manipulation. We find that while inexperienced and politically appointed regulators allow a significant portion of abnormal cash expense to be recovered (41¢ and 24¢ out of every dollar, respectively), experienced and elected regulators do not (although the difference between appointed and elected regulators is not statistically significant). Our findings suggest that regulators differ in their ability to identify manipulation – with experience enhancing this ability – and that, on average, state regulators effectively unravel most of the effect of accounting manipulation.
+
+Keywords: accounting manipulation, asymmetric information, informational rent, regulated utilities
+
+JEL Classification: L51, L94, M41
+
+Suggested Citation:
+
+Chakravarthy, Jivas and McDermott, Katie and White, Roger M., Are Regulators Effective at Unraveling Accounting Manipulation? Evidence from Public Utility Commissions (April 14, 2020). Management Science 67(7), p.3985-4642 , Available at SSRN: https://ssrn.com/abstract=3602370
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+A Alesina , G Tabellini
+Bureaucrats or Politicians? Part I: A Single Policy Task
+American Economic Review , volume 97 , issue 1 , p. 169 - 179 Posted: 2007
+D D Anderson
+Regulatory Politics and Electric Utilities: A Case Study in Political Economy Posted: 1981
+C S Armstrong , W R Guay , J P Weber
+The role of information and financial reporting in corporate governance and debt contracting
+Journal of Accounting and Economics , volume 50 , issue 2-3 , p. 179 - 234 Posted: 2010
+H Averch , L L Johnson
+Behavior of the Firm Under Regulatory Constraint
+The American Economic Review , volume 52 , issue 5 , p. 1052 - 1069 Posted: 1962
+Load more
+2 Citations
+Doron Nissim
+Earnings Quality, Fundamental Analysis and Valuation
+Columbia Business School Research Paper · 738 Pages · Posted: 1 Mar 2021 · Last revised: 18 Jul 2025 · Downloads: 9,503
+Download PDF  Add Paper to My Library
+Massimiliano Bonacchi , Fabio Ciaponi , Antonio Marra , Ron Shalev
+The Consequences of Accounting-Based Regulation: Real Effects on European Football Players Transfer Market
+52 Pages · Posted: 6 Dec 2021 · Last revised: 30 May 2023 · Downloads: 825
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+128
+ABSTRACT VIEWS
+924
+RANK
+511,510
+2 Citations
+60 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

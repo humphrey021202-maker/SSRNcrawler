@@ -1,0 +1,99 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Capabilities Approximation of Translog, Generalized Leontief and Quadratic Models
+
+This paper is presented at the National Research Center for Mathematics and Computer Science in the Netherlands (CWI), the International Conference on Computational Management Science, 2006
+
+Posted: 4 Nov 2008
+
+Sourour Baccar
+
+Department of Quantitative Methods
+
+Date Written: May 17, 6
+
+Abstract
+
+We investigate the behaviour of three flexible forms of the cost Function: the Translog, which is the most used in empirical analyses, Generalized Leontief and Symmetric Generalized McFadden, which both have also become popular. Their performances are evaluated by their abilities (i) to respect basic theoretical properties, (ii) to provide plausible estimates of economic and technological characteristics such us values, signs and derivatives of price and Allen elasticities of substitution, technical change, as well as (iii) the precision by which they fit input shares, input-outputs coefficients and unit cost.
+
+This framework is then used to describe the substitution possibilities between capital labour and energy in the three industrial branches of French manufacturing industry. The most noteworthy result is that the Translog form fails to fit the unit cost and furthermore the input-output coefficients while the other two forms give satisfactory results under the same maintained hypothesis and for all three sets of data. We show that the origin of those shortcomings is due in part to the sensitivity of the Translog model to restrictions on parameters allowing for non-neutral technical change and non-homothetic technologies. As a consequence, this form is not suitable when one wants to measure the pure effect of biased technical change on the demand of energy or productivity indicators, for example. Our results suggest that the Translog model is less flexible then the two others. So, care should be attached to several previous studies.
+
+Keywords: Flexible cost function, energy demand, technical change
+
+JEL Classification: C52, D24, O30
+
+Suggested Citation:
+
+Baccar, Sourour, The Capabilities Approximation of Translog, Generalized Leontief and Quadratic Models (May 17, 6). This paper is presented at the National Research Center for Mathematics and Computer Science in the Netherlands (CWI), the International Conference on Computational Management Science, 2006, Available at SSRN: https://ssrn.com/abstract=1293822
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,256
+PlumX Metrics
+Related eJournals
+
+Econometrics: Mathematical Methods & Programming eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

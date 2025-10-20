@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does CEO Inside Debt Really Improve Financial Reporting Quality?
+
+European Accounting Review, forthcoming
+
+110 Pages Posted: 7 May 2025 Last revised: 8 May 2025
+
+Stefano Cascino
+
+London School of Economics
+
+Máté Széles
+
+Tilburg University - Tilburg University School of Economics and Management
+
+David Veenman
+
+University of Amsterdam - Amsterdam Business School (ABS)
+
+Date Written: May 07, 2025
+
+Abstract
+
+Recent studies conclude that CEO debt-like incentives, such as defined benefit pensions and deferred compensation ("inside debt"), improve financial reporting quality. We challenge this result on conceptual grounds and evaluate its sensitivity to empirical specification. We reexamine the relation between accrual-based measures of financial reporting quality and CEO inside debt variables and find that it is an artifact of correlated omitted factors that prior studies do not effectively control for. Specifically, we show that the relation disappears when we control for factors related to the volatility and uncertainty of firms' operating environments. Using a two-step approach, we illustrate how the relation between inside debt and accrual-based financial reporting quality measures is driven entirely by the portion of inside debt that is correlated with these factors, rather than a direct effect of inside debt itself. Our findings challenge the prevailing consensus on the incentive effects of inside debt and suggest that prior evidence is likely confounded by omitted variable bias.
+
+Keywords: Inside debt, Pensions, Deferred compensation, Executive compensation, Incentives, Financial reporting quality, Accruals, Earnings management, Reexamination, Replication
+
+Suggested Citation:
+
+Cascino, Stefano and Széles, Máté and Veenman, David, Does CEO Inside Debt Really Improve Financial Reporting Quality? (May 07, 2025). European Accounting Review, forthcoming, Available at SSRN: https://ssrn.com/abstract=5245024 or http://dx.doi.org/10.2139/ssrn.5245024
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+90
+ABSTRACT VIEWS
+501
+RANK
+662,776
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

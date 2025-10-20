@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Are Fair Value Options Created Equal? A Study of SFAS 159 and Earnings Volatility
+
+47 Pages Posted: 3 Feb 2014 Last revised: 26 Jun 2014
+
+Robert B. Couch
+
+Willamette University - Atkinson Graduate School of Management
+
+Nicole Thibodeau
+
+Willamette University - Atkinson Graduate School of Management
+
+Wei Wu
+
+Cal Poly Pomona
+
+Date Written: June 23, 2014
+
+Abstract
+
+The fair value option (FVO) embedded in both SFAS 159 and IAS 39 was introduced to allow firms to reduce earnings volatility induced from mixed-measurement accounting. Fiechter (2011) finds a reduction in earnings volatility among IAS 39 FVO adopters. In contrast, we find that earnings volatility increased following SFAS 159 FVO adoption in 2008. In further analysis, we find that this result is driven by firms reporting fair value assets without reporting fair value liabilities. Our study uses a two-stage Heckman regression to control for treatment effects, and our findings are robust to difference-in-differences regressions with control samples constructed by propensity score matching. These results have implications for current debates regarding fair value accounting, accounting choice, and global standard setting.
+
+Keywords: fair value option; earnings volatility; fair value accounting; financial institutions; global accounting standards; accounting choice; FASB 159; IAS 39
+
+JEL Classification: M41; G21; G28
+
+Suggested Citation:
+
+Couch, Robert B. and Thibodeau, Nicole and Wu, Wei, Are Fair Value Options Created Equal? A Study of SFAS 159 and Earnings Volatility (June 23, 2014). Available at SSRN: https://ssrn.com/abstract=2389742 or http://dx.doi.org/10.2139/ssrn.2389742
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+D Aboody , M Barth , R Kasznik
+Firms' Voluntary Recognition of Stock-based Compensation Expense
+Journal of Accounting Research , volume 42 , issue 2 , p. 123 - 150 Posted: 2004
+Crossref
+A Abdel-Khalik
+Accounting for Risk, Hedging and Complex Contracts Posted: 2013
+Crossref
+A Abdel-Khalik
+Fair Value Accounting and Stewardship
+Accounting Perspectives , volume 9 , issue 4 , p. 253 - 269 Posted: 2010
+A Abdel-Khalik
+An Empirical Investigation of CEOs Risk Aversion and the Propensity to Smooth Earnings Volatility
+Journal of Accounting, Auditing and Finance , volume 22 , issue 2 , p. 201 - 235 Posted: 2007
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+283
+ABSTRACT VIEWS
+20,325
+RANK
+246,365
+1 Citations
+50 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

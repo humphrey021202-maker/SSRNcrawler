@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Political Activism and Market Power
+
+Forthcoming at the Journal of Financial and Quantitative Analysis
+
+Swiss Finance Institute Research Paper No. 20-60
+
+72 Pages Posted: 6 Aug 2020 Last revised: 13 Oct 2024
+
+Elia Ferracuti
+
+Duke University - Fuqua School of Business
+
+Roni Michaely
+
+The University of Hong Kong; ECGI
+
+Laura Wellman
+
+Pennsylvania State University; Pennsylvania State University - Department of Accounting; Penn State University
+
+Date Written: October 10, 2024
+
+Abstract
+
+We document an increase in market power for politically active firms during times of heightened policy uncertainty, when their information and influence advantage is greater. The effect is long-lasting and stronger for large politically active firms. We show that relatively large investments during high uncertainty periods serve as a potential mechanism for gains in market power. Industries populated with politically active firms experience lower business dynamism and import penetration, consistent with active firms leveraging investment timing to restrict competition. Results suggest that political activism is a likely contributing factor to the dominance of large firms over the last two decades.
+
+Keywords: Market Power, Political Activism, Policy Uncertainty, Competition, Profitability, Profit Margins, Capital Investment
+
+JEL Classification: D72, G31, G38, P16
+
+Suggested Citation:
+
+Ferracuti, Elia and Michaely, Roni and Wellman, Laura, Political Activism and Market Power (October 10, 2024). Forthcoming at the Journal of Financial and Quantitative Analysis, Swiss Finance Institute Research Paper No. 20-60, Available at SSRN: https://ssrn.com/abstract=3585372 or http://dx.doi.org/10.2139/ssrn.3585372
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+𝐿𝐼 𝑖 , 𝑒 = 𝛽 1 𝑃𝑜𝑙𝑖𝑡𝑖𝑐𝑎𝑙𝐴𝑐𝑡𝑖𝑣𝑖𝑠𝑚 𝑡 , 𝑒 * 𝐸𝑛𝑎𝑐𝑡𝑚𝑒𝑛𝑡 𝑖 , 𝑡
+𝑒 + 𝛽 2 𝐿𝑜𝑏𝑏𝑦𝑖𝑛𝑔 𝑖,𝑒 * 𝐸𝑛𝑎𝑐𝑡𝑚𝑒𝑛𝑡 𝑡,𝑒 + 𝛽 3 𝑃𝑜𝑙𝑖𝑡𝑖𝑐𝑎𝑙𝐴𝑐𝑡𝑖𝑣𝑖𝑠𝑚 𝑖,𝑒 + 𝛽 4 𝐿𝑜𝑏𝑏𝑦𝑖𝑛𝑔 𝑖,𝑒 + 𝛽 5 𝐸𝑛𝑎𝑐𝑡𝑚𝑒𝑛𝑡 𝑡,𝑒 + ∑ 𝛿 𝐶𝑜𝑛𝑡𝑟𝑜𝑙𝑠 𝑖,𝑡,𝑒 + 𝛾 𝑖,𝑒 + 𝜁 𝑡,𝑒 + 𝜀 𝑖,𝑡,𝑒 (3) References Adelino, M. and Dinc, I.S., 2014. Corporate distress and lobbying: Evidence from the Stimulus Act
+Journal of Financial Economics , volume 114 , issue 2 , p. 256 - 272
+P Aghion , N Bloom , R Blundell , R Griffith , P Howitt
+Competition and innovation: An inverted-U relationship
+The Quarterly Journal of Economics , volume 120 , issue 2 , p. 701 - 728 Posted: 2005
+O Al-Ubaydli , P A Mclaughlin
+RegData: A numerical database on industry-specific regulations for all United States industries and federal regulations, 1997-2012
+Regulation & Governance , volume 11 , issue 1 , p. 109 - 123 Posted: 2017
+M Allen
+Molinari to head Google's DC office Posted: 2012-03
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+572
+ABSTRACT VIEWS
+3,058
+RANK
+109,744
+6 Citations
+63 References
+PlumX Metrics
+Related eJournals
+
+Swiss Finance Institute Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

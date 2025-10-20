@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Rotation, Information Asymmetry, and the Role of Political Connections: International Evidence
+
+Forthcoming, Meditari Accountancy Research, https://doi.org/10.1108/MEDAR-03-2021-1226
+
+45 Pages Posted: 21 Feb 2023
+
+Abiot Tessema
+
+Zayed University - College of Business
+
+Heba Abou-El-Sood
+
+Cairo University - Faculty of Commerce
+
+Date Written: May 2022
+
+Abstract
+
+Purpose – Audit rotation is a key policy initiative implemented in global jurisdictions to deal with concerns about audit quality. Auditing financial reports involves communicating attested value-relevant company information to investors, hence audit quality plays a role in the quality of financial reporting information. This paper investigates whether audit rotation (AR) affects the degree of information asymmetry (IS) between investors. It further examines whether voluntary AR results in less asymmetric information compared to mandatory AR. Additionally, it examines whether political connections moderate the association between AR and IS.
+
+Design/methodology/approach – We use data from publicly traded banks across the Gulf Cooperation Council (GCC) for the period 2010-2018. We include several variables to control for corporate governance and other firm specific characteristics by using country-year fixed effects regression model.
+
+Findings – We find higher IS for banks that periodically rotate auditor, while banks voluntarily choose to rotate auditors obtain high quality audits, which results in higher trading volume and lower stock return volatility, hence lower IS. The results suggest that when banks voluntarily choose to rotate auditors, investors perceive these banks as more committed to obtaining high quality audits relative to mandatory AR. Providing higher quality audits enhances the credibility of reported information and thus reduce the level of IS. Moreover, IS following audit rotation is higher for politically connected banks than for similar but politically unconnected banks. Finally, investors perceive voluntary AR as a disciplining tool, which mitigates IS. This mitigating role is not affected by bank political connectedness.
+
+Research limitations/implications: This study has limitations as our definition of audit rotation could be interpreted as binary or too narrow, hence it may not be appropriate to generalize findings to different contexts. Nonetheless, this study casts light on a new perspective to reconcile the existing mixed evidence on the influence of audit rotation on IS and the moderating role of political connections. A further limitation is that due to data unavailability, we were unable to employ other proxies (e.g., bid-ask spreads and analyst forecast dispersion) of IS.
+
+Practical implications – Our findings provide insight to regulators, policymakers, and standard setters on the potential adverse effect of political connections on the role of audit rotation in mitigating IS. Our results underscore the importance of voluntary AR, and suggest that regulators, policymakers, and standard setters encourage firms to rotate their auditors periodically.
+
+Originality/value – This study provides evidence in a setting that is unique at the economic, social, and regulatory levels. Prior literature is lacking and has been centered on developed countries or focusing on single-country specifications. Our dataset is unique and allows us to examine the interplay between political influence that arises through ownership and management roles of influential members of state.
+
+Keywords: Audit rotation, Information asymmetry, Political connections, GCC, Emerging markets
+
+JEL Classification: M41, G32, G34, G38
+
+Suggested Citation:
+
+Tessema, Abiot and Abou-El-Sood, Heba, Audit Rotation, Information Asymmetry, and the Role of Political Connections: International Evidence (May 2022). Forthcoming, Meditari Accountancy Research, https://doi.org/10.1108/MEDAR-03-2021-1226, Available at SSRN: https://ssrn.com/abstract=4360914 or http://dx.doi.org/10.2139/ssrn.4360914
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+203
+ABSTRACT VIEWS
+673
+RANK
+342,507
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

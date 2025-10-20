@@ -1,0 +1,99 @@
+Skip to main content
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Artificial Intelligence Technology and Corporate ESG Performance: Empirical Evidence from Chinese-Listed Firms
+Heliyon
+
+21 Pages Posted: 10 Sep 2024 Publication Status: Under Review
+
+Hanjin Xie
+
+East China Jiaotong University
+
+Wu fengquan
+
+East China Jiaotong University
+
+Abstract
+
+In the era of artificial intelligence (AI), economic efficiency has an obvious role to play, but “non-economic benefits” have gradually become the focus of corporate attention, and thus environmental, social, and governance (ESG) has become a mainstream investment strategy. This paper empirically examines the impact of corporate application of AI technology on corporate ESG performance using a sample of 4858 listed companies in China from 2007 to 2022. The study finds that: (1) corporate application of AI technology can significantly enhance corporate ESG performance, and this conclusion still holds after a series of endogeneity treatments and robustness tests; (2) mechanism analysis shows that the degree of corporate digitization has a positive moderating effect in the process of AI technology affecting corporate ESG performance. The channel analysis shows that the application of AI technology can enhance environmental (E) performance by strengthening corporate green technology innovation, enhance social (S) performance by improving corporate philanthropic responsibility, and enhance the overall ESG performance with the above two sub-items as the main aspects. However, AI technology also weakens the effectiveness of corporate internal control, which leads to a decline in corporate governance (G) performance; (3) Heterogeneity analysis shows that AI technology promotes ESG more significantly in more competitive industries and technology-intensive firms, and more significantly in the eastern and central regions than in the western and northeastern regions, and that large-sized and medium-sized firms are similarly superior to small-sized firms, while medium-sized firms have more room for upward mobility than small-sized firms. Large and medium-sized enterprises are also better than small enterprises and medium-sized enterprises embody a higher promotion effect than large enterprises due to the larger upside. This paper provides theoretical evidence that enterprises apply AI technology to improve ESG performance and empirical support around investing in ESG practices and promoting ESG development.
+
+Keywords: Artificial Intelligence Technology, Digitization, esg
+
+Suggested Citation:
+
+Xie, Hanjin and fengquan, Wu, Artificial Intelligence Technology and Corporate ESG Performance: Empirical Evidence from Chinese-Listed Firms. Available at SSRN: https://ssrn.com/abstract=4948697 or http://dx.doi.org/10.2139/ssrn.4948697
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+A Goldfarb , C Tucker
+Digital Economics[J]
+Journal of Economic Literature , volume 57 , issue 1 , p. 3 - 43 Posted: 2019
+C D Broadstock , R Matousek , M Meyer
+Does corporate social responsibility impact firms' innovation capacity? The indirect link between environmental & social gover nance implementation and innovation performance[J]
+Journal of Business Research Posted: 2019
+Z Zhang , Y Hou , Z Li
+From symbolic to substantive green innovation: How does ESG ratings optimize corporate green innovation structure
+J].Finance Research Letters Posted: 2024
+L Jinlong , X Xiaoguang
+Can ESG rating reduce corporate carbon emissions? -An empirical study from Chinese listed companies[J]
+Journal of Cleaner Production , volume 2 Posted: 2024
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+182
+ABSTRACT VIEWS
+1,145
+29 References
+PlumX Metrics
+Heliyon
+All Journals (10965)
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Economics eJournal
+
+Follow
+ 
+Feedback 
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

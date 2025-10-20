@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Who Loses Most When Big Banks Suddenly Fail? – Evidence from Silicon Valley Bank Collapse
+
+Finance Research Letters, Vol. 59, No. 104806
+
+22 Pages Posted: 10 May 2023 Last revised: 2 Jan 2024
+
+Xia (Summer) Liu
+
+University of Richmond
+
+William L. Megginson
+
+University of Oklahoma
+
+Nhu Tran
+
+University of Richmond
+
+Siqi Wei
+
+David Nazarian College of Business and Economics, California State University, Northridge
+
+There are 2 versions of this paper
+
+Date Written: October 31, 2023
+
+Abstract
+
+We analyze the market reaction of Silicon Valley Bank (SVB)’s public clients to the collapse of SVB. We identify 137 SVB depositors which mention SVB in their 8-K filings from March 10 to March 13, 2023, and 251 SVB borrowers which mention SVB as their lender in any of their 10-K filings from 2021 to 2022. For the depositors, we document an average of -5.12% single-day abnormal return (AR) on the event date (March 10, 2023), and a -12.38% cumulative abnormal return (CAR) over a 30-day post-event window. More surprisingly, the borrowers also experience a similar AR (-4.16%) on the event day and an even worse CAR over the 30-day window (-13.47%). The majority of SVB public clients are from the Healthcare and Pharmaceutical industry, with their headquarters primarily located in California or Massachusetts. In the regression framework, we find that SVB clients are more likely to have worse CARs if they are smaller, with higher cash holdings, or with lower market-to-book ratios. These results indicate that the borrowers appear to suffer more than the depositors from the bank failure. Our findings highlight the importance of commercial banking and financial system stability to small and medium-sized companies, which are the backbone of the high-tech economy.
+
+Keywords: Silicon Valley Bank, Commercial Banking, Event Study
+
+JEL Classification: G21, G30
+
+Suggested Citation:
+
+Liu, Xia and Megginson, William L. and Tran, Nhu and Wei, Siqi, Who Loses Most When Big Banks Suddenly Fail? – Evidence from Silicon Valley Bank Collapse (October 31, 2023). Finance Research Letters, Vol. 59, No. 104806, Available at SSRN: https://ssrn.com/abstract=4443827
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+D Y Aharon , S Ali , M Naved
+Too big to fail: the aftermath of Silicon Valley Bank (SVB) collapse and its impact on financial markets Posted: 2023
+M Akhtaruzzaman , S Boubaker , J W Goodell
+Did the collapse of Silicon Valley Bank catalyze financial contagion?
+Finance Research Letters , volume 56 Posted: 2023
+S Ali , F Moussa , M Youssef
+Connectedness between cryptocurrencies using high-frequency data: A novel insight from the Silicon Valley Banks collapse
+Finance Research Letters , volume 58 Posted: 2023
+W Azmi , Z Anwer , S N Azmi , H Nobanee
+How did major global asset classes respond to Silicon Valley Bank failure?
+Finance Research Letters , volume 56 Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+178
+ABSTRACT VIEWS
+1,245
+RANK
+269,796
+34 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Partners and Loan Loss Provisioning: Evidence from U.S. Bank Holding Companies
+
+SMU Cox School of Business Research Paper No. 24-13
+
+61 Pages Posted: 16 Oct 2024 Last revised: 21 Jun 2025
+
+Gauri Bhat
+
+Southern Methodist University (SMU) - Accounting Department
+
+Hemang Desai
+
+Southern Methodist University (SMU) - Accounting Department
+
+Christoffer Koch
+
+International Monetary Fund (IMF)
+
+Erik J. Mayer
+
+University of Wisconsin-Madison, Finance Department
+
+Nitzan Tzur-Ilan
+
+Federal Reserve Banks - Federal Reserve Bank of Dallas
+
+Date Written: January 19, 2023
+
+Abstract
+
+Using confidential data on audit partner identities, this study explores the impact of individual audit partners on loan loss provisioning in U.S. bank holding companies (BHCs) from 2006 to 2019. The banking industry provides a unique setting where the objectives of auditors and regulators concerning provisioning often diverge. Regulators favor prudence and are concerned with underestimation. Auditors evaluate the adequacy of provision but tend to prioritize verifiability under GAAP. Thus, the banking industry provides a natural laboratory for studying auditor judgment and the impact of individual audit partners on loan loss provisioning. Unlike prior studies that document the impact of audit partner style on various client-firm outcomes, we find only modest evidence of audit partner heterogeneity on loan loss provisions for public BHCs and those audited by large firms, but not when we limit the sample period to the post-financial crisis years. These findings highlight a nuanced story: while audit partner heterogeneity can affect provisioning, especially during periods of economic uncertainty, the heterogeneity appears to be constrained in more stable periods. We also find that loan loss allowances increase over the duration of the partner tenure, especially in public and small BHCs. For small BHCs, this pattern persists even after the crisis, implying that longer auditor relationships may lead to more conservative provisioning, potentially due to developing client-specific knowledge.
+
+Keywords: auditing, banking, audit partner names, PCAOB, audit partner tenure, auditor rotation
+
+JEL Classification: G21, J01, J44, L84, M21, M42
+
+Suggested Citation:
+
+Bhat, Gauri and Desai, Hemang and Koch, Christoffer and Mayer, Erik J. and Tzur-Ilan, Nitzan, Audit Partners and Loan Loss Provisioning: Evidence from U.S. Bank Holding Companies (January 19, 2023). SMU Cox School of Business Research Paper No. 24-13, Available at SSRN: https://ssrn.com/abstract=4973439 or http://dx.doi.org/10.2139/ssrn.4973439
+Download This Paper
+ 
+Open PDF in Browser
+64 References
+J M Abowd , F Kramarz , D N Margolis
+High Wage Workers and High Wage Firms
+Econometrica , volume 67 , issue 2 , p. 251 - 333 Posted: 1999
+R B Adams , H Almeida , D Ferreira
+Powerful CEOs and Their Impact on Corporate Performance
+The Review of Financial Studies , volume 18 , issue 4 , p. 1403 - 1432 Posted: 2005
+A S Ahmed , C Takeda , S Thomas
+Bank loan loss provisions: a reexamination of capital management, earnings management and signaling effects
+Journal of Accounting and Economics , volume 28 , issue 1 , p. 1 - 25 Posted: 1999
+Commission on Auditors' Responsibilities (Cohen Commission)
+Commission on Auditors' Responsibilities -Report, Conclusions, and Recommendations Posted: 1978
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+86
+ABSTRACT VIEWS
+584
+RANK
+682,707
+64 References
+PlumX Metrics
+Related eJournals
+
+SMU Cox School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

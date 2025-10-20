@@ -1,0 +1,148 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Governance and Earnings Management Nexus: Evidence from the UK and Egypt Using Neural Networks
+
+International Journal of Finance & Economics, Forthcoming
+
+48 Pages Posted: 14 Jul 2020
+
+Hussein A. Abdou
+
+Northumbria University; Department of Management, Faculty of Commerce, Mansoura University
+
+Nouran N. Ellelly
+
+affiliation not provided to SSRN
+
+Ahmed A. Elamer
+
+Brunel University London - Brunel Business School; Department of Accounting, Faculty of Commerce, Mansoura University
+
+Khaled Hussainey
+
+Portsmouth University
+
+Hassan Yazdifar
+
+University of Salford - Salford Business School
+
+Date Written: June 19, 2020
+
+Abstract
+
+Using conventional regressions and Generalized Regression Neural Networks (GRNN), we examine the relationship between Corporate Governance (CG) and Earnings Management (EM). We also examine whether governance quality moderates the association between EM and CG for a sample of British and Egyptian companies. Our findings show that:
+
+(a) UK firms are likely to have lower levels of EM if they: have smaller boards, are dominated by independent outside directors, and have a low percentage of female directors;
+
+(b) Egyptian firms are likely to have lower levels of EM if they: have larger boards, are dominated by independent outside directors, and have a low percentage of female directors;
+
+(c) The governance quality (control of corruption) has a significant hidden effect on EM.
+
+Since our results provide empirical evidence that the board of directors plays a vital role in mitigating EM, these findings might lead to an improvement in the credibility of financial statements for investors in both the UK and Egypt. As policy implications, our findings inform regulators and policy-makers that corruption has a very strong hidden effect on EM and that they can deter EM by controlling the corruption level in their countries.
+
+Keywords: Earnings Management, Corporate Governance, Governance Quality, Neural Networks, Corruption
+
+JEL Classification: C45, G34, G38, K42, M41
+
+Suggested Citation:
+
+Abdou, Hussein A. and Ellelly, Nouran N. and Elamer, Ahmed Ahmed and Hussainey, Khaled and Yazdifar, Hassan, Corporate Governance and Earnings Management Nexus: Evidence from the UK and Egypt Using Neural Networks (June 19, 2020). International Journal of Finance & Economics, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3631424 or http://dx.doi.org/10.2139/ssrn.3631424
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+M E Barth , W R Landsman , M H Lang
+International accounting standards and accounting quality
+Journal of Accounting Research , volume 46 , issue 3 , p. 467 - 498 Posted: 2008
+Crossref
+M Becht , P Bolton , A Röell
+Corporate governance and control
+Handbook of the Economics of Finance , volume 1 , issue 3 , p. 1 - 109 Posted: 2003
+Crossref
+J Bedard , S M Chtourou , L Courteau
+The effect of audit committee expertise, independence, and activity on aggressive earnings management
+Auditing: A Journal of Practice & Theory , volume 23 , issue 2 , p. 13 - 35 Posted: 2004
+Crossref
+F V Bekiris , L C Doukakis
+Corporate governance and accruals earnings management
+Managerial and Decision Economics , volume 32 , issue 7 , p. 439 - 456 Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+94
+ABSTRACT VIEWS
+852
+RANK
+644,694
+6 Citations
+21 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

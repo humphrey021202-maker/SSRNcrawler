@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Capital Market Consequences of Tenure-Based Voting Rights: Evidence from the Florange Act
+
+62 Pages Posted: 8 Feb 2019 Last revised: 1 Apr 2021
+
+Thomas Bourveau
+
+Columbia University - Columbia Business School, Accounting, Business Law & Taxation
+
+Francois Brochet
+
+Boston University - Questrom School of Business
+
+Alexandre Garel
+
+Audencia Business School
+
+Date Written: April 1, 2021
+
+Abstract
+
+We examine the consequences of a regulatory intervention aimed at generalizing
+tenure voting in French public companies. The 2014 Florange Act departs from the
+‘one share one vote’ principle by automatically granting double voting rights (DVR)
+to shares held for at least two years. However, firms can opt out through an annual
+meeting vote. We document three main findings. First, firms that adopt DVR by
+default experience a decrease in long-term foreign institutional ownership offset by an
+increase in insider/family ownership. Second, those firms significantly underperform
+in terms of stock returns after Florange relative to those that reject DVR. Third,
+their environmental and social performance deteriorates. Collectively, our evidence
+casts doubt on the merit of regulation-induced tenure voting as a desirable corporate
+governance mechanism. Instead, the results echo concerns that mandating double
+voting rights can reinforce insider and blockholder entrenchment.
+
+Keywords: Shareholder Voting, Institutional Ownership, Corporate Governance Regulation
+
+JEL Classification: G32, G34, G38, K22
+
+Suggested Citation:
+
+Bourveau, Thomas and Brochet, Francois and Garel, Alexandre, The Capital Market Consequences of Tenure-Based Voting Rights: Evidence from the Florange Act (April 1, 2021). Available at SSRN: https://ssrn.com/abstract=3324237 or http://dx.doi.org/10.2139/ssrn.3324237
+Download This Paper
+ 
+Open PDF in Browser
+2 References
+25% of the unique foreign institutional investors, respectively. In Panel D and Panel E, we present the distribution of investors' type for foreign and French investors as per Thomson Reuters Refinitiv's classification, respectively. For foreign investors, the dominant type is Investment Advisor, i.e., individuals or groups that advise on investment strategies and execute transactions on behalf of clients. This contrasts with the distribution we observe for French investors
+This reduces our groups of early adopters, rejecters, and default adopters by 30 firms, 8 firms, and 2 firms, respectively. In columns 3 and 4, we impose that all firms in our sample must be listed continuously from 2010 to 2018, four years around the Florange regulation. This reduces our groups of early adopters, rejecters, and default adopters by 51 firms, 17 firms, and 4 firms, respectively. Our results is robust (negative and statistically significant at the 1% level) across all four reported specifications, using both our baseline and extended control groups
+Load more
+3 Citations
+Aurelio Gurrea-Martínez
+Theory, Evidence, and Policy on Dual-Class Shares: A Country-Specific Response to a Global Debate
+European Business Organization Law Review Posted: 2021
+Crossref
+Marco Becht , Yuliya Kamisarenka , Anete Pajuste
+Loyalty Shares with Tenure Voting - Does the Default Rule Matter? Evidence from the Loi Florange Experiment
+European Corporate Governance Institute (ECGI) - Law Working Paper No. 398/2018 · 45 Pages · Posted: 2 May 2018 · Last revised: 2 Feb 2020 · Downloads: 730
+Download PDF  Add Paper to My Library
+Mark J. Roe , Holger Spamann , Jesse M. Fried , Charles C. Y. Wang
+The European Commission's Sustainable Corporate Governance Report: A Critique
+European Corporate Governance Institute - Law Working Paper 553/2020, Harvard Public Law Working Paper No. 20-30, Yale Journal on Regulation Bulletin · 27 Pages · Posted: 21 Oct 2020 · Last revised: 27 Apr 2021 · Downloads: 2,176
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,048
+ABSTRACT VIEWS
+5,331
+RANK
+49,015
+3 Citations
+2 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

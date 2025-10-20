@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+In Search of a Unicorn: Dynamic Agency with Endogenous Investment Opportunities
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+50 Pages Posted: 15 Dec 2021 Last revised: 13 Feb 2024
+
+Felix Zhiyu Feng
+
+University of Georgia - Terry College of Business
+
+Robin Yifan Luo
+
+University of Washington - Michael G. Foster School of Business
+
+Beatrice Michaeli
+
+University of California, Los Angeles (UCLA)
+
+Date Written: January 31, 2024
+
+Abstract
+
+We study the optimal dynamic contract that provides incentives for an agent (e.g., SPAC sponsor, VC general partner, CTO) to exploit investment opportunities/targets that arrive randomly over time via a costly search process. The agent is privy to the arrival as well as to the quality of the target and can take advantage of this for rent extraction during the search process and the ensuing production. The optimal contract provides the agent with incentives for timely and truthful reporting via a time-varying threshold for investment and an internal charge for the time spent on search. In the equilibrium, as time elapses, the charge becomes progressively higher while the investment threshold is progressively lower, resulting in overinvestment at a time-varying degree. Our model generates empirically testable predictions regarding investments (such as M\&As, hedge fund activism, VC investing, SPACs, and internal innovations), linking the degree of overinvestment to observable firm and industry characteristics.
+
+Keywords: dynamic agency, endogeneous search, project selection, overinvestment
+
+JEL Classification: G31, D82, D83, D86, M11
+
+Suggested Citation:
+
+Feng, Felix and Luo, Robin Yifan and Michaeli, Beatrice, In Search of a Unicorn: Dynamic Agency with Endogenous Investment Opportunities (January 31, 2024). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=3983591 or http://dx.doi.org/10.2139/ssrn.3983591
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+G Andrade , M Mitchell , E Stafford
+New evidence and perspectives on mergers
+Journal of Economic Perspectives , volume 15 , issue 2 , p. 103 - 120 Posted: 2001
+R Antle , J Fellingham
+Resource rationing and organizational slack in a twoperiod model
+Journal of Accounting Research , volume 28 , issue 1 , p. 1 - 24 Posted: 1990
+A Arya , J C Fellingham , R A Young
+Contract-based motivation for keeping records of a manager's reporting and budgeting history
+Management Science , volume 40 , issue 4 , p. 484 - 495 Posted: 1994
+E Azarmsa , L Y Liu , S Noh
+How does internal communication technology affect internal information: Theory and evidence Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+378
+ABSTRACT VIEWS
+2,050
+RANK
+179,657
+3 Citations
+59 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

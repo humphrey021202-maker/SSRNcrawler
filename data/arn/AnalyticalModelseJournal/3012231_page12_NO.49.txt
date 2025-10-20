@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+When do firms use one set of books in an international tax compliance game?
+
+WU International Taxation Research Paper Series No. 2017-08
+
+46 Pages Posted: 1 Sep 2017 Last revised: 15 Sep 2021
+
+Rebecca Reineke
+
+Leibniz Universität Hannover
+
+Katrin Weiskirchner-Merten
+
+Vienna University of Economics and Business - Department of Finance, Accounting & Statistics
+
+Stefan Wielenberg
+
+Leibniz Universität Hannover
+
+There are 2 versions of this paper
+
+Date Written: September 7, 2021
+
+Abstract
+
+This study examines how a strategic tax auditor affects a multinational firm's transfer pricing in a tax compliance game. Our model uses a divisionalized firm, in both a low-tax and a high-tax country, that decides to implement a transfer-pricing regime with either one or two sets of books. After observing its unit costs, the firm reports a compliant or non-compliant tax transfer price. In a regime with one set of books, the single transfer price coordinates the quantity decision and determines the tax payments. In a regime with two sets, different transfer prices serve those tasks. In contrast to previous studies, our analysis incorporates a strategic tax auditor, who observes the tax transfer price and decides whether to audit the firm. Real-world regulations suggest larger penalties for detected non-compliance under a two-sets-of-books transfer-pricing regime. Our analysis identifies the mixed strategy equilibria and examines how variations in the tax regulation - the tax rate difference and the penalty difference - affect the firm's tax aggressiveness. We show that a firm acts less tax aggressively with a higher tax rate difference. Additionally, the model predicts that the firm either increases or decreases the probability of keeping one set of books for a smaller penalty difference.
+
+Keywords: transfer pricing, two sets of books, one set of books, strategic tax auditor
+
+JEL Classification: H26, H87, M42
+
+Suggested Citation:
+
+Reineke, Rebecca and Weiskirchner-Merten, Katrin and Wielenberg, Stefan, When do firms use one set of books in an international tax compliance game? (September 7, 2021). WU International Taxation Research Paper Series No. 2017-08, Available at SSRN: https://ssrn.com/abstract=3012231 or http://dx.doi.org/10.2139/ssrn.3012231
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+A Arya , B Mittendorf
+Pricing internal trade to get a leg up on external rivals
+Journal of Economics & Management Strategy , volume 17 , issue 3 , p. 709 - 731 Posted: 2008
+T Baldenius , N D Melumad , S Reichelstein
+Integrating managerial and tax objectives in transfer pricing
+The Accounting Review , volume 79 , issue 3 , p. 591 - 615 Posted: 2004
+S.-E Bärsch , J H Heckemeyer , M Olbert
+Transfer pricing and the decision-making authority of the tax function in multinational companies Posted: 2019
+J L Blouin , L A Robinson , J K Seidman
+Conflicting transfer pricing incentives and the role of coordination
+Contemporary Accounting Research , volume 35 , issue 1 , p. 87 - 116 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+195
+ABSTRACT VIEWS
+2,670
+RANK
+355,741
+2 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+WU International Taxation Research Paper Series
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

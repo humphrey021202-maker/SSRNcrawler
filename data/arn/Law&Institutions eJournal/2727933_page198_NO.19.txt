@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Technology Spillover and Corporate Technology Disclosures
+
+54 Pages Posted: 6 Feb 2016 Last revised: 9 Mar 2019
+
+Michael Ettredge
+
+University of Kansas - Accounting and Information Systems Area
+
+Feng Guo
+
+Iowa State University - Department of Accounting and Finance
+
+Ling Lei Lisic
+
+Virginia Tech - Pamplin College of Business
+
+Kevin Tseng
+
+The Chinese University of Hong Kong (CUHK) - CUHK Business School
+
+Date Written: December 1, 2018
+
+Abstract
+
+In modern economies, technological knowledge can flow between firms through various channels. We test an economic theory that firms most likely to benefit from such knowledge flows disclose information about their technologies more readily, probably to attract technologically compatible counterparties. Consistent with theory, we find that greater potential value of knowledge flows to a focal firm, which we refer to as “technology spillover”, is associated with the firm’s voluntary disclosure of more R&D-related information in 10-K reports. We control for firm fixed effects and employ quasi-exogenous shocks to states’ R&D tax laws to enhance the inference of causality. In additional analyses, we find that firms subject to greater technology spillover are less likely to redact information from technology-related contracts filed with the Securities and Exchange Commission. Because the proprietary cost theory predicts that product market rivalry should be negatively associated with disclosures that aid rival firms, we control for product market rivalry in all analyses. Therefore, we demonstrate that the positive effects of technology spillover on the quantity and details of technology-related disclosures co-exist with the more familiar negative effects of proprietary costs.
+
+Keywords: disclosure, technology, knowledge spillover, proprietary costs, redaction
+
+JEL Classification: G14, L1, M40, M41
+
+Suggested Citation:
+
+Ettredge, Michael L. and Guo, Feng and Lisic, Ling Lei and Tseng, Kevin, Technology Spillover and Corporate Technology Disclosures (December 1, 2018). Available at SSRN: https://ssrn.com/abstract=2727933 or http://dx.doi.org/10.2139/ssrn.2727933
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+U Akcigit , M A Celik , J Greenwood
+Buy, keep, or sell: Economic growth and the market for ideas
+Econometrica , volume 84 , issue 3 , p. 943 - 84 Posted: 2016
+Crossref
+R C Allen
+Collective invention
+Journal of Economic Behavior & Organization , volume 4 , issue 1 , p. 1 - 24 Posted: 1983
+Crossref
+J J Anton , D A Yao
+Expropriation and inventions: Appropriable rents in the absence of property rights
+The American Economic Review , p. 190 - 209 Posted: 1994
+J J Anton , D A Yao
+The sale of ideas: Strategic disclosure, property rights, and contracting
+The Review of Economic Studies , volume 69 , issue 3 , p. 513 - 531 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+726
+ABSTRACT VIEWS
+4,860
+RANK
+80,730
+4 Citations
+16 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

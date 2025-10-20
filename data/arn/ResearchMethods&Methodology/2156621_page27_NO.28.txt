@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Drift or Jump: What Drives Post-Earnings Announcement Stock Returns?
+
+Advances in Quantitative Analysis of Finance and Accounting, Volume 11(2013), pp.175-206
+
+36 Pages Posted: 4 Oct 2012 Last revised: 2 Nov 2018
+
+Linda H. Chen
+
+University of Idaho
+
+George J. Jiang
+
+Washington State University
+
+There are 2 versions of this paper
+
+Date Written: October 3, 2012
+
+Abstract
+
+One of the contentious issues regarding the post-earnings announcement drift (PEAD) is whether the abnormal stock return is driven by investors’ delayed reaction to earnings information or by unexpected information shocks subsequent to earnings announcement. In this paper, we disentangle unexpected large changes in stock prices, known as jumps, from total stock returns. Although on average jump occurs only once per firm quarter, it accounts for up to 40% of the return differential between top and bottom SUE deciles. This is evidence that a significant part of PAED is driven by unexpected information shocks. Nevertheless, the drift component still explains at least 50% of the variation of anomalous PEAD returns. The findings suggest that PEAD cannot be entirely attributed to investors’ delayed reaction to earnings information, but neither can the hypothesis be ruled out. In particular, we find that delayed reaction is more pronounced following positive earnings surprises.
+
+Keywords: post-earnings announcement drift, delayed reaction to earnings information, unexpected information shocks, stock price jumps
+
+Suggested Citation:
+
+Chen, Linda H. and Jiang, George, Drift or Jump: What Drives Post-Earnings Announcement Stock Returns? (October 3, 2012). Advances in Quantitative Analysis of Finance and Accounting, Volume 11(2013), pp.175-206, Available at SSRN: https://ssrn.com/abstract=2156621 or http://dx.doi.org/10.2139/ssrn.2156621
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+Y Aït-Sahalia
+Telling from discrete data whether the underlying continuous-time model is a diffusion
+Journal of Finance , volume 57 , p. 2075 - 2112 Posted: 2002
+Crossref
+Y Aït-Sahalia , J Jacod
+Testing for jumps in a discretely observed process
+Annals of Statistics , volume 37 , p. 184 - 222 Posted: 2009
+Crossref
+J Afflleck-Graves , R R Mendenhall
+The Relation between the Value Line Enigma and Post-Earnings-Announcement Drift
+Journal of Financial Economics , volume 31 , p. 75 - 96 Posted: 1992
+Crossref
+T G Andersen , L Benzoni , J Lund
+An empirical investigation of continuous-time equity return models
+Journal of Finance , volume 57 , issue 3 , p. 1239 - 1284 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+372
+ABSTRACT VIEWS
+2,887
+RANK
+104,509
+52 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Recommended Papers
+
+Arbitrage Risk and Post-Earnings-Announcement Drift
+
+By Richard R. Mendenhall
+
+Liquidity and the Post-Earnings-Announcement Drift
+
+By Tarun Chordia, Ronnie Sadka, ...
+
+Liquidity and the Post-Earnings-Announcement Drift
+
+By Tarun Chordia, Amit Goyal, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

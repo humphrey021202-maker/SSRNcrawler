@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Disclosure Quality, Diversification and the Cost of Capital
+
+23 Pages Posted: 16 Nov 2013
+
+Greg Clinch
+
+Deakin University - Department of Accounting
+
+There are 2 versions of this paper
+
+Date Written: October 1, 2013
+
+Abstract
+
+Based on a stylized infinite-period and multi-asset model of a securities market, I discuss several aspects of the link between disclosure quality and cost of capital, with a particular focus on how diversification influences this link. I first show that because investors have finite horizons and thus face price risk, disclosure plays a role in determining ex ante cost of capital in such a setting, contrary to the result of Christensen et al. ((2010) Information and the cost of capital: An ex ante perspective. Accounting Review 83: 817-848). With respect to diversification, I highlight the role of three aspects of a ‘large economy’ that influence how disclosure quality affects cost of capital: (1) the number of firms across which risk is distributed; (2) the number of investors among whom this risk is shared; and (3) the number of information signals (disclosures) available to investors from which to extract information. Finally, I extend the model to include the effects of nonrational traders who follow a simple trading heuristic and show that this results in an additional disclosure-contingent factor in equilibrium price that does not diversify away under fairly general conditions.
+
+Keywords: Cost of capital, disclosure quality, diversification
+
+JEL Classification: G10, G14
+
+Suggested Citation:
+
+Clinch, Greg, Disclosure Quality, Diversification and the Cost of Capital (October 1, 2013). Available at SSRN: https://ssrn.com/abstract=2354777 or http://dx.doi.org/10.2139/ssrn.2354777
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+T &amp; P Artiach , Clarkson
+Disclosure, conservatism and the cost of equity capital: A review of the foundation literature
+Accounting and Finance , volume 51 , issue 1 , p. 2 - 49 Posted: 2011
+Crossref
+C Barry , &amp; S Brown
+Differential information and the small firm effect
+Journal of Financial Economics , volume 13 , p. 283 - 294 Posted: 1984
+Crossref
+C Barry , &amp; S Brown
+Differential information and security market equilibrium
+Journal of Financial and Quantitative Analysis , volume 20 , p. 407 - 422 Posted: 1985
+Crossref
+P Berger
+Challenges and opportunities in disclosure research -A discussion of 'The financial reporting environment: Review of the recent literature
+Journal of Accounting and Economics , volume 51 , p. 204 - 218 Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+325
+ABSTRACT VIEWS
+3,357
+RANK
+212,316
+21 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Real Effects of Financial Markets
+
+By Philip Bond, Alex Edmans, ...
+
+The Real Effects of Financial Markets
+
+By Philip Bond, Alex Edmans, ...
+
+The Real Effects of Financial Shocks: Evidence from Exogenous Changes in Analyst Coverage
+
+By François Derrien and Ambrus Kecskes
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

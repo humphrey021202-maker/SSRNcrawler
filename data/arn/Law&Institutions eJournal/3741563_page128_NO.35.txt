@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Valuation Risk: A Holistic Accounting and Prudential Approach
+
+36 Pages Posted: 4 Dec 2020
+
+Mario Onorato
+
+Promontory Financial Group
+
+Fabio Battaglia
+
+Promontory Financial Group
+
+Orazio Lascala
+
+Promontory Financial Group
+
+Arber Ngjela
+
+Promontory Financial Group
+
+Date Written: November 4, 2020
+
+Abstract
+
+Valuation Risk (VR) is the risk that an entity will experience a loss due to the inaccurate determination of the fair value of the financial instruments on its balance sheet. This risk is particularly significant for financial instruments with complex features, with limited-to-no liquidity, or with valuations that rely on internally developed models that may be seldom verified using actual trades.
+
+Bank VR has been drawing international supervisory attention recently. In February, the European Systemic Risk Board warned that the substantial amounts of instruments with complex features and limited liquidity that sit on banks’ balance sheets are a source of risk for the global financial system. In parallel, the European Central Bank has put trading risk and asset valuations among its supervisory priorities for 2020 and said it plans to execute investigations on banks with significant portfolios of complex instruments measured at fair value based on pricing models.
+
+Measured in terms of possible losses from fair value calculations and/or estimation errors on capital ratios, the potential impact of VR can be significant for banks with a combination of a high ratio of fair valued assets to total assets and a high leverage ratio. In such cases, even a relatively small error in determining fair values may significantly decrease the Tier 1 ratio. From a business perspective, banks with opaque and incomplete disclosure about the methods used to estimate the fair value (and the variation thereof) of complex financial instruments may find their stock prices penalized by financial analysts.
+
+The nature of VR differs from other banking risks. Market and credit risks, for example, are defined in terms of potential losses derived from the uncertainty about instrument prices over time. VR, however, measures uncertainty surrounding the difference between the reported fair value and the “true” tradeable price that a bank could obtain if it were to sell an asset or transfer a liability at a specific point in time (i.e., the valuation date).
+
+Prudential and accounting frameworks have designated a set of mitigation measures to deal with VR uncertainty, which are interrelated. We have conducted a comprehensive analysis of bank VR, encompassing governance, regulatory, and prudential dimensions and summarize it in the paper linked below. We describe the VR framework for a bank through a holistic approach, provide a detailed analysis of the relationships between the accounting and the prudential frameworks, and outline a methodological approach for the prudential treatment of VR. We conclude that:
+
+1) Regulators will increasingly challenge banks over their fair value determination practices as part of a supervisory approach that looks for consistency and rigor across the whole valuation process. In this context, banks will face governance challenges on the clarity of the roles and responsibilities for different functions (namely, finance and risk.)
+
+2) The requirements of the current prudential regulatory framework do not ensure that banks build a capital buffer large enough to address VR. Researchers and regulators should undertake additional studies to develop a sound and agreed upon methodology to identify and measure VR.
+
+3) Regulators should require banks to provide more extensive disclosure about their exposure to VR. Increasing clarity and transparency around bank risks will enhance public trust and enable more accurate estimations of the risk embedded in banks’ balance sheets by observers and analysts. This would also be reflected in bank share prices.
+
+Keywords: Valuation Risk, Market Risk, Fair Value, Prudent Value, Fair Value Hierarchy, IFRS 13, IFRS 9
+
+JEL Classification: G12, G18, G21, G32
+
+Suggested Citation:
+
+Onorato, Mario and Battaglia, Fabio Maria and Lascala, Orazio and Ngjela, Arber, Valuation Risk: A Holistic Accounting and Prudential Approach (November 4, 2020). Available at SSRN: https://ssrn.com/abstract=3741563 or http://dx.doi.org/10.2139/ssrn.3741563
+Download This Paper
+ 
+Open PDF in Browser
+23 References
+Esrb
+Macroprudential implications of financial instruments in Levels 2 and 3 for accounting purposes Posted: 2020
+The interplay of accounting and regulation and its impact on bank behaviour
+BCBS Posted: 2017
+Ecb
+ECB Banking Supervision: SSM Supervisory Priorities 2020 Posted: 2019
+Guidelines on internal governance under Directive 2013/36/EU Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+572
+ABSTRACT VIEWS
+4,179
+RANK
+109,744
+23 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

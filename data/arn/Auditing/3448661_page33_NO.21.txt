@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+What Turns the Taxman On? Tax Aggressiveness, Financial Statement Audits and Tax Return Adjustments in Small Private Companies
+
+The International Journal of Accounting, Vol 55, No. 3 (2020) DOI: 10.1142/S1094406020500110
+
+52 Pages Posted: 14 Sep 2019 Last revised: 12 Feb 2021
+
+Hannu Ojala
+
+University of Eastern Finland; Aalto University - School of Business
+
+Juha Kinnunen
+
+Aalto University School of Business
+
+Lasse Niemi
+
+Aalto University - School of Business
+
+Pontus Troberg
+
+Helsinki School of Economics
+
+Jill Collis
+
+Brunel University London - Brunel Business School
+
+Date Written: October 1, 2020
+
+Abstract
+
+This study examines the effect of tax aggressiveness and voluntary audit of the financial statements on the likelihood of tax adjustments in small private companies. We provide evidence that (1) tax aggressiveness increases the likelihood of the tax authority not accepting taxable income as reported, whereas (2) voluntary audit decreases it. To derive our hypotheses, we build a theoretical stochastic model explaining tax authority’s reactions to bias and noise in tax returns and how these two relate to tax aggressiveness and voluntary audit. In our empirical tests of the hypotheses we use a large proprietary data set comprising internal records of the Finnish Tax Administration for the fiscal year 2010 combined with data on the taxable income reported by around 19,500 small private companies. Our results show that while the findings on tax aggressiveness are significant when measured with the book-tax difference using proprietary tax return data from the Tax Administration, they are insignificant when based on the conventional tax aggressiveness measure of book-tax difference derived from publicly available financial statement data. Our paper contributes to the literature by being the first to document the effects of tax aggressiveness and voluntary audit on tax return adjustments of small private companies.
+
+Keywords: Audit opinion, small private companies, tax adjustments, tax aggressiveness, voluntary audit
+
+JEL Classification: M410, M420, F38
+
+Suggested Citation:
+
+Ojala, Hannu and Kinnunen, Juha and Niemi, Lasse and Troberg, Pontus and Collis, Jill, What Turns the Taxman On? Tax Aggressiveness, Financial Statement Audits and Tax Return Adjustments in Small Private Companies (October 1, 2020). The International Journal of Accounting, Vol 55, No. 3 (2020) DOI: 10.1142/S1094406020500110, Available at SSRN: https://ssrn.com/abstract=3448661
+Download This Paper
+ 
+Open PDF in Browser
+69 References
+Probðtaxadj ¼1þ ¼ 1=ð1 Þ E Àðà6
+Crossref
+¼ Probðtaxadj , 1þ ¼ 1=ð1 Þ E Àðà6
+. J Int , Acc
+Downloaded from www.worldscientific.com by AALTO UNIVERSITY on 01/08/21. Re-use and distribution is strictly not permitted, except for Open Access articles. write-downs and reserves, etc. (3) For example, carry-forwards of losses confirmed in previous years , volume 55 , p. 2050011 - 2050058 Posted: 2020
+. J Int , Acc
+Downloaded from www.worldscientific.com by AALTO UNIVERSITY on 01/08/21. Re-use and distribution is strictly not permitted, except for Open Access articles
+Econometrica , volume 55 , p. 235 - 267 Posted: 2006
+Crossref
+Load more
+3 Citations
+Ting Dong , Milda Tylaite , Ryan J. Wilson
+Voluntary vs. Mandatory: The Role of Auditing in Constraining Corporate Tax Avoidance in Small Private Firms
+Forthcoming in Accounting and Business Research · 59 Pages · Posted: 20 Apr 2022 · Downloads: 206
+Download PDF  Add Paper to My Library
+Hannu Ojala , Pekka Malo , Esko Penttinen
+Private Firms’ Tax Aggressiveness and Lightweight Pre-Tax-Audit Interventions by the Tax Administration
+Journal of International Accounting, Auditing and Taxation, Forthcoming · 40 Pages · Posted: 29 Jun 2022 · Downloads: 98
+Download PDF  Add Paper to My Library
+Marita Blomkvist , Jan Peter Marton , Emmeli Runesson , Niuosha Samani
+Voluntary audit and future survival: Evidence from private micro firms in Sweden
+40 Pages · Posted: 19 Feb 2025 · Downloads: 73
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+145
+ABSTRACT VIEWS
+1,097
+RANK
+461,979
+3 Citations
+69 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

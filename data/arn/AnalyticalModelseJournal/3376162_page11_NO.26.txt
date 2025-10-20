@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Retail Trading and Analyst Coverage
+
+Journal of Financial Markets, Volume 66, November 2023, 100849
+
+41 Pages Posted: 29 Apr 2019 Last revised: 30 Jan 2024
+
+Charles Martineau
+
+University of Toronto - Rotman School of Management and UTSC Management
+
+Marius Zoican
+
+University of Calgary - Haskayne School of Business
+
+Date Written: May 3, 2023
+
+Abstract
+
+How does retail trading impact information supply in financial markets? We build a trading model with endogenous information supply where analysts maximize trading volume by institutional investors. In equilibrium, sell-side analysts provide higher quality signals in stocks with large retail interest, as institutional investors can trade more aggressively without causing significant price impact. We provide empirical evidence supporting the main prediction of the model: a one standard deviation increase in retail trading leads to an additional 0.6 analysts covering the stock. To establish causality, we confirm our results using stock splits as a plausibly exogenous shock to retail trading.
+
+Keywords: retail trading, analyst coverage, liquidity, price efficiency
+
+JEL Classification: G11, G24, G40, D83, M41
+
+Suggested Citation:
+
+Martineau, Charles and Zoican, Marius, Retail Trading and Analyst Coverage (May 3, 2023). Journal of Financial Markets, Volume 66, November 2023, 100849, Available at SSRN: https://ssrn.com/abstract=3376162 or http://dx.doi.org/10.2139/ssrn.3376162
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+Admati , R Anat , Paul Pfleiderer
+A Theory of Intraday Patterns: Volume and Price Variability
+Review of Financial Studies , volume 1 , p. 3 - 40 Posted: 1988
+Brad M Barber , Xing Huang , Terrance Odean , Christopher Schwarz
+Attentioninduced trading and returns: Evidence from robinhood users
+The Journal of Finance , volume 77 , p. 3141 - 3190 Posted: 2022
+Brad M Barber , Yi-Tsung , Yu-Jane Lee , Terrance Liu , Odean
+Just How Much Do Individual Investors Lose by Trading?
+The Review of Financial Studies , volume 22 , p. 609 - 632 Posted: 2008
+Brad M Barber , Terrance Odean
+All That Glitters: The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors
+The Review of Financial Studies , volume 55 , p. 1533 - 1570 Posted: 2000
+Load more
+1 Citations
+Kathleen Bakarich , Jiaxin Liu , Joseph Weintrop
+At what life-cycle stage does the auditors’ going concern report add value?
+Review of Quantitative Finance and Accounting , volume 56 , issue 3 , p. 1129 Posted: 2021
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+759
+ABSTRACT VIEWS
+5,404
+RANK
+76,233
+1 Citations
+35 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

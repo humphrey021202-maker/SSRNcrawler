@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Economic Analysis of Consolidation Accounting: the Property Rights Approach
+
+Journal of Theoretical Accounting Research, Volume 19, Issue 2, Spring 2024, pp. 48-69.
+
+21 Pages Posted: 15 Apr 2024
+
+Yasuharu Aoki
+
+Hitotsubashi University
+
+Koki Sawai
+
+Saitama University
+
+Date Written: March 13, 2024
+
+Abstract
+
+This study examines the consistency of IFRS 10 Consolidated Financial Statements with the property rights theory (PRT). Our findings are fourfold. First, with respect to a basis for consolidation, IFRS 10 is consistent with PRT in that it regards both power over—and claims to the returns from—the subsidiary as requirements for consolidation. However, the meanings of power and returns in IFRS 10 are not necessarily the same as those in PRT. Second, PRT and IFRS 10 hold different views on the object over which the parent’s power is exercised: the former focuses on the subsidiary assets, the latter, on the subsidiary’s relevant activities. Third, the accounting treatments of a non-controlling interest (NCI) in IFRS 10 are largely consistent with PRT. Last, regarding SPEs that may differ from subsidiaries as their activities are strictly determined by contracts, it is not clear from PRT how such characteristics should be reflected in their accounting treatments.
+
+Keywords: Consolidation accounting, IFRS 10, Faithful representation, Incomplete contract, Property rights theory
+
+JEL Classification: G34, M41, P14
+
+Suggested Citation:
+
+Aoki, Yasuharu and Sawai, Koki, An Economic Analysis of Consolidation Accounting: the Property Rights Approach (March 13, 2024). Journal of Theoretical Accounting Research, Volume 19, Issue 2, Spring 2024, pp. 48-69., Available at SSRN: https://ssrn.com/abstract=4757576 or http://dx.doi.org/10.2139/ssrn.4757576
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+C Abad , J Laffarga , A Garcia-Borbolla , M Larran , J M Pinero , N Garrod
+An evaluation of the value relevance of consolidated versus unconsolidated accounting information: Evidence from quoted Spanish firms
+Journal of International Financial Management and Accounting , volume 11 , issue 3 , p. 156 - 177 Posted: 2000
+C S Armstrong , W R Guay , J P Weber
+The role of information and financial reporting in corporate governance and debt contracting
+Journal of Accounting and Economics , volume 50 , issue 2-3 , p. 179 - 234 Posted: 2010
+R Ball
+IFRS -10 years later
+Accounting and Business Research , volume 46 , issue 5 , p. 545 - 571 Posted: 2016
+M Barth
+Research, standard setting, and global financial reporting
+Foundations and Trends in Accounting , volume 1 , issue 2 , p. 71 - 165 Posted: 2007
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+124
+ABSTRACT VIEWS
+710
+RANK
+524,740
+31 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

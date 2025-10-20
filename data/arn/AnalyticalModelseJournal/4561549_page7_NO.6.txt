@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Real Effects of GHG Disclosures
+
+42 Pages Posted: 6 Sep 2023 Last revised: 2 Dec 2023
+
+Tong Lu
+
+University of Houston
+
+Lijun Ruan
+
+New Jersey City University
+
+Yanyan Wang
+
+Xiamen University
+
+Lisheng Yu
+
+Sun Yat-sen University (SYSU) - School of Business
+
+Date Written: November 30, 2023
+
+Abstract
+
+This study investigates the valuation and real effects of mandatory disclosure of greenhouse gas (GHG) emission costs from the perspective of “double materiality.” We consider a firm with a Cobb-Douglas production function, which combines GHG-related and non-GHG-related investments to produce short-term and long-term returns. In particular, the GHG-related investment entails short-term and long-term social costs of GHG emissions, including corporate costs and negative externalities. We demonstrate how the mandatory disclosure of the long-term costs of GHG emissions affects capital market valuations and corporate investment decisions, relative to a non-disclosure regime. The social welfare in an accounting regime hinges on three parameters: persistence of short-term investment return, ratio of productivity of GHG-related investment to productivity of non-GHG-related investment, and social cost parameter for GHG emissions. Our findings suggest that disclosing the long-term costs of GHG emissions may be detrimental to social welfare. Specifically, the non-disclosure regime induces higher social welfare for high values of those parameters.
+
+Keywords: Greenhouse gas emissions, Externality, Double materiality, Disclosure, Real effects
+
+JEL Classification: M41, M48
+
+Suggested Citation:
+
+Lu, Tong and Ruan, Lijun and Wang, Yanyan and Yu, Lisheng, Real Effects of GHG Disclosures (November 30, 2023). Available at SSRN: https://ssrn.com/abstract=4561549 or http://dx.doi.org/10.2139/ssrn.4561549
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+C Aghamolla , An , B
+Mandatory vs. voluntary ESG disclosure, efficiency, and real effects Posted: 2023
+S Basu , J G Fernald
+Returns to scale in U.S. production: Estimates and implications
+Journal of Political Economy , volume 105 , issue 2 , p. 249 - 283 Posted: 1997
+L Bebchuk , L Stole
+Do short-term objectives lead to under-or overinvestment in long-term projects?
+The Journal of Finance , volume 48 , issue 2 , p. 719 - 729 Posted: 1993
+B Biais , A Landier
+Emission caps and investment in green technologies Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+201
+ABSTRACT VIEWS
+819
+RANK
+345,746
+30 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fundamental Analysis and Hedge Trading in a Disagreement Model
+
+AAA 2009 Financial Accounting and Reporting Section (FARS) Paper
+
+41 Pages Posted: 20 Sep 2008
+
+Russell J. Lundholm
+
+University of British Columbia - Sauder School of Business
+
+Date Written: September, 19 2008
+
+Abstract
+
+In this paper I present a simple model where hedge traders meet fundamental traders in a competitive stock market. The key distinction between the two trader groups is that hedge traders evaluate information on a relative basis while fundamental traders evaluate information on an absolute basis. In particular, hedge traders rank-order stocks based on a signal and form a long/short portfolio. Fundamental traders observe the same underlying signals as the hedge traders but use the information very differently. Fundamental traders understand the relation between each firm's signal and its future cash flows and use this to create a value estimate for each stock. They compare the value estimate to the firm's price and make a decision to buy or sell the stock based on this comparison. The model makes predictions about how the aggressiveness of the hedge traders, the informativeness of the signals, and the mix of investor types influence the efficiency in the market and the expected profits to a hedge-trading or fundamental analysis strategy.
+
+Keywords: hedge trading, financial statement analysis
+
+JEL Classification: G12, G14, M41
+
+Suggested Citation:
+
+Lundholm, Russell J., Fundamental Analysis and Hedge Trading in a Disagreement Model (September, 19 2008). AAA 2009 Financial Accounting and Reporting Section (FARS) Paper, Available at SSRN: https://ssrn.com/abstract=1270758 or http://dx.doi.org/10.2139/ssrn.1270758
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+W Beaver
+Market efficiency
+The Accounting Review , volume 56 , p. 23 - 37 Posted: 1981
+V L Bernard , J K Thomas
+Post-earnings-announcement drift: Delayed price response or risk premium
+Journal of Accounting Research , p. 1 - 36 Posted: 1989
+Crossref
+R Bloomfield , R Libby
+Market reactions to differentially available information in the laboratory
+Journal of Accounting Research , volume 34 , issue 2 , p. 183 - 207 Posted: 1996
+Crossref
+R Bloomfield , R Libby , M Nelson
+Experimental research in financial accounting
+Accounting, Organizations and Society , volume 27 , p. 775 - 810 Posted: 2002
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+331
+ABSTRACT VIEWS
+2,736
+RANK
+208,120
+1 Citations
+21 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Recommended Papers
+
+Stock Returns, Aggregate Earnings Surprises, and Behavioral Finance
+
+By Jonathan Lewellen, S.p. Kothari, ...
+
+Explaining Returns with Cash-Flow Proxies
+
+By Peter Andrew Hecht and Tuomo Vuolteenaho
+
+Accruals and Aggregate Stock Market Returns
+
+By David Hirshleifer, Kewei Hou, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

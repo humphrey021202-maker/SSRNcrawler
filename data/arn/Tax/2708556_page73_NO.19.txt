@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Effective Tax Rates of Corporate Australia and the Book-Tax Income Gap
+
+Australian Tax Forum, Volume 23, Number 3, 233-268.
+
+36 Pages Posted: 28 Dec 2015
+
+Alfred Tran
+
+Australian National University
+
+Yi Yu
+
+Australian National University (ANU)
+
+Date Written: September 1, 2008
+
+Abstract
+
+This study examines the effective tax rates of listed companies in Australia for a period of 11 years from 1994 to 2004. Two measures of effective tax rate are used: total tax expense divided by pre-tax accounting profit (ETR), and current tax expense divided by pre-tax accounting profit (ETR’). The difference between ETR and the statutory tax rate (STR) provides a measure of permanent differences. The difference between ETR’ and ETR provides a measure of timing differences. Thus, this study also examines the book-tax income gap.
+
+The findings are summarised as follows. First, using the General Industry Classification Scheme (GICS), an industry effect is identified. Three industry groups consistently have ETR and ETR’ significantly different from the default industry group in the regression models. Also, using accounting profit as a proxy for firm size, a size effect is identified. The top 20 firms appear to have the lowest ETR, while medium firms appear to have the highest ETR’.
+
+Second, most industries are found to have ETR significantly lower than STR. However, due to the smaller sample size and the larger standard errors of the ETR’ models, only about one-half of the industries have ETR’ significantly lower than STR despite the fact that the estimated ETR’ is lower than the estimated ETR. The magnitudes of permanent and timing differences vary widely across industries.
+
+Finally, the book–tax income gap is found to have narrowed down in the period after the Review of Business Taxation (RBT). Thus, evidence suggests that the tax reform measures following the RBT are effective in reducing the book-tax income gap.
+
+Keywords: Effective tax rate, current effective tax rate, book-tax income gap, Review of Business Taxation
+
+Suggested Citation:
+
+Tran, Alfred and Yu, Yi, Effective Tax Rates of Corporate Australia and the Book-Tax Income Gap (September 1, 2008). Australian Tax Forum, Volume 23, Number 3, 233-268., Available at SSRN: https://ssrn.com/abstract=2708556
+Download This Paper
+ 
+Open PDF in Browser
+7 References
+D Callihan
+Corporate effective tax rates: a synthesis of the literature
+Journal of Accounting Literature , volume 13 , p. 1 - 43 Posted: 1994
+Dirkis , A Ting
+Cataloguing business tax reform seven years on
+Australian Tax Forum , volume 21 , issue 4 , p. 601 - 646 Posted: 2006
+D Fullerton
+Which effective tax rate?
+National Tax Journal , volume 37 , p. 36 - 56 Posted: 1984
+Crossref
+D Fullerton
+The use of effective tax rates in tax policy
+National Tax Journal , volume 39 , p. 283 - 292 Posted: 1986
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+105
+ABSTRACT VIEWS
+1,500
+RANK
+597,018
+7 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

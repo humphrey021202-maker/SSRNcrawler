@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Determinants of Corporate Default: A BMA Approach
+
+Banco de Espana Working Paper No. 1221
+
+22 Pages Posted: 13 Jun 2012
+
+Carlos González-Aguado
+
+Centre for Monetary and Financial Studies (CEMFI)
+
+Enrique Moral-Benito
+
+Banco de España; Charles III University of Madrid
+
+Date Written: June 13, 2012
+
+Abstract
+
+Model uncertainty hampers consensus on the main determinants of corporate default. We employ Bayesian model averaging (BMA) techniques in order to shed light on this issue. Empirical findings suggest that the most robust determinants of corporate default are firm-specific variables such as the ratio of working capital to total assets, the ratio of retained earnings to total assets, the ratio of total liabilities to total assets and the standard deviation of the firm’s stock return. In contrast, aggregate variables do not seem to play a relevant role once firm-specific characteristics (observable and unobservable) are taken into consideration.
+
+Keywords: default probabilities, Bayesian model averaging, credit risk
+
+JEL Classification: G33, C1
+
+Suggested Citation:
+
+González-Aguado, Carlos and Moral-Benito, Enrique, Determinants of Corporate Default: A BMA Approach (June 13, 2012). Banco de Espana Working Paper No. 1221, Available at SSRN: https://ssrn.com/abstract=2083499 or http://dx.doi.org/10.2139/ssrn.2083499
+Download This Paper
+ 
+Open PDF in Browser
+56 References
+Giacomo , Ernesto , Villanueva
+Consumption and initial mortgage conditions: evidence from survey data
+Pablo Hernández De Cos And Enrique Moral- Benito
+Cesar A. Calderon , Enrique Moral-Benito , Luis Servén
+Is Infrastructure Capital Productive? A Dynamic Heterogeneous Approach
+Banco de Espana Working Paper No. 1103 Pages: 34 Posted: 5 Apr 2011
+Download PDF  Add Paper to My Library
+Michael Danquah , Enrique Moral-Benito , Bazoumana Ouattara
+TFP Growth and its Determinants: Nonparametrics and Model Averaging
+Banco de Espana Working Paper No. 1104 Pages: 34 Posted: 6 Apr 2011
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+128
+ABSTRACT VIEWS
+1,823
+RANK
+511,510
+48 Citations
+56 References
+PlumX Metrics
+Related eJournals
+
+Banco de Espana Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Recommended Papers
+
+Default Risk in Equity Returns
+
+By Maria Vassalou and Yuhang Xing
+
+News Related to Future GDP Growth as a Risk Factor in Equity Returns
+
+By Maria Vassalou
+
+News Related to Future GDP Growth as Risk Factors in Equity Returns
+
+By Maria Vassalou
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

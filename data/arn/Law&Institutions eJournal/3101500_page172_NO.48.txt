@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Measuring Executive Personality Using Machine-Learning Algorithms: A New Approach and Audit Fee-Based Validation Tests
+
+Journal of Business Finance and Accounting, Vol. 47, No. 3-4, pp. 519-544, 2020
+
+Posted: 17 Jan 2018 Last revised: 8 May 2020
+
+Karel Hrazdil
+
+Simon Fraser University
+
+Jiri Novak
+
+Institute of Economic Studies, Faculty of Social Sciences, Charles University in Prague, Czech Republic
+
+Rafael Rogo
+
+University of Cambridge - Judge Business School
+
+Christine I. Wiedman
+
+University of Waterloo
+
+Ray Zhang
+
+Simon Fraser University - Beedie School of Business
+
+Date Written: September 9, 2019
+
+Abstract
+
+We present a novel approach for measuring executive personality traits. Relying on recent developments in machine learning and artificial intelligence, we utilize the IBM Watson Personality Insights service to measure executive personalities based on CEOs’ and CFOs’ responses to questions raised by analysts during conference calls. We obtain the Big Five personality traits – openness, conscientiousness, extraversion, agreeableness and neuroticism – based on which we estimate risk tolerance. To validate these traits, we first demonstrate that our risk-tolerance measure varies with existing inherent and behavioural-based measures (gender, age, sensitivity
+of executive compensation to stock return volatility, and executive unexercised-vested options) in predictable ways. Second, we show that variation in firm-year level personality trait measures, including risk tolerance, is largely explained by manager characteristics, as opposed to firm characteristics and firm performance. Finally, we find that executive inherent risk tolerance helps explain the positive relationship between client risk and audit fees documented in the prior literature. Specifically, the effect of CEO risk-tolerance – as an innate personality trait – on audit fees is incremental to the effect of increased risk appetite from equity risk-taking incentives (Vega).
+Measuring executive personality using machine-learning algorithms will thus allow researchers to pursue studies that were previously difficult to conduct.
+
+Keywords: Personality, Big Five, Machine Learning, Risk, Audit Fees
+
+JEL Classification: G41, G30, M12, M42
+
+Suggested Citation:
+
+Hrazdil, Karel and Novak, Jiri and Rogo, Rafael and Wiedman, Christine I. and Zhang, Ray, Measuring Executive Personality Using Machine-Learning Algorithms: A New Approach and Audit Fee-Based Validation Tests (September 9, 2019). Journal of Business Finance and Accounting, Vol. 47, No. 3-4, pp. 519-544, 2020, Available at SSRN: https://ssrn.com/abstract=3101500 or http://dx.doi.org/10.2139/ssrn.3101500
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+3,748
+PlumX Metrics
+Related eJournals
+
+Indiana University Kelley School of Business Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

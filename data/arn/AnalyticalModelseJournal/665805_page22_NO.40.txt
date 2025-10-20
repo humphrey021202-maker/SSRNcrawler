@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Using Brouwer's Continuity Principle to Pick Stocks
+
+Annals of Operation Research 225(1):161-171. DOI: org/10.1007/s10479-013-1404-6
+
+Posted: 13 Feb 2005 Last revised: 11 Mar 2016
+
+Jack Douglas Stecher
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+Mark van Atten
+
+CNRS - SND (CNRS/Paris 4)
+
+Date Written: June 8, 2013
+
+Abstract
+
+This article shows that an apparent puzzle in finance and accounting is resolved by changing from classical to constructive (more specifically, intuitionistic) mathematics. Our position is that it is unproblematic if real-world actors behave inconsistently with nonconstructive mathematical results. Thus the solution to our puzzle lies in a deeper challenge to the standard view of how rational agents reason. The alternative we propose gives refutable predictions that find support in the empirical capital markets literature. Our main tool, intuitionistic mathematics, plays a similar role in the mathematical philosophy literature to that of ambiguity in decision theoretic work.
+
+Keywords: Intuitionism, Rationality, Constructive mathematics, Equity valuation
+
+JEL Classification: M41, G12
+
+Suggested Citation:
+
+Stecher, Jack Douglas and van Atten, Mark, Using Brouwer's Continuity Principle to Pick Stocks (June 8, 2013). Annals of Operation Research 225(1):161-171. DOI: org/10.1007/s10479-013-1404-6, Available at SSRN: https://ssrn.com/abstract=665805 or http://dx.doi.org/10.2139/ssrn.665805
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,571
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

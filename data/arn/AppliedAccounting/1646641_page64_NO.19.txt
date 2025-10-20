@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Intangible Assets Valuation by License Market and Stock Market: Cross-Industry Analysis Based on Royalty Rate and Tobin’s Q
+
+les Nouvelles, June 2011
+
+Posted: 23 Jul 2010 Last revised: 10 Jun 2011
+
+Jack Lu
+
+Intellectual Property Market Advisory Partners(IPMAP), LLC
+
+Date Written: July 5, 2010
+
+Abstract
+
+There has been no previous research on the link between license market and stock market. Are the two markets integrated or coupled such that the valuation of the same portfolio of intangible assets is consistent cross market? This study tries to fill the research gap. Based on the data of royalty rate and Tobin’s Q across 14 industries, the analysis demonstrates that the two markets are partially integrated, and that the valuations of intangible assets by the two markets are highly related, after a dummy variable is introduced to control two outlying sectors.
+
+This paper moves to test whether the partial integration between the two markets is caused by some random factors, or actually reflects more fundamental differences between the pricing behaviors of the markets. Two sets of regression analysis are conducted to associate royalty rate and Tobin’s Q with three fundamental indicators including R&D intensity, the relative size of intangible assets book value, and price markup. Several important conclusions are reached from the analysis. First and foremost, the stock of intangible assets carried on book is found to contribute significantly to royalty rate pricing in license market, but essentially irrelevant in stock market valuation. Most likely, stock market actually discounts the book value of intangible assets.
+
+Second, stock market values R&D intensity or the flow of the R&D efforts significantly, and consistently across all industries studied. By contrast, license market positively prices R&D intensity only when the book value of intangible assets is included in the analysis. As a result, the book value of recognized intangible assets becomes the most important discriminator that differentiates the pricing behaviors of the two markets. This manifests that while both license market and stock market are forward-looking, the pricing in license market is backward-looking and path-dependent as well, i.e., it does impound the information embedded in the accumulated stock of intangible assets carried on book. Finally, three valuation models for license market are developed, and the one with the highest explanatory power indicates that royalty pricing is mostly determined by the book value of intangible assets and price markup.
+
+Keywords: Intangible assets, valuation, license market, stock market, pricing behaviors, valuation models, royalty rate, Tobin’s Q, R&D intensity, book value of intangible assets, price markup, regression analysis
+
+JEL Classification: O31, O32, O34, D45, L11, G19
+
+Suggested Citation:
+
+Lu, Jack, Intangible Assets Valuation by License Market and Stock Market: Cross-Industry Analysis Based on Royalty Rate and Tobin’s Q (July 5, 2010). les Nouvelles, June 2011, Available at SSRN: https://ssrn.com/abstract=1646641
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,436
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

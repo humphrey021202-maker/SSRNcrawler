@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Superstar Firms Face Lower Tax Burdens?
+
+Kenan Institute of Private Enterprise Research Paper No. 4337736
+
+55 Pages Posted: 26 Jan 2023 Last revised: 7 Feb 2024
+
+John Gallemore
+
+University of North Carolina Kenan-Flagler Business School
+
+Edward L. Maydew
+
+University of North Carolina at Chapel Hill
+
+William Yoder
+
+University of North Carolina (UNC) at Chapel Hill - Kenan-Flagler Business School
+
+Date Written: June 26, 2025
+
+Abstract
+
+Influential research finds that economic activity is increasingly concentrated in large, highly profitable "superstar firms." An important yet unresolved policy question is whether superstar firms face tax burdens—taxes paid relative to pre-tax economic income—that are lower than that of other firms, which could contribute to their entrenchment. Acting on such concerns, policymakers are increasingly enacting tax increases that apply only to the largest, most profitable firms. We investigate whether superstar firms do indeed face lower tax burdens. Examining traditional cash effective tax rates (ETRs), we find some evidence that superstar firms face lower tax burdens. However, as measures of tax burdens, traditional ETRs are distorted by the financial accounting treatment of internally generated intangible assets. When employing an intangible-adjusted effective tax rate (IETR) measure that better accounts for internally generated intangibles, we find that the gap between superstar firms’ tax burdens and those faced by other firms narrows considerably, becoming statistically indistinguishable from zero in many specifications.
+
+Keywords: superstar firms, corporate taxes, intangible assets
+
+JEL Classification: H25, H26, M21, L22, L41
+
+Suggested Citation:
+
+Gallemore, John and Maydew, Edward L. and Yoder, William, Do Superstar Firms Face Lower Tax Burdens? (June 26, 2025). Kenan Institute of Private Enterprise Research Paper No. 4337736, Available at SSRN: https://ssrn.com/abstract=4337736 or http://dx.doi.org/10.2139/ssrn.4337736
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+Maire ; Grullon
+Despite the policymaker concern over superstar firms' taxes, there is little empirical evidence on the extent, if any, to which superstar firms have lower tax burdens. To provide such evidence, we must operationalize the concept of a superstar firm
+Ayyagari, Demirgüç-Kunt, and Maksimovic Posted: 2017
+France Moves to Tax Tech Giants, Stoking Fight With White House
+The New York Times Posted: 2019-07-11
+D Andrews , C Criscuolo , P N Gal
+Frontier firms, technology diffusion and public policy: Micro evidence from OECD countries Posted: 2015
+D Autor , D Dorn , L F Katz , C Patterson , J Van Reenen
+The fall of the labor share and the rise of superstar firms
+The Quarterly Journal of Economics , volume 135 , issue 2 , p. 645 - 709 Posted: 2020
+Load more
+3 Citations
+Stephanie F. Cheng , Dushyantkumar Vyas , Regina Wittenberg-Moerman , Wuyang Zhao
+Exposure to superstar firms and financial distress
+Review of Accounting Studies , volume 30 , issue 2 , p. 1355 Posted: 2025
+Crossref
+Yifan Li , Zhuang Miao
+The rise of superstar firms in the United States: The role of global sourcing
+Journal of Comparative Economics , volume 52 , issue 1 , p. 113 Posted: 2024
+Crossref
+Jitamitra Behera , Ruchi Sharma
+Understanding superstar firms’ phenomenon
+Competitiveness Review: An International Business Journal Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+518
+ABSTRACT VIEWS
+2,176
+RANK
+124,243
+3 Citations
+63 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

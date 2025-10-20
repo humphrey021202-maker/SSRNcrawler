@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Probability of Sufficiency of the Risk Margin for Life Companies Under IFRS 17
+
+International Congress of Actuaries 2018, Berlin
+
+18 Pages Posted: 21 Jun 2018 Last revised: 14 Oct 2018
+
+Frederic Chevallier
+
+Credit Foncier de France
+
+Eric Dal Moro
+
+Baloise Versicherung
+
+Yuriy Krvavych
+
+Guy Carpenter
+
+Igor Rudenko
+
+Russian Guild of Actuaries
+
+Date Written: April 3, 2018
+
+Abstract
+
+With the upcoming IFRS 17 regime, significant changes for the valuation of insurance liabilities can be expected. Insurers will be required to evaluate their insurance liabilities on a risk-adjusted basis to allow for uncertainty inherent in cash flows that arise from the liability of insurance contracts. In addition to the changes in estimating insurance liabilities as compared to IFRS 4, there is a specific requirement of IFRS 17 to disclose “the confidence level used to determine the risk adjustment for non-financial risk. If the entity uses a technique other than the confidence level technique for determining the risk adjustment for non-financial risk, it shall disclose the technique used and the confidence level corresponding to the results of that technique” (extract from IFRS 17).
+
+Given that there is no specific guidance on the calculation of confidence level when using a technique other than the confidence level (e.g. Expected Shortfall or Cost of Capital), the purpose of this article is to propose a method that can be applied to life insurance contract portfolios to estimate the confidence level as required. The proposed method will be using only the basic characteristics (e.g. CoV and relative Skewness) of the main life insurance risk drivers without resorting to heavy modelling/simulations. In order to achieve this goal, this article proposes to model the two main risks present in a life insurance portfolio: • the interest rate related risk based on duration/convexity models and interest rate models, assuming that the company uses a replicating portfolio approach for modelling its liability cash-flows; • the biometric risk based on parametric models on which a few issues need to be resolved: o The calibration of the model on an ultimate view starting from a one-year view (e.g. when using the solvency 2 standard formula). o The need to separately model the different biometric risks (mortality, longevity, morbidity, etc.).
+
+On the basis of these models, it is possible to estimate the characteristics below for the two risks (biometric and interest rate): • the level of variability measured by Coefficient of Variation (CoV); • the degree of Skewness per unit of CoV; and • the degree of Kurtosis per unit of CoV2.
+
+The resulting distributions will then be aggregated using the Fleishman polynomials. As a result, the approximation formulae as described in Dal Moro/Krvavych (2017) can be applied for the diversified risk margin at the portfolio level. Using these formulae, the confidence level is easily estimated.
+
+Keywords: IFRS 17, Confidence Level, Cost of Capital, Probability of Sufficiency, Duration, Convexity, Interest Rate, Biometric Risk, Replicating Portfolio
+
+JEL Classification: G22, E22
+
+Suggested Citation:
+
+Chevallier, Frederic and Dal Moro, Eric and Krvavych, Yuriy and Rudenko, Igor, Probability of Sufficiency of the Risk Margin for Life Companies Under IFRS 17 (April 3, 2018). International Congress of Actuaries 2018, Berlin, Available at SSRN: https://ssrn.com/abstract=3192502
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+989
+ABSTRACT VIEWS
+3,811
+RANK
+53,195
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

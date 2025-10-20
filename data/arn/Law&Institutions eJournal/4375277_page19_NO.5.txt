@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Proactive Investor Outreach: Evidence from Proxy Fights and Board Interlocks
+
+54 Pages Posted: 2 Jan 2025 Last revised: 29 Dec 2024
+
+Eunjee Kim
+
+Texas A&M University - Mays Business School
+
+Mani Sethuraman
+
+Cornell University - Department of Accounting; Cornell SC Johnson College of Business
+
+Shuran Zhang
+
+Hong Kong Polytechnic University
+
+Date Written: December 23, 2024
+
+Abstract
+
+This paper examines whether firms increase investor relations (IR) activities when their directors experience proxy fights at other firms. Using proxy fights at a target firm as a laboratory, we find that interlocked firms that share directors with the target firm increase IR activities following proxy fights, compared to control firms without such board connections. The effect is greater when the target firm loses the proxy fight. Moreover, the effect is stronger for interlocked firms that are held more by long-term institutional investors, have fewer anti-takeover provisions to combat activism, or exhibit lower pre-existing levels of IR activities. The increase in IR activities at interlocked firms does not increase the information delivered to shareholders but reduces the likelihood of proxy fights at these firms. Overall, our findings suggest that firms proactively reassess the importance of IR in ensuring long-term shareholder relationships and adjust their IR efforts to prevent shareholder activism.
+
+Keywords: investor relations; investor outreach; directors; shareholder engagement; proxy contests; board interlocks; staggered difference-in-differences
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Kim, Eunjee and Sethuraman, Mani and Zhang, Shuran, Proactive Investor Outreach: Evidence from Proxy Fights and Board Interlocks (December 23, 2024). Available at SSRN: https://ssrn.com/abstract=4375277 or http://dx.doi.org/10.2139/ssrn.4375277
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+A C Baker , D F Larcker , C C Wang
+How much should we trust staggered difference-in-differences estimates
+Journal of Financial Economics , volume 144 , issue 2 , p. 370 - 395 Posted: 2022
+L Bebchuk , A Cohen , A Ferrell
+What matters in corporate governance?
+The Review of Financial Studies , volume 22 , issue 2 , p. 783 - 827 Posted: 2009
+G Bernile , V Bhagwat , P R Rau
+What doesn't kill you will only make you more risk-loving: Early-life disasters and CEO behavior
+Journal of Finance , volume 72 , issue 1 , p. 167 - 206 Posted: 2017
+J Bizjak , M Lemmon , R Whitby
+Option backdating and board interlocks
+The Review of Financial Studies , volume 22 , issue 11 , p. 4821 - 4847 Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+200
+ABSTRACT VIEWS
+1,092
+RANK
+347,387
+40 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

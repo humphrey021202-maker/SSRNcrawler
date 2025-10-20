@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Vicarious Liability for Managerial Myopia
+
+U of Texas Law, Law and Econ Research Paper No. E559
+
+73 Pages Posted: 7 Aug 2015
+
+James C. Spindler
+
+University of Texas School of Law; McCombs School of Business, University of Texas at Austin
+
+There are 3 versions of this paper
+
+Date Written: August 5, 2015
+
+Abstract
+
+This paper models a shareholder's choice of managerial compensation to demonstrate that vicarious liability (i.e., firm-level fines) can optimally deter managerial misreporting. Shareholders choose compensation in light of the manager's control over effort and disclosure, as well as the degree of agency cost (modeled as the manager's relatively shorter time horizon, or myopia). Where agency costs and/or fines are small, shareholders award equity compensation, leading to both high effort and misreporting. Where expected fines are set at a function of the misreporting externality, shareholders optimally choose whether or not to award equity and induce effort/misreporting. Reforms aimed at decreasing agency costs (such as those promoting long term compensation) may actually reduce social welfare where fines are not set at the externality level: shareholders will award equity when they, socially, should not. Conversely, reducing misreporting by increasing fines arbitrarily may reduce social welfare, as shareholders will fail to award equity when it is optimal to do so.
+
+Keywords: Executive compensation, corporate governance, misreporting, fraud, securities law, moral hazard
+
+JEL Classification: D21, D82, G30, K22, M52
+
+Suggested Citation:
+
+Spindler, James C., Vicarious Liability for Managerial Myopia (August 5, 2015). U of Texas Law, Law and Econ Research Paper No. E559, Available at SSRN: https://ssrn.com/abstract=2640172 or http://dx.doi.org/10.2139/ssrn.2640172
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+V Viral , Kose Acharya , Rangarahan K John , Sundaram
+On the Optimality of Resetting Executive Stock Options
+Journal of Financial Economics , volume 57 , p. 65 - 101 Posted: 2000
+Janet Alexander
+Do the Merits Matter? A Study of Settlements in Securities Class Actions
+43 Stanford Law Review , p. 297 - 598 Posted: 1992
+Crossref
+Janet Alexander
+Rethinking Damages in Securities Class Actions
+48 Stanford L. Rev Posted: 1996
+Crossref
+Jennifer Arlen
+The Potentially Perverse E¤ects of Corporate Criminal Liability
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+125
+ABSTRACT VIEWS
+1,972
+RANK
+265,489
+53 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

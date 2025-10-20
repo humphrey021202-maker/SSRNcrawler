@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Blockchain-based Life Cycle Assessment System for ESG Reporting
+
+52 Pages Posted: 5 Jun 2022
+
+Lanxin Jiang
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+Yu Gu
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+Wenjun Yu
+
+Shengang Securities Co., Ltd.
+
+Jun Dai
+
+Michigan Technological University
+
+Date Written: May 28, 2022
+
+Abstract
+
+With the increasing popularity of Environmental, Social, and Governance (ESG) reporting, doubts about the reliability and completeness of ESG disclosures also grow. Those concerns may be alleviated by Life Cycle Assessment (LCA), a widely used approach for a complete and comprehensive evaluation of environmental impacts. However, LCA is limited in the areas of reliable data collection and management. Blockchain can solve this problem by reliably storing and distributing data from various sources without tampering via its decentralized and secure nature. This study aims to explore the influence of LCA and blockchain on ESG reporting. We propose a blockchain-based LCA system and demonstrate its potential applications using data regarding Tesla’s electric vehicles. The system automatically cross-validates ESG disclosures from companies of an entire value chain and generates an integrated report to present overall ESG performance. Our results shed light on utilizing emerging technologies to enable reliable, complete, and accurate ESG reporting.
+
+Keywords: ESG, Life Cycle Assessment (LCA), blockchain, smart contract, IoT
+
+Suggested Citation:
+
+Jiang, Lanxin and Gu, Yu and Yu, Wenjun and Dai, Jun, Blockchain-based Life Cycle Assessment System for ESG Reporting (May 28, 2022). Available at SSRN: https://ssrn.com/abstract=4121907 or http://dx.doi.org/10.2139/ssrn.4121907
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+S&P 500 ESG Index on Lack of Low Carbon Strategy, Controversy Risk -ESG Today 3 Source
+Current non-financial reporting formats and practices
+European financial reporting advisory group website Posted: 2021
+Blockchain here can be considered as a kind of distributed database that can avoid the conflicts when multiple modifications are made simultaneously by different computers in the distributed database system
+economytests/100890366?utm_campaign=abc_news_web&utm_content=link&utm_medium= content_shared&utm_source=abc_news_web 11 RPA is a form of business process automation technology based on metaphorical software robots operating on the user interface of other computer systems in the way a human would do (Van der Aalst et al Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,689
+ABSTRACT VIEWS
+4,589
+RANK
+24,207
+8 Citations
+66 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

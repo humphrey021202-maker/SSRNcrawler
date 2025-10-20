@@ -1,0 +1,151 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring Qualitative Information in Capital Markets Research
+
+39 Pages Posted: 9 Sep 2009
+
+Elaine Henry
+
+Stevens Institute of Technology - School of Business
+
+Andrew J. Leone
+
+Northwestern University
+
+Date Written: April 2009
+
+Abstract
+
+A growing stream of research in accounting and finance tests the extent to which the tone of financial disclosure narrative affects security prices, over and above the disclosed financial performance. These studies measure tone by counting the relative frequency of positive versus negative words in a given disclosure (e.g., earnings press releases). Critical to the analysis is the list of words deemed to be positive or negative. Most studies use general wordlists (GI or Diction) rather than wordlists that are specific to the domain of financial disclosure. General wordlists likely omit words that would be considered positive or negative in the context of financial disclosure and include words that would not. Application of general wordlists to financial disclosure also gives rise to problems with polysemy. For example, the word 'division' is considered a negative word in the GI wordlist, but that word is commonly used in financial disclosure to describe a segment of a company and is thus neither negative nor positive in a domain-specific context. In this study, we compare the predictive validity of these commonly-used wordlists to a wordlist developed specifically for the context of financial disclosure. Using a sample of over 15,000 earnings press releases, we find that the context-specific wordlist developed by Henry (2006, 2008) is more powerful than the general wordlists used in past research. Our findings suggest that capital markets researchers will benefit by using the domain-specific wordlist in the context of financial disclosure. These results will help to establish a firm foundation for research on qualitative information in financial disclosure.
+
+Suggested Citation:
+
+Henry, Elaine and Leone, Andrew J., Measuring Qualitative Information in Capital Markets Research (April 2009). Available at SSRN: https://ssrn.com/abstract=1470807 or http://dx.doi.org/10.2139/ssrn.1470807
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+E Abrahamson , E Amir
+The information content of the president's letter to shareholders
+Finance & Accounting , volume 23 , issue 8 , p. 1157 - 1182 Posted: 1996
+Crossref
+B Berelson
+Content Analysis in Communication Research Posted: 1952
+M Alpert , S Rosenberg , E Pouget , R Shaw
+Prosody and lexical accuracy in flat affect schizophrenia
+Psychiatry Research , volume 97 , issue jou_issue[1].xmlText , p. 107 - 118 Posted: 2000
+Crossref
+M Bligh , G D Hess
+The power of leading subtly: Alan Greenspan, rhetorical leadership, and monetary policy
+The Leadership Quarterly , volume 18 , issue 2 , p. 87 - 104 Posted: 2007
+Crossref
+Load more
+28 Citations
+Dawn Matsumoto , Maarten Pronk , Erik Roelofsen
+What Makes Conference Calls Useful? The Information Content of Managers' Presentations and Analysts' Discussion Sessions
+The Accounting Review , volume 86 , issue 4 , p. 1383 Posted: 2011
+Crossref
+María Rosario Babío Arcay , Oscar Suárez Fernández , Rosario Vidal Lopo
+Auditoría, comités de auditoría e neutralidade na información narrativa
+Revista Galega de Economía , volume 22 , issue 1 Posted: 1970
+Crossref
+Ting Sun
+The Incremental Informativeness of the Sentiment of Conference Calls for Internal Control Material Weaknesses
+Journal of Emerging Technologies in Accounting , volume 15 , issue 1 , p. 11 Posted: 2018
+Crossref
+Islam Al Qudah , Fethi A. Rabhi
+Enterprise Applications, Markets and Services in the Finance Industry
+, volume 345 , p. 101 Posted: 2019
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,785
+ABSTRACT VIEWS
+7,376
+RANK
+22,254
+28 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Giving Content to Investor Sentiment: The Role of Media in the Stock Market
+
+By Paul C. Tetlock
+
+More than Words: Quantifying Language to Measure Firms' Fundamentals
+
+By Paul C. Tetlock, Maytal Saar-tsechansky, ...
+
+Is All that Talk Just Noise? The Information Content of Internet Stock Message Boards
+
+By Murray Z. Frank and Werner Antweiler
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

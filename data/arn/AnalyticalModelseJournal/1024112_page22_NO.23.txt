@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cost Based Transfer Pricing
+
+Review of Accounting Studies, Vol. 16, No. 2, Forthcoming 2011
+
+41 Pages Posted: 24 Oct 2007 Last revised: 11 May 2010
+
+Thomas Pfeiffer
+
+University of Vienna - Accounting and Control
+
+Ulf Schiller
+
+University of Basel
+
+Joachim Wagner
+
+University of Vienna - Institute of Business Administration
+
+Date Written: October 7, 2008
+
+Abstract
+
+This paper compares the performance of alternative cost-based transfer pricing methods. We adopt an incomplete contracting framework with asymmetric information at the trading stage. Transfer pricing guides intra-company trade and provides incentives for value-enhancing specific investments. We compare actual-cost transfer prices that include a markup over marginal costs with standard-cost transfer prices that are determined either by the central office ex-ante (centralized standard-cost transfer pricing) or by the supplying division at the trading stage (reported standard-cost transfer pricing). For the actual-cost methods, we show that markups based on the joint contribution margin (contribution-margin transfer pricing) dominate purely additive markups (cost-plus transfer pricing). We obtain the following results. (i) Centralized standard-cost transfer pricing dominates the other methods if the central office and the divisions ex-ante face low cost uncertainty. (ii) The actual-cost methods dominate the other methods if the central office and the divisions ex-ante face high cost uncertainty and later, at the trading stage, the buying division receives sufficient cost information. (iii) Reported standard-cost transfer pricing dominates the other methods if the central office and the divisions ex-ante face high cost uncertainty, and the buyer has insufficient cost information at the trading stage.
+
+Keywords: Transfer Pricing, Specific Investments, Costs
+
+JEL Classification: D24, D82, L23, M41
+
+Suggested Citation:
+
+Pfeiffer, Thomas and Schiller, Ulf and Wagner, Joachim, Cost Based Transfer Pricing (October 7, 2008). Review of Accounting Studies, Vol. 16, No. 2, Forthcoming 2011, Available at SSRN: https://ssrn.com/abstract=1024112 or http://dx.doi.org/10.2139/ssrn.1024112
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+A H Amershi , P Cheng
+Intrafirm resource allocation: The economics of transfer pricing and cost allocation in accounting
+Contemporary Accounting Research , volume 7 , p. 61 - 99 Posted: 1990
+Crossref
+R M Anctil , S Dutta
+Negotiated transfer pricing and divisional vs. firmwide performance evaluation
+Accounting Review , volume 74 , p. 87 - 104 Posted: 1999
+Crossref
+R N Anthony , V Govindarajan
+Management control systems Posted: 2007
+A A Atkinson , R D Banker , R S Kaplan , S M Young
+Management accounting Posted: 2001
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,475
+ABSTRACT VIEWS
+14,149
+RANK
+13,174
+8 Citations
+37 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+Ownership, Incentives, and the Hold-Up Problem
+
+By Tim Baldenius
+
+Ownership, Incentives, and the Hold-Up Problem
+
+By Tim Baldenius
+
+Internal Pricing
+
+By Tim Baldenius
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On Double-Entry Bookkeeping: The Mathematical Treatment
+
+21 Pages Posted: 9 Jul 2014
+
+David Ellerman
+
+Faculty of Social Sciences, University of Ljubljana
+
+Date Written: July 7, 2014
+
+Abstract
+
+Double-entry bookkeeping (DEB) implicitly uses a specific mathematical construction, the group of differences using pairs of unsigned numbers ("T-accounts"). That construction was only formulated abstractly in mathematics in the 19th century — even though DEB had been used in the business world for over five centuries. Yet the connection between DEB and the group of differences (here called the "Pacioli group") is still largely unknown both in mathematics and accounting. The precise mathematical treatment of DEB allows clarity on certain conceptual questions and it immediately yields the generalization of the double-entry method to multi-dimensional vectors typically representing the different types of property involved in an enterprise or household.
+
+Keywords: double-entry method, group of differences, Pacioli group, T-accounts, multi-dimensional double-entry bookkeeping
+
+JEL Classification: M4
+
+Suggested Citation:
+
+Ellerman, David, On Double-Entry Bookkeeping: The Mathematical Treatment (July 7, 2014). Available at SSRN: https://ssrn.com/abstract=2463442 or http://dx.doi.org/10.2139/ssrn.2463442
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+R N Anthony
+Management Accounting Posted: 1970
+Crossref
+A Cayley
+Presidential Address to the British Association for the Advancement of Science
+The Collected Mathematical Papers of Arthur Cayley , volume jou_vol[1].xmlText Posted: 1896
+A Cayley
+The Principles of Book-keeping by Double Entry Posted: 1894
+A Charnes , C Colantoni , W W Cooper
+A futurological justification for historical cost and multidimensional accounting
+Accounting, Organizations, and Society , volume 1 , issue 4 , p. 315 - 337 Posted: 1976
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+253
+ABSTRACT VIEWS
+1,494
+RANK
+276,301
+2 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Accounting Education eJournal
+
+Follow
+
+Operations Research eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

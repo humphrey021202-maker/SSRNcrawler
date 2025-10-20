@@ -1,0 +1,151 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Repairing Organizational Legitimacy Following Information Technology (IT) Material Weaknesses: Executive Turnover, IT Expertise, and IT System Upgrades
+
+Journal of Information Systems, Forthcoming
+
+59 Pages Posted: 2 Feb 2016
+
+Jacob Haislip
+
+Texas Tech University
+
+Adi Masli
+
+University of Arkansas - Sam M. Walton College of Business
+
+Vernon J. Richardson
+
+University of Arkansas at Fayetteville
+
+Juan Manuel Sanchez
+
+University of Texas at San Antonio
+
+Date Written: September 2015
+
+Abstract
+
+Since Information Technology (IT)-based internal controls are pivotal in providing access to, and security of, financial records, we argue that an IT-related material weakness (ITMW) is a significant threat to organizational legitimacy. Prior research suggests that firms work to repair legitimacy by disassociation with executives blamed for the deficiency and the establishment of a monitoring mechanism to ensure the problem is addressed (Suchman, 1995). As a test of disassociation, we find that relative to a propensity-score-matched sample of nonITMW firms, ITMW firms experience higher CEO, CFO, and director turnover. As a test of the establishment of a monitoring mechanism to repair organizational legitimacy, we find that ITMW firms hire CEOs, CFOs, and directors with higher levels of IT expertise, and make significant IT system upgrades. We find evidence that ITMW firms remediate deficiencies in a more timely fashion when they appoint a new CFO with IT expertise or upgrade their financial reporting system. Collectively, our results suggest that firms make significant monitoring changes to re-establish organizational legitimacy after receiving an ITMW.
+
+Keywords: CEO, CFO, Director, turnover, internal control material weakness, corporate governance, information technology
+
+JEL Classification: G30, J53, M4, M12, M41, O32, O33
+
+Suggested Citation:
+
+Haislip, Jacob and Masli, Adi and Richardson, Vernon J. and Sanchez, Juan Manuel, Repairing Organizational Legitimacy Following Information Technology (IT) Material Weaknesses: Executive Turnover, IT Expertise, and IT System Upgrades (September 2015). Journal of Information Systems, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2726535
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+K Kobelsky , V J Richardson , R E Smith , R W Zmud
+Determinants and consequences of firm information technology budgets
+The Accounting Review , volume 83 , issue 4 , p. 957 - 995 Posted: 2008
+Crossref
+Y Y Kor , C Sundaramurthy
+Experience-based human capital and social capital of outside directors
+Journal of Management , volume 35 , issue 4 , p. 981 - 1006 Posted: 2009
+Crossref
+Kpmg
+Audit Committee Roundtable Report: Transformational Implications of Technology Pushing IT Higher on Audit Committee, Board Agendas Posted: 2011
+Crossref
+A Lawrence , M Minutti-Meza , P Zhang
+Can Big 4 versus non-Big 4 differences in audit-quality proxies be attributed to client characteristics?
+The Accounting Review , volume 86 , issue 1 , p. 259 - 286 Posted: 2011
+Crossref
+Load more
+6 Citations
+Michelle Draeger , Bradley Lawson , Jaime J. Schmidt
+<p>Do audit committees manage legitimacy through increased voluntary reporting? Evidence from a large-scale textual analysis</p>
+55 Pages · Posted: 16 Feb 2018 · Last revised: 30 Aug 2025 · Downloads: 514
+Download PDF  Add Paper to My Library
+Gary Fleischman , Mary B. Curtis , Sean Valentine , Partha S. Mohapatra
+AIS Security Investment to Mitigate Hacking Risk: The Role of Attitudes, Perceived Norms, and Outcomes
+43 Pages · Posted: 24 Aug 2019 · Downloads: 143
+Download PDF  Add Paper to My Library
+Dongjoon Choi , Hansol Lee , Ho‐Young Lee , Hyun-Young Park
+The Association between Human Resource Investment in IT Controls over Financial Reporting and Investment Efficiency
+53 Pages · Posted: 7 Sep 2021 · Downloads: 112
+Download PDF  Add Paper to My Library
+Sergeja Slapničar , Micheal Axelsen , Ivano Bongiovanni , David Stockdale
+A Pathway Model to Five Lines of Accountability in Cybersecurity Governance
+54 Pages · Posted: 4 Aug 2022 · Last revised: 4 Oct 2023 · Downloads: 178
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+196
+ABSTRACT VIEWS
+2,327
+RANK
+354,044
+6 Citations
+45 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

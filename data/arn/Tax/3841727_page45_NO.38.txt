@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Tax Benefits of Direct Indexing, and How They Are Affected by the Biden Tax Plan
+
+The Journal of Beta Investment Strategies, Direct Indexing Special Issue 2022, 13 (2) 28-51; DOI: https://doi.org/10.3905/jbis.2022.1.001
+
+59 Pages Posted: 10 May 2021 Last revised: 24 May 2022
+
+Nathan Sosner
+
+AQR Capital Management, LLC
+
+Michael Gromis
+
+AQR Capital Management, LLC
+
+Stanley Krasner
+
+AQR Capital Management, LLC
+
+Date Written: May 24, 2022
+
+Abstract
+
+Direct-indexing strategies realize tax benefits by harvesting losses on individual stock positions. Some investors might benefit from this powerful tool for growing after-tax wealth significantly more than others. An important determinant of the tax benefits of direct-indexing strategies is the tax rates applicable to gains from other investments. We argue that high-net-worth investors with allocations to hedge funds and derivatives are the most likely investors to have systematic short-term capital gains and, therefore, derive the highest tax benefits from direct-indexing strategies. We use a long history of U.S. stock returns to estimate the level of tax benefits offered by direct-indexing strategies under different tax rate assumptions, including the proposed Biden Tax Plan. We show that investors, even those without short-term capital gains in their portfolios, can significantly increase the tax benefits of direct indexing by regular capital contributions and charitable giving of appreciated stocks. A character-deferral decomposition of the tax benefits helps explain what drives this result.
+
+Keywords: Direct Indexing, Loss Harvesting, Tax Benefits, High-Net-Worth Investors, Charitable Giving, American Families Plan, Biden Tax Plan
+
+JEL Classification: G11, H24, K34
+
+Suggested Citation:
+
+Sosner, Nathan and Gromis, Michael and Krasner, Stanley, The Tax Benefits of Direct Indexing, and How They Are Affected by the Biden Tax Plan (May 24, 2022). The Journal of Beta Investment Strategies, Direct Indexing Special Issue 2022, 13 (2) 28-51; DOI: https://doi.org/10.3905/jbis.2022.1.001, Available at SSRN: https://ssrn.com/abstract=3841727 or http://dx.doi.org/10.2139/ssrn.3841727
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+See , Stein And Narasimhan ; Stein , Vadlamudi , Bouchey ; Bouchey , Sireklove Santodomingo , Brunel Bouchey , Li
+Berkin and Ye Posted: 1999
+See , Stein And Narasimhan ; Bouchey , Sireklove Santodomingo , Brunel Bouchey , Li
+Israel and Moskowitz Posted: 1999
+See , Narasimhan Stein
+Posted: 1999
+Sosner Sialm
+show that this effect does not hold for long-short strategies, for which tax benefits increase, rather than decline, with the level of market return. Sialm and Sosner also explain the reason for this inverted relationship Posted: 2018
+Load more
+1 Citations
+Luke Smith , Mayukh Mukherjee
+Long-Run Expectations for S&P 500 Direct Indexing with Tax Loss Harvesting
+13 Pages · Posted: 7 Dec 2023 · Downloads: 86
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,089
+ABSTRACT VIEWS
+3,379
+RANK
+46,389
+1 Citations
+43 References
+PlumX Metrics
+Related eJournals
+
+Wealth Management eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

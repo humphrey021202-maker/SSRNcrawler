@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Purchase - $8
+CEPR Subscribers Download
+ Add Paper to My Library
+Share:    
+Using Social Media to Identify the Effects of Congressional Viewpoints on Asset Prices
+
+CEPR Discussion Paper No. DP16034
+
+57 Pages Posted: 14 May 2021 Last revised: 4 Feb 2022
+
+Francesco Bianchi
+
+Johns Hopkins University; NBER; CEPR
+
+Roberto Gomez Cram
+
+London Business School
+
+Howard Kung
+
+London Business School; Centre for Economic Policy Research (CEPR)
+
+There are 3 versions of this paper
+
+Date Written: April 2021
+
+Abstract
+
+This paper examines the extent to which individual politicians affect asset prices using a high-frequency identification approach. We exploit the regular flow of viewpoints contained in a large volume of tweets from members of US Congress. Congressional tweets targeting individual firms are collected and classified based on their tone. Supportive (critical) tweets increase (decrease) stock prices of the targeted firm in minutes around the tweet. The price response persists for several days, during which analysts revise their forecasts about the firm cash flows. Selected politician tweets linked to legislation affect the stock prices of firms in the same industry as the targeted firm. The timeline of politician viewpoints within a particular bill exhibits surges in relevant news that predict roll call votes months before the signing of the bill. We highlight how the social media accounts of politicians are a valuable source of political news.
+
+Keywords: Asset Pricing, High-Frequency Identification, partisanship, social media
+
+JEL Classification: D72, G14
+
+Suggested Citation:
+
+Bianchi, Francesco and Gomez Cram, Roberto and Kung, Howard, Using Social Media to Identify the Effects of Congressional Viewpoints on Asset Prices (April 2021). CEPR Discussion Paper No. DP16034, Available at SSRN: https://ssrn.com/abstract=3846121
+Purchase - $8
+CEPR Subscribers Download
+36 References
+J M Addoum , A Kumar
+Political sentiment and predictable returns
+The Review of Financial Studies , volume 29 , p. 3471 - 3518 Posted: 2016
+M J Arteaga-Garavito , M Croce , P Farroni , I Wolfskeil
+When the markets get co.v.i.d: Contagion, viruses, and information diffusion Posted: 2021
+A J Auerbach
+Measuring the effects of corporate tax cuts
+Journal of Economic Perspectives , volume 32 , p. 97 - 120 Posted: 2018
+F Belo , V D Gala , J Li
+Government spending, political cycles, and the cross section of stock returns
+Journal of Financial Economics , volume 107 , p. 305 - 324 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2
+ABSTRACT VIEWS
+575
+10 Citations
+36 References
+PlumX Metrics
+Related eJournals
+
+CEPR Discussion Paper Series
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+
+
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

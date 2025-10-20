@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Decomposition of a Certain Cash Flow Stream: Systemic Value Added and Net Final Value
+
+Bulletin of Economic Research, Vol. 55, No. 2, pp.149-176, 2003
+
+32 Pages Posted: 1 Aug 2009
+
+Carlo Alberto Magni
+
+Università degli studi di Modena e Reggio Emilia (UNIMORE) - School of Doctorate E4E (Engineering for Economics-Economics for Engineering)
+
+Date Written: August 31, 2000
+
+Abstract
+
+This paper proposes a method for evaluating a project under certainty by means of a systemic outlook, which borrows from accounting the way of representing economic facts while replacing accounting values with cash values. The investor's net worth is regarded as a system whose structure changes over time. On this basis, a profitability index is presented, here named Systemic Value Added (SVA), which lends itself to a periodic decomposition. While as an overall index the Systemic Value Added coincides with the Net Final Value (NFV) of an investment, the systemic partition of a SVA is shown to differ from the Net Present Value (NPV) decomposition model proposed by Peccati (1987, 1992), which in turn bears a strong resemblance to Stewart's (1991) EVA model. The different assumptions the three models rely on are analysed: Some inconsistencies arise in the NFV-based approach, which give rise to Peccati's and Stewart's model, but they can be healed (only in a certain sense) by re-shaping the model and taking account of the systemic approach. To this end, the introduction of a shadow project is needed which enables us to avoid compounding. An interesting result is that we can decompose the SVA of a project by applying Peccati's argument to its shadow, or which is the same, by computing the shadow project's Economic Value Added. The paper then generalizes the approach allowing for a portfolio of projects, multiple debts and multiple synchronic opportunity costs of capital, for which a tetra-dimensional decomposition is easily obtained.
+
+Keywords: residual income, systemic value added, decomposition
+
+JEL Classification: M41, G11, G12, G31
+
+Suggested Citation:
+
+Magni, Carlo Alberto, Decomposition of a Certain Cash Flow Stream: Systemic Value Added and Net Final Value (August 31, 2000). Bulletin of Economic Research, Vol. 55, No. 2, pp.149-176, 2003 , Available at SSRN: https://ssrn.com/abstract=1440943
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+S Gronchi
+On Investment Criteria Based on the Internal Rate of Return
+Oxford Economic Papers , volume 38 , p. 174 - 80 Posted: 1986-05
+Crossref
+J Hirshleifer
+On the Theory of Optimal Investment Decision
+Journal of Political Economy , volume 66 , p. 329 - 52 Posted: 1958-08
+Crossref
+E Luciano , L Peccati
+A Decomposition of Random Net Present Values
+Recent Research in Financial Modelling , p. 17 - 23 Posted: 1993
+Crossref
+L ; Peccati , Dcf E Risultati Di Periodo , X I Atti , A M A S E S Convegno , Aosta , L Peccati
+Valutazione analitica e sintetica di attivit finanziarie, Rivista Milanese di Economia, serie Quaderni n , volume 21 Posted: 1987
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+223
+ABSTRACT VIEWS
+2,285
+RANK
+312,896
+11 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Recommended Papers
+
+Decomposition of a Certain Cash Flow Stream: Differential Systemic Value and Net Final Value
+
+By Carlo Alberto Magni
+
+Systemic Value Added, Residual Income and Decomposition of a Cash Flow Stream
+
+By Carlo Alberto Magni
+
+Systemic Value Added: An Alternative to EVA as a Residual Income Model (Valore Aggiunto Sistemico: un'alternativa all'EVA quale indice di sovraprofitto periodale)
+
+By Carlo Alberto Magni
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

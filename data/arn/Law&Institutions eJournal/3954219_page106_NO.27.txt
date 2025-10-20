@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+“Show Me!” The Informativeness of Images
+
+82 Pages Posted: 8 Nov 2021 Last revised: 28 May 2025
+
+Azi Ben-Rephael
+
+Rutgers Business School - Rutgers University
+
+Joshua Ronen
+
+New York University (NYU) - Department of Accounting
+
+Tavy Ronen
+
+Rutgers University, Newark, School of Business-Newark, Department of Finance & Economics
+
+Mi Zhou
+
+Virginia Tech - Department of Accounting and Information Systems
+
+Date Written: November 18, 2021
+
+Abstract
+
+We introduce the concept of visual informativeness in annual reports and innovate by using machine-learning algorithms to construct visual informativeness measures. We create a novel measure of content reinforcement, representing the information content investors can extract from images that complements and reinforces particulars contained in textual narrative. An increase in visual prevalence and in the degree to which images reinforce text is associated with greater (lower) analyst forecast accuracy (dispersion) in subsequent quarters, and lower risk. Firms increase the use of visuals when facing an exogenous drop in analyst coverage. Importantly, visual informativeness facilitates information assimilation.
+
+Keywords: Visual informativeness, annual reports, images, image information content, information dissemination, content reinforcement, analyst forecast accuracy, analyst dispersion
+
+JEL Classification: D83, G12, G14, M41
+
+Suggested Citation:
+
+Ben-Rephael, Azi and Ronen, Joshua and Ronen, Tavy and Zhou, Mi, “Show Me!” The Informativeness of Images (November 18, 2021). Available at SSRN: https://ssrn.com/abstract=3954219 or http://dx.doi.org/10.2139/ssrn.3954219
+Download This Paper
+ 
+Open PDF in Browser
+109 References
+A L Alter , D M Oppenheimer
+Uniting the tribes of fluency to form a metacognitive nation
+Personality and social psychology review , volume 13 , p. 219 - 235 Posted: 2009
+L Ang , A Hellmann , M Kanbaty , S Sood
+Emotional and attentional influences of photographs on impression management and financial decision making
+Journal of Behavioral and Experimental Finance , volume 27 Posted: 2020
+A C Baker , D F Larcker , C C Wang
+How much should we trust staggered differencein-differences estimates
+Journal of Financial Economics , volume 144 , p. 370 - 395 Posted: 2022
+W J Bazley , H Cronqvist , M Mormann
+Visual finance: The pervasive effects of red on investor behavior
+Management Science Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+939
+ABSTRACT VIEWS
+3,622
+RANK
+57,069
+4 Citations
+109 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Managerial Traits, Accounting Conservatism and the Delegation of Financial Reporting
+
+HEC Paris Research Paper No. FIN-2017-1215
+
+35 Pages Posted: 28 Jun 2017 Last revised: 10 Sep 2019
+
+Francois Larmande
+
+Université de Sherbrooke
+
+Hervé Stolowy
+
+HEC Paris - Accounting and Management Control Department
+
+Date Written: September 1, 2019
+
+Abstract
+
+This paper investigates the delegation of financial reporting policy to a manager as a shareholder commitment device to achieve an ex-ante preferred level of conservatism. It especially explores how managerial traits – specifically the level of risk aversion and overconfidence – facilitate efficient implementation of the preferred level of conservatism. The potential benefit of a conservative reporting policy has been demonstrated in the literature, but if firms have some freedom to set the level of conservatism and it is not perfectly observable, the enforcement of a commitment to conservative reporting could be a concern (firms may claim to be conservative while in fact being aggressive). Therefore, the delegation of the reporting policy and the design of an appropriate incentive scheme could be a possible commitment device. We present a model in which to obtain better funding terms, a firm has an ex-ante preference for a given level of conservatism. Hiring a more risk-averse manager lowers the cost of implementing a conservative reporting policy, but increases the agency cost linked to the productive effort. We show that, for a plausible range of parameter values, the optimal level of managerial risk aversion which minimizes the overall agency cost is increasing with respect to the level of conservatism the firm wants to induce. Similar results hold for the degree of overconfidence – in the opposite direction: the optimal level of overconfidence is decreasing with respect to the desired level of conservatism. These results suggest an alternative explanation for recent empirical evidence linking CEO and CFO characteristics to the level of conservatism: firms deliberately choose managers with specific personality traits for efficient implementation of shareholders’ ex-ante preferred level of conservatism.
+
+Keywords: Accounting conservatism, risk aversion, overconfidence, reporting policy, investment efficiency, commitment
+
+JEL Classification: D82, D86, G30, M41, M51, M52
+
+Suggested Citation:
+
+Larmande, Francois and Stolowy, Hervé, Managerial Traits, Accounting Conservatism and the Delegation of Financial Reporting (September 1, 2019). HEC Paris Research Paper No. FIN-2017-1215, Available at SSRN: https://ssrn.com/abstract=2993124 or http://dx.doi.org/10.2139/ssrn.2993124
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+R K Aggarwal , A A Samwick
+Executive compensation, strategic competition, and relative performance evaluation: Theory and evidence
+Journal of Finance , volume 54 , issue 6 , p. 1999 - 2043 Posted: 1999
+Crossref
+A S Ahmed , S Duellman
+Managerial overconfidence and accounting conservatism
+Journal of Accounting Research , volume 51 , issue 1 , p. 1 - 30 Posted: 2013
+Crossref
+M Bagnoli , S G Watts
+Delegating disclosure and production choices
+The Accounting Review , volume 90 , issue 3 , p. 825 - 857 Posted: 2015
+Crossref
+S Basu
+The conservatism principle and the asymmetric timeliness of earnings
+Journal of Accounting and Economics , volume 24 , issue 1 , p. 3 - 37 Posted: 1997
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+431
+ABSTRACT VIEWS
+3,243
+RANK
+154,735
+2 Citations
+24 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

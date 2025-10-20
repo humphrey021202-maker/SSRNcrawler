@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Passive Blockholders, Informational Efficiency of Prices, and Firm Value
+
+Review of Financial Economics, Forthcoming
+
+41 Pages Posted: 10 Oct 2019 Last revised: 8 Jan 2020
+
+Kee H. Chung
+
+State University of New York at Buffalo - School of Management
+
+Choonsik Lee
+
+University of Rhode Island
+
+Carl Hsin-han Shen
+
+Macquarie University, Macquarie Business School
+
+Date Written: September 25, 2019
+
+Abstract
+
+This paper analyzes the role of passive blockholders in corporate governance using data on Schedule 13G filings. We show that firm value increases with the number and aggregate ownership of passive blockholders after controlling for other possible determinants of firm value. More importantly, we show that the informational efficiency of prices (IEP) increases with the number and aggregate ownership of passive blockholders, and IEP is a channel through which passive blockholders affect firm value. Overall, our results suggest that managers perform better when stock prices reflect the economic consequences of their actions promptly and accurately through information-based trading of blockholders.
+
+Keywords: Passive blockholders, Tobin’s q ratio, Informational efficiency of asset price, Liquidity, Causal mediation analysis
+
+JEL Classification: G14, G20, G32, G34
+
+Suggested Citation:
+
+Chung, Kee H. and Lee, Choonsik and Shen, Carl Hsin-han, Passive Blockholders, Informational Efficiency of Prices, and Firm Value (September 25, 2019). Review of Financial Economics, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3459271 or http://dx.doi.org/10.2139/ssrn.3459271
+Download This Paper
+ 
+Open PDF in Browser
+10 References
+P Rosenbaum , D Rubin
+The central role of the propensity score in observational studies for causal effects
+Biometrika , volume 70 , p. 41 - 55 Posted: 1983
+Crossref
+R Sadka , A Scherbina
+Analyst disagreement, mispricing, and liquidity
+Journal of Finance , volume 62 , p. 2367 - 2403 Posted: 2007
+Crossref
+D Scharfstein
+Product-market competition and managerial slack
+The RAND Journal of Economics , volume 19 , p. 147 - 155 Posted: 1988
+Crossref
+C Schmidt , R Fahlenbrach
+Do exogenous changes in passive institutional ownership affect corporate governance and firm value
+Journal of Financial Economics , volume 124 , p. 285 - 306 Posted: 2017
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+89
+ABSTRACT VIEWS
+1,310
+RANK
+667,795
+10 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

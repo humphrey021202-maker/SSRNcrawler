@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Fees and Earnings Management: Differences Based on the Type of Audit
+
+Economic Research-Ekonomska Istraživanja, 34:1, 2628-2650, DOI: 10.1080/1331677X.2020.1836990
+
+23 Pages Posted: 30 Dec 2020 Last revised: 30 Jun 2021
+
+Juan L. Gandía
+
+University of Valencia - Department of Accounting
+
+David Huguet
+
+University of Valencia - Department of Accounting
+
+Date Written: June 23, 2021
+
+Abstract
+
+In spite of the extensive research about the impact of audit fees on audit quality, there is no research examining if the association between voluntary audits and audit pricing affects audit quality. Therefore, the aim of this paper is to empirically examine whether the effect of audit fees on audit quality, measured by the level of earnings management, is affected by the type of audit (voluntary vs mandatory), as well as whether the effect of audit fees on audit quality is different depending on the type of audit. Using a sample of Spanish SMEs composed of both voluntarily and mandatorily audited companies, we find that voluntary audits have higher quality when audit fees are lower, but the differences in audit quality between voluntary and mandatory audits reverse as audit fees increase, and mandatory audits are more effective at deterring earnings management when audit fees are high. Additional analyses show that voluntary audits do not directly affect earnings management; instead, voluntary audits are associated with abnormal fees, which in turn negatively affect earnings management. The results also show that audit fees are only negatively associated with earnings management when accruals are income-increasing, which is related to auditor conservatism.
+
+Keywords: audit fees, audit quality, earnings management, voluntary audit
+
+JEL Classification: M41, M42
+
+Suggested Citation:
+
+Gandía, Juan L. and Huguet, David, Audit Fees and Earnings Management: Differences Based on the Type of Audit (June 23, 2021). Economic Research-Ekonomska Istraživanja, 34:1, 2628-2650, DOI: 10.1080/1331677X.2020.1836990, Available at SSRN: https://ssrn.com/abstract=3720205
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+K D Allee , T L Yohn
+The demand for financial statements in an unregulated environment: An examination of the production and use of financial statements by privately held small businesses
+The Accounting Review , volume 84 , issue 1 , p. 1 - 25 Posted: 2009
+Crossref
+T S Almarayeh , B Aibar-Guzm An , M Abdullatif
+Does audit quality influence earnings management in emerging markets? Evidence from Jordan
+Revista de Contabilidad , volume 23 , issue 1 , p. 64 - 74 Posted: 2020
+Crossref
+R Antle , E Gordon , G Narayanamoorthy , L Zhou
+The joint determination of audit fees, non-audit fees, and abnormal accruals
+Review of Quantitative Finance and Accounting , volume 27 , issue 3 , p. 235 - 266 Posted: 2006
+Crossref
+S C Ashtana , J P Boone
+Abnormal audit fee and audit quality
+Auditing: A Journal of Practice & Theory , volume 31 , issue 3 , p. 1 - 22 Posted: 2012
+Crossref
+Load more
+1 Citations
+Juan L. Gandía , David Huguet
+Combined Effects of Auditing and Discretionary Accruals on the Cost of Debt: Evidence From Spanish SMEs
+SAGE Open, 11 (4), 1-17 · 17 Pages · Posted: 19 Oct 2021 · Downloads: 59
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+151
+ABSTRACT VIEWS
+805
+RANK
+446,627
+1 Citations
+53 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

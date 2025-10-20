@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Use of Word Lists in Textual Analysis
+
+Forthcoming in the Journal of Behavioral Finance
+
+33 Pages Posted: 17 Jul 2014 Last revised: 2 Feb 2015
+
+Tim Loughran
+
+University of Notre Dame
+
+Bill McDonald
+
+University of Notre Dame - Mendoza College of Business - Department of Finance
+
+Date Written: February 1, 2015
+
+Abstract
+
+A commonly-used platform to assess the tone of business documents in the extant accounting and finance literature is Diction. We argue that Diction is inappropriate for gauging the tone of financial disclosures. About 83% of the Diction optimistic words and 70% of the Diction pessimistic words appearing in a large 10-K sample are likely misclassified. Frequently occurring Diction optimistic words like respect, security, power, and authority will not be considered positive by readers of business documents. Similarly, over 45% of the Diction pessimistic 10-K word-counts are not and no. The Loughran-McDonald (2011) dictionary appears better at capturing tone in business text than Diction.
+
+Keywords: Diction; word lists; sentiment analysis; Form 10-Ks; textual analysis
+
+JEL Classification: C18, G14, M41
+
+Suggested Citation:
+
+Loughran, Tim and McDonald, Bill, The Use of Word Lists in Textual Analysis (February 1, 2015). Forthcoming in the Journal of Behavioral Finance, Available at SSRN: https://ssrn.com/abstract=2467519 or http://dx.doi.org/10.2139/ssrn.2467519
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+W Antweiler , M Z Frank
+Is all that talk just noise? The information content of internet stock message boards
+Journal of Finance , volume 59 , issue 3 , p. 1259 - 1294 Posted: 2004
+Crossref
+S R Das , M Y Chen
+Yahoo! for Amazon: Sentiment extraction from small talk on the web
+Management Science , volume 53 , issue 9 , p. 1375 - 1388 Posted: 2007
+Crossref
+A K Davis , W Ge , D Matsumoto , J L Zhang
+The effect of managerspecific optimism on the tone of earnings conference calls
+Forthcoming Review of Accounting Studies Posted: 2014
+Crossref
+A K Davis , J M Piger , L M Sedor
+Beyond the numbers: Measuring the information content of earnings press release language
+Contemporary Accounting Research , volume 29 , issue 3 , p. 845 - 868 Posted: 2012
+Crossref
+Load more
+32 Citations
+Ng Wei Xiang , Mohammad Dabbagh
+Stock Market Price Prediction: Text Analytics of the GameStop Short Squeeze
+, p. 1 Posted: 2022
+Crossref
+KRISTIAN D. ALLEE , MATTHEW D. DEANGELIS
+The Structure of Voluntary Disclosure Narratives: Evidence from Tone Dispersion
+Journal of Accounting Research , volume 53 , issue 2 , p. 241 Posted: 2015
+Crossref
+Maximiliano Gonzalez , Alexander Guzman , Diego Téllez , María-Andrea Trujillo
+What You Say and How You Say It: Information Disclosure in Latin American Firms
+Center for Research in Economics and Finance (CIEF), Working Papers, No. 17-05 · 38 Pages · Posted: 14 Apr 2019 · Last revised: 14 Apr 2019 · Downloads: 152
+Download PDF  Add Paper to My Library
+Ricardo Correa , Keshav Garud , Juan M. Londono , Nathan Mislang
+Sentiment in Central Banks' Financial Stability Reports
+International Finance Discussion Paper No. 1203 · 52 Pages · Posted: 26 Mar 2017 · Last revised: 7 Apr 2017 · Downloads: 187
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,693
+ABSTRACT VIEWS
+14,574
+RANK
+11,491
+32 Citations
+24 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

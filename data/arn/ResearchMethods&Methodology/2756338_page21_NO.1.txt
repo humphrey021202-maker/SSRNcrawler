@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dealing with Heteroskedasticity, Autocorrelation and Endogeneity in German Audit Fee Panel Data - Comparing Approaches
+
+34 Pages Posted: 2 Apr 2016
+
+Balthasar Hoehn
+
+University of Wuerzburg
+
+Florian Schuberth
+
+University of Twente
+
+Manuel Steiner
+
+University of Würzburg - Business Administration & Economics
+
+Date Written: November 25, 2014
+
+Abstract
+
+In this paper we provide an extensive comparison between commonly used linear econometric methods in the audit fee literature and explicitly address their underlying assumptions. As opposed to common practice in similar papers we explicitly consider violations of the strict exogeneity assumption in terms of unobserved firm-specific effects and argue that endogeneity is likely to be present in audit fee data sets. This leads to significantly different results for magnitude and significance level of most explanatory variables. Additionally, we encourage researchers to use the in the audit fee literature not so widely-spread Hausman-Taylor estimator to benefit from its efficiency.
+
+Keywords: audit fees, panel data, endogeneity, Hausman-Taylor estimator
+
+JEL Classification: M40, M42, C21, C23, C26
+
+Suggested Citation:
+
+Hoehn, Balthasar and Schuberth, Florian and Steiner, Manuel, Dealing with Heteroskedasticity, Autocorrelation and Endogeneity in German Audit Fee Panel Data - Comparing Approaches (November 25, 2014). Available at SSRN: https://ssrn.com/abstract=2756338 or http://dx.doi.org/10.2139/ssrn.2756338
+Download This Paper
+ 
+Open PDF in Browser
+54 References
+M Arellano
+Computing robust standard errors for within-groups estimators
+Oxford Bulletin of Economics and Statistics , volume 49 , issue 4 , p. 431 - 434 Posted: 1987
+Crossref
+B H Baltagi
+Econometric Analysis of Panel Data Wiley Posted: 2014
+B H Baltagi , G Bresson , A Pirotte
+Fixed effects, random effects or HausmanTaylor? A pretest estimator
+Economic Letters , volume 79 , p. 361 - 369 Posted: 2003
+Crossref
+R P Beatty
+The economic determinants of auditor compensation in the initial public offerings market
+Journal of Accounting Research , volume 31 , issue 2 , p. 294 - 302 Posted: 1993
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+443
+ABSTRACT VIEWS
+2,797
+RANK
+149,830
+54 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

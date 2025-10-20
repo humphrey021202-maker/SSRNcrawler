@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Governance Mechanism Towards Earnings Management: Does Financial Distress Could Make It Better?
+
+12 Pages Posted: 30 Apr 2024
+
+Wiwi Idawati
+
+STIE Indonesia Banking School
+
+Sugeng Pranoto
+
+STIE Indonesia Banking School
+
+Hayu Prabowo
+
+affiliation not provided to SSRN
+
+Muchlis
+
+STIE Indonesia Banking School
+
+Date Written: April 30, 2024
+
+Abstract
+
+This study aims to assess the impact of institutional ownership, managerial ownership, board size, and audit committee size on earnings management, with a focus on the intervening variable of financial distress. Employing a causality research design, secondary data were derived from the annual financial reports of State-Owned Enterprises listed on the Indonesia Stock Exchange for the period 2017–2021, encompassing 20 companies. A purposive sampling technique was applied to select a sample of 11 companies, and data processing and analysis employed path analysis and t-tests through the IBM SPSS 25 analysis tool. The findings reveal that managerial ownership exerts a negative influence on financial distress, while audit committee size exhibits a positive impact
+on financial distress. In contrast, institutional ownership and board size do not significantly affect financial distress. Financial distress, in turn, influences earnings management and serves as a mediator in the relationship between audit committee size and earnings management. However, financial distress does not act as a mediator for the effects of institutional ownership, managerial ownership, and board size on earnings management. The study underscores that the implementation of good corporate governance practices within companies can effectively mitigate earnings management practices and safeguard against the onset of financial distress.
+
+Keywords: institutional ownership, managerial ownership, size of board of directors, audit committee size, financial distress, earnings management.
+
+JEL Classification: G38, G33
+
+Suggested Citation:
+
+Idawati, Wiwi and Pranoto, Sugeng and Prabowo, Hayu and Muchlis, Muchlis, Corporate Governance Mechanism Towards Earnings Management: Does Financial Distress Could Make It Better? (April 30, 2024). Available at SSRN: https://ssrn.com/abstract=4811724 or http://dx.doi.org/10.2139/ssrn.4811724
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+E I Altman , E Hotchkiss , W Wang
+Corporate Financial Distress, Restructuring, and Bankruptcy : Analyze Leveraged Finance, Distressed Debt, and Bankruptcy Posted: 2019
+G R Anggana , A Prastiwi
+Analisis Pengaruh Corporate Governance Terhadap Praktik Manajemen Laba (Studi Pada Perusahaan Manufaktur di Indonesia)
+Diponegoro Journal of Accounting , p. 323 - 334 Posted: 2013
+A P Aritonang
+Pengaruh Praktik Corporate Governance dan Struktur Kepemilikan Terhadap Kemungkinan Kondisi Financial Distress Perusahaan
+Media Riset Akuntansi , volume 3 , issue 2 Posted: 2013
+T A Arrum , W Wahyono
+Pengaruh Operating Capacity, Profitability, Mekanisme Corporate Governance, Dan Firm Size Terhadap Kondisi Financial Distress
+Posted: 2021
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+93
+ABSTRACT VIEWS
+877
+RANK
+649,230
+43 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

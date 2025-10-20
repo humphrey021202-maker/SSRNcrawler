@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Text Mining Audit Deficiencies: A Comparative Analysis of Big 4 vs. Non-Big 4 Firms in PCAOB Inspection Reports
+
+28 Pages Posted: 8 Oct 2025
+
+Emrah Yıldız
+
+affiliation not provided to SSRN
+
+Murat KURTLAR
+
+affiliation not provided to SSRN
+
+SERPIL TOMAK
+
+Mersin University
+
+Abstract
+
+In this study, the deficiencies identified in the audit reports of eight major independent audit firms operating in the United States, published by the Public Company Accounting Oversight Board between 2018-2023, were analyzed using text mining methods. This study aims to better understand the deficiencies in audit reports and to analyze these deficiencies by categorizing them into specific categories In this context, the single and double word frequencies in the audit reports were first calculated, and a dataset consisting of these words was created. Then, clusters were created, and clusters of words with deficiencies were assigned. Finally, a comparative analysis using a t-test was conducted on the scores obtained from the deficient words between the Big 4 and non-Big 4 firms. A significant difference was found between the two groups as a result of the t-test conducted on the scores obtained from the word clusters containing the deficiencies of the Big 4 and non-Big 4 firms. These findings provide important information to enhance the quality of audit reports, improve audit processes, and understand audit standards. Additionally, the results highlight the main issues that need to be addressed in the audit processes. This study contributes to the development of strategies to address the deficiencies identified in US audit reports.
+
+Keywords: Audit, Audit Reports, Inceptions Reports, Text Mining, PCAOB
+
+Suggested Citation:
+
+Yıldız, Emrah and KURTLAR, Murat and TOMAK, SERPIL, Text Mining Audit Deficiencies: A Comparative Analysis of Big 4 vs. Non-Big 4 Firms in PCAOB Inspection Reports. Available at SSRN: https://ssrn.com/abstract=5577290 or http://dx.doi.org/10.2139/ssrn.5577290
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+References
+J L Abernathy , M Barnes , C Stefaniak
+A summary of 10 years of PCAOB. research: What have we learned
+Journal of Accounting Literature , volume 32 , issue 1 , p. 30 - 60 Posted: 2013
+Accountancy Age
+J Ahn , H Akamah , S Q Shu
+The effect of disclosing audit quality control deficiencies on non-audit tax services: Evidence from Deloitte's 2007 PCAOB Part II inspection report
+J. Account. Public Policy , volume 40 , p. 1 - 23 Posted: 2021
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+12
+ABSTRACT VIEWS
+36
+44 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

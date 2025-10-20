@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Insider Ownership and Default Risk: What Does the Data Reveal About Japanese Firms?
+
+China Accounting and Finance Review, volume 26, issue 3, 2024 [10.1108/CAFR-06-2023-0059]
+
+31 Pages Posted: 12 Jul 2024
+
+Humaira Haque
+
+North South University
+
+Md. Nurul Kabir
+
+North South University
+
+Syeda Abedin
+
+North South University
+
+Mohammad Dulal Miah
+
+College of Banking and Financial Studies
+
+Parmendra Sharma
+
+Griffith University
+
+Date Written: July 01, 2024
+
+Abstract
+
+Purpose-The ownership structure in Japanese firms has experienced a significant change recently, fueled primarily by regulatory changes. This has important repercussions on corporate performance and risk. This paper examines the impact of insider ownership on the default risk of Japanese firms. Design/methodology/approach-We collected data from the Nikkei Corporate Governance Evaluation System (CGES) database for the period 2004-2019. Our final dataset yields 36,116 firm-year observations. We apply a firm fixed effect model for baseline regression. Endogeneity was checked by applying propensity score matching (PSM) and two-stage least squares (2SLS) techniques. Furthermore, the robustness of baseline regression results was checked using alternative estimation techniques. Findings-Results show a significant positive influence of insider ownership on default risk. Furthermore, ROA volatility and stock price volatility appear to be the major channels through which insider ownership affects a firm's default risk. We further document that external monitoring mechanisms, including traditional main bank ties, institutional ownership and analyst coverage, are the key risk-mitigating factors. Research limitations/implications-Our research deals with Japanese firms only. Future research may attempt to analyze the cases of emerging economies. Furthermore, future research might examine the ownership-default risk relationship for financial institutions to see if this relationship differs between financial and nonfinancial firms. Practical implications-Insider ownership enhances the probability of default. Hence, policymakers may consider instituting a ceiling for insider ownership in Japanese firms. Moreover, we highlight various risk-mediating channels that would help policymakers adopt guidelines for mitigating corporate risk. Originality/value-Our study is the first to investigate the effect of insider ownership on default risk in Japanese settings. Prior studies identified various determinants that affect firms' default risk. Our study contributes to this stream of literature by examining the impact of insider ownership on default risk and extending the limited literature related to insider ownership.
+
+Keywords: Ownership, Default risk, Japan, Corporate governance, Firm performance
+
+JEL Classification: G01, G32, G33, G34, G38
+
+Suggested Citation:
+
+Haque, Humaira and Kabir, Md. Nurul and Abedin, Syeda and Miah, Mohammad Dulal and Sharma, Parmendra, Insider Ownership and Default Risk: What Does the Data Reveal About Japanese Firms? (July 01, 2024). China Accounting and Finance Review, volume 26, issue 3, 2024 [10.1108/CAFR-06-2023-0059], Available at SSRN: https://ssrn.com/abstract=4892565
+Download This Paper
+ 
+Open PDF in Browser
+85 References
+C L Ahmadjian
+Changing Japanese corporate governance
+Japanese Economy , volume 28 , issue 6 , p. 59 - 84 Posted: 2000
+C L Ahmadjian , G E Robbins
+A clash of capitalisms: Foreign shareholders and corporate restructuring in 1990s Japan
+American Sociological Review , volume 70 , issue 3 , p. 451 - 471 Posted: 2005
+S Ali , B Liu , J J Su
+Does corporate governance quality affect default risk? The role of growth opportunities and stock liquidity
+International Review of Economics and Finance , volume 58 , p. 422 - 448 Posted: 2018
+P C Andreou , C Antoniou , J Horton , C Louca
+Corporate governance and firm-specific stock price crashes
+European Financial Management , volume 22 , issue 5 , p. 916 - 956 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+57
+ABSTRACT VIEWS
+768
+RANK
+864,457
+85 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

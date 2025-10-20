@@ -1,0 +1,97 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The US Tax Classification of Canadian Mutual Fund Trusts
+
+Canadian Tax Journal/Revue Fiscale Canadienne, Vol. 63, No. 4, 2015
+
+Posted: 6 Jan 2016
+
+Stephen Chalhoub
+
+SKL Tax
+
+Date Written: January 6, 2016
+
+Abstract
+
+It is widely believed that US persons who invest in Canadian mutual fund trusts could be subject to punitive US tax consequences on the disposition of their investment, because these entities could be treated as passive foreign investment companies (PFICs) under US tax law. This view is based on a one-sentence summary conclusion in a non-binding memorandum on an unrelated topic issued by the Internal Revenue Service in 2009. While the position of the US tax authorities is far from certain, many practitioners have chosen to err on the side of caution and have acted on the assumption that Canadian mutual fund trusts are PFICs for US tax purposes.
+
+This article outlines two possible sets of solutions to the PFIC problem as it applies to Canadian mutual fund trusts. The solutions depend on whether the Canadian mutual fund trust is classified as a partnership or as a corporation for US tax purposes. The key determinant between the two classifications is whether or not all investors in the trust have limited liability for the debts and obligations of the trust. If all of the investors have limited liability, the trust is properly classified as a corporation for US tax purposes and thus is very likely a PFIC. In this scenario, there are three potential solutions to the PFIC problem: (1) holding the investment in a mutual fund inside a registered retirement savings plan; (2) making the qualified electing fund election; or (3) making the mark-to-market election. All three solutions are suboptimal. It is possible that Canadian mutual fund trusts are actually partnerships for US tax purposes. If the trust is a partnership, it cannot be a PFIC. There are four arguments to support a partnership classification: (1) trusts formed prior to the enactment of certain provincial statutes granting investors limited liability may be partnerships for US tax purposes; (2) trusts to which these statutes do not apply may be partnerships for US tax purposes; (3) a newly formed trust can elect a partnership classification; and (4) all Canadian mutual fund trusts might be partnerships for US tax purposes. For an individual investor who is a US person, the benefits of a partnership classification are substantial. The potential application of the PFIC regime is removed, and the income is taxed like income from any other investment. There is no annual reporting for the vast majority of investors. The position that partnership treatment applies can be taken on the individual's US tax return. A partnership classification can also be implemented at the fund level. For funds that do not invest in the United States, there are few drawbacks and many advantages to a partnership classification. For funds that do invest in the United States, there are a few drawbacks, but these can be managed. In short, there are manageable solutions to the PFIC problem as it applies to Canadian mutual fund trust.
+
+Keywords: US-Canada, mutual funds, United States, cross-border, RRSP, IRS
+
+Suggested Citation:
+
+Chalhoub, Stephen, The US Tax Classification of Canadian Mutual Fund Trusts (January 6, 2016). Canadian Tax Journal/Revue Fiscale Canadienne, Vol. 63, No. 4, 2015, Available at SSRN: https://ssrn.com/abstract=2711760
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,213
+PlumX Metrics
+Related eJournals
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+
+Political Economy: Fiscal Policies & Behavior of Economic Agents eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

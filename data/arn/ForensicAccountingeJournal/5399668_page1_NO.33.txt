@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Federated Learning for Privacy-Preserving Financial Fraud Detection
+
+10 Pages Posted: 4 Sep 2025
+
+Mayowa Emmanuel
+
+Independent
+
+Date Written: May 20, 2025
+
+Abstract
+
+The increasing complexity of financial fraud requires increased and privacysensitive mechanisms of detection which can access wide-ranging and sensitive data and that do not breach the privacy of individuals or institutions. A paradigm shift is promised by Federated Learning (FL) which brings together the efforts of multiple financial institutions to train machine learning models partaking in the effort collectively without exposing raw data. This paper discusses how FL can be used in privacy-preserving detection of financial fraud in the e-commerce and financial push-payment setting. We discuss the architecture and mechanisms of FL, which are followed by the attention given to important privacy enhancing technology, including differential privacy and secure multi-party computation. In this paper we show, through both simulated and real life case studies, the ability of FL to demonstrate competitive accuracy in detecting anomalous and fraudulent transactions, under the ultimate data confidentiality guarantee. Data heterogeneity, overhead in communications, and model drift associated with scalable and robust fraud detection systems are also the challenges that the study addresses, offering the adaptive methods of addressing them. We find the possibility of replacing the current state of multilateral fraud prevention with a mechanism based on FL that strikes a balance between performance maximization in predictive fraud prevention and the need to meet legal requirements and protect privacy.
+
+Keywords: AI-Driven Fraud Detection in Banking, Decentralized Fraud Analytics in FinTech, Privacy-Preserving Transaction Monitoring, Cross-Institutional Fraud Detection Models
+
+Declaration of Interest
+
+I declare that I have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this article.
+
+Ethics Approval
+
+This study did not involve human participants, personal data, or animals, and therefore did not require ethics approval.
+
+Funder Statement
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+Clinical Trial Registration
+
+Not applicable. This research did not involve clinical trials or studies on human participants requiring registration.
+
+Suggested Citation:
+
+Emmanuel, Mayowa, Federated Learning for Privacy-Preserving Financial Fraud Detection (May 20, 2025). Available at SSRN: https://ssrn.com/abstract=5399668 or http://dx.doi.org/10.2139/ssrn.5399668
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+85
+ABSTRACT VIEWS
+1,166
+RANK
+687,436
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Financial Crises eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

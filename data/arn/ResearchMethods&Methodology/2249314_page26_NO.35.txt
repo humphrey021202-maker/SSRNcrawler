@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+…and the Cross-Section of Expected Returns
+
+101 Pages Posted: 17 Apr 2013 Last revised: 4 Feb 2015
+
+Campbell R. Harvey
+
+Duke University - Fuqua School of Business; National Bureau of Economic Research (NBER)
+
+Yan Liu
+
+Purdue University
+
+Caroline Zhu
+
+Seattle Pacific University
+
+Date Written: February 3, 2015
+
+Abstract
+
+Hundreds of papers and hundreds of factors attempt to explain the cross-section of expected returns. Given this extensive data mining, it does not make any economic or statistical sense to use the usual significance criteria for a newly discovered factor, e.g., a t-ratio greater than 2.0. However, what hurdle should be used for current research? Our paper introduces a multiple testing framework and provides a time series of historical significance cutoffs from the first empirical tests in 1967 to today. Our new method allows for correlation among the tests as well as publication bias. We also project forward 20 years assuming the rate of factor production remains similar to the experience of the last few years. The estimation of our model suggests that today a newly discovered factor needs to clear a much higher hurdle, with a t-ratio greater than 3.0. Echoing a recent disturbing conclusion in the medical literature, we argue that most claimed research findings in financial economics are likely false.
+
+Our key results are summarized:
+
+Keywords: Risk factors, Multiple tests, Beta, HML, SMB, 3-factor model, Momentum, Volatility, Skewness, Idiosyncratic volatility, Liquidity, Bonferroni, Factor zoo
+
+JEL Classification: G12, G14, G30, G00, C12, C20, B41
+
+Suggested Citation:
+
+Harvey, Campbell R. and Liu, Yan and Zhu, Caroline, …and the Cross-Section of Expected Returns (February 3, 2015). Available at SSRN: https://ssrn.com/abstract=2249314 or http://dx.doi.org/10.2139/ssrn.2249314
+Download This Paper
+ 
+Open PDF in Browser
+207 References
+Black , Michael C Fischer , Myron Jensen , Scholes
+The capital asset pricing model: Some empirical tests
+Studies in the theory of capital markets , p. 79 - 121 Posted: 1972
+Werner F M Bondt , Richard Thaler
+Does the stock market overreact?
+Journal of Finance , volume 40 , p. 793 - 805 Posted: 1985
+Stephen Brammer , Chris Brooks , Stephen Pavelin
+Corporate social performance and stock returns: UK evidence from disaggregate measures
+Financial Management , volume 35 , p. 97 - 116 Posted: 2006
+Crossref
+Michael Brandt , Runeet Kishore , Pedro Santa-Clara , Mohan Venkatachalam
+Earnings announcements are full of surprises Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+22,563
+ABSTRACT VIEWS
+319,040
+RANK
+303
+135 Citations
+207 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does central bank digital currency adoption affect the asymmetric cost behavior of firms?
+
+50 Pages Posted: 10 Jul 2025 Last revised: 10 Jul 2025
+
+Guanglong Zhang
+
+affiliation not provided to SSRN
+
+Kam C. Chan
+
+Western Kentucky University - Department of Accounting and Finance
+
+Date Written: November 1, 2023
+
+Abstract
+
+We examine how the introduction of a central bank digital currency (CBDC) affects corporate sticky cost behavior, using the phased rollout of the electronic Chinese yuan (e-CNY) as an exogenous shock. Our findings reveal a significant reduction in selling, general, and administrative (SG&A) cost stickiness among treatment firms following the e-CNY pilot. We attribute these findings to the effectiveness of e-CNY in mitigating firms’ agency problems. Consistent with this argument, we observe a substantial decrease in the downward stickiness of firms’ perk expenditures after the introduction of e-CNY. Additionally, firms facing higher ex ante agency costs and weaker ex ante governance practices benefit more from the e-CNY introduction. Consequently, firms with reduced SG&A stickiness due to the adoption of e-CNY experience lower future SG&A expenses, higher profitability, and higher market value. These findings advance our understanding of CBDC’s microeconomic effects and establish its role as an innovative corporate governance tool.
+
+Keywords: Central bank digital currency; e-CNY; SG&A stickiness; Agency costs
+
+JEL Classification: D24; E42; E58; M41
+
+Suggested Citation:
+
+Zhang, Guanglong and Chan, Johnny, Does central bank digital currency adoption affect the asymmetric cost behavior of firms? (November 1, 2023). Available at SSRN: https://ssrn.com/abstract=4628999 or http://dx.doi.org/10.2139/ssrn.4628999
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+See The , Pboc
+Progress of Research & Development of E-CNY in China Posted: 2025-04-11
+To further facilitate adoption, Chinese authorities have expanded pilot programs to Hong Kong for cross-border applications. E-CNY is now fully integrated into major payment platforms, including Alipay and WeChat Pay, as well as high-frequency consumer platforms such as Taobao, Meituan, and JD.com. For more details, see
+October 2021 to 261 million Posted: 2021-12
+Mechanism: The mitigation of agency problems In hypothesis development, we posit that the first-order mechanism through which e-CNY influences corporate SG&A stickiness is by mitigating agency problems. Specifically, leveraging its inherent characteristics such as transparency, traceability, and immutability, e-CNY helps mitigates insider and state agency costs
+Ang
+The effect of e-CNY on the stickiness of corporate perquisite consumption Agency costs, including managerial perquisite consumption
+Tang Posted: 2000
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+135
+ABSTRACT VIEWS
+509
+RANK
+490,025
+58 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

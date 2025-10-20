@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Aggregate Labor Share and Tax Havens: Things Are Not Always What They Seem
+
+38 Pages Posted: 14 Sep 2022
+
+Margarita Lopez Forero
+
+Université d'Evry Val d'Essonne; Université Paris Saclay
+
+Date Written: July 26, 2021
+
+Abstract
+
+We use French firm-level data to study the role of multinational enterprises’ (MNEs) presence tax havens in determining the dynamics of the aggregate labor share and therefore, income inequalities between workers and capitalists. Given these firms’ weight in the economy, we find that tax haven presence of MNEs accounts for a 7.5% of the observed increase in the aggregate share of labor in France between 1997-2014. Implementing a difference-in-differences we analyze the effect of firm entry in tax havens on firms’ labor share of value added and each of its components. We find that average firm labor share in France experiences an increase by 2.2% over the immediate years following the establishment in a tax haven. We argue that the labor share of MNEs with presence in tax havens is overestimated given that tax optimization partly consists in artificially shifting profits to low tax jurisdictions, thus underestimating domestic value added, which experiences an average drop by 11.1%. Indeed, the labor share increases even if its numerator, total wage bill, decreases on average by 8.8% when MNEs enter a tax haven. Additionally, the total wage bill drop is explained by a strong decline in employment (-8.6%) rather than a decline on average firm wages, on which there is no statistically significant effect. This means that the effect of firms’ usage of tax havens on workers goes beyond the underestimation of their share of income. Finally, we implement a panel event study design to show that our estimates capture the tax entry effect and not differential trends between treated and control units.
+
+Keywords: Tax Havens, Labor shares, Profit shifting FDI, Inequalities.
+
+JEL Classification: D33, F23, H26, H87, O47
+
+Suggested Citation:
+
+Lopez Forero, Margarita, Aggregate Labor Share and Tax Havens: Things Are Not Always What They Seem (July 26, 2021). Available at SSRN: https://ssrn.com/abstract=4201609 or http://dx.doi.org/10.2139/ssrn.4201609
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+A Abadie , S Athey , G W Imbens , J Wooldridge
+When should you adjust standard errors for clustering? Posted: 2017
+D Acemoglu , P Restrepo
+The race between man and machine: Implications of technology for growth, factor shares, and employment
+American Economic Review , volume 108 , issue 6 , p. 1488 - 1542 Posted: 2018
+A Alstadsaeter , J B Bjørkheim , R B Davies , J Scheuerer
+Pennies from haven: Wages and profit shifting Posted: 2022
+D Autor , D Dorn , L F Katz , C Patterson , J Van Reenen
+The Fall of the Labor Share and the Rise of Superstar Firms*
+The Quarterly Journal of Economics Posted: 2020
+Load more
+1 Citations
+Baptiste Souillard
+Charting New Waters: Submarine Cables and Multinationals' Activities in Tax Haven Islands
+Scottish Journal of Political Economy Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+133
+ABSTRACT VIEWS
+725
+RANK
+496,121
+1 Citations
+32 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

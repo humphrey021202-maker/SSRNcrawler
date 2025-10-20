@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effects of MiFID II on Voluntary Disclosure
+
+Management Science, forthcoming.
+
+
+47 Pages Posted: 14 Dec 2021 Last revised: 28 Jan 2025
+
+Chongho Kim
+
+Seoul National University
+
+Jihwon Park
+
+City University of NY, Baruch College, Zicklin School of Business
+
+Edward Sul
+
+George Washington University
+
+Date Written: June 15, 2024
+
+Abstract
+
+We examine the effect of MiFID II’s controversial unbundling provision on corporate voluntary disclosure. While prior research has largely focused on changes in sell-side research post-MiFID II, changes in voluntary disclosure and their effects on the information environment are less known. We find that European Union (EU) firms significantly increase the propensity and frequency of management earnings guidance issuance after MiFID II enactment. This effect is more pronounced among firms experiencing a decline in the quantity of sell-side research or a reduction in the consumption and dissemination of analyst reports and is more muted among firms witnessing improvements in research quality. Furthermore, we find that post-MiFID earnings guidance by EU firms becomes more thorough and elicits stronger market reactions. Moreover, we demonstrate that the increased guidance effectively alleviates the negative liquidity effects of MiFID II. Collectively, we contribute to the ongoing debate on the efficacy of MiFID II’s unbundling provision by providing evidence that voluntary disclosure plays a key role in mitigating the unintended net negative consequences on the information environment following the regulation.
+
+Keywords: MiFID II, unbundling provision, analysts, disclosure, earnings guidance
+
+JEL Classification: G14, G15, G18, M41, M48
+
+Suggested Citation:
+
+Kim, Chongho and Park, Jihwon and Sul, Edward, The Effects of MiFID II on Voluntary Disclosure (June 15, 2024). Management Science, forthcoming.
+, Available at SSRN: https://ssrn.com/abstract=3980230 or http://dx.doi.org/10.2139/ssrn.3980230
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+Y Amihud
+Illiquidity and stock returns: Cross-section and time-series effects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+D Anantharaman , Y Zhang
+Cover me: Managers' responses to changes in analyst coverage in the post-Regulation FD period
+The Accounting Review , volume 86 , issue 6 , p. 1851 - 1885 Posted: 2011
+K Balakrishnan , M B Billings , B Kelly , A Ljungqvist
+Shaping liquidity: On the causal effects of voluntary disclosure
+The Journal of Finance , volume 69 , issue 5 , p. 2237 - 2278 Posted: 2014
+D Bazhutov , A Betzer , F Brochet , M Doumet , P Limbach
+The supply and effectiveness of investor relations in insider-vs. outsider-oriented markets
+Management Science , volume 69 , issue 1 , p. 660 - 683 Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+288
+ABSTRACT VIEWS
+1,527
+RANK
+242,713
+1 Citations
+58 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

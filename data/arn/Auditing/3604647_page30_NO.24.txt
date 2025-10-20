@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+What Are the Audit-Related Implications of Firm Profitability?
+
+60 Pages Posted: 2 Jun 2020
+
+Keith Czerney
+
+University of Missouri-Columbia; Charles River Associates (CRA) - Finance
+
+Date Written: May 18, 2020
+
+Abstract
+
+This study examines the implications of firm profitability, as a potential indication of audit-related risk, to audit quality, auditor reporting, auditor continuance decisions, and audit pricing in the post-SOX environment. Using a sample of non-financial public companies over the period 2005 – 2017, I find that profitability: is an important determinant of audit quality among profit firms; informs auditor reporting decisions such that when firm profitability is lower, auditors are more likely to report internal control weaknesses and express substantial doubt about the client’s ability to continue as a going concern; and, is an important consideration in audit pricing only for profit firms. These inferences continue to hold when I address the potentially endogenous nature of firm profitability, use first difference estimation that captures changes in firm profitability, and assess the importance of profitability relative to other predictors. I contribute to practice and to the auditing literature by providing a focused, contemporary examination of firm profitability in the audit setting. My results suggest that low firm profitability may not be as timely and reliable of an indication of risk as predominantly believed.
+
+Keywords: Auditors, Client Business Risk, Audit Risk, Profitability, Audit Quality, Auditor Reporting, Auditor Resignation, Audit Pricing
+
+JEL Classification: M40, M41, M42
+
+Suggested Citation:
+
+Czerney, Keith, What Are the Audit-Related Implications of Firm Profitability? (May 18, 2020). Available at SSRN: https://ssrn.com/abstract=3604647 or http://dx.doi.org/10.2139/ssrn.3604647
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+H Ashbaugh-Skaife , D W Collins , W R Kinney
+The discovery and reporting of internal control deficiencies prior to SOX-mandated audits
+Journal of Accounting and Economics , volume 44 , p. 166 - 192 Posted: 2007
+Crossref
+J C Bedard , K M Johnstone
+Earnings manipulation risk, corporate governance risk, and auditors' planning and pricing decisions
+The Accounting Review , volume 79 , issue 2 , p. 277 - 304 Posted: 2004
+Crossref
+T B Bell , F Marrs , I Solomon , H Thomas
+Auditing Organizations Through a StrategicSystems Lens: The KPMG Business Measurement Process Posted: 1997
+T B Bell , W R Landsman , D A Shackelford
+Auditors' perceived business risk and audit fees: Analysis and evidence
+Journal of Accounting Research , volume 39 , issue 1 , p. 35 - 43 Posted: 2001
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+178
+ABSTRACT VIEWS
+1,326
+RANK
+386,928
+62 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

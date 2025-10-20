@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Synergizing Auditors and Machines: Evidence from Going Concern Assessment
+
+52 Pages Posted: 24 Jan 2025 Last revised: 24 Jan 2025
+
+Chanyuan (Abigail) Parker
+
+The University of Texas at San Antonio, Alvarez College of Business
+
+Yu Gu
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+Miklos Vasarhelyi
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+There are 2 versions of this paper
+
+Date Written: May 01, 2024
+
+Abstract
+
+Amid recent attention over auditors’ ability to properly assess client firms’ going concerns, this study examines the potential for auditor and Machine Learning (ML) collaboration in assessing going concerns. We first examine the comparative performance of auditors and ML. Consistent with bounded rationality, we find that errors in auditor-issued Going Concern Opinions (GCOs) are associated with auditors’ capability, cognitive bias, and constraints. In contrast, we find that ML tends to make mistakes when unobservable information exists that cannot be directly incorporated into ML models. Using a novel approach, we derive a “team” assessment that integrates auditors and ML. Our results show that the team assessments can synergize the relative advantages of auditor and ML, and overcome their relative disadvantages, serving as a potential way of generating higher-quality going concern assessments. Our research has implications for accounting practitioners and regulators regarding auditor-machine collaboration in the “AI era.”
+
+Keywords: Going Concern Opinion, Audit Quality, Professional Judgment, Bounded Rationality, Cognitive Bias, Cognitive Constraints, Man-Machine Collaboration, Machine Learning, Artificial Intelligence
+
+JEL Classification: M41, M42
+
+Suggested Citation:
+
+Parker, Chanyuan (Abigail) and Gu, Yu and Vasarhelyi, Miklos, Synergizing Auditors and Machines: Evidence from Going Concern Assessment (May 01, 2024). Available at SSRN: https://ssrn.com/abstract=3984462 or http://dx.doi.org/10.2139/ssrn.3984462
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+1 Citations
+Stewart Jones
+A literature survey of corporate failure prediction models
+Journal of Accounting Literature , volume 45 , issue 2 , p. 364 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+249
+ABSTRACT VIEWS
+1,157
+RANK
+219,016
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

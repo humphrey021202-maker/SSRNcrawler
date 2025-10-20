@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Coins for Bombs: Increased Transparency of the Global Financial System - Evidence from Terrorist Attacks Financing Detection in Blockchain-based Currencies
+
+43 Pages Posted: 17 Nov 2020 Last revised: 20 Apr 2021
+
+Dan Amiram
+
+Tel Aviv University - Coller School of Management
+
+Bjorn Jorgensen
+
+Copenhagen Business School - Department of Accounting
+
+Daniel Rabetti
+
+National University of Singapore (NUS); Harvard Business School
+
+Date Written: November 2020
+
+Abstract
+
+The proliferation of blockchain-based cryptocurrencies, which essentially use public accounting ledgers, has two opposing effects related to the global financial system's transparency. On the one hand, governments, market regulators, and financial institutions make significant efforts to curtail the financing of illicit activities that cryptocurrencies may be able to circumvent. On the other hand, funds and transfers that used to be known only by the involved parties are now transparent to anyone with knowledge of blockchain and accounting. This study empirically examines whether it is possible for outsiders to identify evidence of financing international terrorist attacks on public blockchain systems. We do so by utilizing empirical strategies based on accounting and finance literature, forensic accounting, and machine learning algorithms on millions of cryptocurrencies' transfers. We provide evidence that blockchain-based cryptocurrencies are used to finance terrorist attacks. However, the blockchain ledger underlying transparency also enables outsiders to identify the fund trails and predict terrorist attacks.
+
+
+Keywords: Financial Regulation, Terrorist Financing, Economics of Blockchain, Forensic Accounting, Bitcoin, Ripple
+
+JEL Classification: G15, G18, G29, K29, K42, O16
+
+Suggested Citation:
+
+Amiram, Dan and Jørgensen, Bjørn N and Rabetti, Daniel, Coins for Bombs: Increased Transparency of the Global Financial System - Evidence from Terrorist Attacks Financing Detection in Blockchain-based Currencies (November 2020). Available at SSRN: https://ssrn.com/abstract=3616207 or http://dx.doi.org/10.2139/ssrn.3616207
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+A Abadie , J Gardeazabal
+The economic costs of conflict: A case study of the Basque country
+American Economic Review , volume 93 , issue 1 , p. 113 - 132 Posted: 2003
+Crossref
+Dan Amiram , Evgeny Lyandres , Daniel Rabetti
+Trading volume manipulation and competition among centralized crypto exchanges
+Pages: 72 Posted: 12 Jan 2021 Last revised: 4 Jun 2024
+Download PDF  Add Paper to My Library
+K P Arin , D Ciferri , N Spagnolo
+The price of terror: The effects of terrorism on stock market returns and volatility
+Economics Letters , volume 51 , issue 3 , p. 164 - 167 Posted: 2008
+Crossref
+L S Bamber
+The information content of annual earnings announcements: A trading volume approach
+Journal of Accounting Research , volume 24 , issue 1 , p. 40 - 56 Posted: 1986
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+555
+ABSTRACT VIEWS
+3,440
+RANK
+114,072
+63 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Economics of Networks eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

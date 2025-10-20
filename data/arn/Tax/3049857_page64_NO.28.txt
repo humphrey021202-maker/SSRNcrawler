@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+What Do They Pay? Towards a Public Database to Account for the Economic Activities and Tax Contributions of Multinational Corporations
+
+City Political Economy Research Centre, Working Paper Series 2017/01
+
+35 Pages Posted: 9 Oct 2017
+
+Alex Cobham
+
+Tax Justice Network
+
+Jonathan Gray
+
+King's College London
+
+Richard Murphy
+
+Tax Research LLP
+
+Date Written: February 1, 2017
+
+Abstract
+
+This paper reviews the prospects for a global public database on the tax contributions and economic activities of multinational companies. It is divided into four main sections. Firstly, we present a set of user stories, questions, requirements, and scenarios of usage for a database. Secondly, we look at what kinds of information a public database could and should contain. Thirdly, we look at the opportunities and challenges of building a public database drawing on various existing information sources. Fourthly and finally, we suggest next steps for policy, advocacy, and technical work towards a public database.
+
+Keywords: Open Data, Data Infrastructures, Country-by-Country Reporting, CBCR, Tax Policy, Multinational Taxation, Participatory Design, Data Journalism, Data Activism
+
+Suggested Citation:
+
+Cobham, Alex and Gray, Jonathan and Murphy, Richard, What Do They Pay? Towards a Public Database to Account for the Economic Activities and Tax Contributions of Multinational Corporations (February 1, 2017). City Political Economy Research Centre, Working Paper Series 2017/01 , Available at SSRN: https://ssrn.com/abstract=3049857 or http://dx.doi.org/10.2139/ssrn.3049857
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+See
+Crossref
+Eurodad Actionaid
+Financial Transparency Coalition, Open Society European Policy Institute, ONE, Oxfam and Transparency International
+Questions and Answers Posted: 2016
+G C Bowker , S L Star
+Sorting Things Out: Classification and Its Consequences Posted: 2000
+A Cobham
+Post-2015 Consensus: IFF Assessment
+Copenhagen Consensus Center. Available Posted: 2014
+Load more
+3 Citations
+Markus Meinzer , Christoph Trautvetter
+Accounting (f)or Tax: The Global Battle for Corporate Transparency
+25 Pages · Posted: 13 Jul 2018 · Downloads: 144
+Download PDF  Add Paper to My Library
+Lynne Oats , Penelope Tuck
+Corporate tax avoidance: is tax transparency the solution?
+Accounting and Business Research , volume 49 , issue 5 , p. 565 Posted: 2019
+Crossref
+Alex Cobham
+Prioritizing Development
+, p. 171 Posted: 2018
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+190
+ABSTRACT VIEWS
+2,364
+RANK
+364,553
+3 Citations
+31 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Econometrics: Data Collection & Data Estimation Methodology eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

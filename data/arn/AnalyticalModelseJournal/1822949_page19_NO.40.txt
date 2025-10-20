@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Next Generation Balance Sheet Stress Testing
+
+IMF Working Paper No. 11/83
+
+43 Pages Posted: 26 Apr 2011
+
+Maher Mohamad Hasan
+
+International Monetary Fund (IMF)
+
+Christian Schmieder
+
+Bank for International Settlements (BIS)
+
+Claus Puhr
+
+Oesterreichische Nationalbank (OeNB)
+
+Date Written: April 2011
+
+Abstract
+
+This paper presents a "second-generation" solvency stress testing framework extending applied stress testing work centered on Cihák (2007). The framework seeks enriching stress tests in terms of risk-sensitivity, while keeping them flexible, transparent, and user-friendly. The main contributions include (a) increasing the risk-sensitivity of stress testing by capturing changes in risk-weighted assets (RWAs) under stress, including for non-internal ratings based (IRB) banks (through a quasi-IRB approach); (b) providing stress testers with a comprehensive platform to use satellite models, and to define various assumptions and scenarios; (c) allowing stress testers to run multi-year scenarios (up to five years) for hundreds of banks, depending on the availability of data. The framework uses balance sheet data and is Excel-based with detailed guidance and documentation.
+
+Keywords: Bank supervision, Banks, Basel Core Principles, Credit risk, Financial risk, Risk management
+
+Suggested Citation:
+
+Hasan, Maher Mohamad and Schmieder, Christian and Puhr, Claus, Next Generation Balance Sheet Stress Testing (April 2011). IMF Working Paper No. 11/83, Available at SSRN: https://ssrn.com/abstract=1822949
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+Screenshot of Bank-Specific Results Label Percentile , volume 8 Posted: 2009
+Appendix I
+2 SUPERVISORY STAGE OF BASEL II IMPLEMENTATION (Survey Carried out by the FSI Posted: 2010
+Appendix Iii , Corporate , Vs
+DEFAULT RATES Source: Moody's (2009) Corporate default and recovery rates Posted: 1920
+S&P's Speculative Grade Default and Recovery Rates (PD on the x-axis
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+358
+ABSTRACT VIEWS
+3,033
+RANK
+190,939
+1 Citations
+33 References
+PlumX Metrics
+Related eJournals
+
+International Monetary Fund (IMF) Research Paper Series
+
+Follow
+
+Risk Management eJournal
+
+Follow
+ 
+Recommended Papers
+
+Macroprudential Supervision of Financial Institutions: Lessons from the SCAP
+
+By Beverly Hirtle, Til Schuermann, ...
+
+Macro Stress Tests and Crises: What Can We Learn?
+
+By Rodrigo A. Alfaro and Mathias Drehmann
+
+Stressed Out: Macroprudential Principles for Stress Testing
+
+By David Greenlaw, Anil K. Kashyap, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

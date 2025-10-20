@@ -1,0 +1,146 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tail Risk and Asset Prices
+
+Chicago Booth Research Paper No. 13-67
+
+55 Pages Posted: 5 Sep 2013 Last revised: 11 Jan 2014
+
+Bryan T. Kelly
+
+Yale SOM; AQR Capital Management, LLC; National Bureau of Economic Research (NBER)
+
+Hao Jiang
+
+Erasmus University Rotterdam (EUR)
+
+There are 2 versions of this paper
+
+Date Written: August 1, 2013
+
+Abstract
+
+We propose a new measure of time-varying tail risk that is directly estimable from the cross section of returns. We exploit firm-level price crashes every month to identify common fluctuations in tail risk across stocks. Our tail measure is significantly correlated with tail risk measures extracted from S&P 500 index options, but is available for a longer sample since it is calculated from equity data. We show that tail risk has strong predictive power for aggregate market returns: A one standard deviation increase in tail risk forecasts an increase in excess market returns of 4.5% over the following year. Cross-sectionally, stocks with high loadings on past tail risk earn an annual three-factor alpha 5.4% higher than stocks with low tail risk loadings. These findings are consistent with asset pricing theories that relate equity risk premia to rare disasters or other forms of tail risk.
+
+Keywords: tail risk, time-varying risk, conditional expected returns, cross section of returns
+
+JEL Classification: G11, G12, G13, G17
+
+Suggested Citation:
+
+Kelly, Bryan T. and Jiang, Hao, Tail Risk and Asset Prices (August 1, 2013). Chicago Booth Research Paper No. 13-67, Available at SSRN: https://ssrn.com/abstract=2321243 or http://dx.doi.org/10.2139/ssrn.2321243
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+V Akgiray , G G Booth
+The stable-law model of stock returns
+Journal of Business & Economic Statistics , p. 51 - 57 Posted: 1988
+Crossref
+Linda Allen , G Turan , Yi Bali , Tang
+Does Systemic Risk in the Financial Sector Predict Future Economic Downturns?
+Review of Financial Studies , volume 25 , issue 10 , p. 3000 - 3036 Posted: 2012
+Crossref
+A Ang , G Bekaert
+Stock return predictability: Is it there?
+Review of Financial Studies , volume 20 , issue 3 Posted: 2007
+Crossref
+A Ang , J Chen , Y Xing
+Downside Risk
+The Review of Financial Studies , volume 19 , issue 4 Posted: 2006
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,303
+ABSTRACT VIEWS
+12,135
+RANK
+11,765
+33 Citations
+63 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Predictive Regressions
+
+By Robert F. Stambaugh
+
+Consumption, Aggregate Wealth and Expected Stock Returns
+
+By Martin Lettau and Sydney C. Ludvigson
+
+Risks for the Long Run: A Potential Resolution of Asset Pricing Puzzles
+
+By Ravi Bansal and Amir Yaron
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

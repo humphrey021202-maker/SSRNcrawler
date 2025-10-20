@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information Technology Governance and Corporate Boards’ Relationship with Companies’ Performance and Earnings Management: A Longitudinal Approach
+
+Sustainability, 15(8), 6492, 2023. https://doi.org/10.3390/su15086492
+
+24 Pages Posted: 28 Sep 2023
+
+Harman Preet Singh
+
+University of Ha'il
+
+Hilal Alhulail
+
+University of Ha'il
+
+Date Written: March 27, 2023
+
+Abstract
+
+In accordance with the segregation of oversight from management decision making, the board-level information technology governance is accountable for supervising managerial IT activities. This research empirically analyzes the impact of board-level IT governance on the performance and earnings management practices of Saudi Arabian stock exchange (Tad-awul)-listed companies between 2008 and 2020. The study sample includes cross-sectional time-series data from 154 firms with 18,018 firm-year observations. This study used regression analysis and other econometric models to examine probable endogeneities. The findings show that only the return on assets’ operational performance is positively and significantly related to board-level IT governance among the three performance metrics (return on assets, return on eq-uity, and Tobin’s Q). This indicates that a higher proportion of members with IT experience and the presence of a board-level IT professional as chief information officer/chief technology officer and an IT committee positively impact operational performance. Finally, board-level IT governance competence and other governance attributes do not deter earnings management practices. Therefore, countries like Saudi Arabia should enhance their corporate governance environment considering the increasing significance of IT governance (control, service, and monitoring). There is also a need to review provisions of the Saudi Arabia Corporate Governance Regulations, es-pecially for board composition, the appointment of independent and IT-literate directors, and penalties for non-compliance with regulations.
+
+Note:
+
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Keywords: board of directors; corporate governance; earnings management; firm performance; IT governance; information technology; Saudi Arabia
+
+JEL Classification: C23, C32, C83, M15, M48
+
+Suggested Citation:
+
+Singh, Harman Preet and Alhulail, Hilal, Information Technology Governance and Corporate Boards’ Relationship with Companies’ Performance and Earnings Management: A Longitudinal Approach (March 27, 2023). Sustainability, 15(8), 6492, 2023. https://doi.org/10.3390/su15086492, Available at SSRN: https://ssrn.com/abstract=4565036
+Download This Paper
+ 
+Open PDF in Browser
+146 References
+S Ali , P Green
+Effective Information Technology (IT) Governance Mechanisms: An IT Outsourcing Perspective
+Inf. Syst. Front , volume 14 , p. 179 - 193 Posted: 2012
+F D Sandulli , J Fernández-Menéndez , A Rodríguez-Duarte , J I López-Sánchez
+The Productivity Payoff of Information Technology in Multimarket SMEs
+Small Bus. Econ , volume 39 , p. 99 - 117 Posted: 2012
+M Lazic
+IT Governance and Business Performance-A Resource Based Analysis
+Proceedings of the Pacific Asia Conference on Information Systems (PACIS 2011) , p. 7 - 11 Posted: 2011-07
+A Hamdan , R Khamis , M Anasweh , M Al-Hashimi , A Razzaque
+IT Governance and Firm Performance: Empirical Study From Saudi Arabia
+SAGE Open , volume 9 , p. 178 - 194 Posted: 2019
+Load more
+3 Citations
+Harman Preet Singh , Mujahid Alwaqaa
+The Educational Technology's Impact on Youth Creativity and Innovation: A Case of Ha’il Region of Saudi Arabia
+Revista Amazonia Investiga, 12(66), 144–154, 2023; https://doi.org/10.34069/AI/2023.66.06.14, · 11 Pages · Posted: 2 Oct 2023 · Downloads: 122
+Download PDF  Add Paper to My Library
+Hilal Alhulail , Harman Preet Singh
+Impact of Multimedia Technology on University Students Learning Agility and Creativity
+Alhulail, H.N., & Singh, H.P. (2023). Impact of multimedia technology on university students learning agility and creativity. Amazonia Investiga, 12(70), 189-199. https://doi.org/10.34069/AI/2023.70.10.17 · 11 Pages · Posted: 20 Feb 2024 · Downloads: 95
+Download PDF  Add Paper to My Library
+Ibrahim Alhamad , Harman Preet Singh
+Predicting Dropout at Master Level Using Educational Data Mining: A Case of Public Health Students in Saudi Arabia
+Revista Amazonia Investiga, Vol. 13, No. 74, pp. 264-275, https://doi.org/10.34069/AI/2024.74.02.22 · 12 Pages · Posted: 28 May 2024 · Downloads: 36
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+87
+ABSTRACT VIEWS
+811
+RANK
+677,550
+3 Citations
+146 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

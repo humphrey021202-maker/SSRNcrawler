@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Forecast Accuracy and Consistent Preferences for the Timing of Information Arrival
+
+Contemporary Accounting Research, Forthcoming
+
+Posted: 10 Jun 2019
+
+Christian Hofmann
+
+Ludwig Maximilian University of Munich (LMU) - Faculty of Business Administration (Munich School of Management)
+
+Naomi Rothenberg
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+There are 2 versions of this paper
+
+Date Written: December 21, 2018
+
+Abstract
+
+We study a principal's choice of whether to produce an imperfect forecast about a firm's outcome either before or after an agent's effort choice. The early forecast affects the agent's effort choice, which means the forecast can also be used to infer information about the effect of the agent's effort on outcome. The late forecast is more accurate because, by working hard, the agent also learns about productivity, implying that the late forecast has an additional performance measurement role. With verifiable information, the principal prefers a late forecast when the agent's effect on the accuracy of the forecast is either large or small. The agent has consistent preferences when his effect on the accuracy of the late forecast is not too large. With unverifiable information, the agent's information rents imply that the principal cannot use either forecast as a performance measure. Thus, the accuracy of the late forecast has no effect on the principal's preference. However, if the accuracy of the early forecast is low and its decision‐making function is diminished, the principal prefers a late signal.
+
+Keywords: principal-agent theory, timing; accuracy
+
+JEL Classification: M41, D82, L20, D80
+
+Suggested Citation:
+
+Hofmann, Christian and Rothenberg, Naomi, Forecast Accuracy and Consistent Preferences for the Timing of Information Arrival (December 21, 2018). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3393609
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+730
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

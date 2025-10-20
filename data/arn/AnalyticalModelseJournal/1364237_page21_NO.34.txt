@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Equilibrium in Securities Markets with Heterogeneous Investors and Unspanned Income Risk
+
+38 Pages Posted: 23 Mar 2009 Last revised: 4 May 2011
+
+Peter O. Christensen
+
+Copenhagen Business School - Department of Finance
+
+Kasper Larsen
+
+Rutgers, The State University of New Jersey
+
+Claus Munk
+
+Copenhagen Business School
+
+Date Written: May 2, 2011
+
+Abstract
+
+In a finite time horizon, incomplete market, continuous-time setting with dividends and investor incomes governed by arithmetic Brownian motions, we derive closed-form solutions for the equilibrium risk-free rate and stock price for an economy with a finite set of heterogeneous CARA investors and unspanned income risk. In equilibrium, the Sharpe ratio is the same as in an otherwise identical complete market economy, whereas the risk-free rate is lower and, consequently, the stock price is higher. The reduction in the risk-free rate is highest when the more risk-averse investors face the largest unspanned income risk. In numerical examples with reasonable parameters, the risk-free rate is reduced by several percentage points.
+
+Keywords: Unspanned income, heterogeneous preferences, continuous-time equilibrium, risk-free rate puzzle, equity premium, incomplete markets, Brownian motion
+
+JEL Classification: G12, G11, D53
+
+Suggested Citation:
+
+Christensen, Peter Ove and Larsen, Kasper and Munk, Claus, Equilibrium in Securities Markets with Heterogeneous Investors and Unspanned Income Risk (May 2, 2011). Available at SSRN: https://ssrn.com/abstract=1364237 or http://dx.doi.org/10.2139/ssrn.1364237
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+S R Aiyagari , M Gertler
+Asset Returns with Transactions Costs and Uninsured Individual Risk
+Journal of Monetary Economics , volume 27 , issue 3 , p. 311 - 331 Posted: 1991
+Crossref
+O P Attanasio , M Paiella
+Intertemporal Consumption Choices, Transaction Costs and Limited Participation in Financial Markets: Reconciling Data and Theory
+Journal of Applied Econometrics , volume 26 , issue 2 , p. 322 - 343 Posted: 2011
+Crossref
+R Bansal , A Yaron
+Risks for the Long Run: A Potential Resolution of Asset Pricing Puzzles
+Journal of Finance , volume 59 , issue 4 , p. 1481 - 1509 Posted: 2004
+Crossref
+S Ba¸sakba¸sak
+A Model of Dynamic Equilibrium Asset Pricing with Heterogeneous Beliefs and Extraneous Risk
+Journal of Economic Dynamics & Control , volume 24 , issue 1 , p. 63 - 95 Posted: 2000
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+422
+ABSTRACT VIEWS
+3,320
+RANK
+158,514
+1 Citations
+61 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Recommended Papers
+
+Asset Pricing with Heterogeneous Beliefs
+
+By Suleyman Basak
+
+The Term Structure of Interest Rates in a Pure Exchange Economy with Heterogeneous Investors
+
+By Jiang Wang
+
+Heterogeneous Expectations and Bond Markets
+
+By Hongjun Yan and Wei Xiong
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

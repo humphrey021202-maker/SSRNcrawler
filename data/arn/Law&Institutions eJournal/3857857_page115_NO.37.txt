@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Micro-Corporate-Governance of a Strictly Informational Cascade, As Illustrated with Analysis of the Performativity of the Black-Scholes-Merton Model
+
+83 Pages Posted: 3 Jun 2021 Last revised: 8 Jun 2021
+
+Henry Wurts
+
+Independent
+
+Date Written: June 7, 2021
+
+Abstract
+
+While macro-corporate-governance (e.g., addressing how a governance process should be administered within a corporate structure) seems to be widely discussed in academic literature, a discussion of micro-corporate-governance (e.g., assessing specific models, including regarding whether they accurately represent a corporate risk exposure) seems sparse, as does midi-corporate-governance (e.g., the model validation process itself, as an administered process toward specific models). An important part of corporate governance (CG) is the model validation (MV) process, with one example of micro-CGMV being how “strictly informational cascades” can influence a validation process, even perhaps suggesting that model validation is not required. Yet, such cascades are not often transparent, and not often detected by validators who are not technically trained. This paper illustrates how a variety of “attention directing tools” used as “fast and frugal heuristics” can help in the model validation process in general and the specific task of identifying “strictly informational cascades.” The tools are applied toward the Black-Scholes-Merton Model, a seminal financial derivatives model that is approaching a 50th anniversary of publication, and are illustrated to demonstrate that lessons can be learned to apply to more-complex models and more-complex financial instruments.
+
+Keywords: corporate governance, model validation, strictly informational cascade, CGMV, micro-CGMV, performativity, Black-Scholes-Merton (BSM) Model, Bad Creativity
+
+JEL Classification: G3, G32, G12, G13, B26, C52
+
+Suggested Citation:
+
+Wurts, Henry, On the Micro-Corporate-Governance of a Strictly Informational Cascade, As Illustrated with Analysis of the Performativity of the Black-Scholes-Merton Model (June 7, 2021). Available at SSRN: https://ssrn.com/abstract=3857857 or http://dx.doi.org/10.2139/ssrn.3857857
+Download This Paper
+ 
+Open PDF in Browser
+169 References
+Consider 4 lessons, of the many that can be identified. Lesson 1. The SIC that have been identified regarding the BSM Model generally (mis)apply wherever the BSM Model has been applied, yet also serve as a frame for evaluating more-complex models and more-complex financial instruments (i.e., MCMI). In the process, a similar claim made regarding the Put-Call Parity analysis (and lessons-learned in Wurts
+derivation and application, and merely repeats mistakes others have canonized. And specific SIC have been identified regarding the BSM Model, even specifically regarding "failures" of derivation Posted: 2018
+for which such a hedge is not only Incomplete, it is also Unattainable. Lesson 2. Another important lesson-learned is that the BSM Model applies to only some options and not all options, yet not in the specific manner the predominate SIC represents. Namely, and in contrast, the BSM Model does apply to some American style options (e.g., when the owner chooses never to exerciseearly the option and the underwriter chooses never to default, and other details are attended to) Posted: 1974
+where writers (1) reference a cognitive burden imposed by an effective HSBB frame (even adding Kassouf (1965), as mentioned in the MacKenzie Cognitive Simplicity Statement in Theme 1.2 in subsection 2.2.4, which would make it a HSBKB frame) that requires additional parameters to be estimated (e.g., as a cognitive burden) but (2) fail to reference that the BSM model simply assumes comparative restrictive parameterization without even providing evidence that such parameterization is rightly valid
+] and not to stand-alone options; further, the model presumes no option will default. And yet, the (rational) uncodified option valuation paradigm
+So Fifth
+And even where "performativity" is described as "[the model does something and not merely describes something]," fails to adequately describe how the model even lives up to the precursor "describes" before "does" is identified. For example, there seems to be a dearth of evidence to demonstrate that BSM Prices (i.e., pricing calculations where the aggregate input (i.e., the {mu, sigma, S, r} quadruplet) has been demonstrated to be in compliance with derivation requirements according to the two generic hedge-portfolio derivations provided by Black and Scholes (1973) and Merton (1973)) have ever been identified as observed market prices-regardless of the ease of demonstrating that mere BSM price calculations can be demonstrated to equate to observed market prices when (in a circular argument) the corresponding BSM Implied Volatility is used as input (for chosen, but not verified, S and r input). Hence, a performativity of observed option prices has yet to be demonstrated, despite considerable evidence of performativity of modeling technology use. Yet, while modeling technology use has increased, it has done so with a risk reconceptualization that has "swept away" even the evaluation of underlying risk (e.g., by assuming infinitesimal stock price movement is GND, despite that even the first ability to measure price movement (i.e., tick-by-tick) provides evidence of noninfinitesimal non-Gaussian movement)
+th Anniversary, what has the BSM approach actually accomplished as being performative? Interestingly, some measures of the "success" and accomplishment of the BSM Model have not necessarily been clear regarding how either "success" or "accomplishment" has been measured
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+52
+ABSTRACT VIEWS
+699
+RANK
+906,046
+169 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

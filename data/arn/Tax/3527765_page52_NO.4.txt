@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Worldwide Network of Tax Evasion: Evidence from the Panama Papers
+
+38 Pages Posted: 26 Feb 2020
+
+Fernando Garcia Alvarado
+
+Université Paris I Panthéon-Sorbonne; Ca Foscari University of Venice
+
+Antoine Mandel
+
+Université Paris I Panthéon-Sorbonne; Climate Finance Alpha
+
+Date Written: November 29, 2019
+
+Abstract
+
+This paper builds on recent insights from network theory and on the rich dataset made available by the Panama Papers in order to investigate the micro-economic dynamics of tax-evasion. We model offshore financial entities documented in the Panama Papers as links between jurisdictions in the global network of tax evasion. A quantitative analysis shows that the resulting network, far from being a random collection of bilateral links, has key features of complex networks such as a core-periphery structure and a fat-tail degree distribution. We argue that these structural features imply that policy must adopt a systemic perspective on the matter. We offer three sets of insights from this perspective. First, we identify through centrality measures tax havens that ought to be priority policy targets. Second, we show that efficient tax treaties must contain exchange information clauses and link tax-havens to non-haven jurisdictions. Third, we show that the optimal deterrence strategies for a social-planner facing a strategic tax-evader in a Stackelberg competition can be characterized using the notion of Bonacich centrality.
+
+Keywords: Tax Evasion, Socio-economic Networks, Game Theory
+
+JEL Classification: H26, H87, D85, C54
+
+Suggested Citation:
+
+Garcia Alvarado, Fernando and Garcia Alvarado, Fernando and Mandel, Antoine, The Worldwide Network of Tax Evasion: Evidence from the Panama Papers (November 29, 2019). Available at SSRN: https://ssrn.com/abstract=3527765 or http://dx.doi.org/10.2139/ssrn.3527765
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+Alvarez
+Understanding the risks of shell shelf companies Posted: 2017
+&amp; Alvarez , Marsal
+Crossref
+M Aouchiche , F K Bell , D Cvetkovi´ccvetkovi´c , P Hansen , P Rowlinson , S K Simi´csimi´c , D Stevanovi´cstevanovi´c
+Variable neighborhood search for extremal graphs. 16. some conjectures related to the largest eigenvalue of a graph
+European Journal of Operational Research , volume 191 , issue 3 , p. 661 - 676 Posted: 2008
+Crossref
+C Ballester , A Calvó-Armengol , Y Zenou
+Who's who in networks. wanted: The key player
+Econometrica , volume 74 , issue 5 , p. 1403 - 1417 Posted: 2006
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+178
+ABSTRACT VIEWS
+1,317
+RANK
+386,928
+40 References
+PlumX Metrics
+Related eJournals
+
+Economics of Networks eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

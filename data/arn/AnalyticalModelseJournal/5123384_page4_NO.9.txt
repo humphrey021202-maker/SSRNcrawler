@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Non-English Textual Analysis with Large Language Models: Analysts’ Use of MD&A Sentiment in Earnings Forecasting
+
+48 Pages Posted: 4 Feb 2025 Last revised: 20 Aug 2025
+
+Jaehee Jang
+
+Hanyang University - School of Business
+
+Xiaoying Wu
+
+Hanyang University
+
+Date Written: March 10, 2025
+
+Abstract
+
+After a decade of research on the information content of firms’ financial disclosures, do analysts actually use this information? This study investigates whether analysts incorporate information from the Management Discussion and Analysis (MD&A) sections of annual reports into their earnings forecasts. We also explore the utility of Large Language Models (LLMs) for non-English text sentiment analysis, particularly where a traditional dictionary approach is impossible. We demonstrate that LLM-extracted sentiment is robust and mitigates concerns about look-ahead bias inherent in their training data. Analyzing MD&A sections from South Korean firms, we find that positive sentiment is negatively associated with analyst earnings forecast errors, indicating that analysts do incorporate it into their forecasts. However, negative sentiment is positively associated with forecast errors, suggesting incomplete analyst response. Leveraging LLMs for textual sentiment analysis, our findings suggest that analysts partially, but not fully, utilize the textual sentiment of MD&A sections in their earnings forecasts.
+
+Keywords: Analysts’ forecast errors, Analysts’ optimistic bias, Large Language Model, MD&A, Sentiment analysis, Textual analysis
+
+Suggested Citation:
+
+Jang, Jaehee and Wu, Xiaoying, Non-English Textual Analysis with Large Language Models: Analysts’ Use of MD&A Sentiment in Earnings Forecasting (March 10, 2025). Available at SSRN: https://ssrn.com/abstract=5123384 or http://dx.doi.org/10.2139/ssrn.5123384
+Download This Paper
+ 
+Open PDF in Browser
+56 References
+D Aboody , R Lehavy , B Trueman
+Limited attention and the earnings announcement returns of past stock market winners
+Review of Accounting Studies , volume 15 , issue 2 , p. 317 - 344 Posted: 2010
+S Beckers , M Steliaros , A Thomson
+Bias in European Analysts' Earnings Forecasts , volume 60 , p. 74 - 85 Posted: 2004
+T Bourveau , A Garel , P Joos , A Petit-Romec
+When attention is away, analysts misplay: distraction and analyst forecast performance
+Review of Accounting Studies , volume 29 , issue 1 , p. 916 - 958 Posted: 2024
+R Bird , D Yeung
+How do investors react under uncertainty?
+Pacific Basin Finance Journal , volume 20 , issue 2 , p. 310 - 327 Posted: 2012
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+122
+ABSTRACT VIEWS
+1,694
+RANK
+531,260
+56 References
+PlumX Metrics
+Related eJournals
+
+Corporate Governance & Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

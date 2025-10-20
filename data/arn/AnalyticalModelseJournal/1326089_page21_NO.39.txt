@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Agency Theory of Conservative Accrual Accounting
+
+Simon School Working Paper No. FR 09-11
+
+37 Pages Posted: 13 Jan 2009 Last revised: 26 Aug 2009
+
+Michael Raith
+
+University of Rochester - Simon Business School
+
+Date Written: August 23, 2009
+
+Abstract
+
+This paper argues that accrual-based financial accounting, including the conservative recognition of anticipated cash flows, mimics the properties of an optimal multi-period incentive contract between a firm and a manager. I study a two-period principal-agent model in which a manager can be compensated based on an early signal of a future outcome of his action, or (later) based on the outcome itself. In this dynamic setting it is optimal to use both performance measures even if the signal is strictly noisier than the outcome. Accrual accounting enables the firm and the manager to "settle up" in each period, which is optimal if the manager cannot commit to a long-term contract. Conservative accruals attribute to a period only the portion of expected cash flows that is explained, in a Bayesian sense, by information available in that period. I relate these results to conventional accounting rules and the literature on conservatism.
+
+Keywords: incentive contracts, accrual accounting,conservatism, unconditional conservatism
+
+JEL Classification: D86, G34, M41, M44, M46, M52
+
+Suggested Citation:
+
+Raith, Michael, An Agency Theory of Conservative Accrual Accounting (August 23, 2009). Simon School Working Paper No. FR 09-11, Available at SSRN: https://ssrn.com/abstract=1326089 or http://dx.doi.org/10.2139/ssrn.1326089
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+The earnings equation can be generalized to E 1 = ϕz + k since β 1 k and −γk are constants that can be added to α 1 and subtracted from α 2 , respectively. References Ball, Ray, and Lakshmanan Shivakumar
+Earnings Quality in UK Private Firms: Comparative Loss Recognition Timeliness , volume 39 , p. 83 - 128 Posted: 2005
+Michael Barclay , Dan Gode , S P Kothari
+Measuring Delivered Performance
+Journal of Contemporary Accounting and Economics , volume 1 , p. 1 - 25 Posted: 2005
+Crossref
+Sudipta Basu
+The Conservatism Principle and the Asymmetric Timeliness of Earnings
+Journal of Accounting and Economics , volume 24 , p. 3 - 37 Posted: 1997
+Crossref
+William H Beaver , Stephen G Ryan
+Conditional and Unconditional Conservatism: Concepts and Modeling , volume 10 , p. 269 - 309 Posted: 2005
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,550
+ABSTRACT VIEWS
+10,389
+RANK
+12,558
+6 Citations
+33 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Ownership Chains in Multinational Enterprises
+
+50 Pages Posted: 19 Jun 2023 Last revised: 8 May 2025
+
+Stefania Miricola
+
+IMT School for Advanced Studies Lucca - Analysis of Complex Economic Systems Unit
+
+Armando Rungi
+
+Scuola IMT Alti Studi Lucca
+
+Gianluca Santoni
+
+Centre d'Etudes Prospectives et d'Info. Internationales (CEPII)
+
+Date Written: April 30, 2023
+
+Abstract
+
+This study examines how multinational enterprises (MNEs) structure ownership chains to coordinate subsidiaries across multiple national borders. Using a unique global dataset, we first document key stylized facts: 54% of subsidiaries are controlled through indirect ownership, and ownership chains can span up to seven countries. In particular, we find that subsidiaries further down the hierarchy tend to be more geographically distant from the parent and often operate in different time zones. This suggests that the ease of communication along ownership chains is a critical determinant of their structure. Motivated by these findings, we develop a location choice model in which parent firms compete for corporate control of final subsidiaries. When monitoring is costly, they may delegate control to an intermediate affiliate in another jurisdiction. The model generates a two-stage empirical strategy: (i) a trilateral equation that determines the location of an intermediate affiliate conditional on the location of final subsidiaries; and (ii) a bilateral equation that predicts the location of final investment. Our empirical estimates confirm that the ease of communication at the country level significantly influences the location decisions of affiliates along ownership chains. These findings underscore the importance of organizational frictions in shaping global corporate structures and provide new insights into the geography of multinational ownership networks.
+
+Keywords: multinational enterprises, ownership structure, corporate control, ease of communication, knowledge hierarchies, ownership chains
+
+JEL Classification: F23, L23, G34, L22
+
+Suggested Citation:
+
+Miricola, Stefania and Rungi, Armando and Santoni, Gianluca, Ownership Chains in Multinational Enterprises (April 30, 2023). Available at SSRN: https://ssrn.com/abstract=4474239 or http://dx.doi.org/10.2139/ssrn.4474239
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+P Aghion , J Tirole
+Formal and real authority in organizations
+Journal of political economy , volume 105 , issue 1 , p. 1 - 29 Posted: 1997
+L Alfaro , P Antràs , D Chor , P Conconi
+Internalizing Global Value Chains: A Firm-Level Analysis
+Journal of Political Economy , volume 127 , issue 2 , p. 508 - 559 Posted: 2019
+C Altomonte , G I Ottaviano , A Rungi , T Sonno
+Business groups as knowledge-based hierarchies of firms Posted: 2021
+C Altomonte , A Rungi
+Business groups as hierarchies of firms: determinants of vertical integration and performance Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+116
+ABSTRACT VIEWS
+755
+RANK
+552,669
+2 Citations
+53 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

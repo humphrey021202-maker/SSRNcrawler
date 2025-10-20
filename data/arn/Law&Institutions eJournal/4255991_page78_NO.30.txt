@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Role of Social Media in the Corporate Bond Market: Evidence from Twitter
+
+Management Science
+
+Rotman School of Management Working Paper No. 4255991
+
+59 Pages Posted: 31 Oct 2022
+
+Eli Bartov
+
+NYU Stern School of Business
+
+Lucile Faurel
+
+Arizona State University (ASU) - School of Accountancy
+
+Partha S. Mohanram
+
+Rotman School of Management, University of Toronto
+
+There are 2 versions of this paper
+
+Date Written: October 23, 2022
+
+Abstract
+
+Prior studies document the role social media information plays in the stock market as well as the important dissimilarities between the bond and stock markets. Bridging these two literatures, we examine the role of social media information in the corporate bond market. Analyzing a broad sample of messages by Twitter individual users, posted just prior to earnings announcements, containing bond, credit risk, and fundamental information, we find that aggregate Twitter opinion (OPI) predicts upcoming announcement bond returns and changes in CDS spreads, and is associated with future changes in bond yield spreads and credit ratings, thereby providing economically important information to the bond market. This interpretation is bolstered by results from a variety of cross-sectional analyses. Finally, we document an association between OPI and future changes in default risk, which casts light on the nature of the Twitter information underlying our findings. Overall, our findings demonstrate that Twitter appears to disseminate potentially economically important information to even the presumably sophisticated bond and CDS investors, as well as information intermediaries.
+
+Keywords: Twitter, social media, credit risk, default risk, bankruptcy risk, earnings, CDS, bond yield, bond returns
+
+JEL Classification: M41, G14
+
+Suggested Citation:
+
+Bartov, Eli and Faurel, Lucile and Mohanram, Partha S., The Role of Social Media in the Corporate Bond Market: Evidence from Twitter (October 23, 2022). Management Science, Rotman School of Management Working Paper No. 4255991, Available at SSRN: https://ssrn.com/abstract=4255991
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+193
+ABSTRACT VIEWS
+917
+RANK
+42,583
+PlumX Metrics
+Related eJournals
+
+University of Toronto - Rotman School of Management Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

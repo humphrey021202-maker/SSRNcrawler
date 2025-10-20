@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Importance of Other Information in Setting Stock Prices: A Cross-Country Comparison
+
+26 Pages Posted: 1 Sep 2004
+
+David A. Guenther
+
+University of Oregon - Department of Accounting
+
+Kevin Jialin Sun
+
+St. John's University
+
+Date Written: September 1, 2004
+
+Abstract
+
+We investigate the explanatory power that Ohlson's (1995) other information (v) has for explaining stock prices in different countries. We use analysts' earnings forecasts to estimate the value of other information for a sample of public companies in seven industrialized countries. We hypothesize that in those countries where financial accounting earnings are more (less) value relevant, other information will be less (more) important in setting stock prices. We estimate separate firm-level time-series regressions, and our measure of value relevance is the increase in R2 from a regression of prices on book value, residual income, and other information. The increase in R2 from adding residual income to the model is negatively correlated with the increase from adding other information across our sample countries. Our results provide evidence that other information tends to be more (less) value relevant in those countries in which earnings information is less (more) value relevant.
+
+JEL Classification: G12, M41
+
+Suggested Citation:
+
+Guenther, David A. and Sun, Kevin Jialin, The Importance of Other Information in Setting Stock Prices: A Cross-Country Comparison (September 1, 2004). Available at SSRN: https://ssrn.com/abstract=586214 or http://dx.doi.org/10.2139/ssrn.586214
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+A Ali , L Hwang
+Country-specific factors related to financial reporting and the value relevance of accounting data
+Journal of Accounting Research , volume 38 , p. 1 - 21 Posted: 2000
+Crossref
+R Ball
+Infrastructure requirements for an economically efficient system of public financial reporting and disclosure
+Brookings-Wharton Papers on Financial Services Posted: 2001
+Crossref
+R Ball , S P Kothari , A Robin
+The effect of international institutional factors on properties of accounting earnings
+Journal of Accounting and Economics , volume 29 , p. 1 - 51 Posted: 2000
+Crossref
+R Ball , A Robin , J Wu
+Incentives versus standards: properties of accounting income in four East Asian countries
+Journal of Accounting and Economics , volume 36 , p. 235 - 270 Posted: 2003
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+303
+ABSTRACT VIEWS
+3,039
+RANK
+229,292
+29 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

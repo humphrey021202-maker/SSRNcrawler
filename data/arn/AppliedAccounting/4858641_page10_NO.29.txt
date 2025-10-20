@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Applied Earned Value Management Based on "Cost Engineering Principles"-With Practical Case Studies for Validation Purposes 
+
+29 Pages Posted: 17 Jun 2024
+
+Paul D Giammalvo, Ph.D.
+
+Independent
+
+Date Written: November 07, 2019
+
+Abstract
+
+Two important papers, “It’s Time to “Reboot” Earned Value Management” 2 and “Planning for the Future of Earned Value Management,” 3 were recently published in the March issue of the Defense Acquisition University’s (DAU) blog. In these well-written, well-documented papers, the authors summarized many years of relatively recent experience, both their own and that of others, telling us what, as taxpayers, we all knew intuitively, and that is “Earned Value Management” at least as practiced under ANSI 748 C or D has not worked, at least in the context of measuring and validating “value for money” by the US Governments stewardship of taxpayer funds.
+
+Specifically, one author posited that: “Program leaders need to stop the bleeding and redirect budget resources when EVM analysis shows that progress is too slow, too expensive, and fails to meet performance goals or provide timely, reliable information. This is a fundamental change in emphasis. The audit-like DoD compliance process is sclerotic. It is implemented by external specialists who lack detailed knowledge of the project and have no stake in the outcome.” When someone with the gravitas of these authors and others from the DAU4 tells us it is time to rethink Applied Earned Value Management, don’t you think we need to take his advice seriously?
+
+Back around 2006, Brian Hobbs and Claude Besner published research showing that “Earned Value” was used “from limited to very limited use” and that “S-Curves and Statistical Process Control Charts” experienced “less than very limited use.”5 This was also followed in 2006 in published research by Chance Reichel, who told us, “Unfortunately, it seems as if this phrase or title, “Earned Value Management,” is met and greeted with dread of being required to adopt EVM".
+
+Other published research indicates that very few project managers used EVM, at least not as the US DoD/DAU advocated it in the Earned Value Management Systems Intent Guide (EIA-748-D Intent Guide)
+
+Declaration of Interest
+
+All published research has been uploaded under Creative Commons License BY SA and is made available for anyone to use at NO COST.
+
+Ethics Approval
+
+All case studies have been approved for use by the participants
+
+Funder Statement
+
+This research was self-funded
+
+Suggested Citation:
+
+Giammalvo, Paul D, Applied Earned Value Management Based on "Cost Engineering Principles"-With Practical Case Studies for Validation Purposes  (November 07, 2019). Available at SSRN: https://ssrn.com/abstract=4858641 or http://dx.doi.org/10.2139/ssrn.4858641
+Download This Paper
+ 
+Open PDF in Browser
+14 References
+Giammalvo
+Posted: 2022
+Giammalvo
+Posted: 2020
+Giammalvo
+Posted: 2019
+Giammalvo
+Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+50
+ABSTRACT VIEWS
+377
+14 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Artificial Intelligence eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

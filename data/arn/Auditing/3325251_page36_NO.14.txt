@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Fee Competition Among Big 4 Auditors and Audit Quality
+
+Review of Quantitative Finance and Accounting (February 2019), 52(2): 403-438.
+
+Posted: 9 Feb 2019
+
+Sharad Asthana
+
+University of Texas-San Antonio
+
+Inder K. Khurana
+
+University of Missouri at Columbia - Robert J. Trulaske, Sr. College of Business
+
+K. K. Raman
+
+The University of Texas at San Antonio
+
+Date Written: February 2019
+
+Abstract
+
+Both the GAO (2003, 2008) and the US Treasury (2008) have implied that the Big 4 dominated US audit market lacks competition. More recently, the PCAOB has expressed a somewhat different concern, i.e., that because audit committees may be primarily interested in negotiating a lower audit fee (rather than championing higher audit quality) for their clients, fee competition in the US audit market could pressure the incumbent auditor to compromise on audit quality (Doty 2011). We utilize the notion of counterfactual fees chargeable by auditors to assess fee competition and investigate competing views on the relation between fee competition among Big 4 auditors and audit quality in US local audit markets. To operationalize fee competition at the client-level in the context of each local audit market, we compute a separate counterfactual audit fee that would be charged by every other Big 4 auditor for that particular engagement and use the minima of the counterfactuals. We validate our audit fee competition metric by showing a positive relation with the incumbent auditor’s switching risk. Collectively, our findings suggest that fee competition is useful as a mechanism for improving audit quality in the highly concentrated US audit market, albeit only in local audit markets where the incumbent auditor has below-median market power and only for higher quality clients. Overall, our findings speak to the interplay between fee competition and auditor incentives and is are of potential interest to regulators such as the PCAOB concerned about competition in US audit markets.
+
+Keywords: Big 4 Firms, Audit Fee Competition, Audit Quality, PCAOB
+
+JEL Classification: M41, M42
+
+Suggested Citation:
+
+Asthana, Sharad and Khurana, Inder and Raman, K. K., Fee Competition Among Big 4 Auditors and Audit Quality (February 2019). Review of Quantitative Finance and Accounting (February 2019), 52(2): 403-438. , Available at SSRN: https://ssrn.com/abstract=3325251
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,200
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

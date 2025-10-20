@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Voluntary Disclosure of Granular Information
+
+56 Pages Posted: 14 Jun 2018 Last revised: 26 Jan 2021
+
+Alexander Nezlobin
+
+London School of Economics
+
+Date Written: May 29, 2018
+
+Abstract
+
+This paper presents a model of voluntary disclosure in which the manager's information about the firm's value is granular, i.e., consists of a large random number of imprecise signals. Using an argument in the spirit of the Bernstein-von Mises theorem, we show that there exists a simple equilibrium in which the manager discloses all signals exceeding a certain threshold, and the market prices the firm using the same linear rule on and off the equilibrium path. In contrast to models with monolithic information, the manager chooses the optimal disclosure threshold effectively ignoring the effect of disclosure on the investors's residual uncertainty about the firm's value.
+
+Keywords: Bayesian Asymptotics, Voluntary Disclosure, Residual Uncertainty, Granular Information, Bernstein-Von Mises Theorem
+
+JEL Classification: D21, D82, G32, M41
+
+Suggested Citation:
+
+Nezlobin, Alexander, Voluntary Disclosure of Granular Information (May 29, 2018). Available at SSRN: https://ssrn.com/abstract=3186924 or http://dx.doi.org/10.2139/ssrn.3186924
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+V Acharya , P Demarzo , I Kremer
+Endogenous Information Flows and the Clustering of Announcements
+American Economic Review , volume 101 , p. 2955 - 79 Posted: 2011
+Crossref
+A Beyer , R Dye
+Reputation Management and the Disclosure of Earnings Forecasts
+Review of Accounting Studies , volume 17 , p. 877 - 912 Posted: 2012
+Crossref
+I Brocas , J Carrillo
+Inuence through Ignorance
+The RAND Journal of Economics , volume 38 Posted: 2007
+Crossref
+A Dasgupta
+Asymptotic Theory of Statistics and Probability Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+154
+ABSTRACT VIEWS
+1,930
+RANK
+439,204
+1 Citations
+9 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

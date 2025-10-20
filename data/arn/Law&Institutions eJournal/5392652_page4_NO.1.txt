@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cost Stickiness and Opportunistic Insider Trading
+
+49 Pages Posted: 15 Aug 2025
+
+Masako N. Darrough
+
+Baruch College - CUNY
+
+Ahsan Habib
+
+Massey University - School of Accountancy; Massey University
+
+Mahmud Hossain
+
+Clark Atlanta University
+
+There are 2 versions of this paper
+
+Abstract
+
+This study examines whether and how managers opportunistically manage costs to enhance insider trading profits. We hypothesize that prior to stock sales, self-serving managers reduce costs to inflate earnings and boost stock prices, while before stock purchases, they maintain higher costs to depress earnings and lower stock prices. These adjustments create an asymmetry that exacerbates or reduces cost stickiness—a phenomenon documented in the literature—where costs tend to increase more when sales rise than they decrease when sales fall. Using the classification method from Cohen, Malloy, and Pomorski (2012), we distinguish opportunistic from routine insider trades. Our results indicate that cost stickiness decreases prior to opportunistic sales and increases before opportunistic purchases. These patterns are robust across multiple definitions of insider trades and alternative measures of cost stickiness. Importantly, strong corporate governance mitigates the relationship between cost behavior and insider trading gains, while financial opacity amplifies it. The effects are particularly pronounced for trades executed by CEOs and CFOs. Our findings contribute to the literature on asymmetric cost behavior and real earnings management by demonstrating that managerial discretion over cost adjustments can be timed to maximize private trading profits—raising important implications for regulators and corporate governance.
+
+Keywords: Cost stickiness, inside trading, managerial opportunism, corporate governance
+
+Suggested Citation:
+
+Darrough, Masako N. and Habib, Ahsan and Hossain, Mahmud, Cost Stickiness and Opportunistic Insider Trading. Available at SSRN: https://ssrn.com/abstract=5392652 or http://dx.doi.org/10.2139/ssrn.5392652
+Download This Paper
+ 
+Open PDF in Browser
+73 References
+D Aboody , B Lev
+Information asymmetry, R&D, and insider gains
+The Journal of Finance , volume 55 , issue 6 , p. 2747 - 2766 Posted: 2000
+D Aboody , J Hughes , J Liu
+Earnings quality, insider trading and cost of capital
+Journal of Accounting Research , volume 43 , issue 5 , p. 651 - 673 Posted: 2005
+N Agarwal
+Cost stickiness and stock price delay
+European Accounting Review , volume 33 , issue 3 , p. 855 - 879 Posted: 2024
+U Ali , D Hirshleifer
+Opportunism as a firm and managerial trait: Predicting insider trading profits and misconduct
+Journal of Financial Economics , volume 126 , issue 3 , p. 490 - 515 Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+24
+ABSTRACT VIEWS
+144
+73 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

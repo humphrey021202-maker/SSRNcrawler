@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Responsible Investors and Stock Market Feedback
+
+62 Pages Posted: 11 Dec 2022 Last revised: 2 Sep 2025
+
+Hui Chen
+
+University of Zurich
+
+Jan Schneemeier
+
+Michigan State University - Eli Broad College of Business
+
+Date Written: July 1, 2022
+
+Abstract
+
+We examine how stock market feedback affects corporate investment when responsible investors are active in the market. These investors experience a disutility when the firm’s investment decisions are misaligned with their non-financial preferences. A manager chooses between two projects that are ex-ante financially equivalent: a “green” one aligned with investor preferences and a “brown” one that is not (e.g., due to environmental or social concerns). The success of the project depends on matching the investment with the state of nature. Because responsible investors prefer holding green firms, trading is more informative when the firm signals green, strengthening market feedback. Anticipating this, the manager may misreport a brown signal as green to attract responsible investors. However, such manipulation can deter investors from acquiring information and reduce the firm's value. The mechanism is robust to alternative investor compositions, including cases where only the market maker is responsible.
+
+Keywords: Manipulation, market feedback, reporting strategy, price efficiency, real efficiency
+
+JEL Classification: G14, G30, M41
+
+Suggested Citation:
+
+Chen, Hui and Schneemeier, Jan, Responsible Investors and Stock Market Feedback (July 1, 2022). Available at SSRN: https://ssrn.com/abstract=4296418 or http://dx.doi.org/10.2139/ssrn.4296418
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+C Aghamolla , B.-J An
+Mandatory vs. voluntary ESG disclosure, efficiency, and real effects Posted: 2021
+A Arya , B Mittendorf , R N Ramanan
+Synergy between accounting disclosures and forward-looking information in stock prices
+The Accounting Review , volume 92 , issue 2 , p. 1 - 17 Posted: 2017
+A Arya , R N Ramanan
+Disclosure to regulate learning in product markets from the stock market
+The Accounting Review , volume 97 , issue 3 , p. 1 - 24 Posted: 2022
+S Banerjee , B Breon-Drish , K Smith
+Feedback effects and systematic risk exposures
+Journal of Finance , volume 80 , issue 2 , p. 981 - 1028 Posted: 2025
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+279
+ABSTRACT VIEWS
+1,276
+RANK
+249,893
+1 Citations
+55 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

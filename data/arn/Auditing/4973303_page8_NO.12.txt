@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do high partner workloads impair audit quality for public clients? Evidence from public and private clients
+
+49 Pages Posted: 24 Oct 2024 Last revised: 4 Feb 2025
+
+Mara Cameran
+
+Bocconi University - Department of Accounting
+
+Mark L. DeFond
+
+University of Southern California - Leventhal School of Accounting; European Corporate Governance Institute (ECGI)
+
+Pietro Perotti
+
+University of Bath - School of Management
+
+Angela Pettinicchio
+
+Catholic University of Milan
+
+Date Written: January 31, 2025
+
+Abstract
+
+Regulators in both Canada and the U.S. are concerned that high workloads reduce an engagement auditor’s ability to provide high quality audits to their public clients. Nevertheless, prior archival research finds no evidence that the number of clients in an engagement auditor’s portfolio affects the audit quality of their public clients. A limitation of this literature is that data constraints prevent the inclusion of private clients in measuring auditor workloads. This omission can result in large measurement errors because most auditors’ portfolios consist primarily of private clients. We overcome this limitation by using a U.K. database that includes both public and private audit clients. When both public and private clients are included, we find that engagement auditors with larger workloads provide lower quality audits to their public clients. Further, the lower audit quality is explained by engagement auditors with unusually large numbers of private clients, possibly to achieve engagement partner fee targets. We help mitigate concerns that our results are due to poorer quality auditors being assigned relatively larger portfolios by including partner fixed-effects, using instrumental variables, and employing propensity-score-matching. Our findings should help inform regulators of the effects of auditor workloads on the audit quality of listed clients.
+
+Suggested Citation:
+
+Cameran, Mara and DeFond, Mark and Perotti, Pietro and Pettinicchio, Angela,
+Do high partner workloads impair audit quality for public clients? Evidence from public and private clients
+(January 31, 2025). Available at SSRN: https://ssrn.com/abstract=4973303 or http://dx.doi.org/10.2139/ssrn.4973303
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+C P Agoglia , J F Brazel , R C Hatfield , S B Jackson
+How do audit workpaper reviewers cope with the conflicting pressures of detecting misstatements and balancing client workloads?
+Auditing: A Journal of Practice & Theory , volume 29 , issue 2 , p. 27 - 43 Posted: 2010
+C P Agoglia , R C Hatfield , T A Lambert
+Audit team time reporting: An agency theory perspective
+Accounting, Organizations and Society , volume 44 , p. 1 - 14 Posted: 2015
+J G Altonji , T E Elder , C R Taber
+Selection on observed and unobserved variables: Assessing the effectiveness of Catholic schools
+Journal of Political Economy , volume 113 , issue 1 , p. 151 - 184 Posted: 2005
+C Armstrong , J Kepler , D Samuels , D Taylor
+Causality Redux: The Evolution of Empirical Methods in Accounting Research and the Growth of Quasi-Experiments
+Journal of Accounting & Economics , volume 74 , issue 2-3 Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+167
+ABSTRACT VIEWS
+925
+RANK
+409,562
+63 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

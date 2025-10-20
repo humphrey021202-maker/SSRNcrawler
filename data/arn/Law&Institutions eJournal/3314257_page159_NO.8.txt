@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Identifying Board of Director Network Influence for Firm Characteristics
+
+34 Pages Posted: 14 Jan 2019 Last revised: 28 Mar 2019
+
+Aparna Gupta
+
+Rensselaer Polytechnic Institute (RPI)
+
+Abena Owusu
+
+Montclair State University - School of Business; Rensselaer Polytechnic Institute (RPI)
+
+Lei Zou
+
+Rensselaer Polytechnic Institute (RPI)
+
+Date Written: March 26, 2019
+
+Abstract
+
+We utilize network analysis to evaluate the relationship between firms’ characteristics and board of director networks. In a sample of 20 largest firms by market value from the energy and the utility industrials, 10 from each sector, we cluster the firms by their firm-level characteristics, as well as develop a multiplex network of the firms’ board members consisting of two major layers, one for board members’ direct connections and another for their indirect connections. Additionally, 4 sub-layers of each major layer of the multiplex network represent corporate, non-profit organization, education and government/military connections between the board members. Each layer of the multiplex network is weighted so that their combined effect can be depicted as a single layered directors’ network. The weights of the multiplex directors’ network are learned by relating a firm’s director network characteristics with the firm cluster characteristics. We observe that director networks display significant connectivity at all multiplex network layers and firms belonging to the same cluster display similar director network characteristics, specifically enhanced by appropriate weighting of director network layers. The optimal value of network layer weights are found by optimizing the cohesion of firms in a cluster and the director network multiplex layers.
+
+Keywords: network analysis, multiplex network, board of director, firm characteristics
+
+JEL Classification: G3, D85, D83
+
+Suggested Citation:
+
+Gupta, Aparna and Owusu, Abena Fosua and Zou, Lei, Identifying Board of Director Network Influence for Firm Characteristics (March 26, 2019). Available at SSRN: https://ssrn.com/abstract=3314257 or http://dx.doi.org/10.2139/ssrn.3314257
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+175
+ABSTRACT VIEWS
+2,175
+RANK
+392,891
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Economics of Networks eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

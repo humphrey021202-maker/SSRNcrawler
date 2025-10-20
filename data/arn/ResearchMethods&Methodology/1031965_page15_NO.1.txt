@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Alternative Approach to Firms' Evaluation: Expert Systems and Fuzzy Logic
+
+International Journal of Information Technology and Decision Making, Vol. 5, No. 1, pp. 195-225, March 2006
+
+22 Pages Posted: 7 Feb 2020
+
+Carlo Alberto Magni
+
+Università degli studi di Modena e Reggio Emilia (UNIMORE) - School of Doctorate E4E (Engineering for Economics-Economics for Engineering)
+
+Stefano Malagoli
+
+Università degli studi di Modena e Reggio Emilia (UNIMORE)
+
+Giovanni Mastroleo
+
+Università degli Studi della Calabria
+
+Abstract
+
+Discounted Cash Flow techniques are the generally accepted methods for valuing firms. Such methods do not provide explicit acknowledgment of the value determinants and overlook their interrelations. This paper proposes a different method of firm valuation based on fuzzy logic and expert systems. It does represent a conceptual transposition of Discounted Cash Flow techniques but, unlike the latter, it takes explicit account of quantitative and qualitative variables and their mutual integration. Financial, strategic and business aspects are considered by focusing on twenty-nine value drivers that are combined together via if-then rules. The output of the system is a real number in the interval [0,1], which represents the value-creation power of the firm. To corroborate the model a sensitivity analysis is conducted. The system may be used for rating and ranking firms as well as for assessing the impact of managers' decisions on value creation and as a tool of corporate governance.
+
+Keywords: firms' evaluation, fuzzy logic, expert system, rating, acquisition, sensitivity analysis, pricing
+
+JEL Classification: C8, C80, C88, G3, G31, G32, G34, M2
+
+Suggested Citation:
+
+Magni, Carlo Alberto and Malagoli, Stefano and Mastroleo, Giovanni, An Alternative Approach to Firms' Evaluation: Expert Systems and Fuzzy Logic. International Journal of Information Technology and Decision Making, Vol. 5, No. 1, pp. 195-225, March 2006, Available at SSRN: https://ssrn.com/abstract=1031965
+Download This Paper
+ 
+Open PDF in Browser
+68 References
+M G Abdel-Kader , D Dugdale , P Taylor
+Investment Decisions in Advanced Manufacturing Technology: A Fuzzy Set Theory Approach Posted: 1998
+J B Barney
+Strategic factor markets: Expectations, luck, and business
+Management Science , volume 32 , p. 1231 - 1241 Posted: 1986
+Crossref
+J B Barney
+Firm Resources and Sustained Competitive Advantage
+Journal of Management , volume 17 , p. 99 - 120 Posted: 1991
+Crossref
+J B Barney
+Is the resource-based 'view' a useful perspective for strategic management research? Yes , volume 26 , p. 41 - 57 Posted: 2001
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+626
+ABSTRACT VIEWS
+3,360
+RANK
+97,687
+68 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Entrepreneurship & Management eJournal
+
+Follow
+ 
+Recommended Papers
+
+A Fuzzy Expert System for Solving Real-Option Decision Processes
+
+By Carlo Alberto Magni, Giovanni Mastroleo, ...
+
+Strategic Options and Expert Systems: A Fruitful Marriage
+
+By Carlo Alberto Magni, Giovanni Mastroleo, ...
+
+The Use of Fuzzy Logic and Expert Systems for Rating and Pricing Firms: A New Perspective on Valuation
+
+By Stefano Malagoli, Carlo Alberto Magni, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

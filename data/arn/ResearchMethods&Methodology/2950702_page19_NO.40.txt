@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Multi-Method Evidence on Investors’ Reactions to Managers’ Self-Inclusive Language
+
+Accounting, Organizations, and Society 79: 1-19
+
+61 Pages Posted: 13 Apr 2017 Last revised: 16 Jun 2021
+
+Zhenhua Chen
+
+Louisiana State University, Baton Rouge - Department of Accounting
+
+Serena Loftus
+
+Kent State University - Department of Accounting
+
+Date Written: August 30, 2019
+
+Abstract
+
+We investigate the joint effect of managers’ self-inclusive language (SIL) and performance news on investors’ reactions to accounting disclosures. We identify two types of SIL: individual SIL, which includes first-person singular pronouns (e.g., I, me) and collective SIL, which includes first-person plural pronouns (e.g., we, us). When performance news is negative, individual SIL implies that a manager is claiming sole responsibility for the unfavorable event whereas collective SIL and SEL diffuse responsibility. Therefore, we predict higher perceptions of manager credibility for individual SIL relative to collective SIL or self-exclusive language (SEL) when performance news is negative, which, in turn, increase investment judgments. We use a between-subjects experiment to test our predictions. Results show higher perceptions of manager credibility and higher investment judgments for individual SIL relative to collective SIL or SEL when performance news is negative. Results of a maximum likelihood estimation suggest that perceptions of manager credibility mediate the effect of individual SIL on investment judgments, supporting the notion that individual SIL exerts an indirect effect on investment judgments. We supplement experimental evidence with an analysis of managers’ SIL in a large sample of earnings conference calls. We document a positive (negative) market reaction to individual (collective) SIL when performance news is negative, consistent with our hypothesis. We also find a positive market reaction to individual SIL when news is positive. Overall, our study offers multi-method evidence of the impact of a subtle and easily overlooked component of managers’ language on investors’ judgments.
+
+Keywords: Disclosure; Self-Inclusive Language; Pronouns; Investment Decision
+
+Suggested Citation:
+
+Chen, Zhenhua and Loftus, Serena, Multi-Method Evidence on Investors’ Reactions to Managers’ Self-Inclusive Language (August 30, 2019). Accounting, Organizations, and Society 79: 1-19, Available at SSRN: https://ssrn.com/abstract=2950702 or http://dx.doi.org/10.2139/ssrn.2950702
+Download This Paper
+ 
+Open PDF in Browser
+81 References
+H S Asay , R Libby , K M Rennekamp
+Do features that associate managers with a message magnify investors' reactions to narrative disclosures? Accounting
+Organizations and Society , p. 68 - 69 Posted: 2018
+Crossref
+S Asay , B Elliott , K Rennekamp
+Disclosure readability and the sensitivity of investors' valuation judgments to outside information
+The Accounting Review , volume 92 , p. 1 - 25 Posted: 2017
+Crossref
+S P Baginski , J M Hassell , W A Hillison
+Voluntary causal disclosures: Tendencies and capital market reaction
+Review of Quantitative Finance and Accounting Posted: 2000
+Crossref
+S P Baginski , J M Hassell , M D Kimbrough
+Why do managers explain their earnings forecasts
+Journal of Accounting Research , volume 42 , p. 1 - 29 Posted: 2004
+Crossref
+Load more
+13 Citations
+Christopher J. Demaline
+Disclosure characteristics of firms being investigated by the SEC
+Journal of Corporate Accounting & Finance , volume 30 , issue 4 , p. 11 Posted: 2019
+Crossref
+Hamilton Scott Asay , Robert Libby , Kristina M. Rennekamp
+Do Features that Associate Managers with a Message Magnify Investors' Reactions to Narrative Disclosures?
+46 Pages · Posted: 21 Nov 2013 · Last revised: 8 Feb 2018 · Downloads: 703
+Download PDF  Add Paper to My Library
+Jeremiah W. Bentley
+Improving the Statistical Power and Reliability of Research Using Amazon Mechanical Turk
+41 Pages · Posted: 28 Feb 2017 · Last revised: 11 Jan 2021 · Downloads: 771
+Download PDF  Add Paper to My Library
+Katlijn Haesebrouck
+The Effects of Information Acquisition Effort, Psychological Ownership, and Reporting Context on Opportunistic Managerial Reporting
+Contemporary Accounting Research, Forthcoming · 50 Pages · Posted: 15 Sep 2017 · Last revised: 10 Aug 2021 · Downloads: 176
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+471
+ABSTRACT VIEWS
+4,825
+RANK
+139,359
+13 Citations
+81 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

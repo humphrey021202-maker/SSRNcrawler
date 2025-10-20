@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Value Relevance of Alternative Methods of Accounting for Employee Stock Options
+
+52 Pages Posted: 1 Aug 2004
+
+Wayne R. Landsman
+
+University of North Carolina Kenan-Flagler Business School
+
+Ken V. Peasnell
+
+Lancaster University - Department of Accounting and Finance
+
+Peter F. Pope
+
+London School of Economics & Political Science (LSE)
+
+Shu Yeh
+
+National Taiwan University - Department of Accounting
+
+Date Written: July 29, 2004
+
+Abstract
+
+We use the residual income valuation framework to compare the equity valuation implications of four approaches to employee stock options (ESOs) accounting proposed by regulators: APB 25 "recognize nothing", SFAS 123 preferred "recognize ESO expense", FASB Exposure Draft "recognize and expense ESO asset" and "recognize ESO asset and ESO liability". Our theoretical analysis shows that only a version that involves grant date recognition of an asset and a liability, and subsequent marking-to-market of the liability, results in accounting numbers that accurately reflect the dilution effects of ESOs on current shareholder value. The other accounting methods lead to overstatement of current equity value. Out-of-sample and in-sample empirical tests are used to assess value relevance of the four accounting methods. The out-of-sample tests compare contemporaneous equity market value predictions based on each of the four methods. The in-sample tests compare the model explanatory power from estimating equations relating to each of the four accounting methods. The out-of-sample tests indicate the method with grant date asset and liability recognition has the lowest prediction errors, followed by the Exposure Draft method, the SFAS 123 method, and the APB 25 method. Findings from the in-sample tests are largely consistent with our theoretical expectations and provide support for the grant date recognition of an ESO asset and liability.
+
+Keywords: Employee stock options, value relevance
+
+JEL Classification: G12, G13, M41, M44
+
+Suggested Citation:
+
+Landsman, Wayne R. and Peasnell, Kenneth V. and Pope, Peter F. and Yeh, Shu, The Value Relevance of Alternative Methods of Accounting for Employee Stock Options (July 29, 2004). Available at SSRN: https://ssrn.com/abstract=570762 or http://dx.doi.org/10.2139/ssrn.570762
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+D Aboody
+Market Valuation of Employee Stock Options
+Journal of Accounting and Economics , volume 22 , p. 357 - 391 Posted: 1996
+Crossref
+D Aboody , M E Barth , R Kasznik
+SFAS No. 123 Stock-Based Employee Compensation and Equity Market Values
+The Accounting Review , volume 79 , p. 251 - 275 Posted: 2004
+Crossref
+Opinion No. 25: Accounting for Stock Issued to Employees
+Accounting Principles Board Posted: 1972
+Mary E. Barth , William H. Beaver , John R. M. Hand , Wayne R. Landsman
+Accruals, Cash Flow and Equity Values
+Pages: 44 Posted: 8 Mar 1999
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+797
+ABSTRACT VIEWS
+5,758
+RANK
+71,381
+5 Citations
+37 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+Executive Compensation
+
+By Kevin J. Murphy
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

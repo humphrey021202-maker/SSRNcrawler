@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Deep-Learning Earnings
+
+66 Pages Posted: 10 Apr 2025 Last revised: 2 Apr 2025
+
+Yuqiao Fang
+
+Shanghai Jiao Tong University (SJTU) - Shanghai Advanced Institute of Finance (SAIF)
+
+Feng Li
+
+Shanghai Advanced Institute of Finance, Shanghai Jiaotong University
+
+Date Written: March 28, 2025
+
+Abstract
+
+We employ a deep learning framework, the Kolmogorov-Arnold Neural Network, to generate estimates of "permanent earnings" and evaluate their incremental value relative to Generally Accepted Accounting Principles (GAAP) earnings in the context of equity valuation. Our model incorporates 58 detailed items from trailing-twelve-month income and cash flow statements as input features and uses the average of the operating cash flows over the past 8 quarters and the next 12 quarters as the outcome variable. The underlying rationale is that a sophisticated nonlinear combination of these 58 financial items, which maps to long-term cash flows, effectively captures the essence of "permanent earnings." We demonstrate that deep-learning earnings are more persistent, less volatile, and less affected by the conservatism and earnings management biases inherent in GAAP earnings. Priceto-earnings ratios based on deep-learning earnings are also more consistent across firms within the same industry. Furthermore, deep-learning earnings provide incremental explanatory power beyond GAAP earnings in predicting future cash flows and can forecast future stock returns, even after controlling for the five factors identified by Fama and French (2015). Collectively, our results suggest that deep-learning earnings effectively capture recurring or "permanent earnings."
+
+Keywords: Kolmogorov-Arnold Neural Networks, earnings estimates, permanent earnings, equity valuation
+
+Suggested Citation:
+
+Fang, Yuqiao and Li, Feng, Deep-Learning Earnings (March 28, 2025). Available at SSRN: https://ssrn.com/abstract=5196742 or http://dx.doi.org/10.2139/ssrn.5196742
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+Aicpa
+Objectives of Financial Statements Posted: 1973
+Ray Ball , Philip Brown
+An empirical evaluation of accounting income numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+Ray Ball , Valeri V Nikolaev
+On earnings and cash flows as predictors of future cash flows
+Journal of Accounting and Economics , volume 73 , p. 1 - 20 Posted: 2022
+Yang Bao , Bin Ke , Bin Li , Y Julia Yu , Jue Zhang
+Detecting accounting fraud in publicly traded u.s. firms using a machine learning approach
+Journal of Accounting Research , volume 58 , issue 1 , p. 199 - 235 Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+193
+ABSTRACT VIEWS
+1,081
+RANK
+359,301
+43 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

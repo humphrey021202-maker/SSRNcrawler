@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Privxca: An Efficient and Privacy-Preserving Auditing Architecture for Cross-Chain Transfers
+
+15 Pages Posted: 19 Aug 2025
+
+Jitao Wang
+
+Fudan University
+
+Changhao Wu
+
+Fudan University
+
+Yakun Chen
+
+Fudan University
+
+Weili Han
+
+Fudan University
+
+Abstract
+
+As cross-chain protocols mature, asset transfers across blockchains have become increasingly common, creating new auditing challenges. Cross-chain transfers involve multiple single-chain transactions distributed across different blockchains, and collecting such multi-chain data is cumbersome, making traditional query-based audits highly inefficient. Moreover, revealing full transaction details during audits introduces serious privacy risks.  This paper proposes privXCA, an efficient and privacy-preserving auditing architecture for cross-chain transfers. Built upon the prevalent burn-to-mint cross-chain model, privXCA introduces a multistage audit proof mechanism for cross-chain transfers based on zero-knowledge proofs. Firstly, we design a batch audit proof for single-chain transactions that enables compliance verification without revealing sensitive details. Secondly, we design a batch audit proof for cross-chain transfers, which associates burn and mint single-chain transactions scattered across source and destination blockchains under encryption and outputs a concise proof. Thirdly, to support efficient time-range auditing, we design a recursive audit proof and construct a time-ordered audit state linked list, stored on a Layer-2 audit blockchain.  Experimental results show that privXCA audits all cross-chain transfers within any time range in a constant time of about 3 seconds. For 10,000 transfers, it is nearly 800× faster than traditional query-based methods, demonstrating the practicality of privXCA.
+
+Keywords: Blockchain, Cross-chain Transfer, PrivacyPreserving, Auditing, Zero-Knowledge Proof
+
+Suggested Citation:
+
+Wang, Jitao and Wu, Changhao and Chen, Yakun and Han, Weili, Privxca: An Efficient and Privacy-Preserving Auditing Architecture for Cross-Chain Transfers. Available at SSRN: https://ssrn.com/abstract=5396770 or http://dx.doi.org/10.2139/ssrn.5396770
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+S Nakamoto
+Bitcoin: A peer-to-peer electronic cash system Posted: 2008
+V Buterin
+Ethereum: A next-generation smart contract and decentralized application platform Posted: 2014
+S Community
+Solana Posted: 2020
+Guiding and establishing national innovation for u.s. stablecoins act Posted: 2025
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+21
+ABSTRACT VIEWS
+79
+39 References
+PlumX Metrics
+Related eJournals
+
+Cryptocurrency Research eJournal
+
+Follow
+
+Technology & Investing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

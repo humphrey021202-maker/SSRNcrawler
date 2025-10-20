@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Time to Fulfilment of Stock Recommendations Based on Technical Analysis: A Survival Analysis Approach
+
+18 Pages Posted: 17 May 2016
+
+Devlina Chatterjee
+
+IIT Kanpur
+
+Saurabh Kumar
+
+Genpact, Analytics
+
+Date Written: May 15, 2016
+
+Abstract
+
+Stock recommendations based on technical analysis have been evaluated by researchers in terms of the abnormal excess returns generated compared to some benchmark return. Here, instead of looking at the magnitude of excess returns, we study the liquidity of trading strategies based on analyst recommendations as an indicator of their efficacy. We use an event study methodology for 403 technical calls published over a period of four years from 2011 to 2015 on an on-line finance portal. Parametric survival models were built to understand the factors that might affect the time taken for a stock to reach the targeted sell/buy price. Lower targeted returns, a bullish market trend, and greater volumes of trading in the pre-recommendation period lead to smaller times to fulfillment for technical calls. However, consistent with other studies, we find that analysts using technical analysis have not been able to provide recommendations that consistently yield high returns in a short period of time.
+
+Keywords: Analyst Recommendations, Technical Analysis, Survival Analysis, Indian Stock Market, Liquidity
+
+JEL Classification: G14, C41
+
+Suggested Citation:
+
+Chatterjee, Devlina and Kumar, Saurabh, Time to Fulfilment of Stock Recommendations Based on Technical Analysis: A Survival Analysis Approach (May 15, 2016). Available at SSRN: https://ssrn.com/abstract=2780112 or http://dx.doi.org/10.2139/ssrn.2780112
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+M Al-Suhaibani , L Kryzanowski
+An exploratory analysis of the order book, and order flow and execution on the Saudi stock market
+Journal of Banking & Finance , volume 24 , issue 8 , p. 1323 - 1357 Posted: 2000
+Crossref
+E Andersson , J Holmberg Eriksson
+Rationality of Individual Investors: The Case of Placera
+Thesis Umeå School of Business and Economics Posted: 2013
+Mark E. Bagnoli , Michael B. Clement , Michael Joseph Crawley , Susan G. Watts
+The Profitability of Analysts’ Stock Recommendations: What Role Does Investor Sentiment Play?*
+Pages: 40 Posted: 9 Jul 2009 Last revised: 12 May 2014
+Download PDF  Add Paper to My Library
+H Bessembinder , M Panayides , K Venkataraman
+Hidden liquidity: an analysis of order exposure strategies in electronic stock markets
+Journal of Financial Economics , volume 94 , issue 3 , p. 361 - 383 Posted: 2009
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+360
+ABSTRACT VIEWS
+3,042
+RANK
+189,693
+31 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

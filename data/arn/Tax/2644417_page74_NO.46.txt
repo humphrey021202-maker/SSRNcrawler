@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Destination Taxation and Evasion: Evidence from U.S. Inter-State Commodity Flows
+
+Journal of Accounting & Economics (JAE), Vol. 57, No. 1, February 2014
+
+16 Pages Posted: 16 Aug 2015
+
+William F. Fox
+
+University of Tennessee, Knoxville - College of Business Administration
+
+LeAnn Luna
+
+University of Tennessee, Knoxville - College of Business Administration - Center for Business and Economic Research
+
+Georg Schaur
+
+University of Tennessee, Knoxville - College of Business Administration - Department of Economics
+
+Date Written: February 1, 2014
+
+Abstract
+
+Tax evasion has been an important issue in the accounting literature for several decades, but the focus has been on corporate income taxes. We develop a new way to examine tax evasion that focuses on corporate transactions, rather than corporate profits. Specifically, we examine how commodity flows respond to destination sales taxes, allowing for tax evasion as a function of distance between trade partners. After accounting for transportation costs, we find that the effect of taxes decreases as distance increases. This is consistent with the notion that longer distances between trade partners hinder government oversight and increase the likelihood of successful tax evasion. Our results are robust with respect to outliers, strategic neighbor effects, information sharing agreements and other re-specifications. These results are important to policymakers because they evidence the difficulty of enforcing destination taxation in open economies such as U.S. states and the European Union.
+
+Keywords: Taxation, Evasion, Multijurisdictional
+
+JEL Classification: H25, H26, H71
+
+Suggested Citation:
+
+Fox, William F. and Luna, LeAnn and Schaur, Georg, Destination Taxation and Evasion: Evidence from U.S. Inter-State Commodity Flows (February 1, 2014). Journal of Accounting & Economics (JAE), Vol. 57, No. 1, February 2014, Available at SSRN: https://ssrn.com/abstract=2644417
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+J E Anderson , E Van Wincoop
+Gravity with gravitas: a solution to the border puzzle
+Am. Econ. Rev , volume 93 , issue 1 , p. 170 - 192 Posted: 2003
+Crossref
+D Bruce , W Fox , L Luna
+State and local sales tax revenue losses from E-commerce
+State Tax Notes , volume 61 , issue 18 Posted: 2009-05
+C Cameron , J Gelbach , D Miller
+Robust inference with multi-way clustering
+J. Bus. Econ. Stat , volume 29 , issue 2 , p. 238 - 249 Posted: 2011
+Crossref
+M Delgado , M Porter , S Stern
+J. Econ. Geogr , volume 10 , issue 4 , p. 495 - 518 Posted: 2010
+Crossref
+Load more
+2 Citations
+Marcel Olbert , Ann-Catherin Werner
+Consumption Taxes and Multinational Tax Planning in the Digital Age - Evidence from the European Service Sector
+51 Pages · Posted: 24 Feb 2019 · Last revised: 13 Jun 2022 · Downloads: 270
+Download PDF  Add Paper to My Library
+Lisa De Simone , Marcel Olbert
+How Do Multinational Companies Respond to Destination-based Taxes?
+73 Pages · Posted: 7 Jun 2022 · Last revised: 22 Sep 2025 · Downloads: 849
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+149
+ABSTRACT VIEWS
+1,434
+RANK
+451,566
+2 Citations
+24 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

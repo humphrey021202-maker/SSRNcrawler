@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Design and Implementation Issues in Swedish Individual Pension Accounts
+
+CRR Working Paper 2005-05
+
+49 Pages Posted: 21 Jun 2008
+
+Kent Weaver
+
+Boston College - Center for Retirement Research
+
+Date Written: April 2005
+
+Abstract
+
+Sweden's new multi-pillar pension system includes a system of mandatory fully-funded individual accounts. The Swedish system tries to keep administrative costs down through centralized management of the collection of contributions, switching among fund options, and record-keeping and communication with account holders.
+
+The Swedish system offers contributors more than 600 fund options. However, in the most recent rounds of fund choice, more than 90 percent of new labor market entrants have not made an active choice of funds, and thus have ended up in a government-sponsored default fund.
+
+The Swedish system of individual accounts offers a number of lessons for countries considering adoption of a mandatory individual account tier. First, centralized administration of record-keeping, communication and trading functions can help to keep administrative costs down. Second, the lead time needed to set up such a system is considerable. Third, if entry barriers for funds are low, a very large number of fund options are likely to be offered. Fourth, engaging new labor market entrants in fund choice is likely to be difficult, and these barriers are likely to be particularly high for some groups - notably those with limited incomes and low English language skills. Fifth, in the absence of entry barriers for funds, a significant percentage of those making an active fund choice may choose funds that are very specialized and risky. Finally, the likelihood of limited active fund choice means that special care must be devoted both to the design of a default fund and to communicating to potential participants what asset allocation and risk-return trade-offs the default fund is likely to make.
+
+Suggested Citation:
+
+Weaver, Kent, Design and Implementation Issues in Swedish Individual Pension Accounts (April 2005). CRR Working Paper 2005-05, Available at SSRN: https://ssrn.com/abstract=1148967 or http://dx.doi.org/10.2139/ssrn.1148967
+Download This Paper
+ 
+Open PDF in Browser
+3 References
+G S Pictet
+Compartiment Biotech Pictet Global , volume 1 , p. 7 - 29
+Crossref
+Carlson Fund Equity American Small Cap Percent Posted: 2001
+Asked only of survey respondents who have said that they want the 7 th AP fund to invest for them. Source: Sifo Research and Consulting Posted: 2000
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+118
+ABSTRACT VIEWS
+1,667
+RANK
+545,548
+5 Citations
+3 References
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+
+History of Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Heuristics and Biases in Retirement Savings Behavior
+
+By Shlomo Benartzi and Richard H. Thaler
+
+Company Stock in 401(K) Plans
+
+By Gur Huberman and Paul Sengmueller
+
+Company Stock in Pension Plans: How Costly is it?
+
+By Lisa K. Meulbroek
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

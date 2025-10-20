@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+A Tax-Loss Harvesting Horserace: Direct Indexing vs. ETFs
+
+The Journal of Beta Investment Strategies
+
+Posted: 9 Feb 2023 Last revised: 10 Jul 2023
+
+Roni Israelov
+
+Independent
+
+Jason Lu
+
+International Monetary Fund (IMF) - Research Department
+
+Date Written: July 7, 2023
+
+Abstract
+
+This paper proposes and analyzes an enhanced, but easily implemented, heuristic for tax-loss harvesting within a portfolio of stocks. Because stock returns are correlated within and across sectors, harvesting opportunities may simultaneously arise across many stocks that also concentrate in individual sectors, and the active risk of undertaking all available harvests may become undesirable. Our algorithm balances harvesting yield, active risk, portfolio rebalancing, and turnover. We evaluate the performance of our heuristic using Monte Carlo simulations across time and within different market environments. We show that harvesting yield for a portfolio of stocks is superior to market ETFs.
+
+Keywords: Direct Indexing; Loss Harvesting; Tax Loss Harvesting; Tax Alpha; Tax Efficiency; Tax Optimization; Tax-Aware Investing
+
+JEL Classification: D14, G11, H21, H24
+
+Suggested Citation:
+
+Israelov, Roni and Lu, Jason, A Tax-Loss Harvesting Horserace: Direct Indexing vs. ETFs (July 7, 2023). The Journal of Beta Investment Strategies, Available at SSRN: https://ssrn.com/abstract=4351074 or http://dx.doi.org/10.2139/ssrn.4351074
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,303
+PlumX Metrics
+Related eJournals
+
+Wealth Management (Editor's Choice) eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

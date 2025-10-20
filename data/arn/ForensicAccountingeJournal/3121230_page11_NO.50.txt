@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Deterrence When Shareholders Desire Fraud
+
+U of Texas Law, Law and Econ Research Paper No. 595
+
+30 Pages Posted: 12 Feb 2018 Last revised: 20 Jan 2021
+
+James C. Spindler
+
+University of Texas School of Law; McCombs School of Business, University of Texas at Austin
+
+Date Written: November 17, 2017
+
+Abstract
+
+This article presents an economic model of corporate fraud arising from shareholder incentives. First, the model shows that a firm’s current shareholders have a preference for higher reported values. Current shareholders are, in expectation, net sellers of the firm’s shares; a higher reported value of the firm increases current shareholder returns in expectation.
+
+Second, these preferences for inflationary misreporting translate into equilibrium misreporting behavior, which generates inefficiencies due to asymmetric information among secondary market traders. Informed traders undertake inefficient research costs, noise traders demand a discount in order to trade, and selling shareholders face deadweight illiquidity costs.
+
+Third, in general, some ex post penalty for misreporting can eliminate misreporting incentives and result in a unique truth-telling (i.e., separating) equilibrium. This improves social welfare. With joint-welfare maximization among the firm’s initial stakeholders and unlimited liability, it does not matter on whom the penalty is placed.
+
+Finally, the specific mechanism of firm-level (or “vicarious”) fines has desirable qualities from the perspective of administrative feasibility: the optimal fine is a simple function of observable market data. Compensation does not affect this formulation, yet compensation may be desirable in the event of incomplete deterrence because it reduces asymmetric information liquidity costs. The same liability formula applies for alternative targets of liability, such as the manager, and the approximate magnitude of the optimal fine remains the same; however, judgment-proofness and limited liability may militate toward firm-level fines.
+
+Keywords: securities, fraud, shareholders, 10b-5, fraud on the market, private litigation, class action
+
+JEL Classification: K22, G30, M48
+
+Suggested Citation:
+
+Spindler, James C., Optimal Deterrence When Shareholders Desire Fraud (November 17, 2017). U of Texas Law, Law and Econ Research Paper No. 595, Available at SSRN: https://ssrn.com/abstract=3121230 or http://dx.doi.org/10.2139/ssrn.3121230
+Download This Paper
+ 
+Open PDF in Browser
+3 References
+= Unr , ½pr
+1|1')(1 -p2(1')) + Pr(0|1')
+Rearranging equation (29), the requisite liability level to allow pooling (in terms of market prices) is the same as under separation
+Notably, the requisite liability l is the same, in terms of market prices, as in the separating case. (Note, however, that the prices themselves will generally be different in the separating in the pooling cases.) While the p2 and p3 terms are themselves functions of the level of liability and transfer, it is directly observable in the form of the market price. This result is independent of the fraction θ of the fine l that is used to fund transfers t to defrauded purchasers -that is, the requisite liability for fraud deterrence is given by the same simple formula involving observable market prices
+Equation (32) presents the requisite liability for eliminating pooling as an equilibrium
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+132
+ABSTRACT VIEWS
+1,703
+RANK
+499,012
+3 References
+PlumX Metrics
+Related eJournals
+
+University of Texas School of Law Legal Studies Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

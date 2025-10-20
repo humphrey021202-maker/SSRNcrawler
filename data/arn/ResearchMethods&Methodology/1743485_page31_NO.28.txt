@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Software for Determination of Biological Age
+
+Current Bioinformatics, Vol. 4, pp. 41-47, 2009
+
+7 Pages Posted: 23 Jan 2011
+
+Kartlos Kachiashvili
+
+I. Vekua Institute of Applied Mathematics of the Tbilisi State University
+
+David Melikdzhanian
+
+I. Vekua Institute of Applied Mathematics of the Tbilisi State University
+
+Date Written: 2009
+
+Abstract
+
+An original software package for determination of biological age has been offered. The package is simple for understanding and convenient in application. It is designed for the users who are not professionals in the fields of applied statistics or computer science. The problems and the algorithms realized in the package, the features and the possibilities of their application are described in brief.
+
+The package can be used both for fundamental theoretical research in which various logical-mathematical methods of determination of biological age are compared with each other and for applied work in a geriatric clinic.
+
+Keywords: Software, package, statistical processing, experimental information, efficiency, originality, gerontology, geriatrics, biological age.
+
+Suggested Citation:
+
+Kachiashvili, Kartlos and Melikdzhanian, David, Software for Determination of Biological Age (2009). Current Bioinformatics, Vol. 4, pp. 41-47, 2009, Available at SSRN: https://ssrn.com/abstract=1743485
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+V P Voitenko , A M Poliukhov , L G Barbaruk , V P Kolodchenko , A N Khodzinskii
+Biological age as a key problem of gerentology
+In: Gerentology and Geriatrics. A year-book. Biological Age , p. 5 - 15 Posted: 1984
+A V Tokar , L M Yena , E S Rudaia , N G Akhaladze , N L Severova , T D Shuba
+Cardiopneumonal age and opportunities of its use in gerentology
+In: Gerentology and Geriatrics. A year-book. Biological Age , p. 55 - 62 Posted: 1984
+V P Voitenko
+Methodology of determination of biological age, In: Gerentology and Geriatrics. A year-book. Biological Age, Heredity and Ageing , p. 133 - 137 Posted: 1984
+T L Dubina , V V Zhuk
+A complex of tests for estimation of biological age of laboratory rats and calculation of biological age Fig
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+101
+ABSTRACT VIEWS
+1,075
+RANK
+614,231
+9 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Computer Programs & Software eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

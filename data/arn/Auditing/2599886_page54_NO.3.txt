@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Information Role of Audit Opinions in Debt Contracting
+
+Journal of Accounting and Economics (2016) 61: 121-144
+
+54 Pages Posted: 29 Apr 2015 Last revised: 17 Mar 2016
+
+Peter F. Chen
+
+Hong Kong University of Science & Technology (HKUST) - Department of Accounting
+
+Shaohua He
+
+Lancaster University
+
+Zhiming Ma
+
+Peking University - Guanghua School of Management
+
+Derrald Stice
+
+The University of Hong Kong - School of Business; HKU Business School, The University of Hong Kong
+
+Date Written: February 1, 2016
+
+Abstract
+
+This study examines the relevance of modified audit opinions (MAO) in private debt contracting. We use the auditor’s explanatory language to partition MAOs into Inconsistency opinions, resulting from an accounting change or a restatement; and Inadequacy opinions, arising from a material uncertainty or a going concern (GC) opinion. Using the loan contracts of firms with MAOs; we find that, compared with loans issued in the year after a clean opinion, loans issued in the year after an MAO are associated with higher interest spreads (17 basis points on average), fewer financial covenants, more general covenants, smaller loan sizes, and a higher likelihood of requiring collateral. We find that the effect on loan spreads (as well as on other non-price terms) varies by the type of MAO, ranging from no effect for an accounting change to an average increase of 107 basis points for a GC opinion. Additional analyses of GC opinions find that auditors communicate incremental information to lenders about clients’ credit risk. Overall, our empirical results suggest that lenders incorporate the information contained in MAOs into debt contracting.
+
+Keywords: Debt Contracting, Audit Opinions, Going Concern Opinions, Explanatory Language
+
+JEL Classification: G01, M4, M49
+
+Suggested Citation:
+
+Chen, Peter Fusheng and He, Shaohua and Ma, Zhiming and Stice, Derrald, The Information Role of Audit Opinions in Debt Contracting (February 1, 2016). Journal of Accounting and Economics (2016) 61: 121-144, Available at SSRN: https://ssrn.com/abstract=2599886
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+E Altman
+Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy
+Journal of Finance , volume 23 , p. 589 - 609 Posted: 1968
+Crossref
+P Asquith , A Beatty , J Weber
+Performance pricing in bank debt contracts
+Journal of Accounting and Economics , volume 40 , p. 101 - 128 Posted: 2005
+Crossref
+R Ball , A Robin , G Sadka
+Is financial reporting shaped by equity markets or by debt markets? An international study of timeliness and conservatism
+Review of Accounting Studies , volume 13 , p. 168 - 205 Posted: 2008
+Crossref
+A Beatty , K Ramesh , J Weber
+The importance of accounting changes in debt contracts: The cost of flexibility in covenant calculations
+Journal of Accounting and Economics , volume 33 , p. 205 - 227 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,352
+ABSTRACT VIEWS
+4,733
+RANK
+33,835
+7 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+HKUST Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

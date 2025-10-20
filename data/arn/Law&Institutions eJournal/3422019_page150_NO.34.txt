@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Short-Term Effects of Managerial Turnover on Performance and Effort: Evidence from the German Bundesliga
+
+41 Pages Posted: 18 Jul 2019
+
+Janina Kleinknecht
+
+Ulm University - Department of Mathematics and Economics; affiliation not provided to SSRN
+
+Daniel Würtenberger
+
+Ulm University - Department of Mathematics and Economics
+
+Date Written: July 18, 2019
+
+Abstract
+
+Current research on (managerial) turnover mainly focuses on performance changes and is ambiguous with respect to the results. Yet, the literature agrees that short-term performance changes are induced by opposing effects. Specifically, a turnover leads to an information loss that might influence the staffing of positions negatively and incentives to exhibit effort positively. In order to identify the predominant effect and how it affects overall short-term performance, we employ a new measure of effort and different degrees of information loss. Therefore, we analyse within-season coach turnovers of professional soccer teams in the German Bundesliga, using a generalized version of the synthetic control method. In order to take into account low and high information loss, we differentiate between insider and outsider successors. Insiders might staff positions better while outsiders might be able to elicit higher effort. Our results are in line with these expectations: a turnover leads to an increase in players' effort, but only in case of an outsider coach, both, insider and outsider, improve performance.
+
+Keywords: Effort, Incentives, Information, Performance
+
+JEL Classification: D81, D83, D91, M51
+
+Suggested Citation:
+
+Kleinknecht, Janina and Kleinknecht, Janina and Würtenberger, Daniel, Short-Term Effects of Managerial Turnover on Performance and Effort: Evidence from the German Bundesliga (July 18, 2019). Available at SSRN: https://ssrn.com/abstract=3422019 or http://dx.doi.org/10.2139/ssrn.3422019
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+A Abadie , A Diamond , J Hainmueller
+Synthetic control methods for comparative case studies: Estimating the effect of Californias tobacco control program
+Journal of the American statistical Association , volume 105 , issue 490 , p. 493 - 505 Posted: 2010
+Crossref
+A Abadie , A Diamond , J Hainmueller
+Synth: An R package for synthetic control methods in comparative case studies
+Journal of Statistical Software , volume 42 , issue i13 Posted: 2011
+Crossref
+A Abadie , J Gardeazabal
+The economic costs of conflict: A case study of the Basque country
+American economic review , volume 93 , issue 1 , p. 113 - 132 Posted: 2003
+Crossref
+R Audas , S Dobson , Goddard
+The impact of managerial change on team performance and in professional sports
+Journal of Economics and Business , volume 54 , p. 633 - 650 Posted: 2002
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+214
+ABSTRACT VIEWS
+1,923
+RANK
+325,744
+20 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

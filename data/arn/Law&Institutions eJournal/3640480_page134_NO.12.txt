@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Pre-Public M&A Negotiations: How Does Bidding Competition Affect Deal Outcomes?
+
+65 Pages Posted: 27 Jul 2020 Last revised: 7 Feb 2022
+
+Richard Schubert
+
+Karlsruhe Institute of Technology - Institute for Finance; The University of Sydney Business School
+
+Date Written: July 2, 2020
+
+Abstract
+
+This paper provides novel insights about competition among bidders during the whole takeover process, its effect on offered deal premiums, bidder announcement returns, and post-bid dynamics. Exploiting a representative sample of 780 public U.S. transactions, extended with comprehensive hand-collected data from SEC filings, I find that takeover premiums are higher, the higher pre-announcement competition among bidders is. I measure competition during the private sales process with a ratio that relates the number of bids submitted to the target to the number of signed confidentiality agreements with the target, the Proposals-to-CA-Ratio. A one-standard deviation increase of this ratio corresponds to a statistically and economically significant 5.99% increase of the deal initiation premium (Eaton, Liu, and Officer (2020)), 0.87% lower announcement returns for the winning bidder in auctions, a 130% increased probability of receiving a rival bid prior to closing, and a 44.5% increased probability of cancelling the originally announced deal (measured relative to the unconditional probability). The latter two results are more pronounced if the announcement returns of the acquirer are positive, suggesting that competing bidders are lured by potentially value-increasing deals. By applying Heckman (1979) two-stage selection models with instrumented regressors, I show that my results are robust to endogeneity concerns, especially to target’s decision to initiate the deal as well as the decision of the subsequent selling procedure (auction vs. one-to-one negotiation). The advantages of this competition measure are that (1) it relies on data as reported in target firm’s official merger documents filed with the SEC, which creates a strong incentive to report truthfully, and (2) it takes the evolution of bidding into account, controlling for the number of submitted bids. I conclude that competitive private negotiations stay competitive during the public phase of the deal, and that target boards fulfill their fiduciary duties by selecting the highest-bidding acquirer.
+
+Keywords: Takeovers, Mergers and Acquisitions, Private Takeover Process, Bidding Competition, Auction, Negotiation, Takeover Premium, Announcement Returns
+
+JEL Classification: G14, G24, G34
+
+Suggested Citation:
+
+Schubert, Richard, Pre-Public M&A Negotiations: How Does Bidding Competition Affect Deal Outcomes? (July 2, 2020). Available at SSRN: https://ssrn.com/abstract=3640480 or http://dx.doi.org/10.2139/ssrn.3640480
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+Nihat Aktas , Eric De Bodt , Richard Roll
+Negotiations under the threat of an auction
+JOURNAL OF FINANCIAL ECONOMICS , volume 98 , issue 2 , p. 241 - 255 Posted: 2010
+Gregor Andrade , Mark Mitchell , Erik Stafford
+New Evidence and Perspectives on Mergers , volume 15 , p. 103 - 120 Posted: 2001
+Jack Bao , Alex Edmans
+Do Investment Banks Matter for M&A Returns?
+REVIEW OF FINANCIAL STUDIES , volume 24 , issue 7 , p. 2286 - 2315 Posted: 2011
+Lucian Bebchuk , Allen Ferrell
+On takeover law and regulatory competition
+BUSI-NESS LAWYER , volume 57 , p. 1047 - 1068 Posted: 2002
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+328
+ABSTRACT VIEWS
+2,196
+RANK
+210,151
+61 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

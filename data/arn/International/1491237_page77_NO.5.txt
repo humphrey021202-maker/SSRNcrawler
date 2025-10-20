@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Value Relevance of Pension Fair Values and Uncertainty
+
+53 Pages Posted: 19 Oct 2009 Last revised: 25 Oct 2012
+
+Jan D. Fasshauer
+
+Justus-Liebig-University of Giessen
+
+Martin Glaum
+
+WHU - Otto Beisheim School of Management
+
+Date Written: Oct 25, 2012
+
+Abstract
+
+This study examines the value relevance of fair-value-based pension information using data from German companies that have adopted IFRS or US-GAAP. German companies do not tradition-ally fund pension plans externally. They therefore report large net pension obligations on their balance sheets. This provides an interesting setting to study the effects of uncertainty on the value relevance of pension-obligation fair values. We find that information related to financial positions is more closely associated with stock prices than pension-cost information. Second, fair-value estimates of companies’ pension obligations are more value relevant than the recognized net pen-sion liabilities that are smoothed because of the application of the corridor method. Third, actuar-ial gains and losses that under the current smoothing-oriented pension accounting standards re-main unrecognized in balance sheets have value relevance beyond that of recognized net pension liabilities. Fourth, we find that the value relevance of pension amounts is affected by the degree of uncertainty surrounding their estimation. Specifically, fair-value estimates seem to be more value relevant than smoothed estimates when the uncertainty surrounding the estimation is rela-tively high and thus information asymmetries and estimation risks are high. Not much difference exists in the value relevance of both types of estimates when the uncertainty is less pronounced.
+
+Keywords: Pension Accounting, Fair Value, Value Relevance, Bootstrap Procedure
+
+JEL Classification: G14, M40, M41
+
+Suggested Citation:
+
+Fasshauer, Jan D. and Glaum, Martin, The Value Relevance of Pension Fair Values and Uncertainty (Oct 25, 2012). Available at SSRN: https://ssrn.com/abstract=1491237 or http://dx.doi.org/10.2139/ssrn.1491237
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+621
+ABSTRACT VIEWS
+3,102
+RANK
+98,715
+1 Citations
+101 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Investment and Financing Constraints: Evidence from the Funding of Corporate Pension Plans
+
+By Joshua D. Rauh
+
+Taxation and Corporate Pension Policy
+
+By Irwin Tepper
+
+Earnings Manipulation, Pension Assumptions and Managerial Investment Decisions
+
+By Daniel Bergstresser, Joshua D. Rauh, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

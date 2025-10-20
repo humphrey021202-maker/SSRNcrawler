@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information Transparency and Risk Sharing in Commodity Futures Markets
+
+65 Pages Posted: 5 May 2025
+
+Shuyan Wang
+
+University of Minnesota - Twin Cities, Carlson School of Management
+
+Date Written: April 06, 2025
+
+Abstract
+
+A central function of commodity futures markets is to help firms hedge commodity price fluctuations. This study examines how transparency about commodity fundamentals affects these markets' ability to facilitate hedging. While information transparency can reduce adverse selection and encourage traders to absorb risk, it can also accelerate the realization of risk and hinder the transfer of risk via the markets. Analyzing variation in transparency across 27 commodity markets over 20 years, I find that greater transparency increases the cost of hedging using futures and reduces futures trading intensity, indicating a decline in the markets' risk-sharing capacity. This effect is consistently observed across two mandatory transparency shocks and is exacerbated by economic frictions, including market incompleteness and extended disclosure horizons. Overall, this study highlights how transparency shapes the efficient reallocation of commodity price risk across the real and financial sectors.
+
+Keywords: commodity futures markets, risk sharing, hedging, transparency
+
+JEL Classification: D80, G32, M41, Q02
+
+Suggested Citation:
+
+Wang, Shuyan, Information Transparency and Risk Sharing in Commodity Futures Markets (April 06, 2025). Available at SSRN: https://ssrn.com/abstract=5207466 or http://dx.doi.org/10.2139/ssrn.5207466
+Download This Paper
+ 
+Open PDF in Browser
+88 References
+V V Acharya , L A Lochstoer , T Ramadorai
+Limits to arbitrage and hedging: Evidence from commodity markets
+J. Financ. Econ , volume 109 , p. 441 - 465 Posted: 2013
+G A Akerlof
+The market for "lemons": Quality uncertainty and the market mechanism Posted: 1970
+M Alles , R Lundholm
+On the optimality of public signals in the presence of private information
+Account. Rev , volume 68 , p. 93 - 112 Posted: 1993
+M Badia , M Duro , B N Jorgensen , G Ormazabal , H B Christensen
+The informational effects of tightening oil and gas disclosure rules
+Contemp. Account. Res , volume 37 , p. 1720 - 1755 Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+110
+ABSTRACT VIEWS
+601
+RANK
+576,053
+88 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Enhancing Continuous Auditing with Large Language Models: Ai-Assisted Real-Time Accounting Information Cross-Verification
+
+47 Pages Posted: 7 Mar 2025
+
+Huaxia Li
+
+University of Michigan at Dearborn
+
+Marcelo Machado de Freitas
+
+affiliation not provided to SSRN
+
+Heejae (Erica) Lee
+
+Grand Valley State University
+
+Miklos Vasarhelyi
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+There are 2 versions of this paper
+
+Abstract
+
+Continuous auditing (CA) faces challenges in analyzing textual data in real time. This study proposes a Large Language Model (LLM)-assisted framework for parsing real-time audit evidence from text to cross-verify accounting data. Following the design science methodology, the three-step framework involves 1) Preprocessing text, 2) LLM inference guided by auditor objectives/schemas and prompts, and 3) Validating accounting records against LLM-derived audit evidence. Demonstrated on a real-life Brazilian governmental payroll system, the framework cross-verifies payroll data with human resources information from the Official Gazette. Compared to auditors’ existing process, the framework improves audit effectiveness through full population testing with cost efficiency, decreases the cross-verification time by 83 percent, and achieves a high accuracy of 96 percent. The study demonstrates the advantage of LLM in facilitating audit quality and contributes by proposing an LLM-assisted framework to facilitate practical CA application.
+
+Keywords: Continuous Auditing, Large Language Model, Design science, ChatGPT, Cross-verification, Payroll audit
+
+Suggested Citation:
+
+Li, Huaxia and Machado de Freitas, Marcelo and Lee, Heejae (Erica) and Vasarhelyi, Miklos, Enhancing Continuous Auditing with Large Language Models: Ai-Assisted Real-Time Accounting Information Cross-Verification. Available at SSRN: https://ssrn.com/abstract=5169192 or http://dx.doi.org/10.2139/ssrn.5169192
+Download This Paper
+ 
+Open PDF in Browser
+81 References
+M G Alles , A Kogan , M A Vasarhelyi
+Feasibility and economics of continuous assurance
+AUDITING: A Journal of Practice & Theory , volume 21 , issue 1 , p. 125 - 138 Posted: 2002
+D Appelbaum , A Kogan , M A Vasarhelyi
+Big data and analytics in the modern audit engagement: Research needs
+AUDITING: A Journal of Practice & Theory , volume 36 , issue 4 , p. 1 - 27 Posted: 2017
+Z Alzamil , D Appelbaum , R Nehmer
+An ontological artifact for classifying social media: Text mining analysis for financial data
+International Journal of Accounting Information Systems , volume 38 Posted: 2019
+Continuous Auditing Research Report Posted: 1999
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+65
+ABSTRACT VIEWS
+712
+RANK
+57,082
+1 Citations
+81 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

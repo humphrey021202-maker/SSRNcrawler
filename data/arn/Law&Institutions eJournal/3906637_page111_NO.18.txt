@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Hedging Commercial Real Estate Price Risk: Evidence from the U.S.
+
+50 Pages Posted: 19 Aug 2021
+
+Valtteri Jokinen
+
+CBRE Finland
+
+Juha-Pekka Junttila
+
+University of Oulu - Department of Economics, Accounting and Finance; University of Jyväskylä - Jyväskylä International Macro & Finance Research Group (JyIMaF)
+
+Juhani Raatikainen
+
+affiliation not provided to SSRN
+
+Date Written: August 17, 2021
+
+Abstract
+
+Based on quarterly data from the US commercial real estate market we find that a short position on the Dow-Jones US Real Estate index (DJUSRE) can serve as a useful and effective hedge against the price risk of U.S. direct commercial real estate investments. According to our results, when utilizing the DCC-GARCH-models in the empirical analysis, compared to hedging with the stock market related VIX derivatives, especially hedging with DJUSRE would have decreased the price deterioration of U.S. direct real estate portfolios during the global financial crisis when compared to an unhedged position. In contrast to using DJUSRE, we find that the hedging effectiveness of VIX against direct real estate exposure is trivial. Hence, we are able to conclude that at least for the lower frequency, like quarterly market observations, VIX cannot be considered as a useful nor effective hedge against adverse price movements of direct commercial real estate investments, so the standard stock market hedge instruments do not provide a safety net for hedging against the price risks in the U.S. real estate markets at all.
+
+Keywords: Real estate, Dynamic optimal hedge ratio, Hedging effectiveness, Dynamic conditional correlation, GJR-GARCH
+
+JEL Classification: G01, G11, G13, G23, R30
+
+Suggested Citation:
+
+Jokinen, Valtteri and Junttila, Juha-Pekka and Raatikainen, Juhani, Hedging Commercial Real Estate Price Risk: Evidence from the U.S. (August 17, 2021). Available at SSRN: https://ssrn.com/abstract=3906637 or http://dx.doi.org/10.2139/ssrn.3906637
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+K Addae-Dapaah , J Glascock , D K H Ho
+International Direct Real Estate Risk Premiums in a Multi-Factor Estimation Model
+The Journal of Real Estate Finance and Economics , volume 51 , issue 1 , p. 52 - 85 Posted: 2015
+K Addae-Dapaah , K H Liow
+Idiosyncratic risk, market risk and correlation dynamics in the US real estate investment trusts
+Journal of Housing Economics , volume 19 , issue 3 , p. 205 - 218 Posted: 2010
+O Akinsomi , Y Coskun , R Gupta , C K M Lau
+Impact of volatility and equity market uncertainty on herd behaviour: evidence from UK REITs
+Journal of European Real Estate Research , volume 11 , issue 2 , p. 169 - 186 Posted: 2018
+C Amédée-Manesme , F Barthélémy
+Ex-ante real estate Value at Risk calculation method
+Annals of Operations Research , volume 262 , issue 2 , p. 257 - 285 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+166
+ABSTRACT VIEWS
+1,053
+RANK
+411,549
+66 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

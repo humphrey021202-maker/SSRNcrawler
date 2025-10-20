@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is Comprehensive Income Value Relevant and Does Location Matter? A European Study
+
+Accounting in Europe, A Journal of the European Accounting Association, Forthcoming
+
+40 Pages Posted: 10 Mar 2014
+
+Alessandro Mechelli
+
+Università degli studi della Tuscia
+
+Riccardo Cimini
+
+Università degli studi della Tuscia; Università degli studi di Roma, Tor Vergata
+
+Date Written: September 1, 2013
+
+Abstract
+
+This paper investigates the relative and the incremental value relevance of Comprehensive Income (CI) and Other Comprehensive Income (OCI) across European countries after the mandatory adoption of the IASB standards. This topic, which has already been analyzed in other countries, drew the attention of academics and practitioners in Europe after the issuance of IAS 1-revised, which requires entities to prepare a statement of comprehensive income (SOCI) in which both CI and OCI components are disclosed. The investigation of the value relevance of accounting amounts is important in order to evaluate their usefulness, because it highlights whether they reflect information investors use in making economic decisions. This study analyses a sample made of all the European listed entities of countries belonging to the EU at the date of issuance of EU Regulation 1606/2002. Our analysis involves a period from 2006 to 2011 and includes 16,511 firm-year observations. Our results show that Net Income (NI) is more value-relevant than CI, even though the total OCI of the period adds relevant information to those information already disclosed in other accounting items such as NI and Book Value (BV). In this regard, we found that the coefficient of the total OCI of the period is lower than that of NI, a result to be expected because of its transitory nature. Our findings also suggest that the requirement to issue a SOCI has not produced a significant change in the value relevance of both CI and the total OCI of the period leading to the conclusion that its location does not affect the value relevance of these items. Finally, we found significant differences in the incremental value relevance of the total OCI of the period across European countries, differences that seem to be caused by the countries’ characteristics, such as the source of funds (credit/equity and insider/outsider) and the legal systems.
+
+Keywords: IAS 1; comprehensive income; value relevance; legal enforcement; investor protection
+
+JEL Classification: M4
+
+Suggested Citation:
+
+Mechelli, Alessandro and Cimini, Riccardo, Is Comprehensive Income Value Relevant and Does Location Matter? A European Study (September 1, 2013). Accounting in Europe, A Journal of the European Accounting Association, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2406601 or http://dx.doi.org/10.2139/ssrn.2406601
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+P-Value
+The table summarizes the principal results of our value relevance study when we distinguished the accumulated OCI from the other book value purged by accumulated OCI, first for the full sample of 16,511 firm-year observations listed in the 15 European countries that belonged to the EU at the time of issuance of Regulation 1606/2002 and then for sub-samples constituted by the weak and strongequity countries and the countries with high and low level of Legalscore. Variable definitions: Pit = price per-share at the reporting date
+** ) 1% level of significance -( ** ) 5% level of significance -( * ) 10% level of significance
+BVit = book value per-share
+Crossref
+= book value per-share purged by accumulated OCI; NIit net income per-share
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+366
+ABSTRACT VIEWS
+2,580
+RANK
+186,369
+3 Citations
+66 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

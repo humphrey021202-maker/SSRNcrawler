@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Reporting in XBRL: First Evidence on Financial Statement Notes of Italian Unlisted Companies
+
+The International Journal of Digital Accounting Research, Vol. 16, 2016, pp. 85-115
+
+31 Pages Posted: 13 May 2017
+
+Andrea Fradeani
+
+Università degli Studi di Macerata
+
+Davide Panizzolo
+
+University of Trento
+
+Eldi Metushi
+
+Università degli Studi di Macerata - Department of Economics and Law
+
+Date Written: October 2016
+
+Abstract
+
+The new taxonomy 2014-11-17 mandates Italian unlisted companies to codify in XBRL also the notes to the financial statements. Building on previous literature, the aim of this study is to analyze the impact of mandatory XBRL extension to the financial statements notes on financial reporting quality of the Italian unlisted companies. We focus our analysis on the taxonomy usage and the customizations made by the filers. Our data represents the very first sample of Italian financial statements filed in fully XBRL format. Despite the significant changes affecting the process of financial statement preparation, we find that Italian unlisted companies have accepted and acknowledged the potential benefits and limits of the new taxonomy. When dividing the notes section between textual blocks and tables, we find a clear preference for the filers to use textual blocks for both, standard and abbreviated financial statements. Overall, we find that filers of both financial statement types use extensively the customizations offered by the taxonomy. Moreover, for the filers of abbreviated financial statements, we show that they tend to use not only more table customizations but also tables that are proper for the standard financial statements, thus offering higher voluntary disclosure.
+
+Keywords: XBRL, Financial Statement Notes, Voluntary Disclosure, Digital Financial Reporting
+
+Suggested Citation:
+
+Fradeani, Andrea and Panizzolo, Davide and Metushi, Eldi, Financial Reporting in XBRL: First Evidence on Financial Statement Notes of Italian Unlisted Companies (October 2016). The International Journal of Digital Accounting Research, Vol. 16, 2016, pp. 85-115 , Available at SSRN: https://ssrn.com/abstract=2967272
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+V Arnold , J C Bedard , J R Phillips , S G Sutton
+The impact of tagging qualitative financial information on investor decision making: Implications for XBRL
+International Journal of Accounting Information Systems , volume 13 Posted: 2012
+Crossref
+F Avallone , P Ramassa , E Roncagliolo
+XBRL Extension to the Financial Statement Notes: Field-based Evidence on Unlisted Companies
+The International Journal of Digital Accounting Research , volume 16 , p. 61 - 84 Posted: 2016
+Crossref
+J Bartley , Y S Al-Chen , E Taylor
+Avoiding Common Errors of XBRL Implementation
+Journal of Accountancy , volume 209 , issue 2 , p. 46 - 51 Posted: 2010
+E Blankespoor , B P Miller , H D White
+Initial evidence on the market impact of the XBRL mandate
+Review of Accounting Studies , volume 19 , p. 1 - 36 Posted: 2014
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+237
+ABSTRACT VIEWS
+1,308
+RANK
+294,906
+34 References
+PlumX Metrics
+Related eJournals
+
+Corporate Governance & Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

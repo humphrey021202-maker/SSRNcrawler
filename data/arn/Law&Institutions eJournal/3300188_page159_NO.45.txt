@@ -1,0 +1,153 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Moderating Role of Internal Control in Tax Avoidance: Evidence From a COSO-Based Internal Control Index in China
+
+The Journal of the American Taxation Association, 2020, 42 (1): 23-55
+
+58 Pages Posted: 29 Dec 2018 Last revised: 18 Mar 2020
+
+Hanwen Chen
+
+University of International Business and Economics
+
+Daoguang Yang
+
+University of International Business and Economics (UIBE)-Business School
+
+Xinmin Zhang
+
+University of International Business and Economics (UIBE) - Business School
+
+Nan Zhou
+
+University of Cincinnati - Lindner College of Business
+
+Date Written: November 29, 2018
+
+Abstract
+
+We study the role of internal control in tax avoidance by evaluating the efficacy of the COSO framework in tax risk management. First, we use a comprehensive COSO-based index in China that covers a firm’s internal control over not only financial reporting, but also operations and compliance. Second, we perform quantile regressions to account for the entire tax avoidance distribution. These two key features enable us to find a nonlinear relation between internal control and tax avoidance, with the former having a moderating effect on the latter. Specifically, we show that internal control quality enhances tax avoidance for under-sheltered firms but curbs tax avoidance for over-sheltered firms. This nonlinear pattern continues to hold when we decompose internal control into its five COSO components. Moreover, the moderating role of internal control in tax avoidance alleviates tax volatility, supporting the accounting firms’ recommendation to use COSO-based internal control in tax risk management.
+
+
+Keywords: Tax Avoidance; Internal Control; COSO Framework; Quantile Regression
+
+JEL Classification: H26; G32; M42
+
+Suggested Citation:
+
+Chen, Hanwen and Yang, Daoguang and Zhang, Xinmin and Zhou, Nan, The Moderating Role of Internal Control in Tax Avoidance: Evidence From a COSO-Based Internal Control Index in China (November 29, 2018). The Journal of the American Taxation Association, 2020, 42 (1): 23-55, Available at SSRN: https://ssrn.com/abstract=3300188
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+V V Acharya , S C Myers , R G Rajan
+The internal governance of firms
+The Journal of Finance , volume 66 , issue 3 , p. 689 - 720 Posted: 2011
+Crossref
+C R Alexander , S W Bauguess , G Bernile , Y H A Lee , J Marietta-Westberg
+Economic effects of SOX Section-404 compliance: a corporate insider perspective
+Journal of Accounting and Economics , volume 56 , issue 2 , p. 267 - 290 Posted: 2013
+Crossref
+S Arping , Z Sautner
+Did SOX Section 404 make firms less opaque? Evidence from cross-listed firms
+Contemporary Accounting Research , volume 30 , issue 3 , p. 1133 - 1165 Posted: 2013
+Crossref
+C S Armstrong , J L Blouin , A D Jagolinzer , D F Larcker
+Corporate governance, incentives and tax avoidance
+Journal of Accounting and Economics , volume 66 , issue 1 , p. 1 - 17 Posted: 2015
+Crossref
+Load more
+5 Citations
+Xiaoli Feng , Bin Ke , Kai Zhu
+A Review of China Tax Research
+Forthcoming, China Accounting and Finance Review · 50 Pages · Posted: 19 Apr 2021 · Downloads: 444
+Download PDF  Add Paper to My Library
+Eva Eberhartinger , Reyhaneh Safaei , Caren Sureth-Sloane , Yuchen Wu
+Is Risk Profiling in Tax Audit Case Selection Rewarded? An Analysis of Corporate Tax Avoidance
+TRR 266 Accounting for Transparency Working Paper Series No. 60, WU International Taxation Research Paper Series No. 2021-07 · 58 Pages · Posted: 27 Aug 2021 · Last revised: 7 Dec 2022 · Downloads: 776
+Download PDF  Add Paper to My Library
+Wanyi Chen , Liguang Zhang
+Does Tax Uncertainty Affect Corporate Innovation? Evidence from China
+63 Pages · Posted: 25 Jul 2022 · Last revised: 4 Apr 2023 · Downloads: 200
+Download PDF  Add Paper to My Library
+Till Muenster , Christoph Watrin
+Country-by-Country Disclosures and Firms' Internal Information Environment
+61 Pages · Posted: 10 Nov 2023 · Downloads: 306
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+717
+ABSTRACT VIEWS
+3,060
+RANK
+82,030
+5 Citations
+49 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

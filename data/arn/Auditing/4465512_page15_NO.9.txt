@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Role of Accounting Standards and Disclosure in Alleviating Corruption: A Cross-country Study
+
+36 Pages Posted: 5 Jun 2023
+
+Md. Atiqur Rahman
+
+Jahangirnagar University
+
+Date Written: May 31, 2023
+
+Abstract
+
+This study, relying on the notion of agency theory that the presence of information asymmetry causes higher agency costs, investigates the impact of accounting disclosure and perceived strength of auditing and reporting standards on perceived corruption. Using data for 71 economies for the period 2010-2017 and utilizing Pooled Ordinary Least Square (POLS) and two-step System GMM methods, this study finds that both accounting disclosure and perceived strength of accounting and auditing standards significantly reduce perceived corruption. Moreover, developing/transition and common law countries may benefit more from better accounting disclosure and perceived strong standards, but highly corrupt countries do not benefit from higher disclosure. Additional analysis shows that impact of perceived strong accounting standards on corruption is found non-linear. Audit propensity and quality moderates the relationship between the independent variables and perceived corruption. Mere adoption of accounting/auditing standards cannot cut corruption and perceived standard strength maybe influenced by enforcement levels.
+
+Keywords: Corruption, Accounting Standards, Financial Disclosure, Agency Theory, Generalized Method of Moments, GMM
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Rahman, Md. Atiqur, The Role of Accounting Standards and Disclosure in Alleviating Corruption: A Cross-country Study (May 31, 2023). Available at SSRN: https://ssrn.com/abstract=4465512 or http://dx.doi.org/10.2139/ssrn.4465512
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+K F Asiedu , E W Deffor
+Fighting Corruption by Means of Effective Internal Audit Function: Evidence from the Ghanaian Public Sector
+International Journal of Auditing , volume 21 , issue 1 , p. 82 - 99 Posted: 2017
+R Ball , A Robin , J S Wu
+Incentives versus standards: Properties of accounting income in four East Asian countries, and implications for acceptance of IAS
+Journal of Accounting and Economics , volume 36 , p. 235 - 270 Posted: 2003
+C Baum , M Schaffer , S Stillman
+Instrumental variables and GMM: Estimation and testing
+Stata Journal , volume 3 , issue 1 , p. 1 - 31 Posted: 2003
+P Bowen , P Edwards , K Cattell
+Corruption in the South African construction industry: A mixed methods study' in Association of Researchers in Construction Management
+Procs 28th Annual ARCOM Conference , p. 521 - 531 Posted: 2012
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+144
+ABSTRACT VIEWS
+725
+RANK
+464,622
+62 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

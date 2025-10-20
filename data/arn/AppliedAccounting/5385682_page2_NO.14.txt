@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Ethical Dynamics and Organizational Climate in Enhancing AI-based HRM Decision Making
+
+17 Pages Posted: 12 Aug 2025
+
+Agus Dwianto
+
+Department of Accounting, Faculty of Economics and Business, Universitas Sebelas Maret, Surakarta, Indonesia; Department of Accounting, Economics and Business, Universitas Muhammadiyah Surakarta, Surakarta, Indonesia.
+
+Rahmawati Rahmawati
+
+Sebelas Maret University - Faculty of Economics and Business
+
+Date Written: August 09, 2025
+
+Abstract
+
+The growing presence of Artificial Intelligence (AI) in Human Resource Management (HRM) is not only transforming operational processes but also raising fundamental questions about fairness, transparency, and ethical accountability. Despite widespread enthusiasm, the conditions under which AI can meaningfully support HR decision-making remain unclear particularly in emerging economies where digital infrastructures evolve faster than institutional ethics. This study investigates how ethical perception, intelligibility, accountability, social acceptance, and strategic AI utilization collectively influence the effectiveness of AI-based HRM decision making. Drawing on socio technical theory and normative ethical climate theory, the research examines whether organizational ethical climate acts as a contextual amplifier or constraint in these relationships. Instead of treating ethics and technology as separate domains, this work frames them as interdependent forces within HR systems. The study contributes to ongoing discussions about algorithmic trust, perceived legitimacy, and the strategic embedding of AI in people management practices. It raises a critical question: can organizations truly benefit from intelligent systems without ethical alignment, or will such systems undermine long-term legitimacy? Findings offer a conceptual basis for rethinking ethical governance in AI adoption, particularly for leaders navigating transformation in volatile, culturally diverse contexts.
+
+Keywords: AI in HRM, Ethical Perception, AI Accountability, Strategic Utilization, Organizational Ethical Climate
+
+Declaration of Interest
+
+The authors, Agus Dwianto and Rahmawati, declare that they have no known financial interests, personal relationships, or affiliations with organizations that could inappropriately influence, or be perceived to influence, the research and findings presented in this study. All analyses, interpretations, and conclusions are based solely on scholarly evidence and are free from external bias or conflict of interest.
+
+Ethics Approval
+
+This study did not involve human participants, patients, or animals that require formal ethics approval. The research was conducted using survey and observational data from voluntary participants, following ethical guidelines and ensuring informed consent was obtained prior to participation.
+
+Funder Statement
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors. The study was conducted using the authors’ personal resources and institutional support from the Department of Accounting, Faculty of Economics and Business, Universitas Sebelas Maret, Surakarta, Indonesia. The authors are currently seeking partnership or sponsorship to support the publication fee of this work.
+
+Suggested Citation:
+
+Dwianto, Agus and Rahmawati, Rahmawati, Ethical Dynamics and Organizational Climate in Enhancing AI-based HRM Decision Making (August 09, 2025). Available at SSRN: https://ssrn.com/abstract=5385682 or http://dx.doi.org/10.2139/ssrn.5385682
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+A Abu Sharshouh
+The Use of Artificial İntelligence in Accounting and Auditing TT -Muhasebe ve Denetim Alanında Yapay Zekâ Kullanımı
+Karadeniz Ekonomi Araştırmaları Dergisi , volume 6 , issue 1 , p. 1 - 15 Posted: 2025
+F Almeida , A Junça-Silva , S L Lopes , R Lourenço-Silva
+Artificial Intelligence (AI), Labor Relations and Human Resource Management BT -Challenges and Opportunities in the Artificial Intelligence Era , p. 43 - 60 Posted: 2025
+T Ashokkumar , T Russel Raj , A Rajadurai , A H Abishini , A H Anchani
+Analyzing the impact of the new educational policy 2020: A comprehensive review of India's educational reforms
+Evaluation and Program Planning , volume 108 Posted: 2025
+I Aust , B Matthews , M Muller-Camen
+Common Good HRM: A paradigm shift in Sustainable HRM?
+Human Resource Management Review , volume 30 , issue 3 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+43
+ABSTRACT VIEWS
+304
+77 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Governance: Social Responsibility & Social Impact eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

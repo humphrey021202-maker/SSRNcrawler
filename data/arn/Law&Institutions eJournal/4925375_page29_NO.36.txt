@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CEO Ownership, Options and Stock Market Performance
+
+39 Pages Posted: 14 Aug 2024
+
+Zihao Qu
+
+Hong Kong University of Science and Technology (Guangzhou)
+
+Guang Zhang
+
+affiliation not provided to SSRN
+
+Abstract
+
+This study employs an empirical analysis to systematically examine the relationship between CEO shareholding percentages, option holding levels, and company stock market performance. First, various investment portfolios are constructed based on CEO shareholdings and option holdings, categorized using the Fama-French five-factor model for factor analysis. The results indicate that higher CEO equity and option holdings often drive firms to pursue greater maximization of company value, resulting in higher profitability and investment risks. Second, it is found that moderate CEO shareholding percentages (with positive α values in the shareholding percentage group) help reduce agency problems, enhance company value, and achieve excess returns. However, when CEO shareholding reaches high levels (such as the highest shareholding group with a negative α of -0.0257), it exacerbates the "entrenchment effect," leading to decisions driven by personal interests that harm company and shareholder interests, thereby reducing the company's investment value. Finally, corporate governance and management quality moderated this relationship, with stronger management capabilities benefiting from moderate shareholdings. Conversely, those with weaker management capabilities struggle to mitigate agency costs, even at moderate shareholding levels.
+
+Keywords: CEO share and option holding, Fama-French five-factor model, Entrenchment effect, Corporate governance, Management quality
+
+Suggested Citation:
+
+Qu, Zihao and Qu, Zihao and Zhang, Guang, CEO Ownership, Options and Stock Market Performance. Available at SSRN: https://ssrn.com/abstract=4925375
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+N Brisley
+Executive stock options: Early exercise provisions and risk-taking incentives
+The Journal of Finance , volume 61 , issue 5 , p. 2487 - 2509 Posted: 2006
+P Brockman , X Martin , E Unlu
+Executive compensation and the maturity structure of corporate debt
+The Journal of Finance , volume 65 , issue 3 , p. 1123 - 1161 Posted: 2010
+S Bryan , L Hwang , S Lilien
+CEO stock-based compensation: An empirical analysis of incentive-intensity, relative mix, and economic determinants
+The Journal of Business , volume 73 , issue 4 , p. 661 - 693 Posted: 2000
+N Burns , S Kedia
+The impact of performance-based compensation on misreporting
+Journal of financial economics , volume 79 , issue 1 , p. 35 - 67 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+90
+ABSTRACT VIEWS
+465
+RANK
+662,989
+28 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

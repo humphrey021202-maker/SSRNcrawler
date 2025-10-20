@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Necessary Conditions in Empirical Accounting Research
+
+41 Pages Posted: 15 Oct 2020 Last revised: 8 Nov 2022
+
+Kai G. Mertens
+
+Hamburg University of Technology
+
+Ole Meßerschmidt
+
+Technical University Hamburg-Harburg (TUHH)
+
+Matthias Meyer
+
+Technical University Hamburg-Harburg (TUHH)
+
+Date Written: November 01, 2022
+
+Abstract
+
+This study examines the opportunities and challenges of using necessary conditions in
+empirical accounting research for identifying causal relationships. Accounting research aims
+to draw causal inferences notwithstanding that causal relationships can be understood both by
+necessary and sufficient conditions. A necessary variable must be present for an outcome to
+exist, where sufficient variables contribute to the outcome. In this study, we introduce necessary
+conditions that have a distinct understanding of causal relationships. While our review finds
+that some papers already use necessary conditions, there are doubts that typical specificities
+when identifying a necessity condition are not always fully appreciated. We believe that
+accounting research would benefit from the use of necessary conditions for refining the
+understanding of causal relationships between variables. More attention to necessary
+conditions in research settings provide more confidence to draw causal inferences.
+
+Keywords: necessary condition analysis, NCA, necessity, sufficiency, causal reasoning
+
+Suggested Citation:
+
+Mertens, Kai G. and Meßerschmidt, Ole and Meyer, Matthias, Necessary Conditions in Empirical Accounting Research (November 01, 2022). Available at SSRN: https://ssrn.com/abstract=3693021 or http://dx.doi.org/10.2139/ssrn.3693021
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+F Akbas , C Jiang , P D Koch
+The Trend in Firm Profitability and the Cross-Section of Stock Returns
+The Accounting Review , volume 92 , issue 5 , p. 1 - 32 Posted: 2017
+J D Angrist , J.-S Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2008
+J D Angrist , J.-S Pischke
+The Credibility Revolution in Empirical Economics: How Better Research Design is Taking the Con out of Econometrics
+Journal of Economic Perspectives , volume 24 , issue 2 , p. 3 - 30 Posted: 2010
+T D Bauer , C Estep , B Malsch
+One Team or Two? Investigating Relationship Quality between Auditors and IT Specialists: Implications for Audit Team Identity and the Audit Process , volume 36 , p. 2142 - 2177 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+176
+ABSTRACT VIEWS
+1,227
+RANK
+390,788
+1 Citations
+48 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Decision-Making in Economics & Finance eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

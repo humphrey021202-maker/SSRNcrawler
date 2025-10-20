@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Generalized Pearson Distribution for Application in Financial Time Series Modeling
+
+Global Business and Economics Review, Vol. 16, No. 1, 2014, pp. 1-14
+
+9 Pages Posted: 10 Aug 2013 Last revised: 20 Nov 2013
+
+Stavros Stavroyiannis
+
+University of the Peloponnese - Department of Accounting and Finance
+
+Date Written: August 10, 2013
+
+Abstract
+
+We elaborate on a new distributional scheme resulting from the generalized Pearson distribution with application to financial modelling. As case studies we consider the major historical indices daily returns, DJIA, NASDAQ composite, FTSE100, CAC40, DAX and S&P500, as well as, high-frequency returns of the Euro/Japanese Yen foreign currency exchange rates. Using nonlinear optimization techniques we compare the results of the maximum likelihood estimator of the new distribution to the results of the Pearson type-IV distribution. The main findings indicate that the new distribution improves the value of the estimator in all cases, with significant improvement below the 60-min sampling.
+
+Keywords: Financial markets, Generalized Pearson distribution, Non-linear optimization
+
+JEL Classification: C10, C22, C51, C52
+
+Suggested Citation:
+
+Stavroyiannis, Stavros, On the Generalized Pearson Distribution for Application in Financial Time Series Modeling (August 10, 2013). Global Business and Economics Review, Vol. 16, No. 1, 2014, pp. 1-14, Available at SSRN: https://ssrn.com/abstract=2308436 or http://dx.doi.org/10.2139/ssrn.2308436
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+T Bollerslev
+A conditional heteroskedastic time series model for speculative prices and rates of return
+The Review of Economics and Statistics , volume 69 , p. 542 - 547 Posted: 1987
+Crossref
+M A Chaudhry , Ahmad , M
+On a probability function useful in size modeling
+Canadian Journal of Forest Research , volume 23 , issue 8 , p. 1679 - 1683 Posted: 1993
+Crossref
+C Chou , W Huang
+On characterizations of the gamma and generalized inverse gaussian distributions
+Statistics and Probability Letters , volume 69 , p. 381 - 388 Posted: 2004
+Crossref
+L Cobb , P Koppstein , Chen , N H
+Estimation and moment recursion relations for multimodal distributions of the exponential family
+Journal of the American Statistical Association , volume 78 , issue 381 , p. 124 - 130 Posted: 1983
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+111
+ABSTRACT VIEWS
+1,057
+RANK
+572,087
+33 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

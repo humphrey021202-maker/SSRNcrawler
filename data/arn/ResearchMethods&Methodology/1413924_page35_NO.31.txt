@@ -1,0 +1,158 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Computation in an Asymptotic Expansion Method
+
+CARF Working Paper Series CARF-F-149
+
+51 Pages Posted: 8 Jun 2009 Last revised: 25 Aug 2011
+
+Akihiko Takahashi
+
+University of Tokyo - Faculty of Economics
+
+Kohta Takehara
+
+Tokyo Metropolitan University
+
+Masashi Toda
+
+University of Tokyo - Graduate School of Economics
+
+Date Written: May 31, 2009
+
+Abstract
+
+An asymptotic expansion scheme in finance initiated by Kunitomo and Takahashi [15] and Yoshida [68] is a widely applicable methodology for analytic approximation of the expectation of a certain functional of diffusion processes. [46], [47] and [53] provide explicit formulas of conditional expectations necessary for the asymptotic expansion up to the third order. In general, the crucial step in practical applications of the expansion is calculation of conditional expectations for a certain kind of Wiener functionals. This paper presents two methods for computing the conditional expectations that are powerful especially for high order expansions: The first one, an extension of the method introduced by the preceding papers presents a general scheme for computation of the conditional expectations and show the formulas useful for expansions up to the fourth order explicitly. The second one develops a new calculation algorithm for computing the coefficients of the expansion through solving a system of ordinary differential equations that is equivalent to computing the conditional expectations. To demonstrate their effectiveness, the paper gives numerical examples of the approximation for λ-SABR model up to the fifth order and a cross-currency Libor market model with a general stochastic volatility model of the spot foreign exchange rate up to the fourth order.
+
+Keywords: asymptotic expansion, stochastic volatility, λ-SABR model, Libor market model, Malliavin calculus, cross currency model, foreign exchange rate option (Forex Option)
+
+Suggested Citation:
+
+Takahashi, Akihiko and Takehara, Kohta and Toda, Masashi, Computation in an Asymptotic Expansion Method (May 31, 2009). CARF Working Paper Series CARF-F-149, Available at SSRN: https://ssrn.com/abstract=1413924 or http://dx.doi.org/10.2139/ssrn.1413924
+Download This Paper
+ 
+Open PDF in Browser
+72 References
+K Bichteler , J.-B Gravereaux , J Jacod
+Malliavin Calculus for Processes with Jumps , volume 2 Posted: 1987
+Crossref
+T Björk
+Arbitrage Theory in Continuous Time Posted: 2004
+Crossref
+P Carr , R Jarrow , R Myneni
+Alternative characterizations of American put options
+Mathematical Finance , volume 2 , p. 87 - 106 Posted: 1992
+Crossref
+A Dermoune , Y Kutoyants
+Expansion of distribution of Maximum Likelihood Estimate for Misspecified Diffusion Type Observation
+Stochastics and Stochastic Reports , volume 52 , issue jou_issue[1].xmlText , p. 121 - 145 Posted: 1995
+Crossref
+Load more
+19 Citations
+Akihiko Takahashi , Toshihiro Yamada
+A Weak Approximation with Asymptotic Expansion and Multidimensional Malliavin Weights
+32 Pages · Posted: 23 Nov 2013 · Last revised: 12 May 2015 · Downloads: 166
+Download PDF  Add Paper to My Library
+Yoshifumi Muroi , E. Kazuhiro Takino
+Pricing Derivatives using the Asymptotic Expansion Approach: Credit Migration Models with Stochastic Credit Spreads
+Asia-Pacific Financial Markets , volume 18 , issue 4 , p. 345 Posted: 2011
+Crossref
+Kenichiro Shiraya , Akihiko Takahashi
+Pricing average options on commodities
+Journal of Futures Markets , volume 31 , issue 5 , p. 407 Posted: 2011
+Crossref
+Kenichiro Shiraya , Akihiko Takahashi , Toshihiro Yamada
+Pricing Discrete Barrier Options Under Stochastic Volatility
+Asia-Pacific Financial Markets , volume 19 , issue 3 , p. 205 Posted: 2012
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+774
+ABSTRACT VIEWS
+3,754
+RANK
+74,287
+19 Citations
+72 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Mathematical Methods & Programming eJournal
+
+Follow
+Recommended Papers
+
+A Hybrid Asymptotic Expansion Scheme: An Application to Long-Term Currency Options
+
+By Akihiko Takahashi and Kohta Takehara
+
+General Asymptotics of Wiener Functionals and Application to Mathematical Finance
+
+By Yasufumi Osajima
+
+An Asymptotic Expansion Approach in Finance
+
+By Akihiko Takahashi
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

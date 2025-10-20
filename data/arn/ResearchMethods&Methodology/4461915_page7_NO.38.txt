@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Improving the effectiveness of predictors in accounting-based models
+
+Journal of Applied Accounting Research, volume 20, issue 2, 2019 [10.1108/JAAR-01-2018-0006]
+
+32 Pages Posted: 9 Jun 2023
+
+Duarte Trigueiros
+
+ISTAR-IUL, University Institute of Lisbon
+
+Date Written: November 09, 2018
+
+Abstract
+
+Financial ratios are routinely used as predictors in modelling tasks where accounting information is required. The purpose of this paper is to discuss such use and to show how the effectiveness of ratiobased models can be improved. The paper first identifies the inadequacies of ratios when used as multivariate predictors, and then develops a theoretical foundation and methodology for constructing accounting-based models. Under plausible assumptions about the cross-sectional behaviour of accounting data, the paper shows that the effect of size that ratios remove can also be removed by modelling algorithms, facilitating the discovery of meaningful predictors and leading to significantly more effective models. Experiments confirm that the new methodology outperforms the conventional methodology, avoids the need to select ratios, and makes model construction less arbitrary. The new methodology can end the current uncritical use of modelling tools and unlock the full relevance of accounting information when used to support investment and other value-creating decisions.
+
+Keywords: Bankruptcy prediction, Misstatement Detection, Earnings Forecasting, Financial Ratios, Accounting Analytics, Value Relevance of Accounting Data
+
+JEL Classification: C01, C18, C21, C43, C51, G33, M41
+
+Suggested Citation:
+
+Trigueiros, Duarte, Improving the effectiveness of predictors in accounting-based models (November 09, 2018). Journal of Applied Accounting Research, volume 20, issue 2, 2019 [10.1108/JAAR-01-2018-0006], Available at SSRN: https://ssrn.com/abstract=4461915 or http://dx.doi.org/10.2139/ssrn.4461915
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+F Amania , A Fadlallab , S Balcaen , H Ooghe
+35 years of studies on business failure: an overview of the classic statistical methodologies and their related problems
+International Journal of Accounting Information Systems , volume 24 , issue 1 , p. 63 - 93 Posted: 2006
+R Ball , S Kothari
+Financial Statement Analysis Posted: 1994
+P Barnes
+The prediction of takeover targets in the U.K. by means of multiple discriminant analysis
+Journal of Business Finance and Accounting , volume 17 , issue 1 , p. 73 - 84 Posted: 1990
+M Beneish
+The detection of earnings manipulation
+Financial Analysts Journal , volume 55 , issue 5 , p. 24 - 36 Posted: 1999
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+55
+ABSTRACT VIEWS
+389
+RANK
+880,318
+1 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

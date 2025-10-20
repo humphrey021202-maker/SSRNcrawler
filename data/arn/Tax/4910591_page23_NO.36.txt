@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax Disclosures in Sustainability Reporting: Evidence on Disclosure Content and Corporate Tax Avoidance
+
+63 Pages Posted: 12 Aug 2024 Last revised: 9 Sep 2025
+
+Inga Hardeck
+
+University of Regensburg
+
+Frank Hechtner
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+Andreas Seebeck
+
+Jacobs University Bremen
+
+Marius Weiß
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+Date Written: September 09, 2025
+
+Abstract
+
+Global Reporting Initiative (GRI) 207, the first tax-focused sustainability reporting standard, requires GRI-reporting firms to provide detailed qualitative and quantitative tax disclosures when taxes are material. In this study, we exploit firms’ adoption of GRI 207 to examine how tax disclosures embedded in sustainability reporting evolve and how they are related to corporate tax behavior. We are the first to use a combination of automated and manual textual analysis approaches, including the domain-specific large language model (LLM) TaxBERT, to study disclosure content and the characteristics of tax sustainability disclosures. We find that firms implement new tax strategies and revise their tax compliance management systems following GRI 207 adoption. In a second step, using a difference-in-differences design, we document a persistent 1–2 percentage point increase in GAAP effective tax rates (GAAP ETRs) among adopting firms. Disclosures on changes in tax strategies and risk mitigation efforts are particularly associated with higher GAAP ETRs. The results hold through multiple robustness tests addressing endogeneity, including a stacked cohort design. Our findings have policy implications, suggesting that corporate tax avoidance can be discouraged by integrating tax disclosure requirements into sustainability reporting frameworks.
+
+Keywords: corporate tax sustainability, GRI reporting, corporate tax avoidance, text mining
+
+JEL Classification: H20, H25; H26
+
+Suggested Citation:
+
+Hardeck, Inga and Hechtner, Frank and Seebeck, Andreas and Weiß, Marius, Tax Disclosures in Sustainability Reporting: Evidence on Disclosure Content and Corporate Tax Avoidance (September 09, 2025). Available at SSRN: https://ssrn.com/abstract=4910591
+Download This Paper
+ 
+Open PDF in Browser
+70 References
+J R Adams , E Demers , K J Klassen
+Tax Aggressive Behavior and Voluntary Tax Disclosure: Evidence from Corporate Sustainability Reporting Posted: 2024
+N Sarfo
+Investors' Big Tax Transparency Experiment
+Forbes Posted: 2022-12-22
+N Sarfo
+Microsoft and Cisco Face Shareholder Pressure Over Public Disclosures
+Forbes Posted: 2022-06-28
+S Athey , G W Imbens
+Design-based analysis in Difference-in-Differences settings with staggered adoption
+Journal of Econometrics , volume 226 , p. 62 - 79 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+211
+ABSTRACT VIEWS
+2,869
+RANK
+330,157
+70 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

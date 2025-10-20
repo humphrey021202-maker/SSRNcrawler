@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Testing for Structural Breaks in Correlations: Does it Improve Value-at-Risk Forecasting?
+
+Journal of Empirical Finance, Forthcoming
+
+39 Pages Posted: 17 May 2013 Last revised: 16 Mar 2015
+
+Tobias Berens
+
+zeb/rolfes.schierenbeck.associates; University TU Dortmund
+
+Gregor N. F. Weiss
+
+University of Leipzig - Faculty of Economics and Management Science
+
+Dominik Wied
+
+University of Cologne
+
+Date Written: March 11, 2015
+
+Abstract
+
+In this paper, we compare the Constant Conditional Correlation (CCC) model to its dynamic counterpart, the Dynamic Conditional Correlation (DCC) model with respect to its accuracy for forecasting the Value-at-Risk of financial portfolios. Additionally, we modify these benchmark models by combining them with a pairwise test for constant correlations, a test for a constant correlation matrix, and a test for a constant covariance matrix. In an empirical horse race of these models based on five- and ten-dimensional portfolios, our study shows that the plain CCC- and DCC-GARCH models are outperformed in several settings by the approaches modified by tests for structural breaks in asset correlations and covariances.
+
+Keywords: CCC-GARCH, DCC-GARCH, Estimation window, Structural breaks, VaR-forecast
+
+JEL Classification: C32, C41, C53, G17, G32
+
+Suggested Citation:
+
+Berens, Tobias and Berens, Tobias and Weiss, Gregor N. F. and Wied, Dominik, Testing for Structural Breaks in Correlations: Does it Improve Value-at-Risk Forecasting? (March 11, 2015). Journal of Empirical Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2265488 or http://dx.doi.org/10.2139/ssrn.2265488
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+C E Alexander , Sheedy
+Developing a Stress Testing Framework Based on Market Risk Models
+Journal of Banking & Finance , volume 32 , issue 10 , p. 2220 - 2236 Posted: 2008
+Crossref
+A G Ang , Bekaert
+International Asset Allocation with Time-Varying Correlations
+Review of Financial Studies , volume 15 , issue 4 , p. 1137 - 1187 Posted: 2002
+A Aue , S Ormann , L Horv´athhorv´ , And M Horv´ath , Reimherr
+Break Detection in the Covariance Structure of Multivariate Time Series Models
+The Annals of Statistics , volume 37 , issue jou_issue[1].xmlText , p. 4046 - 4087 Posted: 2009
+Crossref
+Basel , On , Supervision
+Supervisory Framework for the Use of Backtesting in Conjunction with the Internal Model-Based Approach to Market Risk Capital Requirements
+BIS Posted: 1996
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+463
+ABSTRACT VIEWS
+2,915
+RANK
+142,252
+2 Citations
+18 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+It Pays to Violate: How Effective are the Basel Accord Penalties in Encouraging Risk Management?
+
+By Bernardo Da Veiga, Michael Mcaleer, ...
+
+A Nonparametric Test for a Constant Correlation Matrix
+
+By Dominik Wied
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

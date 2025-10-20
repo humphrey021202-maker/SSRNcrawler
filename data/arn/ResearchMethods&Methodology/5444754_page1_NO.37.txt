@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Simple Event Study Test for Volatility with an Application to Coup D'états
+
+31 Pages Posted: 11 Sep 2025
+
+Henry Lahr
+
+The Open University - Business School; University of Cambridge - Centre for Business Research (CBR)
+
+Yarema Okhrin
+
+University of Augsburg
+
+Tomasz Piotr Wisniewski
+
+Open University, UK
+
+Date Written: September 04, 2025
+
+Abstract
+
+Event studies in finance typically estimate the effects of corporate or macroeconomic events on mean returns of stocks or portfolios. While effects on mean returns have been studied extensively, a commonly accepted and widely used method for the volatility of returns does not currently exist, owing in part to implementation complexity. In this paper, we offer a simple solution to testing volatility in an event-study framework by reinterpreting the Breusch-Pagan heteroskedasticity test and Koenker's robust version. These tests are readily available through standard statistical software and can easily be implemented in spreadsheet software. A power analysis shows that these methods have a reasonable power to detect changes in the volatility of stock returns within a plausible range and that Koenker's test is robust to non-Gaussian returns. We apply these tests at the country level in an event study of coup d'états and find a significant increase in the volatility of stock index returns in a period of up to 15 days after an attempted or successful coup d'état.
+
+Keywords: Volatility Event Study, Heteroskedasticity, Breusch-Pagan Test, Koenker’s Test, Coup Attempt, Power Analysis, Excess Volatility
+
+JEL Classification: G14, C21, C25, D74
+
+Suggested Citation:
+
+Lahr, Henry and Okhrin, Yarema and Wisniewski, Tomasz Piotr, A Simple Event Study Test for Volatility with an Application to Coup D'états (September 04, 2025). Available at SSRN: https://ssrn.com/abstract=5444754 or http://dx.doi.org/10.2139/ssrn.5444754
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+49
+ABSTRACT VIEWS
+196
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Securitization with Implicit Recourse: Some thoughts on the Economic Rationale
+
+The Journal of Structured Finance, Vol. 19, No. 4, pp. 35-44, 2013
+
+https://doi.org/10.3905/jsf.2014.19.4.035
+
+Posted: 21 May 2019
+
+Marcus Sidki
+
+Ludwigshafen University of Applied Sciences / Center for Public and Nonprofit Enterprises
+
+Date Written: August 22, 2013
+
+Abstract
+
+Asset-backed securitization transactions that are structured to achieve a true sale of the underlying assets, i.e. a legal change of ownership, are usually performed “non-recourse.” However, many securitization transactions show signs of implicit recourse, i.e., the granting of non-contractual stipulated support activities of a transaction provided by the originator. The motivation to act as such lies in the originator’s moral hazard to retain his reputation and capital market access. While such measures are officially illegal and regulators stipulate disciplinary consequences, they often tend to ignore such actions. This article analyzes the economic rationale behind the phenomenon of granting implicit recourse in ”non-recourse” securitizations. First, an overview of multiple empirical research shows evidence for the existence of implicit recourse activities in general and even some economic advantages of such measures. Next, a theoretical model based on Benveniste and Berger [1987] shows that recourse can add value to capital market efficiency, because it mitigates the problem of information asymmetry that occurs when financial intermediaries sell theirs assets. Implicit recourse in securitization transactions might also help to better allocate risk among capital market investors. These theoretical and empirical considerations help us understand the functionality of securitization and of the capital market and its participants.
+
+Keywords: Securitization, Structured Finance, Recourse
+
+JEL Classification: G21, G32, K2
+
+Suggested Citation:
+
+Sidki, Marcus, Securitization with Implicit Recourse: Some thoughts on the Economic Rationale (August 22, 2013). The Journal of Structured Finance, Vol. 19, No. 4, pp. 35-44, 2013, https://doi.org/10.3905/jsf.2014.19.4.035, Available at SSRN: https://ssrn.com/abstract=2842179
+ Not Available for Download
+13 References
+Lawrence M Benveniste , A N Berger
+Securitization with Recourse: An Instrument that Offers Uninsured Bank Depositors Sequential Claims
+Journal of Banking and Finance , volume 11 , issue 3 , p. 403 - 424 Posted: 1987
+Interagency Guidance on Implicit Recourse in Asset Securitizations". Supervision and Regulation Letters SR , p. 2 - 15 Posted: 2002
+Charles W Calomiris , J R Mason
+Credit Card Securitization and Regulatory Arbitrage
+Journal of Financial Services Research , volume 26 , issue 1 , p. 5 - 27 Posted: 2004
+Crossref
+Douglas W Diamond
+Financial Intermediation and Delegated Monitoring
+Review of Economic Studies , volume 51 , issue 3 , p. 393 - 414 Posted: 1984
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,379
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

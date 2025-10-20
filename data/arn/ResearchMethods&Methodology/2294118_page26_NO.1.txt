@@ -1,0 +1,153 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Combining Two Consistent Estimators
+
+In: Essays in Honor of Jerry Hausman: Advances in Econometrics, Volume 29, Emerald, New York, 2012
+
+20 Pages Posted: 15 Jul 2013
+
+John C. Chao
+
+University of Maryland
+
+Jerry A. Hausman
+
+Massachusetts Institute of Technology (MIT) - Department of Economics; National Bureau of Economic Research (NBER)
+
+Whitney K. Newey
+
+Massachusetts Institute of Technology (MIT) - Department of Economics; National Bureau of Economic Research (NBER)
+
+Norman R. Swanson
+
+Rutgers, The State University of New Jersey - Department of Economics; Rutgers University - Department of Economics
+
+Tiemen Woutersen
+
+University of Arizona
+
+Date Written: August 2012
+
+Abstract
+
+This paper shows how a weighted average of a forward and reverse Jackknife IV estimator (JIVE) yields estimators that are robust against heteroscedasticity and many instruments. These estimators, called HFUL (Heteroscedasticity robust Fuller) and HLIM (Heteroskedasticity robust limited information maximum likelihood (LIML)) were introduced by Hausman et al. (2012), but without derivation. Combining consistent estimators is a theme that is associated with Jerry Hausman and, therefore, we present this derivation in this volume. Additionally, and in order to further understand and interpret HFUL and HLIM in the context of jackknife type variance ratio estimators, we show that a new variant of HLIM, under specific grouped data settings with dummy instruments, simplifies to the Bekker and van der Ploeg (2005) MM (method of moments) estimator.
+
+Keywords: endogeneity, instrumental variables, jackknife estimation, many moments, Hausman (1978) test
+
+JEL Classification: C13, C31
+
+Suggested Citation:
+
+Chao, John C. and Hausman, Jerry A. and Newey, Whitney K. and Swanson, Norman Rasmus and Swanson, Norman Rasmus and Woutersen, Tiemen, Combining Two Consistent Estimators (August 2012). In: Essays in Honor of Jerry Hausman: Advances in Econometrics, Volume 29, Emerald, New York, 2012 , Available at SSRN: https://ssrn.com/abstract=2294118
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+P A Bekker , J Van Der Ploeg
+Instrumental variable estimation based on grouped data
+Statistica Neerlandica , volume 59 , p. 506 - 508 Posted: 2005
+Crossref
+S Blomquist , M Dahlberg
+Small sample properties of LIML and jackknife IV estimators: experiments with weak instruments
+Journal of Applied Econometrics , volume 14 , p. 69 - 88 Posted: 1999
+Crossref
+J C Chao , N R Swanson , J A Hausman , W K Newey , T Woutersen
+Asymptotic distribution of JIVE in a heteroskedastic IV regression with many instruments
+Econometric Theory , volume 28 , p. 42 - 86 Posted: 2012
+Crossref
+R Davidson , J G Mackinnon
+The case against JIVE (with discussion and reply)
+Journal of Applied Econometrics , volume 21 , p. 827 - 833 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+81
+ABSTRACT VIEWS
+1,695
+RANK
+708,207
+12 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Multiple Equation Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+Instrumental Variables Regression with Weak Instruments
+
+By Douglas Staiger and James H. Stock
+
+Testing for Weak Instruments in Linear IV Regression
+
+By James H. Stock and Motohiro Yogo
+
+Testing for Weak Instruments in Linear IV Regression
+
+By James H. Stock and Motohiro Yogo
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

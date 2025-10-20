@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bitcoin and Beyond: Crypto Asset Considerations for Auditors
+
+39 Pages Posted: 1 Sep 2021
+
+Daniel Dupuis
+
+American University of Sharjah - School of Business and Management
+
+Kimberly C. Gleason
+
+American University of Sharjah
+
+Yezen H. Kannan
+
+Zayed University; Duquesne University
+
+Date Written: August 12, 2021
+
+Abstract
+
+Given the relative nascency of digital assets, we provide auditing faculty, students, and practitioners with a holistic overview of digital assets. We first place digital assets within the context of money and describe the microstructure of a transaction using crypto-assets. We then focus on the considerations that digital assets present provide an explanation of auditor considerations associated with digital assets for auditors. We address the current accounting treatment of digital assets and explain the challenges posed by digital assets for auditors regarding the management assertions. We identify the fraud risk factors that auditors should be aware of, and describe potential innovations in the digital currency markets that could be the basis of discussions in the accounting and auditing classrooms in the future.
+
+Keywords: Auditing, COSO, fraud, cryptocurrency, digital coins, crypto-assets
+
+JEL Classification: M41, M42, G23
+
+Suggested Citation:
+
+Dupuis, Daniel and Gleason, Kimberly C. and Kannan, Yezen H., Bitcoin and Beyond: Crypto Asset Considerations for Auditors (August 12, 2021). Available at SSRN: https://ssrn.com/abstract=3903995 or http://dx.doi.org/10.2139/ssrn.3903995
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+Accounting for cryptocurrencies
+ACCA Posted: 2021
+G Ackerman , M Garratt , R
+turnsto-bust American Institute of CPAs (AICPA) , 2020. Implications of the Use of Blockchain in SOC for Service Organization Examinations
+20 An increasing number of US listed companies are incorporated in the Marshall Islands. See , p. 55 - 70 Posted: 2017-02-11
+D Broby , G Paul
+The financial auditing of distributed ledgers, blockchain and cryptocurrencies
+Journal of Financial Transformation , volume 46 , p. 76 - 88 Posted: 2017
+Auditing in the Crypto-Asset Sector Posted: 2019
+Load more
+5 Citations
+Hossam Haddad , Esraa Esam Alharasis , Jihad Fraij , Nidal Mahmoud Al-Ramahi
+How Do Innovative Improvements in Forensic Accounting and Its Related Technologies Sweeten Fraud Investigation and Prevention?
+WSEAS TRANSACTIONS ON BUSINESS AND ECONOMICS , volume 21 , p. 1115 Posted: 2024
+Crossref
+Fatih Ömür Binici , Fatma Tektüfekçi
+İŞLETMELERDE VERİ DEĞER ZİNCİRİ VE VERİ VARLIKLARININ MUHASEBE SİSTEMİ İÇİNDE GÖSTERİMİ
+Muhasebe Bilim Dünyası Dergisi , volume 26 , issue 3 , p. 206 Posted: 2024
+Crossref
+Andrew B. Jackson , Steven Luu
+Accounting For Digital Assets
+Australian Accounting Review , volume 33 , issue 3 , p. 302 Posted: 2023
+Crossref
+David Krause
+AI and Web3: A New Era for Accounting and Auditing
+23 Pages · Posted: 2 Dec 2024 · Downloads: 172
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+669
+ABSTRACT VIEWS
+2,396
+RANK
+89,676
+5 Citations
+22 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

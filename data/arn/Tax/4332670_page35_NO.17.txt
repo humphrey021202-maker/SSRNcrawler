@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Property Tax Limitations, Covariance Risk, and Mortgage Distress
+
+81 Pages Posted: 24 Jan 2023 Last revised: 18 May 2025
+
+Sebastien Bradley
+
+Drexel University
+
+Da Huang
+
+Northeastern University - D'Amore-McKim School of Business
+
+Nathan Seegert
+
+University of Utah - Department of Finance
+
+Date Written: April 01, 2024
+
+Abstract
+
+Property tax limitations reduce the pro-cyclicality of property taxes, creating a distinct form of covariance risk. Controlling for the level of taxation, we find that a one standard deviation increase in covariance risk raises the probability of mortgage distress by 30\%, with stronger effects for financially vulnerable and racial minority households. We identify these effects using parcel-level data, a state border discontinuity design, and a novel property tax simulator that incorporates assessment, rate, and levy limitations, along with other key tax system characteristics. These findings underscore how tax policy affects risk and supports policies, such as targeted tax deferral programs, that could mitigate these risks.
+
+Keywords: Property Taxation, Tax Limitations, Risk, Distress, Mortgage Default, Foreclosure
+
+JEL Classification: G21, G28, E44, K34, R20
+
+Suggested Citation:
+
+Bradley, Sebastien and Huang, Da and Seegert, Nathan, Property Tax Limitations, Covariance Risk, and Mortgage Distress (April 01, 2024). Available at SSRN: https://ssrn.com/abstract=4332670 or http://dx.doi.org/10.2139/ssrn.4332670
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+Brent W Ambrose , A Charles , Yongheng Capone , Deng
+Optimal Put Exercise: an Empirical Examination of Conditions for Mortgage Foreclosure
+Journal of Real Estate Finance and Economics , volume 23 , issue 2 , p. 213 - 234 Posted: 2001
+Brent W Ambrose , James N Conklin , Luis A Lopez
+Does Borrower and Broker Race Affect the Cost of Mortgage Credit?
+Review of Financial Studies , volume 34 , issue 2 , p. 790 - 826 Posted: 2020-08
+Nathan B Anderson
+Property Tax Limitations: An Interpretative Review
+National Tax Journal , volume 59 , issue 3 , p. 685 - 694 Posted: 2006
+Jane K Dokko
+Mortgage Delinquency and Property Taxes
+, volume 52 , issue 1 , p. 49 - 57 Posted: 2009
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+132
+ABSTRACT VIEWS
+1,141
+RANK
+499,164
+41 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

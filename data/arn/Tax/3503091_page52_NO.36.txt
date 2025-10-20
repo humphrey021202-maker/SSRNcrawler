@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Big is Profit Shifting?
+
+18 Pages Posted: 1 Jan 2020 Last revised: 6 Aug 2020
+
+Kimberly A. Clausing
+
+UCLA School of Law; Peterson Institute for International Economics
+
+Date Written: May 17, 2020
+
+Abstract
+
+This research note describes the plausible magnitude of US revenue loss due to profit shifting, building on recent developments in the literature as well as new country-by-country data on US multinational companies in 2017. In the past, the most complete data sources have all shown large magnitudes of profit shifting, suggesting substantial revenue losses in non-haven countries. Blouin and Robinson (2019) have challenged this consensus, noting that many data sources may be flawed due to the inadvertent inclusion of double-counted profits or through an inadvertent misallocation of profit. Nonetheless, their proposed correction to the data generates its own puzzles, and experts at both the BEA and the JCT believe that the proposed correction will omit some types of profit shifting. Beyond that, Blouin and Robinson’s conclusions regarding how their adjustments affect the scale of profit shifting set aside many nuances in method that affect bottom-line findings about the scale of profit shifting. This research note uses recently released country-by-country tax data to estimate plausible benchmarks regarding the scale of profit shifting, finding that profit shifting is likely to be costing the US government over $100 billion a year in 2017 (at 2017 tax rates). While much can be done to refine these estimates and learn more about the scale of the problem, the problem remains unambiguously very large.
+
+Keywords: Profit Shifting, Corporate Taxation, International Taxation, Income Shifting, Tax Avoidance, Tax Competition
+
+JEL Classification: H25, H26, H87, F23
+
+Suggested Citation:
+
+Clausing, Kimberly A., How Big is Profit Shifting? (May 17, 2020). Available at SSRN: https://ssrn.com/abstract=3503091 or http://dx.doi.org/10.2139/ssrn.3503091
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+For the 2017 US country by country data, the average of the US share of employees, assets, and sales is 68.8 percent, excluding stateless income from the denominator. In the US BEA data for 2017, the average of employee and sales shares is 67.1 percent, and the average (also) including employment compensation is 70.9 percent. The profits of foreign multinational companies operating in the United States relative to US multinational companies operating abroad is 39 percent in 2019, the most recent year available. This uses the "income without current cost adjustment
+References Bilicka , Katarzyna
+Multinationals' Profit Response to Tax Differentials: Effect Size and Shifting Channels
+American Economic Review , volume 109 , issue 8 , p. 2921 - 2953 Posted: 2019
+Jennifer Blouin , Leslie Robinson
+Accounting for the Profits of Multinational Enterprises: Double Counting and Misattribution of Foreign Affiliate Income
+Pages: 95 Posted: 8 Dec 2019 Last revised: 5 May 2024
+Download PDF  Add Paper to My Library
+Kimberly A Clausing
+The Effect of Profit Shifting on the Corporate Tax Base in the United States and Beyond
+National Tax Journal , volume 69 , issue 4 , p. 905 - 939 Posted: 2016
+Crossref
+Load more
+3 Citations
+Jeremiah Harris , William O'Brien
+U.S. Multinationals’ Alternatives to Repatriation Taxes
+Journal of Corporate Finance, volume 91, 2025[<a href="https://doi.org/10.1016/j.jcorpfin.2024.102722" rel="nofollow">10.1016/j.jcorpfin.2024.102722</a>] · 56 Pages · Posted: 13 Dec 2019 · Last revised: 7 Jul 2025 · Downloads: 221
+Download PDF  Add Paper to My Library
+ZERO DENG
+Foreign Exchange Risk, Hedging, and Tax‐Motivated Outbound Income Shifting
+Journal of Accounting Research , volume 58 , issue 4 , p. 953 Posted: 2020
+Crossref
+Sunghoon Hong
+Tax treaties and foreign equity holding companies of multinational corporations
+Review of Managerial Science Posted: 2021
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,452
+ABSTRACT VIEWS
+7,754
+RANK
+30,445
+3 Citations
+18 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

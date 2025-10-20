@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Constraints on IRS Control: An Alternative Approach to Tax Gap Analysis
+
+12 Int'l J. L. & Pol. Sci. (2018, Forthcoming).
+
+15 Pages Posted: 25 Aug 2018 Last revised: 3 Oct 2018
+
+Jack Manhire
+
+Texas A&M University School of Innovation; Bush School of Government & Public Service
+
+Date Written: 2018
+
+Abstract
+
+A tax authority wants to take actions it knows will foster the greatest degree of voluntary taxpayer compliance to reduce the "tax gap." This paper suggests that even if a tax authority could attain a state of complete knowledge, there are constraints on whether and to what extent such actions would result in reducing the macro-level tax gap. These limits are not merely a consequence of finite agency resources. They are inherent in the system itself. To show that this is one possible interpretation of the tax gap data, the paper formulates known results in a different way by analyzing tax compliance as a population with a single covariate. This leads to a standard use of the logistic map to analyze the dynamics of non-compliance growth or decay over a sequence of periods. This formulation gives the same results as the tax gap studies performed over the past fifty years in the U.S. given the published margins of error. Limitations and recommendations for future work are discussed, along with some implications for tax policy.
+
+Keywords: income tax, tax compliance, tax law, tax gap
+
+JEL Classification: H2, H24, H25, H26, K34
+
+Suggested Citation:
+
+Manhire, Jack, Constraints on IRS Control: An Alternative Approach to Tax Gap Analysis (2018). 12 Int'l J. L. & Pol. Sci. (2018, Forthcoming)., Available at SSRN: https://ssrn.com/abstract=3218110
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+M Schofield
+Epictetus: Socratic, Cynic, Stoic
+Philosophical Quarterly , volume 54 , issue 216 , p. 448 - 456 Posted: 2004
+Crossref
+J T Manhire
+What Does Voluntary Tax Compliance Mean?: A Government Perspective
+University of Pennsylvania Law Review Online , volume 164 , issue 1 , p. 11 - 17 Posted: 2015
+J A
+Dubin (2012) The Causes and Consequences of Income Tax Noncompliance , p. 5 - 11
+United States Government Accountability Office )2005) Tax Compliance: Better Compliance Data and Long-term Goals Would Support a More Strategic IRS Approach to Reducing the Tax Gap Posted: 2005-07-18
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+127
+ABSTRACT VIEWS
+1,824
+RANK
+514,796
+62 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,148 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Loyalty Program Liabilities and Point Values
+
+Stanford University Graduate School of Business Research Paper No. 17-20
+
+39 Pages Posted: 28 Feb 2017 Last revised: 1 Aug 2018
+
+So Yeon Chun
+
+INSEAD - Technology and Operations Management
+
+Dan Iancu
+
+Stanford Graduate School of Business
+
+Nikolaos Trichakis
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Date Written: February 27, 2017
+
+Abstract
+
+Problem definition. Loyalty programs (LP) introduce a new currency---the points---through which customers transact with firms. Such points represent a promise for future service, and their monetary value thus counts as a liability on the issuing firms' balance sheets. Consequently, adjusting the value of points has a first order effect on profitability and performance, and emerges as a core operating decision. We study the problem of optimally setting the points' value in view of their associated liabilities.
+
+Academic / Practical Relevance: Firms across numerous industries increasingly utilize LPs. The sheer magnitude of LPs coupled with recent changes in accounting rules have turned the associated liabilities into significant balance sheet items, amounting to billions of dollars. Managers (from CFOs to CMOs) struggle with the problem of adjusting the points' value in view of these liabilities. Academic work is primarily aimed at understanding LPs as marketing tools, without studying the liability angle.
+
+Methodology. We develop a multi-period model and use dynamic programming techniques and comparative statics analysis.
+
+Results: We show that the optimal policies depend on a new financial metric, given by the sum of the firm's realized cash flows and outstanding deferred revenue, which we refer to as the {\it profit potential}. The total value of loyalty points is set to hit a particular target, which increases with the profit potential. We find that loyalty programs can act as buffers against uncertainty, with the value of points increasing (decreasing) under strong (weak) operating performance, and increasing with uncertainty.
+
+Managerial Implications: Setting the point values and adjusting operating decisions in view of LP liabilities should be done by tracking the firm's profit potential. Loyalty programs can act as hedging tools against uncertainty in future operating performance, which provides a new rationale for their existence, even in the absence of competition.
+
+Keywords: Dynamic programming, Operations-Accounting-finance Interface, Loyalty (reward) program, Profit, Liability
+
+Suggested Citation:
+
+Chun, So Yeon and Iancu, Dan and Trichakis, Nikolaos, Loyalty Program Liabilities and Point Values (February 27, 2017). Stanford University Graduate School of Business Research Paper No. 17-20, Available at SSRN: https://ssrn.com/abstract=2924480 or http://dx.doi.org/10.2139/ssrn.2924480
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+P Afeche , M Araghi , O Baron
+Introduction to special issue on marketing and operations management interfaces and coordination Posted: 2015
+S Aflaki , I Popescu
+Managing retention in service relationships
+Mngm. Science , volume 60 , p. 415 - 433 Posted: 2014
+Crossref
+Open letter to Treasury Secretary Jacob Lew
+AHLA Posted: 2014
+Alaska Airlines
+Alaska Airlines 10K form for Posted: 2008
+Load more
+7 Citations
+Andre P. Calmon , Florin D. Ciocan , Gonzalo Romero
+Revenue Management with Repeated Customer Interactions
+Management Science Posted: 2020
+Crossref
+So Yeon Chun , Anton Ovchinnikov
+Strategic Consumers, Revenue Management, and the Design of Loyalty Programs
+Georgetown McDonough School of Business Research Paper No. 2606791 · 46 Pages · Posted: 18 May 2015 · Last revised: 24 Jun 2018 · Downloads: 979
+Download PDF  Add Paper to My Library
+Jiao Wang , Lima Zhao , Arnd Huchzermeier
+Operations‐Finance Interface in Risk Management: Research Evolution and Opportunities
+Production and Operations Management , volume 30 , issue 2 , p. 355 Posted: 2021
+Crossref
+Yao Cui , A. Yeşim Orhun , Izak Duenyas
+How Price Dispersion Changes When Upgrades Are Introduced: Theory and Empirical Evidence from the Airline Industry
+Management Science , volume 65 , issue 8 , p. 3835 Posted: 2019
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+491
+ABSTRACT VIEWS
+3,169
+RANK
+132,557
+7 Citations
+43 References
+PlumX Metrics
+Related eJournals
+
+Stanford Graduate School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Earnings Management and Thresholds: Are Manipulated Amounts Significant?
+
+CAAA Annual Conference 2009 Paper
+
+24 Pages Posted: 27 Jan 2009
+
+Olivier B. Vidal
+
+Ecole Normale Superieure de Cachan (ENS)
+
+Date Written: January 8, 2009
+
+Abstract
+
+Threshold studies in accounting use non-parametric methods to measure irregularities around the zero earning threshold. More precisely, the discontinuity is measured by the difference between an observed population and a theoretical population locally estimated by interpolation of adjacent intervals. The sole hypothesis is that the distribution is supposed to be smooth in the absence of earnings management. The originality of this study lies in its identification of a mathematical function for the distributions of earnings in order to measure the theoretical population in a parametric way. Such an approach allows us to better measure discontinuities around thresholds, to better compare thresholds in space and over time, and to evaluate the amounts manipulated. The principal empirical result of this study is to question the postulate of marginal manipulation in earnings management to avoid thresholds.
+
+Note: Downloadable document is in French.
+
+Keywords: Earnings management, accounting threshold, earnings distribution function, Gestion du resultat, seuil comptable, loi de distribution des resultats publics, mesure parametrique des irregularites de distribution, manipulation marginale du resultat
+
+JEL Classification: M40
+
+Suggested Citation:
+
+Vidal, Olivier B., Earnings Management and Thresholds: Are Manipulated Amounts Significant? (January 8, 2009). CAAA Annual Conference 2009 Paper, Available at SSRN: https://ssrn.com/abstract=1324580 or http://dx.doi.org/10.2139/ssrn.1324580
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+S Basu
+The conservatism principle and the asymmetric timeliness of earnings
+Journal of Accounting & Economics , volume 24 , issue 1 Posted: 1997
+Crossref
+William H. Beaver , Maureen F. McNichols , Karen K. Nelson
+An Alternative Interpretation of the Discontinuity in Earnings Distributions
+Pages: 55 Posted: 20 Jan 2004
+Download PDF  Add Paper to My Library
+B Bisson , P Dumontier , R Et Janin
+Les entreprises non cotées manipulent-elles leurs résultats ? Posted: 2004
+L D Brown
+A Temporal Analysis of Earnings Surprises: Profit versus Losses
+Journal of Accounting Research , volume 39 , p. 221 - 241 Posted: 2001
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+627
+ABSTRACT VIEWS
+3,486
+RANK
+97,489
+26 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Recommended Papers
+
+Detecting Earnings Management: A New Approach
+
+By Patricia Dechow, Amy P. Hutton, ...
+
+A Review of the Earnings Management Literature and its Implications for Standard Setting
+
+By Paul M. Healy and James Michael Wahlen
+
+Errors in Estimating Accruals: Implications for Empirical Research
+
+By Daniel W. Collins and Paul Hribar
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

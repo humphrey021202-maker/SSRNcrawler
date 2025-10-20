@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Disentangling Stock Return Synchronicity through the Auditor's Perspective
+
+Journal of Business Finance & Accounting, Forthcoming
+
+61 Pages Posted: 11 Oct 2023
+
+Joseph Micale
+
+New Jersey Institute of Technology - Martin Tuchman School of Management
+
+Iftekhar Hasan
+
+Fordham University ; Bank of Finland; University of Sydney
+
+Qiang Wu
+
+Hong Kong Polytechnic University - School of Accounting and Finance; Hong Kong Polytechnic University - Faculty of Business
+
+Date Written: September 1, 2023
+
+Abstract
+
+This paper investigates a firm’s stock return asynchronicity through the auditor’s perspective to distinguish whether this asynchronicity can proxy for the company’s firm-specific information or the quality of its information environment. We find a significant and positive association between asynchronicity and audit fees after controlling for auditor quality and other factors found to affect audit fees. Disentangling between the literature’s competing firm-specific information and information environment hypotheses, our results are consistent with the idea that stock return asynchronicity is more likely to capture a company’s firm-specific information than its information environment. We also find that asynchronous firms are more likely to receive adverse opinions on their internal controls over financial reporting, but are associated with lower costs of capital and auditor litigation, providing further evidence in support of the firm-specific information argument. Asynchronicity’s positive association with audit fees is driven by firms with higher accounting reporting complexity, suggesting stock return asynchronicity captures a firm’s complexity which results in greater efforts by the auditor.
+
+Keywords: synchronicity, stock returns, idiosyncratic volatility, stock price informativeness, auditor, audit fees, ICFR, firm-specific information, cost of debt, cost of equity
+
+JEL Classification: G10, G14, M41, M42
+
+Suggested Citation:
+
+Micale, Joseph and Hasan, Iftekhar and Wu, Qiang, Disentangling Stock Return Synchronicity through the Auditor's Perspective (September 1, 2023). Journal of Business Finance & Accounting, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4568322
+Download This Paper
+ 
+Open PDF in Browser
+107 References
+T Aabo , C Pantzalis , J C Park
+Idiosyncratic volatility: An indicator of noise trading
+Journal of Banking & Finance , volume 75 , p. 136 - 151 Posted: 2017
+A Abadie , S Athey , G W Imbens , J Wooldridge
+When Should You Adjust Standard Errors for Clustering? Posted: 2017
+L J Abbott , S Parker , G F Peters
+Earnings Management, Litigation Risk, and Asymmetric Audit Fee Responses
+AUDITING: A Journal of Practice & Theory , volume 25 , issue 1 , p. 85 - 98 Posted: 2006
+P Alves , K Peasnell , P Taylor
+The Use of the R2 as a Measure of Firm-Specific Information: A Cross-Country Critique
+Journal of Business Finance & Accounting , volume 37 , issue 1 , p. 1 - 26 Posted: 2010
+Load more
+1 Citations
+Liu Yang , Pujian Yang
+Investor Selling Behaviour, Information and Stock Price Synchronicity: Evidence from China
+INTFIN-D-24-00378 · 36 Pages · Posted: 26 Jun 2024 · Downloads: 2
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+131
+ABSTRACT VIEWS
+688
+RANK
+502,214
+1 Citations
+107 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

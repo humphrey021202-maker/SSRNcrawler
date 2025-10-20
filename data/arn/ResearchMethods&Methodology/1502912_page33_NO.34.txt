@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Share Price Formation, Financial Instability and Accounting Design
+
+American Accounting Association Annual Meeting, S. Francisco, August 2010
+
+34 Pages Posted: 10 Nov 2009 Last revised: 5 Jun 2013
+
+Yuri Biondi
+
+Université Paris-Dauphine, PSL Research University - National Center for Scientific Research
+
+Pierpaolo Giannoccolo
+
+University of Bologna
+
+Date Written: June 5, 2013
+
+Abstract
+
+This paper develops a model of share price formation driven by accounting and market structures. Heterogeneous investors are assumed to discover and process fundamental information disclosed by the accounting system. The information set available to share market investors is then jointly composed by market-driven and firm-specific (non-market) information. From one side, the accounting system provides collective signals of fundamental information. From another side, the price system provides collective signals of market-driven information. Both structures are significant for the formation of aggregate share market prices over time. We simulate share price formation under alternative accounting designs (namely, historical cost and fair value accounting), and derive implications and recommendations for the concept and occurrence of speculative bubbles, the cyclical effects of accounting design on share market evolution, and share market allocative efficiencies.
+
+Keywords: accounting information, asset pricing model, fundamentalism, chartism, large fluctuations, market microstructure, historical cost accounting, fair value accounting
+
+JEL Classification: C63, D4, M41, M48, G1
+
+Suggested Citation:
+
+Biondi, Yuri and Giannoccolo, Pierpaolo, Share Price Formation, Financial Instability and Accounting Design (June 5, 2013). American Accounting Association Annual Meeting, S. Francisco, August 2010, Available at SSRN: https://ssrn.com/abstract=1502912
+Download This Paper
+ 
+Open PDF in Browser
+74 References
+Jeffery S. Abarbanell , Brian J. Bushee
+Abnormal Returns to a Fundamental Analysis Strategy
+Pages: 40 Posted: 2 Dec 1996
+Download PDF  Add Paper to My Library
+Robert N Anthony
+Rethinking the rules of …nancial accounting. Examining the rules for proper reporting Posted: 2004
+M Anufriev , V Panchenko
+Asset prices, traders' behavior and market design
+Journal of Economic Dynamics and Control , volume 33 , p. 1073 - 1090 Posted: 2009
+Crossref
+M Aoki , H Yoshikawa
+Reconstructing Macroeconomics Posted: 2006
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+291
+ABSTRACT VIEWS
+2,399
+RANK
+239,255
+74 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+An Economic Analysis of Fair Value: Accounting as a Vector of Crisis
+
+By Vincent Bignon, Yuri Biondi, ...
+
+Mathematical Institutional Economics
+
+By Martin Shubik
+
+Accounting and the Formation of Share Market Prices Over Time: A Mathematical Institutional Economic Analysis Through Simulation and Experiment
+
+By Yuri Biondi
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

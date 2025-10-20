@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Discounting When Income is Stochastic and Discounted Utility Anomalies
+
+24 Pages Posted: 22 Mar 2010 Last revised: 6 Apr 2010
+
+Svetlana Boyarchenko
+
+University of Texas at Austin - Department of Economics
+
+Sergei Levendorskii
+
+Calico Science Consulting
+
+Date Written: March 15, 2010
+
+Abstract
+
+Several discounted utility anomalies are explained as rational choices of an agent with standard preferences and stochastic income. We define the term structure of absolute risk aversion and demonstrate that the gain-loss asymmetry is observed for small gains and losses and a general utility function if the term structure is non-decreasing. Agents, whose current income is less than the long-run average by a certain margin, exhibit hyperbolic discounting. The discount rate of agents, whose current income is above the central tendency, is increasing. Agents who are neither rich nor poor have hump-shaped discount rate curves.
+
+Keywords: time preference, discounted utility anomalies
+
+JEL Classification: D81, D91
+
+Suggested Citation:
+
+Boyarchenko, Svetlana I. and Levendorskii, Sergei Z., Discounting When Income is Stochastic and Discounted Utility Anomalies (March 15, 2010). Available at SSRN: https://ssrn.com/abstract=1571753 or http://dx.doi.org/10.2139/ssrn.1571753
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+B Bernheim , Antonio Douglas , Rangel
+Beyond Revealed Preference: ChoiceTheoretic Foundations for Behavioral Welfare Economics
+Quarterly Journal of Economics , volume 124 , issue 1 , p. 51 - 104 Posted: 2008
+Crossref
+Andrei N Borodin , Paavo Salminen
+Handbook of Brownian Motion -Facts and Formulae Posted: 2002
+John C Cox , Jonathan E Ingersoll , Stephen A Ross
+A Theory of Term Structure of Interest Rates
+Econometrica , volume 53 , issue 2 , p. 385 - 407 Posted: 1985
+Crossref
+Partha Dasgupta , Eric Maskin
+Uncertainty and Hyperbolic Discounting
+American Economic Review , volume 95 , issue 4 , p. 1290 - 1299 Posted: 2005
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+133
+ABSTRACT VIEWS
+1,698
+RANK
+495,993
+24 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Recommended Papers
+
+Choice Over Time
+
+By Paola Manzini and Marco Mariotti
+
+A Vague Theory of Choice Over Time
+
+By Paola Manzini and Marco Mariotti
+
+Rationalizing Boundedly Rational Choice: Sequential Rationalizability and Rational Shortlist Methods
+
+By Paola Manzini and Marco Mariotti
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

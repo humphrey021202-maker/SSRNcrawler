@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Reputation-Building Actions After Corporate Social Irresponsibility
+
+72 Pages Posted: 28 Dec 2022 Last revised: 10 Sep 2025
+
+Wei Cai
+
+Columbia Business School
+
+Aneesh Raghunandan
+
+Yale School of Management
+
+Shivaram Rajgopal
+
+Columbia University - Columbia Business School, Accounting, Business Law & Taxation
+
+Wenxin Wang
+
+Harvard University - Business School (HBS)
+
+Date Written: July 25, 2025
+
+Abstract
+
+We examine the nature and consequences of corporate reputation-building actions following major violations of environmental and social (labor and consumer safety) laws. We construct a novel dataset of potential reputation-building actions taken by firms, based on hand-classification of 21,932 press releases surrounding 411 serious violations (e.g., an oil spill or a major labor lawsuit verdict). We find that while firms do take more reputation-building actions after such violations, these actions typically do not benefit the stakeholders affected by the underlying violation. Instead, firms appear to target customers with reputation-building actions irrespective of the type of violation, and target employees and shareholders after environmental (but not social) violations. Regarding consequences, increased environmental or social actions correlate with lower future rates of recidivism when topically aligned with the underlying incident (e.g., environmental actions after a major environmental violation). Finally, the stock market responds positively to reputation-building actions targeted at shareholders and customers, but not to those aimed at other stakeholder groups, suggesting investor motivations are, on average, primarily financial rather than broadly prosocial. These findings highlight a divergence between remedial needs and actual corporate responses, emphasizing reputational management towards financially relevant stakeholders.
+
+Keywords: reputation repair, corporate social responsibility, ESG, labor violation, environmental violation
+
+JEL Classification: M14, G23, G34, M41
+
+Suggested Citation:
+
+Cai, Wei and Raghunandan, Aneesh and Rajgopal, Shivaram and Wang, Wenxin, Reputation-Building Actions After Corporate Social Irresponsibility (July 25, 2025). Available at SSRN: https://ssrn.com/abstract=4305248 or http://dx.doi.org/10.2139/ssrn.4305248
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+P Akey , S Lewellen , I Liskovich , C Schiller
+Hacking corporate reputations Posted: 2024
+J Armour , C Mayer , A Polo
+Regulatory sanctions and reputational damage in financial markets
+Journal of Financial and Quantitative Analysis , volume 52 , issue 4 , p. 1429 - 1448 Posted: 2017
+M Bailey , S Glaeser , J D Omartian , A Raghunandan
+Misreporting of mandatory ESG disclosures: Evidence from gender pay gap information Posted: 2022
+A C Baker , D F Larcker , C C Wang
+How much should we trust staggered difference-in-differences estimates?
+Journal of Financial Economics , volume 144 , issue 2 , p. 370 - 395 Posted: 2022
+Load more
+2 Citations
+Marco Tavanti
+Sustainability in Business Management, Volume 2
+, p. 351 Posted: 2025
+Crossref
+Wei Cai , Yue Chen , Shiva Rajgopal , Li Azinovic-Yang
+Diversity targets
+Review of Accounting Studies , volume 29 , issue 3 , p. 2157 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+691
+ABSTRACT VIEWS
+3,773
+RANK
+86,048
+2 Citations
+46 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

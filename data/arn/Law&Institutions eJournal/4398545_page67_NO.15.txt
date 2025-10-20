@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Influence of Socially Responsible Practices on Corporate Hedging
+
+The British Accounting Review, forthcoming [10.1016/j.bar.2024.101502]
+
+73 Pages Posted: 5 Apr 2023 Last revised: 15 Oct 2024
+
+Busra Agcayazi
+
+Howard University School of Business; New York University Stern School of Business ; West Virginia University
+
+Gunratan Lonare
+
+Illinois State University
+
+Ahmet M. Tuncez
+
+University of Michigan at Dearborn - College of Business
+
+Date Written: October 03, 2024
+
+Abstract
+
+This study examines the nexus between firm hedging strategies and corporate social responsibility (CSR). Utilizing textual analysis of 10-K filings to measure corporate hedging, we find that firms with higher levels of CSR are more inclined to engage in hedging practices and with greater intensity. This tendency is further amplified in the presence of strong corporate governance frameworks. We posit that this behavior is primarily driven by the mitigation of cash flow volatility, the cost of equity, and the cost of debt. Our analysis includes various endogeneity tests, such as entropy balancing and an instrumental variables approach that considers political and geographic factors. The robustness of the results is further validated using alternative CSR and hedging metrics. This study contributes to the growing body of literature on the strategic financial implications of CSR, highlighting its complementary role in corporate risk management.
+
+
+
+
+
+
+Keywords: Corporate Hedging, Foreign Exchange Risk, Interest Rate Risk, Risk Management, Corporate Social Responsibility, CSR, Sustainability
+
+JEL Classification: G32, G34, M14
+
+Suggested Citation:
+
+Agcayazi, Busra and Lonare, Gunratan and Tuncez, Ahmet M., The Influence of Socially Responsible Practices on Corporate Hedging (October 03, 2024). The British Accounting Review, forthcoming [10.1016/j.bar.2024.101502], Available at SSRN: https://ssrn.com/abstract=4398545 or http://dx.doi.org/10.1016/j.bar.2024.101502
+Download This Paper
+ 
+Open PDF in Browser
+112 References
+F Alduais , N A Almasria , R Airout
+The moderating effect of corporate governance on corporate social responsibility and information asymmetry: An empirical study of Chinese listed companies
+Economies , volume 10 Posted: 2022
+H Almeida , K W Hankins , R Williams
+Risk management with supply contracts
+Review of Financial Studies , volume 30 , issue 12 , p. 4179 - 4215 Posted: 2017
+D Amiram , W H Beaver , W R Landsman , J Zhao
+The effects of credit default swap trading on information asymmetry in syndicated loans
+Journal of Financial Economics , volume 126 , issue 2 , p. 364 - 382 Posted: 2017
+P C Austin
+An introduction to propensity score methods for reducing the effects of confounding in observational studies
+Multivariate Behavioral Research , volume 46 , issue 3 , p. 399 - 424 Posted: 2011
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+210
+ABSTRACT VIEWS
+1,178
+RANK
+331,544
+112 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

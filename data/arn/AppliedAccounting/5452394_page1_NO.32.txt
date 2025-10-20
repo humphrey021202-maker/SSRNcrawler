@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Sales Volume: Operational Costs and Promotion Costs – Panel Data Regression Model Analysis Approach
+
+15 Pages Posted: 24 Sep 2025
+
+Deri Firmansyah
+
+STIE Pasim Sukabumi
+
+Dwinanto Priyo Susetyo
+
+STIE Pasim Sukabumi
+
+Asep Suryana
+
+PGRI Sukabumi School of Economics
+
+Dadang Saepuloh
+
+University of Islam Syekh Yusuf
+
+Date Written: September 07, 2025
+
+Abstract
+
+In today's competitive global marketplace, businesses of all sizes need to improve their operational and marketing performance to survive and thrive. This study aims to explore the predictive relationship between operational costs, promotional costs, and sales volume. The secondary data analyzed were obtained from the financial statements of four SMEs in the Indonesian context. The regression model used was panel data estimated using Eviews v.12. The panel data regression model analysis, with the REM approach as the selected model, was conducted through a series of tests, namely the Chow test, the Hausman test, and the LM test. The study findings indicate that operational costs have a significant positive effect on sales volume. Promotion costs also have a significant positive effect on sales volume. Variations in the relationship between operational costs and promotional costs have a joint influence that can explain variance of sales volume, with strong predictive power. The findings of this study can fill an existing gap, relevant panel data regression models are applied to quantitative data for sales forecasting to reveal evidence that operational costs and promotional costs are important predictors of sales volume among SMEs.
+
+Keywords: Sales Volume, Operational Costs, Promotion Costs, Sales Forecasting, Panel Data Regression
+
+Declaration of Interest
+
+The authors declare no conflicts of interest.
+
+Funder Statement
+
+This research received no external funding.
+
+JEL Classification: M21, L26, M31, M41
+
+Suggested Citation:
+
+Firmansyah, Deri and Susetyo, Dwinanto Priyo and Susetyo, Dwinanto Priyo and Suryana, Asep and Saepuloh, Dadang,
+
+Sales Volume: Operational Costs and Promotion Costs – Panel Data Regression Model Analysis Approach
+
+(September 07, 2025). Available at SSRN: https://ssrn.com/abstract=5452394 or http://dx.doi.org/10.2139/ssrn.5452394
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+27
+ABSTRACT VIEWS
+141
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Strategy & Microeconomic Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

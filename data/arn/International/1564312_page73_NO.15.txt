@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Stock Market Reaction to Elimination of the Reconciliation from IFRS to U.S. GAAP in the USA
+
+62 Pages Posted: 5 Mar 2010
+
+Henk van Oost
+
+affiliation not provided to SSRN
+
+Date Written: March 3, 2010
+
+Abstract
+
+This paper examines the stock market reaction to key events associated with respect to the elimination of the reconciliation requirement (20-F) from International Financial Reporting Standards (IFRS) to United States Generally Accepted Accounting Principles (U.S. GAAP). On November 15, 2007 the United States Securities and Exchange Commission (SEC) decided to eliminate the reconciliation requirement (SEC, 2007g). The SEC organized Roundtables and reviewed IFRS filings to investigate the possible impact of the elimination in the spring 2007. This paper investigates investors’ perception regarding the costs and the benefits of the elimination. Does the elimination of the reconciliation result in a net benefit or net cost for the investors?
+
+This question is relevant because the elimination is an important step in the convergence process. There are a lot of proponents (eg. SEC Chairman) and opponents to the convergence process in the U.S.. Therefore it is important to know how investors (shareholders own the company) perceive this step. If the investors respond positive to the elimination they expect a net benefit. This could have a positive effect on the decision making process of the SEC to permit domestic U.S. firms to report under IFRS. Alternatively, a negative response could have a negative effect on that process. This study is also important for the academic literature, a lot of research is done to the value relevance of the reconciliation and the differences between U.S. GAAP and IFRS but the results are not univocal.
+
+To gain insight into investors’ expectations regarding the costs and the benefits of the elimination, I examine three-day market-adjusted returns of foreign listed firms which report IFRS surrounding sixteen events that I have assessed as having a noticeable effect on the likelihood of the elimination. The benefits of the elimination (based on the SEC March Roundtables 2007) are the following: it removes an unnecessary a costs item (eg. AXA 25 million dollar) and a barrier for foreign listings in the U.S., the reconciliation delays information release to investors (this will be eliminated), without the elimination U.S. investors could miss an important investment opportunity, some investors prefer IFRS above U.S. GAAP and finally the elimination will not result in a decrease of investors protection.
+
+Alternatively, the costs of the elimination are: IFRS and U.S. GAAP are still different and not comparable (Barth et al., 2006), the reconciliation is still value-relevant (Henry, Li and Yang, 2007), the compliance with IFRS is not uniform (Street and Gray, 2002), there is little experience with and knowledge about IFRS by investors and auditors and finally if the elimination comes too early it could stop the convergence process (Street and Linthicum, 2007). The academic literature underlines the costs of the elimination but I assume that the March Roundtables reflect better the net result of the elimination. In accordance with that assumption and the main hypothesis I find a positive (insignificant) market reaction for all the events aggregated. After controlling for the credit crisis, by eliminating the last four events, I find a significant positive market reaction. Overall my findings are consistent with the investors’ perception regarding the elimination of the reconciliation requirement.
+
+The SEC only allowed the International Accounting Standards Board (IASB) version of IFRS for foreign listening without reconciliation (SEC, 2007h). However in Europe the European Union (EU) uses an endorsement system for the application of IFRS. This endorsement system creates a gap between the official IASB IFRS version and the IFRS version which is permitted in the EU (IAS 39). This creates a problem for the banks in Europe which have a U.S. listing and uses IAS 39. Therefore the SEC made an exception by allowing the banking industry to report the EU IFRS version for the next two years. This creates the uncertainty that banks in the future probably have to report two sets of IFRS. Therefore I expect a less positive market reaction for the banking industry to elimination of the reconciliation. I find no evidence for this hypothesis which can be explained by the fact that other studies shows that the banking industry has a positive effect (insignificant) on the Abnormal Returns (eg. Armstrong et al., 2007).
+
+The most criticism on the allowance of IFRS for foreign listings in the US without reconciliation focuses on the possibility that IFRS is not a uniform set of standards. IFRS seems one set of high quality standards but that could be misleading. Ball, Robin and Wu (2003) show that IFRS not guarantees a high quality financial reporting. They find evidence that the legal origin of a country (political and economic factors) determines the quality of the financial reporting. Firms from code-law countries prepare financial statements of a lower quality than firms from common-law countries. In the context of this paper, the reconciliation could be more informative for firms from code-law countries than for firms from common-law countries. Thus, if the reconciliation will be eliminated more information could be lost for firms from code-law countries. Therefore I expect a less positive market reaction for firms from code-law countries than for firms from common-law countries. Alternatively, the bonding theory states that firms from code-law countries benefit mostly from the strong legal system in the U.S. (Doidge, 2004) (Doidge, Karolyi and Stulz, 2004). If the financial reporting quality between code-law and common-law firms is equal, the code-law firms will benefit more from a U.S. listing. If the bonding theory overrules the “possible IFRS quality difference” I expect a more positive market reaction for firms from code-law countries. Consistent with the last hypothesis I found a significant positive difference between the market reaction of code-law firms and common-law firms.
+
+This research contributes to the academic literature in finding a positive market reaction to the elimination of the reconciliation. A few studies find evidence for the value relevance of the reconciliation (eg. Harris and Muller, 1999; Henry, Li and Yang, 2007). This paper shows that it was beneficial to eliminate the reconciliation despite the reconciliation was (probably) value relevant. This paper also shows the importance of the U.S. strict enforcement system for firms from code-law countries (bonding theory).
+
+JEL Classification: M44, G38
+
+Suggested Citation:
+
+Oost, Henk van, Stock Market Reaction to Elimination of the Reconciliation from IFRS to U.S. GAAP in the USA (March 3, 2010). Available at SSRN: https://ssrn.com/abstract=1564312 or http://dx.doi.org/10.2139/ssrn.1564312
+Download This Paper
+ 
+Open PDF in Browser
+82 References
+* , ** , *
+Hypothesis 3a expects a negative difference during the "positive" events (all events except 8-3-2007) because the annual report in compliance with IFRS of code-law firm could be of a lower quality than the annual report in compliance with IFRS of a common-law firm
+of the common-law or code-law. I only predict the difference between the two categories. Therefore I also call a very negative CAR significant if the t-value is high enough (example 17-12-2007: -1,79% *** ). Degrees of freedom common-law firms: during first event 52 and increases to 60 (Panel A) Degrees of freedom code-law firms: first event 61 and increases to 65
+Panel C: degrees of freedom code-law/common-law firms
+Panel C shows results to control for the credit crisis which started during the end of , volume 65 Posted: 2007-03
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+471
+ABSTRACT VIEWS
+2,424
+RANK
+139,412
+82 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+International Accounting Standards and Accounting Quality
+
+By Mary E. Barth, Wayne R. Landsman, ...
+
+Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences
+
+By Holger Daske, Luzi Hail, ...
+
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors
+
+By Ray Ball
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

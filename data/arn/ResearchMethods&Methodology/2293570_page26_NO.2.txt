@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Efficient Estimation of Integrated Volatility and Related Processes
+
+38 Pages Posted: 14 Jul 2013 Last revised: 21 Jan 2015
+
+Eric Renault
+
+University of North Carolina (UNC) at Chapel Hill - Department of Economics
+
+Cisil Sarisoy
+
+Board of Governors of the Federal Reserve System
+
+Bas J. M. Werker
+
+Tilburg University - Center for Economic Research (CentER)
+
+Date Written: January 16, 2015
+
+Abstract
+
+We derive nonparametric bounds for inference about functionals of high-frequency volatility, in particular, integrated power variance. In the absence of microstructure noise, we find that standard Realized Variance attains the nonparametric efficiency bound, also in case of unequally spaced random observation times. For higher powers, e.g., integrated quarticity, the block-based procedures of Mykland and Zhang (2009) can get arbitrarily close to the nonparametric bounds in case of equally spaced observations. The estimator in Jacod and Rosenbaum (2013) is efficient, also at non-constant volatility, still for equally spaced data. For unequally spaced data, we provide an estimator, similar to that of Kristensen (2010), that can get arbitrarily close to the nonparametric bound. Finally, contrary to public opinion, we demonstrate that parametric information about the functional form of volatility generally leads to a decreased lower bound, unless the volatility process is piecewise constant.
+
+Keywords: High-frequency data, Integrated power variance, Local Asymptotic Normality, Nonparametric efficiency bounds, Realized volatility, Volatility estimation
+
+Suggested Citation:
+
+Renault, Eric and Sarisoy, Cisil and Werker, Bas J.M., Efficient Estimation of Integrated Volatility and Related Processes (January 16, 2015). Available at SSRN: https://ssrn.com/abstract=2293570 or http://dx.doi.org/10.2139/ssrn.2293570
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+T G Andersen , T Bollerslev
+Answering the Skeptics: Yes, Standard Volatility Models do Provide Accurate Forecasts
+International Economic Review , volume 39 , p. 885 - 905 Posted: 1998
+Crossref
+T G Andersen , T Bollerslev , S Lange
+Forecasting financial market volatility: Sample frequency vis-a-vis forecast horizon
+Journal of Empirical Finance , volume 6 , p. 457 - 477 Posted: 1999
+Crossref
+T G Andersen , T Bollerslev , F X Diebold , P Labys
+The Distribution of Realized Exchange Rate Volatility
+Journal of the American Statistical Association , volume 96 , p. 42 - 55 Posted: 2001
+Crossref
+T G Andersen , T Bollerslev , F X Diebold , P Labys
+Modeling and Forecasting Realized Volatility
+Econometrica , volume 71 , p. 579 - 625 Posted: 2003
+Crossref
+Load more
+3 Citations
+Per A. Mykland , Lan Zhang
+Assessment of Uncertainty in High Frequency Data: The Observed Asymptotic Variance
+Econometrica, Forthcoming · 56 Pages · Posted: 4 Aug 2014 · Last revised: 19 Sep 2016 · Downloads: 236
+Download PDF  Add Paper to My Library
+Jia Li , Viktor Todorov , George Tauchen
+ESTIMATING THE VOLATILITY OCCUPATION TIME VIA REGULARIZED LAPLACE INVERSION
+Econometric Theory , volume 32 , issue 5 , p. 1253 Posted: 2016
+Crossref
+Yacine Ait-Sahalia , Dacheng Xiu
+A Hausman Test for the Presence of Market Microstructure Noise in High Frequency Data
+Chicago Booth Research Paper No. 16-06 · 55 Pages · Posted: 7 Mar 2016 · Last revised: 21 Feb 2017 · Downloads: 654
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+321
+ABSTRACT VIEWS
+1,944
+RANK
+215,250
+3 Citations
+35 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

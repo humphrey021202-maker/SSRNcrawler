@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Importance of Blockchain Forensics Investigations in the Digital Ecosystem (with a focus on Cryptocurrency)
+
+21 Pages Posted: 19 Jun 2025
+
+Harminder Gill
+
+affiliation not provided to SSRN
+
+Date Written: November 22, 2024
+
+Abstract
+
+Blockchain forensics is the process of investigating and analysing transactions on a blockchain to track the flow of funds and detect illegal activities. Blockchain forensics is also referred to as blockchain analytics or blockchain intelligence. Blockchain forensics is a subset of the wider and actively evolving field of digital forensics. It is complex but increasingly important, as blockchain technology gains more adoption, not just in digital assets 1 and cryptocurrencies, but also in other fields where the blockchain use case is gaining momentum. This paper discusses the expanding use cases of blockchain technology. Then it focuses on the growing importance of blockchain forensic investigations as a growing field of specialty and as a function within any organisation that has touch points with digital assets and cryptocurrencies, seen from the following perspectives: (1) Compliance with regulations on anti-money laundering (AML) and combating the financing of terrorism (CFT) and avoiding sanctions violations ('Crime Prevention'). This is relevant to financial institutions and virtual asset service providers (VASPs) (collectively referred to as 'Financial Intermediaries') who are on-boarding customers with crypto assets. (2) Investigating crime and recovering assets ('Crime Investigation'). This is relevant to the tracing of cryptocurrencies stolen or used for illicit purposes, and ultimately tracing the criminal, or companies who are victims of hacking or ransomware attacks, having to make payments to in cryptocurrencies. As blockchain and cryptocurrencies continue to gain traction, the future of blockchain forensics will increasingly focus on developing expertise in tracking and analysing blockchain transactions to combat cryptocurrency-related crimes. We will see a steep rise in specialist tools that track and trace cryptocurrency transactions with many advanced functionalities to link blockchain transactions to illicit activities, as well as university courses and other certifications to educate and widen the pool of experts in this niche and exciting field.
+
+Keywords: Blockchain Technology, Blockchain Forensics, Blockchain Analytics, Crypto Assets, Digital Assets, Virtual Assets, Cryptocurrencies, Investigations
+
+Suggested Citation:
+
+Gill, Harminder, The Importance of Blockchain Forensics Investigations in the Digital Ecosystem (with a focus on Cryptocurrency) (November 22, 2024). Available at SSRN: https://ssrn.com/abstract=5237438 or http://dx.doi.org/10.2139/ssrn.5237438
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+177
+ABSTRACT VIEWS
+1,976
+RANK
+390,788
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Litigation & Procedure eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

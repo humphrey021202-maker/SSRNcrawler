@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Fitness Versus Fatness: Productivity, Financial Conditions, and the Survival of New Canadian Manufacturing Firms
+
+Posted: 10 Sep 2009
+
+Kim P. Huynh
+
+Government of Canada - Bank of Canada; Indiana University Bloomington - Department of Economics
+
+Robert J. Petrunia
+
+Lakehead University - Department of Economics
+
+Marcel C. Voia
+
+Carleton University
+
+Date Written: September 9, 2009
+
+Abstract
+
+The recent economic and financial crisis highlights the role of balance sheets on firm survival. This paper considers the role of initial financial leverage (debt-to-asset ratio) on the survival of entrant Canadian manufacturing firms. Due to limited data availability, little is known about how financing affects the performance of young, private firms. This study utilizes a unique administrative dataset, T2LEAP, which contains employment and balance sheet information for all incorporated Canadian firms. We find that there is a non-monotonic relationship between leverage and firm exit (hazard) rate. The hazard rate decreases as leverage increases up to the four quintile of the leverage distribution and then increases for firms in the top leverage quintile. These effects are present while controlling for: firm characteristics, such as size and labour productivity; industry conditions, such as the real exchange rate, the differential US-Canada tariff rates, entry penetration, and the capital-labour ratio; and aggregate conditions in terms of the yield gap.
+
+Keywords: firm survival, financial leverage, productivity, duration models
+
+JEL Classification: C41, C14, D21, L60
+
+Suggested Citation:
+
+Huynh, Kim P. and Petrunia, Robert J. and Voia, Marcel C., Fitness Versus Fatness: Productivity, Financial Conditions, and the Survival of New Canadian Manufacturing Firms (September 9, 2009). Available at SSRN: https://ssrn.com/abstract=1470869
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,479
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

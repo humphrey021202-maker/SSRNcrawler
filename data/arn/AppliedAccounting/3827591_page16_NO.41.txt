@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Accounting in the Era of Blockchain - A Paradigm Shift from Double Entry to Triple Entry System
+
+11 Pages Posted: 24 Apr 2021
+
+Emon Kalyan Chowdhury
+
+Chittagong Independent University
+
+Date Written: April 16, 2021
+
+Abstract
+
+This paper aims to conceptualize the impact of blockchain technology on the financial accounting from technical and non-technical perspectives. It further investigates the way blockchain can improve the quality of accounting data. By reviewing the published research papers. this study observes that blockchain technology can create a platform for the organizations to disclose their information voluntarily in the short-run while it decreases errors in financial disclosure, enhances the quality of accounting information and reduce information redundancy in the long-run. A harmonized movement of accountants, auditors, regulatory authority and other relevant parties can extract the optimum benefits of blockchain technology in accounting ecosystem. This study indicates necessary way outs to improve the quality of accounting information by applying blockchain technology. It further identifies potential threats in implementing blockchain technology and recommends appropriate remedies. It is expected that, the findings of this study will encourage top management and policy makers to introduce blockchain technology in their business for log-term sustainability as well as to increase the quality of data and acceptability of their financial reports.
+
+Keywords: Financial accounting, blockchain, information quality, distributed ledger technology, triple entry system
+
+JEL Classification: M41, M42, L86, C55
+
+Suggested Citation:
+
+Chowdhury, Emon Kalyan, Financial Accounting in the Era of Blockchain - A Paradigm Shift from Double Entry to Triple Entry System (April 16, 2021). Available at SSRN: https://ssrn.com/abstract=3827591 or http://dx.doi.org/10.2139/ssrn.3827591
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+S Ahluwalia , R V Mahto , M Guerrero
+Blockchain technology and startup financing: A transaction cost economics perspective
+Technological Forecasting and Social Change , volume 151 Posted: 2020
+Crossref
+S Basu , G Waymire
+Has the importance of intangibles really grown? And if so, why
+Accounting and business research , volume 38 , p. 171 - 190 Posted: 2008
+Crossref
+D Bonyuet
+Overview and impact of blockchain on auditing
+Int. J. Digit. Account. Res , p. 31 - 43 Posted: 2020
+Crossref
+V Buterin
+A next-generation smart contract and decentralized application platform. white paper, 3(37) Posted: 2014
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+881
+ABSTRACT VIEWS
+2,786
+RANK
+62,378
+10 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Information Systems eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

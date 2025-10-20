@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Consequences of Key Audit Matters in Emerging Economies: Evidence from Hong Kong and Mainland China
+
+86 Pages Posted: 15 Apr 2024
+
+Lin Liao
+
+Nanjing Audit University
+
+Miguel Minutti-Meza
+
+University of Miami - Department of Accounting
+
+Valbona Sulcaj
+
+University of Texas at El Paso - Department of Accounting & Information Systems
+
+Yun Zhang
+
+George Washington University
+
+Youli Zou
+
+University of Connecticut
+
+Date Written: March 28, 2024
+
+Abstract
+
+We examine the adoption of the IAASB’s expanded audit report standards, specifically key audit matters (KAMs), in Hong Kong and Mainland China in 2016 and 2017, respectively. These jurisdictions together represent the largest emerging economy mandating expanded reports in a staggered manner. Our analyses do not find compelling evidence that KAMs offer incremental information to investors or enhance audit quality when employing a robust difference-in-differences design that overcomes limitations in related studies. Furthermore, cross-sectional tests examining variations in companies’ information environment and KAMs content do not lend support to incremental effects from these characteristics. Our findings align with theoretical predictions that stricter standards and disclosure of audit matters are unlikely to increase investor reliance on audit reports, or improve audit quality, in emerging economies with relatively weak investor protection and opaque information environment. We extend two streams of studies on international audit research and consequences of KAMs.
+
+Keywords: Auditor's report, Key audit matters, Market reaction, Audit quality, Emerging Markets
+
+JEL Classification: M41, M42, M49
+
+Suggested Citation:
+
+Liao, Lin and Minutti-Meza, Miguel and Sulcaj, Valbona and Zhang, Yun and Zou, Youli, Consequences of Key Audit Matters in Emerging Economies: Evidence from Hong Kong and Mainland China (March 28, 2024). Available at SSRN: https://ssrn.com/abstract=4776994 or http://dx.doi.org/10.2139/ssrn.4776994
+Download This Paper
+ 
+Open PDF in Browser
+56 References
+F Allen , J Qian , M Qian
+Law, finance, and economic growth in China
+Journal of Financial Economics , volume 77 , issue 1 , p. 57 - 116 Posted: 2005
+J Angrist , J Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2009
+C S Armstrong , K Balakrishnan , D Cohen
+Corporate governance and the information environment: Evidence from state antitakeover laws
+Journal of Accounting and Economics , volume 53 , issue 1-2 , p. 185 - 204 Posted: 2012
+A C Baker , D F Larcker , C C Wang
+How much should we trust staggered difference-indifferences estimates?
+Journal of Financial Economics , volume 144 , issue 2 , p. 370 - 395 Posted: 2022
+Load more
+2 Citations
+Jessica A. Nylen , Daniel D. Wangerin , Karla M. Zehms
+Do key audit matter disclosures about M&A transactions predict future performance?
+Review of Accounting Studies , volume 30 , issue 3 , p. 2264 Posted: 2025
+Crossref
+Jessica Filosa , Jing Huang , Lijun Lei , Sarah E. Stein
+Does Tax Enforcement Inform Auditors’ Risk Assessment? Evidence from Key Audit Matters
+Contemporary Accounting Research, volume 42, issue 2, 2025[<a href="https://doi.org/10.1111/1911-3846.13042" rel="nofollow">10.1111/1911-3846.13042</a>] · 60 Pages · Posted: 12 Jan 2023 · Last revised: 13 Aug 2025 · Downloads: 235
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+224
+ABSTRACT VIEWS
+1,155
+RANK
+311,586
+2 Citations
+56 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

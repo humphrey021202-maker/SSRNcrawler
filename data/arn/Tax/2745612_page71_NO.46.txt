@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Lesser of Two Evils: Double Tax Treaty Override or Treaty Abuse?
+
+British Tax Review, No 1, 2016, pages 62-88
+
+26 Pages Posted: 11 Mar 2016 Last revised: 18 Jun 2021
+
+Craig Elliffe
+
+University of Auckland - Faculty of Law
+
+Date Written: March 9, 2016
+
+Abstract
+
+On a co-ordinated basis the OECD and G20 are focusing on a far-reaching action plan to combat base erosion and profit shifting (BEPS). Their plans are designed to prevent treaty abuse, foil hybrid mismatches, prevent unusual and aggressive transfer pricing, and encourage much more timely and comprehensive information sharing. This group are also continuing to work on the broader tax challenges of the digital economy and are considering issues of nexus, data, and characterisation with a view to designing a fair and viable system in order to tax profits in the jurisdiction where economic activities occur and where value is created. There is great uncertainty about what income arises from the digital economy and also how it could be assessed and paid.
+
+How should a government respond when it believes that a multinational (such as Google) operating in its country uses the substantive provisions of a double tax agreement to pay virtually no tax in its jurisdiction?
+
+While the world awaits an integrated solution, a second level of governmental response to BEPS is emerging and involves purely domestic taxation legislation introduced on a unilateral basis. This is not co-ordinated and it is controversial because, arguably, it is designed in some circumstances to override existing treaty obligations.
+
+This article considers the relationship between treaties and domestic law before using a traditional international law categorisation to identify those countries that can legislate to override their treaties. International lawyers broadly classify legal systems around the world into a monist and dualist dichotomy. As will be explained countries with a dualist legal system, such as the UK and Australia, can deliberately override their international tax treaty obligations. The question is whether such dualist countries should be able to do so at all, or whether they should only be able to do so in certain circumstances.
+
+The 1989 OECD Report on treaty override categorised various situations of treaty override as acceptable and unacceptable behaviour for governments. In that Report the OECD discussed a case of treaty abuse involving the alienation of immovable property. The OECD concluded that even though the new overriding legislation was designed to put an end to an improper use of the tax treaty it was an impermissible contravention of a tax treaty obligation.
+
+This article argues that in such circumstances, now, a domestic law treaty override is both a justified and acceptable course of action. There are three key arguments offered in support of this proposition. The first is that the purposes of tax treaties have changed since the Report was written so that it is now clear that a main purpose of the treaty is to prevent tax avoidance and evasion. Secondly, domestic law already overrides treaties in situations of abuse. It has emerged since 1989 that domestic general anti-avoidance rules influence and affect double tax agreements in the vast majority of countries. Thirdly, as a matter of international law it can be argued that a taxpayer should not be able to take advantage of a treaty in an abusive way if their own state could not take such advantage. The state is required to apply the treaty in good faith and so should the taxpayer.
+
+Seen in this light recent developments involving new tax rules made by the UK and Australia, which of course are examples of dualist countries, appear reasonable rather than unreasonable even if they are examples of unilateral legislative treaty override (which the UK and Australia would likely contest). The approach taken in these jurisdictions, being grounded in preventing abusive structure and transactions, is consistent with one of the purposes of double tax treaties and therefore justified.
+
+Keywords: Treaty override, treaty abuse, tax avoidance, Google tax, digital economy, unilateral tax change, dualist legal system, monist legal system
+
+JEL Classification: K34
+
+Suggested Citation:
+
+Elliffe, Craig Macfarlane, The Lesser of Two Evils: Double Tax Treaty Override or Treaty Abuse? (March 9, 2016). British Tax Review, No 1, 2016, pages 62-88, Available at SSRN: https://ssrn.com/abstract=2745612
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+2013 Mongolia terminated their treaty with the Netherlands with the report from the Tax Justice Network suggesting that multinationals were using the treaty improperly: Tax Justice Network Posted: 2012-08-27
+Crossref
+J Bundgaard
+the Danish government announced the termination of its treaties with France and Spain primarily to safeguard the Danish taxation of pensioners Posted: 2008-10-21
+Convention with Respect to Taxes on Income and Certain Other Taxes Posted: 1948-04-29
+Crossref
+See F Crandall
+The Termination of the United States-Netherlands Antilles Tax Treaty: What Were the Costs of Ending Treaty shopping
+Northwestern Journal of International Law & Business , volume 9 , issue 2 Posted: 1988
+Load more
+1 Citations
+Vikram Chand , Alessandro Turina , Kinga Romanovska
+Tax Treaty Obstacles in Implementing the Pillar Two Global Minimum Tax Rules and a Possible Solution for Eliminating the various challenges
+57 Pages · Posted: 23 Nov 2021 · Downloads: 3,051
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,305
+ABSTRACT VIEWS
+3,953
+RANK
+35,701
+1 Citations
+19 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law: International & Comparative Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

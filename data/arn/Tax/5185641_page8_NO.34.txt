@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Brief Guide to the Mathematics and Taxation of Charitable Remainder Unitrusts
+
+30 Pages Posted: 15 Apr 2025
+
+Nathan Sosner
+
+AQR Capital Management, LLC
+
+Catherine Chen
+
+AQR Capital Management, LLC
+
+Roxana Steblea
+
+AQR Capital Management, LLC
+
+Date Written: March 18, 2025
+
+Abstract
+
+This paper provides a practical guide for financial planners and wealth management professionals on charitable remainder unitrusts (CRUTs). It systematizes the information that would be helpful for modeling and analyzing CRUTs. The first half of the paper covers the basic terms of a CRUT, such as the fixed percentage, annual valuation, payment timing and frequency, and the length of the payment period, as well as more advanced topics, such as net income, makeup, and flip provisions. These terms are then used to derive the formulas for unitrust payments and charitable residual interest. The second half of the paper addresses the taxation of CRUTs and their beneficiaries, with particular attention to the handling of low-basis assets and the potential for triggering deemed sale regulations. It also describes the punitive treatment of unrelated business taxable income (UBTI) and stresses the importance of avoiding investments that could generate it. A hypothetical case study is used to illustrate the application of CRUTs in financial and charitable planning.
+
+Keywords: Charitable Remainder Unitrust, CRUT, Unitrust Payments, Charitable Residual, Taxation of CRUT Beneficiaries, Unrelated Business Taxable Income, UBTI, Deemed Sale JEL Classification: D14, G11, G51, H24, K34
+
+Suggested Citation:
+
+Sosner, Nathan and Chen, Catherine and Steblea, Roxana, A Brief Guide to the Mathematics and Taxation of Charitable Remainder Unitrusts (March 18, 2025). Available at SSRN: https://ssrn.com/abstract=5185641 or http://dx.doi.org/10.2139/ssrn.5185641
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+P Bouchey
+The Direct Index Playbook for Wealth Managers
+The Journal of Beta Investment Strategies , volume 15 , issue 3 , p. 118 - 131 Posted: 2024
+B R Hauser
+The Next Generation and the Pursuit of Happiness: Part Two
+The Journal of Wealth Management , volume 9 , issue 2 , p. 8 - 13 Posted: 2006
+J M Hesch , S M Breitstone
+Using Charitable Remainder Trusts to Defer Reporting the Gain Realized from the Sale of Marketable Securities for Cash
+Bloomberg-Article-November-2019-Using-Charitable-Remainder-Trusts-to-Defer-Reporting-the-Gain-Realized-From-the-Sale-of-Marketable-Securities-for-Cash , volume 44 Posted: 2019
+S Krasner , J Liberman , N Sosner , S Brenner
+Levering Up to Do Good: Direct Long-Short Investing and Charitable Giving
+The Journal of Beta Investment Strategies , volume 15 , issue 3 , p. 34 - 65 Posted: 2024
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+766
+ABSTRACT VIEWS
+1,872
+RANK
+75,449
+12 References
+PlumX Metrics
+Related eJournals
+
+Wealth Management eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

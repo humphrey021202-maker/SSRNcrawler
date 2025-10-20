@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Detecting Layering and Spoofing in Markets
+
+58 Pages Posted: 1 Aug 2023 Last revised: 3 Nov 2023
+
+Bao Linh Do
+
+University of Technology Sydney (UTS)
+
+Tālis J. Putniņš
+
+University of Technology Sydney (UTS); Digital Finance CRC; Stockholm School of Economics, Riga
+
+Date Written: July 26, 2023
+
+Abstract
+
+Layering and spoofing are among the fastest growing market manipulation techniques, involving placing non-genuine orders into a market to deceive other traders. We develop empirical techniques to detect this prohibited trading. Using a comprehensive, global sample of prosecuted cases and out-of-sample cross-validation tests, we find that the best empirical indicators of spoofing include unbalanced order book quotes, high order activity, abnormal order cancellations, as well as cyclical patterns in market depth and cancellations. Models combining these characteristics achieve high out-of-sample detection accuracy rates, especially when combined with machine learning.
+
+Keywords: layering, spoofing, manipulation, detection
+
+JEL Classification: G14
+
+Suggested Citation:
+
+Do, Bao Linh and Putnins, Talis J., Detecting Layering and Spoofing in Markets (July 26, 2023). Available at SSRN: https://ssrn.com/abstract=4525036 or http://dx.doi.org/10.2139/ssrn.4525036
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+F Allen , D Gale
+Stock-price manipulation
+Review of Financial Studies , volume 5 , p. 503 - 529 Posted: 1992
+F Allen , L Litov , J Mei
+Large investors, price manipulation, and limits to arbitrage: An anatomy of market corners
+Review of Finance , volume 10 , p. 645 - 693 Posted: 2006
+D Bernhardt , R J Davies
+Smart fund managers? Stupid money?
+Canadian Journal of Economics , volume 42 , p. 719 - 748 Posted: 2009
+B Biais , P Hillion , C Spatt
+An empirical analysis of the limit order book and the order flow in the Paris Bourse
+Journal of Finance , volume 50 , p. 1655 - 1689 Posted: 1995
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,310
+ABSTRACT VIEWS
+6,462
+RANK
+35,484
+31 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

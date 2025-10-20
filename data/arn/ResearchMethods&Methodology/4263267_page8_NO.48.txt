@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Decoupling Research from Development
+
+63 Pages Posted: 8 Nov 2022 Last revised: 30 Nov 2022
+
+Ma Hou-Ning
+
+National University of Singapore (NUS)
+
+David M. Reeb
+
+National University of Singapore - Dept of Accounting
+
+Date Written: October 31, 2022
+
+Abstract
+
+Reporting research and development together implies their allocation provides limited insight to investors. We construct and corroborate unique measures of development and research to evaluate this aggregation. These measures combined correlate with reported R&D expenditures at 99% (industry) and 81% (firm). In the individual measure validation tests, our research measure correlates with scientific publications (77%), while the development measure correlates with patents (71%). Our R&D measures cover 76% of NYSE firms, providing broader coverage than patents (30%), new product announcements (20%), and reported expenditures (46%).
+Using these measures, we investigate whether a firm’s choice to emphasize either research or development provides relevant information to investors. We find that development and research differ significantly in predicting future earnings and cash flows. The allocation between research and development also helps predict whether a firm discloses its R&D expenditures. Development intensity, but not research intensity, forecasts increased product market concentration. Investors require higher risk premia for research relative to development activity. Overall, our results are inconsistent with the hypothesis that development and research load similarly in investor-prediction models. It is puzzling that firms do not explicitly disaggregate R&D disclosures to give investors insight into their allocation decision.
+
+Keywords: R&D Disclosure, R&D Informativeness, R&D Allocation, Missing R&D, Disaggregating Disclosures, Research and Development
+
+JEL Classification: M40, M41, O30, O32
+
+Suggested Citation:
+
+Hou-Ning, Ma and Reeb, David M., Decoupling Research from Development (October 31, 2022). Available at SSRN: https://ssrn.com/abstract=4263267 or http://dx.doi.org/10.2139/ssrn.4263267
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+153
+ABSTRACT VIEWS
+1,262
+RANK
+441,693
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

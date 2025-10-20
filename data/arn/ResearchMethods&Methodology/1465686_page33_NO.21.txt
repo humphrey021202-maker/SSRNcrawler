@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Diminished Idiosyncrasy as an Explanation for the Temporal Increase in the Earnings' Cash Flows Predictability
+
+27 Pages Posted: 24 Nov 2009
+
+Steve C. Lim
+
+Texas Christian University - M.J. Neeley School of Business
+
+Date Written: August 31, 2009
+
+Abstract
+
+We find that the R2 of time-series regressions of next-year cash flows on current-year earnings has not significantly changed over time. This contrasts with the dramatic increase (over time) in the R2 of cross-sectional regressions in prior studies. We show evidence that cross-firm heterogeneity in the relation between next-year cash flows and current-year earnings has significantly decreased over time (call it diminished idiosyncrasy), which is consistent with the increase in the R2 of prior studies’ cross-sectional regressions. In addition, we show that cash flows smoothness is positively associated with the increase in earnings’ ability to predict future cash flows. Given this finding, it is premature to conclude that evidence on the increasing cash flows predictability of earnings conflicts with the declining value relevance of earnings as a predictor of stock returns.
+
+JEL Classification: G12, M41
+
+Suggested Citation:
+
+Lim, Steve, Diminished Idiosyncrasy as an Explanation for the Temporal Increase in the Earnings' Cash Flows Predictability (August 31, 2009). Available at SSRN: https://ssrn.com/abstract=1465686 or http://dx.doi.org/10.2139/ssrn.1465686
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+R Ball , S P Kothari , A Robin
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+Journal of Accounting and Economics , volume 29 , p. 1 - 51 Posted: 2000
+Crossref
+M E Barth , D P Cram , K K Nelson
+Accruals and the Prediction of Future Cash Flows
+The Accounting Review , volume 76 , p. 27 - 58 Posted: 2001
+Crossref
+S Brown , K Lo , T Lys
+Use of R-square in Accounting Research: Measuring Changes in Value Relevance over the Last Four Decades
+Journal of Accounting and Economics , volume 28 , p. 83 - 115 Posted: 1999
+Crossref
+P M Dechow , S P Kothari , R L Watts
+The Relation Between Earnings and Cash Flows
+Journal of Accounting and Economics , volume 25 , p. 133 - 68 Posted: 1998
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+88
+ABSTRACT VIEWS
+1,485
+RANK
+672,649
+18 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

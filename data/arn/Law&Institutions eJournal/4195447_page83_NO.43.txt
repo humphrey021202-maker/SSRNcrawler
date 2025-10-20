@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Real Earnings Management and Idiosyncratic Return Volatility
+
+Journal of Accounting Literature, Forthcoming
+
+Posted: 29 Aug 2022
+
+Ahsan Habib
+
+Massey University - School of Accountancy; Massey University
+
+Pallab Kumar Biswas
+
+University of Otago
+
+Dinithi Ranasinghe
+
+University of Otago
+
+Date Written: August 20, 2022
+
+Abstract
+
+Purpose: Higher real earnings management (REM) reduces financial reporting quality and increases the uncertainty of future cash flows and profitability among investors. We assert that REM induced noise increases idiosyncratic return volatility (IVOL) and aim to examine the association between REM and IVOL. We further investigate whether information asymmetry, firm life cycle and economic policy uncertainty (EPU) moderate the association between REM and IVOL.
+
+Design/methodology/approach: We use 94,445 firm-year observations from the US over 1987 to 2019. We test our hypotheses using Ordinary Least Square Regressions with robust standard errors clustered by firm. We use change analysis, two-stage models and the impact threshold of the confounding variable analysis to address endogeneity.
+
+Findings: We find that REM increases IVOL. This positive association is more pronounced for firms with more information asymmetry, for firms in the mature stage of the life cycle, compared with their growth-stage counterparts; and during periods of high EPU.
+
+Originality: Existing research suggests that accrual manipulation increases IVOL. However, the shift from accrual manipulation to REM and the managerial preference towards REM suggests that it is important to explore the impact of REM on IVOL. Thus, we enhance the understanding of the impact of earnings management on IVOL by documenting that REM induced noise increases IVOL. We further extend the limited research on the consequences of REM and report an adverse consequence.
+
+Keywords: Real earnings management, idiosyncratic return volatility, discretionary accruals, firm life cycle, information asymmetry
+
+JEL Classification: M41, G41
+
+Suggested Citation:
+
+Habib, Ahsan and Biswas, Pallab Kumar and Ranasinghe, Dinithi, Real Earnings Management and Idiosyncratic Return Volatility (August 20, 2022). Journal of Accounting Literature, Forthcoming , Available at SSRN: https://ssrn.com/abstract=4195447
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+484
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

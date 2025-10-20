@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring the Quality of Mergers and Acquisitions
+
+Management Science, 0 [10.1287/mnsc.2023.01225]
+
+77 Pages Posted: 29 Jan 2021 Last revised: 16 Aug 2023
+
+Atif Ellahie
+
+University of Utah - David Eccles School of Business
+
+Shenje Hshieh
+
+City University of Hong Kong
+
+Feng Zhang
+
+Southern Methodist University (SMU) - Finance Department
+
+Date Written: August 15, 2023
+
+Abstract
+
+We develop a measure of merger and acquisition (M&A) quality using accounting theory. This measure, implied return-on-equity improvement (IRI), quantifies the minimum improvement in the target’s post-acquisition return on equity (ROE) the acquirer must attain to break even on the acquisition price. Employing a large sample of M&As from 1980 to 2018, we find that a high IRI is, on average, less attainable ex post and predicts worse acquirer financial performance. The acquirer’s ROE growth over the first three years after the M&A is 11 percentage points lower for high-IRI M&As compared to low-IRI M&As. Worse high-IRI acquirer performance is observable through higher operating costs, tighter financial constraints, lower investments, and larger and more frequent goodwill impairments. We also find that IRI increases with acquiring CEOs’ overconfidence, incentive misalignment, and difficulty in estimating synergies; IRI decreases with acquirers’ financial discipline and due diligence effort. As such, overestimating synergies and managerial incentives that drive overpayment are potential mechanisms underlying IRI’s negative association with acquirers’ post-M&A performance.
+
+Keywords: mergers and acquisitions, deal quality, post-acquisition performance, overpayment, overestimation of synergies
+
+JEL Classification: M41, G13, G14
+
+Suggested Citation:
+
+Ellahie, Atif and Hshieh, Shenje and Zhang, Feng, Measuring the Quality of Mergers and Acquisitions (August 15, 2023). Management Science, 0 [10.1287/mnsc.2023.01225], Available at SSRN: https://ssrn.com/abstract=3765106 or http://dx.doi.org/10.1287/mnsc.2023.01225
+Download This Paper
+ 
+Open PDF in Browser
+93 References
+A Agrawal , J Jaffe , G N Mandelker
+The post-merger performance of acquiring firms: A reexamination of an anomaly
+Journal of Finance , volume 47 , issue 4 , p. 1605 - 1621 Posted: 1992
+A Agrawal , G N Mandelker
+Managerial incentives and corporate investment and financing decisions
+Journal of Finance , volume 42 , issue 4 , p. 823 - 837 Posted: 1987
+A Amel-Zadeh , Y Zhang
+The economic consequences of financial restatements: Evidence from the market for corporate control
+The Accounting Review , volume 90 , issue 1 , p. 1 - 29 Posted: 2015
+E Bartov , A Cheng , H Wu
+Overbidding in mergers and acquisitions: An accounting perspective
+The Accounting Review , volume 96 , issue 2 , p. 55 - 79 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,019
+ABSTRACT VIEWS
+3,505
+RANK
+51,016
+93 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

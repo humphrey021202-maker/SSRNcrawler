@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Uniform vs. Discretionary Regimes in Reporting Information with Unverifiable Precision and a Coordination Role
+
+60 Pages Posted: 11 Jan 2015 Last revised: 12 May 2016
+
+Qi Chen
+
+Duke University - Fuqua School of Business
+
+Tracy Lewis
+
+Duke University
+
+Katherine Schipper
+
+Duke University - Fuqua School of Business
+
+Yun Zhang
+
+George Washington University
+
+There are 2 versions of this paper
+
+Date Written: May 11, 2016
+
+Abstract
+
+We examine uniform and discretionary regimes for reporting information about firm performance from the perspective of a standard setter, in a setting where the precision of reported information is difficult to verify and the reported information can help coordinate decisions by users of the information. The standard setter's task is to choose a reporting regime to maximize the expected decision value of reported information for all users at all firms. The uniform regime requires all firms to report using the same set of reporting methods regardless of the precision of their information, and the discretionary regime allows firms to freely condition their sets of reporting methods on the precision of their information. We show that when unverifiable information precision varies across firms and users' decisions based on reported information have strong strategic complementarities, a uniform regime can have a beneficial social effect as compared to a discretionary reporting regime. Our analysis generates both normative and positive implications for evaluating the necessity and effectiveness of reporting under standards.
+
+Keywords: Accounting Standards, Strategic Complementarity, Coordination, Externality
+
+JEL Classification: D82, M41
+
+Suggested Citation:
+
+Chen, Qi and Lewis, Tracy and Schipper, Katherine and Zhang, Yun, Uniform vs. Discretionary Regimes in Reporting Information with Unverifiable Precision and a Coordination Role (May 11, 2016). Available at SSRN: https://ssrn.com/abstract=2547543 or http://dx.doi.org/10.2139/ssrn.2547543
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+A Admati , P
+Forcing Firms to Talk
+Review of Financial Studies , volume 13 , p. 479 - 519 Posted: 2000
+F Allen , S Morris , H S Shin
+Beauty Contests and Iterated Expectations in Asset Markets
+Review of Financial Studies , volume 19 , p. 719 - 752 Posted: 2006
+Crossref
+M Amador , P O Weill
+Learning from Prices: Public Information and Welfare
+Journal of Political Economy , volume 118 , p. 886 - 907 Posted: 2010
+Crossref
+G M Angeletos , A Pavan
+Transparency of Information and Coordination in Economies with Investment Complementarities
+American Economic Review , volume 94 , p. 91 - 98 Posted: 2004
+Crossref
+Load more
+3 Citations
+Gaoqing Zhang
+Competition and Opacity in the Financial System
+58 Pages · Posted: 2 Aug 2019 · Last revised: 9 Sep 2019 · Downloads: 159
+Download PDF  Add Paper to My Library
+Hui Chen , Alexander Wenning
+Higher-Order Beliefs, Market-Based Incentives, and Information Quality
+European Accounting Review · 33 Pages · Posted: 12 Aug 2020 · Last revised: 1 Aug 2022 · Downloads: 118
+Download PDF  Add Paper to My Library
+Olivia Gu , Jin Xie
+Price Rigidities and the Value of Public Information
+70 Pages · Posted: 6 Jan 2021 · Last revised: 4 Jun 2023 · Downloads: 347
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+245
+ABSTRACT VIEWS
+1,643
+RANK
+285,293
+3 Citations
+60 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Working Capital Management on Financial Performance of Deposit Money Banks in Nigeria
+
+89 Pages Posted: 23 Apr 2021
+
+Babatunde Kazeem Abayomi
+
+Independent
+
+Date Written: December 14, 2020
+
+Abstract
+
+Working capital is one major factor upon which the stability and survival of a business entity depend. Failure of a bank automatically connotes its working capital failure which could be highly contagious leading to a bank run on the distressed. This is one of the reasons the financial performance of the banking sector deeply depends on the efficient management of the banks’ working capital.
+
+This study specifically examines the effect of Working Capital Management (WCM) on financial performance of Deposit Money Banks in Nigeria for the period of 2010 to 2019. The study sampled Seven (7) out of the Thirteen (13) listed Deposit Money Banks in Nigeria as at 31st December, 2019. Three models were formulated to guide the study with Net Interest Margin (NIM), Return on Equity (ROE) and Operating Profit Margin (OPM) as proxies for financial performance (dependent variables) of each model respectively; the independent variables are Loan to Deposit ratio (LTD), and Cash Ratio (CR) while the control variable is Bank Size (BS). The data were extracted from the annual reports of the banks. The ratio analysis along with descriptive, correlation analysis and Regression analysis were used to estimate the various models.
+
+The findings showed that LDR has positive insignificant effect on NIM while CR and BS have significant positive effect on NIM, as to the overall outcome, working capital management jointly have significant effect on NIM. Also, LDR and BS have positive insignificant effect on ROE while CR exerts negative insignificant effect on ROE, working capital management jointly have no significant effect on ROE. Finally, LDR and BS have negative insignificant effect on OPM while CR exerts positive insignificant effect on OPM, working capital management jointly have significant effect on OPM.
+
+The result revealed that managing working capital through cash ratio and bank size can mildly improve the bank’s financial performance when the performance is proxy by Net Interest Margin. For this to be achievable, the management of banks should ensure that there is adequate liquidity to meet customers’ demand at any point in time.
+
+Keywords: Bank Size, Cash Ratio, Deposit Money Bank, Financial Performance, Liquidity, Loan to Deposit, Net Interest Margin, Working Capital Management
+
+Suggested Citation:
+
+Abayomi, Babatunde Kazeem, The Effect of Working Capital Management on Financial Performance of Deposit Money Banks in Nigeria (December 14, 2020). Available at SSRN: https://ssrn.com/abstract=3826458 or http://dx.doi.org/10.2139/ssrn.3826458
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+Y Adamu , B Hussaini
+Working Capital Management and Financial Performance of Deposit Money Banks in Nigeria
+Research Journal of Finance and Accounting , volume 6 , issue 16 , p. 57 - 71 Posted: 2015
+S K Adjei , B Yeboah
+Working Capital Management and Profitability of Banks in Ghana
+Finance and Management Science , volume 2 , issue 2 , p. 1 - 12 Posted: 2011
+T Afza , M S Nazir
+Working Capital Approaches and firm's returns in Pakistan
+Pakistan Journal of Commerce and Social Science , volume 1 , issue 1 , p. 25 - 36 Posted: 2009
+A U Ahmad , M K Hassan
+Regulation and Performance of Islamic Banking in Bangladesh
+Thunderbird International Business Review , volume 49 , issue 2 Posted: 2007
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+907
+ABSTRACT VIEWS
+2,510
+RANK
+59,881
+45 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

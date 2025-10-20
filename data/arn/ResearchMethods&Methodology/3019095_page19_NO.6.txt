@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Solving the Interpretational-Confounding and Interpretational-Ambiguity Problems of Formative Construct Modeling in Behavioral Research: Proposing a Two-Stage Fixed-Weight Redundancy Approach
+
+Journal of the Association for Information Systems (JAIS), vol. 19(7), pp. 618-671
+
+72 Pages Posted: 17 Aug 2017 Last revised: 13 Oct 2018
+
+Jack Hsu
+
+Tamkang University
+
+Chao-Min Chiu
+
+National Sun Yat-sen University
+
+Paul Benjamin Lowry
+
+Virginia Tech - Pamplin College of Business
+
+T.P. Liang
+
+National Sun Yat-sen University - College of Management
+
+Date Written: July 31, 2017
+
+Abstract
+
+Recently, formative measurements have received increasing attention in information systems research. However, current approaches to modeling formative constructs have potential validity problems and thus limited applicability. Here, we highlight two major problems in formative measurement — interpretational confounding and interpretational ambiguity — and propose a novel resolution. Interpretational confounding occurs when using the traditional free-estimation approach, because the weights of different formative indicators vary as the dependent variable changes, resulting in the distortion of the measurement weights of the focal formative construct and thus jeopardizing the generalizability of empirical tests. Another way to alleviate the interpretational-confounding issue is to include the multiple indicators multiple causes (MIMIC) construct in the path model (i.e., MIMIC-path). Unfortunately, this method has led to the second major problem of interpretational ambiguity, the existence of more than one potential explanation of the formative model. More specifically, reflective indicators in the MIMIC model can be viewed as (1) indicators of the MIMIC construct, (2) dependent variables of the formative construct, or (3) indicators of a reflective construct affected by independent variables (formative indicators). To resolve these issues, we propose a two-stage fixed-weight redundancy model (FWRM) approach. We demonstrate the applicability of the FWRM approach with a set of survey data. We conducted a simulation study evaluating the FWRM approach by comparing it with the commonly used free-estimation and MIMIC-path methods. The results indicate that our FWRM approach can indeed improve the validity of formative construct modeling by mitigating confounding and ambiguity issues.
+
+Keywords: Formative Measurement, Fixed-Weight Redundancy Model (FWRM), Free-Estimation Model, Interpretational Confounding, Interpretational Ambiguity, MIMIC Model, Structural Equation Modeling (SEM), Partial Least Squares (PLS)
+
+Suggested Citation:
+
+Hsu, Jack and Chiu, Chao-Min and Lowry, Paul Benjamin and Liang, T.P., Solving the Interpretational-Confounding and Interpretational-Ambiguity Problems of Formative Construct Modeling in Behavioral Research: Proposing a Two-Stage Fixed-Weight Redundancy Approach (July 31, 2017). Journal of the Association for Information Systems (JAIS), vol. 19(7), pp. 618-671, Available at SSRN: https://ssrn.com/abstract=3019095
+Download This Paper
+ 
+Open PDF in Browser
+78 References
+M I Aguirre-Urreta , G M Marakas
+A rejoinder to Rigdon
+Information Systems Research , volume 25 , issue 4 , p. 785 - 788 Posted: 2014
+M I Aguirre-Urreta , G M Marakas
+Research note-Partial least squares and models with formatively specified endogenous constructs: A cautionary note
+Information Systems Research , volume 25 , issue 4 , p. 761 - 778 Posted: 2014
+Crossref
+G Almerich , N Orellana , J Suárez-Rodríguez , I Díaz-García
+Teachers' information and communication technology competences: A structural approach
+Computers & Education , volume 100 , issue 1 , p. 110 - 125 Posted: 2016
+Crossref
+J C Anderson , D W Gerbing
+Structural equation modeling in practice: A review and recommended two-step approach
+Psychological Bulletin , volume 103 , issue 3 , p. 411 - 423 Posted: 1988
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+133
+ABSTRACT VIEWS
+1,656
+RANK
+495,993
+78 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Cognitive Social Science eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

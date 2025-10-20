@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information Processing Costs and Corporate Tax Avoidance: Evidence from the SEC's XBRL Mandate
+
+Journal of Accounting and Public Policy, Vol. 40, No. 2, 106822
+
+49 Pages Posted: 26 Mar 2016 Last revised: 16 Mar 2021
+
+Jeff Zeyun Chen
+
+Texas Christian University
+
+Hyun A. Hong
+
+University of California, Riverside (UCR) - A. Gary Anderson Graduate School of Management
+
+Jeong-Bon Kim
+
+Simon Fraser University
+
+Jiwoo Ryou
+
+West Virginia University
+
+Date Written: January 11, 2021
+
+Abstract
+
+The IRS uses information contained in financial statements as well as tax returns to detect tax avoidance behavior. We examine the impact on corporate tax avoidance behavior of reductions in the IRS’s information processing costs resulting from the mandatory adoption of XBRL for financial reporting. Motivated by the recent debate in the U.S. Congress over the cost-benefit of mandatory XBRL reporting for small firms, we pay particular attention to small firms, which inherently have relatively high information frictions. We find that the adoption of XBRL for financial reporting results in a significant decrease in tax avoidance. We further find that the negative relation between XBRL reporting and tax avoidance is less prominent for firms subject to more intense IRS monitoring in the pre-XBRL-reporting period. Overall, our results suggest that XBRL reporting reduces the cost of IRS monitoring in terms of information processing, which dampens managerial incentives to engage in tax avoidance behavior.
+
+Keywords: XBRL reporting; tax avoidance; information processing costs; IRS monitoring; tax audit risk; tax accrual
+
+JEL Classification: H26, M41
+
+Suggested Citation:
+
+Chen, Jeff Zeyun and Hong, Hyun A. and Kim, Jeong-Bon and Ryou, Jiwoo, Information Processing Costs and Corporate Tax Avoidance: Evidence from the SEC's XBRL Mandate (January 11, 2021). Journal of Accounting and Public Policy, Vol. 40, No. 2, 106822, Available at SSRN: https://ssrn.com/abstract=2754427 or http://dx.doi.org/10.2139/ssrn.2754427
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+C S Armstrong , J Blouin , A D Jagolinzer , D F Larcker
+Corporate governance, incentives, and tax avoidance
+J. Account. Econ , volume 60 , issue 1 , p. 1 - 17 Posted: 2015
+Crossref
+M Bertrand , S Mullainathan
+Enjoying the quiet life? Corporate governance and managerial preferences
+J. Political Econ , volume 111 , issue 5 , p. 1043 - 1075 Posted: 2003
+Crossref
+E Blankespoor
+The impact of information processing costs on firm disclosure choice: Evidence from the XBRL mandate
+J. Account. Res , volume 57 , issue 4 , p. 919 - 967 Posted: 2019
+Crossref
+E Blankespoor , B P Miller , H D White
+Initial evidence on the market impact of the XBRL mandate
+Rev. Account. Stud , volume 19 , issue 4 , p. 1468 - 1503 Posted: 2014
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+577
+ABSTRACT VIEWS
+3,685
+RANK
+108,566
+2 Citations
+47 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

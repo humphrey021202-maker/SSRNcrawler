@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+M&A and R&D: Asymmetric Effects on Acquirers and Targets?
+
+22 Pages Posted: 23 Feb 2012 Last revised: 14 Oct 2013
+
+Florian Szücs
+
+Vienna University of Economics and Business
+
+There are 2 versions of this paper
+
+Date Written: October 14, 2013
+
+Abstract
+
+We evaluate the impact of M&A activity on the growth of R&D spending and R&D intensity of 265 acquiring firms and 133 merger targets between 1990 and 2009. We use different matching techniques to construct separate control groups for acquirers and targets and use appropriate difference-in-difference estimation methods to single out the causal effect of mergers on R&D growth and intensity. We find that target firms substantially decrease their R&D efforts after a merger, while the R&D intensity of acquirers drops due to a sharp increase in sales.
+
+Keywords: mergers, R&D, matching
+
+Suggested Citation:
+
+Szücs, Florian, M&A and R&D: Asymmetric Effects on Acquirers and Targets? (October 14, 2013). Available at SSRN: https://ssrn.com/abstract=2009415 or http://dx.doi.org/10.2139/ssrn.2009415
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A Abadie , D Drukker , J L Herr , G W Imbens
+Implementing matching estimators for average treatment effects in stata
+Stata Journal , volume 4 , issue 3 , p. 290 - 311 Posted: 2004
+Crossref
+P Aghion , N Bloom , R Blundell , R Griffith , P Howitt
+Competition and innovation: An inverted-u relationship
+The Quarterly Journal of Economics , volume 120 , issue 2 , p. 701 - 728 Posted: 2005
+Crossref
+G Ahuja , R Katila
+Technological acquisitions and the innovation performance of acquiring firms: A longitudinal study
+Strategic Management Journal , volume 22 , issue 3 , p. 197 - 220 Posted: 2001
+Crossref
+O Bertrand
+Effects of foreign acquisitions on R&D activity: Evidence from firm-level data for France
+Research Policy , volume 38 , issue 6 , p. 1021 - 1031 Posted: 2009
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+148
+ABSTRACT VIEWS
+1,437
+RANK
+234,143
+1 Citations
+31 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Characterizing Selection Bias Using Experimental Data
+
+By James J. Heckman, Hidehiko Ichimura, ...
+
+Propensity Score Matching Methods for Non-Experimental Causal Studies
+
+By Rajeev H. Dehejia and Sadek Wahba
+
+Propensity Score Matching Methods for Non-Experimental Causal Studies
+
+By Rajeev H. Dehejia and Sadek Wahba
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+From Incurred Loss to Current Expected Credit Loss (CECL): A Forensic Analysis of the Allowance for Loan Losses in Unconditionally Cancelable Credit Card Portfolios
+
+Federal Reserve Bank of Philadelphia, WP 19-08, January 2019
+
+41 Pages Posted: 12 Feb 2019
+
+José J. Canals-Cerda
+
+Federal Reserve Bank of Philadelphia
+
+Date Written: January 31, 2019
+
+Abstract
+
+The Current Expected Credit Loss (CECL) framework represents a new approach for calculating the allowance for credit losses. Credit cards are the most common form of revolving consumer credit and are likely to present conceptual and modeling challenges during CECL implementation. We look back at nine years of account-level credit card data, starting with 2008, over a time period encompassing the bulk of the Great Recession as well as several years of economic recovery. We analyze the performance of the CECL framework under plausible assumptions about allocations of future payments to existing credit card loans, a key implementation element. Our analysis focuses on three major themes: defaults, balances, and credit loss. Our analysis indicates that allowances are significantly impacted by specific payment allocation assumptions as well as downturn economic conditions. We also compare projected allowances with realized credit losses and observe a significant divergence resulting from the revolving nature of credit card portfolios. We extend our analysis across segments of the portfolio with different risk profiles. Interestingly, less risky segments of the portfolio are proportionally more impacted by specific payment assumptions and downturn economic conditions. Our findings suggest that the effect of the new allowance framework on a specific credit card portfolio will depend critically on its risk profile. Thus, our findings should be interpreted qualitatively, rather than quantitatively. Finally, the goal is to gain a better understanding of the sensitivity of allowances to plausible variations in assumptions about the allocation of future payments to present credit card loans. Thus, we do not offer specific best practice guidance.
+
+Keywords: expected credit losses, allowances, unconditionally cancelable, revolving credit, credit loss
+
+JEL Classification: G21, G28, M41
+
+Suggested Citation:
+
+Canals-Cerda, José J., From Incurred Loss to Current Expected Credit Loss (CECL): A Forensic Analysis of the Allowance for Loan Losses in Unconditionally Cancelable Credit Card Portfolios (January 31, 2019). Federal Reserve Bank of Philadelphia, WP 19-08, January 2019, Available at SSRN: https://ssrn.com/abstract=3326831
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+Piu Banerjee , José J. Canals-Cerda
+Credit Risk Analysis of Credit Card Portfolios Under Economic Stress Conditions
+FRB of Philadelphia Working Paper No. 12-18 Pages: 46 Posted: 29 Jul 2012
+Download PDF  Add Paper to My Library
+Dodd-Frank Act Stress Test 2018: Supervisory Stress Test Methodology and Results Posted: 2018-06
+Federal Deposit Insurance Corporation, National Credit Union Administration, Office of the Comptroller of the Currency
+Frequently Asked Questions on the New Accounting Standard on Financial Instruments -Credit Losses Posted: 2016-06-17
+Regulatory Capital Rules: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and Related Adjustments to the Regulatory Capital Rules and Conforming Amendments to Other Regulations," proposed rule by the Comptroller of the Currency, the Federal Reserve System, and the Federal Deposit Insurance Corporation on May 14 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+303
+ABSTRACT VIEWS
+1,929
+RANK
+229,218
+12 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

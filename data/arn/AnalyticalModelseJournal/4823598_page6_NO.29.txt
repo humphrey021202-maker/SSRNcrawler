@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Evaluating Policy Interventions for Audit Quality Improvement: Market Competition Versus Audit Firm Separation
+
+19 Pages Posted: 13 May 2024
+
+Chiaki Kawabata
+
+Chuo University - Faculty of Commerce
+
+Tsuyoshi Takahara
+
+School of Economics, Senshu University
+
+Date Written: May 10, 2024
+
+Abstract
+
+We consider an environment wherein a multidisciplinary firm providing audit (AS) and non-audit services (NAS) competes with an AS-specialty firm and a NAS-specialty firm, and show how we should intervene in the markets for AS quality improvement. We assume that the multidisciplinary firm faces the service provision restriction: it cannot provide the NAS to the clients who purchase its AS and maximize the total profit (centralized decision). We find that policies which intensify competition do not necessarily improve and may rather reduce the AS quality since such policies incentivize the multidisciplinary audit firm to earn profits in the NAS market by moving away from competing in the AS market. Moreover, the multidisciplinary firm's separation is the most effective policy for AS quality improvement, as it allows the service provider to avoid the service provision constraint and delegate their decision in audit quality.
+
+Keywords: Separation of Multidisciplinary Firm, Hotelling Model, Audit Service Competition
+
+JEL Classification: M42, L51, G34
+
+Suggested Citation:
+
+Kawabata, Chiaki and Takahara, Tsuyoshi, Evaluating Policy Interventions for Audit Quality Improvement: Market Competition Versus Audit Firm Separation (May 10, 2024). Available at SSRN: https://ssrn.com/abstract=4823598 or http://dx.doi.org/10.2139/ssrn.4823598
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+Philippe Aghion , Jean Tirole
+Formal and real authority in organizations
+Journal of Political Economy , volume 105 , issue 1 , p. 1 - 29 Posted: 1997
+Paul J Beck , Martin Gh Wu
+Learning by doing and audit quality
+Contemporary Accounting Research , volume 23 , issue 1 , p. 1 - 30 Posted: 2006
+Beis Beis
+Restoring trust in audit and corporate governance, Consultation on the government's proposals 2021
+Department for Business, Energy & Industrial Strategy
+Beis Beis
+Restoring trust in audit and corporate governance; Government response to the consultation on strengthening the UK's audit, corporate reporting and corporate governance systems 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+95
+ABSTRACT VIEWS
+471
+RANK
+640,233
+17 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Testing for Error Cross-Sectional Independence Using Pairwise Augmented Regressions
+
+26 Pages Posted: 1 May 2016
+
+Guangyu Mao
+
+Beijing Jiaotong University - School of Economics and Management
+
+Date Written: April 29, 2016
+
+Abstract
+
+This paper proposes two statistics for testing error cross-sectional independence in a static linear heterogeneous panel data model by virtue of PAR (Pairwise Augmented Regressions). The tests based on the two statistics are extensions to the CD test Pesaran (2004) and the bias-adjusted LM test Pesaran et al. (2008) respectively. Unlike the two existing tests that are justified under the sequential limits, the newly developed tests can be justified under the simultaneous limits without any additional restriction imposed on the cross-sectional and time-series dimensions. Moreover, it is proved that the new tests can even be justified under the HDLSS (High Dimension, Low Sample Size) limits provided that a homo-rank condition holds. Several simulation experiments are conducted to evaluate the performance of the newly introduced tests. The simulation results show that use of the tests may bring significant improvement, especially in the cases of large cross-sectional dimension and small time-series dimension.
+
+Keywords: Cross-Sectional Dependence, HDLSS, Heterogeneous Panels, Independence Test, Simultaneous Limits
+
+JEL Classification: C12, C33
+
+Suggested Citation:
+
+Mao, Guangyu, Testing for Error Cross-Sectional Independence Using Pairwise Augmented Regressions (April 29, 2016). Available at SSRN: https://ssrn.com/abstract=2772409 or http://dx.doi.org/10.2139/ssrn.2772409
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+D W K Andrews
+Cross-section regression with common shocks
+Econometrica , volume 73 , p. 1551 - 1585 Posted: 2005
+Crossref
+J Bai
+Panel data models with interactive fixed effects
+Econometrica , volume 77 , p. 1229 - 1279 Posted: 2009
+Crossref
+B H Baltagi , Q Feng , C Kao
+Testing for sphericity in a fixed effects panel data model
+Econometrics Journal , volume 14 , p. 25 - 47 Posted: 2011
+Crossref
+B H Baltagi , Q Feng , C Kao
+A Lagrange multiplier test for cross-sectional dependence in a fixed effects panel data model
+Journal of Econometrics , volume 170 , p. 164 - 177 Posted: 2012
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+151
+ABSTRACT VIEWS
+1,080
+RANK
+446,506
+27 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Using Artificial Neural Networks Analysis for Small Enterprise Default Prediction Modeling: Statistical Evidence from Italian Firms
+
+2009 Oxford Business & Economics Conference Proceedings. Oxford, UK, 24-26 June 2009, Vol. 1, pp. 1-26, Association for Business & Economics Research (ABER), ISBN: 9780974211411
+
+Posted: 8 Mar 2013
+
+Francesco Ciampi
+
+University of Florence - Department of Business Administration
+
+Carlo Vallini
+
+Independent
+
+Niccolo Gordini
+
+Università degli Studi di Milano-Bicocca - Department of Economics, Management and Statistics (DEMS)
+
+Date Written: 2009
+
+Abstract
+
+A large number of empirical studies have used univariate and multivariate statistical methods when examining the effectiveness of appropriately selected corporation data in constructing company default prediction models. Having accurate evaluation methods has become increasingly important since the New Basel Capital Accord linked the banks’ capital requirements to the banks’ models for company default prediction. Solutions are now urgently needed in view of the current global financial crisis which is having serious effects on the overall word economic system and is making it extremely difficult for banks to grant credit, and for firms to obtain it.
+
+The empirical studies mentioned mostly rely on Multivariate Discriminant Analysis (MDA) and Logistic Regression Analysis (LRA); and they mainly focus on large and medium-sized enterprises.
+
+Our study applies Artificial Neural Network Analysis (ANNA) to a sample of over 6,000 small Italian firms, with a view to developing and testing default prediction models based on an appropriately selected set of financial-economic ratios.
+
+Our results show that: i) when compared to traditional statistical methods (MDA and LRA), ANNA can make a better contribution to decision support systems for Small Enterprise (SE) credit-risk evaluation; and ii) when the decisional function is separately calculated according to size, geographical area and business sector, ANNA prediction accuracy is markedly higher for the smallest-sized firms and for firms operating in Central Italy.
+
+Keywords: Small Enterprises, Artificial Neural Networks, Default Prediction Models, Scoring, Rating, Financial Ratios
+
+Suggested Citation:
+
+Ciampi, Francesco and Vallini, Carlo and Gordini, Niccolo, Using Artificial Neural Networks Analysis for Small Enterprise Default Prediction Modeling: Statistical Evidence from Italian Firms (2009). 2009 Oxford Business & Economics Conference Proceedings. Oxford, UK, 24-26 June 2009, Vol. 1, pp. 1-26, Association for Business & Economics Research (ABER), ISBN: 9780974211411, Available at SSRN: https://ssrn.com/abstract=2229941
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,865
+PlumX Metrics
+Related eJournals
+
+University of Milan Bicocca Department of Economics, Management & Statistics Research Paper Series
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

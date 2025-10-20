@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Misconduct and the Capital Allocation of Prosocial Investors
+
+66 Pages Posted: 4 Dec 2023 Last revised: 5 Dec 2024
+
+Stefano Pegoraro
+
+University of Notre Dame - Department of Finance
+
+Antonino Emanuele Rizzo
+
+Nova School of Business and Economics
+
+Rafael Zambrana
+
+University of Notre Dame - Mendoza College of Business
+
+Date Written: November 27, 2023
+
+Abstract
+
+We develop a forward-looking measure of corporate misconduct risk based on the portfolio holdings of ESG funds. These funds are incentivized to monitor misconduct, as they experience significant outflows following enforcement actions against portfolio companies. Our stock-level metric, prosocial overweight, captures the portfolio tilts of ESG funds relative to a synthetic benchmark of conventional active funds. Increases in prosocial overweight predict fewer future regulatory fines and lawsuits, even after controlling for public ESG ratings and news. However, they also predict lower risk adjusted returns, highlighting a trade-off for responsible investors. This predictive power reflects informed stock selection rather than shareholder engagement.
+
+Keywords: Corporate misconduct, legal risk, ESG funds, responsible investing, investor monitoring, disclosure, private information
+
+JEL Classification: G23, G11, G14, G12, G34, D22, D62, K13, K20, K32, M14
+
+Suggested Citation:
+
+Pegoraro, Stefano and Rizzo, Antonino Emanuele and Zambrana, Rafael, Corporate Misconduct and the Capital Allocation of Prosocial Investors (November 27, 2023). Available at SSRN: https://ssrn.com/abstract=4645547 or http://dx.doi.org/10.2139/ssrn.4645547
+Download This Paper
+ 
+Open PDF in Browser
+128 References
+A Abadie , A Diamond , J Hainmueller
+Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program
+Journal of the American Statistical Association , volume 105 , issue 490 , p. 493 - 505 Posted: 2010
+A Abadie , J Gardeazabal
+The Economic Costs of Conflict: A Case Study of the Basque Country
+American Economic Review , volume 93 , issue 1 , p. 113 - 132 Posted: 2003
+A R Admati
+A Skeptical View of Financialized Corporate Governance
+Journal of Economic Perspectives , volume 31 , issue 3 , p. 131 - 150 Posted: 2017
+A R Admati , N Atkinson , P Pfleiderer
+Profitable Misconduct, Corporate Governance, and Law Enforcement Posted: 2025-09
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+320
+ABSTRACT VIEWS
+1,677
+RANK
+215,929
+128 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

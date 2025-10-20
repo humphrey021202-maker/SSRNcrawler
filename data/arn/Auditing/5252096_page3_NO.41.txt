@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Breaking the Habit: A Constraint-Based Intervention for Adaptive Risk Decisions in Auditing
+
+53 Pages Posted: 14 May 2025
+
+Kyle Sopp
+
+University of Denver - Daniels College of Business
+
+Date Written: May 12, 2025
+
+Abstract
+
+Auditors often fail to revise audit plans in response to emerging risks during fieldwork-a concern raised in prior research and PCAOB inspection reports. This study examines whether performance measures based on budget adherence contribute to this rigidity by reinforcing surrogation, a cognitive bias in which auditors unconsciously substitute budget compliance for broader audit objectives. I also test whether a structured intervention-Constraint-Based Planning (CBP)-can reduce surrogation and improve resource allocation in a dynamic audit environment. Using a novel experiment that adapts the logic game Minesweeper to simulate evolving audit risk and budget constraints, I find auditors evaluated on budget adherence are less likely to reallocate effort in response to shifting risks, leading to systematic misallocation. In contrast, those who complete CBP exercises respond more strategically to risk changes, prioritizing high-risk accounts without exceeding budget constraints. These results extend prior surrogation research by demonstrating that structured, multi-phase planning interventions can promote adaptive, risk-sensitive decision-making in environments where performance goals are ambiguous and evolving.
+
+Keywords: Audit Budgeting, Strategy Surrogation, Risk Adaptation, Constraint-Based Planning, Cognitive Bias, Audit Judgment
+
+Ethics Approval
+
+This study received IRB approval.
+
+Funder Statement
+
+This study was funded by Florida State University
+
+Suggested Citation:
+
+Sopp, Kyle, Breaking the Habit: A Constraint-Based Intervention for Adaptive Risk Decisions in Auditing (May 12, 2025). Available at SSRN: https://ssrn.com/abstract=5252096 or http://dx.doi.org/10.2139/ssrn.5252096
+Download This Paper
+ 
+Open PDF in Browser
+71 References
+E G Aiken , G S Thomas , W A Shennum
+Memory for a lecture: Effects of notes, lecture rate, and informational density
+Journal of Educational Psychology , volume 67 , issue 3 , p. 439 - 444 Posted: 1975
+M D Akers , C T Horngren , T V Eaton
+Underreporting chargeable time: A continuing problem for public accounting firms
+The Journal of Applied Business Research , volume 15 , issue 1 , p. 13 - 20 Posted: 1998
+S K Asare , G Trompeter , A M Wright
+The effect of accountability and time budgets on auditors' testing strategies
+Contemporary Accounting Research , volume 17 , issue 4 , p. 539 - 560 Posted: 2000
+S K Asare , A M Wright
+The effectiveness of alternative risk assessment and program planning tools in a fraud setting
+Contemporary Accounting Research , volume 21 , issue 2 , p. 325 - 352 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+35
+ABSTRACT VIEWS
+226
+71 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

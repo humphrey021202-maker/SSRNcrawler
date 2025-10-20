@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Overseeing Private Rulemaking: Evidence from SEC Review of SRO Rules
+
+Forthcoming, University of Pennsylvania Journal of Business Law (2025)
+
+72 Pages Posted: 18 Jun 2024 Last revised: 14 Dec 2024
+
+James Fallows Tierney
+
+Chicago-Kent College of Law - Illinois Institute of Technology
+
+Date Written: December 14, 2024
+
+Abstract
+
+Securities markets rely heavily on private rulemaking by self-regulatory organizations (SROs) such as FINRA and the stock exchanges, supervised by the Securities and Exchange Commission. The SRO-centric model is marred by problems with democratic accountability and inherent conflicts of interest, where insiders might prioritize private benefits over public needs. For these and related reasons, the SRO model is in a moment of transition—with increasing judicial scrutiny of SROs’ roles and powers within separation-of-powers and administrative-law frameworks. Scholars, meanwhile, know little about how the SROs and SEC jointly producerules for capital markets. Previous securities regulation scholarship has focused on specific aspects of SRO rulemaking, such as the stock exchanges’ corporate governance rules, largely without addressing systemic issues in the production and SEC oversight of SRO rules. Yet SRO rulemaking practices have important consequences for the regulation of securities markets, including the role of procedural reform on regulatory effectiveness and public participation.
+
+This article’s approach uses a comprehensive new dataset drawn from every issue of the Federal Register from 2000 to 2023, providing a unique macro perspective that reveals significant inefficiencies and oversight challenges in the current system. By employing a political economy lens, this study focuses on procedural inadequacies while aligning them with policy concerns about accountability, oversight, and democratic control over regulation. This article argues that the SRO rulemaking system is not functioning well, producing a firehose of securities law that is at once a massive drain on agency resources, as well as an impediment to robust public participation in the rules governing capital markets. After the Dodd-Frank Act, most rule change proposals go effective immediately upon filing unless the SEC takes action to halt effectiveness, and need not require preapproval.
+
+The dominance of this mode of SRO rulemaking, I suggest, alters both the incentives as well as opportunities the SEC has to engage in robust oversight. I also find evidence that the SEC's oversight responds to a judicial-review shock. I assess the Dodd-Frank reforms under a framework that recognizes the tradeoff between the costs of deciding and the costs of making wrong decisions, and connect this tradeoff to deeper debates about the role of SROs in our constitutional structure. This project contributes to our understanding of the political economy of capital markets regulation, as well as our understanding of federal oversight of SRO rulemaking.
+
+Keywords: administrative law, securities regulation, self-regulation, stock exchange, capital markets, rulemaking, data science
+
+JEL Classification: G28, K22, K23
+
+Suggested Citation:
+
+Tierney, James, Overseeing Private Rulemaking: Evidence from SEC Review of SRO Rules (December 14, 2024). Forthcoming, University of Pennsylvania Journal of Business Law (2025), Available at SSRN: https://ssrn.com/abstract=4796871 or http://dx.doi.org/10.2139/ssrn.4796871
+Download This Paper
+ 
+Open PDF in Browser
+5 References
+reading like it was written by ChatGPT and incorrectly describing the form, who must file it, and the approval process
+Sergio Davalos & Ehsan H. Feroz, A Textual Analysis of the US Securities and Exchange Commission's Accounting and Auditing Enforcement Releases Relating to the Sarbanes-Oxley Act, 29 INTEL. SYS. ACCT. FIN. MGMT , volume 19 Posted: 2022
+Charlotte Alexander , Nicole G Iannarone
+Winning, Defined? Text-Mining Arbitration Decisions
+using regular expressions to match "79 million-plus unique docket entries and 3 million-plus case-level metadata records" to create dummy variables
+Michael Fitzgerald, Introducing Regular Expressions , volume 909 Posted: 2024
+Grimmer
+Roberts & Stewart, supra note 20 at 178-83 (describing dictionary matching methods generally)
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+143
+ABSTRACT VIEWS
+766
+RANK
+467,197
+5 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

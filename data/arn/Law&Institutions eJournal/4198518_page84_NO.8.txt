@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Impact of Risk Oversight Functions on Bank Risk: Evidence from the Dodd-Frank Act
+
+69 Pages Posted: 23 Aug 2022 Last revised: 27 Mar 2024
+
+Lakshmi Balasubramanyan
+
+Case Western Reserve University - Weatherhead School of Management
+
+Naveen D. Daniel
+
+Drexel University - Department of Finance
+
+Joseph G. Haubrich
+
+Federal Reserve Bank of Cleveland
+
+Lalitha Naveen
+
+Temple University - Department of Finance; European Corporate Governance Institute (ECGI)
+
+Abstract
+
+We document the impact of having a risk committee (RC) and a chief risk officer (CRO) on bank risk using the passage of the Dodd Frank Act as a natural experiment.  The Act requires bank holding companies with over $10B of assets to have an RC to oversee risk management, while those with over $50B of assets are additionally required to have a CRO.  We use difference-in-difference and regression discontinuity approaches to estimate the change in risk following RC and CRO adoption. Overall, we find no evidence that the RC or CRO have a causal impact on bank risk.
+
+Keywords: Bank holding companies, Risk, Chief risk officer, Risk Committee, Dodd Frank Act, Bank risk, Corporate Governance
+
+Suggested Citation:
+
+Balasubramanyan, Lakshmi and Daniel, Naveen D. and Haubrich, Joseph G. and Naveen, Lalitha, Impact of Risk Oversight Functions on Bank Risk: Evidence from the Dodd-Frank Act. Available at SSRN: https://ssrn.com/abstract=4198518
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+Acharya , V Viral , Jennifer Carpenter , Xavier Gabaix , Kose John , Matthew Richardson , Marti Subrahmanyam , Rangarajan Sundaram , Eitan Zemel , V Viral , Matthew Acharya , Richardson
+Restoring Financial Stability: How to Repair a Failed System
+Corporate Governance in the Modern Financial Sector , p. 158 - 159 Posted: 2009
+Renée B Adams , E Benjamin , Michael S Hermalin , Weisbach
+The role of boards of directors in corporate governance: A conceptual framework and survey
+Journal of Economic Literature , volume 48 , p. 58 - 107 Posted: 2010
+Renée B Adams , Hamid Mehran
+Is corporate governance different for bank holding companies? Economic Policy Review , volume 9 , p. 123 - 142 Posted: 2003
+Vincent Aebi , Gabriele Sabato , Markus Schmid
+Risk Management, Corporate Governance, and Bank Performance in the Financial Crisis
+Journal of Banking and Finance , volume 36 , p. 3213 - 3226 Posted: 2012
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+157
+ABSTRACT VIEWS
+826
+RANK
+432,018
+1 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Regulation of Financial Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

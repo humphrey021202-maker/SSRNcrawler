@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Looking Forward: The Role of Multiple Regression in Family Business Research
+
+Hopkins, L. & Ferguson, K.E (2014). Looking forward: The role of multiple regression in family business. Journal of Family Business Strategy. 5, 52-62.
+
+11 Pages Posted: 18 Mar 2014
+
+Lucas Hopkins
+
+Middle Georgia State College / University System of Georgia
+
+Keith Ferguson
+
+Grand Rapids Community College
+
+Date Written: March 17, 2014
+
+Abstract
+
+This article assesses the role of regression analysis in family business research. We discuss four specific types of regression (multiple linear, stepwise, hierarchical, and nonlinear) and review how each type has been used in prior family business research. In order to specify a systematic guide to using regression analysis, specific examples are provided using SPSS. The article concludes by providing several rules of thumb for the use of regression analysis.
+
+Keywords: Regression analysis, Nonlinear regression, Research methods, Family business, and Best practice
+
+Suggested Citation:
+
+Hopkins, Lucas and Ferguson, Keith, Looking Forward: The Role of Multiple Regression in Family Business Research (March 17, 2014). Hopkins, L. & Ferguson, K.E (2014). Looking forward: The role of multiple regression in family business. Journal of Family Business Strategy. 5, 52-62., Available at SSRN: https://ssrn.com/abstract=2410159
+Download This Paper
+ 
+Open PDF in Browser
+87 References
+C L Aberson , D E Berger , M R Healy , V L Romero
+An interactive tutorial for teaching statistical power
+Journal of Statistics Education , volume 10 , issue 3 , p. 1 - 6 Posted: 2002
+Crossref
+R C Anderson , D M Reeb
+Founding-family ownership and firm performance: Evidence from the S&P 500
+Journal of Finance , volume 58 , issue 3 , p. 1301 - 1328 Posted: 2003
+Crossref
+Maximizing degrees of freedom improves generalizability and addresses parsimony and sample size concerns. Regression assumptions Graphic analyses are the most widely used method of assessing assumptions. Testing assumptions must be done for the independent and dependent variables, but also for the variate as well. Estimation techniques Theory should always guide the evaluation of a regression model. Confirmatory specification allows direct testing of a prespecified model. Sequential search increases predictive accuracy, but leaves the researcher with minimal control over the final model. No single method is best
+Regression rules of thumb. Sample size Minimum ratio of observations to variables is 5:1, but the preferred ratio is 20:1 Posted: 2010
+J Armstrong
+How to avoid exploratory research
+Journal of Advertising Research , volume 10 , issue 4 , p. 27 - 30 Posted: 1970
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+548
+ABSTRACT VIEWS
+2,510
+RANK
+115,900
+87 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Electronic Transfer Taxes and the Stock Market: Empirical Evidence from Ghana’s E-Levy
+
+19 Pages Posted: 11 Sep 2025
+
+John Boamah
+
+City University of Hong Kong (CityU), Department of Accountancy, Students; Hong Kong Baptist University (HKBU) – Department of Accountancy and Law; Xiamen University - Wang Yanan Institute for Studies in Economics (WISE)
+
+Ernestina Ohenewaah Denchie
+
+Hong Kong Baptist University (HKBU)
+
+Aurelia Naa Ayikaikor Ayi-Bonte
+
+Hong Kong Baptist University (HKBU)
+
+Date Written: March 01, 2025
+
+Abstract
+
+This paper aims to highlight the correlation between Ghana's Electronic Transfer Levy (E-levy) and the stock market performance of the target firms. Initially, the E-levy aimed to raise GH₵7 billion by taxing electronic transfers exceeding GH₵100 daily at a rate of 1.75%. Following a rate reduction to 1.5%, the revenue target was revised to GH₵4.5 billion. Using a difference-indifferences approach, we find a negative effect on target firm stock prices, persisting around the implementation period. We also find that reducing the levy influences stock prices positively. Our channel test reveals that the levy affects the stock market through transaction volume, with a stronger result for firms with below-average trading volumes. The policy recommendation is to reduce the rate below 0.5%. IMPACT STATEMENT This study provides critical empirical insights into the correlation between Ghana's Electronic Transfer Levy (E-Levy) and the stock market performance of targeted firms, notably fintech companies and banks. Employing a robust difference-indifferences analytical approach, it reveals that the introduction of the levy negatively correlated with stock prices, primarily through reduced trading volumes, particularly affecting firms with lower-than-average trading activities. The research underscores significant market sensitivity to fiscal policy adjustments, highlighting the importance of carefully designing tax frameworks. The findings advocate for policy reconsideration, notably suggesting either cancellation or further reductions in the E-Levy rate to mitigate adverse market responses and enhance financial market stability and investor confidence in Ghana.
+
+Keywords: E-Levy, Mobile Banking, Mobile Money, Difference-in-Differences, Ghana
+
+JEL Classification: G21, G23, H31, H34, H25
+
+Suggested Citation:
+
+Boamah, John and Denchie, Ernestina Ohenewaah and Ayi-Bonte, Aurelia Naa Ayikaikor,
+
+Electronic Transfer Taxes and the Stock Market: Empirical Evidence from Ghana’s E-Levy
+
+(March 01, 2025). Available at SSRN: https://ssrn.com/abstract=5436174 or http://dx.doi.org/10.2139/ssrn.5436174
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+11
+ABSTRACT VIEWS
+120
+PlumX Metrics
+Related eJournals
+
+Emerging Markets: Finance eJournal
+
+Follow
+
+Governance, Incentives & Compensation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

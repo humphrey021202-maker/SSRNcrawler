@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does the Threat of a PCAOB Inspection Mitigate U.S. Institutional Investors’ Home Bias?
+
+73 Pages Posted: 7 Dec 2017 Last revised: 29 Apr 2019
+
+Yue He
+
+Shanghai University of Finance and Economics
+
+Bing Li
+
+City University of Hong Kong (CityU)
+
+Zhenbin Liu
+
+Hong Kong Baptist University
+
+Jeffrey Pittman
+
+Memorial University ; Virginia Tech
+
+Date Written: April 2019
+
+Abstract
+
+We exploit the staggered introduction of the Public Company Accounting Oversight Board’s (PCAOB) international inspection program to examine the role that exogenous shocks to the stringency of public audit oversight plays in shaping U.S. institutional investors’ home bias. Analyzing a sample of foreign firms listed in the U.S., we evaluate whether U.S. institutional investors hold larger equity stakes in these firms if their auditors are exposed to the threat of a PCAOB inspection. In a differences-in-differences framework, we find that U.S. listed foreign firms enjoy an increase in the number and percentage share ownership of U.S. institutional investors after their auditors become subject to PCAOB inspection access. Cross-sectional analysis implies that the benefit of the PCAOB inspection threat in mitigating U.S. institutional investors’ home bias is concentrated in foreign countries without a strict local audit oversight system. In another series of results, our evidence suggests that the presence of strong institutions governing investor protection and disclosure standards are necessary conditions for U.S. institutional investors to value PCAOB inspection access.
+
+Keywords: PCAOB Inspection; Audit Quality; U.S. Institutional Investors; Home Bias
+
+JEL Classification: G18; L51; M4
+
+Suggested Citation:
+
+He, Yue and Li, Bing and Liu, Zhenbin and Pittman, Jeffrey A., Does the Threat of a PCAOB Inspection Mitigate U.S. Institutional Investors’ Home Bias? (April 2019). Available at SSRN: https://ssrn.com/abstract=3079447 or http://dx.doi.org/10.2139/ssrn.3079447
+Download This Paper
+ 
+Open PDF in Browser
+83 References
+R Aggarwal , L Klapper , P D Wysocki
+Portfolio preferences of foreign institutional investors
+Journal of Banking and Finance , volume 29 , issue 12 , p. 2919 - 2946 Posted: 2005
+Crossref
+D Amiram , W H Beaver , W R Landsman , J Zhao
+The effects of credit default swap trading on information asymmetry in syndicated loans
+Journal of Financial Economics , volume 126 , issue 2 , p. 364 - 382 Posted: 2017
+Crossref
+J Ammer , S B Holland , D C Smith , F E Warnock
+US international equity investment
+Journal of Accounting Research , volume 50 , issue 5 , p. 1109 - 1139 Posted: 2012
+Crossref
+S C Andrade , V Chhaochharia
+Information immobility and foreign portfolio investment
+The Review of Financial Studies , volume 23 , issue 6 , p. 2429 - 2463 Posted: 2010
+Crossref
+Load more
+1 Citations
+David Oesch , Felix Urban
+International PCAOB Inspections and Earnings Management Transmission within Multinational Business Groups
+55 Pages · Posted: 9 Nov 2018 · Last revised: 7 Dec 2019 · Downloads: 222
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+389
+ABSTRACT VIEWS
+2,904
+RANK
+174,026
+1 Citations
+83 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

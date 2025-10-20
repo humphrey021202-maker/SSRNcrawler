@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The CCCTB Compatible with National GAAP? What's Next?
+
+Intertax, Vol. 36, Nos. 8/9, pp. 359-370, 2008
+
+12 Pages Posted: 11 Mar 2010 Last revised: 1 Jun 2018
+
+Irma Johanna Mosquera Valderrama
+
+Leiden University, Institute of Tax Law and Economics
+
+Date Written: 2008
+
+Abstract
+
+In the world-business economy, the increase of economic activities by companies results in companies carrying out cross-border transactions at a fast pace around the world. This increase in international activities is to a great extent the result of the economic globalization influencing companies, markets, capitals, labor, etc. A general consequence in cross-border transactions is that the rules of at least two different jurisdictions will be applicable to the international activities of these companies. One of the differences of importance in this article is that some countries have tax rules and accounting rules that coexist separately whereas in other countries tax rules and accounting rules are contained in one single set of rules. The main result is that tax and/or accounting rules might differ within a country and among countries. The outcome of these differences is companies dealing in cross-border transactions with two different jurisdictions and different types of rules. In general, these differences may increase companies’ compliance costs, complexity of business transactions and changes in tax and/or accounting provisions to tackle tax avoidance that might not be so favorable to companies when structuring their businesses at an European and/or international level.
+
+At an European level separate initiatives initiated by the European Commission are taking place. These initiatives aim at reducing the differences in taxation and accounting, at simplifying business within the EU and at increasing transparency and consistency among EU companies, The two main initiatives of importance for this article are (i) the implementation in 2002 of the International Financial Reporting Standards (hereinafter “IFRS”) for listed companies in the European Union (as per 1 January 2005) and (ii) the proposed (since 2001 and revisited in 2007) use (or not) of the IFRS as starting point for the introduction of a Common Consolidated Corporate Tax Base (hereinafter “CCCTB”). The IFRS contains guidelines for the presentation of financial statements by companies as published by the International Accounting Standards Board. The implementation of the IFRS aims at harmonizing or at achieving convergence of the financial statements of listed companies in order to guarantee the protection of investors and creditors.
+
+This article reviews the obstacles to harmonization of tax and accounting in the European Union. Furthermore, the consequences of the technical note presented by the EU Working Group in CCCTB dated September 2007 (including the comments of December 2007) are also analyzed (hereinafter 2007 EU working paper). The 2007 EU working paper provides the type of instrument i.e., Directive, and a description of the main elements for a CCCTB. Moreover, in this paper, the approach suggested to use earlier the IFRS as starting point for the CCCTB has been removed. Instead the use of the national GAAP with adjustments for tax purposes is suggested. With this proposal, the EU changes its approach by means of proposing the use of national GAAP as starting point for a CCCTB instead of the use of the IFRS. The main aim of this article is to evaluate whether with this new change of approach the harmonization of direct taxation is feasible. For this purpose, the use of national GAAP for a CCCTB in light of the differences in tax and accounting in the EU is analyzed.
+
+The structure of this article is as follows: A general overview and historical background to the use of the IFRS in EU accounting and the use of the IFRS as a starting point for the CCCTB are described in paragraph two and three of this article. The fourth item discussed in this article is the contents of the 2007 EU working paper (technical note). The fifth issue analyzed in this article addresses the advantages and disadvantages including obstacles to the feasibility of the proposal of the use of national GAAP for a CCCTB as presented in this technical note. Finally, conclusions are drawn and some points of reflection for future working papers in this subject are provided.
+
+Keywords: common consolidated corporate tax base, tax, harmonization, harmonisation, corporate tax base, GAAP, IFRS, EU
+
+JEL Classification: H25, K34, H87, M41
+
+Suggested Citation:
+
+Mosquera Valderrama, Irma Johanna, The CCCTB Compatible with National GAAP? What's Next? (2008). Intertax, Vol. 36, Nos. 8/9, pp. 359-370, 2008, Available at SSRN: https://ssrn.com/abstract=1568065
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+G Plesko , G Manzon
+For a more recent literature, see G. Plesko, `Estimates of the magnitude of financial and tax reporting conflicts', NBER working paper series
+Tax Law Review , volume 55 , issue 2 , p. 175 - 214 Posted: 2002
+G B Manzon , Jr , G Plesko
+The Relation Between Financial and Tax Reporting Measures of Income Posted: 2001-05
+The approach to book-tax conformity and the consequences of the differences in tax and accounting have been presented in a recent document of the US Department of Treasury. Approaches to Improve the Competitiveness of the US Business Tax System for the 21st Century. Office of Tax Policy, US Department of Treasury Posted: 2007-12-20
+Daniel Shaviro
+The Optimal Relationship Between Taxable Income and Financial Accounting Income: Analysis and a Proposal
+NYU Law and Economics Research Paper No. 07-38, Georgetown Law Journal, Vol. 97 Pages: 66 Posted: 27 Sep 2007 Last revised: 4 Apr 2008
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+42
+ABSTRACT VIEWS
+1,396
+12 References
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+
+Tax Law: International & Comparative Tax eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

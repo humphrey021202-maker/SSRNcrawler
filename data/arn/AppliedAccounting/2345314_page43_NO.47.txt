@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Must Contingent Fee Lawyers Capitalize Litigation Costs?
+
+Tax Notes, Vol. 141, No. 295, 2013
+
+UNC Legal Studies Research Paper No. 2345314
+
+12 Pages Posted: 26 Oct 2013
+
+Gregg D. Polsky
+
+University of Georgia School of Law
+
+R. Crawford
+
+Robinson, Bradshaw & Hinson, P.A.
+
+Date Written: October 21, 2013
+
+Abstract
+
+Lawyers who represent personal injury claimants are typically compensated on a contingent fee basis. In addition, it is becoming increasingly common for plaintiffs’ lawyers involved in other types of litigation, such as patent enforcement, to also use contingent fee arrangements. During the pendency of the litigation, contingent fee lawyers often pay the litigation costs necessary to prosecute the claim. For instance, contingent fee lawyers usually pay court fees, expert witness and consultant fees, deposition and court reporters’ fees, travel costs, and copying costs.
+
+Surprisingly, the tax treatment of these payments remains stubbornly controversial. The issue is whether contingent fee lawyers can immediately deduct litigation costs in the year in which they are incurred or instead must capitalize them. If the costs are capitalized, cost recovery would be accomplished upon conclusion of the case, either through a basis offset against the lawyer’s amount realized or as a bad debt or loss deduction.
+
+The Internal Revenue Service ("IRS") has consistently taken the position that all litigation costs paid by contingent fee lawyers are capitalized, regardless of the technical particularities of the contingent fee agreement. The IRS has thus far prevailed in all of the reported cases on the issue with one notable exception. The exception is a Ninth Circuit case, which concluded that a relatively unusual type of contingent fee agreement — called a "gross fee" contract — allowed the lawyer to immediately deduct costs. After that decision, the IRS stated that it will continue to assert that litigation costs must be capitalized in gross fee contract situations except in the Ninth Circuit.
+
+Despite the IRS’s well-known position on litigation costs and its near-universal success in the courts, a prominent commentator on litigation-related tax issues recently wrote that he believed that "[t]he vast majority of plaintiffs’ law firms (either unwittingly or aggressively) probably do deduct client costs as they pay them, rather than waiting until the case settles." In addition to the controversy over what current law requires, there is controversy over what the law ought to be. Recent legislative proposals would allow all contingent fee litigators to immediately deduct their costs. As might be expected, lobbyists for trial lawyers strongly support these proposals, while lobbyists aligned with common personal injury defendants have announced their opposition.
+
+In this article, we contend that the INDOPCO regulations, promulgated in 2004, now control the issue of whether litigation costs must be capitalized. The INDOPCO regulations establish that, while lawyers who use conventional contingent fee arrangements must capitalize their costs, lawyers who use gross fee contracts can immediately deduct their costs.
+
+We also argue that, while litigation costs incurred under gross fee contracts are immediately deductible under current doctrine, as a policy matter these costs should be capitalized. Thus, we conclude that (i) the Treasury or the IRS should issue prospective-only guidance, as contemplated by the INDOPCO regulations, to require litigation costs incurred under gross fee contracts to be capitalized, and (ii) legislative proposals that allow immediate deductions for litigation costs incurred under contingent fee agreements should be rejected.
+
+Keywords: litigation costs, capitalization, Boccardo, INDOPCO regulations
+
+Suggested Citation:
+
+Polsky, Gregg D. and Crawford, Robert, Must Contingent Fee Lawyers Capitalize Litigation Costs? (October 21, 2013). Tax Notes, Vol. 141, No. 295, 2013, UNC Legal Studies Research Paper No. 2345314, Available at SSRN: https://ssrn.com/abstract=2345314
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+191
+ABSTRACT VIEWS
+6,410
+RANK
+362,814
+PlumX Metrics
+Related eJournals
+
+University of North Carolina Legal Studies Research Paper Series
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

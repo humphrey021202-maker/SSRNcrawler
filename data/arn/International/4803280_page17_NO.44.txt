@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How to Select Targets for Investigations? Evidence from Financial Reporting Enforcement
+
+61 Pages Posted: 9 May 2024 Last revised: 4 Oct 2025
+
+Marius Gros
+
+Niederrhein University of Applied Sciences; Goethe University Frankfurt - Department of Accounting and Auditing
+
+Martin Nienhaus
+
+Ruhr University of Bochum
+
+Christopher Oehler
+
+Ruhr-University Bochum
+
+Alicia Schott
+
+Ruhr University of Bochum
+
+Date Written: September 30, 2025
+
+Abstract
+
+We examine the consequences of different selection mechanisms in financial reporting enforcement by analyzing a proprietary data set of German enforcement investigations, which includes both risk-based and random selection. Leveraging the availability of randomized selection, we first determine the level of misreporting firms in the population at 15.4%. Against this benchmark, we find that risk-based selection uncovers only 4% of all misreporting cases in the population. Applying recent machine learning techniques does not improve detection, suggesting that observable risk indicators of misreporting are limited. Nevertheless, risk-based selection is efficient, with an error detection rate of 61.3% per investigation compared to 14.9% for random selection, while the severity of errors uncovered through random investigations is comparable. Finally, we exploit random selection to identify the causal effects of investigations. We find that investigated firms reduce discretionary accruals, and smaller firms experience significant increases in audit fees. Moreover, investigations of compliant firms lower the likelihood of future misreporting.
+
+
+
+
+Keywords: Enforcement, Selection Mechanism, Financial Reporting
+
+JEL Classification: G14, G18, G38, K22, K42, M41
+
+Suggested Citation:
+
+Gros, Marius F. and Nienhaus, Martin and Oehler, Christopher and Schott, Alicia, How to Select Targets for Investigations? Evidence from Financial Reporting Enforcement (September 30, 2025). Available at SSRN: https://ssrn.com/abstract=4803280
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+116
+ABSTRACT VIEWS
+684
+RANK
+552,835
+52 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

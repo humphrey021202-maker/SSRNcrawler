@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is Risk Disclosure in Banks’ Pillar 3 Reporting Informative? Analyzing Tone Consistency with Annual Reports
+
+54 Pages Posted: 26 Oct 2024
+
+Minyue Dong
+
+University of Lausanne - Faculty of Business and Economics (HEC Lausanne)
+
+Anne Christine d'Arcy
+
+Vienna University of Economics and Business
+
+Michael Rockinger
+
+University of Lausanne - School of Economics and Business Administration (HEC-Lausanne); Centre for Economic Policy Research (CEPR); Swiss Finance Institute
+
+Huajuan Yuan
+
+University of Lausanne - Faculty of Business and Economics (HEC Lausanne)
+
+Abstract
+
+We assess the informativeness of tone in risk disclosure by analyzing tone (in)consistency between two main sources of bank reporting: regulatory reports according to the Pillar 3 framework (hereafter P3) and annual reports according to IFRS. Using a sample of European banks from 2008 to 2021, our results indicate that qualitative risk disclosure in P3 reports is informative for banks’ capital adequacy and can be used as a benchmark to assess the (in)consistent signal in annual reports. If the tone of P3 reports shifts towards optimism, a consistently positive tone in the annual report will enhance the informativeness of risk disclosure in P3. Conversely, if P3 reports lean towards pessimism, an inconsistent optimistic tone in the annual report will lead to an obfuscation effect on P3 informativeness. The significance of above results depends on the P3 standardization in 2015 and the supervision role of the central bank. Our study provides first evidence regarding the asymmetric effects of tone (in)consistency among different channels of risk disclosure in banks’ communications with stakeholders. We conclude that banks' narrative P3 reporting has an incremental effect on its overall informativeness, extending beyond the risk disclosures provided in annual reports.
+
+Keywords: Annual report, Financial institutions, Pillar 3 report, Risk disclosure, Sentiment analysis, Tone consistency
+
+Suggested Citation:
+
+Dong, Minyue and d'Arcy, Anne and Rockinger, Georg Michael and Yuan, Huajuan, Is Risk Disclosure in Banks’ Pillar 3 Reporting Informative? Analyzing Tone Consistency with Annual Reports. Available at SSRN: https://ssrn.com/abstract=5000463 or http://dx.doi.org/10.2139/ssrn.5000463
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+A F Adam-Müller , M H R Erkens
+Risk disclosure noncompliance
+J ACCOUNT PUBLIC POL , volume 39 , issue 3 Posted: 2020
+M E Bagnoli , S G Watts
+Financial reporting and supplemental voluntary disclosures
+J ACCOUNT RES , volume 45 , issue 5 , p. 885 - 913 Posted: 2007
+S P Baginski , E Demers , A Kausar , Y J Yu
+Linguistic tone and the small trader. ACCOUNT ORG SOC 68-69 , p. 21 - 37 Posted: 2018
+B Bassyouny , T Abdelfattah , L Tao
+Narrative disclosure tone: A review and areas for future research
+Journal of International Accounting, Auditing and Taxation , volume 49 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+68
+ABSTRACT VIEWS
+482
+RANK
+785,362
+60 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

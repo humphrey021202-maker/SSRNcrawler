@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Paying More Attention, Paying More Tax? Investor Site Visits and Corporate Tax Avoidance
+
+51 Pages Posted: 20 Jul 2023 Last revised: 28 Oct 2024
+
+Xinyun Zhou
+
+School of Business, University of Wollongong
+
+Liangbo Ma
+
+University of Wollongong, School of Business
+
+Shiguang Ma
+
+University of Wollongong - School of Accounting Economics and Finance
+
+Date Written: July 11, 2023
+
+Abstract
+
+We investigate how investor site visits affect corporate tax avoidance behavior using a sample of Chinese firms from 2012 to 2021. Empirical results indicate that investors’ site visits effectively reduce tax avoidance. We confirm this causal relationship between site visits and reduced tax avoidance by employing instrumental variable and propensity score matching difference-in-differences analyses. Our finding is also robust to alternative measures of tax avoidance and site visits. We identify two mechanisms through which site visits reduce tax avoidance, namely the information acquisition or monitoring mechanism and the earnings management mechanism. Additionally, we conduct cost-benefit analyses of site visits. Using path analyses through a structural equation model, we demonstrate that the reduction in tax avoidance driven by investors’ site visits significantly enhances firm value. Investors also strategically choose target firms to maximize the potential benefits from their site visits. Overall, our results highlight the important economic consequences of site visits as a direct communication between firms and their investors. Our study contributes valuable insights to the literature on site visits and tax avoidance.
+
+Keywords: Site visits, Tax avoidance, Information acquisition, Mechanism, Earnings Management
+
+JEL Classification: G34, M41
+
+Suggested Citation:
+
+Zhou, Xinyun and Ma, Liangbo and Ma, Shiguang, Paying More Attention, Paying More Tax? Investor Site Visits and Corporate Tax Avoidance (July 11, 2023). Available at SSRN: https://ssrn.com/abstract=4506713 or http://dx.doi.org/10.2139/ssrn.4506713
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+M Hanlon , S Heitzman
+A review of tax research
+Journal of Accounting and Economics , volume 50 , issue 2-3 , p. 127 - 178 Posted: 2010
+T Hasan , K John , H Teng , Q Wu
+Creative corporate culture and corporate tax avoidance
+The British Accounting Review Posted: 2023
+L He , L Ma
+Common ownership, corporate social responsibility, and their value implications Posted: 2022
+T Hjelstrom , J P Kallunki , H Nilsson , M Tylaite
+Executives' personal tax behavior and corporate tax avoidance consistency
+European Accounting Review , volume 29 , issue 3 , p. 493 - 520 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+174
+ABSTRACT VIEWS
+799
+RANK
+394,952
+13 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

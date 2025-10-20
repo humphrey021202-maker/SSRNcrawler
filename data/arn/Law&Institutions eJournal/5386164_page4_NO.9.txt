@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Impact of Cash Conversion Cycle On Profitability: An Analysis of FMCG Sector of Pakistan 
+
+55 Pages Posted: 12 Aug 2025
+
+Azhar ul Haque Sario
+
+Independent
+
+Date Written: July 19, 2019
+
+Abstract
+
+This thesis investigates the impact of the cash conversion cycle (CCC) on the profitability of Fast-Moving Consumer Goods (FMCG) companies in Pakistan. The study categorizes firms into small, medium, and large based on their asset size to ensure an unbiased analysis. Using panel data from 14 companies between 2008 and 2017, the research employs a panel regression model. Profitability, the dependent variable, is measured by Return on Assets (ROA), while the independent variables include the cash conversion cycle and its components: average inventory period, average receivable period, and average payable period.
+
+The findings indicate that for small firms, neither the CCC nor its components have a significant impact on profitability. In medium-sized firms, only the CCC shows a significant and inverse relationship with profit. For large FMCG firms, both the average inventory period and the CCC have a negative and significant impact on profitability.
+
+Keywords: Cash Conversion Cycle (CCC), Profitability, FMCG Sector, Pakistan, Return on Assets (ROA), Average Inventory Period (AIP), Average Collection Period (ACP), Average Payment Period (APP), Panel Data, Regression Analysis, Firm Size
+
+JEL Classification: H83, M4, M41
+
+Suggested Citation:
+
+Sario, Azhar ul Haque, Impact of Cash Conversion Cycle On Profitability: An Analysis of FMCG Sector of Pakistan  (July 19, 2019). Available at SSRN: https://ssrn.com/abstract=5386164 or http://dx.doi.org/10.2139/ssrn.5386164
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+B Anna , G Zbigniew
+The Influence of Working Capital Management on the Food Industry Enterprises Profitability
+Journal of Contemporary Economics , volume 5 , issue 4 , p. 68 - 81 Posted: 2011
+O S Ademola
+Working capital management and profitability of selected quoted food and beverages manufacturing firms in Nigeria
+European Journal Of Accounting Auditing and Finance Research , volume 2 , issue 3 , p. 10 - 21 Posted: 2014
+B Bagchi , B Khamrui
+Relationship between Working Capital Management and Profitability: A Study of Selected FMCG Companies in India
+Business and Economics Journal , p. 1 - 11 Posted: 2012
+H Bashir , W Ahmed
+Does efficient working capital management enhance profitability of Pakistani firms?
+Journal of Management and Administrative Sciences Review , volume 2 , issue 6 , p. 715 - 720 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+30
+ABSTRACT VIEWS
+208
+24 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

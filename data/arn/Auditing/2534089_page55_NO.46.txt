@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+An Expert Systems Approach to Substantive Audit Planning
+
+Expert Systems with Applications, 1991, Vol. 3, pp. 27-49
+
+Posted: 6 Dec 2014
+
+J. Efrim Boritz
+
+University of Waterloo - School of Accounting and Finance
+
+Anthony Wensley
+
+J.L.Rotman School of Management; University of Toronto at Mississauga
+
+Date Written: January 1, 1991
+
+Abstract
+
+An audit planning expert system developed by the authors over the last 4 years is described. The system, referred to by the acronym CAPEX (Canadian Audit Planning Expert System), is designed to construct substantive audit program plans using a risk-oriented assertion-based approach.
+
+This paper is divided into four sections. The first section provides some background information about research in this area, introduces the research objectives behind the development of the system, and provides an overview of CAPEX. The second section discusses the knowledge base and the representation of the different types of audit planning knowledge in CAPEX. The third section discusses the validation tests performed on the system. The final section addresses a number of specific problems encountered during system construction and research questions that have been raised by this project.
+
+Keywords: audit planning, expert system devlopment, CAPEX
+
+Suggested Citation:
+
+Boritz, Efrim and Wensley, Anthony, An Expert Systems Approach to Substantive Audit Planning (January 1, 1991). Expert Systems with Applications, 1991, Vol. 3, pp. 27-49, Available at SSRN: https://ssrn.com/abstract=2534089
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,160
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

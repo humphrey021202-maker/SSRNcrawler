@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Dynamic Correlations Among Classes: REIT and Stock Returns
+
+Journal of Real Estate Finance and Economics, Vol. 44, No. 3, 2012
+
+Posted: 22 Feb 2012
+
+Brad Case
+
+Fannie Mae
+
+Yawei Yang
+
+affiliation not provided to SSRN
+
+Yildiray Yildirim
+
+Zicklin School of Business, Baruch College - The City University of New York
+
+Date Written: February 22, 2012
+
+Abstract
+
+We use the Dynamic Conditional Correlation model with Generalized Autoregressive Conditional Heteroskedasticity (DCC-GARCH) developed by Engle (2002) to examine dynamics in the correlation of returns between publicly traded REITs and non-REIT stocks. The results suggest that REIT-stock correlations form three distinct periods. During the first period, ending in August 1991 with the start of the modern REIT era, correlations were high and without trend, never dipping below 59%. During the second period, ending in September 1991 with the inclusion of REITs in broad stock market indexes, correlations declined precipitously to 30%, enabling substantially higher portfolio allocations to both high-return asset classes and therefore higher portfolio returns without increasing portfolio volatility. During the third period, since September 1991, correlations increased steadily but only reached 59% in late 2008. A simple portfolio optimization suggests that asset managers would be willing to pay 20 basis points per year, plus the difference in transaction costs, for the ability to use DCC-GARCH modeling of dynamic correlations in place of rolling 24-month asset correlations.
+
+Keywords: DCC-GARCH, REITs, Volatility, Portfolio optimization, Asset allocation
+
+Suggested Citation:
+
+Case, Bradford and Yang, Yawei and Yildirim, Yildiray, Dynamic Correlations Among Classes: REIT and Stock Returns (February 22, 2012). Journal of Real Estate Finance and Economics, Vol. 44, No. 3, 2012, Available at SSRN: https://ssrn.com/abstract=2009540
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,623
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

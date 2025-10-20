@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CONTINUOUS MONITORING AND ASSESSMENT MECHANISMS IN CYBERSECURITY: BEST PRACTICES FOR SUSTAINED PROTECTION OF CRITICAL ASSETS
+
+12 Pages Posted: 13 Aug 2024
+
+Mercy Ebute
+
+New Mexico Department of Finance and Administration
+
+Date Written: July 31, 2024
+
+Abstract
+
+This research explores the critical role of continuous monitoring and assessment mechanisms in cybersecurity, focusing on best practices for sustained protection of critical assets. In an era of rapidly evolving cyber threats, organizations across all sectors must adopt proactive cybersecurity measures to safeguard sensitive information and maintain operational integrity. This study examines the advantages of continuous monitoring, key assessment mechanisms, and the integration of these approaches to enhance overall security posture. Through analysis of realworld case studies and emerging trends, the research provides practical insights into implementing effective continuous monitoring strategies. The paper also addresses challenges in implementation and offers recommendations for overcoming these obstacles. By highlighting the importance of AI, machine learning, and predictive analytics in future cybersecurity efforts, this study aims to equip organizations with the knowledge to adapt and strengthen their defenses against dynamic cyber threats.
+
+Declaration of Interest
+
+Association of Chartered Certified Accountants, State of New Mexico Department of Finance and administration The Institute of Internal Auditors Certified Fraud Examiners
+
+Suggested Citation:
+
+Ebute, Mercy, CONTINUOUS MONITORING AND ASSESSMENT MECHANISMS IN CYBERSECURITY: BEST PRACTICES FOR SUSTAINED PROTECTION OF CRITICAL ASSETS (July 31, 2024). Available at SSRN: https://ssrn.com/abstract=4912624
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+T Alsadhan , J Park
+Assessing Information Security Continuous Monitoring in the Federal Government
+ECCWS 2022 21 st European Conference on Cyber Warfare and Security Posted: 2022-06
+M Baykara , U Gurturk , R Das
+An overview of monitoring tools for real-time cyberattacks
+Proceedings of the 2018 International Symposium on Digital Forensics and Security , p. 1 - 7 Posted: 2018
+D N Christensen , S D Cramer , C S Glantz , G P Landine , S Eggers , J M Knight
+Technical Guide for Implementing Cybersecurity Continuous Monitoring in the Nuclear Industry Posted: 2021
+G Erol , N Mert
+Real-Time Cyberattack Detection with Offline and Online Learning
+29 th IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN) Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+265
+ABSTRACT VIEWS
+1,005
+RANK
+263,404
+11 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

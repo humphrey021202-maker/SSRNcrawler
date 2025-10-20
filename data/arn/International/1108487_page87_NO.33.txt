@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Global market integration: An alternative measure and its applicatio
+
+Journal of Financial Economics (Forthcoming)
+
+19 Pages Posted: 21 Mar 2008 Last revised: 13 Oct 2024
+
+Kuntara Pukthuanthong
+
+University of Missouri, Columbia
+
+Richard Roll
+
+California Institute of Technology
+
+Date Written: January 10, 2009
+
+Abstract
+
+Global markets seem to be increasingly integrated but there is no well-accepted measure of integration. We show that the correlation across markets is a poor measure; perfectly integrated markets can exhibit weak correlation. We derive a new integration measure based on the explanatory power of a multi-factor model and use it empirically to investigate recent trends in global integration. For most countries, there has been a marked increase in measured integration over the past three decades, but this is not indicated by correlations among country indexes. Published by Elsevier B.V. $ We are grateful for constructive comments from two referees, Rajna Gibson, John Griffin, Astrid Schornick, and participants at the 2009 American Finance Association meetings in San Francisco.
+
+Keywords: global, integration, market
+
+JEL Classification: F02, F30
+
+Suggested Citation:
+
+Pukthuanthong, Kuntara and Roll, Richard W., Global market integration: An alternative measure and its applicatio (January 10, 2009). Journal of Financial Economics (Forthcoming), Available at SSRN: https://ssrn.com/abstract=1108487
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+# Eig
+Posted: 1973
+M Adler , B Dumas
+International portfolio choice and corporation finance: a synthesis
+Journal of Finance , volume 38 , p. 925 - 984 Posted: 1983
+C Aydemir
+Why are international equity market correlations low? Unpublished Working Paper Posted: 2004
+G Bekaert , C Harvey
+Time-varying world market integration
+Journal of Finance , volume 50 , p. 403 - 444 Posted: 1995
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+263
+ABSTRACT VIEWS
+6,266
+RANK
+265,571
+131 Citations
+26 References
+PlumX Metrics
+Related eJournals
+
+American Finance Association Meetings (AFA)
+
+Follow
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

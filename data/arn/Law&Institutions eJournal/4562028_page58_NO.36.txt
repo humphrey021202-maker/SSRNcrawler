@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Green Risk in Europe
+
+University of Milan Bicocca Department of Economics, Management and Statistics Working Paper No. 526
+
+58 Pages Posted: 7 Sep 2023 Last revised: 23 May 2024
+
+Nuno Cassola
+
+University of Milan Bicocca - CefES; University of Lisbon - CEMAPRE
+
+Claudio Morana
+
+Università di Milano Bicocca; Università degli Studi di Milano-Bicocca - Department of Economics, Management and Statistics (DEMS); Università degli Studi di Milano-Bicocca - Center for European Studies (CefES); Center for Economic Research on Pensions and Welfare Policies (CeRP); Rimini Center for Economic Analysis - Europe ETS; Rimini Center for Economic Analysis - HQ
+
+Elisa Ossola
+
+Milano-Bicocca University
+
+Date Written: September 10, 2023
+
+Abstract
+
+Climate change poses serious economic, financial, and social challenges to humanity, and green transition policies are now actively implemented in many industrialized countries. Whether financial markets price climate risks is critical to ensuring that the necessary funding flows into environmentally sound projects and that stranded assets risk is adequately managed. In this paper, we assess climate risks for the European stock market. We show that measures of returns spreads of green vs. brown investment might reflect climate risks and assets' exposition to systematic macro-financial risk factors. These latter factors should be filtered out to measure climate risks accurately. We show that climate risks are priced in the European stock market by focusing on aggregate, industry, and company-level data. We propose a market-based green rating procedure to evaluate non-transparent and non-disclosing companies for which ESG information is unavailable. We illustrate its implementation using a sample of over 800 non-transparent firms.
+
+Keywords: Climate risk, environmental disclosure, macro-finance interface, unconditional factor models, asset pricing, European Union
+
+JEL Classification: G01; G11; G12; Q54
+
+Suggested Citation:
+
+Cassola, Nuno and Morana, Claudio and Ossola, Elisa, Green Risk in Europe (September 10, 2023). University of Milan Bicocca Department of Economics, Management and Statistics Working Paper No. 526, Available at SSRN: https://ssrn.com/abstract=4562028 or http://dx.doi.org/10.2139/ssrn.4562028
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+M Carhart
+On the persistence of mutual fund performance
+Journal of Finance , volume 52 , p. 57 - 82 Posted: 1997
+E Chini , M Rubin
+Time-varying environmental betas and latent green factors Posted: 2022
+Eu
+Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment and amending Regulation (EU) Posted: 2019
+R F Engle , S Giglio , B Kelly , H Lee , J Stroebel
+Hedging climate change news
+The Review of Financial Studies , volume 33 , p. 1184 - 1216 Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+346
+ABSTRACT VIEWS
+1,409
+RANK
+198,235
+25 References
+PlumX Metrics
+Related eJournals
+
+University of Milan Bicocca Department of Economics, Management & Statistics Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

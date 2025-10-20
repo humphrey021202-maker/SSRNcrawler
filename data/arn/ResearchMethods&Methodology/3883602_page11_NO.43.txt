@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Diligence, objectivity, quality and accuracy
+
+Journal of Accounting Literature (DOI: 10.1108/JAL-02-2023-0031)
+
+30 Pages Posted: 12 Jul 2021 Last revised: 11 Oct 2023
+
+Rajeev R. Bhattacharya
+
+Washington Finance and Economics
+
+Mahendra Gupta
+
+Washington University, St. Louis
+
+Date Written: December 29, 2023
+
+Abstract
+
+Purpose. We provide a general framework of behavior under asymmetric information and develop indices of diligence, objectivity, and quality by an analyst and analyst firm about a studied firm, and relate them to the accuracy of its forecasts. We test the associations of these indices with time.
+
+Methodology. The test of Public Information versus Non-Public Information Models provides the index of diligence, which equals one minus the p-value of the Hausman Specification Test of Ordinary Least Squares (OLS) versus Two Stage Least Squares (2SLS). The test of Objectivity versus Non-Objectivity Models provides the index of objectivity, which equals the p-value of the Wald Test of zero coefficients versus non-zero coefficients in 2SLS regression of earnings forecast residual. The exponent of the negative of the standard deviation of the residuals of the analyst forecast regression equation provides the index of analytical quality. Each index asymptotically equals the Bayesian posterior probability, by the analyst and analyst firm about the studied firm, of the relevant behavior.
+
+Findings. We find that ex post accuracy is a statistically and economically significant increasing function of the product of the indices of diligence, objectivity, and quality by the analyst and analyst firm about the studied firm, which asymptotically equals the Bayesian posterior joint probability of diligence, objectivity, and quality. We find that diligence, objectivity, quality, and accuracy did not improve with time.
+
+Originality. There has been no previous work done on the systematic and objective characterization and joint analysis of diligence, objectivity, and quality of analyst forecasts by an analyst and analyst firm for a studied firm, and their relation with accuracy, and our paper puts together the frontiers of various disciplines.
+
+Keywords: Asymmetric information, Analyst forecasts, Management guidance, Earnings, Diligence, Objectivity, Quality, Accuracy, Hausman Specification Test, Wald Test, Bayesian, Big Data in finance Paper type Research paper JEL Classification -C23, C26, G12, G14, G24, M41
+
+JEL Classification: G12; G14; G24; C23; C26; M41.
+
+Suggested Citation:
+
+Bhattacharya, Rajeev and Gupta, Mahendra R., Diligence, objectivity, quality and accuracy (December 29, 2023). Journal of Accounting Literature (DOI: 10.1108/JAL-02-2023-0031), Available at SSRN: https://ssrn.com/abstract=3883602 or http://dx.doi.org/10.2139/ssrn.3883602
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+G Akerlof
+The market for 'lemons': quality uncertainty and the market mechanism
+Quarterly Journal of Economics , volume 84 , issue 3 , p. 488 - 500 Posted: 1970
+A Alford , P Berger
+A simultaneous equations analysis of forecast accuracy, analyst following, and trading volume
+Journal of Accounting, Auditing and Finance , volume 14 , issue 3 , p. 219 - 240 Posted: 1999
+H Aman , W Beekes , H Berkman , M Bohmann , M Bradbury , E Chapple , M Chang , V Clout , R Faff , J Han , D Hillier , A Hodgson , B Howeison , J Jona , M Linnenluecke , T Loncan , B Mccredie , D Michayluk , N Mroczkowski , Z Pan , V Patel , E Podolski , N Soderstrom , T Smith , G Tanewski , K Walsh , M Wee , S Wright
+Responsible science: Celebrating the 50-year legacy of Ball and Brown (1968) using a registration-based framework
+Pacific-Basin Finance Journal , volume 56 , p. 129 - 150 Posted: 2019
+K Arrow
+Essays in the Theory of Risk Bearing Posted: 1974
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+261
+ABSTRACT VIEWS
+2,256
+RANK
+267,591
+12 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

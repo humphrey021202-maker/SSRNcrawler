@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Ethics of Generative AI in Tax Practice
+
+Tax Notes Federal, July 31, 2023, pp. 785-793
+
+10 Pages Posted: 29 Aug 2023
+
+Benjamin Alarie
+
+University of Toronto - Faculty of Law; Vector Institute for Artificial Intelligence
+
+Rory McCreight
+
+Blue J Legal
+
+Date Written: July 31, 2023
+
+Abstract
+
+The integration of generative artificial intelligence is beginning to have a profound effect on various industries, including knowledge industries such as law and accounting. Professional services firms are capitalizing on AI technologies for a host of applications, such as tax research, memo drafting, contract analysis, due diligence, document review, predictive analytics, and the list goes on. Recently, AI’s sharply increasing competence, most evident with OpenAI’s GPT-4, has made it a valuable tool for firms looking to improve their operations and deliver more effective and efficient tax planning and advisory services. In-house tax departments are starting to explore using generative AI to assist them in their work as well.
+
+Despite the power of these new tools, their implementation by professional services firms has been highly heterogeneous, ranging from strident bans to enthusiastic interest, adoption, and even direct investment in their development. The potential equity and efficiency gains of AI in the legal field are extraordinarily promising. Still, the adoption of AI tools by professional services firms raises critical concerns regarding data privacy and ethical usage.
+
+This article provides an in-depth exploration of the ethical concerns arising from the proliferation of generative AI tools used for legal research and, especially, for tax research. We examine the challenges concerning the quality and accuracy of output, the potential for biased answers, the lack of verifiability, liability considerations, and privacy risks. We also explore the regulatory measures, technological advancements, and professional solutions being pursued to address these challenges, along with practical recommendations to help tax professionals effectively mitigate risk and safely use AI tools in their work.
+
+Keywords: ChatGPT, OpenAI, generative AI, artificial intelligence
+
+JEL Classification: H0
+
+Suggested Citation:
+
+Alarie, Benjamin and McCreight, Rory, The Ethics of Generative AI in Tax Practice (July 31, 2023). Tax Notes Federal, July 31, 2023, pp. 785-793, Available at SSRN: https://ssrn.com/abstract=4541369
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+874
+ABSTRACT VIEWS
+2,756
+RANK
+63,053
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

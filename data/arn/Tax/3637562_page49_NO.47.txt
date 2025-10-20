@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impacts of Taxation on Capital Structure in BRICS Countries
+
+Journal of Corporate Finance Research, Vol. 13, No. 3, pp. 94-110 (2019)
+
+17 Pages Posted: 21 Jul 2020
+
+Rajesh Chakrabarti
+
+O. P. Jindal Global University
+
+Alexander Gruzin
+
+National Research University Higher School of Economics,
+
+Date Written: 2019
+
+Abstract
+
+Capital structure is an indicator of the value of a firm and is a key performance indicator concerning how efficiently a company operates. Debt and leverage influence a company’s investment risks and influence the rate of return required by investors. Therefore, decisions affecting capital structure choice have crucial long-term effects.
+
+The aim of this study is to determine the effects of corporate tax rates on capital structure in public nonfinancial companies based in BRICS countries. The specific object of our analysis is the evaluation of financial leverage as a proportion of debt financing based on the amount of total assets. This analysis is carried out on a sample of BRICS companies over the period from 2010 to 2015.
+
+To conduct this research, panel data regression models are employed, including the fixed effects (FE), random effects (RE) and generalised method of moments (GMM) models. Each BRICS country is analysed separately in order to avoid biased estimates due to a host of significant country-specific differences.
+
+The results presented herein indicate that effective tax rate is statistically significant, but the effect of taxation varies across countries. For example, effective tax rate is an important capital structure determinant, and it is significant across all countries. However in analytical terms, this investigation reveals that the most suitable regression model for the majority of BRICS countries is the fixed effects method, although for Russia the most appropriate model is the random effects method. To summarise, three separate hypotheses regarding the interplay of taxation and capital structure have.
+
+This research crucially serves to demonstrate facets of the complexity of the economic situation in the key economies of BRICS countries. The generally-supported hypothesis implies that the higher the corporate tax rate, the more tax benefits the company receives from using a tax shield. The results of this study indicate that contrary to most existing literature, effective tax rate has a negative relationship with the capital structure in Russia, India and South Africa. Moreover, various existing research studies in the field have been validated, and individual aspects of our results serve to alternatively validate the tradeoff and the pecking order theories. The conclusions presented herein regarding the complexities of the interplay between economic indicators between BRICS countries will be essential information in the commercial and academic spheres and anyone concerned with emerging economies.
+
+Keywords: financial leverage, capital structure, tax shield, effective tax rate, return on assets, depreciation, BRICS
+
+JEL Classification: G21
+
+Suggested Citation:
+
+Chakrabarti, Rajesh and Gruzin, Alexander, The Impacts of Taxation on Capital Structure in BRICS Countries (2019). Journal of Corporate Finance Research, Vol. 13, No. 3, pp. 94-110 (2019), Available at SSRN: https://ssrn.com/abstract=3637562
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+F Modigliani , M H Miller
+The cost of capital, corporation finance and the theory of investment // The American economic review , p. 261 - 297
+F Modigliani , M H Miller
+Corporate income taxes and the cost of capital: a correction //The American economic review , p. 433 - 443
+John R Graham
+Taxes and corporate finance: A review // Review of Financial Studies
+D Dhaliwal , R Trezevant , S Wang , Taxes
+Investment-Related Tax Shields and Capital Structure// Journal of the American Taxation Association
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+140
+ABSTRACT VIEWS
+1,090
+RANK
+475,660
+45 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

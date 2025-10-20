@@ -1,0 +1,146 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting for Cryptocurrencies
+
+Georgia Tech Scheller College of Business Research Paper No. 4294133
+
+Journal of Accounting Research, Forthcoming
+
+45 Pages Posted: 11 Dec 2022 Last revised: 31 Jul 2025
+
+Chelsea M. Anderson
+
+University of Cincinnati - Department of Accounting
+
+Vivian W. Fang
+
+European Corporate Governance Institute (ECGI); Indiana University
+
+James Moon
+
+Georgia Institute of Technology - Scheller College of Business
+
+Jonathan E. Shipman
+
+University of Arkansas
+
+Date Written: December 5, 2022
+
+Abstract
+
+This paper explores U.S. public firms’ cryptocurrency holdings and accounting practices from 2013 to 2022 against the backdrop of the recently enacted crypto accounting rule, ASU 2023-08. Descriptive analyses suggest exponential growth in corporate crypto holdings and significant variation in crypto accounting practices, underscoring the rule’s necessity. Hypothesis tests using the pre-rule data reveal three insights with direct relevance to the rule. First, firms appear to view crypto assets more akin to investments than intangible assets, consistent with the rule’s mandate of the fair value model. Second, Big 4 auditors steer firms towards the impairment model and less detailed presentation choices. This conservative approach is unlikely to meet the new rule’s goal of providing the most decision-useful information. Third, increased liquidity of crypto markets prompts the use of the fair value model and more detailed presentation, consistent with the rule’s focus on more actively traded tokens. However, within our sample, we find some evidence consistent with fair value reporting increasing stock return volatility and no evidence that it enhances earnings informativeness.
+
+Keywords: Cryptocurrency, Liquidity, ASU 2023-08, Fair Value Model, Big 4 Auditors
+
+JEL Classification: M40, M41, M42, M48
+
+Suggested Citation:
+
+Anderson, Chelsea M. and Fang, Vivian W. and Moon, James and Shipman, Jonathan E., Accounting for Cryptocurrencies (December 5, 2022). Georgia Tech Scheller College of Business Research Paper No. 4294133, Journal of Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4294133 or http://dx.doi.org/10.2139/ssrn.4294133
+Download This Paper
+ 
+Open PDF in Browser
+54 References
+Accounting for Virtual Currencies
+Accounting Standards Board of Japan (ASBJ) Posted: 2018
+F Allen , E Carletti
+Mark-to-Market Accounting and Liquidity Pricing
+Journal of Accounting and Economics , volume 45 , p. 358 - 378 Posted: 2008
+Accounting for and Auditing of Digital Assets Posted: 2019
+AICPA Financial Reporting Executive Committee Response to FASB Agenda Consultation Invitation to Comment Posted: 2021
+Load more
+9 Citations
+Nurcan BULUT , İbrahim KARAASLAN
+KRİPTO PARALARIN MUHASEBELEŞTİRİLMESİNE İLİŞKİN YAKLAŞIMLAR, TARTIŞMALAR VE ÖNERİLER
+Turkish Business Journal , volume 4 , issue 8 , p. 101 Posted: 2023
+Crossref
+Kerem Sarıoğlu , Ceren Özveren
+KRİPTO PARALARIN FİNANSAL TABLOLARDA RAPORLANMASI
+Anadolu Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi , volume 25 , issue 1 , p. 354 Posted: 2024
+Crossref
+Thomas Bourveau , Janja Brendel , Jordan Schoenfeld
+Decentralized Finance (DeFi) assurance: early evidence
+Review of Accounting Studies , volume 29 , issue 3 , p. 2209 Posted: 2024
+Crossref
+Namryoung Lee
+Joint Impact of Market Volatility and Cryptocurrency Holdings on Corporate Liquidity: A Comparative Analysis of Cryptocurrency Exchanges and Other Firms
+Journal of Risk and Financial Management , volume 17 , issue 9 , p. 406 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,928
+ABSTRACT VIEWS
+7,761
+RANK
+19,762
+9 Citations
+54 References
+PlumX Metrics
+Related eJournals
+
+Georgia Tech Scheller College of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

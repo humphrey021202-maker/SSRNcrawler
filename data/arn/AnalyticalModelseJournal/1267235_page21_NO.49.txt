@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Determinants and Information Content of the Forward-looking Statements in Corporate Filings - A Naive Bayesian Machine Learning Approach
+
+AAA 2009 Financial Accounting and Reporting Section (FARS) Paper
+
+57 Pages Posted: 13 Sep 2008
+
+Feng Li
+
+Shanghai Advanced Institute of Finance, Shanghai Jiaotong University
+
+Date Written: September 12, 2008
+
+Abstract
+
+This paper examines the tone and content of the forward-looking statements (FLS) in corporate 10-K and 10-Q filings using a Naive Bayesian machine learning algorithm. I first manually categorize 30,000 sentences of randomly selected FLS extracted from the MD&As along two dimensions: (1) tone (i.e., positive versus negative tone); and (2) content (i.e., profitability, operations, and liquidity etc.). These manually coded sentences are then used as training data in a Naive Bayesian machine learning algorithm to classify the tone and content of about 13 million forward-looking statements from more than 140,000 corporate 10-K and 10-Q MD&As between 1994 and 2007.
+
+I find that firms with better current performance, lower accruals, smaller size, lower market-to-book ratio, and less return volatility tend to have more positive forward-looking statements in MD&As. The average tone of the forward-looking statements in a firm's MD&A is positively associated with future earnings and liquidity, even after controlling for other determinants of future performance and there is no systematic change in the information content of MD&As over time. Finally, the evidence indicates that financial analysts do not fully understand the information content of the MD&As in making their forecasts.
+
+Keywords: MD&A, Information content, Machine learning
+
+JEL Classification: G12, M41, M45, G29, G38
+
+Suggested Citation:
+
+Li, Feng, The Determinants and Information Content of the Forward-looking Statements in Corporate Filings - A Naive Bayesian Machine Learning Approach (September 12, 2008). AAA 2009 Financial Accounting and Reporting Section (FARS) Paper, Available at SSRN: https://ssrn.com/abstract=1267235 or http://dx.doi.org/10.2139/ssrn.1267235
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+Murray Z. Frank , Werner Antweiler
+Is All that Talk Just Noise? The Information Content of Internet Stock Message Boards
+AFA 2002 Atlanta Meetings, Sauder School of Business Working Paper Pages: 48 Posted: 8 Sep 2001
+Download PDF  Add Paper to My Library
+Stephen M Bainbridge
+A Complete Guide to Sarbanes-Oxley: Understanding How Sarbanes-Oxley Affects Your Business Posted: 2007
+Orie E Barron , O Charles , Terrence B Kile , O&apos;keefe
+MD&A quality as measured by the SEC and analysts' earning forecasts
+Contemporary Accounting Research , volume 16 , p. 75 - 109 Posted: 1999
+Crossref
+Richrad E Bellman
+Adaptive Control Processes Posted: 1961
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,705
+ABSTRACT VIEWS
+9,487
+RANK
+23,879
+3 Citations
+9 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Giving Content to Investor Sentiment: The Role of Media in the Stock Market
+
+By Paul C. Tetlock
+
+More than Words: Quantifying Language to Measure Firms' Fundamentals
+
+By Paul C. Tetlock, Maytal Saar-tsechansky, ...
+
+Is All that Talk Just Noise? The Information Content of Internet Stock Message Boards
+
+By Murray Z. Frank and Werner Antweiler
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

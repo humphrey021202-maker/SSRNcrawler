@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Changes in Lending Practices and Borrower Reporting Quality: Evidence from Chinese State Bank Privatizations
+
+66 Pages Posted: 7 Mar 2016 Last revised: 12 Feb 2018
+
+Deqiu Chen
+
+University of International Business and Economics
+
+Xuejiao Liu
+
+University of International Business and Economics
+
+Xiumin Martin
+
+Washington University in Saint Louis - Olin School of Business
+
+Sugata Roychowdhury
+
+Northwestern University Kellogg School of Management
+
+Date Written: January 21, 2018
+
+Abstract
+
+How do developments at lending institutions that alter the way they grant and monitor loans influence their borrowers’ financial reporting quality (FRQ)? We examine this question by investigating the influence that privatizations of Chinese state banks (CSBs) had on the quality of their borrowers’ financial statements. Using a difference-in-difference research design which compares changes in CSBs that issue Initial Public Offerings (IPOs) to those that do not, we find that bank-lending terms, including loan maturity, guarantee requirement, and interest spread, become more sensitive to borrowers’ return-on-assets (ROA) after a bank’s IPO. We also find that pursuant to the IPOs by their lending banks, various measures of borrowers’ FRQ improve significantly. Further, the increase in FRQ is more pronounced for borrowers from those IPO-issuing CSBs whose loan terms exhibit a larger increase in sensitivity to borrowers’ FRQ. These results suggest that post-privatization: (1) CSBs increase their reliance on borrowers’ operating performance for setting loan terms; (2) this increased reliance contributes to an improvement in the quality of the financial statements that provide the performance measures. Cross-sectional analysis reveals that the increases in sensitivity of loan terms to borrower performance, as well as borrowers’ FRQ are more pronounced for IPO-issuing CSBs experiencing a greater increase in board financial expertise or a greater decline in political connections following their IPOs.
+
+Keywords: Privatization, Chinese State Banks, state bank IPOs, IPOs, lending practices, loan terms, financial reporting quality, earnings quality, borrower performance, political control, governance
+
+JEL Classification: G1, G15, G18, G2, G21, G28, G3, G32, G38, M4, M41
+
+Suggested Citation:
+
+Chen, Deqiu and Liu, Xuejiao and Martin, Xiumin and Roychowdhury, Sugata, Changes in Lending Practices and Borrower Reporting Quality: Evidence from Chinese State Bank Privatizations (January 21, 2018). Available at SSRN: https://ssrn.com/abstract=2740919 or http://dx.doi.org/10.2139/ssrn.2740919
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A K Lo
+Do declines in bank health affect borrowers' voluntary disclosures? Evidence from international propagation of banking shocks
+Journal of Accounting Research , volume 52 , issue 2 , p. 541 - 581 Posted: 2014
+Crossref
+T Luo , J Xue , H Zhang
+The effect of the new accounting standards on value relevance of accounting information
+China Accounting Review , volume 6 , issue 2 , p. 129 - 140 Posted: 2008
+X Martin , S Roychowdhury
+Do financial market developments influence accounting practices? Credit default swaps and borrowers‫׳‬ reporting conservatism
+Journal of Accounting and Economics , volume 59 , issue 1 , p. 80 - 104 Posted: 2015
+Crossref
+Michael Manove , Jorge Padilla , Marco Pagano
+Collateral vs. Project Screening: A Model of Lazy Banks
+RAND Journal of Economics, Vol. 32, No. 4, Winter, 2001, CSEF WORKING PAPER No. 10 Pages: 22 Posted: 1 Dec 1998 Last revised: 30 Dec 2010
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+263
+ABSTRACT VIEWS
+2,026
+RANK
+265,489
+31 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

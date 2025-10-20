@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information acquisition in investment decisions
+
+43 Pages Posted: 1 May 2025
+
+Samuel C. A. Pereira
+
+Universidade do Porto - Faculdade de Economia (FEP)
+
+Date Written: November 10, 2022
+
+Abstract
+
+This paper studies a capital budgeting model in which a manager is not a priori informed about the project's profitability but has to incur a cost to learn it. If the cost of information is high, inducing information acquisition reduces underinvestment and increases informational rents relative to when the manager is a priori informed about the project profitability. If the cost of information is small, deterring information acquisition is costly because it is necessary to prevent the manager from clandestinely gathering information to reduce his effort and deliver only the minimum cash flow required. In projects more dependent on effort, there is a cost of information cut-off above (below) which the principal prefers to offer a contract that deters (induces) information acquisition. In projects more dependent on specific knowledge, such a cut-off does not exist when the probability of the project being profitable is high. In this case, the principal prefers to accept the project without information instead of inducing information acquisition to prevent a type I error.
+
+Keywords: information acquisition, moral hazard, adverse selection, information accuracy, information precision JEL Classication numbers: M41, D82
+
+Suggested Citation:
+
+Pereira, Samuel C. A., Information acquisition in investment decisions (November 10, 2022). Available at SSRN: https://ssrn.com/abstract=5194208 or http://dx.doi.org/10.2139/ssrn.5194208
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+R Antle , G Eppen
+Credit rationing and organizational slack in capital budgeting
+Management Science , volume 31 , issue 2 , p. 162 - 174 Posted: 1985
+A Arya , J Fellingham , J Glover , K Sivaramakrishnan
+Capital budgeting, the hold-up problem, and information system design
+Management Science , volume 46 , issue 2 , p. 205 - 216 Posted: 2000
+A Arya , B Mittendorf , R Ramanan
+In defense of limited manufacturing cost control: Disciplining acquisition of private information by suppliers
+The Accounting Review , volume 97 , issue 1 , p. 29 - 49 Posted: 2022
+T Baldenius
+Delegated investment decisions and private benets of control
+The Accounting Review , volume 78 , issue 4 , p. 909 - 930 Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+34
+ABSTRACT VIEWS
+183
+25 References
+PlumX Metrics
+Related eJournals
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

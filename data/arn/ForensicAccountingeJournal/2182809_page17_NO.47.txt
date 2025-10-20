@@ -1,0 +1,100 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Fraud Dynamics and Controls in Organizations
+
+Accounting, Organizations and Society, Forthcoming
+
+Posted: 30 Nov 2012
+
+Jon S. Davis
+
+University of Illinois at Urbana-Champaign - Department of Accountancy
+
+Heather L. Pesch
+
+Oregon State University
+
+Date Written: July 1, 2012
+
+Abstract
+
+This paper develops an agent-based model to examine the emergent dynamic characteristics of fraud in organizations. In the model, individual heterogeneous agents, each of whom can have motive and opportunity to commit fraud and a pro-fraud attitude, interact with each other. This interaction provides a mechanism for cultural transmission through which attitudes regarding fraud can spread. Our benchmark analysis identifies two classes of organizations. In one class, we observe fraud tending toward a stable level. In the other class, fraud dynamics are characterized by extreme behaviors; organizations with mostly honest behavior suddenly change their state to mostly fraudulent behavior and vice versa. These changes seem to occur randomly over time. We then modify our model to examine the effects of various mechanisms thought to impact fraud in organizations. Each of these mechanisms has different impacts on the two classes of organizations in our benchmark model, with some mechanisms being more effective in organizations exhibiting stable levels of fraud and other mechanisms being more effective in organizations exhibiting unstable extreme behavior. Our analysis and results have general implications for designing programs aimed at preventing fraud and for fraud risk assessment within the audit context.
+
+Keywords: Agent-based modeling, fraud, internal controls, dynamics
+
+JEL Classification: M40, C61, H32, C63, D23, K42, L29
+
+Suggested Citation:
+
+Davis, Jon S. and Pesch, Heather L., Fraud Dynamics and Controls in Organizations (July 1, 2012). Accounting, Organizations and Society, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2182809
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,825
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

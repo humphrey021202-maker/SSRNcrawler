@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Debt Concentration Depend on the Risk-Taking Incentives in CEO Compensation?
+
+57 Pages Posted: 8 Jul 2016 Last revised: 9 Feb 2018
+
+Paula Castro
+
+Universidad de León
+
+Kevin Keasey
+
+University of Leeds - Division of Accounting and Finance
+
+Borja Amor-Tapia
+
+Universidad de León
+
+Maria T. Tascón
+
+Universidad de León
+
+Francesco Vallascas
+
+Durham University
+
+Date Written: February 9, 2018
+
+Abstract
+
+Coordination problems amongst creditors are reduced when a firm’s debt structure is concentrated in fewer debt types. Using a sample of US non-financial firms, we show that an increase in risk-taking incentives in CEO pay is associated with a greater debt concentration by debt type. This result holds in various settings that account for endogeneity and is primarily driven by pay incentives embedded in vested options that are expected to favor business choices with more immediate negative effects on debtholders’ wealth. Further, our findings are stronger for firms with a higher default risk where coordinated efforts amongst creditors become more pressing. A final test documents that a more concentrated debt structure reduces the negative influence of CEO risk-taking incentives on debtholder wealth thus highlighting the advantages of lower coordination problems amongst creditors.
+
+Keywords: Debt Concentration; Executive Compensation; Asset Substitution; Corporate Governance
+
+JEL Classification: G30, G32 J33, M12
+
+Suggested Citation:
+
+Castro, Paula and Keasey, Kevin and Amor-Tapia, Borja and Tascon, Maria Teresa and Vallascas, Francesco, Does Debt Concentration Depend on the Risk-Taking Incentives in CEO Compensation? (February 9, 2018). Available at SSRN: https://ssrn.com/abstract=2805004 or http://dx.doi.org/10.2139/ssrn.2805004
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+A
+IV: First Stage Regression This table reports the first stage regression of the instrumental variables estimation based on the Tobit methodology on the relation between the sensitivities of CEOs' compensation (LNVEGA and LNDELTA) and the instrumental variables controlling for firm and CEO characteristics, industry dummies (based on Fama-French 49) and year dummies and for the potential endogenetiy of equity-based incentives
+Endogeneity Analysis: First Stage Regression Table A
+In columns (1) and (2) we use as instruments: CASH (cash from assets-in-place scaled by total assets), SGRTH (the annual growth rate of sales) and TAX_DUM (dummy variable equal to one if a firm has a tax-loss carry-forward in any of the last three years). The set of controls include LEVERAGE (total debt over total assets), SIZE (logarithm of total assets measured in millions US$), MARKET_BOOK (market value of equity plus total debt plus preferred stock liquidating value minus deferred taxes and investment tax credit over total assets), PROFITABILITY (operating income before depreciation over total assets), TANGIBILITY (net property, plant, and equipment over total assets), DIVIDEND_PAYER (a dummy equal to one if a firm pays common stock dividends), CF_VOL (the standard deviation of operating cash flows from operations calculated over the 3 year period before the observation year over total assets), R&D (research and development expenses over total assets), UNRATED (a dummy equal to one if a firm has not a S&P rating on long-term debt, and zero otherwise), REG_DUM (a dummy equal to one for regulated firms defined as firms with a SIC code between 4,900 and 4,939), FIRM_AGE (the log transformation of one plus the number of years since the firm was added to the Compustat database), CEO_SHARES (number of shares owned by the CEO scaled by total shares outstanding) and PAYSLICE (the percentage of the total compensation to the top five executives that goes to the CEO)
+the dependent variable is the sensitivities of CEOs' compensation to stock return volatility (LNVEGA), while in columns (2) and (4) it is the sensitivity of CEO compensation to changes (in percent) to stock prices (LNDELTA)
+A.7. Debt Concentration, Maturity and Leverage Table A.VI: Debt Concentration, Debt Maturity, Leverage and CEO Risk-Taking Incentives
+UNRATED (a dummy equal to one if a firm does not have a S&P rating on long-term debt, and zero otherwise), REG_DUM (a dummy equal to one for regulated firms defined as firms with SIC code is between 4,900 and 4,939), FIRM_AGE (the log transformation of one plus the number of years since the firm was added to the database Compustat), CEO_SHARES (number of shares owned by the CEO scaled by total shares outstanding) and PAYSLICE (the percentage of the total compensation to the top five executives that goes to the CEO). The debt maturity equation include as specific controls not included in debt concentration regression ASSET_MAT (the book valueweighted average of the maturities of property plant and equipment and current assets), SIZE2 (the squared value of SIZE), TERM (yield on 10-year government bonds subtracted from the yield on 6-month government bonds at the fiscal year end), ABNEARN (a measure of abnormal earnings defined by earnings in year t+1 minus earnings in year t over the share price multiplied by outstanding shares in year t), STD_DEV (the standard deviation of asset returns computed as the monthly stock return standard deviation during the fiscal year multiplied by the ratio of the market value of equity to the market value of assets) and Z SCORE_DUM (a measure of distress risk based on Altman´s (1977) Z-score, equals one if Altman's Z-score is greater than 1.81, and zero otherwise). The set of control variables in the leverage equation not included in the first two equations consists of LIQUIDITY (Current assets scaled by current liabilities), NOL_DUM (a dummy equal to one if a firm has an operating loss carried forward and zero otherwise) and ITC_DUM (a dummy equal to one if the firm has an investment tax credit and zero otherwise)
+This Table reports the empirical results on the relation between the degree of debt concentration, measured via HHI, and the sensitivities of CEOs compensation to stock return volatility (LNVEGA), controlling for the sensitivity of compensation to changes (in percent) to stock prices (LNDELTA), based on a system of three Tobit equations allowing joint determination of the debt concentration equation (1)
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+258
+ABSTRACT VIEWS
+2,076
+RANK
+270,833
+3 Citations
+4 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

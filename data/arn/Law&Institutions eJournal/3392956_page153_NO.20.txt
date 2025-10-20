@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Acquirer Overvaluation and Stock Payment in M&A Transactions: What Explains the Spurious Correlation?
+
+52 Pages Posted: 10 Jun 2019
+
+Eric de Bodt
+
+NHH
+
+Jean-Gabriel Cousin
+
+Univ. Lille, ULR 4112 - LUMEN
+
+Micah S. Officer
+
+Loyola Marymount University - Department of Finance; European Corporate Governance Institute (ECGI)
+
+Date Written: May 14, 2019
+
+Abstract
+
+The widely cited empirical relation between equity misvaluation and the choice of merger currency has been recently called into question in a substantive manner. How can it be that the academic community was misled by this spurious correlation for more than a decade? We investigate this question and show that, most likely, failing to account for the abolishment of pooling in 2001 is the culprit. We start by arguing that pooling was the accounting method of choice for highly-valued acquirers, and that failing to control for this regulatory incentive (and the eventual disappearance of that incentive) leads to invalid inference. We finally confirm these arguments with new empirical results: (i) the relation between acquirer valuation and the choice of mode of payment disappears in analysis of U.S. mergers with fresh data that post-date 2001; (ii) this relation also fails in examination of data from Europe and Australia, environments where pooling was either not allowed or almost never used; (iii) this relation is absent even in analyses of pre-2001 subsamples of U.S. mergers that did not use pooling. We conclude that the abolishment of pooling played the role of an endogenous omitted variable, leading to the erroneous interpretation of empirical evidence.
+
+Keywords: Mergers and acquisitions; Mode of payment; Pooling of interest; Valuation
+
+JEL Classification: G34
+
+Suggested Citation:
+
+de Bodt, Eric and Cousin, Jean-Gabriel and Officer, Micah S., Acquirer Overvaluation and Stock Payment in M&A Transactions: What Explains the Spurious Correlation? (May 14, 2019). Available at SSRN: https://ssrn.com/abstract=3392956 or http://dx.doi.org/10.2139/ssrn.3392956
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+292
+ABSTRACT VIEWS
+1,725
+RANK
+238,367
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

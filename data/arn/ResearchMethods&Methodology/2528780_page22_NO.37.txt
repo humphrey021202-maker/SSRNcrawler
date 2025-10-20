@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Lucky Factors
+
+99 Pages Posted: 22 Nov 2014 Last revised: 8 Apr 2021
+
+Campbell R. Harvey
+
+Duke University - Fuqua School of Business; National Bureau of Economic Research (NBER)
+
+Yan Liu
+
+Purdue University
+
+Date Written: April 8, 2021
+
+Abstract
+
+Identifying the factors that drive the cross-section of expected returns is challenging for at least three reasons. First, the choice of testing approach (time-series versus cross-sectional) will deliver different sets of factors. Second, varying test portfolio sorts changes the importance of candidate factors. Finally, given the hundreds of factors that have been proposed, test multiplicity must be dealt with. We propose a new method that makes measured progress in addressing these key challenges. We apply our method in a panel regression setting and shed some light on the puzzling empirical result that the market factor drives the bulk of the variance of stock returns, but is often knocked out in cross-sectional tests. In our setup, the market factor is not eliminated. Further, we bypass arbitrary portfolio sorts and instead execute our tests on individual stocks | with no loss in power. Finally, our bootstrap implementation, which allows us to impose the null hypothesis of no cross-sectional explanatory power, naturally controls for the multiple testing problem.
+
+The on-line appendix appears in this version of the paper.
+
+Forthcoming, Journal of Financial Economics
+
+Note: This paper was formerly circulated under the title "How Many Factors?"
+
+Keywords: Factors, Variable selection, Bootstrap, Data mining, Orthogonalization, Multiple testing, Predictive regressions, Fama-MacBeth, GRS, Performance evaluation, Return prediction
+
+JEL Classification: G12, G14, C12, C21, C22, C31, C32
+
+Suggested Citation:
+
+Harvey, Campbell R. and Liu, Yan, Lucky Factors (April 8, 2021). Available at SSRN: https://ssrn.com/abstract=2528780 or http://dx.doi.org/10.2139/ssrn.2528780
+Download This Paper
+ 
+Open PDF in Browser
+8 References
+Y Plyakha , R Uppal , G Vilkov
+Equal or value weighting? Implications for asset-pricing tests Posted: 2016
+D Politis , J Romano
+The stationary bootstrap
+Journal of the American Statistical Association , volume 89 , p. 1303 - 1313 Posted: 1994
+Crossref
+K Pukthuanthong , R Roll , A Subrahmanyam
+A protocol for factor identification
+Review of Financial Studies , volume 32 , p. 1573 - 1607 Posted: 2019
+Crossref
+J Shanken
+On the estimation of beta-pricing model
+Review of Financial Studies , volume 5 , p. 1 - 33 Posted: 1992
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+8,892
+ABSTRACT VIEWS
+40,012
+RANK
+1,571
+71 Citations
+8 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

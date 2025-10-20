@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Exploratory Study into the Use of Audit Data Analytics on Audit Engagements
+
+60 Pages Posted: 3 Oct 2019 Last revised: 15 Jun 2020
+
+Aasmund Eilifsen
+
+NHH Norwegian School of Economics
+
+Finn Kinserdal
+
+NHH Norwegian School of Economics - Department of Accounting, Auditing and Law
+
+William F. Messier, Jr.
+
+NHH Norwegian School of Economics
+
+Thomas McKee
+
+Medical University of South Carolina
+
+Date Written: May 8, 2020
+
+Abstract
+
+This study explores the use of audit data analytics (ADA) in current audit practice. First, we
+interviewed the heads of professional practice of five international public accounting firms in
+Norway. We find that they differ in strategies on how to implement ADA and the heads report
+significant uncertainty about the supervisory inspection authorities’ response to the use of ADA.
+Second, we administered a questionnaire to 216 engagement partners and managers about their
+perceptions of ADA as well as their actual ADA use on 109 audit engagements. Overall, the
+attitudes towards ADA usefulness are positive. Analysis of the audit engagements suggests use
+of ADA is relatively limited and use of more “advanced” ADA is rare. More ADA are used for
+clients with integrated ERP/IT systems and for newly tendered audit engagements. We also
+provide details of actual ADA use on each phase of the audit. We discuss our findings from an
+institutional theory perspective.
+
+Keywords: Audit data analytics (ADA); audit engagements; auditors’ perceptions about ADA; actual use of ADA.
+
+JEL Classification: M42
+
+Suggested Citation:
+
+Eilifsen, Aasmund and Kinserdal, Finn and Messier Jr, William F. and McKee, Thomas, An Exploratory Study into the Use of Audit Data Analytics on Audit Engagements (May 8, 2020). Available at SSRN: https://ssrn.com/abstract=3458485 or http://dx.doi.org/10.2139/ssrn.3458485
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+M G Alles
+Drivers of the use and facilitators and obstacles of the evolution of Big Data by the audit profession
+International Journal of Accounting Information Systems , volume 29 , issue 2 , p. 59 - 76 Posted: 2015
+Crossref
+A M Lillis
+A framework for the analysis of interview data from multiple field research sites
+Accounting & Finance , volume 39 , issue 1 , p. 79 - 105 Posted: 1999
+Crossref
+W G false , K Lee , F Huang , Q Li
+Multidimensional audit data selection (MADS): A framework for using data analytics in audit data selection process
+Accounting Horizons , volume 33 , issue 3 , p. 127 - 140 Posted: 2019
+Crossref
+B O&apos;dwyer
+What's qualitative in accounting (field) research? An introduction to qualitative field research in accounting at the 25th Contemporary Accounting Research (CAR) Conference Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,368
+ABSTRACT VIEWS
+3,460
+RANK
+33,341
+1 Citations
+16 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

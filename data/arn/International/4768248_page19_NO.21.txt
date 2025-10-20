@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Country-Level Loss Aversion and the Market Response to Earnings News
+
+60 Pages Posted: 15 Apr 2024 Last revised: 15 Apr 2024
+
+Michael Neel
+
+University of North Texas - Department of Accounting
+
+There are 2 versions of this paper
+
+Date Written: March 21, 2024
+
+Abstract
+
+I examine whether country-level loss aversion influences stock price sensitivity to negative earnings news vis-à-vis positive earnings news. Using two recently developed country-level measures of loss aversion, I find that the stock price sensitivity to bad earnings news is higher in high loss-aversion countries than in low loss aversion countries. In contrast, the stock price sensitivity to good earnings news is generally unassociated with loss aversion. Thus, there is an intuitive asymmetry in how loss aversion impacts the market response to negative news relative to positive news. Consistent with the earnings announcement returns, further analysis reveals that a subsequent return drift to extreme bad news (i.e., PEAD) is present among low loss-aversion countries but not high loss-aversion countries, suggesting that loss averse investors more fully incorporate bad earnings news into stock prices. In contrast, the return drift to extreme positive news is detectable regardless of the level of loss aversion. Additional analysis also suggests that the influence of loss aversion on the market response to earnings news does not reflect differences in the informativeness of earnings news for future net income and cash flow performance. This influence of loss aversion is also more pronounced in countries with a short-term orientation, which should exacerbate loss aversion, and in countries that Hofstede (2001) characterizes as more restrained. In these countries, investors should be less accustomed to corporate risk-taking.
+
+Keywords: loss aversion, unexpected earnings, earnings response coefficient (ERC), financial reporting
+
+JEL Classification: G41, H32, M41
+
+Suggested Citation:
+
+Neel, Michael, Country-Level Loss Aversion and the Market Response to Earnings News (March 21, 2024). Available at SSRN: https://ssrn.com/abstract=4768248 or http://dx.doi.org/10.2139/ssrn.4768248
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+S Aggarwal , I-M Chiu , C Liu , S Rhee
+The brokerage effect in herding: Evidence from Indonesia
+Journal of Financial Research , volume 34 , issue 3 , p. 461 - 479 Posted: 2011
+A Alipour , A Yaprak
+Indulgence and risk-taking behavior of firms: Direct and interactive influences
+Journal of International Management , volume 28 , issue 2 Posted: 2022
+R Ball , P Brown
+An empirical evaluation of accounting income numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+N Barberis , M Huang , T Santos
+Prospect theory and asset prices
+Quarterly Journal of Economics , volume 116 , issue 1 , p. 1 - 53 Posted: 2001
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+134
+ABSTRACT VIEWS
+741
+RANK
+493,078
+59 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fintech and Green Finance in Banking: The Interplay of Geographic Dispersion and Bank Governance
+
+52 Pages Posted: 22 May 2024
+
+Zhaoyan Liu
+
+University of Macau - Faculty of Business Administration
+
+Maggie Fu
+
+University of Macau
+
+Abstract
+
+Both fintech and green finance are central themes in the ongoing international discourse on banking sector development, yet they are generally treated as separate in academic research. This study connects fintech and green finance by exploring the potential of fintech in facilitating banks’ engagement in green finance. We introduce a novel measure for assessing geographic dispersion of bank branches and investigate how the impact of fintech on green finance activities is related to geographic dispersion and its interplay with bank governance. Drawing upon a sample of all listed banks in China over the 2010-2022 period, we find that fintech negatively affect green lending participation of geographically more dispersed banks. However, when accompanied by effective bank governance, even highly dispersed banks can unlock the supporting effect of fintech on green lending. Our results are robust after employing alternative measures for fintech and green finance engagement, a subsample, and an instrumental variable approach. This study represents the pioneering attempt to link geographic dispersion and bank governance with banks’ dynamic capabilities. The findings hold important implications for banks aimed at implementing a green and responsible strategy: to leverage fintech-enabled green finance, banks particularly those with a wider geographical presence should further enhance their corporate governance practices to cultivate stronger dynamic capabilities that facilitate effective deployment of fintech.
+
+Keywords: Green finance, Banking, fintech, Geographic dispersion, Corporate governance
+
+Suggested Citation:
+
+Liu, Zhaoyan and Fu, Maggie, Fintech and Green Finance in Banking: The Interplay of Geographic Dispersion and Bank Governance. Available at SSRN: https://ssrn.com/abstract=4838389 or http://dx.doi.org/10.2139/ssrn.4838389
+Download This Paper
+ 
+Open PDF in Browser
+131 References
+V Aebi , G Sabato , M Schmid
+Risk management, corporate governance, and bank performance in the financial crisis
+Journal of Banking & Finance , volume 36 , issue 12 , p. 3213 - 3226 Posted: 2012
+L S Aiken , S G West
+Multiple regression : testing and interpreting interactions Posted: 1991
+X An , G Pivo
+Green Buildings in Commercial Mortgage-Backed Securities: The Effects of LEED and Energy Star Certification on Default Risk and Loan Terms
+Real Estate Economics , volume 48 , issue 1 , p. 7 - 42 Posted: 2018
+I Anagnostopoulos
+Fintech and regtech: Impact on regulators and banks
+Journal of Economics and Business , volume 100 , p. 7 - 25 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+114
+ABSTRACT VIEWS
+779
+RANK
+560,264
+131 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Governance, Incentives & Compensation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

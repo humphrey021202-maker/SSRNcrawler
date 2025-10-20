@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Textual Analysis and Complex Construct Development in Management Accounting: the Case of Value-Based Management Sophistication
+
+49 Pages Posted: 26 Jan 2023 Last revised: 15 Mar 2023
+
+Janice Wobst
+
+Leuphana University Lüneburg
+
+Philipp Röttger
+
+Independent
+
+Rainer Lueg
+
+Leuphana University of Lueneburg - Department of Accounting, Business & Management; University of Southern Denmark - Department of Accounting, Business & Management
+
+Date Written: November 3, 2022
+
+Abstract
+
+Complex constructs in management accounting are often hard to replicate if they rely on surveys or manual content analyses. Such constructs include, for example, the balanced scorecard (Kaplan & Norton, 1992), customer accounting (Roslender & Hart, 2010), corporate sustainability (Joshi & Li, 2016), and value-based management (VBM) (Burkert & Lueg, 2013). This study suggests a dictionary-based natural language processing (NLP) approach as an alternative to measuring complex constructs and explains how to apply NLP in management accounting to customize a dictionary. The construct of VBM sophistication serves as our example. We then illustrate how to test the construct’s convergent and predictive validity. Our illustrative construct demonstrates acceptable convergent and predictive validity. First, this study contributes to construct development and validation in management accounting research by exploiting a computerized measurement approach. Second, this study offers a guide for construct development using NLP methods that is applicable to other management accounting constructs. Third, we provide a VBM-specific dictionary for consequent studies in this field. Fourth, our results add to the body of evidence that claims positive economic effects from increasing VBM sophistication. Overall, our study generates future research opportunities to leverage NLP to improve the measurement of complex constructs.
+
+Keywords: textual analysis, natural language processing, construct validity, management accounting, value-based management
+
+JEL Classification: C80, L1, M41
+
+Suggested Citation:
+
+Wobst, Janice and Röttger, Philipp and Lueg, Rainer, Textual Analysis and Complex Construct Development in Management Accounting: the Case of Value-Based Management Sophistication (November 3, 2022). Available at SSRN: https://ssrn.com/abstract=4335126 or http://dx.doi.org/10.2139/ssrn.4335126
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+263
+ABSTRACT VIEWS
+1,317
+RANK
+265,489
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bayesian Pricing of News
+
+56 Pages Posted: 20 Aug 2018 Last revised: 6 Nov 2021
+
+Dmitry Livdan
+
+University of California, Berkeley
+
+Alexander Nezlobin
+
+London School of Economics
+
+Date Written: May 20, 2021
+
+Abstract
+
+This paper characterizes the equilibrium stock price reaction to arbitrarily distributed signals when the prior distribution of the payoff is normal and the utility is exponential. This stock price reaction is shown to be proportional to the Fisher score of the news calculated under a risk-neutral probability measure. As an application of our analysis, we (i) characterize the stock price reaction to news whose arrival is content-dependent, (ii) develop a model of "agenda-setting" disclosures, and (iii) construct an equilibrium in a voluntary disclosure model with multidimensional information and risk averse investors.
+
+
+Keywords: Voluntary Disclosure, Cost of Capital, Pricing of News, Fisher Score
+
+JEL Classification: D21, D82, D83, M41
+
+Suggested Citation:
+
+Livdan, Dmitry and Nezlobin, Alexander, Bayesian Pricing of News (May 20, 2021). Available at SSRN: https://ssrn.com/abstract=3225448 or http://dx.doi.org/10.2139/ssrn.3225448
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+V Acharya , P Demarzo , I Kremer
+Endogenous Information Flows and the Clustering of Announcements
+American Economic Review , volume 101 , p. 2955 - 2979 Posted: 2011
+A Azzalini , A Dalla Valle
+The Multivariate Skew-Normal Distribution
+Biometrika , volume 83 , p. 715 - 726 Posted: 1996
+B Breon-Drish
+On Existence and Uniqueness of Equilibrium in a Class of Noisy Rational Expectations Models
+Review of Economics Studies , volume 82 , p. 868 - 921 Posted: 2015
+R Dye
+Disclosure of Nonproprietary Information
+Journal of Accounting Research , volume 23 Posted: 1985
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+103
+ABSTRACT VIEWS
+1,930
+RANK
+605,468
+29 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

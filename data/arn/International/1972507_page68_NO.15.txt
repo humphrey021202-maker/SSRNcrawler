@@ -1,0 +1,148 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information Environment and Equity Risk Premium Volatility Around the World
+
+Management Science, Forthcoming
+
+40 Pages Posted: 17 Dec 2011 Last revised: 10 Oct 2014
+
+Sie Ting Lau
+
+Nanyang Technological University (NTU) - Division of Banking & Finance
+
+Lilian Ng
+
+York University - Schulich School of Business; European Corporate Governance Institute (ECGI)
+
+Bohui Zhang
+
+The Chinese University of Hong Kong, Shenzhen
+
+Date Written: October 14, 2011
+
+Abstract
+
+This paper examines whether and how differences in investors' information environment are related to cross-country differences in the market risk premium volatility. We use the vector-autoregressive and implied cost of capital methods to extract time variation in risk premiums for 41 developed and emerging markets worldwide. Consistent with theoretical predictions, countries with better information environments tend to experience a lower risk premium volatility, even after controlling for various country variables that are potentially associated with variation in risk premiums. Our analysis of two exogenous events, specifically the 1997 Asian financial crisis and 2008 global financial crisis, further corroborates our key finding that the information environment plays an important role in explaining the market risk premium volatility.
+
+Keywords: market risk premium volatility, information environment, implied cost of capital, VAR
+
+JEL Classification: G12, G14, G18
+
+Suggested Citation:
+
+Lau, Sie Ting and Ng, Lilian and Zhang, Bohui, Information Environment and Equity Risk Premium Volatility Around the World (October 14, 2011). Management Science, Forthcoming, Available at SSRN: https://ssrn.com/abstract=1972507 or http://dx.doi.org/10.2139/ssrn.1972507
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of Financial Markets , volume 5 , p. 31 - 56 Posted: 2002
+Crossref
+J Ammer , J Mei
+Measuring international economic linkages with stock market data
+Journal of Finance , volume 51 , p. 1743 - 1763 Posted: 1996
+Crossref
+E W Anderson , E Ghysels , J L Juergens
+The impact of risk and uncertainty on expected returns
+Journal of Financial Economics , volume 94 , p. 233 - 263 Posted: 2009
+Crossref
+G Bekaert , C Harvey
+Time-varying world market integration
+Journal of Finance , volume 50 , p. 403 - 444 Posted: 1995
+Crossref
+Load more
+7 Citations
+Randall K. Morck , Bernard Yin Yeung , Wayne Yu
+R-Squared and the Economy
+NBER Working Paper No. w19017 · 52 Pages · Posted: 4 May 2013 · Last revised: 19 Jun 2022 · Downloads: 62
+Download PDF  Add Paper to My Library
+Ying Cao , Sami Keskek , Linda A. Myers , Albert Tsang
+The Effect of Media Competition on Analyst Forecast Properties: Cross-Country Evidence
+61 Pages · Posted: 8 Sep 2014 · Last revised: 18 Aug 2019 · Downloads: 367
+Download PDF  Add Paper to My Library
+Dion Bongaerts , Dominik Rösch , Mathijs A. van Dijk
+Cross-sectional identification of private information
+96 Pages · Posted: 1 Dec 2014 · Last revised: 11 Jun 2025 · Downloads: 471
+Download PDF  Add Paper to My Library
+Swee Sum Lam , Huiping Zhang , Weina Zhang
+Does Policy Instability Matter for International Equity Markets?
+International Review of Finance, Vol. 20, Issue 1, pp. 155-196, 2020 · 42 Pages · Posted: 13 Mar 2020 · Last revised: 17 May 2020 · Downloads: 6
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+399
+ABSTRACT VIEWS
+2,896
+RANK
+169,120
+7 Citations
+57 References
+PlumX Metrics
+Related eJournals
+
+Nanyang Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

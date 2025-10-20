@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Asymmetry in Earnings Timeliness and Persistence: A Simultaneous Equations Approach
+
+Review of Accounting Studies, Forthcoming
+
+41 Pages Posted: 2 Apr 2008 Last revised: 20 Dec 2011
+
+William H. Beaver
+
+Stanford University
+
+Wayne R. Landsman
+
+University of North Carolina Kenan-Flagler Business School
+
+Edward Owens
+
+University of Utah - David Eccles School of Business
+
+Date Written: December 20, 2010
+
+Abstract
+
+This study addresses simultaneity bias in piecewise linear forms of the earnings-return relation. We specify an overidentified system of simultaneous equations that incorporates both asymmetric earnings timeliness and asymmetric earnings persistence specifications, and implement two-stage least squares for this piecewise linear system. Estimation of such a system that is piecewise linear in endogenous variables presents several distinctive issues for which there exists no precedent in the accounting literature. Findings provide evidence that the asymmetric timeliness specification is particularly affected by simultaneity, and that failing to correct for simultaneity results in coefficient estimates that understate the degree of asymmetric earnings timeliness. Moreover, our findings suggest that asymmetric earnings timeliness has dissipated, not increased, over time when simultaneity is taken into account.
+
+Keywords: Conservatism, Earnings Persistence, Returns-Earnings Relation
+
+JEL Classification: M41, M44, C33
+
+Suggested Citation:
+
+Beaver, William H. and Landsman, Wayne R. and Owens, Edward, Asymmetry in Earnings Timeliness and Persistence: A Simultaneous Equations Approach (December 20, 2010). Review of Accounting Studies, Forthcoming, Available at SSRN: https://ssrn.com/abstract=1115486
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+R Ball , R Bushman , F Vasvari
+The debt-contracting value of accounting information and loan syndicate structure
+Journal of Accounting Research , volume 46 , p. 247 - 288 Posted: 2008
+Crossref
+R Ball , G Sadka , R Sadka
+Aggregate earnings and asset prices
+Journal of Accounting Research , volume 47 , p. 1097 - 1133 Posted: 2009
+Crossref
+M Barth , W Beaver , W Landsman
+Relative valuation roles of equity book value and net income as a function of financial health
+Journal of Accounting and Economics , volume 25 , p. 1 - 34 Posted: 1998
+Crossref
+S Basu
+The conservatism principle and the asymmetric timeliness of earnings
+Journal of Accounting and Economics , volume 24 , p. 3 - 37 Posted: 1997
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+980
+ABSTRACT VIEWS
+4,075
+RANK
+53,831
+35 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

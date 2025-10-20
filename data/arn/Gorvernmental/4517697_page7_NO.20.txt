@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Consistency is Key: How Costing Information Consistency Helps Hospitals Manage Costs
+
+Kenan Institute of Private Enterprise Research Paper No. 4517697
+
+73 Pages Posted: 31 Jul 2023 Last revised: 12 Jun 2025
+
+Eva Labro
+
+University of North Carolina (UNC) at Chapel Hill - Accounting Area
+
+Ginger Scanlon
+
+University of North Carolina (UNC) at Chapel Hill - Kenan-Flagler Business School
+
+Lorien Stice-Lawrence
+
+University of Southern California - Marshall School of Business
+
+Date Written: May 14, 2025
+
+Abstract
+
+Health care costs in the United States make up a larger proportion of gross domestic product than in any other developed country and continue to rise. We examine whether the use of consistent costing information across hospitals (“costing information consistency”, or CIC) provides one avenue to reduce these costs. We empirically measure CIC at the hospital level by identifying how many other hospitals in the hospital group to which the hospital belongs also use the same costing system vendor. Using M&A activity among costing system vendors as an instrument for exogenous changes in hospital CIC, we find that increased cost comparability from CIC leads to economically significant decreases in hospital costs. These cost reductions appear to be achieved without compromising quality of care. We find no significant association between CIC and declines in patient satisfaction, mortality, or readmission rates. Reductions in expenses as the result of CIC are concentrated in non-clinical services such as administration, medical records, and housekeeping. 
+
+Keywords: cost management, costing system, information system integration, value-based care
+
+JEL Classification: I0, M4, M15
+
+Suggested Citation:
+
+Labro, Eva and Scanlon, Ginger and Stice-Lawrence, Lorien, Consistency is Key: How Costing Information Consistency Helps Hospitals Manage Costs (May 14, 2025). Kenan Institute of Private Enterprise Research Paper No. 4517697, Available at SSRN: https://ssrn.com/abstract=4517697 or http://dx.doi.org/10.2139/ssrn.4517697
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+L H Aiken , D M Sloane , L Bruyneel , K Van Den Heede , P Griffiths , R Busse , . . Sermeus , W
+Nurse staffing and education and hospital mortality in nine European countries: a retrospective observational study
+The Lancet , volume 383 , issue 9931 , p. 1824 - 1830 Posted: 2014
+America's hospitals and health systems continue to face escalating operational costs and economic pressures as they care for patients and communities
+Fast facts: U.S. health systems infographic Posted: 2021
+A C Baker , D F Larcker , C C Wang
+How much should we trust staggered difference-in-differences estimates?
+Journal of Financial Economics , volume 144 , issue 2 , p. 370 - 395 Posted: 2022
+M F Bellemare , C J Wichman
+Elasticities and the inverse hyperbolic sine transformation
+Oxford Bulletin of Economics and Statistics , volume 82 , issue 1 , p. 50 - 61 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+255
+ABSTRACT VIEWS
+1,329
+RANK
+275,154
+38 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

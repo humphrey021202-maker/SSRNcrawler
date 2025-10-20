@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Logarithmic Transformations in Cross Section Regression Models of the Long Run Relation between Market and Accounting Values
+
+40 Pages Posted: 14 Feb 2015
+
+Roger J. Willett
+
+Victoria University of Wellington - Te Herenga Waka - Victoria Business School
+
+Date Written: February 13, 2015
+
+Abstract
+
+Empirical evidence, mostly cross-sectional, is provided in this paper supporting the theory that the market accounting-relation is best understood as a multiplicative relation, when the modeled variables are positive. The theory is shown to work well with large sets of cross section and pooled data as well as in time series analysis with more limited numbers of observations. The distributions of market value and the main accounting aggregates, net book value of firm assets, earnings and dividends are all better approximated by a log-normal form, when the data are positive. The error term in regressions of market value on these variables is also more closely approximated by a log-normal distribution. Together these findings are consistent with the long-run market-accounting relation and the cross-section of market value being better explained by a geometric mean of the fundamental accounting variables, rather than an arithmetic mean of those variables, which is invariably used in the accounting literature. Implications for the interpretation of coefficients in cross-section regressions of market value and for the theories of market valuation are discussed.
+
+Keywords: Capital market research; Multiplicative models; Cross section models; Logarithmic transformations; Fundamental analysis; Geometric mean models; Market value theory; Testing Olhson-Penman theory
+
+JEL Classification: C13, C21, C51, C52, G12, M41
+
+Suggested Citation:
+
+Willett, Roger J., Logarithmic Transformations in Cross Section Regression Models of the Long Run Relation between Market and Accounting Values (February 13, 2015). Available at SSRN: https://ssrn.com/abstract=2564374 or http://dx.doi.org/10.2139/ssrn.2564374
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+236
+ABSTRACT VIEWS
+2,438
+RANK
+296,056
+4 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

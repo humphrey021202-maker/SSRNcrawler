@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Retirement Savings over the Life Cycle: A Deterministic Analysis in Closed Form
+
+42 Pages Posted: 10 Mar 2023 Last revised: 14 Feb 2025
+
+Marcel Fischer
+
+Copenhagen Business School
+
+Bjarne Astrup Jensen
+
+Copenhagen Business School - Department of Finance
+
+Marlene Koch
+
+Maastricht University - School of Business and Economics
+
+Date Written: March 07, 2023
+
+Abstract
+
+In this paper, we explore the life cycle consumption-savings problem in a stylized model with a risk-free investment opportunity, a tax-deferred retirement account, and deterministic labor income. Our closed form solutions show that liquidity constraints can be severely binding; in particular in situations with a high growth rate of labor income, in which retirement saving is optimally postponed. With a tax-deferred account, it is always optimal to save in this (illiquid) account first before saving in the (liquid) taxable account in order to satisfy the needs for consumption smoothing. The optimal retirement savings pattern is far from the widespread practice of contributing a fixed fraction of current labor income over the working life to a tax-deferred environment.
+
+Keywords: retirement saving, tax-deferred investing, borrowing constraints, labor income
+
+JEL Classification: E21, G11, H23
+
+Suggested Citation:
+
+Fischer, Marcel and Jensen, Bjarne Astrup and Koch, Marlene, Optimal Retirement Savings over the Life Cycle: A Deterministic Analysis in Closed Form (March 07, 2023). Available at SSRN: https://ssrn.com/abstract=4381169 or http://dx.doi.org/10.2139/ssrn.4381169
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+103
+ABSTRACT VIEWS
+663
+RANK
+605,632
+PlumX Metrics
+Related eJournals
+
+Wealth Management eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

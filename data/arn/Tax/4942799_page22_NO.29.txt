@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Taxation and Planning for DeFi Liquidity Providers: Redefining Taxable Events in Liquidity Pools
+
+Stanford Journal of Blockchain Law & Policy, Forthcoming
+
+31 Pages Posted: 3 Oct 2024
+
+Xiaoli Jin
+
+Harvard University - Harvard Law School
+
+Date Written: April 30, 2024
+
+Abstract
+
+This paper discusses the taxation of liquidity providers in decentralized finance, i.e., individuals who deposit crypto tokens into liquidity pools to facilitate peer-to-peer exchanges. In order to determine how to tax liquidity providers, we must know when they are deemed to have disposed of their tokens. This paper contends that the deposit of tokens does not constitute a taxable event. Liquidity providers should be taxed on tokens actually traded by the pool, not on tokens that were merely deposited. This proposition is supported by two main arguments. First, liquidity pools lack the right to freely dispose of the tokens. Second, taxing deposited but untraded tokens would lead to transactions void of economic substance and promote crypto wash sales. This paper also discusses a tax planning strategy for liquidity providers who hold tokens with substantial built-in gains. Instead of depositing appreciated tokens directly into liquidity pools, liquidity providers may pledge appreciated tokens as collateral and depositing borrowed tokens into the pools. This paper evaluates the risks associated with this tax planning strategy and proposes a risk-mitigating approach.
+
+Keywords: crypto tax, liquidity pool, tax planning
+
+Suggested Citation:
+
+Jin, Xiaoli, Taxation and Planning for DeFi Liquidity Providers: Redefining Taxable Events in Liquidity Pools (April 30, 2024). Stanford Journal of Blockchain Law & Policy, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4942799 or http://dx.doi.org/10.2139/ssrn.4942799
+Download This Paper
+ 
+Open PDF in Browser
+10 References
+Given that liquidity providers cannot specifically identify individual tokens, the FAQs require them to use the FIFO accounting method. 50 The FIFO method can be undesirable for taxpayers who acquired tokens at a low basis in early transactions. Under FIFO, they must start recognizing gain or loss from earliest-acquired tokens, which are likely to be tokens with the largest built-in gains. That being said, FAQs are not dispositive legal authorities, nor are they binding on the IRS unless published in the Internal Revenue Bulletin. 51 Thus, a thorough discussion of the identification rules also requires examining relevant case law. The Supreme Court decision in Helvering v. Rankin established the ground rule for the identification of fungible properties in sales and exchanges. 52 In Rankin, the taxpayer opened a margin account with his stock broker in 1926 and purchased 1200 shares of stock. In 1928, he engaged in multiple buy and sell transactions of the same stock, ending the year still owning 1200 shares. 53 Under the Revenue Act of 1928, when shares of stock are sold from lots purchased at different dates and at different prices, and the identity of the lots cannot be determined, the shares sold shall be charged against the earliest purchases of such stock (i.e., the FIFO method shall apply) , volume 54
+Id
+at Q/A 41 (requiring taxpayers to use the FIFO accounting method if they fail to make specific identifications)
+Guidance on the IRB in the form of FAQs, which is considered binding on the IRS. However, this virtual currency FAQs do not address how to specifically identify crypto tokens Posted: 2014
+Id
+, volume 126
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+123
+ABSTRACT VIEWS
+760
+RANK
+528,080
+10 References
+PlumX Metrics
+Related eJournals
+
+Cryptocurrency Research eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

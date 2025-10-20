@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Takeover Market’s Effect on Managerial Ownership: Evidence From Hostile Takeover Susceptibility
+
+40 Pages Posted: 19 Oct 2022
+
+Pattanaporn Chatjuthamard
+
+Sasin GIBA
+
+Ploypailin Kijkasiwat
+
+Khon Kaen University, The Faculty of Business Administration and Accountancy
+
+Pornsit Jiraporn
+
+Pennsylvania State University - School of Graduate Professional Studies (SGPS)
+
+Ali Uyar
+
+La Rochelle Business School
+
+Date Written: October 12, 2022
+
+Abstract
+
+Purpose: Capitalizing on a unique measure of takeover susceptibility principally based on the staggered implementation of state laws, we explore the takeover market’s effect on managerial ownership. The market for corporate control, often known as the takeover market, is an important external governance mechanism, whereas managerial ownership is a vital internal governance instrument. Managerial ownership brings into convergence the interests of shareholders and managers. The originality of our study arises from the usage of state-level anti-takeover legislations as a measure which is beyond the control of firms and plausibly exogenous to firm-specific characteristics.
+
+Design/Methodology: In addition to the standard regression analysis, we also execute a variety of robustness checks to minimize endogeneity, i.e., propensity score matching, entropy balancing, instrumental-variable analysis, Lewbel’s (2012) heteroscedastic identification, and Oster’s (2019) testing for coefficient stability.
+
+Findings: Based on a large sample of U.S. firms, our results show that more hostile takeover threats bring about significantly lower managerial ownership. Our results reinforce the prediction of the substitution hypothesis. The disciplinary function of the takeover market reduces agency conflict to the point where managerial ownership is less necessary as a governance mechanism. Specifically, a rise in takeover susceptibility by one standard deviation diminishes managerial ownership by 7.22%
+
+Originality: Our study is the first to shed light on the impact of the takeover market on managerial ownership using a novel measure mainly based on the staggered adoption of state laws, which are plausibly exogenous to individual firms’ characteristics. Consequently, unlike prior research, our study is more likely to indicate a causal effect, rather than merely a correlation.
+
+Keywords: hostile takeovers, takeover vulnerability, takeover susceptibility, managerial ownership, corporate governance, agency theory
+
+JEL Classification: G32, G34
+
+Suggested Citation:
+
+Chatjuthamard, Pattanaporn and Kijkasiwat, Ploypailin and Jiraporn, Pornsit and Uyar, Ali, The Takeover Market’s Effect on Managerial Ownership: Evidence From Hostile Takeover Susceptibility (October 12, 2022). Available at SSRN: https://ssrn.com/abstract=4245852 or http://dx.doi.org/10.2139/ssrn.4245852
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+75
+ABSTRACT VIEWS
+549
+RANK
+741,762
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

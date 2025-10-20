@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Graph-Based Visual Modeling for Enhancing Suspicious Node Detection in Blockchain Networks
+
+16 Pages Posted: 18 Oct 2023
+
+Samantha Jeyakumar
+
+affiliation not provided to SSRN
+
+Eugene Yugarajah Andrew Charles
+
+University of Jaffna
+
+Zhe Hou
+
+Griffith University
+
+Marimuthu Palaniswami
+
+University of Melbourne
+
+Vallipuram Muthukkumarasamy
+
+affiliation not provided to SSRN
+
+Abstract
+
+Blockchain technology has gained significant attention due to its transparent and decentralized nature. The inherent pseudonymity in blockchain transactions, however, poses challenges in identifying malicious entities engaging in illicit activities. This research proposes a groundwork for implementing a real-time monitoring tool incorporating automated graph modeling and generalized graph algorithms to enhance informed decision-making for forensic analysts, law enforcement, and regulatory authorities about suspicious transactions in blockchain networks. The proposed approach enables users to interact directly with the blockchain data using graph queries, gaining insights into the network’s overall structure and efficiently identifying patterns and anomalies. The effectiveness of the proposed approach is evaluated on five real-world blockchain network datasets. The results demonstrate the significance of graph-based modeling and visualization techniques in identifying suspicious nodes and offering practical guidance for decision-making by end-users in combating illicit activities exploiting blockchain networks.
+
+Keywords: blockchain, graph-based visualization, behavioral patterns, financial crimes, and algorithms
+
+Suggested Citation:
+
+Jeyakumar, Samantha and Charles, Eugene Yugarajah Andrew and Hou, Zhe and Palaniswami, Marimuthu and Muthukkumarasamy, Vallipuram, A Graph-Based Visual Modeling for Enhancing Suspicious Node Detection in Blockchain Networks. Available at SSRN: https://ssrn.com/abstract=4605929 or http://dx.doi.org/10.2139/ssrn.4605929
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+A Framewala , S Harale , S Khatal , D Patel , Y Busnel , M Rajarajan
+Blockchain analysis tool for monitoring coin flow
+Seventh International Conference on Software Defined Systems (SDS) , p. 196 - 201 Posted: 2020
+K Tsoulias , G Palaiokrassas , G Fragkos , A Litke , T A Varvarigou
+A graph model based blockchain implementation for increasing mance and security in decentralized ledger systems
+IEEE Access , volume 8 , p. 130952 - 130965 Posted: 2020
+Y Wu , A Luo , D Xu
+Identifying suspicious addresses in bitcoin thefts
+Digital Investigation , volume 31 Posted: 2019
+W Didimo , L Giamminonni , G Liotta , F Montecchiani , D Pagliuca
+A visual analytics system to support tax evasion discovery
+Decision Support Systems , volume 110 , p. 71 - 83 Posted: 2018
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+87
+ABSTRACT VIEWS
+409
+RANK
+677,550
+30 References
+PlumX Metrics
+Related eJournals
+
+Forensic Accounting eJournal
+
+Follow
+
+Cybersecurity, Privacy, & Networks eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

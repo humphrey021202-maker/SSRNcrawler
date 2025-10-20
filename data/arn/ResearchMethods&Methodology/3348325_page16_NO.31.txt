@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Investor Learning, Earnings Signals, and Stock Returns
+
+Review of Quantitative Finance and Accounting, Forthcoming
+
+46 Pages Posted: 1 Apr 2019
+
+Peng-Chia Chiu
+
+The Chinese University of Hong Kong, Shenzhen
+
+Timothy Haight
+
+Loyola Marymount University
+
+Date Written: March 7, 2019
+
+Abstract
+
+Prior studies show that investor learning about earnings-based return predictors from academic research erodes return predictability. However, the signaling power of “bottom-line” earnings has declined over time, which complicates assessments of investor learning about profitability signals underlying earnings. We show that modified earnings variables with lower susceptibility to signal weakening exhibit rates of return attenuation that are 30-64% lower than rates for bottom-line earnings variables over our sample period. Notably, return gaps between bottom-line and less susceptible variables are widest in recent years, especially within non-overlapping samples and samples with weak bottom-line signals (e.g., special items, losses, fourth fiscal quarter). Our results hold after controlling for risk factors known to predict returns, they do not appear to be attributable to ex ante earnings volatility, and they are robust to alternative sample selection criteria, sub-period partitions, and portfolio holding windows. Overall, our results suggest that while investor learning is apparent in the data, learning efforts to date have been suboptimal at exploiting profitability signals within firms’ earnings streams.
+
+Keywords: investor learning; earnings properties; market efficiency; stock returns
+
+JEL Classification: G11, G12, G13, G14, M41
+
+Suggested Citation:
+
+Chiu, Peng-Chia and Haight, Timothy, Investor Learning, Earnings Signals, and Stock Returns (March 7, 2019). Review of Quantitative Finance and Accounting, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3348325
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+J S Abarbanell , B J Bushee
+Fundamental Analysis, Future Earnings, and Stock Prices
+Journal of Accounting Research , volume 35 , issue 1 , p. 1 - 24 Posted: 1997
+Crossref
+F Akbas , C Jiang , P D Koch
+The trend in firm profitability and the cross-section of stock returns
+The Accounting Review , volume 92 , issue 5 , p. 1 - 32 Posted: 2017
+Crossref
+J R Anderson , L M Reder , H A Simon
+Situated learning and education
+Educational Researcher , volume 25 , issue 4 , p. 5 - 11 Posted: 1996
+Crossref
+K Balakrishnan , E Bartov , L Faurel
+Post loss/profit announcement drift
+Journal of Accounting and Economics , volume 50 , issue 1 , p. 20 - 41 Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+571
+ABSTRACT VIEWS
+2,464
+RANK
+109,965
+1 Citations
+52 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

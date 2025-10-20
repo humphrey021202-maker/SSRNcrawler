@@ -1,0 +1,151 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Multivariate Dependence of Implied Volatilities from Equity Options as Measure of Systemic Risk
+
+International Review of Financial Analysis, Vol. 28, 2013
+
+57 Pages Posted: 28 Dec 2012 Last revised: 15 Jun 2013
+
+Andreas (Andy) Jobst
+
+Central Bank of the UAE; University of Cambridge; Saint Edmund's College
+
+Date Written: March 3, 2013
+
+Abstract
+
+This paper presents a methodology to examine the multivariate tail dependence of the implied volatility of equity options as an early warning indicator of systemic risk within the financial sector. Using non-parametric methods of estimating changes in the dependence structure in response to common shocks affecting individual risk profiles, possible linkages during periods of stress are quantifiable while recognizing that large shocks are transmitted across financial markets differently than small shocks. Before and during the initial phase of the financial crisis, we find that systemic risk increased globally as early as February 2007- months before the unraveling of the U.S. subprime mortgage crisis and long before the collapse of Lehman Brothers. The average (multivariate) dependence among a global sample of banks and insurance companies increased by almost 30 percent while joint tail risk declined by about the same order of magnitude, indicating that co-movements of large changes in equity volatility were more likely to occur and responses to extreme shocks became more differentiated as distress escalated. The key policy consideration flowing from our analysis is that complementary measures of joint tail risk at high data frequency are essential to the robust measurement of systemic risk, which could enhance market-based early warning mechanisms as part of macroprudential surveillance.
+
+Keywords: early warning, dependence, correlation, co-movement, systemic risk, extreme value theory, generalized extreme value, entropy, financial contagion, macroprudential surveillance
+
+JEL Classification: C46, C51, G01, G21, G28
+
+Suggested Citation:
+
+Jobst, Andreas A., Multivariate Dependence of Implied Volatilities from Equity Options as Measure of Systemic Risk (March 3, 2013). International Review of Financial Analysis, Vol. 28, 2013, Available at SSRN: https://ssrn.com/abstract=2194213 or http://dx.doi.org/10.2139/ssrn.2194213
+Download This Paper
+ 
+Open PDF in Browser
+94 References
+Acharya , V Viral , Pedersen , H Lasse , Thomas Philippon , Matthew P Richardson
+Measuring Systemic Risk
+Working paper presented at Research Conference on Quantifying Systemic Risk, 6 November Posted: 2009
+Crossref
+_______
+Federal Reserve Bank of Cleveland Working Paper 10-02
+_______
+Measuring Systemic Risk
+CEPR Discussion Paper , volume 8824
+Acharya , Viral , Robert F Engle , Matthew Richardson
+Capital Shortfall: A New Approach to Ranking and Regulating Systemic Risk Posted: 2012
+Crossref
+Load more
+4 Citations
+Andreas A. Jobst
+Systemic Risk in the Insurance Sector: A Review of Current Assessment Approaches
+The Geneva Papers on Risk and Insurance - Issues and Practice (Forthcoming) · 34 Pages · Posted: 15 Mar 2012 · Last revised: 16 May 2014 · Downloads: 471
+Download PDF  Add Paper to My Library
+Andreas A. Jobst
+Measuring Systemic Risk-Adjusted Liquidity (SRL) — A Model Approach
+52 Pages · Posted: 1 Apr 2013 · Last revised: 16 May 2014 · Downloads: 109
+Download PDF  Add Paper to My Library
+Andreas A. Jobst
+Measuring Systemic Risk-Adjusted Liquidity (SRL) — A Model Approach
+Systemic Risk: Liquidity Risk, Governance and Financial Stability · 52 Pages · Posted: 1 Apr 2013 · Last revised: 16 May 2014 · Downloads: 180
+Download PDF  Add Paper to My Library
+Somnath Chatterjee , Andreas A. Jobst
+Market-Implied Systemic Risk and Shadow Capital Adequacy
+Bank of England Working Paper No. 823, September 2019 · 53 Pages · Posted: 17 Sep 2019 · Downloads: 146
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+214
+ABSTRACT VIEWS
+1,757
+RANK
+325,744
+4 Citations
+94 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometric Modeling: Capital Markets - Risk eJournal
+
+Follow
+ 
+Recommended Papers
+
+CoVaR
+
+By Tobias Adrian and Markus K. Brunnermeier
+
+CoVaR
+
+By Tobias Adrian and Markus K. Brunnermeier
+
+A Theory of Systemic Risk and Design of Prudential Bank Regulation
+
+By Viral V. Acharya
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

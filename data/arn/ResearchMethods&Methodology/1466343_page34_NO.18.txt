@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Neglect of Multiplicity When Testing Families of Related Hypotheses*
+
+46 Pages Posted: 3 Sep 2009
+
+Burt Holland
+
+Temple University - Department of Accounting
+
+sun wei fang
+
+affiliation not provided to SSRN
+
+Sudipta Basu
+
+Temple University - Department of Accounting
+
+Date Written: September 1, 2009
+
+Abstract
+
+Many accounting research papers report statistical results involving families of related tests of hypotheses. Unlike many scientific disciplines, accounting researchers rarely attend to a familywise Type I error concept; for example, control of the probability of incorrectly declaring at least one significant result in the family. Neglecting this principle can lead to an excessive number of false declarations of significance, and therefore, spurious inferences. We review some simple established methods for controlling for multiplicity. A few examples from the “Top 3” accounting journals illustrate that inattention to familywise control can affect primary study conclusions. A compromise approach is suggested for those who choose to present results either with or without recognition of familywise Type I error control.
+
+Keywords: multiple comparisons, Bonferroni, Holm, publication bias, journal policies
+
+Suggested Citation:
+
+Holland, Burt and fang, sun wei and Basu, Sudipta, Neglect of Multiplicity When Testing Families of Related Hypotheses* (September 1, 2009). Available at SSRN: https://ssrn.com/abstract=1466343 or http://dx.doi.org/10.2139/ssrn.1466343
+Download This Paper
+ 
+Open PDF in Browser
+93 References
+J S Abarbanell , B J Bushee
+Fundamental Analysis, Future Earnings, and Stock Prices
+Journal of Accounting Research , volume 35 , issue 1 , p. 1 - 24 Posted: 1997
+Crossref
+Publication Manual of the APA Posted: 2001
+Ethical Guidelines for Statistical Practice Posted: 2008
+Crossref
+O Ashenfelter , R H Haveman , J G Riley , J T Taylor
+Editorial Statement
+The American Economic Review , volume 76 , issue 4 Posted: 1986
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+100
+ABSTRACT VIEWS
+1,637
+RANK
+618,599
+4 Citations
+93 References
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

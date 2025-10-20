@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+AI-Driven Transaction Monitoring Systems for AML in Digital Banking
+
+5 Pages Posted: 20 Aug 2025
+
+Olusola Babatunde-Faustino
+
+SOLA CONSULTING LIMITED
+
+Date Written: August 07, 2025
+
+Abstract
+
+The new era of financial crime has made AI-driven transaction monitoring very important in all digital banking across the board. AI-driven transaction monitoring is very important as the old method of manual detection is being faced out gradually. Thanks to ai-driven transaction monitoring alot of anomalies are being detected more faster than human-driven transaction monitoring, the use of current AI methodologies-such as machine learning, natural language processing, and neural networks-used in AML detection, and evaluates their impact on operational efficiency, cost reduction, and real-time risk assessment. This research paper raises concern with a framework for responsible AI adoption, considering regulatory expectations, data quality challenges, and ethical concerns.
+
+Keywords: Anti-Money Laundering, Artificial Intelligence, Fintech, Digital Banking, Transaction Monitoring, RegTech, Compliance
+
+Declaration of Interest
+
+This research is solely the author's research work.
+
+Suggested Citation:
+
+Babatunde-Faustino, Olusola, AI-Driven Transaction Monitoring Systems for AML in Digital Banking (August 07, 2025). Available at SSRN: https://ssrn.com/abstract=5393034 or http://dx.doi.org/10.2139/ssrn.5393034
+Download This Paper
+ 
+Open PDF in Browser
+5 References
+A E Khandani , A J Kim , A W Lo
+Consumer credit-risk models via machine-learning algorithms
+Journal of Banking & Finance Posted: 2010
+S Gunjan
+AI in Anti-Money Laundering: Challenges and Opportunities
+International Journal of Financial Crime Posted: 2022
+• Fatf
+Opportunities and Challenges of New Technologies for AML/CFT Posted: 2021
+European Banking Authority (EBA)
+Guidelines on the Use of Advanced Analytics and Machine Learning Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+46
+ABSTRACT VIEWS
+369
+5 References
+PlumX Metrics
+Related eJournals
+
+Banking & Insurance eJournal
+
+Follow
+
+Corporate Governance: Acquisitions, Mergers, Contests for Control, & Activism eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

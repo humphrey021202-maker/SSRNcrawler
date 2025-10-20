@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Aggregate Earnings and Market Returns: International Evidence
+
+Journal of Financial and Quantitative Analysis (JFQA), 2014, Volume 49, Issue 04, pages 879-901
+
+39 Pages Posted: 26 Aug 2011 Last revised: 22 Jan 2016
+
+Wen He
+
+Monash University
+
+Maggie R. Hu
+
+Zicklin School of Business, Baruch College - The City University of New York
+
+Date Written: December 18, 2012
+
+Abstract
+
+Kothari, Lewellen and Warner (2006) document that in the U.S. market aggregate earnings changes are negatively related to contemporaneous market returns. This is puzzling given the well-documented evidence that firm-level earnings changes are positively related to stock returns. In this study we use a sample of 28 countries to provide international evidence on this important issue. In pooled cross-country and time-series regressions, we find that aggregate earnings changes are positively associated with contemporaneous market returns. When we run time-series regressions of market returns on aggregate earnings changes for each country, we find only four countries have negative coefficients for aggregate earnings changes and none of these negative coefficients are statistically significant. This evidence contrasts the U.S. evidence. Furthermore aggregate earnings exhibits substantial persistence, suggesting current earnings convey information about future earnings. Finally we find that the earnings-returns relation at aggregate becomes less positive in countries with more transparent accounting disclosure. This result supports the argument proposed by Sadka and Sadka (2009) that predictability of aggregate earnings leads to the negative relation between aggregate earnings and market returns in the U.S..
+
+Keywords: stock prices, market returns, aggregate earnings, international markets, accounting disclosure
+
+JEL Classification: E31, G12, G14, G15, M41
+
+Suggested Citation:
+
+He, Wen and Hu, Maggie, Aggregate Earnings and Market Returns: International Evidence (December 18, 2012). Journal of Financial and Quantitative Analysis (JFQA), 2014, Volume 49, Issue 04, pages 879-901, Available at SSRN: https://ssrn.com/abstract=1917167 or http://dx.doi.org/10.2139/ssrn.1917167
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A Ali , L Hwang
+Country-Specific Factors Related to Financial Reporting and the Value Relevance of Accounting Data
+Journal of Accounting Research , volume 38 , p. 1 - 21 Posted: 2000
+Crossref
+R Ball , P Brown
+An Empirical Evaluation of Accounting Income Numbers
+Journal of Accounting Research , volume 6 , p. 159 - 178 Posted: 1968
+Crossref
+R ; A Ball , J Wu
+Incentives versus Standards: Properties of Accounting Income in Four East Asian Countries
+Journal of Accounting and Economics , volume 36 , p. 235 - 270 Posted: 2003
+Crossref
+R ; G Ball , ; Sadka , R Sadka
+Aggregate Earnings and Asset Prices
+Journal of Accounting Research , volume 47 , p. 1097 - 1133 Posted: 2009
+Crossref
+Load more
+1 Citations
+S.P. Kothari , Charles E. Wasley
+Commemorating the Fifty-Year Anniversary of Ball and Brown (1968): The Evolution of Capital Market Research over the Past Fifty Years
+66 Pages · Posted: 10 Jul 2019 · Downloads: 719
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+239
+ABSTRACT VIEWS
+2,199
+RANK
+292,525
+1 Citations
+31 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+Stock Returns, Aggregate Earnings Surprises, and Behavioral Finance
+
+By Jonathan Lewellen, S.p. Kothari, ...
+
+Explaining Returns with Cash-Flow Proxies
+
+By Peter Andrew Hecht and Tuomo Vuolteenaho
+
+Accruals and Aggregate Stock Market Returns
+
+By David Hirshleifer, Kewei Hou, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Regression and Machine Learning Methods to Predict Discrete Outcomes in Accounting Research
+
+Journal of Financial Reporting, accepted
+
+University of Miami Business School Research Paper No. 3801353
+
+92 Pages Posted: 11 Mar 2021 Last revised: 9 Mar 2022
+
+Jake Krupa
+
+Tulane University - A.B. Freeman School of Business
+
+Miguel Minutti-Meza
+
+University of Miami - Department of Accounting
+
+Date Written: March 1, 2022
+
+Abstract
+
+Predictive modeling focuses on iteratively trying various combinations and transformations of a set of variables to generate a decision rule that predicts outcomes for new observations. Although accounting researchers have demonstrated interest in predictive modeling, we identify a lack of accessible and applied guidance on this topic for accounting settings. This issue has become more salient with the increasing availability of machine learning models that use unfamiliar terminology, are estimated using algorithms, and produce different outputs than other models used for causal inference. To overcome this gap, we provide an overview of how to predict discrete outcomes with logistic regression and machine learning models used in recent studies. We also include guidance and a comprehensive example - predicting investigations by the U.S. Securities and Exchange Commission - that illustrates the elements of the prediction process, highlighting the importance of out-of-sample accuracy and unique aspects in the presentation of a prediction model's results.
+
+Keywords: prediction, machine learning, deep learning, neural networks, random forests, gradient boosting, support vector machines, k-fold cross-validation.
+
+JEL Classification: C10, C25, C45, C53, M48
+
+Suggested Citation:
+
+Krupa, Jake and Minutti-Meza, Miguel, Regression and Machine Learning Methods to Predict Discrete Outcomes in Accounting Research (March 1, 2022). Journal of Financial Reporting, accepted, University of Miami Business School Research Paper No. 3801353, Available at SSRN: https://ssrn.com/abstract=3801353 or http://dx.doi.org/10.2139/ssrn.3801353
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,183
+ABSTRACT VIEWS
+3,755
+RANK
+41,186
+80 References
+PlumX Metrics
+Related eJournals
+
+University of Miami Herbert Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

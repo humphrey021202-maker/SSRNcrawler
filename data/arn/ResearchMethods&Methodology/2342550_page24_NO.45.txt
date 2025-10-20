@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Causal Inference in Empirical Archival Financial Accounting Research
+
+Accounting, Organizations and Society, Forthcoming
+
+27 Pages Posted: 20 Oct 2013
+
+Joachim Gassen
+
+Humboldt University of Berlin - School of Business and Economics; TRR 266 Accounting for Transparency
+
+Date Written: October 19, 2013
+
+Abstract
+
+This study discusses the challenges and opportunities of establishing causal inference in empirical archival financial accounting research. Causal inference requires identification of a theoretically predicted causal mechanism in a research setting optimized to avoid endogenous causes and using a suitable statistical inference strategy. After briefly describing potential research design strategies, I analyze the frequency of causal studies published in leading business and economics journals. I identify causal studies by their abstract including an explicit reference to their causal nature and find that they are significantly more common in the areas of economics and finance compared to other business-oriented research disciplines like accounting. Also, the extent to which research designs are optimized for causal inference differs significantly between causal empirical archival studies in the area of financial accounting and finance. I discuss potential reasons for this gap and make some suggestions on how the demand for and supply of well-designed causal studies in the area of empirical archival financial accounting research might be increased.
+
+Keywords: causal inference, financial accounting, archival empirical research, research design, natural experiments
+
+JEL Classification: M41, C18
+
+Suggested Citation:
+
+Gassen, Joachim, Causal Inference in Empirical Archival Financial Accounting Research (October 19, 2013). Accounting, Organizations and Society, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2342550
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+497
+ABSTRACT VIEWS
+4,211
+RANK
+130,619
+3 Citations
+41 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Education eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

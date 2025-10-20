@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Role-Centered Accounting Theory (RCAT) & A Theory-Driven GPT: A Crowdsourcing Project for Scholars
+
+44 Pages Posted: 8 Sep 2025 Last revised: 8 Sep 2025
+
+Robert J. Bloomfield
+
+Cornell University - Samuel Curtis Johnson Graduate School of Management
+
+Tamara Lambert
+
+Lehigh University
+
+Marietta Peytcheva
+
+Lehigh University
+
+Date Written: September 04, 2025
+
+Abstract
+
+We designed Role-Centered Accounting Theory (RCAT) to allow scholars to articulate in detail the accounting challenges practitioners face, the options they have for addressing them, why they act as they do within an accounting system, and why they redesign accounting systems as they do to address their challenges. We have derived from the theory a series of step-by-step protocols researchers can follow to interpret research questions in terms of RCAT, refine the question to reflect a more complete understanding of setting under study, determine what additional theoretical and institutional knowledge will be required for a full analysis, import theories from other fields to integrate with RCAT, and search for related questions that are more causally and normatively important and better balance the conflicting goals of broad generality and deep understanding of a particular setting. We have also customized a GPT (the RCAT Analysis Machine) to make RCAT easier to work with. We have made the Machine available to all accounting scholars by posting it in OpenAI's GPT store, and provide all customization documents at https://blogs.cornell.edu/rcatcentral/ so that anyone can modify the customization for their needs. We encourage scholars to use these resources and tell us about how they did so and how they found them useful. We plan to report what we learn in a peer-reviewed journal.
+
+Keywords: Artificial intelligence, Generative Prompt Transformers, Positive Accounting Theory, Accounting Ethics, Behavioral Game Theory, Financial Accounting, Management Accounting, Management Consulting, Auditing, Accounting Theory
+
+JEL Classification: M40
+
+Suggested Citation:
+
+Bloomfield, Robert J. and Lambert, Tamara and Lambert, Tamara and Peytcheva, Marietta, Role-Centered Accounting Theory (RCAT) & A Theory-Driven GPT: A Crowdsourcing Project for Scholars (September 04, 2025). Available at SSRN: https://ssrn.com/abstract=5441675 or http://dx.doi.org/10.2139/ssrn.5441675
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+115
+ABSTRACT VIEWS
+295
+RANK
+575,915
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Assessing Statistical Results: Magnitude, Precision, and Model Uncertainty
+
+The American Statistician
+
+https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1537889
+
+5 Pages Posted: 6 Jun 2019 Last revised: 15 Feb 2025
+
+Andrew Anderson
+
+Government of the United States of America - Office of the Comptroller of the Currency (OCC) - US Dept. of the Treasury
+
+Date Written: March 20, 2019
+
+Abstract
+
+Evaluating the importance and the strength of empirical evidence requires asking three questions: First, what are the practical implications of the findings? Second, how precise are the estimates? Confidence intervals provide an intuitive way to communicate precision. Although nontechnical audiences often misinterpret confidence intervals (CIs), I argue that the result is less dangerous than the misunderstandings that arise from hypothesis tests. Third, is the model correctly specified? The validity of point estimates and CIs depends on the soundness of the underlying model.
+
+Keywords: Inference, Robustness, Sampling error
+
+Suggested Citation:
+
+Anderson, Andrew, Assessing Statistical Results: Magnitude, Precision, and Model Uncertainty (March 20, 2019). The American Statistician, https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1537889, Available at SSRN: https://ssrn.com/abstract=3389965
+Download This Paper
+ 
+Open PDF in Browser
+5 References
+J A Hoeting , D Madigan , A E Raftery , C T Volinsky
+Bayesian Model Averaging: A Tutorial , volume 14 , p. 382 - 417 Posted: 1999
+D Mccloskey
+The Rhetoric of Economics
+Journal of Economic Literature , volume 21 , p. 481 - 517 Posted: 1983
+D Mccloskey , S Ziliak
+The Standard Error of Regressions
+Journal of Economic Literature , volume 34 , p. 97 - 114 Posted: 1996
+R L Wasserstein , N A Lazar
+The ASA's Statement on p-Values: Context, Process, and Purpose
+The American Statistician , volume 70 , p. 129 - 133 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+4
+ABSTRACT VIEWS
+719
+5 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric Model Construction, Estimation & Selection eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

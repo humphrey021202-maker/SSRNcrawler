@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is there a Conflict between Principles-based Standard Setting and Structured Electronic Reporting with XBRL?
+
+20 Pages Posted: 5 May 2021
+
+Dirk Beerbaum
+
+Aalto University - Department of Accounting and Finance
+
+Maciej Piechocki
+
+affiliation not provided to SSRN
+
+Christoph Weber
+
+Johan Wolfgang Goethe University
+
+Date Written: April 30, 2021
+
+Abstract
+
+National standardsetters and other observers continue to express concerns over a principles-based developed IFRS taxonomy. Based on the comments as part of the consultation phase on the taxonomy due process worries exist that to combine the taxonomy due process with the standard due process might negatively impact the principles-based nature of the IFRS standards. Recent comments to the IASB consultation on the “IFRS Taxonomy Due Process” contain more arguments why principles-based accounting and the IFRS taxonomy are perceived as a conceptual conflict. Although there is conceptual conflict between a principles-based accounting standard and the development of a taxonomy compared to a template based rule-based accounting framework, this appears in the case of the IFRS taxonomy as only a minor one. IFRS Taxonomy development faced this conflict for many years and is well aware of that. A common practice approach was applied, which also intended to overcome this conflict. XBRL has further attempted to bridge this conflict by offering multidimensional modeling of ac-counting standards and multi-extensible elements. This enables also more elements and more flexibility, which particularly a principles-based taxonomy requires.
+
+Suggested Citation:
+
+Beerbaum Dr., Dirk and Piechocki, Maciej and Weber, Christoph, Is there a Conflict between Principles-based Standard Setting and Structured Electronic Reporting with XBRL? (April 30, 2021). Available at SSRN: https://ssrn.com/abstract=3837235 or http://dx.doi.org/10.2139/ssrn.3837235
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+SOP 13-2 Performing Agreed-Upon Procedures Engagements -XBRL-Formatted Information
+AICPA Posted: 2016
+Crossref
+M Alles , R Debreceny
+The evolution and future of XBRL research
+International Journal of Accounting Information Systems , volume 2 Posted: 2012
+Crossref
+M Alles , M Piechocki
+Will XBRL improve corporate governance? A framework for enhancing governance decision making using interactive data
+International Journal of Accounting Information Systems , volume 2 , p. 91 - 108 Posted: 2012
+Crossref
+Dirk Beerbaum Dr.
+Towards an XBRL-Enabled Corporate Governance Reporting Taxonomy An Empirical Study of NYSE-Listed Financial Institutions
+Pages: 376 Posted: 29 Oct 2016
+Download PDF  Add Paper to My Library
+Load more
+10 Citations
+Dirk Beerbaum Dr.
+What Are the Reasons for Extensions – Development of an Extension Framework
+19 Pages · Posted: 4 Jun 2021 · Downloads: 108
+Download PDF  Add Paper to My Library
+Dirk Beerbaum Dr. , Keith R. Duncan , Ray McNamara , Seppo Ikaheimo , David Derichs
+Digitalization and Assurance of IFRS Financial Reports
+38 Pages · Posted: 28 May 2021 · Last revised: 9 Feb 2022 · Downloads: 355
+Download PDF  Add Paper to My Library
+Dirk Beerbaum Dr. , David Derichs , Julia M. Puaschunder , Seppo Ikaheimo
+A behavioral approach to voluntary change and innovation in external financial reporting: A case study of the restructuring of the Annual Report on Form 20-F and the Financial Report
+46 Pages · Posted: 28 May 2021 · Downloads: 71
+Download PDF  Add Paper to My Library
+Dirk Beerbaum Dr.
+Green Quadriga? - EU - Taxonomy, Non-FinancialReporting Directive, EBA Pillar III ESG risks and IFRS Foundation
+28 Pages · Posted: 18 Nov 2021 · Downloads: 643
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+381
+ABSTRACT VIEWS
+1,468
+RANK
+178,213
+10 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Sustainability Performance and the Cost of Debt – An Analysis of the Impact of Country- and Industry-specific Climate Risk Exposures
+
+63 Pages Posted: 17 Jun 2022 Last revised: 6 Jul 2022
+
+Jan Christ
+
+Ruhr University of Bochum - Department of International Accounting
+
+Tobias Hertel
+
+Ruhr University of Bochum - Department of Finance and Banking
+
+Jannik Kocian
+
+Ruhr University of Bochum - Department of International Accounting
+
+Date Written: June 13, 2022
+
+Abstract
+
+We provide a comprehensive assessment of the relationship between Corporate Sustainability Performance (CSP) and the cost of debt (CoD) by employing both score- and event-based measures for a sample of European firms. Our results suggest that high levels of CSP, especially considering the environmental and social dimensions, are associated with lower credit default swaps (CDS) spreads, irrespective of the applied measurement method. Focusing on climate-related sustainability performance, we can identify a country-specific and industry-specific risk premium for the CDS spreads of highly exposed firms. In a further analysis, we explore whether the occurrence of global climate policy events affects the cost of debt similarly to firm-specific ESG-controversies. We observe that the CDS spreads are overall affected by international climate policy events, although investors seem to be less differentiating in their price reactions following these events. Our results remain consistent in various robustness checks for instance using different measurement approaches and different operationalization of CSP.
+
+Keywords: Climate risk, Corporate social responsibility (CSR), Environmental, Social, Governance (ESG), Credit default swaps (CDS), Corporate Sustainability Performance (CSP), Credit risk
+
+JEL Classification: G12, G24, G30, G38
+
+Suggested Citation:
+
+Christ, Jan and Hertel, Tobias and Kocian, Jannik, Corporate Sustainability Performance and the Cost of Debt – An Analysis of the Impact of Country- and Industry-specific Climate Risk Exposures (June 13, 2022). Available at SSRN: https://ssrn.com/abstract=4135247 or http://dx.doi.org/10.2139/ssrn.4135247
+Download This Paper
+ 
+Open PDF in Browser
+92 References
+References Andres , C Betzer , A Doumet , M
+Measuring changes in credit risk: The case of CDS event studies
+Global Finance Journal , volume 49 , p. 1 - 22 Posted: 2021
+S C Bae , K Chang , H.-C Yi
+Are More Corporate Social Investments Better?: Evidence of Non-Linearity Effect on Costs of US Bank Loans
+Global Finance Journal , volume 38 , p. 82 - 96 Posted: 2018
+J Bai , L Wu
+Anchoring Credit Default Swap Spreads to Firm Fundamentals
+Journal of Financial and Quantitative Analysis , volume 51 , p. 1521 - 1543 Posted: 2016
+A Barnea , A Rubin
+Corporate Social Responsibility as a Conflict between Owners
+Posted: 2005-01-26
+Load more
+5 Citations
+Emanuele Campiglio , Luca De Angelis , Paolo Neri , Ginevra Scalisi
+From Climate Chat to Climate Shock: Non‐Linear Impacts of Transition Risk in Energy CDS Markets
+Environmetrics , volume 36 , issue 3 Posted: 2025
+Crossref
+Alexander Blasberg , Rüdiger Kiesel
+Quantitative Energy Finance
+, p. 247 Posted: 2024
+Crossref
+Emanuele Campiglio , Luca De Angelis , Paolo Neri , Ginevra Scalisi
+From Climate Chat to Climate Shock: Non-Linear Impacts of Transition Risk in Energy CDS Markets
+ENEECO-D-23-01928 · 19 Pages · Posted: 16 Oct 2023 · Downloads: 48
+Download PDF  Add Paper to My Library
+Emanuele Campiglio , Luca De Angelis , Paolo Neri , Ginevra Scalisi
+From Climate Chat to Climate Shock: Non-Linear Impacts of Transition Risk in Energy CDS Markets
+ECOLEC-D-23-02691 · 20 Pages · Posted: 23 Feb 2024 · Downloads: 26
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+318
+ABSTRACT VIEWS
+1,456
+RANK
+217,404
+5 Citations
+92 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

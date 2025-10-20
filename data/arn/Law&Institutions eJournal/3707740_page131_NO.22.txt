@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting for Organizational Employment Impact
+
+Harvard Business School Accounting & Management Unit Working Paper No. 21-050
+
+88 Pages Posted: 9 Oct 2020 Last revised: 10 Aug 2021
+
+David Freiberg
+
+Harvard University - Business School (HBS)
+
+Katie Panella
+
+Harvard University - Harvard Business School
+
+George Serafeim
+
+Harvard Business School
+
+Rob Zochowski
+
+Harvard University - Business School (HBS)
+
+Date Written: January 15, 2021
+
+Abstract
+
+Organizations create significant positive and negative impacts through their employment practices. This paper builds on the substantial body of research regarding job quality and impact measurement to present a framework for monetized analysis of employment impact. We identify and propose a framework for measuring the four most salient dimensions of impact for employees, including wage quality, career advancement, opportunity, and health and wellbeing, as well as two principle impacts, diversity and employment location, for the broader labor community. The framework and methodology for calculating employment impact-weighted accounting figures is applied to several large corporations, resulting in positive impacts that range between 25 and 249% of their EBITDA suggesting significant heterogeneity in employment practices across organizations. These results demonstrate the feasibility of calculating employment impact in monetary terms, and provide a foundation for future application across additional geographies and contexts.
+
+Keywords: employment, wages, impact measurement, financial statements, benefits, childcare, gender, race
+
+JEL Classification: J16, J24, J28, J53, J63, J71, J81, J82, M40, M41, M14, M51, M51, M53, M54
+
+Suggested Citation:
+
+Freiberg, David and Panella, Katie and Serafeim, George and Zochowski, Rob, Accounting for Organizational Employment Impact (January 15, 2021). Harvard Business School Accounting & Management Unit Working Paper No. 21-050, Available at SSRN: https://ssrn.com/abstract=3707740 or http://dx.doi.org/10.2139/ssrn.3707740
+Download This Paper
+ 
+Open PDF in Browser
+155 References
+Figures for Intel in Table 19 differ from those presented earlier in the paper, due to sub-dimensions that were omitted for the sake of comparability across companies (e.g. data on Wage Equity was unavailable for Apple
+Crossref
+To calculate US EBITDA for Apple and Merck, we assume the same % of total EBITDA as US revenue/Total revenue
+Wage Quality does not include the Equity sub-dimension
+Additional detail on methodology used for these calculations is available upon request
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+997
+ABSTRACT VIEWS
+4,355
+RANK
+52,565
+3 Citations
+155 References
+PlumX Metrics
+Related eJournals
+
+Harvard Business School: Accounting & Management Unit Working Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

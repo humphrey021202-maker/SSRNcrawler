@@ -1,0 +1,153 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Default Risk on the Basu Measure of Accounting Conservatism
+
+43 Pages Posted: 6 Oct 2008 Last revised: 24 May 2011
+
+Richard Zhe Wang
+
+Eastern Illinois University
+
+Ciaran Ó Hogartaigh
+
+University College Dublin (UCD) - College of Business and Law
+
+Tony van Zijl
+
+Victoria University of Wellington - Te Herenga Waka - Faculty of Commerce and Administration
+
+Date Written: December 8, 2009
+
+Abstract
+
+In this paper, we analytically and empirically examine the impact of default risk on the Basu (1997) measure of accounting conservatism. Using the classic Merton (1974) call-option model of equity, we show that the Basu asymmetric timeliness coefficient is biased upward by the existence of the default risk in a firm, and that bias tends to increase with the level of default risk. Furthermore, we propose a new measure of conservatism, the Default-Adjusted-Basu (“DAB”) measure, by modifying the original Basu measure. The DAB measure is likely more robust to the influences of default risk than is the original Basu measure. Our empirical evidence is consistent with our theoretical arguments with regards to both the impact of default risk on original Basu measure and the advantage of our DAB measure of conservatism.
+
+Keywords: accounting conservatism, financial reporting, Basu model, asymmetric timeliness, financial distress
+
+JEL Classification: M41, G33
+
+Suggested Citation:
+
+Wang, Richard Zhe and Ó Hogartaigh, Ciaran and van Zijl, Tony, The Impact of Default Risk on the Basu Measure of Accounting Conservatism (December 8, 2009). Available at SSRN: https://ssrn.com/abstract=1279488 or http://dx.doi.org/10.2139/ssrn.1279488
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+A S Ahmed , S Duellman
+Accounting conservatism and board of director characteristics: An empirical analysis
+Journal of Accounting and Economics , volume 43 , issue jou_issue[1].xmlText , p. 411 - 437 Posted: 2007
+Crossref
+R Ball , S P Kothari , Robin , A
+The effect of international institutional factors on properties of accounting earnings
+Journal of Accounting and Economics , volume 29 , issue 1 , p. 1 - 51 Posted: 2000
+Crossref
+R Ball , L Shivakumar
+Earnings quality in UK private firms: Comparative loss recognition timeliness
+Journal of Accounting and Economics , volume 39 , issue 1 , p. 83 - 128 Posted: 2005
+Crossref
+S Basu
+The conservatism principle and the asymmetric timeliness of earnings
+Journal of Accounting and Economics , volume 24 , issue 1 , p. 3 - 37 Posted: 1997
+Crossref
+Load more
+2 Citations
+ميسون داود حسين
+أثر التحفظ المحاسبي على دلالة القوائم المالية )دراسة تطبيقية في شركات المساهمة العراقية(
+Tikrit Journal of Administrative and Economic Sciences , volume 18 , issue 60, 3 , p. 1 Posted: 2022
+Crossref
+AUDREY WEN-HSIN HSU , JOHN O'HANLON , KEN PEASNELL
+Financial Distress and the Earnings-Sensitivity-Difference Measure of Conservatism
+Abacus , volume 47 , issue 3 , p. 284 Posted: 2011
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+517
+ABSTRACT VIEWS
+2,672
+RANK
+124,488
+2 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

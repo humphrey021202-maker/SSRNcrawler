@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Accounting Methods - Which Retroactive 'Corrections' Require Service Consent?
+
+Posted: 13 Feb 2003
+
+Felix B. Laughlin
+
+Dewey Ballantine LLP
+
+Kathleen C. Dale
+
+Dewey Ballantine LLP
+
+Abstract
+
+Over the last three decades, the Internal Revenue Service has attempted, with uneven results, to uphold its expansive view of what constitutes a taxpayer-initiated change in method of accounting requiring the Service's consent under section 446(e). This issue arises when a taxpayer seeks to modify an accounting practice retroactively by (1) either unilaterally amending a prior return or, if an error in a prior return is found by the Service on audit, attempting to choose between permissible corrective practices, or (2) prospectively in a current return. This article focuses mainly on retroactive corrections.
+
+From the 1970 revision of the section 446 regulations defining methods of accounting to the present, taxpayers have won about half of the approximately 40 cases involving whether retroactive accounting practice corrections constituted accounting method changes. The Service's most important victory was in Diebold, Inc. v. United States, decided by the Federal Circuit in 1989. For taxpayers, the most significant recent victory was in Northern States Power Co. v. United States, decided by the Eighth Circuit in 1998.
+
+This article examines the confusing state of present law in an effort to clarify the important factors that go into determining which taxpayer-initiated retroactive accounting practice modifications are method changes requiring the Service's consent. The primary focus of the article will be to analyze the treatment by the Service and the courts of (1) retroactive changes in an accounting practice relating to a class or type of income or expense and (2) retroactive corrections under the error-within-a-method exception to method change treatment. Other corrections (which may be retroactive or prospective) under other exceptions to method change treatment are also noted. Part I sets forth the applicable law, including a discussion of the current regulatory definition of a change in method of accounting. Part I also identifies the fundamental legal principles that should come into play in these cases.
+
+Part II discusses the four main factors used by the courts and the Service in deciding whether a retroactive modification of an accounting practice is a method change, before considering whether any exception to method change treatment might apply: (1) which return is being amended or corrected on audit (the first one in which the old practice was used or subsequent returns), (2) whether the old practice was a permissible or impermissible choice, (3) how long the taxpayer had used the old practice, and (4) whether the change is being initiated by the taxpayer or by the Service. The interplay of these factors is depicted in Diagram A, located at the end of the article.
+
+Part III discusses the principal exception to method change treatment - the error-within-a-method exception - which can apply even if the initial analysis suggests that a retroactive modification otherwise could be a method change. Diagram B, located at the end of this article, illustrates when this exception applies.
+
+JEL Classification: H25, M40
+
+Suggested Citation:
+
+Laughlin, Felix B. and Dale, Kathleen C., Accounting Methods - Which Retroactive 'Corrections' Require Service Consent?. Available at SSRN: https://ssrn.com/abstract=379782
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,308
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Tax Law: Practitioner Series eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

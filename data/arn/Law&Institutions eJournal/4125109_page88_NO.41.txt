@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+IFRS-9 Adoption and Income Smoothing Nexus: A Comparison of the Post-Adoption Effects between European and Sub-Saharan African Banks
+
+25 Pages Posted: 14 Jun 2022 Last revised: 20 Jun 2022
+
+Daniel Taylor
+
+IESEG School of Management, Univ. Lille, CNRS, UMR 9221 - LEM - Lille Economie Management
+
+Francois Aubert
+
+(IAE) Institut d'Administration des Entreprises
+
+Date Written: June 1, 2022
+
+Abstract
+
+This paper compares the post-adoption effects of IFRS 9 on the income smoothing behavior of banks in Europe and Sub-Saharan Africa. The researchers extend their analysis to examine the effect of country-level governance on income smoothing. Using a sample of listed commercial banks in Europe and Sub-Saharan Africa, the authors employ varying econometric tests and panel regressions to investigate the hypotheses. The findings show a decrease in income smoothing across the full sample post-IFRS 9. Partitioned into sub-samples to explore potential economic heterogeneity and differing institutional context between the European and Sub-Saharan African settings, the authors report mixed evidence of higher and decreased income smoothing in Europe and Sub-Saharan Africa respectively. This is consistent with the theoretical arguments that the implementation effects of IFRS 9 are expected to vary across jurisdictions (Deloitte, 2016b). Also, governance quality mitigates the incidence of income smoothing. This paper is one of the first to empirically compare the income smoothing behavior of commercial banks in Europe and Sub-Saharan Africa following the adoption of IFRS 9. It, therefore, provides original insight into the theoretical argument that the adoption effects of IFRS 9 are expected to vary across jurisdictions depending on several factors like country, firm size, and institutional factors among others (Deloitte, 2016b). The findings highlight how bank managers in different jurisdictions exercise the inherent discretion under IFRS 9 over their financial reporting choices.
+
+Keywords: Income smoothing, IFRS 9 adoption, Banks, Corporate governance, Europe, Africa
+
+JEL Classification: G21, G14, M41
+
+Suggested Citation:
+
+Taylor, Daniel and Aubert, Francois, IFRS-9 Adoption and Income Smoothing Nexus: A Comparison of the Post-Adoption Effects between European and Sub-Saharan African Banks (June 1, 2022). Available at SSRN: https://ssrn.com/abstract=4125109 or http://dx.doi.org/10.2139/ssrn.4125109
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+A S Ahmed , C Takeda , S Thomas
+Bank loan loss provisions: a reexamination of capital management, earnings management and signaling effects
+Journal of Accounting and Economics , volume 28 , issue 1 , p. 1 - 25 Posted: 1999
+C C Ajekwe , A Ibiamke , M F Silas
+loan loss provisions, earnings smoothing and capital management under IFRS: the case of deposit money banks in Nigeria
+American Journal of Management Science and Engineering , volume 2 , issue 4 , p. 58 - 64 Posted: 2017
+M Amidu , H Issahaku
+Do globalization and adoption of IFRS by banks in Africa lead to less earnings management?
+Journal of Financial Reporting and Accounting , volume 17 , issue 2 , p. 222 - 248 Posted: 2019
+A Anandarajan , I Hasan , A Lozano-Vivas
+The role of loan loss provisions in earnings management, capital management and signaling: the Spanish experience
+Advances in International Accounting , volume 16 , p. 45 - 65 Posted: 2003
+Load more
+2 Citations
+Maher M. Dorgham , Ahmed A. M. AlAfifi , Abed Allah Kh. Abu Zaid
+Impact of Compliance with the International Financial Reporting Standard IFRS No. 9 on Financial Risk Reduction in Banks Listed on the Palestine Stock Exchange
+Journal of Accounting and Finance in Emerging Economies , volume 9 , issue 3 , p. 265 Posted: 2023
+Crossref
+Małgorzata Olszak , Christophe J. Godlewski , Gracjan Bachurewicz
+Determinants of bank income smoothing: Cross-country evidence from EEA banks during the COVID-19 pandemic crisis
+69 Pages · Posted: 28 Mar 2024 · Downloads: 74
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+335
+ABSTRACT VIEWS
+1,524
+RANK
+205,502
+2 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

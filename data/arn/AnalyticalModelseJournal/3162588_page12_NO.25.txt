@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting Noise and the Pricing of Cocos
+
+Tinbergen Institute Discussion Paper 2018-037/VI
+
+44 Pages Posted: 2 May 2018
+
+Mike Derksen
+
+University of Amsterdam - Korteweg-de Vries Institute for Mathematics
+
+Peter Spreij
+
+Universiteit van Amsterdam, Korteweg-de Vries Institute for Mathematics
+
+Sweder van Wijnbergen
+
+Universiteit van Amsterdam; Tinbergen Institute; Centre for Economic Policy Research (CEPR); National Bureau of Economic Research (NBER)
+
+There are 2 versions of this paper
+
+Date Written: April 8, 2018
+
+Abstract
+
+Contingent Convertible bonds (CoCos) are debt instruments that convert into equity or are written down in times of distress. Existing pricing models assume conversion triggers based on market prices and on the assumption that markets can always observe all relevant firm information. But all Cocos issued so far have triggers based on accounting ratios and/or regulatory intervention. We incorporate that markets receive information through noisy accounting reports issued at discrete time instants, which allows us to distinguish between market and accounting values, and between automatic triggers and regulator-mandated conversions. Our second contribution is to incorporate that coupon payments are contingent too: their payment is conditional on the Maximum Distributable Amount not being exceeded. We examine the impact of CoCo design parameters, asset volatility and accounting noise on the price of a CoCo; and investigate the interaction between CoCo design features, the capital structure of the issuing bank and their implications for risk taking and investment incentives. Finally, we use our model to explain the crash in CoCo prices after Deutsche Bank’s profit warning in February 2016.
+
+Keywords: Contingent Capital Pricing, Accounting Noise, Coco Triggers, Coco Design, Risk Taking Incentives, Investment Incentives
+
+JEL Classification: G12, G13, G18, G21, G28, G32
+
+Suggested Citation:
+
+Derksen, Mike and Spreij, Peter and van Wijnbergen, Sweder, Accounting Noise and the Pricing of Cocos (April 8, 2018). Tinbergen Institute Discussion Paper 2018-037/VI, Available at SSRN: https://ssrn.com/abstract=3162588 or http://dx.doi.org/10.2139/ssrn.3162588
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+B Albul , D Jaffee , Tchistyi A
+Contingent convertible bonds and capital structure decisions. Working paper, University of California Posted: 2012
+S Avdiev , B Bogdanova , P Bolton , Wei Jiang , A Kartasheva
+Coco issuance and bank fragility. Working paper, BIS Posted: 2017
+Barclays
+Barclays Coco IPO Posted: 2017-03-03
+Crossref
+D Brigo , J Garcia , N Pede
+Coco bonds valuation with equity-and-credit risk calibrated first passage structural models
+International Journal of Theoretical and Applied Finance , volume 18 , issue 3 Posted: 2015
+Load more
+3 Citations
+Michele Leonardo Bianchi , Gian Luca Tassinari
+Extracting implied volatilities from bank bonds
+Quantitative Finance , volume 23 , issue 7-8 , p. 1177 Posted: 2023
+Crossref
+Ioana Neamtu
+Multiple Buffer CoCos and Their Impact on Financial Stability
+46 Pages · Posted: 28 Feb 2020 · Downloads: 78
+Download PDF  Add Paper to My Library
+Ioana Neamtu
+Multiple Buffer CoCos and Their Impact on Financial Stability
+Tinbergen Institute Discussion Paper 2020-010/IV · 48 Pages · Posted: 12 Mar 2020 · Downloads: 54
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+120
+ABSTRACT VIEWS
+1,603
+RANK
+527,931
+3 Citations
+26 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

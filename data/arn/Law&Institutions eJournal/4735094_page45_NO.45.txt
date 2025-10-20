@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Firms Incur Financial Restatements? -A Recognition Study Based on Textual Features of Key Audit Matters Reports
+
+35 Pages Posted: 22 Feb 2024
+
+Xin Huang
+
+Hunan University of Technology and Business
+
+Hao Huang
+
+affiliation not provided to SSRN
+
+Liang Yuan
+
+Hunan University of Technology and Business; Hunan University
+
+Abstract
+
+This article takes China's A-share non-financial listed companies from 2016-2019 as a research sample, and strips three textual features of listed companies' reports on key audit matters through textual analysis to study the identification of the textual features of key audit reports on the probability of the occurrence of corporate financial restatement behaviors. The study found that firms with a worse level of readability of key audit matters, a more negative net tone of key audit matters, and a greater level of detail of key audit matters had a higher probability of financial restatement behavior. investors can infer the probability of a firm's financial restatement behavior by using the above three textual features, and the identification remains reliable and valid after various robustness tests. It is further found that the method of identifying the probability of a firm's financial restatement behavior through the textual features of the report on key audit matters is more significant and effective for firms that have strong external monitoring, high investor sentiment, no negative media reports, and no penalties imposed on the firm and its executives. The findings of this paper not only reflect the importance of disclosure of information on key audit matters reported by listed companies, but also put forward new ideas for investors' equity investment and regulators' regulatory direction. Investors and regulators can infer the probability of a financial restatement of a company through the textual characteristics of the report on key audit matters, and then take appropriate investment and regulatory programs to safeguard investors' rights and interests.
+
+Keywords: Key Audit Matters, Net Tone, readability, text analysis, Financial Restatement
+
+Suggested Citation:
+
+Huang, Xin and Huang, Hao and Yuan, Liang, Do Firms Incur Financial Restatements? -A Recognition Study Based on Textual Features of Key Audit Matters Reports. Available at SSRN: https://ssrn.com/abstract=4735094 or http://dx.doi.org/10.2139/ssrn.4735094
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+Baber W R , Kumar K R , T Verghese
+Client security price reactions to the Laventhol and Horwath bankruptcy
+Journal of Accounting Research , volume 33 , issue 2 , p. 358 - 395 Posted: 1995
+D A Bens , M Cheng , M Neamtiu
+The Impact of SEC disclosure monitoring on the uncertainty of fair value estimates
+Accounting Review , volume 91 , issue 2 , p. 349 - 375 Posted: 2016
+J L Callen , S Robb , Dan S
+Revenue Manipulation and Restatements by Loss Firms
+Auditing A Journal of Practice & Theory , volume 27 , issue 2 , p. 1 - 29 Posted: 2008
+S Cheng , J M Liu , Y Cheng
+Complementing or disguising: surplus manipulation and non-financial disclosure in MD&A
+Accounting Research , issue 8 , p. 11 - 18 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+104
+ABSTRACT VIEWS
+499
+RANK
+601,090
+43 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Asymmetric Timeliness in Earnings: Insights from Earnings Decomposition
+
+42 Pages Posted: 27 Jan 2021 Last revised: 24 Jun 2025
+
+Andrew B. Jackson
+
+UNSW Australia Business School, School of Accounting
+
+Yaowen Shan
+
+University of Technology Sydney; Financial Research Network (FIRN)
+
+Stephen L. Taylor
+
+University of Technology Sydney; Financial Research Network (FIRN)
+
+Date Written: June 24, 2025
+
+Abstract
+
+Following Watts (2003), we predict and find that evidence of asymmetric timeliness (AT) in earnings (i.e., conditional conservatism) is primarily confined to earnings components that are relatively harder to verify. Using the approach suggested by Basu (1997), we find that evidence consistent with AT is almost exclusively found in the idiosyncratic component of earnings, with little, if any, evidence of AT for industry and market-wide earnings components. We further show that this result is robust to controlling for several identified forms of bias (Badia et al. 2021) and possible asset curtailments (Lawrence et al. 2018), as well as the use of a simple placebo. Finally, we show that our conclusions are robust to the alternative method suggested by Basu for identifying AT (i.e., consecutive earnings changes). Our results indicate that researchers documenting the extent of AT should exclude earnings components where AT is less likely to be found. At a minimum, the use of “bottom-line” earnings adds significant noise to identifying the extent of AT and increases the likelihood of alternative explanations for observed AT. 
+
+Keywords: Capital markets, Conservatism, Asymmetric Timeliness, Earnings Decomposition
+
+JEL Classification: D82, G14, M41, N20
+
+Suggested Citation:
+
+Jackson, Andrew B. and Shan, Yaowen and Taylor, Stephen L.,
+
+Asymmetric Timeliness in Earnings: Insights from Earnings Decomposition
+
+(June 24, 2025). Available at SSRN: https://ssrn.com/abstract=3736277 or http://dx.doi.org/10.2139/ssrn.3736277
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+D Aboody , B Lev
+Information asymmetry, R&D, and insider gains
+Journal of Finance , volume 55 , issue 6 , p. 2747 - 2766 Posted: 2000
+Basic concepts and accounting principles underlying financial statements of business enterprises Posted: 1970
+M M Badia , F Duro , S G Penalva , Ryan
+Debiasing the measurement of conditional conservatism
+Journal of Accounting Research , volume 59 , issue 4 , p. 1221 - 1259 Posted: 2021
+R Ball
+Infrastructure requirements for an economically efficient system of public financial reporting and disclosure
+Brookings-Wharton Papers on Financial Services , p. 127 - 182 Posted: 2001
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+188
+ABSTRACT VIEWS
+1,229
+RANK
+368,155
+48 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

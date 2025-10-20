@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Effects of Materiality and Assurance of Environmental and Social Disclosures on Analysts’ Forecast Accuracy
+
+29 Pages Posted: 22 Nov 2016 Last revised: 3 Dec 2016
+
+Carlos Martinez
+
+Independent
+
+Date Written: October 12, 2016
+
+Abstract
+
+Purpose: The aim of this paper is to evaluate the effect of the materiality and external assurance of environmental and social (E&S) disclosures on analysts’ forecast accuracy.
+
+Design/methodology/approach: Hypotheses were evaluated using panel data regression with firm-time fixed effects and robust standard errors clustered at the firm level. A materiality disclosure index was computed by hand-matching the GRI’s sector-specific guidelines with ASSET4’s scores for an international sample of companies in 6 sectors. Heckman two-stage regressions were used to account for a potential endogeneity problem.
+
+Findings: The results show a statistically significant positive association between the level of material E&S disclosures and analysts’ accuracy. They also indicate that the effect of external assurance on analysts’ forecast accuracy depends on the level of materiality.
+
+Originality/value: This paper contributes to the ESG/CSR disclosure literature by isolating the effects of the E&S performance and material disclosures on the accuracy of analysts, the mediators of the relationship between CSR performance and Corporate Financial Performance (CFP). Furthermore, it extends findings of previous authors by showing that the effect of external assurance provided by auditing firms on analysts’ accuracy depends on the report’s level of materiality. These findings have direct relevance for firms, proponents of sector-specific ESG disclosure guidelines, and auditing firms.
+
+Keywords: CSR, ESG, disclosure, forecast accuracy, assurance
+
+Suggested Citation:
+
+Martinez, Carlos, Effects of Materiality and Assurance of Environmental and Social Disclosures on Analysts’ Forecast Accuracy (October 12, 2016). Available at SSRN: https://ssrn.com/abstract=2872206 or http://dx.doi.org/10.2139/ssrn.2872206
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+339
+ABSTRACT VIEWS
+2,006
+RANK
+202,849
+1 Citations
+64 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

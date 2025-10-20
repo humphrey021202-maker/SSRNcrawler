@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+esg2go: A Method to Reduce Bias, Improve Coherence, and Increase Practicality of ESG Rating and Reporting
+
+20 Pages Posted: 17 Jun 2024
+
+Philipp Aerni
+
+University of Applied Sciences Western Switzerland (HES-SO); University of Zurich - Center für Nachhaltigkeit und unternehmerische Verantwortung (CCRS)
+
+Isa Cakir
+
+Center on Corporate Responsibility
+
+Manfred Max Bergman
+
+Department of Social Research and Methodology, University of Basel
+
+Date Written: December 15, 2023
+
+Abstract
+
+Rating agencies that assess a company's environmental, social, and corporate governance (ESG) impact have been subject to public and academic scrutiny due to divergent and often biased rating outcomes. Concurrently, an evolving regulatory environment mandates publicly listed companies to report on ESG and climate emissions, taking into account supply chain risks as well. As a result, small and medium-sized enterprises (SMEs) are increasingly asked as suppliers to present a credible sustainability certificate. The esg2go rating and reporting system aims at improving the credibility and practicality of corporate sustainability assessment. It was jointly developed with its users and relevant stakeholders and is based on a calibrated benchmarking system from verifiable data. The rating method enables the measurement and comparison of sector-and firm size-specific sustainability performance. Its underlying adaptive parametrization is derived from a coherent and pragmatic definition of SME sustainability as the 'ability to co-exist'. Our data analyses indicate that our scoring function is able to minimize bias and deliver a fair comparability between SMEs. We conclude that esg2go represents a pragmatic and innovative approach to enhance the fairness and accuracy of corporate sustainability assessment.
+
+Keywords: corporate sustainability assessment, rating bias, ESG, SME, SDG, calibrated benchmarking, transparency, coexistence, footprint, handprint, model arbitrage
+
+Suggested Citation:
+
+Aerni, Philipp and Cakir, Isa and Bergman, Manfred Max, esg2go: A Method to Reduce Bias, Improve Coherence, and Increase Practicality of ESG Rating and Reporting (December 15, 2023). Available at SSRN: https://ssrn.com/abstract=4859346 or http://dx.doi.org/10.2139/ssrn.4859346
+Download This Paper
+ 
+Open PDF in Browser
+69 References
+C Hiessl
+Labour rights & their enforcement in global value chains
+ERA Forum , volume 24 , p. 201 - 215 Posted: 2023
+P Griffin , A M Jaffe
+Challenges for a climate risk disclosure mandate
+Nat. Energy , volume 7 , p. 2 - 4 Posted: 2022
+D A Cifrino , W Mcdermott , L L Emery
+The Rise of International ESG Disclosure Standards
+Harvard Law School Forum on Corporate Governance. Available online Posted: 2023-06-29
+Corporate Sustainability Reporting Directive Posted: 2023-10-02
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+73
+ABSTRACT VIEWS
+526
+RANK
+753,736
+69 References
+PlumX Metrics
+Related eJournals
+
+Social Sciences Education eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

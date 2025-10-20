@@ -1,0 +1,152 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Incomplete Financial Markets and Jumps in Asset Prices
+
+University of Copenhagen Department of Economics Discussion Paper No. 09-12
+
+18 Pages Posted: 25 Jul 2009
+
+Hervé Cres
+
+HEC Paris
+
+Tobias Markeprand
+
+affiliation not provided to SSRN
+
+Mich Tvede
+
+University of Copenhagen - Department of Economics
+
+Date Written: July 23, 2009
+
+Abstract
+
+A dynamic pure-exchange general equilibrium model with uncertainty is studied. Fundamentals are supposed to depend continuously on states of nature. It is shown that: 1. if financial markets are complete, then asset prices vary continuously with states of nature, and; 2. if financial markets are incomplete, jumps in asset prices may be unavoidable. Consequently incomplete financial markets may increase volatility in asset prices significantly.
+
+Keywords: general equilibrium, financial markets, jumps in asset prices
+
+JEL Classification: D52, D53, G12
+
+Suggested Citation:
+
+Cres, Hervé and Markeprand, Tobias and Tvede, Mich Palle, Incomplete Financial Markets and Jumps in Asset Prices (July 23, 2009). University of Copenhagen Department of Economics Discussion Paper No. 09-12, Available at SSRN: https://ssrn.com/abstract=1438032 or http://dx.doi.org/10.2139/ssrn.1438032
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+T Andersen , L Benzoni , &amp; J Lund
+An empirical investigation of continuous-time equity return models
+Journal of Finance , volume 57 , p. 1230 - 1284 Posted: 2002
+Crossref
+P Balduzzi , S Foresi , &amp; D Hait
+Price Barriers and the dynamics of asset prices in equilibrium
+Journal of Financial and Quantitative Analysis , volume 32 , p. 137 - 159 Posted: 1997
+Crossref
+R Bansal , &amp; I Shaliastovich
+Learning, long run risks and asset price jumps Posted: 2008
+T Bewley
+Existence of equilibrium in economies with infinitely many commmodities
+Journal of Economic Theory , volume 4 , p. 514 - 540 Posted: 1972
+Crossref
+Load more
+2 Citations
+Enrique Covarrubias
+The equilibrium set of economies with a continuous consumption space
+Journal of Mathematical Economics , volume 47 , issue 2 , p. 137 Posted: 2011
+Crossref
+Enrique Covarrubias
+The number of equilibria of smooth infinite economies
+Journal of Mathematical Economics , volume 49 , issue 4 , p. 263 Posted: 2013
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+99
+ABSTRACT VIEWS
+1,483
+RANK
+622,944
+2 Citations
+17 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Recommended Papers
+
+The Exchange Rate and its Fundamentals. A Chaotic Perspective
+
+By Paul De Grauwe and Marianna Grimaldi
+
+"Price Barriers" and the Dynamics of Asset Prices in Equilibrium
+
+By Pierluigi Balduzzi, Silverio Foresi, ...
+
+How Credible are the Exchange Rate Regimes of the EU Accession Countries? Empirical Evidence from Market Sentiments
+
+By Bernhard Herz and Christian Bauer
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

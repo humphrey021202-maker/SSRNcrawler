@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Earnings Quality, Profit at Risk, Conservatism, Earnings Management, Objectivity and Why Accounting Allocations Matter: A Statistical Perspective
+
+48 Pages Posted: 9 Jun 2013
+
+Roger J. Willett
+
+Victoria University of Wellington - Te Herenga Waka - Victoria Business School
+
+Date Written: February 14, 2012
+
+Abstract
+
+Earnings quality, conservative accounting and earnings management, are interpreted in a variety of ways in theory and empirical research in the accounting literature. Little attention is paid, in defining these concepts, to the accounting measurement procedures that generate accounting numbers or to how they reflect the underlying economic fundamentals of firm activities. This paper focuses on the statistical properties imparted to accounting earnings by accounting measurement practices. Accuracy, objectivity and impartiality in making accounting allocations and honesty and timeliness in correcting errors determine the level of earnings quality and the extent of earnings management. Conservatism is seen as a concept that relates to the risk in profit, rather than to its return element. Statistically, greater precision in accounting allocations leads to greater quality of earnings as a naturally conservative estimate of profit. Inaccurate, subjective or dishonest capitalization of expenditure is the main threat to conservatism and the quality of earnings. Formulae necessary to construct confidence intervals for reported earnings are provided.
+
+Keywords: Earnings quality, earnings management, conservatism, financial risk, statistical activity cost analysis
+
+JEL Classification: M41, C13, C60
+
+Suggested Citation:
+
+Willett, Roger J., Earnings Quality, Profit at Risk, Conservatism, Earnings Management, Objectivity and Why Accounting Allocations Matter: A Statistical Perspective (February 14, 2012). Available at SSRN: https://ssrn.com/abstract=2276191 or http://dx.doi.org/10.2139/ssrn.2276191
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+Extent of increase (+) or decrease (-) in total earnings volatility comapred to the volatility of the demand component of earnings(in $) Number of accounting periods over which depreciation is charged (one period less than estimate of useful life of fixed asset)
+W S Albrecht
+Estimation error in income determination
+The Accounting Review , p. 823 - 860 Posted: 1976-10
+S Basu
+The conservatism principle and the asymmetric timeliness of earnings
+Journal of Accounting and Economics , volume 24 , p. 3 - 37 Posted: 1997
+Crossref
+R P Brief , J Owen
+A Least Squares Allocation Model'
+Journal of Accounting Research , volume 6 , issue 2 , p. 193 - 199 Posted: 1968
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+404
+ABSTRACT VIEWS
+2,210
+RANK
+166,639
+33 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

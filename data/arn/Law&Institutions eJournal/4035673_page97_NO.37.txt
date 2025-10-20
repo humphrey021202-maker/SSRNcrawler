@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Improving the Measurement of Tax Residence: Implications for Research on Corporate Taxation
+
+71 Pages Posted: 7 Mar 2022 Last revised: 13 Dec 2024
+
+Jean-Marie Meier
+
+University of Texas at Dallas - Naveen Jindal School of Management; University of Pennsylvania - Finance Department
+
+Jake Smith
+
+Securities and Exchange Commission (SEC)
+
+Date Written: February 15, 2022
+
+Abstract
+
+We propose an improved measurement of a key data item in corporate tax research, a firm’s tax residence. Prior research uses one of three proxies, which are in conflict with tax laws around the world. We use a novel algorithm that embeds the residency laws of 150 countries over 20 years to accurately assign tax residence and reassign a considerable fraction of firms relative to standard proxies. We provide evidence from two applications that reassignment significantly affects inferences. For instance, 20.7% of cross-border mergers and acquisitions involve an acquiror or target that is reassigned. Reassigned firms are systematically different from other firms along several dimensions, including effective tax rates.
+
+Keywords: Corporate taxation, tax residence, tax law, mergers and acquisitions, tax havens
+
+JEL Classification: H25, C81, H73, G34, K34, K33
+
+Suggested Citation:
+
+Meier, Jean-Marie and Smith, Jake, Improving the Measurement of Tax Residence: Implications for Research on Corporate Taxation (February 15, 2022). Available at SSRN: https://ssrn.com/abstract=4035673 or http://dx.doi.org/10.2139/ssrn.4035673
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+A Alstadsaeter , B Planterose , G Zucman , A Økland
+Who Owns Offshore Real Estate? Evidence from Dubai Posted: 2022
+A Babkin , B Glover , O Levine
+Are Corporate Inversions Good for Shareholders
+Journal of Financial Economics , volume 126 , issue 2 , p. 227 - 251 Posted: 2017
+H Bollaert , M Delanghe
+Securities Data Company and Zephyr, Data Sources for M&A Research
+Journal of Corporate Finance , volume 33 , p. 85 - 100 Posted: 2015
+S Bradley , L Robinson , M Ruf
+The Impact of IP Box Regimes on the M&A Market
+Journal of Accounting and Economics Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+297
+ABSTRACT VIEWS
+2,953
+RANK
+234,143
+33 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

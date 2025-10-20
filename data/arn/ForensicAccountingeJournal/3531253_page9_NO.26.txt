@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Revising Audit Plans to Address Fraud Risk: A Case of 'Do as I Advise, Not as I Do'?
+
+Contemporary Accounting Research, volume 37, issue 4, 2020[10.1111/1911-3846.12590]
+
+Posted: 23 Feb 2020 Last revised: 10 Apr 2025
+
+Tim Bauer
+
+University of Waterloo - School of Accounting and Finance
+
+Sean M. Hillison
+
+Virginia Tech
+
+Mark E. Peecher
+
+University of Illinois at Urbana-Champaign; Gies College of Business; University of Illinois College of Law
+
+Bradley Pomeroy
+
+University of Waterloo
+
+Date Written: January 21, 2020
+
+Abstract
+
+Prior research documents that auditors fail to revise audit plans to effectively address identified fraud cues. While auditors may understand what evidence would address such cues, we propose that auditors fail to apply this understanding because they use implemental mindsets when making decisions for themselves (i.e., deciding). However, we also propose that auditors use deliberative mindsets when advising. To test our predictions, we assign auditors to a decider or an advisor role in a realistic case that contains seeded fraud cues and asks them to consider revising last year’s plan. We also manipulate whether the case prompts auditors to revise the plan unconventionally. Results indicate decider-condition auditors use implemental mindsets: Prompted deciders follow the unconventional plan without regard to underlying fraud risk and unprompted deciders stick with the same-as-last-year plan. Advisor-condition auditors use more deliberative mindsets: In the prompt and no prompt conditions, they identify plans that are strongly linked to their own fraud risk assessments and that better align with experts’ recommended plan for effectively addressing the seeded fraud cues. Supplemental analyses suggest deciding and advising auditors both follow experts’ plan when they believe in its potential effectiveness but, after controlling for the influence of perceived effectiveness, deciding auditors follow it to a greater extent simply because they believe the PCAOB wants it. By contrast, advising auditors do not exhibit signs of excessive PCAOB influence. Our findings provide evidence that seeking informal advice (or thinking like an advisor) helps auditors to effectively revise audit plans in response to identified fraud risk – it helps when a prompt is present or not, suggesting it complements rather than merely substitutes for interventions meant to improve auditors’ judgment and decision-making.
+
+Keywords: advice, audit planning, financial statement fraud, mindsets, self-other decision-making
+
+Suggested Citation:
+
+Bauer, Tim and Hillison, Sean and Peecher, Mark E. and Pomeroy, Bradley, Revising Audit Plans to Address Fraud Risk: A Case of 'Do as I Advise, Not as I Do'? (January 21, 2020). Contemporary Accounting Research, volume 37, issue 4, 2020[10.1111/1911-3846.12590], Available at SSRN: https://ssrn.com/abstract=3531253 or http://dx.doi.org/10.1111/1911-3846.12590
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+647
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

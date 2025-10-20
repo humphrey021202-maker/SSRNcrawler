@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An explanation of path analysis and recommendations for best practice
+
+45 Pages Posted: 23 Jun 2023 Last revised: 19 Aug 2025
+
+Clive S. Lennox
+
+University of Southern California
+
+Carmen Payne-Mann
+
+University of Southern California - Leventhal School of Accounting
+
+Date Written: August 01, 2025
+
+Abstract
+
+Path analysis has become increasingly popular, but many studies do not show a deep understanding of how path analysis works or the assumptions on which it relies. In this paper, we explain that path analysis is statistically equivalent to either ordinary least squares (OLS) when the researcher assumes uncorrelated errors, or instrumental variable estimation (IV) when the researcher allows correlated errors and obtains identification using exclusion restrictions. We then identify two problems with the way path analysis is used. First, studies claim that they use path analysis to provide evidence on the causal process, but they assume away endogeneity by imposing the unrealistic assumption of uncorrelated errors. Second, many studies do not explicitly disclose their key assumptions, including the assumptions of uncorrelated errors or exclusion restrictions. This non-disclosure makes it difficult for a reader to determine whether endogeneity is assumed away or whether the study is attempting to address endogeneity. We conclude with detailed guidance for researchers who are considering whether to use path analysis in their research.
+
+Keywords: path analysis
+
+JEL Classification: B41; M40
+
+Suggested Citation:
+
+Lennox, Clive and Payne-Mann, Carmen, An explanation of path analysis and recommendations for best practice (August 01, 2025). Available at SSRN: https://ssrn.com/abstract=4476786 or http://dx.doi.org/10.2139/ssrn.4476786
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+J D Angrist , J S Pischke
+Mostly harmless econometrics: An empiricist's companion Posted: 2009
+C Armstrong , J Kepler , D Samuels , D Taylor
+Causality redux: The evolution of empirical methods in accounting research and the growth of quasi-experiments
+Journal of Accounting and Economics , volume 74 , issue 2-3 Posted: 2022
+H S Asay , R Guggenmos , K Kadous , L Koonce , R Libby
+Theory testing and process evidence in accounting experiments
+The Accounting Review , volume 97 , issue 6 , p. 23 - 43 Posted: 2022
+Load more
+2 Citations
+Yaohua Qin , He Xiao
+The mandatory audit partner rotation policy and cost of debt
+Journal of Accounting and Public Policy , volume 44 , p. 107182 Posted: 2024
+Crossref
+Eric R. Condie , Ling Lei Lisic , Timothy A. Seidel , Jonathan Michael Truelson , Aleksandra B. Zimmerman
+Does gender and ethnic diversity among audit partners influence office‐level audit personnel retention and audit quality?
+Contemporary Accounting Research , volume 40 , issue 4 , p. 2477 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+794
+ABSTRACT VIEWS
+2,209
+RANK
+71,741
+2 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

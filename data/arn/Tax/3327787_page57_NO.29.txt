@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Relation Between Operational Efficiency and Tax Aggressiveness in Brazil
+
+27 Pages Posted: 20 Feb 2019
+
+Antonio Lopo Martinez
+
+University of Coimbra Institute for Legal Research; University of Salamanca
+
+Eloy Paste Junior
+
+Independent
+
+Date Written: August 1, 2018
+
+Abstract
+
+This paper studies whether there is a relation between the operational efficiency measured through the Data Envelopment Analysis (DEA) models and the tax aggressiveness of the Brazilian public companies listed on B3 between the period of 2010 to 2015. The main hypothesis is that companies that are more operational efficient are in average less tax aggressive. Or, in other words, we predict that the less operational efficient companies have usually to engage in tax aggressiveness strategies more often. An efficiency score was calculated considering the outputs and inputs of the companies, classifying them according to the Data Envelopment Analysis (DEA) models to determine the relative company’s operational efficiency. The tax aggressiveness was measured by the difference between the Effective Tax Rates (ETR) and the average of ETR of companies from specifics economic sectors. Five relevant economic sectors were evaluated. A Data Panel model was estimated using the fixed effects. Considering the regression of all sectors, the results confirmed the hypothesis that companies that are more operational efficient in average tend to be less tax aggressive. However, when the samples were separated by sectors, only in the Energy and Textile Sectors this relation is significant.
+
+Keywords: Tax Aggressiveness. Operational Efficiency. Data envelopment analysis (DEA)
+
+JEL Classification: M41, M11
+
+Suggested Citation:
+
+Martinez, Antonio Lopo and Paste Junior, Eloy, The Relation Between Operational Efficiency and Tax Aggressiveness in Brazil (August 1, 2018). Available at SSRN: https://ssrn.com/abstract=3327787 or http://dx.doi.org/10.2139/ssrn.3327787
+Download This Paper
+ 
+Open PDF in Browser
+75 References
+L Angulo Meza
+ISYDS: Integrated System for Decision Support (SIAD -Sistema Integrado de Apoio a Decisão): a software package for data envelopment analysis model
+Pesquisa Operacional
+, p. 493 - 503 Posted: 2005
+G A Antunes , G R Guedes
+Risco de insolvência e risco sistemático: ralação teórica não verificada na BOVESPA. RAE (Edição Especial: Minas Gerais), v. 46, n. especial , p. 58 - 71 Posted: 2006
+C Armstrong , J Blouin , D Larcker
+The incentives for tax planning
+Journal of Accounting and Economics , issue 1 , p. 391 - 411 Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+203
+ABSTRACT VIEWS
+1,702
+RANK
+342,603
+75 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Law Enforcement and the Size of the Informal Sector
+
+51 Pages Posted: 27 May 2020
+
+Miguel Acosta-Henao
+
+Central Bank of Chile; CUNY Graduate Center
+
+Date Written: April 23, 2020
+
+Abstract
+
+I assemble new cross-country evidence showing that contrary to the standard view, the relationship between the size of the informal sector and tax rates is, at best, ambiguous. Law enforcement and informality also show no clear relation. Motivated by these findings, I augment a standard two-sector (formal and informal) small open economy model with endogenous law enforcement that depends on the size of the informal sector (measured by its assets) and government expenditure. I use a micro-dataset from Colombia to show that both taxes and law enforcement are necessary to match the the size of the informal sector observed in the data. In the absence of law enforcement, tax evasion incentives imply a counterfactually large informal sector. However law enforcement motivates households to reduce the supply of capital to the informal sector, decreasing the probability of detection. The dependence of the latter on government expenditure creates a non-linearity between tax rates and the size of the informal sector through a Laffer curve. The model implies that lowering tax rates would not necessarily reduce the size of the informal sector since there is a trade-off with law enforcement capability.
+
+Keywords: Informal sector, Law enforcement, Tax policy
+
+JEL Classification: E26, E62, F41, O17
+
+Suggested Citation:
+
+Acosta-Henao, Miguel, Law Enforcement and the Size of the Informal Sector (April 23, 2020). Available at SSRN: https://ssrn.com/abstract=3588010 or http://dx.doi.org/10.2139/ssrn.3588010
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+Mark Aguiar , Gita Gopinath
+Emerging market business cycles: The cycle is the trend Posted: 2004
+Crossref
+Mark Aguiar , Gita Gopinath
+Emerging market business cycles: The cycle is the trend
+Journal of Political Economy , volume 115 , issue 1 , p. 69 - 102 Posted: 2007
+Crossref
+Pedro S Amaral , Erwan Quintin
+A competitive model of the informal sector
+Journal of Monetary Economics , volume 53 , issue 7 , p. 1541 - 1553 Posted: 2006
+Crossref
+David Bardey , Daniel Mejía
+Informality and optimal public policy
+Economía , volume 19 , issue 2 , p. 1 - 19 Posted: 2019
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+111
+ABSTRACT VIEWS
+1,222
+RANK
+572,233
+43 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Macroeconomics: Employment, Income & Informal Economy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

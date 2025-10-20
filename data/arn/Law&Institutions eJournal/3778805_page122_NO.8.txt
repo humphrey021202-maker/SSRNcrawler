@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Panel Data Analysis of Stock Returns and Accounting Information in Indian Paint Industry
+
+International Journal of Management, Technology, and Social Sciences (IJMTS), 6(1), 32-40, February 2021
+
+9 Pages Posted: 18 Mar 2021
+
+Pradeep Kumar Rangi
+
+Srinivas University
+
+P. S. Aithal
+
+Poornaprajna Institute of Management, Udupi
+
+Date Written: February 3, 2021
+
+Abstract
+
+The accounting ratios and published financial information serve as a critical tool for investors, creditors, and other stakeholders to ascertain companies' profitability, control, and financial status, which may significantly impact the Stock returns and performance on exchanges. This paper aims to examine whether crucial accounting information affects the price of paint companies in India. In this paper, nine-years (2012-2020) accounting ratios such as returns on asset, equity, and cash cycles for the five listed paint companies in India as explanatory (independent) variables to estimate stock returns. Secondary data is collected chronologically and at a regular yearly frequency. Variables data are derived from the company’s financial statements, Stock Exchange and related website. The study aims to assess and elaborate these accounting ratios effectiveness to substantiate the stock returns of these listed companies. The study uses three-panel data models, the pooled OLS, fixed and random effects, to assess stock returns for the cross-sectional data of these five paint companies. This research indicates that accounting information is significant and positively affects the price of Paint company stock returns on the stock exchange. Both Fixed and Random effect model found to fit the data, significance level of 0.05 (Fixed (FE) at F= 6.3625, p<0.000 and R2 of 0.5462, i.e., fixed effect elaborates for about 55% of the return variance. Random effect at F=10.8647 and p<0.000 and R2 of 0.4429, i.e., elaborates for about 44% of stock return variance. Based on the Hausman data test alternative hypothesis is found to be consistent and therefore Random Effect (RE) model is being used to conclude the findings. The paper's fundamental limitation includes use of limited regressors, companies, and time period. A further qualitative analysis together with other accounting performance indicators as regressors may be included in future studies. These ratios include interest coverage, debt ratios, effective tax rates, asset turnover ratios, dividend distribution ratios, sustainable growth, and top line revenue growth.
+
+Keywords: Panel data, Paint industry, Hausman, Stock Returns, Accounting Ratios
+
+Suggested Citation:
+
+Rangi, Pradeep Kumar and Aithal, P. S., A Panel Data Analysis of Stock Returns and Accounting Information in Indian Paint Industry (February 3, 2021). International Journal of Management, Technology, and Social Sciences (IJMTS), 6(1), 32-40, February 2021, Available at SSRN: https://ssrn.com/abstract=3778805
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+J Ramachandran , J Garg
+Asian Paints Limited: Painting History, Indian Institute of Management Bangalore , volume 749 , p. 1 - 25 Posted: 2019
+H Markowitz
+Portfolio Selection
+The Journal of Finance , volume 7 , issue 1 , p. 77 - 91 Posted: 1952
+Crossref
+H M Markowitz
+Portfolio Selection: Efficient Diversification of Investments , volume 1 , p. 1 - 368 Posted: 1959
+W F Sharpe
+Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk
+The Journal of Finance , volume 19 , issue 1 , p. 425 - 442 Posted: 1964
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+684
+ABSTRACT VIEWS
+2,678
+RANK
+87,177
+26 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

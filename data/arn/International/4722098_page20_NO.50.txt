@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Standing on the Shoulders of Giants: Financial Reporting Comparability and Knowledge Accumulation
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+48 Pages Posted: 29 Feb 2024 Last revised: 9 Feb 2025
+
+Kevin Tseng
+
+The Chinese University of Hong Kong (CUHK) - CUHK Business School
+
+Rong (Irene) Zhong
+
+University of Illinois at Chicago - Department of Accounting
+
+Date Written: February 10, 2024
+
+Abstract
+
+This study examines whether and how financial statement comparability facilitates the dissemination of innovative knowledge between firms and stimulates the creation of new knowledge. Using cross-patent citations to track interfirm knowledge transfers, we find that comparability increases firms’ incentives to learn from peers and create new patents that cite their peers’ existing patents. The investigation into the mechanism reveals that comparability improves firms’ ability to estimate the monetary value of peer knowledge and predict their own financial benefits from knowledge acquisition. The impact of comparability is more pronounced when peer knowledge is more publicly accessible or of higher monetary value. Consequently, the acquired knowledge fosters follow-on innovation, enabling firms to produce more patents with greater economic significance. Evidence from two quasi-natural experiments suggests that our findings are plausibly causal. Overall, our study highlights the important role of accounting comparability in facilitating knowledge dissemination.
+
+Keywords: innovation, patent valuation, externality, knowledge spillover, knowledge dissemination
+
+JEL Classification: D83, M40, M41, O33
+
+Suggested Citation:
+
+Tseng, Kevin and Zhong, Rong (Irene), Standing on the Shoulders of Giants: Financial Reporting Comparability and Knowledge Accumulation (February 10, 2024). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=4722098
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+D Aboody , B Lev
+Information asymmetry, R&D, and insider gains
+The Journal of Finance , volume 55 , p. 2747 - 2766 Posted: 2000
+P Aghion , P Howitt , A Agrawal , A Galasso , A Oettl
+A model of growth through creative destruction
+Roads and innovation. Review of Economics and Statistics , volume 60 , p. 417 - 434 Posted: 1992
+P Azoulay , J S Graff Zivin , J Wang
+Superstar extinction
+The Quarterly Journal of Economics , volume 125 , p. 549 - 589 Posted: 2010
+B Badertscher , N Shroff , H D White
+Externalities of public firm presence: Evidence from private firms' investment decisions
+Journal of Financial Economics , volume 109 , p. 682 - 706 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+292
+ABSTRACT VIEWS
+1,524
+RANK
+238,435
+5 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

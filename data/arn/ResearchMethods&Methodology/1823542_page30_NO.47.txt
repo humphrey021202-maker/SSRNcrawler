@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Discussion of ‘Why Do EPS Forecast Error and Dispersion Not Vary with Scale? Implications for Analyst and Managerial Behavior’
+
+Journal of Accounting Research, Forthcoming
+
+Chicago Booth Accounting Research Center Research Paper
+
+14 Pages Posted: 27 Apr 2011
+
+Ryan T. Ball
+
+The Stephen M. Ross School of Business at the University of Michigan
+
+Date Written: January 31, 2011
+
+Abstract
+
+Cheong and Thomas (2011) provide a new perspective on the behavior of the distribution of EPS forecast error magnitudes as a function of share price. Specifically, they explore several economic-based explanations, related to analyst and manager behavior, in order to understand why measures of EPS forecast error variation do not appear to vary with share price. In this discussion, I explore two additional issues, unrelated to the behavior of managers and analysts, which may significantly contribute to the observed lack of scale variation in EPS forecast error magnitudes in the United States: (1) EPS data in I/B/E/S are reported to the nearest penny, which may render detection of scale variation extremely difficult in a sample of U.S. firms, and (2) there are differences between the measurement of EPS forecast error variation in Cheong and Thomas relative to prior literature. I provided evidence that both issues confound the interpretation of the lack of scale variation observed in U.S. firms and have strong implications for future research exploring EPS forecast error magnitudes.
+
+Keywords: Analyst Forecast, Forecast Error, Dispersion, Price Deflation
+
+JEL Classification: G10, M41
+
+Suggested Citation:
+
+Ball, Ryan T., Discussion of ‘Why Do EPS Forecast Error and Dispersion Not Vary with Scale? Implications for Analyst and Managerial Behavior’ (January 31, 2011). Journal of Accounting Research, Forthcoming, Chicago Booth Accounting Research Center Research Paper, Available at SSRN: https://ssrn.com/abstract=1823542
+Download This Paper
+ 
+Open PDF in Browser
+8 References
+Jeffery S. Abarbanell , Reuven Lehavy
+Biased Forecasts or Biased Earnings? The Role of Reported Earnings in Explaining Apparent Bias and Over/Underreaction in Analysts' Earnings Forecasts
+JAE Boston Conference October 2002 Pages: 52 Posted: 6 Jan 2004
+Download PDF  Add Paper to My Library
+William R Baber , Sok-Hyon Kang
+The impact of split adjusting and rounding on analyst forecast error calculations
+Accounting Horizons , volume 16 , issue 4 , p. 277 - 289 Posted: 2002
+Crossref
+Foong Cheong , Jacob Soon , Thomas
+Why do EPS forecast error and dispersion not vary with scale? Implications for analyst and managerial behavior
+Journal of Accounting Research x Posted: 2011
+Crossref
+Daniel A Cohen , Thomas Z Lys
+A Note on Analysts' Earnings Forecast Errors Distribution
+Journal of Accounting and Economics , volume 36 , issue jou_issue[1].xmlText , p. 147 - 164 Posted: 2003
+Crossref
+Load more
+1 Citations
+Tingting Liu , Danni Tu
+Earnings growth and acquisition returns: Do investors gamble in the takeover market?
+Journal of Financial and Quantitative Analysis (JFQA), forthcoming · 72 Pages · Posted: 25 Oct 2021 · Downloads: 331
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,536
+ABSTRACT VIEWS
+6,076
+RANK
+28,004
+1 Citations
+8 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+Gaap Versus the Street: An Empirical Assessment of Two Alternative Definitions of Earnings
+
+By Mark T Bradshaw, Matthew Moberg, ...
+
+The Predictive Value of Expenses Excluded from 'Pro Forma' Earnings
+
+By Jeffrey T. Doyle, Russell J. Lundholm, ...
+
+Assessing the Relative Informativeness and Permanence of Pro Forma Earnings and Gaap Operating Earnings
+
+By Neil Bhattacharya, Ervin L. Black, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

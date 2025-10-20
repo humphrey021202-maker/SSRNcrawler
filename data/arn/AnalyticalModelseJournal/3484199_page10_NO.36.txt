@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Information Design and Incentive Contracts with Performance Measure Manipulation
+
+49 Pages Posted: 4 Dec 2019
+
+Robert F. Göx
+
+University of Zurich - Managerial Accounting; University of Zurich - Faculty of Economics, Business Administration and Information Technology
+
+Beatrice Michaeli
+
+University of California, Los Angeles (UCLA)
+
+Date Written: November 18, 2019
+
+Abstract
+
+We study how a firm owner motivates a manager to create value by optimally designing an information system and a compensation contract based on a manipulable performance measure. In equilibrium, the firm either implements a perfect or an uninformative system. The information system and the pay-performance sensitivity (PPS) of the compensation contract can be substitutes in a sense that the firm optimally combines a perfect information system with a low PPS or an uninformative system with a high PPS. Because the information design is endogenous, firms facing relatively high manipulation threat may offer financial incentives that are higher-powered than the ones offered by their peers facing lower manipulation threat. If the manager is in charge of implementing the information system, he chooses a perfect one unless the firm uses the information for internal control. The firm may prefer to commit to an internal control level before observing any information.
+
+Keywords: Bayesian persuasion, ex ante information design, performance manipulation, earnings management, incentive contracting, multi-task problem
+
+Suggested Citation:
+
+Goex, Robert F. and Michaeli, Beatrice, Optimal Information Design and Incentive Contracts with Performance Measure Manipulation (November 18, 2019). Available at SSRN: https://ssrn.com/abstract=3484199 or http://dx.doi.org/10.2139/ssrn.3484199
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+C Armstrong , A Jagolinzer , D Larcker
+Chief Executive Officer Equity Incentives and Accounting Irregularities
+Journal of Accounting Research , volume 48 , issue 2 , p. 225 - 271 Posted: 2010
+Crossref
+A Arya , J Glover , K Sivaramakrishnan
+Commitment issues in budgeting
+Journal of Accounting Research , volume 35 , p. 273 - 278 Posted: 1997
+Crossref
+A Arya , J Glover , K Sivaramakrishnan
+The Interaction between Decision and Control Problems and the Value of Information
+The Accounting Review , volume 72 , issue 4 , p. 561 - 574 Posted: 1997
+A Arya , J Glover , S Sunder
+Earnings management and the revelation principle
+Review of Accounting Studies , volume 3 , p. 7 - 34 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+256
+ABSTRACT VIEWS
+1,849
+RANK
+272,962
+3 Citations
+59 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Benefits of Transaction-Level Data: The Case of Nielsen Scanner Data
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+65 Pages Posted: 8 Jan 2021 Last revised: 28 Mar 2022
+
+Ilia D. Dichev
+
+Emory University - Department of Accounting
+
+Jingyi Qian
+
+University of Maryland
+
+Date Written: February 5, 2022
+
+Abstract
+
+This study explores whether NielsenIQ scanner data from U.S. retailers contain incremental information about the GAAP revenue of corresponding manufacturers. Using retail product/store/week data from 2006 to 2018, we construct a measure of aggregated consumer purchases at the manufacturer/quarter level, and find that it strongly predicts GAAP revenues. In addition, analyst forecasts of revenues have predictable errors, which implies that analysts do not fully incorporate the information in consumer purchases. Exploring investment implications, we find that hedge portfolios that buy (sell) stocks of firms with high (low) abnormal consumer purchases generate annualized returns on the magnitude of 14% to 19%, depending on specification. Overall, these findings suggest that scanner data on consumer purchases provide an information edge over GAAP revenue, shedding light on the benefits of using transactional data.
+
+Keywords: Transactional data, Consumer purchase, Equity valuation, Market efficiency
+
+JEL Classification: G12, G14, M31, M41
+
+Suggested Citation:
+
+Dichev, Ilia D. and Qian, Jingyi, The Benefits of Transaction-Level Data: The Case of Nielsen Scanner Data (February 5, 2022). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=3740052 or http://dx.doi.org/10.2139/ssrn.3740052
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+S Agarwal , W Qian , X Zou
+Disaggregated Sales and Stock Returns
+Management Science , volume 67 , issue 11 , p. 7167 - 7183 Posted: 2021
+U Ali , D Hirshleifer
+Shared analyst coverage: Unifying momentum spillover effects
+Journal of Financial Economics , volume 136 , issue 3 , p. 649 - 675 Posted: 2020
+H Allcott , R Diamond , J.-P Dubé , J Handbury , I Rahkovsky , M Schnell
+Food Deserts and the Causes of Nutritional Inequality
+The Quarterly Journal of Economics , volume 134 , issue 4 , p. 1793 - 1844 Posted: 2019
+D Argente , M Lee , S Moreira
+Innovation and product reallocation in the great recession
+Journal of Monetary Economics , volume 93 , p. 1 - 20 Posted: 2018
+Load more
+20 Citations
+Elizabeth Blankespoor , Bradley E. Hendricks , Joseph Piotroski , Christina Synn
+Real-time revenue and firm disclosure
+Review of Accounting Studies , volume 27 , issue 3 , p. 1079 Posted: 2022
+Crossref
+Hengda Jin , Stephen Stubben , Karen Ton
+Customer Shopping Behavior and the Persistence of Revenues and Earnings
+55 Pages · Posted: 28 Jan 2021 · Last revised: 12 Nov 2024 · Downloads: 1,200
+Download PDF  Add Paper to My Library
+Suzie Noh , Eric C. So , Christina Zhu
+Financial Reporting and Consumer Behavior
+Jacobs Levy Equity Management Center for Quantitative Financial Research Paper · 60 Pages · Posted: 28 Sep 2021 · Last revised: 16 Aug 2024 · Downloads: 3,070
+Download PDF  Add Paper to My Library
+Jung Koo Kang
+Gone with the Big Data: Institutional Lender Demand for Private Information
+Journal of Accounting & Economics (JAE), Forthcoming · 72 Pages · Posted: 14 Mar 2022 · Last revised: 31 Oct 2023 · Downloads: 486
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+937
+ABSTRACT VIEWS
+3,816
+RANK
+57,232
+20 Citations
+45 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

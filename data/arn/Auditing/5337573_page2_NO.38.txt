@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Framework for Security Auditing in Linux: Detecting and Mitigating Privilege Escalation Vulnerabilities Using Privilynis
+
+28 Pages Posted: 3 Jul 2025
+
+Edward Danso Ansong
+
+University of Ghana
+
+Emmanuel Ampoma Affum
+
+Kwame Nkrumah University of Science and Technology
+
+Elvis Donkor
+
+Kwame Nkrumah University of Science and Technology
+
+Abstract
+
+This paper presents PriviLynis, a security auditing framework designed to detect and mitigate privilege escalation vulnerabilities in Linux systems. Leveraging the Lynis tool, PriviLynis introduces tailored scripts and SELinux policies to target specific vulnerabilities such as Looney Tunables (CVE-20234911), StackRot (CVE-2023-3269), and Dirty Pipe (CVE-2022-0847). The framework was implemented and tested across different Linux distributions, including Kali Linux and Ubuntu, demonstrating its effectiveness in enhancing vulnerability detection with minimal false positives and resource impact. Altogether the conclusions established PriviLynis as a robust and adaptable solution for counteraction of privilege escalation risk and raise the levels of protection in Linux platforms.
+
+Keywords: PriviLynis, security auditing, Privilege Escalation, Linux Vulnerabilities, SELinux Integration, CVE Detection, Lynis
+
+Suggested Citation:
+
+Ansong, Edward Danso and Affum, Emmanuel Ampoma and Donkor, Elvis, Framework for Security Auditing in Linux: Detecting and Mitigating Privilege Escalation Vulnerabilities Using Privilynis. Available at SSRN: https://ssrn.com/abstract=5337573 or http://dx.doi.org/10.2139/ssrn.5337573
+Download This Paper
+ 
+Open PDF in Browser
+7 References
+Linux intrusions -a growing problem -sans , p. 2025 - 2026
+Microsoft vulnerabilities report 2024: Are organizations having an identity crisis? Posted: 2024
+S Toyin
+Comparative analysis of security vulnerability scanners (nessus and openvas) in cloud environment , p. 2025 - 2026
+A A Zaid , M H Alalfi , A Miri
+A model-driven-engineering approach for detecting privilege escalation in iot systems
+IEEE International Conference on Program Comprehension , p. 36 - 47 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+42
+ABSTRACT VIEWS
+263
+7 References
+PlumX Metrics
+Related eJournals
+
+Cybersecurity, Privacy, & Networks eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

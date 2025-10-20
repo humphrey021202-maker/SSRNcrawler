@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Institutions Mergers: A Strategy Choice of Wealth Maximisation and Economic Value
+
+Hassan, M. and Giouvris, E. (2020), "Financial institutions mergers: a strategy choice of wealth maximisation and economic value", Journal of Financial Economic Policy, Vol. 12 No. 4, pp. 495-529. https://doi.org/10.1108/JFEP-06-2019-0113
+
+35 Pages Posted: 23 Feb 2021
+
+Evangelos Giouvris
+
+Royal Holloway, University of London
+
+Evangelos Giouvris
+
+Durham University - Department of Economics and Finance
+
+Date Written: October 5, 2020
+
+Abstract
+
+Purpose: The purpose of this paper is to examine the effects of bank mergers on systemic and systematic risks on the relative merits of product and market diversification strategies. It also observes determinants of M&A deals criteria, product and market diversification positioning, crisis threshold and other regulatory and market factors.
+
+Design/methodology/approach: This research examines the impact and association between merger announcements and regulatory reforms at bank and system levels by investigating the impact of various bank consolidation strategies on firms’ risks. We estimate beta(s) as an index of financial institutions’ systematic risk. We then develop an index of the estimated equity value loss as the long-rum marginal expected shortfall (LRMES). LRMES contributes to compute systemic risk (SRISK) contribution of these firms, which is the capital that a firm is expected to need if we have another financial crisis.
+
+Findings: Large acquiring banks decrease systemic risk contribution in cross-border M&As with a non-bank financial institution, and witness profitability (ROA) gains, supporting geographic diversification stability. Capital requirements, activity restrictions and bank concentration increase systemic risk contribution in national mergers. Bank mergers with investment FIs targets enhance productivity but impair technical efficiency, contrary to bank-real estate deals where technical efficiency change accompanied lower systemic risk contribution.
+
+Originality/value: A significant advancement over the current literature is in assessing mergers, not only for bank bidders but also for the three pillars FIs of the financial sector; banks, real-estate companies and investment companies mergers. It is an improvement over current finance literature because it deploys two different strategies in the analysis. At a univariate level, shareholder value creation and market reaction to merger announcements are examined over short (-5 or +5 days) and long (+230 days) windows of the event. Followed by regressing, the resultant CARs and BHARs over financial performance variables at the multivariate level.
+
+Keywords: Bank Mergers, Economic Value Addition, Ring-Fencing, Financial Institutions Consolidation Strategies
+
+JEL Classification: G01, G12, G2, G32, G34, E58, O43
+
+Suggested Citation:
+
+Giouvris, Evangelos and Giouvris, Evangelos, Financial Institutions Mergers: A Strategy Choice of Wealth Maximisation and Economic Value (October 5, 2020). Hassan, M. and Giouvris, E. (2020), "Financial institutions mergers: a strategy choice of wealth maximisation and economic value", Journal of Financial Economic Policy, Vol. 12 No. 4, pp. 495-529. https://doi.org/10.1108/JFEP-06-2019-0113, Available at SSRN: https://ssrn.com/abstract=3788073
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+Y Altunbas , M D Ibanez
+Mergers and acquisitions and bank performance in Europe: the role of strategic similarities
+Journal of Economics and Business , volume 60 , issue 3 , p. 204 - 222 Posted: 2008
+Crossref
+D Amel , C Barnes , F Panetta , C Salleo
+Consolidation and efficiency in the financial sector: a review of the international evidence
+Journal of Banking and Finance , volume 28 , issue 10 , p. 2493 - 2519 Posted: 2004
+Crossref
+Y Amihud , G L Delong , A Saunders
+The effects of cross-border bank mergers on bank risk and value
+Journal of International Money and Finance , volume 21 , issue 6 , p. 857 - 877 Posted: 2002
+Crossref
+D Andriosopoulos , S Yang
+The impact of institutional investors on mergers and acquisitions in the United Kingdom
+Journal of Banking and Finance , volume 50 , p. 547 - 561 Posted: 2015
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+121
+ABSTRACT VIEWS
+676
+RANK
+534,717
+67 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

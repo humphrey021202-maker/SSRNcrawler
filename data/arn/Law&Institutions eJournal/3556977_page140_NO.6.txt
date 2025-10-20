@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Learning about Uncertainty from Options Trading
+
+Nanyang Business School Research Paper No. 20-30
+
+59 Pages Posted: 9 Apr 2020 Last revised: 13 Apr 2021
+
+Da-Hea Kim
+
+Sungkyunkwan University
+
+Sie Ting Lau
+
+Nanyang Technological University (NTU) - Division of Banking & Finance
+
+Bohui Zhang
+
+The Chinese University of Hong Kong, Shenzhen
+
+Date Written: March 19, 2020
+
+Abstract
+
+We hypothesize that managers can learn about a firm’s investment uncertainty from the equity options market. Using a US sample of 1,865 merger and acquisition attempts during 1996–2015, we show that the volatility implied from an acquiring firm’s equity options around an acquisition announcement negatively predicts the likelihood of acquisition attempts being completed. This negative impact is robust to controls for stock prices, alternative uncertainty proxies, and endogeneity tests. Moreover, we document three economic channels, finding that the effect of option implied volatility on deal completion is stronger among acquirers in which disinvestment is more difficult, whose managers are more susceptible to risk aversion, and whose options market is expected to have more information. Our findings suggest that options trading functions as a feedback mechanism to help managers learn about riskiness when making investment decisions.
+
+Keywords: Learning, Feedback effect, Uncertainty, Equity options, Option implied volatility, Acquisition
+
+JEL Classification: G14, G34
+
+Suggested Citation:
+
+Kim, Da-Hea and Lau, Sie Ting and Zhang, Bohui, Learning about Uncertainty from Options Trading (March 19, 2020). Nanyang Business School Research Paper No. 20-30, Available at SSRN: https://ssrn.com/abstract=3556977 or http://dx.doi.org/10.2139/ssrn.3556977
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+194
+ABSTRACT VIEWS
+1,757
+RANK
+357,435
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Nanyang Business School Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

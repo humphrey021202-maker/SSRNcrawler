@@ -1,0 +1,94 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Precision Trap: How R&D Reclassification Distorts Investment
+
+Posted: 25 Mar 2025 Last revised: 23 Mar 2025
+
+Yvonne Han
+
+University of Chicago - Booth School of Business
+
+Date Written: October 01, 2024
+
+Abstract
+
+This paper examines whether and how the precision of item classification in the income statement affects investment efficiency. I use the recent Section 174 change in R&D tax deductibility as an instrument for shifts in R&D classification and build a simple model illustrating the trade-offs firms face. The model predicts that while firms initially reclassify R&D expenditures to mitigate higher costs of investment, this misclassification introduces noise into classification precision, eventually leading to underinvestment. Using R&D-related employment as a proxy for real investments and a difference-in-differences approach, I show that firms strategically reclassify R&D as expected, and find some evidence consistent with a deterioration in investment efficiency. In line with theoretical predictions, cross-sectional tests confirm that the effect is more pronounced among firms with higher initial classification precision. Collectively, these results demonstrate the important role of classification precision in investment efficiency and highlight how tax policy changes can spill over into corporate reporting, leading to real economic consequences.
+
+Keywords: Reclassification, Accounting quality, R&D, Investment, Employment, TCJA
+
+JEL Classification: E22, M48, E24, O31, H25
+
+Suggested Citation:
+
+Han, Yvonne, The Precision Trap: How R&D Reclassification Distorts Investment (October 01, 2024). Available at SSRN: https://ssrn.com/abstract=5190337
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+524
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

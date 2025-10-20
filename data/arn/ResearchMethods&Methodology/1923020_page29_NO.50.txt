@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Wavelet Neural Networks: A Practical Guide
+
+45 Pages Posted: 6 Sep 2011 Last revised: 4 Oct 2011
+
+Antonis Alexandridis
+
+University of Kent; University of Macedonia - Department of Accounting and Finance
+
+Achilleas Zapranis
+
+University of Macedonia - Department of Accounting and Finance
+
+Date Written: September 6, 2011
+
+Abstract
+
+Wavelet networks (WNs) are a new class of networks which have been used with great success in a wide range of application. However a general accepted framework for applying WNs is missing from the literature. In this study, we present a complete statistical model identification framework in order to apply WNs in various applications. The following subjects were thorough examined: the structure of a WN, methods to train a WN, initialization algorithms, variable significance and variable selection algorithms, a model selection method and finally methods to construct confidence and prediction intervals. Our proposed framework was tested in two simulated cases and in one real dataset consisting of daily temperatures in Berlin. Our results have shown that the proposed algorithms produce stable and robust results indicating that our proposed framework can be applied in various applications.
+
+Keywords: Wavelet networks, model identification, variable selection, model selection, confidence intervals, prediction intervals
+
+JEL Classification: C45, C80
+
+Suggested Citation:
+
+Alexandridis, Antonis and Zapranis, Achilleas, Wavelet Neural Networks: A Practical Guide (September 6, 2011). Available at SSRN: https://ssrn.com/abstract=1923020 or http://dx.doi.org/10.2139/ssrn.1923020
+Download This Paper
+ 
+Open PDF in Browser
+65 References
+A D Aczel
+Complete business statistics Posted: 1993
+D Allingham , M West , A I Mees
+Wavelet Reconstruction of Nonlinear Dynamics
+International Journal of Bifurcation and Chaos , volume 8 , issue 11 , p. 2191 - 2201 Posted: 1998
+Crossref
+U Anders , O Korn
+Model selection in neural networks
+Neural Networks , volume 12 , issue 2 , p. 309 - 323 Posted: 1999
+Crossref
+Z Bashir , M E El-Hawary
+Short Term Load Forecasting by Using Wavelet Neural Networks
+Canadian Conference on Electrical and Computer Engineering Posted: 2000
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+558
+ABSTRACT VIEWS
+2,646
+RANK
+113,283
+1 Citations
+65 References
+PlumX Metrics
+Related eJournals
+
+Economics of Networks eJournal
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

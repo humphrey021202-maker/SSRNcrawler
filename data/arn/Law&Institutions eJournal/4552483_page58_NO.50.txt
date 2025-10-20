@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Natural Disaster Risk and Firm Performance: Text Mining and Machine Learning Approach
+
+70 Pages Posted: 5 Sep 2023
+
+Minh Nguyen
+
+Florida Atlantic University
+
+Ting-Tsen Yeh
+
+Louisiana State University, Shreveport
+
+Yuanzhang Xiao
+
+University of Hawaii at Manoa
+
+Shirley Daniel
+
+University of Hawaii at Manoa - School of Accountancy
+
+Date Written: August 26, 2023
+
+Abstract
+
+We develop a perceived measure of firms’ disaster exposure and/or preparedness equal to the number of words related to natural disaster events in the firms’ Form 10-Ks. We then link this measure to contemporary and future firm decision-making and performance. We find that this perceived natural disaster risk and the government-reported damages of natural hazards this year are negatively associated with firm profitability next year. However, the perceived natural disaster risk is not associated with sales growth and Tobin's Q ratio. Specifically, the perceived natural disaster risk negatively affects firm profitability in the services sector but not in the manufacturing sector. The firm profitability in the services sector is also negatively affected by the billion-dollar natural disasters in the same year. Finally, we find that advanced machine learning models robustly outperform linear regression in predicting firm performance under natural disaster risks. The main implication from this study is that we can employ textual data in financial reports to measure the perceived natural disaster risk and predict its effects on firm performance.
+
+Keywords: Natural disaster risk, firm performance, Form 10-Ks, text mining, machine learning
+
+JEL Classification: C45, C53, L25, M21, Q51, Q54
+
+Suggested Citation:
+
+Nguyen, Minh and Yeh, Ting-Tsen and Xiao, Yuanzhang and Daniel, Shirley, Natural Disaster Risk and Firm Performance: Text Mining and Machine Learning Approach (August 26, 2023). Available at SSRN: https://ssrn.com/abstract=4552483 or http://dx.doi.org/10.2139/ssrn.4552483
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+277
+ABSTRACT VIEWS
+1,231
+RANK
+251,747
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

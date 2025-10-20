@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Intangible Assets: Capital Expenses vs. Maintenance Expenses; Ordinary Income vs. Capital Gains
+
+144 Tax Notes 10 (2014)
+
+12 Pages Posted: 17 Mar 2021
+
+Yoseph M. Edrey
+
+University of Haifa - Faculty of Law
+
+Date Written: July 8, 2014
+
+Abstract
+
+This article seeks to present a novel and accurate analysis (rather than a practical concession) for two aspects of taxation of intangibles: 1) Whether the costs of creating intangible assets, including goodwill, should be characterized as capital or current expenses. 2) What is the appropriate distinction between capital gains and ordinary income, and how the gains (or losses) derived from the disposition of such property should be classified.
+
+Professor Calvin H. Johnson rightly pointed out that there is an asymmetry regarding the taxation of intangible assets under existing law. On the one hand, the costs of the creation of an intangible asset are immediately deducted, while on the other hand, the profit derived from its sale is considered capital gain. This asymmetry yields a negative tax, which leads to an increase in the internal rate of return, only due to income tax, from 10% to 25%. In terms of economic efficiency and tax equity, these are undesired results. Johnson suggests that, in theory, the appropriate solution is to consider the creations’ costs as capital expenses rather than current ones and to classify the gain derived from the asset’s sale as capital gain. Alas, due to practical reasons, Johnson retreats to a concession, reverting to what appears as an alternate solution; the costs should be deducted as ordinary current expenses, while the gain should be taxed as ordinary income rather than capital gain.
+
+I agree with Johnson's conclusion, but offer an accurate and analytic approach to the issue. My aim is to provide an optimal solution based on accepted principles and insights of tax theory and business management literature. The suggested analysis of this paper is twofold: First, according to an established insight in business and marketing management – evolve, adapt, grow or perish – goodwill of a firm is graphically depicted as a positive slope. Hence, the costs of creating goodwill are necessary in order to maintain the firms’ constant growth and should be regarded as maintaining the existing income producing process of a firm, i.e., deductible as ordinary and necessary expenses.
+
+Second, I proceed to the classification of the profit (or loss) produced by the sale of property. The underlining rationale for the basic distinction is that the taxpayer creates ordinary income while using his/her factors of production whereas the taxpayer makes a capital gain by selling his/her factors of production.
+
+Next, I offer an accurate and systematic test for the distinction between ordinary income and capital gain when a disposition of property occurs. The test is broken down into three steps. The first step is based on the inquiry of the process that create a gain (or a loss) - the gain (or loss) is caused by a change in the expectations regarding the Present Value (PV) of the future stream of income that the property was expected to produce between two events: when it was bought vs. when it was sold.
+
+The second step looks into the causes that initiate the process, or created the above-mentioned change in the expectation.
+
+The third step aims to identify who creates the causes. If the causes are internal, i.e., created by the taxpayer while using his/her factors of production, the gain is classified as an ordinary income. If, on the other hand, the gain is caused by external factors that the taxpayer cannot possibly control, the profit (loss) should be treated as capital gain (loss).
+When a taxpayer sells the goodwill he/she created by using his/her own factors of production, the gain is made by internal causes of the taxpayer. The conclusion is that the gains derived from the disposition of such assets should be classified as ordinary income.
+
+Suggested Citation:
+
+Edrey, Yoseph M., Intangible Assets: Capital Expenses vs. Maintenance Expenses; Ordinary Income vs. Capital Gains (July 8, 2014). 144 Tax Notes 10 (2014), Available at SSRN: https://ssrn.com/abstract=3777144
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+44
+ABSTRACT VIEWS
+436
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

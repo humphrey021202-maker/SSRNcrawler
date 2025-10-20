@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Behavioral Biases in Interest Rate Risk Management: Overconfidence and the Use of Forward Rate Agreements in Nigerian Banks
+
+14 Pages Posted: 7 May 2025
+
+Samuel F. Johnson-Rokosu
+
+University of Lagos - Department of Accounting
+
+Date Written: May 06, 2025
+
+Abstract
+
+This study examines how overconfidence bias affects the use of forward rate agreements (FRAs) by Nigerian banks to manage interest rate risk, and addresses a critical gap in African behavioural finance research. The mixed method combines a panel regression analysis of FRA prices and volume of trades (2015-23) with semi-structured interviews with 20 Nigerian risk managers. The central bank of Nigeria (CBN) and FMDQ OTC Securities Exchange (FMDQ) quantitative data were analyzed using fixed-effects models, while qualitative information was coded to identify behavioural narratives. Overconfidence, driven by the length of tenure of the CEO (>5 years) and historical forecasting errors, is correlated with a 23 percent higher FRA error (p<0.01) and an excessive speculative volume. Banks with poor governance (e.g. frequent meetings of the risk committee) incurred 15 percentage points higher losses (p<0.05). Transparency measures have reduced speculation by 9 percent (p<0.10), but have not reduced mispricing, underlining the persistence of cognitive biases. The study advocates regulatory reforms, including mandatory disclosure of behavioural risks in Basel III compliance frameworks and standardised FRA price quotations. For professionals, it recommends debriefing protocols such as pre-mortem analysis and stress testing exercises. This is the first empirical study to integrate behavioural finance and derivative techniques in the context of African banking, challenging the hegemony of the emerging markets model of rational agents.
+
+Keywords: Behavioral finance, Overconfidence bias, Forward Rate Agreements (FRAs), Management of Interest Rate Risk, Nigerian banking sector
+
+Suggested Citation:
+
+Johnson-Rokosu, Samuel F., Behavioral Biases in Interest Rate Risk Management: Overconfidence and the Use of Forward Rate Agreements in Nigerian Banks (May 06, 2025). Available at SSRN: https://ssrn.com/abstract=5243407 or http://dx.doi.org/10.2139/ssrn.5243407
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+R B Adams , H Mehran
+Bank board structure and performance: Evidence for large bank holding companies
+Journal of Financial Intermediation , volume 21 , issue 2 , p. 243 - 267 Posted: 2012
+E Adegbite
+Corporate governance regulation in Nigeria
+Corporate Governance: An International Review , volume 26 , issue 5 , p. 321 - 335 Posted: 2018
+O B Adekoya , J A Oliyide
+Financial derivatives and risk management in Nigeria
+African Journal of Economic and Management Studies , volume 12 , issue 3 , p. 456 - 470 Posted: 2021
+M Baker , J Wurgler , G M Constantinides , M Harris , R M Stulz
+Behavioral corporate finance: An updated survey
+Handbook of the economics of finance , volume 2 , p. 357 - 424 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+32
+ABSTRACT VIEWS
+299
+27 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

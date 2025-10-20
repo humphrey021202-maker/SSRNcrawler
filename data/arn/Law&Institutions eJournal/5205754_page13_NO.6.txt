@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Uncovering Turkish Audit Firms’ Transparency Report Textual Attributes Through Computer Based Approaches and Linking Them to Audit Quality
+
+42 Pages Posted: 4 Apr 2025
+
+Sibel Dinç Aydemir
+
+Gebze Technical University
+
+Yusuf Sinan Akgul
+
+Gebze Technical University
+
+Barış Özcan
+
+Gebze Technical University
+
+Mine Aksu
+
+Sabanci University
+
+Abstract
+
+This paper assesses the textual attributes of transparency reports (TRs) prepared by audit firms (AFs) in Türkiye between 2013-2020. To achieve this goal, we utilize a range of computer-based techniques and expertise, including natural language processing, named entity recognition, business text processing, web scraping, data mining, and bot building. The findings reveal that TRs exhibit boilerplate tendencies, lacking full transparency, are characterized as medium-to-hard documents with a generally positive tone and diverse EoBP at the firm level, pointing to significant barriers in achieving sustainable reporting practices.This paper also investigates AF-based determinants of TR textual attributes. Regression model results indicate the impact of some AF characteristics (e.g., license duration, number of partners, the Big 4, female ratio, non-audit services) on most textual attributes.Finally, we explore the role of textual features, alongside AF and audit partner (AP) attributes, in influencing audit quality. To address potential endogeneity concerns, the study adopts an instrumental variables probit model. The analysis reveals that the readability of TRs by Fog index significantly influences audit quality. Factors such as AF tenure, AP busyness, CF’s sales ratio, and loss contribute to audit quality, aligning with prior research.
+
+Keywords: Audit quality, Transparency Reports, Readability, natural language processing, Named Entity Recognition, Document Similarity
+
+Suggested Citation:
+
+Dinç Aydemir, Sibel and Akgul, Yusuf Sinan and Özcan, Barış and Aksu, Mine, Uncovering Turkish Audit Firms’ Transparency Report Textual Attributes Through Computer Based Approaches and Linking Them to Audit Quality. Available at SSRN: https://ssrn.com/abstract=5205754 or http://dx.doi.org/10.2139/ssrn.5205754
+Download This Paper
+ 
+Open PDF in Browser
+106 References
+On statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/ 660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC
+EC of The European Parliament and of The Council , p. 88 - 107 Posted: 2006
+R Alcalde , C A Armino , S Garcia
+Analysis of the economic sustainability of the supply chain sector by applying the Altman Z-score predictor
+Sustainability , volume 14 , p. 1 - 13 Posted: 2022
+S Al-Manaseer , S D Al-Oshaibat
+Validity of Altman Z-score model to predict financial failure: Evidence from Jordan
+International Journal of Economics and Finance , volume 10 , issue 8 , p. 181 - 189 Posted: 2018
+A Al-Thuneibat , Ibrahim Al Tawfiq , R Issa , R A Baker
+Do audit tenure and firm size contribute to audit quality? Empirical evidence from Jordan
+Managerial Auditing Journal , volume 26 , issue 4 , p. 317 - 334 Posted: 2011
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+25
+ABSTRACT VIEWS
+358
+106 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

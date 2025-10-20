@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Underspecification of the Empirical Return-Factor Model and a Factor Analytic Augmentation as a Solution to Factor Omission
+
+Szczygielski, J. J., Brümmer, L. M., & Wolmarans, H. P. (2020). Underspecification of the empirical return-factor model and a factor analytic augmentation as a solution to factor omission. Studies in Economics and Econometrics, 44(2), 133-165.
+
+35 Pages Posted: 28 May 2019 Last revised: 28 Sep 2020
+
+Jan Szczygielski
+
+Department of Financial Management, University of Pretoria; Department of Accounting and Financial Management,Newcastle Business School, Northumbria University
+
+Leon Brummer
+
+affiliation not provided to SSRN
+
+Hendrik Wolmarans
+
+affiliation not provided to SSRN
+
+Date Written: September 17, 2019
+
+Abstract
+
+This empirical paper comprehensively sets out the impact of underspecification on a key foundational concept in empirical finance, the linear factor model. It places emphasis on the extensive consequences of factor omission for model estimation and interpretation. Factor omission in time-series models that relate asset returns to pre-specified factor sets is a common problem. A proposed standard and widely-used solution is the inclusion of a residual market factor which is assumed to be a catch-all proxy for omitted factors. This study shows that a specification that incorporates a set of carefully selected macroeconomic factors will be underspecified. The inclusion of residual market factors will alleviate but not eliminate the consequences of underspecification. Although the early use of factor analytically derived factor scores in factor models has been criticized, augmenting a model comprising pre-specified factors with statistical factors derived from the residuals results in an accurately specified model for which the diagonality assumption holds. Consequently, this paper shows that a factor analytic augmentation is an effective and readily implementable solution to the factor omission problem.
+
+Keywords: linear factor model, underspecification, Arbitrage Pricing Theory, asset pricing
+
+JEL Classification: C01, C22, C58, G12
+
+Suggested Citation:
+
+Szczygielski, Jan and Szczygielski, Jan and Brummer, Lean and Wolmarans, Hendrik, Underspecification of the Empirical Return-Factor Model and a Factor Analytic Augmentation as a Solution to Factor Omission (September 17, 2019). Szczygielski, J. J., Brümmer, L. M., & Wolmarans, H. P. (2020). Underspecification of the empirical return-factor model and a factor analytic augmentation as a solution to factor omission. Studies in Economics and Econometrics, 44(2), 133-165., Available at SSRN: https://ssrn.com/abstract=3380244 or http://dx.doi.org/10.2139/ssrn.3380244
+Download This Paper
+ 
+Open PDF in Browser
+106 References
+C Adams , D Coe
+A systems approach to estimating the natural rate of unemployment and potential output for the United States
+Staff Papers , volume 37 , p. 232 - 293 Posted: 1990
+Crossref
+V Akgiray
+Conditional heteroscedasticity in time series of stock returns: Evidence and forecasts
+Journal of Business , volume 62 , issue 1 , p. 55 - 88 Posted: 1989
+Crossref
+T G Andersen , T Bollerslev , F X Diebold , C Vega
+Micro effects of macro announcements: Real-time price discovery in foreign exchange
+American Economic Review , volume 93 , issue 1 , p. 38 - 62 Posted: 2003
+Crossref
+S Armitage , J Brzeszczyński
+Heteroscedasticity and interval effects in estimating beta: UK evidence
+Applied Financial Economics , volume 21 , issue 20 , p. 1525 - 1538 Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+119
+ABSTRACT VIEWS
+1,271
+RANK
+541,838
+1 Citations
+106 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analyst Coverage: Does the Listing Location Really Matter?
+
+41 Pages Posted: 20 Feb 2015
+
+Omaima A. G. Hassan
+
+Aberdeen Business School
+
+Frank S. Skinner
+
+Brunel University
+
+Date Written: February 18, 2015
+
+Abstract
+
+This study examines the impact of listing location, whether the stock is listed on the main board or the junior market of the London Stock Exchange, on the number of analysts following the stock. It also examines whether the determinants of analyst coverage can be conditional on listing location. We employ count panel regression methods that better suit the nature of a nonnegative integer dependent variable. Using a variation of Bhushan’s (1989) model, we find that listing location has a significant positive association with analyst coverage. This indicates that stocks listed on the main board attract more analysts than can be explained by existing factors. The result holds even after including additional control variables. We further examine determinants of analyst coverage for the main market (FTSE350) and the alternative investment market (AIM) individually. We find that factors which explain the supply and demand functions of analyst services for stocks listed on the main board are different from those listed on the junior market. Importantly, pooling the stocks of these two markets together can mask significant differences and can give incorrect inferences about determinants of analyst coverage.
+
+Keywords: Analyst Coverage, Security Analyst, Institutional Investors, AIM
+
+JEL Classification: G12; G14; M4; G230; G240; M490
+
+Suggested Citation:
+
+Hassan, Omaima A. G. and Skinner, Frank S., Analyst Coverage: Does the Listing Location Really Matter? (February 18, 2015). Available at SSRN: https://ssrn.com/abstract=2566875 or http://dx.doi.org/10.2139/ssrn.2566875
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+A Abdallah , W Abdallah , A Ismail
+Do accounting standards matter to financial analysts? An empirical analysis of the effect of cross-listing from different accounting standards regimes on analyst following and forecast error
+The International Journal of Accounting , volume 47 , issue 2 , p. 168 - 197 Posted: 2012
+Crossref
+D Anantharaman , Y Zhang
+Cover Me: Managers' Responses to Changes in Analyst Coverage in the Post-regulation FD Period
+The Accounting Review , volume 86 , issue 6 , p. 1851 - 1885 Posted: 2011
+Crossref
+B Baik , J Kang , R Morton
+Why are analysts less likely to follow firms with high managerial ownership?
+Journal of Accounting, Auditing & Finance , volume 25 , p. 171 - 200 Posted: 2010
+Crossref
+M Barth , E R Kasznik , M F Mcnichols
+Analyst coverage and intangible assets
+Journal of Accounting Research , volume 39 , p. 1 - 34 Posted: 2001
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+90
+ABSTRACT VIEWS
+2,072
+RANK
+663,174
+48 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

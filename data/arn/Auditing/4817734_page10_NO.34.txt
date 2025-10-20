@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Bayesian Audit Assurance Model Incorporating Monetary Unit Sampling
+
+42 Pages Posted: 7 May 2024
+
+Trevor Stewart
+
+Rutgers, The State University of New Jersey
+
+Daniel Sunderland
+
+Northeastern University (USA)
+
+Date Written: May 5, 2024
+
+Abstract
+
+The process for obtaining reasonable audit assurance described by modern auditing standards—iteratively updating subjective professional judgement for new evidence—is essentially Bayesian. Recognizing it as such unlocks a box of tools and techniques for modeling audit assurance, designing targeted audit procedures, and updating the model for the results. We describe such a model and focus on its interrelationship with monetary unit sampling. The model arises naturally as a generalization of the familiar audit risk model, fully integrates sampling results into the overall assurance profile, has intuitive auditor appeal, and is technically easy to implement for field deployment. We show how two audit judgments serve to uniquely identify an appropriate prior, how a third fixes the target posterior, and how sample sizes are derived via Bayes’ rule. We introduce the concept of the Stringer posterior, a Bayesian adaptation of the Stringer bound familiar from the monetary unit sampling literature.
+
+Keywords: Bayesian audit assurance, monetary unit sampling, audit risk model, prior assurance, assurance profile, Stringer bound, Stringer posterior, Poisson distribution, gamma distribution
+
+JEL Classification: C11, M42
+
+Suggested Citation:
+
+Stewart, Trevor and Sunderland, Daniel, A Bayesian Audit Assurance Model Incorporating Monetary Unit Sampling (May 5, 2024). Available at SSRN: https://ssrn.com/abstract=4817734 or http://dx.doi.org/10.2139/ssrn.4817734
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+Audit Guide, Audit Sampling Posted: 2019
+A Bailey
+Statistical Auditing: Review, Concepts, and Problems Posted: 1981
+E Broeze
+Validation of Risk Assessment in Auditing Posted: 2006
+R Courant
+Differential and Integral Calculus , volume 1 Posted: 1988
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+106
+ABSTRACT VIEWS
+699
+RANK
+592,728
+29 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Decision-Making in Operations Research eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

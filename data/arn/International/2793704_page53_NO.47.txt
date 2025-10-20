@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+IFRS 9 for Banking Industry the Case for IFRS and FINREP Taxonomies, Critical Asessment (Abstimmbarkeit von Anhangangaben nach IFRS 9 und 7 mit dem Meldewesen: Perspektive der IFRS-Taxonomie)
+
+7 Pages Posted: 15 Jun 2016 Last revised: 11 Aug 2016
+
+Dirk Beerbaum
+
+Aalto University - Department of Accounting and Finance
+
+Maciej Piechocki
+
+Independent
+
+Date Written: June 1, 2016
+
+Abstract
+
+Manuscript Type: Theoretical
+
+Main topic: A tsunami of regulations since the 2013 financial crisis is steering toward’s Europe’s financial service sector. At the same time the accounting standard for financial institutions core products the financial instruments will be changing. Whenever such new accounting and reporting standards are issued by the IASB (International Accounting Standards Board) and this includes also footnotes, those disclosures become increasingly relevant. The reason for that is that the footnote disclosure represent an important source of information to provide transparency and enable the investor to understand the ex-post implementation business impact. In this paper the focus will be on those new footnote disclosures.
+
+As disclosures according to IFRS 9 become compulsary by 2018, the existing IFRS Taxonomy for IFRS 9 al-ready developed by the IFRS Foundation, represents a suitable and objective framework to assess IFRS 9 im-pact on disclosures at an early stage. The specific goal of this paper is to perform a conceptual gap analysis considering the IFRS 9 taxonomy issued by the IASB and the Financial Reporting (FinRep) taxonomy on IFRS 9 issued by the European Banking Authority (EBA).
+
+In general, the IFRS Taxonomy is not used very much in practice. This is not understandable as several advantages relate to the IFRS Taxonomy: principle-based accounting standard does very often not define specifically disclosure rules for each and every topic, therefore to derive reporting elements would very difficult to accomplish. A robust taxonomy development and governance process leading to the IFRS Taxonomy simplifies the task of interpretations and the actual expression of reporting elements.
+
+The IASB started to perform a review process of the XBRL Due Process in 2013. As a result the development of the IFRS Taxonomy should become part of the general due process of the financial reporting standards. Due to these changes it is expected that the importance of the IFRS Taxonomy will be growing. The FinRep Taxonomy has become mandatory since 2014 for all banks within Europe, to fulfill the regulatory reporting requirements according to the Capital Requirements Directive (CRR) IV.
+
+Results: Even though the disclosures for external reporting and for regulatory reporting are based on the same accounting framework the International Financial Reporting Standards (IFRS), differences can be observed with regard to disclosures, which are partly material. These differences become transparent when analysing IFRS- and FinRep-Taxonomy reporting elements. This is caused by the principle-based IFRS, which enable scope of interpretation and the different objectives of the IASB and the banking supervision. Whereas the IASB follows the objective to develop industry non-specific international financial reporting standards, the banking supervision core focus lies on the banking industry. The EBA follows specific information re-quests with the FinRep Taxonomy in the role as banking supervisory. The IASB intends to provide decision useful information for investors. Nevertheless these two taxonomies provide the possibility for a starting point for the harmonization and the development of common practice disclosures, which could counteract against a heterogeneous financial reporting and the issue of “information overload”.
+
+Keywords: IFRS 9, IFRS 7, Statutory Reporting, Taxonomy, FinRep
+
+JEL Classification: G20
+
+Suggested Citation:
+
+Beerbaum Dr., Dirk and Piechocki, Maciej, IFRS 9 for Banking Industry the Case for IFRS and FINREP Taxonomies, Critical Asessment (Abstimmbarkeit von Anhangangaben nach IFRS 9 und 7 mit dem Meldewesen: Perspektive der IFRS-Taxonomie) (June 1, 2016). Available at SSRN: https://ssrn.com/abstract=2793704 or http://dx.doi.org/10.2139/ssrn.2793704
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+187
+ABSTRACT VIEWS
+1,643
+RANK
+370,049
+PlumX Metrics
+Related eJournals
+
+European Finance eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

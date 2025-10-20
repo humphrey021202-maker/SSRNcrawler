@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Voluntary Disclosure in the Face of Bank Runs
+
+50 Pages Posted: 7 Oct 2024 Last revised: 27 Mar 2025
+
+Kevin D. Chen
+
+Duke University - Fuqua School of Business
+
+Qi Chen
+
+Duke University - Fuqua School of Business
+
+Rahul Vashishtha
+
+Duke University
+
+Date Written: September 15, 2024
+
+Abstract
+
+Using a large sample of hand-collected data on banks’ public disclosure in the weeks following the collapse of the Silicon Valley Bank (SVB), we study banks’ disclosure response in times of crisis when concerns about depositor runs are salient. We find that banks’ susceptibility to depositor coordination failures (i.e., panic runs) is a key factor influencing their disclosure strategies, including the incidence, content, and timing of the disclosures. The results are generally consistent with the theory of He and Manela (2016), which identifies a positive role of public disclosure in preventing panic-based runs. Our study provides some of the first evidence on the importance of coordination motives in shaping banks’ disclosure strategy. The results are relevant for information management in times of crisis, an important issue for both bank management and regulators. 
+
+Keywords: Voluntary Disclosure, Bank Runs, Coordination, Silicon Valley Bank
+
+JEL Classification: G21, M40, D83
+
+Suggested Citation:
+
+Chen, Kevin and Chen, Qi and Vashishtha, Rahul, Voluntary Disclosure in the Face of Bank Runs (September 15, 2024). Available at SSRN: https://ssrn.com/abstract=4957274 or http://dx.doi.org/10.2139/ssrn.4957274
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+H Anderson , A Copeland
+Information management in times of crisis
+Journal of Monetary Economics , volume 136 , p. 35 - 49 Posted: 2023
+B A Badertscher , J J Burks , P D Easton
+The market reaction to bank regulatory reports
+Review of Accounting Studies , volume 23 , p. 686 - 731 Posted: 2018
+S Banerjee , M Maier
+Public information precision and coordination failure: An experiment
+Journal of Accounting Research , volume 54 , p. 941 - 986 Posted: 2016
+A N Berger , C H Bouwman
+Bank liquidity creation
+Review of Financial Studies , volume 22 , p. 3779 - 3837 Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+249
+ABSTRACT VIEWS
+992
+RANK
+280,604
+41 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

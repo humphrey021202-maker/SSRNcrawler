@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Artificial Intelligence Measurement of Disclosure (AIMD)
+
+European Accounting Review, Forthcoming
+
+49 Pages Posted: 30 Jul 2009 Last revised: 20 Sep 2010
+
+Michael Grüning
+
+European University Viadrina Frankfurt (Oder)
+
+Date Written: September 16, 2010
+
+Abstract
+
+Empirical research on voluntary disclosure lacks an appropriate measurement technique for quantifying the intensity of firm’s disclosure. In this paper I introduce AIMD, a computerised technique for measuring disclosure using artificial intelligence, which derives disclosure proxies from English-language annual reports for ten different information dimensions without human involvement. Criterion validity tests indicate that, controlling for a robust set of covariates and multiple statistical techniques, AIMD is negatively associated with information asymmetry as proxied by spreads and PIN. Furthermore AIMD has construct validity when compared to the AIMR disclosure rating, Standard & Poor’s Transparency and Disclosure Rating, several proprietary manual disclosure scorings and companies’ own assessment of their level of disclosure as indicated by a survey. I also demonstrate the applicability of AIMD as a cost-effective technique for measuring disclosure using a sample of 127,895 firm-year observations of companies regulated by the SEC.
+
+Keywords: disclosure, measurement, artificial intelligence, annual report
+
+JEL Classification: C80, F3, M41
+
+Suggested Citation:
+
+Grüning, Michael, Artificial Intelligence Measurement of Disclosure (AIMD) (September 16, 2010). European Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=1440255 or http://dx.doi.org/10.2139/ssrn.1440255
+Download This Paper
+ 
+Open PDF in Browser
+122 References
+E Abrahamson , E Amir
+The Information Content of President's Letter to Shareholders
+Journal of Business Finance & Accounting , volume 23 , issue 8 , p. 1157 - 82 Posted: 1996
+Crossref
+C A Adams , N Kuasirikun
+A Comparative Analysis of Corporate Reporting on Ethical Issues by UK and German Chemical and Pharmaceutical Companies
+European Accounting Review , volume 9 , issue 1 , p. 53 - 79 Posted: 2000
+Crossref
+C A Adams
+Environmental, Employee and Ethical Reporting in Europe
+Certified Accountants Educational Trust) Posted: 1995
+C A Adams
+Corporate Social Reporting Practices in Western Europe: Legitimating Corporate Behaviour
+The British Accounting Review , volume 30 , issue 1 , p. 1 - 21 Posted: 1998
+Crossref
+Load more
+3 Citations
+Mahmoud El-Haj , Paulo Alves , Paul Rayson , Martin Walker , Steven Young
+Retrieving, Classifying and Analysing Narrative Commentary in Unstructured (Glossy) Annual Reports Published as PDF Files
+Accounting and Business Research, Forthcoming · 50 Pages · Posted: 1 Jul 2016 · Last revised: 9 Jul 2019 · Downloads: 1,026
+Download PDF  Add Paper to My Library
+Mahmoud El-Haj , Paul Rayson , Martin Walker , Steven Young , Vasiliki Simaki
+In Search of Meaning: Lessons, Resources and Next Steps for Computational Analysis of Financial Discourse
+Forthcoming in Journal of Business Finance and Accounting · 94 Pages · Posted: 24 Feb 2019 · Last revised: 20 Mar 2019 · Downloads: 286
+Download PDF  Add Paper to My Library
+Julian Kölbel , Markus Leippold , Jordy Rillaerts , Qian Wang
+Ask BERT: How Regulatory Disclosure of Transition and Physical Climate Risks affects the CDS Term Structure
+Swiss Finance Institute Research Paper No. 21-19, Journal of Financial Econometrics, forthcoming · 55 Pages · Posted: 15 Jul 2020 · Last revised: 6 Jul 2022 · Downloads: 3,861
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+735
+ABSTRACT VIEWS
+4,211
+RANK
+79,486
+3 Citations
+122 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Corporate Governance and Financial Performance of Companies in Poland
+
+By Marek Gruszczyński
+
+Corporate Governance Ratings and the Performance of Listed Companies in Poland
+
+By Marek Gruszczyński
+
+Financial Distress of Companies in Poland
+
+By Marek Gruszczyński
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

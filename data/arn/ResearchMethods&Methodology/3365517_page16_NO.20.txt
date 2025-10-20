@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Neural Network Boosted Double Over-Dispersed Poisson Claims Reserving Model
+
+30 Pages Posted: 22 Apr 2019
+
+Andrea Gabrielli
+
+ETH Zurich, Department of Mathematics, RiskLab, Students
+
+Date Written: April 4, 2019
+
+Abstract
+
+We present an actuarial loss reserving technique that takes into account both claim counts and claim amounts. Separate (over-dispersed) Poisson models for the claim counts and the claim amounts are combined by a joint embedding into a neural network architecture. As starting point of the neural network calibration we use exactly these two separate (over-dispersed) Poisson models. Such a nested model can be interpreted as a boosting machine. It allows us for joint modeling and mutual learning of claim counts and claim amounts beyond the two individual (over-dispersed) Poisson models. Moreover, this choice of neural network initialization guarantees stability and accelerates representation learning.
+
+Keywords: cross-classified over-dispersed Poisson model, claims reserving in insurance, chain-ladder reserves, double chain-ladder, neural network, embedding, claim counts, claim amounts, learning across portfolios, boosting
+
+JEL Classification: G22, C02, C13, C15, C45, C50, C51, C52, C53
+
+Suggested Citation:
+
+Gabrielli, Andrea, A Neural Network Boosted Double Over-Dispersed Poisson Claims Reserving Model (April 4, 2019). Available at SSRN: https://ssrn.com/abstract=3365517 or http://dx.doi.org/10.2139/ssrn.3365517
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+D Bahdanau , K Cho , Y Bengio
+Neural machine translation by jointly learning to align and translate Posted: 2014-05-19
+Y Bengio , R Ducharme , P Vincent , C Jauvin
+A neural probabilistic language model
+Journal of Machine Learning Research , volume 3 , p. 1137 - 1155 Posted: 2003
+G Cybenko
+Approximation by superpositions of a sigmoidal function
+Signal, and Systems , volume 2 , p. 303 - 314 Posted: 1989
+Crossref
+P D England , R J Verrall
+Stochastic claims reserving in general insurance
+British Actuarial Journal , volume 8 , p. 443 - 518 Posted: 2002
+Crossref
+Load more
+10 Citations
+Greg Taylor
+Loss Reserving Models: Granular and Machine Learning Forms
+Risks , volume 7 , issue 3 , p. 82 Posted: 2019
+Crossref
+Christopher Blier-Wong , Hélène Cossette , Luc Lamontagne , Etienne Marceau
+Machine Learning in P&C Insurance: A Review for Pricing and Reserving
+Risks , volume 9 , issue 1 , p. 4 Posted: 2020
+Crossref
+Stephan M. Bischofberger
+In-Sample Hazard Forecasting Based on Survival Models with Operational Time
+Risks , volume 8 , issue 1 , p. 3 Posted: 2020
+Crossref
+Kevin Kuo
+DeepTriangle: A Deep Learning Approach to Loss Reserving
+Risks , volume 7 , issue 3 , p. 97 Posted: 2019
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+416
+ABSTRACT VIEWS
+2,072
+RANK
+161,184
+10 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

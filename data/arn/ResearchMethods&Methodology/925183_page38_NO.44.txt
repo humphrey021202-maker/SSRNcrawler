@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Estimating Latent Variables and Jump Diffusion Models Using High Frequency Data
+
+Posted: 18 Aug 2006 Last revised: 27 Feb 2013
+
+George J. Jiang
+
+Washington State University
+
+Roel C. A. Oomen
+
+Deutsche Bank AG (London); Imperial College London - Department of Mathematics
+
+There are 3 versions of this paper
+
+Date Written: August 1, 2006
+
+Abstract
+
+This paper proposes a new approach to exploit the information in high frequency data for the statistical inference of continuous-time affine jump diffusion (AJD) models with latent variables. For this purpose, we construct unbiased estimators of the latent variables and their power functions based on the observed state variables over extended horizons. With the estimates of the latent variables, we propose a GMM procedure for the estimation of AJD models with the distinguishing feature that moments of both observed and latent state variables can be used without resorting to path simulation or discretization of the continuous-time process. Using high frequency return observations of the S&P 500 index, we implement our estimation approach to various continuous-time asset return models with stochastic volatility and random jumps.
+
+Keywords: affine jump diffusion, latent state variables, unbiased minimum-variance estimator, generalized method of moments, high frequency data
+
+JEL Classification: C13, C22
+
+Suggested Citation:
+
+Jiang, George and Oomen, Roel C.A., Estimating Latent Variables and Jump Diffusion Models Using High Frequency Data (August 1, 2006). Available at SSRN: https://ssrn.com/abstract=925183 or http://dx.doi.org/10.2139/ssrn.925183
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,206
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Post-'87 Crash Fears in S&P 500 Futures Options
+
+By David S. Bates
+
+Transform Analysis and Asset Pricing for Affine Jump-Diffusions
+
+By Darrell Duffie, Jun Pan, ...
+
+Transform Analysis and Asset Pricing for Affine Jump-Diffusions
+
+By Darrell Duffie, Jun Pan, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

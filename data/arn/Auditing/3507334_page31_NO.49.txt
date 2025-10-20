@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can Auditors Become Over-Conservative? Evidence From the Investors’ Perception of Auditor Changes
+
+62 Pages Posted: 10 Jan 2020
+
+Ulf Mohrmann
+
+NHH Norwegian School of Economics - Department of Accounting, Auditing and Law
+
+Date Written: December 19, 2019
+
+Abstract
+
+This paper investigates whether investors perceive high levels of auditor conservatism as excessive. Auditors can reduce their litigation risk by issuing going concern opinions to firms with relatively low default risk. However, this strategy is costly for investors. Investors cannot observe the estimated probability of default but can only estimate the average threshold at which the audit office started to issue going concern opinions in the past. If they perceive the office’s threshold as too low, they should discount the firm’s market value because going concern opinions negatively affect the future cash flows. As the valuation should rebound if a firm replaces such an over-conservative auditor, I investigate the market reaction to auditor changes. I introduce a novel measure of auditor conservatism that is closely related to the audit offices’ going concern thresholds. Using a sample of 1,687 auditor changes from 2004 to 2014, I document a positive abnormal return if firms replace the most conservative auditors. However, additional analyses reveal that investors only perceive the most conservative non-Big 4 audit offices in the period after the financial crisis as over-conservative. That is, in the post-crisis period the non-Big 4 auditors increased their level of conservatism to levels that investors perceive as excessive.
+
+Keywords: Auditor Conservatism, Auditor Changes, Audit Quality, Market Valuation, Event Study
+
+JEL Classification: M42, G14, G32
+
+Suggested Citation:
+
+Mohrmann, Ulf, Can Auditors Become Over-Conservative? Evidence From the Investors’ Perception of Auditor Changes (December 19, 2019). Available at SSRN: https://ssrn.com/abstract=3507334 or http://dx.doi.org/10.2139/ssrn.3507334
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+J C Coffee
+Why do auditors fail? What might work?
+What won't? Accounting and Business Research , volume 49 , p. 540 - 561 Posted: 2019
+Crossref
+E B Davis , R H Ashton
+Threshold adjustment in response to asymmetric loss functions: The case of auditors' "substantial doubt" thresholds. Organizational Behavior and Human Decision Processes , volume 89 , p. 1082 - 1099 Posted: 2002
+M Defond , C Lennox , J Zhang
+Some controversies in the auditing literature Posted: 2016
+M Defond , K Raghunandan , K R Subramanyam
+Do non-audit service fees impair auditor independence? Evidence from going concern audit opinions
+Journal of Accounting Research , volume 40 , issue 4 , p. 1247 - 1274 Posted: 2002
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+118
+ABSTRACT VIEWS
+1,324
+RANK
+545,548
+61 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

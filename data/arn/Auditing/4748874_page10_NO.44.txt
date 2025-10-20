@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Analyzing Auditors’ Behavioral Intention to Adopt Blockchain Technology in Bangladesh
+
+The Cost and Management, 51(6), pp. 23-37, 2023
+
+Posted: 22 Apr 2024
+
+Md. Minhaj Uddin
+
+Jatiya Kabi Kazi Nazrul Islam University (JKKNIU)
+
+Sabuj Chandra Bhowmik
+
+Jatiya Kabi Kazi Nazrul Islam University (JKKNIU)
+
+Date Written: December 1, 2023
+
+Abstract
+
+Blockchain technology, widely embraced in various global business sectors since its inception, is, even now, in its preliminary phases of adoption in Bangladesh, especially within diverse fields such as auditing. This investigation aims to understand the constructs that instigate auditor’s willingness to adopt blockchain technology in audit professions in Bangladesh by using the Technology Acceptance Model (TAM) theory. By employing the quantitative method and random sampling approach, the study considered 131 survey data collected from auditors at different levels in various audit firms in Bangladesh through a structured questionnaire. The Partial Least Squares-Structural Equation Modelling (PLS-SEM) was employed to evaluate the survey data. The findings of the study demonstrated that perceived usefulness and perceived ease of use positively and considerably influence the auditors’ attitudes to the blockchain solutions and their behavioral desires to accept the technology in performing audit functions. The results also confirmed the mediation effect of attitude on the relationships between perceived ease of use and behavioral intention to adopt, as well as between perceived usefulness and blockchain technology adoption. The results of the study provide valuable contributions to theoretical comprehension concerning the adoption of technological innovations as well as actionable insights for audit firms, professional bodies, and IT providers on the same issue
+
+Keywords: Perceived Ease of Use, Perceived Usefulness, Auditors’ Attitudes, Adoption, Blockchain Technology
+
+JEL Classification: M42, O32, O33
+
+Suggested Citation:
+
+Uddin, Md. Minhaj and Bhowmik, Sabuj Chandra, Analyzing Auditors’ Behavioral Intention to Adopt Blockchain Technology in Bangladesh (December 1, 2023). The Cost and Management, 51(6), pp. 23-37, 2023, Available at SSRN: https://ssrn.com/abstract=4748874
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+246
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Empirical Asset Pricing with Missing Data
+
+41 Pages Posted: 10 Jan 2022 Last revised: 3 May 2024
+
+Heiner Beckmeyer
+
+University of Münster
+
+Timo Wiedemann
+
+University of Münster - Finance Center Münster
+
+Date Written: January 7, 2022
+
+Abstract
+
+What is the impact of missing information in empirical asset pricing? To seek an answer to this question, we first propose an overarching machine learning method that accurately imputes missing firm characteristics using the characteristic's own past, information about other characteristics and their temporal evolution. We then document the impact of adequately accounting for missing information on questions in asset pricing in three ways: first, we show that factor premia obtained from simple portfolio sorts are likely lower than previously thought; second, acknowledging that the information density differs between firms allows for a more accurate description of the risk-return trade-off across stocks; third, we confirm that simple imputation techniques work as well as sophisticated methods when used for machine learned return predictability. We argue that the complexity of the methods results in their ability to handle amounts of missing information that far exceed what we see empirically.
+
+Keywords: Missing Data, Machine Learning, IPCA, Return Prediction, Big Data
+
+JEL Classification: G10, G12, G14, C14, C55
+
+Suggested Citation:
+
+Beckmeyer, Heiner and Wiedemann, Timo, Empirical Asset Pricing with Missing Data (January 7, 2022). Available at SSRN: https://ssrn.com/abstract=4003455 or http://dx.doi.org/10.2139/ssrn.4003455
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+781
+ABSTRACT VIEWS
+5,977
+RANK
+73,417
+2 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

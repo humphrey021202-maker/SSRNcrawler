@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Cheap Talk in Climate Disclosures relates to Climate Initiatives, Corporate Emissions, and Reputation Risk
+
+Swiss Finance Institute Research Paper No. 22-01
+
+64 Pages Posted: 5 Jan 2022 Last revised: 27 Feb 2024
+
+Julia Bingler
+
+University of Oxford
+
+Mathias Kraus
+
+University of Erlangen-Nuremberg-Friedrich Alexander Universität Erlangen Nürnberg
+
+Markus Leippold
+
+University of Zurich; Swiss Finance Institute
+
+Nicolas Webersinke
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+Date Written: January 3, 2022
+
+Abstract
+
+Navigating the complex landscape of corporate climate disclosures and their real impacts is crucial for managing climate-related financial risks. However, current disclosures oftentimes suffer from imprecision, inaccuracy, and greenwashing. We introduce \climatebertcti, a deep learning algorithm, to identify climate-related cheap talk in MSCI World index firms' annual reports. We find that only targeted climate engagement is associated with less cheap talk. Voluntary climate disclosures are associated with more cheap talk. Moreover, cheap talk correlates with increased negative news coverage and higher emissions growth. Hence, cheap talk helps assess climate initiatives' effectiveness and anticipate reputation and transition risk exposure.
+
+Keywords: Corporate climate disclosures, voluntary reporting, commitments, TCFD recommendations, textual analysis, natural language processing.
+
+JEL Classification: G2, G38, C8, M48
+
+Suggested Citation:
+
+Bingler, Julia and Kraus, Mathias and Leippold, Markus and Webersinke, Nicolas, How Cheap Talk in Climate Disclosures relates to Climate Initiatives, Corporate Emissions, and Reputation Risk (January 3, 2022). Swiss Finance Institute Research Paper No. 22-01, Available at SSRN: https://ssrn.com/abstract=4000708 or http://dx.doi.org/10.2139/ssrn.4000708
+Download This Paper
+ 
+Open PDF in Browser
+107 References
+B S Aharonson , S Bort
+Institutional pressure and an organization's strategic response in corporate social action engagement: The role of ownership and media attention
+Strategic Organization , volume 13 , issue 4 , p. 307 - 339 Posted: 2015
+A Almazan , S Banerji , A D Motta
+Attracting attention: Cheap managerial talk and costly market monitoring
+The Journal of Finance , volume 63 , issue 3 , p. 1399 - 1436 Posted: 2008
+S Alogoskoufis , N Dunz , T Emambakhsh , T Hennig , M Kaijser , C Kouratzoglou , M A Muñoz , L Parisi , C Salleo
+ECB economy-wide climate stress test: Methodology and results , volume 281 Posted: 2021
+A Amel-Zadeh , G Serafeim
+Why and how investors use esg information: Evidence from a global survey
+Financial Analysts Journal , volume 74 , issue 3 , p. 87 - 103 Posted: 2018
+Load more
+11 Citations
+Tobias Schimanski , Andrin Reding , Nico Reding , Julia Bingler , Mathias Kraus , Markus Leippold
+Bridging the gap in ESG measurement: Using NLP to quantify environmental, social, and governance communication
+Finance Research Letters , volume 61 , p. 104979 Posted: 2024
+Crossref
+Tristan Lim
+Environmental, social, and governance (ESG) and artificial intelligence in finance: State-of-the-art and research takeaways
+Artificial Intelligence Review , volume 57 , issue 4 Posted: 2024
+Crossref
+Glen Gostlow
+Anything Goes: Pricing Physical Climate Risk
+94 Pages · Posted: 10 Dec 2019 · Last revised: 10 Jun 2024 · Downloads: 1,532
+Download PDF  Add Paper to My Library
+Weiwei HU , Kai Li , Tingyu Yu
+The Anatomy of Corporate Climate Exposure
+89 Pages · Posted: 9 Feb 2022 · Last revised: 4 Jan 2025 · Downloads: 1,160
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+4,772
+ABSTRACT VIEWS
+12,973
+RANK
+4,596
+11 Citations
+107 References
+PlumX Metrics
+Related eJournals
+
+Swiss Finance Institute Research Paper Series
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

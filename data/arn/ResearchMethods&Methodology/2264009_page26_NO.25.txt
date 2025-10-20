@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Likelihood-Based Confidence Sets for the Timing of Structural Breaks
+
+UNSW Australian School of Business Research Paper No. 2013-12
+
+49 Pages Posted: 17 May 2013 Last revised: 21 May 2013
+
+Yunjong Eo
+
+Department of Economics, Korea University
+
+James Morley
+
+University of Sydney - School of Economics
+
+There are 2 versions of this paper
+
+Date Written: March 30, 2013
+
+Abstract
+
+We propose the use of likelihood-based confidence sets for the timing of structural breaks in parameters from time series regression models. The confidence sets are valid for the broad setting of a system of multivariate linear regression equations under fairly general assumptions about the error and regressors and allowing for multiple breaks in mean and variance parameters. In our asymptotic analysis, we determine the critical values for a likelihood ratio test of a break date and the expected length of a likelihood-based confidence set constructed by inverting the likelihood ratio test. Notably, the likelihood-based confidence set is considerably shorter than for other methods employed in the literature. Monte Carlo analysis confirms better performance than other methods in terms of length and coverage accuracy in finite samples, including when the magnitude of breaks is small. An application to postwar U.S. real GDP and consumption leads to a much tighter 95% confidence set for the timing of the “Great Moderation” in the mid-1980s than previously found. Furthermore, when taking cointegration between output and consumption into account, confidence sets for structural break dates are even more precise and suggest a sudden “productivity growth slowdown” in the early 1970s and an additional large, abrupt decline in long-run growth in the mid-1990s.
+
+Keywords: Inverted Likelihood Ratio Confidence Sets, Multiple Breaks, Great Moderation, Productivity Growth Slowdown
+
+JEL Classification: C22, C32, E20
+
+Suggested Citation:
+
+Eo, Yunjong and Morley, James, Likelihood-Based Confidence Sets for the Timing of Structural Breaks (March 30, 2013). UNSW Australian School of Business Research Paper No. 2013-12, Available at SSRN: https://ssrn.com/abstract=2264009 or http://dx.doi.org/10.2139/ssrn.2264009
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+D W K Andrews
+Tests for Parameter Instability and Structural Change with Unknown Change Point
+Econometrica , volume 61 , issue 4 , p. 821 - 56 Posted: 1993
+Crossref
+D W K Andrews , J C Monahan
+An Improved Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimator
+Econometrica , volume 60 , issue 4 , p. 953 - 66 Posted: 1992
+Crossref
+J Bai
+Vector Autoregressive Models with Structural Changes in Regression Coefficients and in Variance-Covariance Matrices
+Review of Economics and Statistics , volume 79 , issue 4 , p. 301 - 336 Posted: 1997
+J Bai , R L Lumsdaine , J H Stock
+Testing for and Dating Common Breaks in Multivariate Time Series
+Review of Economic Studies , volume 65 , issue 3 , p. 395 - 432 Posted: 1998
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+99
+ABSTRACT VIEWS
+1,129
+RANK
+206,108
+1 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+UNSW Business School Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

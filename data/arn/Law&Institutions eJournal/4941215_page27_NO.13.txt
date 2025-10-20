@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Carbon Emission Disclosure and Financial Performance of Quoted Nigerian Financial Services Companies
+
+International Journal of Energy Economics and Policy, volume 13, issue 6, 2023[10.32479/ijeep.14895]
+
+8 Pages Posted: 1 Oct 2024
+
+Yinka Lydia Emmanuel
+
+Department of Accounting and Finance, Bowen University, Nigeria
+
+Olayinka Adenikinju
+
+Bowen University
+
+Mischelle Doorasamy
+
+University of KwaZulu-Natal - Faculty of Commerce & Management (Westville Campus)
+
+Tajudeen Ayoola
+
+Obafemi Awolowo University - Department of Management and Accounting
+
+Abiodun Oyebamiji Oladejo
+
+Obafemi Awolowo University - Department of Management and Accounting
+
+Jerry Kwarbai
+
+Babcock University
+
+Adegbola Olubukola Otekunrin
+
+Bowen University
+
+Date Written: August 30, 2024
+
+Abstract
+
+Countries and businesses all over the world are focusing on initiatives to safeguard the environment. The goal of stabilizing greenhouse gas concentrations at a level that would preclude harmful anthropogenic interaction with the climate system is a key topic of focus during numerous endeavours. This study examined the relationship between the financial performances of quoted Nigerian financial services companies and carbon emission disclosure. The study employed ex-post facto research design and secondary data from the annual report of quoted Nigerian financial services companies. Multiple regression analysis was on a panel data set. Results show the variable that significantly returns on equity are 'other indirect emission' disclosure-scope 3 (coefficient = 0.416 and probability = 0.087), firm size (coefficient = 0.191 and probability = 0.089), capital intensity (coefficient = 0.000149 and probability = 0.000) and growth (coefficient =-0.0258 and probability = 0.014). The impact of other indirect emission disclosure-scope 3 on return on equity is positive and statistically significant. Also, the result shows the variable that significantly influences the return on sales are 'other indirect emission' disclosure-scope 3(coefficient = 0.790 and probability = 0.001), firm size (coefficient =-0.395 and probability = 0.053), capital intensity (coefficient = 0.000194 and probability = 0.001) and growth (coefficient = 0.0360 and probability = 0.073). It was discovered that other indirect emission disclosure-scope 3 has a positive and significant effect on financial performance (ROE and ROS). This study concluded that carbon emission disclosure significantly influences the return on equity of the selected quoted Nigerian financial services companies. Also, the study concluded that carbon emission disclosure significantly influences the return on sales of the selected quoted Nigerian financial services companies.
+
+Keywords: Carbon Emission Disclosure, Financial Performance, Financial Service Companies JEL Classifications: O16
+
+Suggested Citation:
+
+Emmanuel, Yinka Lydia and Adenikinju, Olayinka and Doorasamy, Mischelle and Ayoola, Tajudeen and Oladejo, Abiodun Oyebamiji and Kwarbai, Jerry Danjuma and Otekunrin, Adegbola Olubukola, Carbon Emission Disclosure and Financial Performance of Quoted Nigerian Financial Services Companies (August 30, 2024). International Journal of Energy Economics and Policy, volume 13, issue 6, 2023[10.32479/ijeep.14895], Available at SSRN: https://ssrn.com/abstract=4941215 or http://dx.doi.org/10.32479/ijeep.14895
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+S Abubakar , M Akhtaruzzaman , A Rashid , H Hammami
+Carbon disclosure, carbon performance and financial performance: International evidence
+International Review of Financial Analysis , volume 75 , p. 1 - 55 Posted: 2021
+K Ahsan
+Determinants of performance of public sector development projects
+International Journal of Management , volume 29 , issue 1 , p. 77 - 90 Posted: 2012
+S N Akanno , F Che , A Radda , I Uzodinma
+Pattern of corporate social and environmental disclosure in Nigeria
+International Journal of Business and Finance Management Research , volume 3 , p. 71 - 82 Posted: 2015
+T Akhiroh , K Kiswanto
+The determinant of carbon emission disclosures
+Accounting Analysis Journal , volume 5 , issue 4 , p. 326 - 336 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+314
+ABSTRACT VIEWS
+841
+RANK
+220,473
+55 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Economics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring Reporting Conservatism Using the Dichev-Tang (2008) Model
+
+2012 AAA Annual Meeting - Financial Accounting and Reporting Section Concurrent Session
+
+56 Pages Posted: 4 Jul 2012
+
+Jimmy Lee
+
+Singapore Management University - School of Accountancy
+
+Date Written: July 4, 2012
+
+Abstract
+
+This paper provides a critical evaluation of an alternative measure of reporting conservatism introduced by Dichev and Tang (2008). Although there is substantial interest in research on accounting conservatism, there is no consensus among researchers on the most appropriate measure of conservatism in empirical studies. Dichev and Tang (2008) introduce a new measure of conservatism, which they believe to be a 'natural and practical measure of conservatism (p. 1441).' However, the econometric properties of this measure have not been fully evaluated, and previous studies have not provided evidence of this measure’s construct validity. Based on a parsimonious model of conservatism, I find that the Dichev and Tang (2008) measure is increasing in the conservatism parameter. However, although this measure produces well-specified test statistics that generate Type 1 errors according to researchers’ specifications, it generates tests of low power that lead to relatively high Type 2 errors. Next, I use actual data to provide evidence consistent with the construct validity of this measure. Finally, I suggest an alternative measure by using the reverse regression specification of the Dichev and Tang (2008) model. Results from simulations suggest that this alternative measure is feasible and is slightly superior to the Dichev and Tang (2008) measure in terms of test power.
+
+Keywords: measure of accounting conservatism, construct validity tests
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Lee, Jimmy, Measuring Reporting Conservatism Using the Dichev-Tang (2008) Model (July 4, 2012). 2012 AAA Annual Meeting - Financial Accounting and Reporting Section Concurrent Session, Available at SSRN: https://ssrn.com/abstract=2100319 or http://dx.doi.org/10.2139/ssrn.2100319
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+S Basu
+The conservatism principle and the asymmetric timeliness of earnings
+Journal of Accounting and Economics , volume 24 , p. 3 - 37 Posted: 1997
+Crossref
+W H Beaver , S G Ryan
+Biases and lags in book value and their effects on the ability of the book-to-market ratio to predict book return on equity
+Journal of Accounting Research , volume 38 , issue 1 , p. 127 - 148 Posted: 2000
+Crossref
+I D Dichev , V W Tang
+Matching and the changing properties of accounting earnings over the last 40 years
+The Accounting Review , volume 83 , issue 6 , p. 1425 - 1460 Posted: 2008
+Crossref
+J R Dietrich , K A Mueller , E J
+Asymmetric timeliness tests of accounting conservatism
+Review of Accounting Studies , volume 12 , issue 1 , p. 95 - 124 Posted: 2007
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+353
+ABSTRACT VIEWS
+2,746
+RANK
+193,883
+1 Citations
+12 References
+PlumX Metrics
+Related eJournals
+
+Singapore Management University School of Accountancy Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

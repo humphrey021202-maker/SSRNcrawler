@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditing Estimates: What Will the Future Bring?
+
+Journal of Financial Perspectives, Vol. 3, No. 1, 2015
+
+42 Pages Posted: 4 Dec 2017
+
+Paul de Beus
+
+Ernst & Young, The Netherlands
+
+Maarten Koning
+
+Ernst & Young, The Netherlands
+
+Date Written: March 30, 2015
+
+Abstract
+
+Under Solvency II, national competent authorities are requesting audit procedures to be performed on all supervisory reporting. Reports will contain more information based on projections of future cash flows. The level of assurance from the Solvency II external audit is expected to be similar to the opinion provided by auditors on financial statements, i.e., reasonable assurance. Current guidelines represent only minimum requirements. So, when is good, “good enough” for the external auditor? In this article, we suggest to analyze the (audit) findings on model outputs against a reasonable range. And in specific situations, this range can exceed the traditional “tolerable error” (TE). We translate the qualitative assessment of a reasonable range and make it quantifiable and objective. We will do so by defining a tolerable range based on sensitivities of inherent variability of underlying key risk drivers. This is needed because audit materiality and TE measures are mainly focusing on “errors” (or misstatements), and are often based on less substantiated and sophisticated approaches. However, when using model outputs in which key model design and parameter choices have to be made, and cash flows are projected long into the future, it is quite often not a question of simply being “right or wrong.”
+
+Suggested Citation:
+
+de Beus, Paul and Koning, Maarten, Auditing Estimates: What Will the Future Bring? (March 30, 2015). Journal of Financial Perspectives, Vol. 3, No. 1, 2015, Available at SSRN: https://ssrn.com/abstract=3081006
+Download This Paper
+ 
+Open PDF in Browser
+6 References
+Results (* €1,000)
+BOF will make a return in the best estimate assumption equal to the risk free return; hence a euro return of €1
+BOF will increase with the release of the risk margin for the period between t=0 and t=1
+Crossref
+DVOC death benefits: €100,00 per individual
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+85
+ABSTRACT VIEWS
+1,407
+RANK
+687,646
+6 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

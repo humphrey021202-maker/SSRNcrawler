@@ -1,0 +1,94 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Financial Statement Fraud Detection: An Analysis of Statistical and Machine Learning Algorithms
+
+Auditing: A Journal of Practice & Theory, Vol. 30, No. 2, 2011
+
+Posted: 25 Jan 2013
+
+Johan Perols
+
+University of San Diego - Department of Accountancy; University of San Diego - School of Business Administration
+
+Date Written: March 21, 2010
+
+Abstract
+
+This study compares the performance of six popular statistical and machine learning models in detecting financial statement fraud under different assumptions of misclassification costs and fraud firm to non-fraud firm ratios. The results show, somewhat surprisingly, that logistic regression and support vector machines perform well relative to artificial neural network, bagging, C4.5 and stacking. The results also reveal some diversity in predictors used across the classification algorithms. Out of 42 predictors examined, only 6 are consistently selected and used by different classification algorithms: auditor turnover, total discretionary accruals, Big 4 auditor, accounts receivable, meeting or beating analyst forecasts, and unexpected employee productivity. These findings extend financial statement fraud research and can be used by practitioners and regulators to improve fraud risk models.
+
+Keywords: Analytical auditing, Financial statement fraud, Fraud detection, Fraud predictors, Classification algorithms
+
+Suggested Citation:
+
+Perols, Johan, Financial Statement Fraud Detection: An Analysis of Statistical and Machine Learning Algorithms (March 21, 2010). Auditing: A Journal of Practice & Theory, Vol. 30, No. 2, 2011, Available at SSRN: https://ssrn.com/abstract=2206572
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+3,714
+PlumX Metrics
+Related eJournals
+
+IO: Regulation, Antitrust & Privatization eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

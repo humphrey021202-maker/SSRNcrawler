@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+How Quickly Auditors Resign from Engagements? An Examination of Auditor Resignation Lag
+
+Pacific Accounting Review (forthcoming)
+
+Posted: 12 Mar 2025
+
+Kam Wah Lai
+
+Hong Kong Shue Yan University
+
+Date Written: February 25, 2025
+
+Abstract
+
+Purpose – This paper examines factors that determine the time lapse between audit report date and resignation date (the resignation lag).  As supporting tests, it also studies auditor resignation and client risk portfolio of the resigning auditor. 
+
+Design/methodology/approach – This paper uses a high-profile case in Hong Kong and a logistic regression to study resignation lag, an ordinary least squares regression to examine auditor resignation, and t-tests and chi-square tests to investigate the risk portfolio of clients dropped, retained and taken-up by the auditor.
+
+Findings – This paper reports that resignation lag is shorter for clients listed on the main board, with a reported loss or high leverage.  The results of a reported loss and high leverage indicate that riskier clients are dropped sooner by the auditor.  It also finds that more risky clients are dropped by the auditor and less likely taken up by other Big 4 auditors, and dropped clients become riskier after being dropped.  In addition, new clients are not more risky than continuing clients but less risky than clients dropped.
+
+Research limitations/implications – Since client risk could not be measured by a single risk variable, the conclusion of the results depends on the totality of the results of all variables used.  Generalisation of the results should be done cautiously due to the small sample size.  As the literature lacks a model that explains resignation lag, the results could be different had such a model exists.
+
+Originality/value – The investigation of resignation lag advances the literature because it is in the interest of auditors to drop more unfavourable engagements sooner.  This efficiency issue, absent in prior studies, is important to an understanding of the audit market.  In addition, resignation lag could serve as an observable, summary measure of the resigning auditors’ assessment of client risk, and participants in the market could infer the riskiness of dropped clients using resignation lag.  
+
+Keywords: Timing of resignation, Client risk, Efficiency, Portfolio management
+
+Suggested Citation:
+
+Lai, Kam Wah, How Quickly Auditors Resign from Engagements? An Examination of Auditor Resignation Lag (February 25, 2025). Pacific Accounting Review (forthcoming), Available at SSRN: https://ssrn.com/abstract=5168204
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+162
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

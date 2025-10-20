@@ -1,0 +1,152 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Retrieving, Classifying and Analysing Narrative Commentary in Unstructured (Glossy) Annual Reports Published as PDF Files
+
+Accounting and Business Research, Forthcoming
+
+50 Pages Posted: 1 Jul 2016 Last revised: 9 Jul 2019
+
+Mahmoud El-Haj
+
+Lancaster University - School of Computing and Communications; Lancaster University
+
+Paulo Alves
+
+Universidade Católica Portuguesa, Católica Porto Business School; Lancaster University Management School - ICRA
+
+Paul Rayson
+
+Lancaster University
+
+Martin Walker
+
+The University of Manchester - Manchester Business School
+
+Steven Young
+
+Lancaster University - Department of Accounting and Finance
+
+Date Written: May 1, 2019
+
+Abstract
+
+We provide a methodological contribution by developing, describing and evaluating a method for automatically retrieving and analysing text from digital PDF annual report files published by firms listed on the London Stock Exchange (LSE). The retrieval method retains information on document structure, enabling clear delineation between narrative and financial statement components of reports, and between individual sections within the narratives component. Retrieval accuracy exceeds 95% for manual validations using a random sample of 586 reports. Large-sample statistical validations using a comprehensive sample of reports published by non-financial LSE firms confirm that report length, narrative tone and (to a lesser degree) readability vary predictably with economic and regulatory factors. We demonstrate how the method is adaptable to non-English language documents and different regulatory regimes using a case study of Portuguese reports. We use the procedure to construct new research resources including corpora for commonly occurring annual report sections and a dataset of text properties for over 26,000 U.K. annual reports.
+
+Keywords: Annual Reports, Textual Analysis, Text Retrieval, Document Structure, Corpus Linguistics
+
+JEL Classification: M40, M41
+
+Suggested Citation:
+
+El-Haj, Mahmoud and Alves, Paulo and Rayson, Paul and Walker, Martin and Young, Steven, Retrieving, Classifying and Analysing Narrative Commentary in Unstructured (Glossy) Annual Reports Published as PDF Files (May 1, 2019). Accounting and Business Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2803275 or http://dx.doi.org/10.2139/ssrn.2803275
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+V Athanasakou , M El-Haj , P Rayson , M Walker , S Young
+Large sample evidence on the properties and impact of strategic commentary in annual reports Posted: 2019
+R Bloomfield
+Discussion of ''annual report readability, current earnings, and earnings persistence
+Journal of Accounting and Economics , volume 45 , p. 248 - 252 Posted: 2008
+Crossref
+J Campbell , H Chen , D Dhaliwal , H Lu , L Steele
+The information content of mandatory risk factor disclosures in corporate filings
+Review of Accounting Studies , volume 19 , issue 1 , p. 396 - 455 Posted: 2013
+Crossref
+U K Cfa Society
+CFA UK annual survey on Financial Reporting and Analysis Posted: 2016
+Load more
+4 Citations
+Tomoki Ito , Hiroki Sakaji , Kiyoshi Izumi
+Advances in Artificial Intelligence
+, volume 1128 , p. 215 Posted: 2020
+Crossref
+Katrin Hummel , Stephanie Mittelbach-Hoermanseder , Charles H. Cho , Dirk Matten
+Corporate Social Responsibility Disclosure: A Topic-Based Approach
+45 Pages · Posted: 26 Dec 2017 · Last revised: 19 Aug 2020 · Downloads: 1,166
+Download PDF  Add Paper to My Library
+Vasiliki E. Athanasakou , Martin Walker , Steven Young , Paulo Alves , Mahmoud El-Haj , Paul Rayson
+Mandatory Annual Report Descriptions of Business Model and Strategy, Investor Uncertainty, and Disclosure Cascade Effects
+81 Pages · Posted: 14 Aug 2018 · Last revised: 7 Feb 2022 · Downloads: 608
+Download PDF  Add Paper to My Library
+Anastasiia Dobson (Borisova) , Paul Andre
+Vocabulary Based Information Retrieval: A Look at CSR Reports by European Listed Companies
+Posted: 26 Mar 2021 · Last revised: 17 Jun 2022 · Downloads: 0
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,026
+ABSTRACT VIEWS
+4,320
+RANK
+50,526
+4 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Stability of Financial Markets and the Role of the Rational International Investor
+
+The ICFAI Journal of Behavioral Finance, Vol. 3, No. 4
+
+16 Pages Posted: 20 Jun 2006
+
+Robert Bruckner
+
+Bawag P.S.K.; QS - Quant Solutions
+
+Abstract
+
+Foreign Investors are indeed guilty of destabilizing national financial markets where they are active. This paper analyzes the impact international investors have on the trading stability of financial markets. By calibrating GJR-GARCH models on overlapping, moving windows of daily returns for the German equity index DAX I find strong statistical evidence that a large portion of the asymmetric part of the model can be explained by investor composition. Apparently, increased exposure of international investors results in larger asymmetry in the conditional volatility. This strongly links the foreign investor to increased market volatility during adverse market information inflows. Thus, trading behavior of foreign investor adds destabilizing influences to the financial market.
+
+Keywords: Stability, International Investors, Foreign Investor, GARCH, Asymmetric Information
+
+JEL Classification: C32, D40, D82
+
+Suggested Citation:
+
+Bruckner, Robert, On the Stability of Financial Markets and the Role of the Rational International Investor. The ICFAI Journal of Behavioral Finance, Vol. 3, No. 4, Available at SSRN: https://ssrn.com/abstract=910180
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+Carol ; Wiley Alexander , F Black , M Scholes
+Market Models, A Guide to Financial Data Analysis
+Journal of Political Economy , volume 81 , p. 637 - 659 Posted: 1973
+Tim Bollerslev , Jeffrey M Wooldridge
+Quasi-maximum likelihood estimation and inference in dynamic models with time-varying covariances
+Econometric Reviews , volume 11 , p. 143 - 172 Posted: 1992
+Bollerslev
+Generalized Autoregressive Conditional Heteroskedasticity
+Journal of Econometrics Posted: 1986
+Crossref
+Michael J Brennan , H Henry Cao
+International Portfolio Investment Flows
+Journal of Finance , volume 52 Posted: 1997
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+128
+ABSTRACT VIEWS
+1,805
+RANK
+511,635
+19 References
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+Recommended Papers
+
+Investor Diversification and International Equity Markets
+
+By Kenneth R. French and James M. Poterba
+
+Why is There a Home Bias? An Analysis of Foreign Portfolio Equity Ownership in Japan
+
+By Jun-koo Kang and René M. Stulz
+
+Familiarity Breeds Investment
+
+By Gur Huberman
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

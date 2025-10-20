@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Lemons Market for Disclosure Redactions
+
+64 Pages Posted: 6 May 2025
+
+Albert Di Wang
+
+University of Texas at Austin - McCombs School of Business
+
+Yong Yu
+
+University of Texas at Austin
+
+Date Written: October 22, 2024
+
+Abstract
+
+This paper investigates peer effects in corporate disclosure redactions, leveraging the 2019 FAST Act as an exogenous reduction in SEC oversight. While redactions increase across industries following the Act, firms respond differently within industries. Our Difference-in-Differences analysis reveals that firms with less proprietary information relative to their peers increase redactions, while those with more actually reduce their redactions. The increase is stronger among firms with greater bad news or lower litigation risk, while the decrease is more pronounced among firms with higher equity-raising needs or lower institutional ownership. Moreover, firms reducing redactions appear to do so in response to peers’ increased redactions. These patterns suggest that reduced oversight fosters agency-driven redactions, which in turn crowd out proprietary-driven ones, exacerbating a lemons problem. As a result, firms—whether increasing or decreasing redactions—experience slower sales growth following the Act. Our findings highlight that policies like the FAST Act, intended to ease the burden of protecting proprietary information through reducing oversight, may paradoxically make it more difficult for firms with legitimate proprietary content to protect it.
+
+Keywords: Lemons Market, Corporate Disclosure, Peer Effect, FAST Act, Confidential Treatment Request, Disclosure Redaction
+
+Suggested Citation:
+
+Wang, Albert Di and Yu, Yong, The Lemons Market for Disclosure Redactions (October 22, 2024). Available at SSRN: https://ssrn.com/abstract=5207022 or http://dx.doi.org/10.2139/ssrn.5207022
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+G A Akerlof
+The market for "lemons": Quality uncertainty and the market mechanism. In Uncertainty in economics , p. 235 - 251 Posted: 1978
+S P Baginski , L A Hinson
+Cost of capital free-riders
+The Accounting Review , volume 91 , issue 5 , p. 1291 - 1313 Posted: 2016
+M E Barth , W R Landsman , X S Tian , M Yu
+Does voluntary non-earnings disclosure substitute for redacted proprietary contract information
+Miaomiao, Does Voluntary Non-Earnings Disclosure Substitute for Redacted Proprietary Contract Information Posted: 2023
+M Breuer , K Hombach , M A Müller
+When you talk, I remain silent: Spillover effects of peers' mandatory disclosures on firms' voluntary disclosures
+The Accounting Review , volume 97 , issue 4 , p. 155 - 186 Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+126
+ABSTRACT VIEWS
+490
+RANK
+517,938
+27 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

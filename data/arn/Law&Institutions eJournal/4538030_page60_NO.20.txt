@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CEO Stress, Aging, and Death
+
+IZA Discussion Paper No. 16366
+
+101 Pages Posted: 11 Aug 2023 Last revised: 7 May 2025
+
+Mark Borgschulte
+
+University of Illinois at Urbana-Champaign - Department of Economics
+
+Marius Guenzel
+
+University of Pennsylvania
+
+Canyao Liu
+
+Yale University
+
+Ulrike Malmendier
+
+University of California, Berkeley - Department of Economics; University of California, Berkeley - Haas School of Business; National Bureau of Economic Research (NBER); Centre for Economic Policy Research (CEPR); Institute for the Study of Labor (IZA); European Corporate Governance Institute (ECGI)
+
+There are 3 versions of this paper
+
+Abstract
+
+We assess the long-term effects of managerial stress on aging and mortality. First, we show that exposure to industry distress shocks during the Great Recession produces visible signs of aging in CEOs. Applying neural-network based machine-learning techniques to pre- and post-distress pictures, we estimate an increase in so-called apparent age by one year. Second, using data on CEOs since the mid-1970s, we estimate a 1.1-year decrease in life expectancy after an industry distress shock, but a two-year increase when anti-takeover laws insulate CEOs from market discipline. The estimated health costs are significant, also relative to other known health risks.
+
+Keywords: managerial stress, life expectancy, apparent-age estimation, job demands, industry distress, visual machine-learning, corporate governance
+
+JEL Classification: G34, I12, M12
+
+Suggested Citation:
+
+Borgschulte, Mark and Guenzel, Marius and Liu, Canyao and Malmendier, Ulrike, CEO Stress, Aging, and Death. IZA Discussion Paper No. 16366, Available at SSRN: https://ssrn.com/abstract=4538030
+Download This Paper
+ 
+Open PDF in Browser
+116 References
+A Abadie , S Athey , G W Imbens , J Wooldridge
+When Should You Adjust Standard Errors for Clustering? Working Paper Posted: 2017
+V V Acharya , S T Bharath , A Srinivasan , B , A Todorov , M Mitchell
+Does Industry-wide Distress Affect Defaulted Firms? Evidence from Creditor Recoveries
+Journal of Financial Economics , volume 85 , issue 3 , p. 787 - 821 Posted: 2007
+A Aizer , L Stroud , S Buka
+Maternal Stress and Child Outcomes: Evidence from Siblings
+Journal of Human Resources , volume 51 , issue 3 , p. 523 - 555 Posted: 2016
+M Anderson , M Marmot
+The Effects of Promotions on Heart Disease: Evidence from Whitehall
+The Economic Journal , volume 122 , issue 561 , p. 555 - 589 Posted: 2012
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+189
+ABSTRACT VIEWS
+1,384
+RANK
+281,769
+116 References
+PlumX Metrics
+Related eJournals
+
+IZA Institute of Labor Economics Discussion Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

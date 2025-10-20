@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can Generative AI help identify peer firms? 
+
+
+
+
+Review of Accounting Studies, 0[10.1007/s11142-025-09892-6]
+
+63 Pages Posted: 4 Apr 2024 Last revised: 4 Apr 2025
+
+Yi Cao
+
+Donald G. Costello College of Business at George Mason University
+
+Long Chen
+
+Donald G. Costello College of Business at George Mason University
+
+Jennifer Tucker
+
+University of Florida - Warrington College of Business
+
+Chi Wan
+
+San Diego State University
+
+Date Written: April 04, 2025
+
+Abstract
+
+We evaluate how well generative AI can perform an important task—identifying product market competitors (“peers”). We find that machine-generated peers have a high overlap with the peers identified by human experts as well as with the peers identified by established peer identification systems. Machine-generated peers have high correlations with the focal firm in stock returns, sales growth, and gross profit margin in the subsequent year. The correlations are stronger than those derived from identifying peers by analyzing the similarity of business descriptions in annual reports or by using members in the focal firm’s SIC industry. Machine-generated peers also exhibit higher homogeneity among themselves than those identified via the two alternative systems. We demonstrate the usefulness of machine-generated peers in two settings: (1) compensation benchmarking by investors and (2) hypothesis testing by researchers. Overall, our findings suggest that generative AI can identify peer firms reasonably well, especially for large firms.        
+
+Keywords: AI, ChatGPT, technology, peers, large language models, machine learning, competitors
+
+JEL Classification: M2, M4, G3, C8, O3
+
+Suggested Citation:
+
+Cao, Yi and Chen, Long and Tucker, Jennifer and Wan, Chi, Can Generative AI help identify peer firms?  (April 04, 2025).
+, Review of Accounting Studies, 0[10.1007/s11142-025-09892-6], Available at SSRN: https://ssrn.com/abstract=4761624 or http://dx.doi.org/10.1007/s11142-025-09892-6
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+A Agrawal , J S Gans , A Goldfarb
+Artificial intelligence. The Journal of Economic Perspectives , volume 33 , issue 2 , p. 31 - 50 Posted: 2019
+A M Albuquerque , G De Franco , R S Verdi
+Peer choice in CEO compensation
+Journal of Financial Economics , volume 108 , issue 1 , p. 160 - 181 Posted: 2013
+A Azevedo , G Colak , I El Kalak , R Tunaru
+The timing of voluntary delisting
+Journal of Financial Economics , volume 155 Posted: 2024
+D Bernard , E Blankespoor , T Kok , S Toynbee
+A modular measure of business complexity
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+873
+ABSTRACT VIEWS
+3,651
+RANK
+63,140
+50 References
+PlumX Metrics
+Related eJournals
+
+Donald G. Costello College of Business at George Mason University Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

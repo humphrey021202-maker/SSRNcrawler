@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Too Much of a Good Thing? Mandatory Risk Disclosure and Corporate Innovation
+
+47 Pages Posted: 11 Jan 2024
+
+Shiu-Yik Au
+
+University of Manitoba - Asper School of Business
+
+Hongping Tan
+
+McGill University - Desautels Faculty of Management
+
+Abstract
+
+Using textual analysis of 10-K filings for US firms, we find that the Securities and Exchange Commission (SEC) mandate for risk disclosure has a negative effect on both the inputs and outputs of corporate innovation, with no corresponding decrease in capital expenditures. Moreover, firms’ corporate innovation shifts towards less risky exploitative patents and away from more risky exploratory patents. Further analysis identifies a potential channel for the negative impact of mandatory risk disclosure on innovation via financial constraints. We address endogeneity through a regression discontinuity design (RDD) that shows the impact of exempting the risk disclosure mandate. These results are consistent with theoretical predictions that mandating increased disclosure can have unintended consequences for firms making uncertain investments, such as innovation.
+
+Keywords: Risk disclosure, textual analysis, innovation, research and development, 10-K filings, Item 1A
+
+Suggested Citation:
+
+Au, Shiu-Yik and Tan, Hongping, Too Much of a Good Thing? Mandatory Risk Disclosure and Corporate Innovation. Available at SSRN: https://ssrn.com/abstract=4692033 or http://dx.doi.org/10.2139/ssrn.4692033
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+A R Admati , P Pfleiderer
+Forcing firms to talk: Financial disclosure regulation and externalities
+The Review of financial studies , volume 13 , issue 3 , p. 479 - 519 Posted: 2000
+P Aghion , P Askenazy , N Berman , G Cette , L Eymard
+Credit constraints and the cyclicality of R&D investment: Evidence from France
+Journal of the European Economic Association , volume 10 , issue 5 , p. 1001 - 1024 Posted: 2012
+A S Ahmed , S Duellman
+Managerial overconfidence and accounting conservatism
+Journal of Accounting Research , volume 51 , issue 1 , p. 1 - 30 Posted: 2013
+S Y Au , B Qiu , S Y Wu
+Do mandatory risk factor disclosures reduce stock price crash risk
+Journal of Accounting and Public Policy Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+103
+ABSTRACT VIEWS
+535
+RANK
+605,468
+67 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

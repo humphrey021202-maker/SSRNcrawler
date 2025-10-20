@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Working Capital Management on Firm’S Profitability Listed in Psx: A Case of Automotive Sector of Paksitan
+
+63 Pages Posted: 11 Aug 2022 Last revised: 12 Aug 2022
+
+Farheen Ramsha
+
+Mohammad Ali Jinnah University, Karachi
+
+Bushra Dilawar Khan
+
+Mohammad Ali Jinnah University, Karachi
+
+Kanwal Ahmed
+
+Mohammad Ali Jinnah University, Karachi
+
+Saira Kanwal
+
+Mohammad Ali Jinnah University, Karachi
+
+Date Written: December 25, 2017
+
+Abstract
+
+Working capital management deals with the balance of current assets and liabilities. Working capital management maximizes the level of firms to an optimal value. With time evidence has shown a significant impact of working capital on the performance of firms. Working capital management addresses the management of companies’ short-term capital and the objective of working capital management is to endorse satisfying profitability and minimize liabilities.
+
+Hence, the study examines the impact of working capital management on automotive manufacturing firms listed on the Pakistan Stock Exchange for the period 2007-2016. Profitability was measured by the performance of the firms by the rate of return on assets as the dependent variable. The cash conversion cycle, average payment period, inventory conversion period, and average collection period determined the working capital of the firms as independent working capital variables. Moreover, the control variable is firm size.
+
+The data was examined using EViews (version 10). The finding reveals that the average collection period, inventory conversion period, average payment period, and cash conversion cycle have an insignificant negative relationship with profitability. In the case of firm size, its relationship with profitability is positively significant. The value of R square reveals that our model is capturing 58% variation from independent and control variables. The value of F statistics indicates that our model is well fitted.
+
+In general collection payments from customers earlier and paying suppliers longer, keeping the product in stock less time, are all related to positive performance. Therefore, managers can increase a firm’s profitability by improving the performance of management of working capital components. The study in this case is done with delicate methods and proper sample models taken from verified sources.
+
+
+Keywords: Working Capital, Working Capital Management, Profitability, Automotive Industry, E-Views
+
+JEL Classification: C12, C22, C83, C87, M10, M41
+
+Suggested Citation:
+
+Ramsha, Farheen and Dilawar Khan, Bushra and Ahmed, Kanwal and Kanwal, Saira, The Impact of Working Capital Management on Firm’S Profitability Listed in Psx: A Case of Automotive Sector of Paksitan (December 25, 2017). Available at SSRN: https://ssrn.com/abstract=4180512 or http://dx.doi.org/10.2139/ssrn.4180512
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+Ho: Profitability is not positively associated to the inventory conversion period. H2: Profitability is positively associated to the inventory conversion period. Ho: Profitability is not positively associated to the average payment period. H3: Profitability is positively associated to the average payment period. Ho: Profitability is not positively associated to the cash conversion cycle. H4: Profitability is positively associated to the cash conversion cycle. Ho: Profitability is not positively associated to the firm size. H5: Profitability is positively associated to the firm size
+References Ahsen S, Faisal M. & Muhammad N (2011) Working Capital Management & Profitability: Evidence from Pakistan Firms , volume 3 Posted: 2011-12
+Automark Magazine
+Posted: 2016
+M Akram , S Jamil , N Ali , B Ali , Abdulsattar , W Khan
+Impact of Working Capital Management On Market Return: A Comparative Study of Pakistan and Indian Chemical Sector
+Business Management Dynamics , volume 5 , issue 10 , p. 10 - 25 Posted: 2016-04
+N Bibi , S Amjad
+The Relationship Between Liquidity and Firms' Profitability: A Case Study of Karachi Stock Exchange
+Asian Journal of Finance & Accounting , volume 9 , issue 1 Posted: 2017
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+122
+ABSTRACT VIEWS
+765
+RANK
+531,260
+24 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

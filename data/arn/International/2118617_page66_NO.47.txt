@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Earnings Opacity and Closed-End Country Fund Discounts
+
+48 Pages Posted: 28 Jul 2012 Last revised: 12 Feb 2016
+
+Feng Chen
+
+University of Toronto - Rotman School of Management
+
+Ole-Kristian Hope
+
+University of Toronto - Rotman School of Management
+
+Qingyuan Li
+
+Wuhan University - School of Economics and Management
+
+Xin Wang
+
+The University of Hong Kong
+
+Date Written: February 12, 2016
+
+Abstract
+
+Closed-end country funds are interesting in that they have two sets of prices for the same underlying assets – the net asset value (NAV) of the fund holdings as measured using the underlying firms’ stock prices in their home markets and the fund price at which the fund trades on a U.S. stock exchange. Utilizing the theoretical framework of information asymmetry in two separate markets for an identical asset, we find that the difference between the fund’s NAV and its trading price (i.e., the fund discount) is positively associated with the earnings opacity of the underlying companies. Such a positive association is consistent with the notion that U.S. investors face higher information acquisition and processing costs when compared with local investors and therefore earnings opacity exacerbates the information disadvantage of U.S. investors, leading to a larger fund discount. We further show that the positive relation varies predictably with U.S. investors’ information acquisition and processing costs and with the extent to which host stock markets are segmented from the U.S. market. Specifically, we find that the positive relation between earnings opacity and fund discounts is weaker for those funds with more U.S. cross-listings in fund holdings, with underlying companies following financial reporting standards similar to U.S. standards, and with less segmented local markets.
+
+Keywords: Closed-end country funds, fund discounts, earnings opacity, information acquisition and processing, international
+
+JEL Classification: F30, G12, G15, G30, G34, M41
+
+Suggested Citation:
+
+Chen, Feng and Hope, Ole-Kristian and Li, Qingyuan and Wang, Xin, Earnings Opacity and Closed-End Country Fund Discounts (February 12, 2016). Available at SSRN: https://ssrn.com/abstract=2118617 or http://dx.doi.org/10.2139/ssrn.2118617
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+J Ammer , S B Holland , D C Smith , F E Warnock
+U.S. international equity investment. Journal of Accounting Research , volume 50 , issue 5 , p. 1109 - 1139 Posted: 2012
+Crossref
+K H Bae , H Tan , W Michael
+International GAAP differences: The impact on foreign analysts
+The Accounting Review , volume 83 , issue 3 , p. 593 - 628 Posted: 2008
+B Baik , J K Kang , J M Kim
+Local institutional investors, information asymmetries, and equity returns
+Journal of Financial Economics , volume 97 , issue 1 , p. 81 - 106 Posted: 2010
+Crossref
+W Bailey , J Jagtiani
+Foreign ownership restrictions and stock prices in the Thai capital market
+Journal of Financial Economics , volume 36 , issue 1 , p. 57 - 87 Posted: 1994
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+585
+ABSTRACT VIEWS
+5,791
+RANK
+106,656
+8 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+Does the Stock Market Harm Investment Incentives?
+
+By John Asker, Joan Farre-mensa, ...
+
+Comparing the Investment Behavior of Public and Private Firms
+
+By John Asker, Joan Farre-mensa, ...
+
+Does Public Ownership of Equity Improve Earnings Quality?
+
+By Dan Givoly, Carla Hayn, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

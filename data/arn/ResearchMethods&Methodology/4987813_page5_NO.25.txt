@@ -1,0 +1,85 @@
+Skip to main content
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Ai Applications on ESG in the Context of New Quality Productivity
+Heliyon
+
+25 Pages Posted: 16 Oct 2024 Publication Status: Under Review
+
+Yixuan Zhu
+
+Zhongnan University of Economics and Law
+
+Bo Xiong
+
+Zhongnan University of Economics and Law
+
+Abstract
+
+In the context of the development of New Quality Productivity, the promotion of the wide application of AI and the enhancement of ESG are of great significance. However, the relationship between AI applications, ESG, and New Quality Productivity is still unclear. We construct indicators of AI based on data from A-share listed companies in Shanghai and Shenzhen from 2015 to 2022. This data was obtained through web crawling and word frequency statistics. The empirical tests conducted indicate that AI can significantly enhance ESG. The conclusion remains robust even after the tests of replacing the indicator system, lagged regression, and propensity score matching. We integrate the SBM-DEA model and the EWM to develop two primary indicators as mechanism variables, which are proved by the results of the bootstrap test: Enterprise Green Innovation and New Quality Productivity. The results of the heterogeneity analysis indicate that AI has a more pronounced impact on ESG in high-tech industries, heavily polluted industries, and the eastern region relative to the central region. We also provided targeted recommendations.
+
+Keywords: AI applications, ESG, new quality productivity, Enterprise Green Innovation
+
+Suggested Citation:
+
+Zhu, Yixuan and Xiong, Bo, The Impact of Ai Applications on ESG in the Context of New Quality Productivity. Available at SSRN: https://ssrn.com/abstract=4987813 or http://dx.doi.org/10.2139/ssrn.4987813
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+123
+ABSTRACT VIEWS
+820
+PlumX Metrics
+Heliyon
+All Journals (10966)
+Related eJournals
+
+Social Sciences Education eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

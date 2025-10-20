@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditor Reporting to Bank Regulators: Effective Regulation or Regulatory Overreach?
+
+Journal of Accounting & Economics (JAE), Vol. 72, No. 2/3, 2021
+
+Stanford University Graduate School of Business Research Paper
+
+29 Pages Posted: 18 Aug 2021
+
+Amir Amel-Zadeh
+
+University of Oxford - Said Business School
+
+Mary E. Barth
+
+Stanford University - Graduate School of Business
+
+Date Written: August 16, 2021
+
+Abstract
+
+We discuss “Economic Consequences of Mandatory Auditor Reporting to Bank Regulators” by Balakrishnan, De George, Ertan, and Scobie (BDES, Journal of Accounting and Economics, forthcoming). BDES concludes that a key benefit of mandatory auditor reporting to bank regulators is reduced bank risk, and its costs include reduced profitability from less overall and less risky lending, and higher audit costs. BDES also provides evidence on the channels through which mandatory auditor reporting links to reduced bank risk. We scrutinize BDES’s analyses and inferences and suggest additional analyses to improve and deepen them. Most notably, we caution that effective bank regulation entails reducing risk for riskier banks; risk reduction for safer banks suggests regulatory overreach. Our evidence is more indicative of regulatory overreach. Thus, although BDES is an important step forward in understanding the role auditors can and do play in improving information available to key decision-makers other than through auditor reports on financial statements and internal controls, a comprehensive assessment of whether the benefits of mandatory auditor reporting to bank regulators exceed its costs is left for future research. Such an assessment is necessary before concluding whether mandatory auditor reporting leads to more effective bank regulation or regulatory overreach.
+
+Keywords: Bank risk, bank regulation, auditor reporting, risk-weighted assets
+
+JEL Classification: D8, M41, M48
+
+Suggested Citation:
+
+Amel-Zadeh, Amir and Barth, Mary E., Auditor Reporting to Bank Regulators: Effective Regulation or Regulatory Overreach? (August 16, 2021). Journal of Accounting & Economics (JAE), Vol. 72, No. 2/3, 2021, Stanford University Graduate School of Business Research Paper, Available at SSRN: https://ssrn.com/abstract=3906040
+Download This Paper
+ 
+Open PDF in Browser
+14 References
+Regardless, the results of our analyses should be interpreted with caution. BDES Appendix A indicates that Size is the natural logarithm of total assets
+Because the logarithmic function is nonlinear, using different units for the two variables potentially introduces measurement error in the estimation of BDES equation (1). Thus, we use the same units for both, which explains why the Table A1 Size statistics differ noticeably between the two samples (means = 21.19 and 14.12), but the Counterparty risk statistics do not (means = 13
+Thus , volume 52 , issue 13 Posted: 1973
+20 Untabulated statistics reveal that the standard deviation of Size in our sample is about 10% smaller than in BDES's sample, which is consistent with more measurement error in BDES's Size variable. Because BDES states that it expresses Size and Counterparty risk in USD
+M Badia , M E Barth , M Duro , G Ormazabal
+Firm risk and disclosures about dispersion of asset values: Evidence from oil and gas reserves
+The Accounting Review , volume 95 , issue 1 , p. 1 - 29 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+155
+ABSTRACT VIEWS
+788
+RANK
+436,820
+14 References
+PlumX Metrics
+Related eJournals
+
+Stanford Graduate School of Business Research Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

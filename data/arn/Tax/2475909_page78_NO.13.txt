@@ -1,0 +1,154 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Evidence on Book-Tax Differences and Disclosure Quality Based on the Notes to the Financial Statements
+
+ZEW - Centre for European Economic Research Discussion Paper No. 14-047
+
+50 Pages Posted: 6 Aug 2014
+
+Maria Evers
+
+ZEW – Leibniz Centre for European Economic Research
+
+Katharina Finke
+
+University of Mannheim - Accounting and Taxation
+
+Sebastian Matenaer
+
+University of Manheim
+
+Ina Meier
+
+University of Mannheim
+
+Benedikt Zinn
+
+ZEW – Leibniz Centre for European Economic Research
+
+Date Written: July 1, 2014
+
+Abstract
+
+The German Accounting Law Modernization Act (BilMoG) represents a change in paradigm with regard to the traditionally close relationship between financial and tax accounting in Germany. At the same time, requirements on the disclosure of deferred taxes were revised considerably. We make use of these new disclosure provisions to disaggregate firms’ deferred tax position and to analyze the components of temporary book-tax differences that add to the reporting gap in Germany. To this end, we apply a unique dataset of hand-collected information from individual financial statements for the fiscal year 2010. We find considerable differences between financial and tax accounting and observe that temporary book-tax differences are mainly associated with mandatory differences in accounting for provisions. The scope and quality of tax-related disclosures vary substantially and the overall disclosure quality is low. In order to identify the determinants of the heterogeneity of disclosure quality, we construct an index for voluntary and mandatory disclosure of deferred tax information and conduct multivariate analyses to explain firms’ disclosure decisions. We show that the recognition of deferred tax assets and liabilities on the face of the balance-sheet is significantly and positively related with disclosure quality in the notes to the financial statements. Further, our results suggest that larger firms are more likely to have high-quality tax disclosures and that high implementation costs could also explain the observed shortfalls in disclosure quality. Moreover, we find that different reporting incentives might apply if reporting on losses is assessed in isolation. We use these insights to derive implications for the discussion about whether and how to reform disclosure requirements under German GAAP.
+
+Keywords: book-tax conformity; book-tax differences; deferred taxes; disclosure quality; tax reporting
+
+JEL Classification: H20, H25, K34, M41
+
+Suggested Citation:
+
+Evers, Maria and Finke, Katharina and Matenaer, Sebastian and Meier, Ina and Zinn, Benedikt, Evidence on Book-Tax Differences and Disclosure Quality Based on the Notes to the Financial Statements (July 1, 2014). ZEW - Centre for European Economic Research Discussion Paper No. 14-047, Available at SSRN: https://ssrn.com/abstract=2475909 or http://dx.doi.org/10.2139/ssrn.2475909
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+A S Ahmed , E Kilic , G J Lobo
+Does recognition versus Disclosure Matter? Evidence from Value-Relevance of Banks' Recognized and Disclosed Derivative Financial Instruments, The Accounting Review , p. 567 - 588 Posted: 2006
+Crossref
+K Ahmed , J K Courtis
+Associations between corporate characteristics and disclosure level in annual reports: A meta-analysis
+British Accounting Review , p. 35 - 61 Posted: 1999
+Crossref
+B Blaylock , T Shevlin , R J Wilson
+Tax Avoidance, Large Positive Temporary Book Tax Differences and Earnings Persistence, The Accounting Review , p. 91 - 120 Posted: 2012
+Crossref
+M Chavent , Y Ding , L Fu , H Stolowy , H Wang
+Disclosure and determinants studies: An extension using the Divisive Clustering Method (DIV)
+European Accounting Review , p. 181 - 218 Posted: 2006
+Crossref
+Load more
+6 Citations
+Domenico Campa , Ray Donnelly , Sean Bradley Power
+Conceptual conformity of deferred tax accruals: evidence from Germany and the United Kingdom
+Accounting Forum , volume 49 , issue 1 , p. 206 Posted: 2025
+Crossref
+Mahfoudh Hussein Mgammal
+The effect of components of tax saving on tax disclosure
+Pacific Accounting Review , volume 31 , issue 4 , p. 574 Posted: 2019
+Crossref
+Heinz Gebhardt , Lars-H. R. Siemers
+Die relative Steuerbelastung mittelständischer Kapitalgesellschaften: Evidenz von handelsbilanziellen Mikrodaten
+Zeitschrift für Wirtschaftspolitik , volume 66 , issue 1 , p. 1 Posted: 2017
+Crossref
+Mahfoudh Hussein Mgammal , Barjoyai Bardai , Ku Nor Izah Ku Ismail
+Corporate governance and tax disclosure phenomenon in the Malaysian listed companies
+Corporate Governance: The International Journal of Business in Society , volume 18 , issue 5 , p. 779 Posted: 2018
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+396
+ABSTRACT VIEWS
+3,700
+RANK
+170,582
+6 Citations
+4 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Closed-Form Solutions of Higher Order Duration Measures
+
+7 Pages Posted: 14 May 2009
+
+Sanjay K. Nawalkha
+
+University of Massachusetts Amherst - Isenberg School of Management
+
+Nelson Lacey
+
+University of Massachusetts at Amherst
+
+Date Written: January 10, 1988
+
+Abstract
+
+This paper derives formulas for higher order duration measures, including D(1) (i.e. Macaulay duration), D(2) (i.e., slope duration), D(3) (curvature duration), etc. We develop a general iterative method to obtain formulas for any higher order measure D(m), for an arbitrary positive integer value for m. The higher order duration measures can be used to hedge against virtually any type of interest rate shift. Our algorithm can be easily adapted for spreadsheet applications.
+
+Keywords: Duration, interest rate hedging, immunization, term structure, bonds
+
+JEL Classification: G10, G11, G12, G13, G21, G22, G23
+
+Suggested Citation:
+
+Nawalkha, Sanjay K. and Lacey, Nelson J., Closed-Form Solutions of Higher Order Duration Measures (January 10, 1988). Available at SSRN: https://ssrn.com/abstract=1402306 or http://dx.doi.org/10.2139/ssrn.1402306
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+R L Fisher , C Weil , G Bierwag , Kaufman
+Coping with the Risk of Market Interest Rate Fluctuations: Returns to Bondholders from Naive and Optimal Strategies
+Journal of Business Posted: 1971-10
+G J C Chua , Babcock
+A Closed-Form Formula for Calculating Bond Duration
+Financial Analysts Journal Posted: 1984-06
+The restrictions that Macaulay duration places on interest rate behavior are parallel, infinitesimal and instantaneous interest rate shifts
+See I Cooper
+Asset Values, Interest-Rate Changes, and Duration
+journal of Financial and Quantitative Analysis , p. 701 - 723 Posted: 1977-12
+Load more
+1 Citations
+Sanjay K. Nawalkha , Nelson J. Lacey , Thomas Schneeweis
+Closed-Form Solutions of Convexity and M-Square
+7 Pages · Posted: 23 May 2009 · Downloads: 230
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+203
+ABSTRACT VIEWS
+1,647
+RANK
+342,507
+1 Citations
+11 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

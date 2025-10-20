@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Long-Term Bankruptcy Prediction. Systematic Literature Review
+
+Research in Corporate Finance
+
+24 Pages Posted: 11 May 2022
+
+Piotr Ratajczak
+
+Poznań University of Economics and Business
+
+Dawid Szutowski
+
+Poznan University of Economics and Business - Department of Controlling, Financial Analysis and Valuation
+
+Aleksandra Szulczewska-Remi
+
+Poznań University of Economics and Business, Department of Controlling, Financial Analysis and Valuation, Students
+
+Date Written: March 10, 2022
+
+Abstract
+
+The optimal forecasting horizon of bankruptcy prediction models is usually one year as beyond this point their accuracy substantially decreases. This common opinion may however ceased to be valid as development of big data processing methods has created new research possibilities in many areas of social sciences. Our research aimed at outlining the ways scientists follow to increase long-term corporate bankruptcy prediction accuracy. We conducted systematic literature review following meta-narrative assumptions to synthesis and analysis of the information acquired from 15 selected papers. Our results indicate that there are few theoretical and methodological approaches scientists may use to actually find high accuracy of long-term bankruptcy prediction.
+
+Keywords: Bankruptcy, financial distress, prediction, long-term, machine learning
+
+JEL Classification: G32, M14, O16, Q56
+
+Suggested Citation:
+
+Ratajczak, Piotr and Szutowski, Dawid and Szulczewska-Remi, Aleksandra, Long-Term Bankruptcy Prediction. Systematic Literature Review (March 10, 2022). Research in Corporate Finance, Available at SSRN: https://ssrn.com/abstract=4054665 or http://dx.doi.org/10.2139/ssrn.4054665
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+V V Acharya , S T Bharath , A Srinivasan
+Does industry-wide distress affect defaulted firms? Evidence from creditor recoveries
+Journal of Financial Economics , volume 85 , issue 3 , p. 787 - 821 Posted: 2007
+E I Altman
+American Finance Association Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy
+Source: The Journal of Finance , volume 23 Posted: 1968
+S Balcaen , H Ooghe
+35 years of studies on business failure: An overview of the classic statistical methodologies and their related problems
+British Accounting Review , volume 38 , issue 1 , p. 63 - 93 Posted: 2006
+E Benmelech , N K Bergman
+Bankruptcy and the Collateral Channel
+The Journal of Finance , volume 66 , issue 2 , p. 337 - 378 Posted: 2011
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+276
+ABSTRACT VIEWS
+974
+RANK
+252,662
+43 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance: Bankruptcy, Financial Distress & Reorganization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Governance Affecting Cost of Mutual Fund Investments: An Emerging Market Perspective
+
+38 Pages Posted: 17 Aug 2024
+
+Munawar Sayyad
+
+ICFAI Foundation for Higher Education
+
+Kaushik Bhattacharjee
+
+Indian Institute of Foreign Trade
+
+Durga Prasad Samantaray
+
+King Saud University - College of Business Administration
+
+Abstract
+
+AbstractUtilizing a large and partially hand-collected dataset of Indian open-ended mutual funds during 2016-2022, we examine how the variables representing different aspects of corporate governance, i.e., Board Size, Board Independence, Asset Management Company (AMC) Ownership Structure, Compensation as well as Tenure of, Independent Directors, and Gender Diversity are related with the Cost of Investments as well as Efficiency of the Board-as proxied by Total Expense Ratio (TER).  On average, smaller boards with higher percentages of independent directors are associated with lower TER of the schemes; a female independent director is associated with helping lower the TER. So far, the ownership structure is concerned; funds of bank-sponsored and private (Indian and foreign) AMCs are associated with lower TER. These results are consistent with theoretical and empirical findings in the literature, especially for firms with high degrees of information asymmetry. Using panel data regression methodology and after taking care of possible endogeneity, we find our results robust under different methodologies like Tobit and Quantile Regression.
+
+Keywords: Total Expense Ratio, Board size, Independent Directors, Ownership Structure, Female Director, Tobit, Quantile Regression, Asset Management Company (AMC), Cost of Investment, Indian Mutual Fund Industry
+
+Suggested Citation:
+
+Sayyad, Munawar and Bhattacharjee, Kaushik and Samantaray, Durga Prasad, Corporate Governance Affecting Cost of Mutual Fund Investments: An Emerging Market Perspective. Available at SSRN: https://ssrn.com/abstract=4928448 or http://dx.doi.org/10.2139/ssrn.4928448
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+J C Adams , S A Mansi , T Nishikawa
+Are mutual fund fees excessive
+Journal of Banking & Finance , volume 36 , issue 8 , p. 2245 - 2259 Posted: 2012
+J C Adams , T Nishikawa , R P Rao
+Mutual fund performance, management teams, and boards
+Journal of Banking & Finance , volume 92 , p. 358 - 368 Posted: 2018
+Qi Chen , Itay Goldstein , Wei Jiang
+Directors' ownership in the US mutual fund industry
+The Journal of Finance , volume 63 , issue 6 , p. 2629 - 2677 Posted: 2008
+D Del Guercio , L Y Dann , M M Partch
+Governance and boards of directors in closed-end investment companies
+Journal of Financial Economics , volume 69 , issue 1 , p. 111 - 152 Posted: 2003
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+52
+ABSTRACT VIEWS
+363
+RANK
+906,046
+51 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Finance eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

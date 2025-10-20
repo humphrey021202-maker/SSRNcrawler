@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Allocation of Funds in Bilevel Subsidy Welfare Programs
+
+70 Pages Posted: 6 Oct 2022 Last revised: 13 May 2024
+
+Wei Wei
+
+University of New Hampshire - Peter T. Paul College of Business and Economics
+
+Priyank Arora
+
+University of South Carolina - Department of Management Science
+
+Senay Solak
+
+Isenberg School of Management, University of Massachusetts Amherst
+
+Date Written: September 17, 2022
+
+Abstract
+
+Most subsidy welfare programs operate in a bilevel hierarchical structure, wherein a funding agency allocates funds to multiple service agencies. These service agencies invest in activities within their areas to generate social impact for beneficiaries by enhancing the quantity and quality of services at local providers. The funds allocation decisions in such programs are complicated by consideration of equity in social impact generated across different areas, information asymmetry between different entities, and intricate relationships among contextual factors in social impact generation. We develop a model to analyze how the funding agency’s funds allocation decisions lead to the most overall social impact in an equitable manner. Considering two scenarios involving restrictions on the use of additional funds that may become available for only one area or one activity, we find that: Under the area-only scenario, the funding agency should allocate more funds to a service agency when either the other service agency may receive more additional funds, it has a relatively balanced mix of subsidy-accepting and non-accepting providers, or outreach activity is more likely to yield a higher investment return and it has fewer non-accepting providers; Under the activity-only scenario, the optimal split of funds between the service agencies could be significantly different when allocating initial versus additional funds. Further, comparison of decisions with and without equity consideration shows that the effect of the contextual factors on the optimal allocation decisions could be directionally opposite. Given the growing impetus to consider equity within their operations, we demonstrate how the funding agencies should adjust their allocation strategies in the presence of such considerations. Further, using a case study based on Massachusetts’ child care subsidy program, we illustrate that the proposed optimal decisions achieve equity while enhancing the overall social impact by approximately 3% versus current allocation decisions.
+
+Keywords: bilevel subsidy programs, funds allocation, equity, socially responsible operations, optimization
+
+Suggested Citation:
+
+Wei, Wei and Arora, Priyank and Solak, Senay, Allocation of Funds in Bilevel Subsidy Welfare Programs (September 17, 2022). Available at SSRN: https://ssrn.com/abstract=4221975 or http://dx.doi.org/10.2139/ssrn.4221975
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+K Adams , M Katz
+Review of Massachusetts child care subsidy eligibility policies and practices Posted: 2015-05-05
+N Arnosti , P Shi
+Design of lotteries and wait-lists for affordable housing allocation
+Management Science , volume 66 , issue 6 , p. 2291 - 2307 Posted: 2020
+P Arora , M Rahmani , K Ramachandran
+Doing less to do more? Optimal service portfolio of non-profits that serve distressed individuals
+Manufacturing & Service Operations Management , volume 24 , issue 2 , p. 883 - 901 Posted: 2022
+P Arora , R Subramanian
+Improving societal outcomes in the organ donation value chain
+Production and Operations Management , volume 28 , issue 8 , p. 2110 - 2131 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+313
+ABSTRACT VIEWS
+1,330
+RANK
+221,251
+66 References
+PlumX Metrics
+Related eJournals
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+
+Political Economy: National, State & Local Government; Intergovernmental Relations eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

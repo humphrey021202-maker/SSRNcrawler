@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Visualization of World-Scale Evidence on Tax Avoidance and Tax Rate Convergence
+
+24 Pages Posted: 14 Feb 2020
+
+Chika Saka
+
+Kwansei Gakuin University; Kwansei Gakuin University
+
+Tomoki Oshika
+
+Waseda University
+
+Masayuki Jimichi
+
+Kwansei Gakuin University - School of Business Administration
+
+Date Written: January 31, 2018
+
+Abstract
+
+Purpose
+
+Firm tax avoidance has gathered substantial public attention in both practice and academic literature. We study tax avoidance among firms and countries using the visualization of accounting data of all of listed firms from 148 countries from 1985 to 2015.
+
+Design/methodology/approach
+
+Over 30 years of financial data on all listed firms from 148 countries and provides world-scale evidence on tax avoidance and tax rates convergence. The research design uses exploratory data analysis and reproducible research using data visualization tools, namely, R with dplyr, ggplot2, and googleVis (Geo Chart and Motion Chart).
+
+Findings
+
+We provide world-scale evidence on (1) firms’ tax avoidance, showing a non-random distribution of firms’ effective tax rates and return on assets using visualization from 1985 to 2015, and (2) downward convergence trend of firms’ effective and statutory tax rates among 58 countries over the past 20 years.
+
+Originality/Value
+
+This study makes two key contributions to the literature. First, this is the first to provide world-scale evidences on the tax avoidance and convergence trends of tax rates. Second, we use the visualization method, which allows easily understanding of what is happening around the world. Research Implications
+
+Our results highlight the tax avoidance issue, which can no longer be ignored, and facilitate a collaborative discussion between non-specialists and professionals with objective evidence from visualization.
+
+Keywords: Tax Avoidance, Convergence, Data Visualization, Exploratory Data Analysis
+
+Suggested Citation:
+
+Saka, Chika and Saka, Chika and Oshika, Tomoki and Jimichi, Masayuki, Visualization of World-Scale Evidence on Tax Avoidance and Tax Rate Convergence (January 31, 2018). Available at SSRN: https://ssrn.com/abstract=3115022 or http://dx.doi.org/10.2139/ssrn.3115022
+Download This Paper
+ 
+Open PDF in Browser
+73 References
+Notes: This five-dimensional (5-D) figure plots the following
+Vertical (y) axis: median of effective tax rate of all listed firms in the country
+Horizontal (x) axis: statutory tax rate of the country
+Area of circle: sum of total assets (USD billion) of all listed firms in the country
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+151
+ABSTRACT VIEWS
+1,742
+RANK
+446,627
+73 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Fiscal Policies & Behavior of Economic Agents eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

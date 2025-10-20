@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How to Use Higher Moments to Capture Accounting Constructs
+
+Fox School of Business Research Paper
+
+66 Pages Posted: 13 Dec 2024 Last revised: 10 Oct 2025
+
+Sudipta Basu
+
+Temple University - Department of Accounting
+
+Dmitri Byzalov
+
+Temple University - Department of Accounting
+
+Date Written: October 06, 2025
+
+Abstract
+
+Researchers often use higher moments of accounting variables to capture theoretical accounting constructs, such as accrual skewness for conditional conservatism or ROA variance for performance risk. However, we show that the typical empirical computation of such moments (e.g., skewness in a five-year rolling window) does not align with the theoretical construct. In this primer, we explain how to define higher moments that reflect the logic of the construct and how to implement them empirically. Our approach is transparent, robust, and can be implemented using a few lines of code that we provide. It works for typical low-frequency annual and quarterly accounting data and does not need a long time series to measure higher moments. We also show that standard rolling-window proxies for higher moments do not provide an adequate approximation and can cause major biases. Undoing these biases changes published findings.
+
+Keywords: accounting construct, generalized method of moments (GMM), multi-stage estimation, bootstrapping JEL codes: M41, C20, C25, accounting logic
+
+JEL Classification: M41, C20, C25
+
+Suggested Citation:
+
+Basu, Sudipta and Byzalov, Dmitri, How to Use Higher Moments to Capture Accounting Constructs (October 06, 2025). Fox School of Business Research Paper, Available at SSRN: https://ssrn.com/abstract=5014922 or http://dx.doi.org/10.2139/ssrn.5014922
+Download This Paper
+ 
+Open PDF in Browser
+70 References
+D Acemoglu , S Johnson , J Robinson , Y Thaicharoen
+Institutional causes, macroeconomic symptoms: Volatility, crises and growth
+J. Monet. Econ , volume 50 , p. 49 - 123 Posted: 2003
+A Agarwal , S Chen , L Mills
+Entity structure and taxes: An analysis of embedded pass-through entities
+Account. Rev , volume 96 , p. 1 - 27 Posted: 2021
+A Ahmed , S Duellman
+Managerial overconfidence and accounting conservatism
+J. Account. Res , volume 51 , p. 1 - 30 Posted: 2013
+R Ball
+Accounting informs investors and earnings management is rife: Two questionable beliefs
+Account. Horiz , volume 27 , p. 847 - 853 Posted: 2013
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+174
+ABSTRACT VIEWS
+758
+RANK
+394,708
+70 References
+PlumX Metrics
+Related eJournals
+
+Fox School of Business, Temple University Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The choice for and the effect of CEO television interviews after earnings announcements
+
+61 Pages Posted: 30 Jul 2025 Last revised: 5 Oct 2025
+
+Anthony Haake
+
+RWTH Aachen University - Department of Finance
+
+Wolfgang Breuer
+
+RWTH Aachen University
+
+Date Written: July 28, 2025
+
+Abstract
+
+This study examines the strategic use of CEO television interviews following earnings announcements in S&P 500 firms to assess how CEOs leverage rich communication channels to influence market perceptions. While prior research highlights the influence of CEO media appearances on market perceptions, their role in managing reactions to earnings surprises – especially negative ones – remains underexplored. Analyzing 1,869 earnings announcements (2023–2024), we find that the probability of a CEO holding an interview rises with the magnitude of the earnings surprises, particularly negative ones. These interviews help mitigate short-term stock price declines but correlate with weaker future firm performance. Notably, interviews that closely echo earnings conference calls (ECCs) improve returns more than those introducing new information as measured by our approach involving large language models and topic modelling. CEOs also tailor their messaging by focusing on external and global topics after negative surprises, while highlighting firm-specific information after positive surprises. This pattern aligns with strategic expectation management and attribution tendencies. Our findings suggest that CEO interviews primarily serve to shape immediate investor sentiment rather than align it with long-term managerial expectations. 
+
+Keywords: CEO Interviews, Earnings Surprises, Market Reactions, Investor Behavior, Strategic Communication Subject classification codes: G14
+
+JEL Classification: G14, G30, M41, D83
+
+Suggested Citation:
+
+Haake, Anthony and Breuer, Wolfgang,
+The choice for and the effect of CEO television interviews after earnings announcements
+(July 28, 2025). Available at SSRN: https://ssrn.com/abstract=5369035 or http://dx.doi.org/10.2139/ssrn.5369035
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+S P Baginski , J M Hassell , W A Hillison
+Voluntary Causal Disclosures: Tendencies and Capital Market Reaction
+Review of Quantitative Finance and Accounting , volume 15 , issue 4 , p. 371 - 389 Posted: 2000
+P Bilinski
+The Content of Tweets and the Usefulness of YouTube and Instagram in Corporate Communication
+European Accounting Review , p. 1 - 33 Posted: 2022
+E Blankespoor , E Dehaan , I Marinovic
+Disclosure processing costs, investors' information choice, and equity market outcomes: A review
+Journal of Accounting and Economics Posted: 2020
+D M Blei , A Y Ng , M I Jordan
+Latent dirichlet allocation
+Journal of Machine Learning Research , volume 3 , p. 993 - 1022 Posted: 2003-01
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+56
+ABSTRACT VIEWS
+441
+RANK
+880,318
+43 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

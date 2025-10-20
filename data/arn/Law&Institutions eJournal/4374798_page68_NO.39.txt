@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Enterprise System Implementation and Cash Flow Volatility
+
+Contemporary Accounting Research, Forthcoming
+
+49 Pages Posted: 13 Mar 2023 Last revised: 15 May 2023
+
+Alfred Z. Liu
+
+Louisiana Tech University - College of Business
+
+Morton Pincus
+
+University of California, Irvine - Paul Merage School of Business
+
+Sean Xu
+
+Tsinghua University - School of Economics & Management
+
+Date Written: March 1, 2023
+
+Abstract
+
+This study investigates the financial and operational implications of enterprise systems (ESs) in corporate risk management. Using matched difference-in-differences analyses based on ES implementation events, we document a significant reduction in the volatility of operating cash flows following ES implementation. We further show that ES implementers have better post-implementation operational efficiency than matched non-ES firms and better manage sales, costs, working capital, and expenditures to reduce operating cash flow volatility. Consistent with the benefits of lower cash flow volatility documented in prior literature, we find ES implementers demonstrate higher investment efficiency, lower reliance on external financing, and higher debt capacity post-ES-implementation than the matched non-ES firms. Our study sheds light on the economic benefits of utilizing enterprise systems in corporate risk management and in so doing, responds to the paucity of empirical research in this area.
+
+Keywords: operating cash flow volatility, enterprise systems, risk management
+
+Suggested Citation:
+
+Liu, Alfred and Pincus, Morton P.K. and Xu, Sean, Enterprise System Implementation and Cash Flow Volatility (March 1, 2023). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4374798 or http://dx.doi.org/10.2139/ssrn.4374798
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+119
+ABSTRACT VIEWS
+850
+RANK
+541,838
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

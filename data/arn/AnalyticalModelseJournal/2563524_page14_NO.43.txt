@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Hold or Sell? How Capital Gains Taxation Affects Holding Decisions
+
+WU International Taxation Research Paper Series No. 2015-06
+
+45 Pages Posted: 25 Feb 2015 Last revised: 16 Mar 2016
+
+Annika Hegemann
+
+University of Paderborn
+
+Angela Kunoth
+
+University of Cologne - Institute of Mathematics
+
+Kristina Rupp
+
+University of Paderborn
+
+Caren Sureth-Sloane
+
+Paderborn University; Vienna University of Economics and Business; TRR 266 Accounting for Transparency
+
+Date Written: 2015
+
+Abstract
+
+Investments with exit flexibility require decisions regarding both the Investment and holding period. Because selling an investment often leads to taxable capital gains, which crucially depend on the duration of an investment, we investigate the impact of capital gains taxation on exit timing under different tax systems. We observed that capital gains taxation delays exit decisions but loses its decision relevance for very long holdings. Often the optimal exit time, which indicates the maximal present value of future cashflows, cannot be determined analytically. However, we identify the breakeven exit time that guarantees present values exceeding those of an immediate sale. While, after-taxes, an immediate sale is often optimal, long holding periods might also be attractive for investors depending on the degree of income and corporate tax integration. A classic corporate tax system often indicates holdings over more than 100 periods. By contrast, a shareholder relief system indicates the earliest breakeven exit time and thus the highest level of exit timing flexibility. Surprisingly, high retention rates are likely to accelerate sales under a classic corporate system. Additionally, the worst exit time, which should be avoided by investors, differs tremendously across tax systems. For an integrated tax system with full imputation, the worst time is reached earlier than under partial or non-integrated systems. These results could help to predict investors’ behavior regarding changes in capital gains taxation and thus are of interest for both investors and tax policymakers. Furthermore, the results emphasize the need to control for the underlying tax system in cross-country empirical studies.
+
+Keywords: Capital Gains Taxation, Holding Period, Exit Flexibility, Investment Decisions, Timing Decisions
+
+JEL Classification: H20, H21, H25
+
+Suggested Citation:
+
+Hegemann, Annika and Kunoth, Angela and Rupp, Kristina and Sureth-Sloane, Caren, Hold or Sell? How Capital Gains Taxation Affects Holding Decisions (2015). WU International Taxation Research Paper Series No. 2015-06, Available at SSRN: https://ssrn.com/abstract=2563524 or http://dx.doi.org/10.2139/ssrn.2563524
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+Lakshman Alles , Louis Murray
+Investment performance and holding periods: An investigation of the major UK asset classes
+Journal of Asset Management , volume 10 , p. 280 - 292 Posted: 2009
+Crossref
+Alan J Auerbach
+Capital Gains Taxation and Tax Reform
+National Tax Journal , volume 42 , p. 391 - 401 Posted: 1989
+Retrospective Capital Gains Taxation
+The American Economic Review , volume 81 , p. 167 - 178 Posted: 1991
+Crossref
+Benjamin C Ayers , Craig E Lefanowicz , John R Robinson
+Shareholder Taxes in Acquisition Premiums: The Effect of Capital Gains Taxation
+The Journal of Finance , volume 58 , p. 2783 - 2801 Posted: 2003
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+307
+ABSTRACT VIEWS
+4,525
+RANK
+225,902
+66 References
+PlumX Metrics
+Related eJournals
+
+WU International Taxation Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

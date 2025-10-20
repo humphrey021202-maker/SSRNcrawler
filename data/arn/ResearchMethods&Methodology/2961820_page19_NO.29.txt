@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Content Analysis of Business Communication: Introducing a German Dictionary
+
+Journal of Business Economics (2018). doi: 10.1007/s11573-018-0914-8
+
+54 Pages Posted: 2 May 2017 Last revised: 7 Nov 2018
+
+Christina E. Bannier
+
+Justus-Liebig-University Giessen
+
+Thomas Pauls
+
+Goethe University Frankfurt
+
+Andreas Walter
+
+University of Giessen - Department of Financial Services
+
+Date Written: January 1, 2018
+
+Abstract
+
+Computer-aided text analyses have gained a lot of attention recently. Applied to different types of business communication such as earnings announcements, analyst reports, or IPO prospectuses, they have been used to extract relevant information for financial market participants. A large number of studies employ dictionary-based approaches by referring to specific word lists. Since these lists have been predominantly compiled for the English language, the respective analyses have focused on English business texts. In order to amplify the application of content analyses to other languages, we create a German dictionary designed to measure the textual sentiment of business communication. Our dictionary is based on the English dictionary by Loughran and McDonald (J Finance 66:35–65. doi: 0.1111/j.1540-6261.2010.01625.x, 2011), which is commonly used for examining finance- and accounting-specific texts. We discuss the set-up of our dictionary and extensively test its quality. We further compare our dictionary to German general language dictionaries and to a machine-learning procedure and provide evidence for its ability to capture market-relevant textual sentiment of German business communication.
+
+Keywords: Text analysis, Content analysis, Textual sentiment, Business communication, Annual reports
+
+JEL Classification: G02, G12, G14
+
+Suggested Citation:
+
+Bannier, Christina E. and Pauls, Thomas and Walter, Andreas, Content Analysis of Business Communication: Introducing a German Dictionary (January 1, 2018). Journal of Business Economics (2018). doi: 10.1007/s11573-018-0914-8, Available at SSRN: https://ssrn.com/abstract=2961820 or http://dx.doi.org/10.2139/ssrn.2961820
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+K D Allee , M D Deangelis
+The structure of voluntary disclosure narratives: Evidence from tone dispersion
+Journal of Accounting Research , volume 53 Posted: 2015
+Crossref
+M Ammann , N Schaub , R Frey , M Verhofen
+Social interaction and investing: Evidence from an online social trading network
+Journal of Behavioral Finance , volume 15 , p. 195 - 213 Posted: 2014
+Crossref
+W Antweiler , M Z Frank
+Is all that talk just noise? The information content of internet stock message boards
+The Journal of Finance , volume 59 , p. 1259 - 1294 Posted: 2004
+Crossref
+Ö Arslan-Ayaydin , K Boudt , J Thewissen
+Managers set the tone: Equity incentives and the tone of earnings press releases
+Journal of Banking & Finance , p. 132 - 147 Posted: 2015
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+519
+ABSTRACT VIEWS
+3,200
+RANK
+123,905
+15 Citations
+41 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Presence and Effect of the Winner's Curse in the Market for Audit Services: An Experimental Market Examination
+
+49 Pages Posted: 27 Apr 2015
+
+Jessen L. Hobson
+
+University of Illinois at Urbana-Champaign
+
+Robert Marley
+
+University of Tampa
+
+Mark J. Mellon
+
+Northern Illinois University - Department of Accountancy
+
+Douglas E. Stevens
+
+Georgia State University - Robinson College of Business
+
+Date Written: April 10, 2015
+
+Abstract
+
+We argue that the market for audit services closely resembles a common value procurement (seller’s) auction, where auditors generate a private estimate of the actual cost of an audit engagement prior to quoting the client a price. Thus, we conduct a systematic examination of audit pricing and audit quality in this market setting using two experiments. In experiment one, we examine a simplified setting in which auditors determine only audit price to investigate whether the “winner’s curse” found to be pervasive in the buyer’s version of the common value auction is also present in the seller’s version. In experiment two, we examine an enriched setting in which auditors determine both audit price and audit effort to investigate the robustness of our results and the effect of the winner’s curse on audit quality. In both experiments, we find that auditors fall prey to the winner’s curse and offer low ball prices on average. But we also find a differential learning process across the two markets. In experiment one, auditors learn to reduce their low ball pricing with market experience. In experiment two, however, auditors do not reduce their low ball pricing but instead reduce their audit effort when they contract at a low ball price. Our evidence suggests that low ball audit pricing arises due to the winner’s curse, and this source of low ball pricing poses a threat to audit quality.
+
+Keywords: Keywords: winner’s curse, audit pricing, audit quality, common value auctions
+
+JEL Classification: M41, C70, D44, D82
+
+Suggested Citation:
+
+Hobson, Jessen L. and Marley, Robert and Mellon, Mark J. and Stevens, Douglas E., The Presence and Effect of the Winner's Curse in the Market for Audit Services: An Experimental Market Examination (April 10, 2015). Available at SSRN: https://ssrn.com/abstract=2599227 or http://dx.doi.org/10.2139/ssrn.2599227
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+Commission on Auditors' Responsibilities: Report, Conclusion, and Recommendations Posted: 1978
+Crossref
+O Ashenfelter , D Genesore
+Testing for Price Anomalies in Real Estate Auctions
+American Economic Review: Papers and Proceedings , volume 82 , issue 2 , p. 501 - 506 Posted: 1992
+Crossref
+S Baiman , P Fischer , M Rajan , R Saouma
+Resource allocation auctions within firms
+Journal of Accounting Research , volume 45 , issue 5 , p. 915 - 946 Posted: 2007
+Crossref
+M Bazerman , W Samuelson
+I won the auction but don't want the prize
+Journal of Conflict Resolution , volume 27 , issue 4 , p. 618 - 634 Posted: 1983
+Crossref
+Load more
+1 Citations
+Francis Goddard , Martin Schmidt
+Exploratory Insights into Audit Fee Increases: A field study into Board Member Perceptions of Auditor Pricing Practices
+International Journal of Auditing 25 (3), 637–660, ESCP Business School Research Paper, · Posted: 22 Apr 2019 · Last revised: 28 Jul 2025 · Downloads: 0
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+205
+ABSTRACT VIEWS
+2,021
+RANK
+339,352
+1 Citations
+58 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

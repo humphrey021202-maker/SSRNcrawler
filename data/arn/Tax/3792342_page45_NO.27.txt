@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Third-Party Reporting and Cross-Border Tax Planning
+
+Rotman School of Management Working Paper No. 3792342
+
+52 Pages Posted: 3 Jun 2021 Last revised: 16 Jan 2024
+
+Alexander Edwards
+
+University of Toronto - Rotman School of Management
+
+Michelle Hutchens
+
+University of Illinois
+
+Anh Persson
+
+University of Illinois at Urbana-Champaign - Gies College of Business - Department of Accountancy
+
+Date Written: December 13, 2023
+
+Abstract
+
+In 2018, the European Union (EU) introduced a new mandatory reporting requirement for a wide range of cross-border tax arrangements (EU Directive 2018/922, also known as DAC6). Unlike prior corporate transparency initiatives, which put the reporting responsibility primarily on the taxpayers, this directive puts the initial reporting responsibility on the third-party intermediaries who are involved in the reportable arrangement at any stage during the planning and execution process. We exploit the adoption of DAC6 in the EU to examine the effectiveness of third-party reporting in curbing cross-border tax planning by multinationals. Using a difference-in-differences research design, we find that affected firms reduce income shifting (and report higher effective tax rates) in the post-adoption period. The reduction in income shifting is stronger for affiliates operating in countries without legal professional privilege exemptions and in countries where non-compliance penalties are higher. Our results highlight the importance of strong third-party reporting requirements in constraining cross-border tax planning.
+
+Keywords: Cross-border tax planning; Third-party reporting; Mandatory disclosure regime; DAC6.
+
+JEL Classification: H25, H26, L51, M41, M48
+
+Suggested Citation:
+
+Edwards, Alexander S. and Hutchens, Michelle and Persson, Anh, Third-Party Reporting and Cross-Border Tax Planning (December 13, 2023). Rotman School of Management Working Paper No. 3792342, Available at SSRN: https://ssrn.com/abstract=3792342 or http://dx.doi.org/10.2139/ssrn.3792342
+Download This Paper
+ 
+Open PDF in Browser
+85 References
+M G References Allingham , A Sandmo
+Income tax evasion: A theoretical analysis
+Journal of public economics , volume 1 , issue 3-4 , p. 323 - 338 Posted: 1972
+B Badertscher , N Shroff , H D White
+Externalities of public firm presence: Evidence from private firms' investment decisions
+Journal of Financial Economics , volume 109 , issue 3 , p. 682 - 706 Posted: 2013
+J M Barrios
+Staggeringly problematic: A primer on staggered DiD for accounting researchers Posted: 2021
+Blackrock
+Letter to HM Revenue & Customs RE: International Tax Enforcement: Disclosable Arrangements Posted: 2019-10
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+386
+ABSTRACT VIEWS
+1,722
+RANK
+175,588
+1 Citations
+85 References
+PlumX Metrics
+Related eJournals
+
+University of Toronto - Rotman School of Management Research Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

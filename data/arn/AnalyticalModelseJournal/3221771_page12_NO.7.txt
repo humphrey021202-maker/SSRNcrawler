@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Multi-Agent Information Acquisition and Sharing
+
+55 Pages Posted: 14 Aug 2018
+
+Dimitri Migrow
+
+School of Economics, University of Edinburgh; University of Edinburgh
+
+Francesco Squintani
+
+University of Warwick
+
+Date Written: July 28, 2018
+
+Abstract
+
+How should a manager optimally choose transfers to incentivize multiple agents both to collect and to share costly information? To answer this question we study a simple model with a principal and two agents. The agents can obtain costly signals and communicate with each another via non-verifiable messages (cheap talk). A principal offers a contract which is separable in the performances of the agents. We characterize the optimal transfers and show a surprising result that for sufficiently correlated information and not too high costs of information acquisition an agent's optimal transfer should depend mainly on the performance of the other agent.
+
+Keywords: Contracts, Organizations, Information Acquisition, Cheap Talk
+
+JEL Classification: D82, M52
+
+Suggested Citation:
+
+Migrow, Dimitri and Squintani, Francesco, Multi-Agent Information Acquisition and Sharing (July 28, 2018). Available at SSRN: https://ssrn.com/abstract=3221771 or http://dx.doi.org/10.2139/ssrn.3221771
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+Ricardo Alonso , Wouter Dessein , Niko Matouschek
+When Does Coordination Require Centralization?
+American Economic Review , volume 98 , issue 1 , p. 145 - 179 Posted: 2008
+Crossref
+Ricardo Alonso , Wouter Dessein , Niko Matouschek
+Strategic Communication: Prices versus Quantities
+Journal of the European Economic Association , volume 2 , issue 3 , p. 365 - 376 Posted: 2010
+Crossref
+Charles Angelucci
+Motivating Agents to Acquire Information
+Pages: 54 Posted: 25 Jan 2017 Last revised: 13 Dec 2017
+Download PDF  Add Paper to My Library
+Rossella Argenziano , Sergei Severinov , Francesco Squintani
+Strategic Information Acquisition and Transmission
+American Economic Journal: Microeconomics , volume 8 , issue 3 , p. 119 - 155 Posted: 2016
+Crossref
+Load more
+1 Citations
+Attila Ambrus , Volodymyr Baranovskyi , Aaron Kolb
+A Delegation-Based Theory of Expertise
+Economic Research Initiatives at Duke (ERID) Working Paper No. 193, Kelley School of Business Research Paper No. 2020-70 · 49 Pages · Posted: 15 Aug 2015 · Last revised: 23 Nov 2020 · Downloads: 165
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+68
+ABSTRACT VIEWS
+1,023
+RANK
+785,362
+1 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

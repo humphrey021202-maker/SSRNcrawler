@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Red Flags in Accounting
+
+THE BLACKWELL ENCYCLOPEDIC DICTIONARY OF ACCOUNTING, A. Rashad Abdel-Khalik, ed., pp. 245-247, Blackwell Publishers Limited, 1997
+
+6 Pages Posted: 25 Aug 2008 Last revised: 21 Feb 2018
+
+Ehsan H. Feroz
+
+University of Washington Tacoma, Milgard School of Business-Accounting ; University of Illinois at Urbana-Champaign; Government of the United States of America - US GAO Advisory Council; University of Minnesota Duluth, Labovitz School of Business-Department of Accounting; University of Minnesota, Carlson School of Management-Department of Accounting; Baruch College, City University of New York; The State University of New York at Buffalo
+
+There are 2 versions of this paper
+
+Date Written: July 24, 2008
+
+Abstract
+
+This paper predates the Sarbanes-Oxley Act of 2002 (Section 704: Study of Enforcement Actions) by five years. Red flags in accounting refer to a set of diagnostic checks to determine the riskiness of a client or a registrant filing financial statements with the SEC. The importance of red flags in auditing has been highlighted by the U.S. National Commission on Fraudulent Financial Reporting and Sarbanes-Oxley Act of 2002. A report published by the American Institute of Certified Public Accountants noted,"In 36 percent of the cases against independent public accountants by the Securities and Exchange Commission (SEC), the auditor failed to recognize or pursue with sufficient skepticism certain warning signs or 'red flags' that existed at the time the audit was conducted" (AICPA 1987, p.113). Although individual auditing firms have developed their own sets of proprietary red flags, there are at least two authoritative sources of red flags. The AICPA Statement of Auditing Standards (SAS) No. 53 (1988) is (was) the most recent pronouncement on the issue. The US SEC through its Accounting and Auditing Enforcement Releases (AAERs) also has suggested red flags it considers in determining the targets of its enforcement actions.
+
+Box 1 (please see the full text) summarizes the red flags mentioned explicitly in SAS 53. Even the subset of 33 red flags mentioned in SAS 53 imposes severe constraints on information processing limits of a decision maker. SAS 53 is also reticent as to the weights to be assigned to the individual risk factors in an audit judgment.
+
+Research addressing unresolved issues related to red flags fall into two categories: archival survey analysis and behavioral modeling. Archival survey analysis checks the correspondence between red flags mentioned in the authoritative sources against the case data available either from the auditors' archives or those of the SEC. Research results show correspondence between the SAS 53 red flags and those mentioned in AAERs and indicate that dominated decisions, weak internal control, dishonest management, and personality anomalies are primary predictors of management frauds and defalcations. However, research results also show that the use of red flags may not be efficacious as a decision aid.
+
+Red flags literature is an aggregation of potentially important but largely untested predictors of client (registrant) risks. Although individual auditing firms and the SEC have been using the subsets of these red flags for their own decision making purposes, published scientific evidence regarding their efficacy is scarce. Much of the current evidence is based on case-based reasoning. While the internal validity of case-based reasoning is not an issue, the generalizability of case based red flags remains an empirical question. Users of red flags are appropriately justified in being cautious until empirical evidence regarding their efficacy is widely documented. Finally, the increase in computerized fraud in financial reporting brings an added dimension of complexity to raise doubts about the efficacy of traditional red flags. While the issue of deception in an evolutionary information processing context is still in its infancy, it is plausible that revolutionary changes in information processing technology will heighten the obsolescence of traditional accounting red flags.
+
+Keywords: Red flags, Management fraud, AICPA, SAS#53, SEC, Sarbanes-Oxley Act of 2002, Auditing, Assurance, AICPA, Accounting and Auditing Enforcement Releases (AAER), Regulation
+
+JEL Classification: G1, G2, G3, G10, G30, G38,K2, L51, M4, M40, M41, M49, N20, P16
+
+Suggested Citation:
+
+Feroz, Ehsan H., Red Flags in Accounting (July 24, 2008). THE BLACKWELL ENCYCLOPEDIC DICTIONARY OF ACCOUNTING, A. Rashad Abdel-Khalik, ed., pp. 245-247, Blackwell Publishers Limited, 1997, Available at SSRN: https://ssrn.com/abstract=1248776
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+122
+ABSTRACT VIEWS
+3,093
+RANK
+52,421
+PlumX Metrics
+Related eJournals
+
+Forensic Accounting eJournal
+
+Follow
+
+Decision-Making in Economics & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

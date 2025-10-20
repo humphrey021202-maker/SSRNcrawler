@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Token-Based Platform Governance
+
+FRB of Philadelphia Working Paper No. 25-17
+
+50 Pages Posted: 23 May 2025
+
+Joseph Abadi
+
+Federal Reserve Banks - Federal Reserve Bank of Philadelphia
+
+Markus K. Brunnermeier
+
+Princeton University - Department of Economics
+
+Date Written: May, 2025
+
+Abstract
+
+develop a model to compare the governance of traditional shareholder-owned plat forms to that of platforms that issue tokens. The owners of a traditional platform have incentives to implement policies that extract rents from users. If the platform’s owners can commit to future policies, they can implement a more efficient outcome by issuing a token that offers claims on the platform’s services. Such a token alleviates conflicts of interest between the platform’s owners and its users, mitigating inefficiencies: a policy that benefits users increases the value of tokens and therefore the platform’s seignorage revenue. If the platform’s owners cannot commit to policies ex ante, however, they can achieve the same outcome by issuing a token that bundles claims on the platform’s ser vices with an ownership share (i.e., cash flow claims and voting rights).
+
+Keywords: Utility Tokens, Platforms, Decentralized Finance, Corporate Governance
+
+JEL Classification: D4, D18, E40, G30
+
+Suggested Citation:
+
+Abadi, Joseph and Brunnermeier, Markus Konrad, Token-Based Platform Governance (May, 2025). FRB of Philadelphia Working Paper No. 25-17, Available at SSRN: https://ssrn.com/abstract=5265617 or http://dx.doi.org/10.21799/frbp.wp.2025.17
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+J Abadi , M Brunnermeier
+Blockchain Economics Posted: 2022
+P Aghion , J Tirole
+Formal and Real Authority in Organizations
+Journal of Political Economy , volume 105 , issue 1 , p. 1 - 29 Posted: 1997
+F Allen , E Carletti , R Marquez
+Stakeholder Governance, Competition, and Firm Value
+Review of Finance , volume 19 , issue 3 , p. 1315 - 1346 Posted: 2015
+R Auer , C Monnet , H S Shin
+Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+42
+ABSTRACT VIEWS
+416
+31 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Economics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

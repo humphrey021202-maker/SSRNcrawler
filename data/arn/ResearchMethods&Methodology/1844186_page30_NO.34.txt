@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dynamic Panels with Predetermined Regressors: Likelihood-Based Estimation and Bayesian Averaging With an Application to Cross-Country Growth
+
+Banco de Espana Working Paper, No. 1109
+
+55 Pages Posted: 26 May 2011
+
+Enrique Moral-Benito
+
+Banco de España; Charles III University of Madrid
+
+Date Written: May 17, 2011
+
+Abstract
+
+This paper discusses likelihood-based estimation of linear panel data models with general predetermined variables and individual-specific effects. The resulting (pseudo) maximum likelihood estimator is asymptotically equivalent to standard GMM but tends to have smaller finite-sample biases as illustrated in simulation experiments. Moreover, the availability of such a likelihood function allows applying the Bayesian apparatus to this class of panel data models. Combining the aforementioned estimator with Bayesian model averaging methods we estimate empirical growth models simultaneously considering endogenous regressors and model uncertainty. Empirical results indicate that only the investment ratio seems to robustly cause long-run economic growth. Moreover, the estimated rate of convergence is not significantly different from zero.
+
+Keywords: dynamic panel estimation, maximum likelihood, weak instruments, growth regressions, bayesian model averaging
+
+JEL Classification: C11, C33, O40
+
+Suggested Citation:
+
+Moral-Benito, Enrique, Dynamic Panels with Predetermined Regressors: Likelihood-Based Estimation and Bayesian Averaging With an Application to Cross-Country Growth (May 17, 2011). Banco de Espana Working Paper, No. 1109, Available at SSRN: https://ssrn.com/abstract=1844186 or http://dx.doi.org/10.2139/ssrn.1844186
+Download This Paper
+ 
+Open PDF in Browser
+116 References
+D Acemoglu
+Introduction to Modern Economic Growth Posted: 2009
+R Agarwala
+Price Distortions and Growth in Developing Countries Posted: 1983
+P Aghion , P Howitt
+A Model of Endogenous Growth through Creative Destruction
+Econometrica , volume 60 , p. 323 - 351 Posted: 1992
+Crossref
+S Ahn , P Schmidt
+Efficient Estimation of Models for Dynamic Panel Data
+Journal of Econometrics , volume 68 , p. 5 - 27 Posted: 1995
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+162
+ABSTRACT VIEWS
+2,340
+RANK
+420,501
+53 Citations
+116 References
+PlumX Metrics
+Related eJournals
+
+Banco de Espana Research Paper Series
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Is Newer Better? Penn World Table Revisions and Their Impact on Growth Estimates
+
+By Simon Johnson, William D. Larson, ...
+
+Is Newer Better? Penn World Table Revisions and Their Impact on Growth Estimates
+
+By Simon Johnson, William D. Larson, ...
+
+Economic Information Versus Quality Variation in Cross-Country Data
+
+By John W. Dawson, Joseph P. Dejuan, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

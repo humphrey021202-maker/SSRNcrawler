@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Contracting with Repeated Moral Hazard and Private Evaluations
+
+46 Pages Posted: 21 Nov 2005
+
+William Fuchs
+
+University of Texas at Austin - Department of Finance; Charles III University of Madrid - Department of Economics
+
+Date Written: October 27, 2006
+
+Abstract
+
+A repeated moral hazard setting in which the Principal privately observes the Agent's output is studied. It is shown that there is no loss from restricting the analysis to contracts in which the Agent is supposed to exert effort every period, receives a constant efficiency wage and no feedback until he is fired. The optimal contract for a finite horizon is characterized, and shown to require burning of resources. These are only burnt after the worst possible realization sequence and the amount is independent of both the length of the horizon and the discount factor (delta). For the infinite horizon case a family of fixed interval review contracts is characterized and shown to achieve first best as delta approaches 1. The optimal contract when delta << 1 is partially characterized. Incentives are optimally provided with a combination of efficiency wages and the threat of termination, which will exhibit memory over the whole history of realizations. Finally, Tournaments are shown to provide an alternative solution to the problem.
+
+Keywords: Moral Hazard, Private Monitoring, Efficiency Wages
+
+JEL Classification: C7, D8, D4
+
+Suggested Citation:
+
+Fuchs, William Martin, Contracting with Repeated Moral Hazard and Private Evaluations (October 27, 2006). Available at SSRN: https://ssrn.com/abstract=852344 or http://dx.doi.org/10.2139/ssrn.852344
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+Dilip ; Abreu , Paul Milgrom , David Pearce
+Information and Timing in Repeated Partnerships
+Econometrica , volume 59 , issue 6 , p. 1713 - 1746 Posted: 1991
+Crossref
+Dilip; Abreu , David Pearce , Ennio Stacchetti
+Toward a Theory of Discounted Repeated Games with Imperfect Monitoring
+Econometrica , volume 58 , issue 5 , p. 1041 - 63 Posted: 1990
+Crossref
+Massimiliano Amarante
+Recursive Structure and Equilibria in Games with Private Monitoring
+Economic Theory , volume 22 , issue 2 , p. 353 - 74 Posted: 2003
+Crossref
+Masaki Aoyagi
+Collusion in Dynamic Bertrand Oligopoly with Correlated Private Signals and Communication
+Journal of Economic Theory , volume 102 , issue 1 , p. 229 - 248 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+319
+ABSTRACT VIEWS
+3,530
+RANK
+216,668
+34 Citations
+45 References
+PlumX Metrics
+Related eJournals
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Recommended Papers
+
+Reputations, Relationships and the Enforcement of Incomplete Contracts
+
+By W. Bentley Macleod
+
+Relational Contracts and Competitive Screening
+
+By Giacomo Calzolari and Giancarlo Spagnolo
+
+Discretionary Latitude and Relational Contracting
+
+By Steven Y. Wu and Brian E. Roe
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

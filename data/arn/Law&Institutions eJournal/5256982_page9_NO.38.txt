@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Industry Expert Analysts and KPI Forecasts 
+
+53 Pages Posted: 19 May 2025 Last revised: 20 May 2025
+
+Roberto Vincenzi
+
+Bocconi University
+
+Wanli Zhao
+
+Bocconi University - Department of Accounting
+
+Date Written: May 16, 2025
+
+Abstract
+
+We explore the mechanism through which analyst industry expertise facilitates forecasting performance. Utilizing a unique dataset of industry-specific operational Key Performance Indicator (KPI) estimates, our analysis reveals that analysts with relevant pre-analyst industry experience exhibit superior KPI forecasting abilities. This inference is robust to a stringent set of fixed effects and an identification strategy based on brokerage house closures and analyst retirements. Capital market tests indicate that KPI forecast revisions issued by industry expert analysts contain more information than those of non-experts. Mapping KPI forecasts to EPS and sales forecasts using path analysis, we document that KPI forecasting accuracy accounts for approximately 19% (33%) of the improvement in EPS (sales) forecast accuracy. Furthermore, we show that monetary KPIs contribute more to the accuracy of both EPS and sales forecasts. Overall, our study advances the understanding of a key category of non-financial disclosure and its role in shaping analyst performance.
+
+Keywords: KPI, Analyst forecast, Industry expertise, Non-financial disclosure
+
+Suggested Citation:
+
+Vincenzi, Roberto and Zhao, Wanli, Industry Expert Analysts and KPI Forecasts  (May 16, 2025). Available at SSRN: https://ssrn.com/abstract=5256982 or http://dx.doi.org/10.2139/ssrn.5256982
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+Heitor Almeida , Igor Cunha , Miguel A Ferreira , Felipe Restrepo
+The Real Effects of Credit Ratings: The Sovereign Ceiling Channel
+Journal of Finance , volume 72 , issue 1 , p. 249 - 290 Posted: 2017
+Jeffery S Abarbanell , N William , Robert E Lanen , Verrecchia
+Analysts' Forecasts as Proxies for Investor Beliefs in Empirical Research
+Journal of Accounting and Economics , volume 20 , p. 31 - 60 Posted: 1995
+Eli Amir , Baruch Lev
+Value-Relevance of Nonfinancial Information: The Wireless Communications Industry
+Journal of Accounting & Economics , volume 22 , p. 3 - 30 Posted: 1996
+Marco Becht , Julian Franks , Jeremy Grant , Hannes F Wagner
+Returns to Hedge Fund Activism: An International Study
+The Review of Financial Studies , volume 30 , issue 9 , p. 2933 - 2971 Posted: 2017
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+90
+ABSTRACT VIEWS
+424
+RANK
+662,989
+53 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

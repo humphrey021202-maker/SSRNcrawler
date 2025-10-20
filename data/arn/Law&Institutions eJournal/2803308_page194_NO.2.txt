@@ -1,0 +1,149 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Trading Prior to the Disclosure of Material Information: Evidence from Regulation Fair Disclosure Form 8-Ks
+
+Contemporary Accounting Research, Forthcoming
+
+48 Pages Posted: 1 Jul 2016 Last revised: 6 Apr 2020
+
+John L. Campbell
+
+University of Georgia - J.M. Tull School of Accounting
+
+Brady J. Twedt
+
+Texas A&M University - Department of Accounting
+
+Benjamin C. Whipple
+
+University of Georgia - C. Herman and Mary Virginia Terry College of Business
+
+There are 2 versions of this paper
+
+Date Written: April 3, 2020
+
+Abstract
+
+Regulation Fair Disclosure (Reg FD) Form 8-K filings provide a venue where managers release information to the market as a whole that they designate as being material. Using this setting, we study trading patterns immediately prior to the public disclosure of material information. We offer three main results. First, using both intra-day and daily trading data, we find abnormal trading volume of 21 percent (13 percent) in the hour (day) prior to the public disclosure, respectively. Second, we find that this pre-disclosure abnormal trading volume is concentrated in firms that are smaller, have more growth opportunities, issue fewer voluntary disclosures, and have weaker external monitoring. Finally, we find that this pre-disclosure volume is concentrated in subsamples in which the information relates to a firm’s material contracts, a firm holds investor/analyst conferences, and there is insider trading activity in a firm’s shares. Our results do not concentrate in a small number of firms or industries, and do not appear to be explained by the form through which managers first release the material information (e.g., Form 8-K, press release, website posting, or social media). Our results are also robust to controlling for the firm’s other filings and peer filings that occur around the disclosure. Overall, the trading patterns we document may show that, inconsistent with the spirit of Reg FD, a subset of investors trade on information managers deem material prior to its broad, public release.
+
+Keywords: Regulation Fair Disclosure (Reg FD), Regulation Effectiveness, 8-Ks
+
+Suggested Citation:
+
+Campbell, John L. and Twedt, Brady J. and Whipple, Benjamin C., Trading Prior to the Disclosure of Material Information: Evidence from Regulation Fair Disclosure Form 8-Ks (April 3, 2020). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2803308 or http://dx.doi.org/10.2139/ssrn.2803308
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+Kristian D. Allee , Brian J. Bushee , Tyler J. Kleppe , Andrew T. Pierce
+Did the Siebel Systems Case Limit the SEC’s Ability to Enforce Regulation Fair Disclosure?
+Pages: 81 Posted: 23 Aug 2019 Last revised: 3 Feb 2022
+Download PDF  Add Paper to My Library
+S Baginski , J Campbell , L Hinson , D Koo
+Do career concerns affect the delay of bad news disclosure?
+The Accounting Review , volume 93 , issue 2 , p. 61 - 95 Posted: 2017
+Crossref
+W Bailey , H Li , C Mao , R Zhong
+Regulation Fair Disclosure and earnings information: Market, analyst, and corporate responses
+Journal of Finance , volume 58 , p. 2487 - 2514 Posted: 2003
+Crossref
+L Bamber , O Barron , D Stevens
+Trading volume around earnings announcements and other financial reports: Theory, research design, empirical evidence, and directions for future research
+Contemporary Accounting Research , volume 28 , p. 431 - 471 Posted: 2011
+Crossref
+Load more
+16 Citations
+Sudheer Chava , Nikhil Paradkar
+December Doldrums, Investor Distraction, and the Stock Market Reaction to Unscheduled News Events
+Georgia Tech Scheller College of Business Research Paper No. 17-25, Journal of Financial Markets (Forthcoming), 30th Australasian Finance and Banking Conference 2017 · 56 Pages · Posted: 20 Sep 2017 · Last revised: 31 May 2024 · Downloads: 692
+Download PDF  Add Paper to My Library
+Han Wu , Yi Li , Ole-Kristian Hope , Qiliang Liu , Hong Cai
+The (In)Visibility of Undisclosed Political Connections
+62 Pages · Posted: 9 May 2019 · Last revised: 4 Oct 2023 · Downloads: 402
+Download PDF  Add Paper to My Library
+Kristian D. Allee , Brian J. Bushee , Tyler J. Kleppe , Andrew T. Pierce
+Did the Siebel Systems Case Limit the SEC’s Ability to Enforce Regulation Fair Disclosure?
+81 Pages · Posted: 23 Aug 2019 · Last revised: 3 Feb 2022 · Downloads: 527
+Download PDF  Add Paper to My Library
+Ashiq Ali , Michael Thomas Durney , Jill E. Fisch , Hoyoun Kyung
+Managers’ Private Communications with Analysts: The Effect of SEC v. Siebel Systems Inc.
+Contemporary Accounting Research, Forthcoming, European Corporate Governance Institute – Finance Working Paper No. 635/2019, U of Penn, Inst for Law & Econ Research Paper No. 20-46, · 59 Pages · Posted: 26 Aug 2019 · Last revised: 10 Aug 2025 · Downloads: 430
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+597
+ABSTRACT VIEWS
+3,704
+RANK
+103,847
+16 Citations
+43 References
+PlumX Metrics
+Related eJournals
+
+Indiana University Kelley School of Business Research Paper Series
+
+Follow
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

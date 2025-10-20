@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A CUSUMSQ Test for Structural Breaks in Error Variance for a Long Memory Heterogeneous Autoregressive Model
+
+GCCR Working Paper Series 14-4
+
+17 Pages Posted: 29 Apr 2014
+
+Eunju Hwang
+
+Gachon University - College of Business and Economics
+
+Dong Wan Shin
+
+Ewha Womans University - Department of Statistics
+
+Date Written: April 28, 2014
+
+Abstract
+
+For testing error variance unstability, a test based on CUSUM squares of the residuals in HAR (Heteroscedastic AutoRegressive) models are constructed and its limiting null distribution is derived to be a simple function of the standard Brownian bridge. A finite sample Monte-Carlo experiment shows reasonable size and power of the proposed test. The test is applied to the realized volatilities of the log-returns of some stock price index and exchange rate to find evidences of variance unstability after adjusting long-memories.
+
+Keywords: HAR model, long-memory, parameter constancy, realized volatility, structural break
+
+Suggested Citation:
+
+Hwang, Eunju and Shin, Dong Wan, A CUSUMSQ Test for Structural Breaks in Error Variance for a Long Memory Heterogeneous Autoregressive Model (April 28, 2014). GCCR Working Paper Series 14-4, Available at SSRN: https://ssrn.com/abstract=2430061 or http://dx.doi.org/10.2139/ssrn.2430061
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+M Asai , M Michael Mcaleer , M C Medeiros
+Modelling and forecasting noisy realized volatility
+Computational Statistics and Data Analysis , volume 56 , p. 217 - 223 Posted: 2012
+Crossref
+S Bianco , F Corsi , R Renó
+Intraday LeBaron Effects. Proceedings of the National Academy of Science of the USA , volume 106 , p. 11439 - 11443 Posted: 2009
+Crossref
+T Bollerslev , G Tauchen , H Zhou
+Expected stock returns and variance risk premia
+The review of Financial Studies , volume 22 , p. 4463 - 4492 Posted: 2009
+Crossref
+C S Bos , P H Franses , M Ooms
+Long memory and level shifts: Re-analyzing inflation rates
+Empirical Economics , volume 24 , p. 427 - 449 Posted: 1999
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+121
+ABSTRACT VIEWS
+1,358
+RANK
+534,717
+1 Citations
+22 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

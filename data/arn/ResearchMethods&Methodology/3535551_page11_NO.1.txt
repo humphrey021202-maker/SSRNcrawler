@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Multi-Stage Clustering with Complementary Structural Analysis of 2-Mode Networks
+
+Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2019, ACM 978-1-4503-6868-1/19/08.
+
+8 Pages Posted: 9 Dec 2021
+
+Emanuela Todeva
+
+Business Clusters, Networks and Economic Development
+
+David Knoke
+
+affiliation not provided to SSRN
+
+Donka Keskinova
+
+affiliation not provided to SSRN
+
+Date Written: September 1, 2019
+
+Abstract
+
+This paper offers a synthesis of a new analytical procedure based on the complementary use of a large number of methods and techniques for categorization of objects, pattern recognition and for structural analysis. It represents an example of a functional clustering [1] and an extension to the ‘posteriori methods’ for clusterisation [2]. We call this approach Multi-Stage Clustering (MSC), as it applies cluster analysis methods at three distinctive stages. We present the MSC and demonstrate its application to a business data set of 275 multinational corporations (MNCs), aiming to address the inherent weaknesses of existing industrial classification tools designed to capture diversification of firms. We evaluate the outcomes from the MSC using a combination of complementary methods for structural analysis and data visualization, such as multi-dimensional scaling (MDS), network mapping (NM) and multiple correspondence analysis (MCA). The MSC is designed for the analysis of diversification patterns of MNCs, which can enable the measurement of group competitiveness and performance across these patterns, known as industry segments, or strategic industry groups (SIGs).
+
+Keywords: Multistage Cluster Analysis, Data Categorization, Pattern Recognition, Industry Classification, Multidimensional Scaling, Network Analysis, Multiple Correspondence Analysis
+
+JEL Classification: A14, C29, C30, C40, C43, C99
+
+Suggested Citation:
+
+Todeva, Emanuela and Knoke, David and Keskinova, Donka, Multi-Stage Clustering with Complementary Structural Analysis of 2-Mode Networks (September 1, 2019). Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2019, ACM 978-1-4503-6868-1/19/08. , Available at SSRN: https://ssrn.com/abstract=3535551
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+J Jacques , C Preda
+Functional data clustering: a survey
+Advances in Data Analysis and Classification , volume 8 , p. 231 - 255 Posted: 2014
+S D Pimentel
+Choosing a clustering: a posteriori method for social networks
+Journal of Social Structure , volume 15 Posted: 2014-01
+X Shi
+The outward FDI strategies of Chinese MNEs: an empirical study of the role of business group affiliation and state ownership types, Durham theses Posted: 2018
+J Nightingale
+On the definition of 'industry' and 'market
+Journal of Industrial Economics , volume 27 , issue 1 , p. 31 - 40 Posted: 1978-09
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+124
+ABSTRACT VIEWS
+596
+RANK
+524,565
+42 References
+PlumX Metrics
+Related eJournals
+
+Economics of Networks eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

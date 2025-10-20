@@ -1,0 +1,99 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Complementary Learning Approach for Text Classification using Large Language Models
+
+67 Pages Posted: 8 Oct 2025
+
+Navid Asgari
+
+Fordham University - Gabelli School of Business
+
+Date Written: January 01, 2025
+
+Abstract
+
+In this study, we propose a structured methodology that utilizes large language models (LLMs) in a cost-efficient, parsimonious manner that integrates the strengths of scholars and machines while offsetting their respective weaknesses. Our methodology-facilitated through "chain of thought" and "few-shot learning" prompting from computer science-extends best practices for co-author teams in qualitative research to human-machine teams in quantitative research. This allows humans to utilize abductive reasoning and natural language to interrogate not just what the machine has done but also what the human has done. Our method highlights how scholars can manage LLMs' inherent weaknesses using careful, low-cost techniques. We demonstrate how to use the methodology to interrogate human-machine rating discrepancies for a sample of 1,934 press releases announcing pharmaceutical alliances (1990-2017). Managerial Summary Facilitated through "chain of thought" and "few-shot learning" prompting from computer science, we introduce a method of utilizing large language models (LLMs) to efficiently tackle large text corpora that require subject matter expertise to classify properly. The approach combines the contextual understanding, creativity, and ethical judgment of humans with the computational efficiency, rule-derived consistency, and large dataset processing capacity of LLMs. We draw upon and extend best practices for co-author teams in qualitative research to human-machine teams in quantitative research, allowing humans to utilize natural language to interrogate not just what the machine has done but also what the human has done. We demonstrate how to use the methodology on a sample of 1,934 press releases announcing pharmaceutical alliances (1990-2017).
+
+Keywords: large language models, text classification, research method, contextualism, abductive reasoning, mechanism-based theorizing RUNNING HEAD: Complementary Learning Approach Complementary Learning Approach for Text Classification using Large Language Models large language models, text classification, research method, contextualism, abductive reasoning, mechanism-based theorizing
+
+Suggested Citation:
+
+Asgari, Navid, Complementary Learning Approach for Text Classification using Large Language Models (January 01, 2025). Available at SSRN: https://ssrn.com/abstract=5577090 or http://dx.doi.org/10.2139/ssrn.5577090
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+11
+ABSTRACT VIEWS
+66
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Entrepreneurship & Economics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

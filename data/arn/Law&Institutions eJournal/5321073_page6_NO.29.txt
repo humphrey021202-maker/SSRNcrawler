@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Congruent Photographs and Text in Annual Reports
+
+58 Pages Posted: 2 Jul 2025
+
+Sudipta Basu
+
+Temple University - Department of Accounting
+
+Ruikai Ji
+
+Temple University - Department of Accounting
+
+Xueming Luo
+
+Temple University - Department of Marketing and Supply Chain Management
+
+Date Written: June 01, 2025
+
+Abstract
+
+We investigate management's strategic use of photographs and text in annual reports. Communications research shows that when text and adjacent photographs share similar meanings (are congruent), they improve the understanding and memorability of the focal context. By employing the deep-learning Bootstrapping Language-Image Pre-Training (BLIP) model to measure photo-text congruence, we document that firms that are performing poorly tend to enhance the photo-text congruence in annual reports, suggesting an emphasis on favorable data. This strategy appears to mitigate the negative impact brought by the bad performance, as evidenced by higher shareholder supporting rates for director elections and say-on-pay proposals at the next annual meeting. The results are more significant when these poorly performing firms have low active institutional ownership or higher operating, especially R&D, expenses. Meanwhile, the high photo-text congruence is not correlated with better future firm performance. Our findings suggest that while enhancing photo-text congruence of favorable data can benefit management, it can convey more comprehensive yet less valuable data that distracts shareholders.
+
+Keywords: Strategic disclosure, Shareholder votes, Information processing costs, Unstructured data
+
+JEL Classification: M40, M41, G14, G17, D83
+
+Suggested Citation:
+
+Basu, Sudipta and Ji, Ruikai and Luo, Xueming, Congruent Photographs and Text in Annual Reports (June 01, 2025). Available at SSRN: https://ssrn.com/abstract=5321073 or http://dx.doi.org/10.2139/ssrn.5321073
+Download This Paper
+ 
+Open PDF in Browser
+81 References
+R Aggarwal , S Dahiya , N R Prabhala
+The power of shareholder votes: Evidence from uncontested director elections
+Journal of Financial Economics , volume 133 , issue 1 , p. 134 - 153 Posted: 2019
+C S Armstrong , I D Gow , D F Larcker
+The efficacy of shareholder voting: Evidence from equity compensation plans
+Journal of Accounting Research , volume 51 , issue 5 , p. 909 - 950 Posted: 2013
+H S Asay , R Libby , K Rennekamp
+Firm performance, reporting goals, and language choices in narrative disclosures
+Journal of Accounting and Economics , volume 65 , issue 2-3 , p. 380 - 398 Posted: 2018
+L Bach , D Metzger
+How close are close shareholder votes?
+The Review of Financial Studies , volume 32 , issue 8 , p. 3183 - 3214 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+218
+ABSTRACT VIEWS
+927
+RANK
+321,382
+81 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

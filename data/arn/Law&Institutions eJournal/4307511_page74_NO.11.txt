@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+ESG disclosure and internal pay gap: Empirical evidence from China
+
+Khurram, M. U., Chen, L., Abedin, M. Z., Adu, D. A., & Lucey, B. (2024). ESG disclosure and internal pay gap: Empirical evidence from China. International Review of Economics & Finance, 92, 228-244. https://doi.org/10.1016/j.iref.2024.02.023
+
+Posted: 24 Dec 2022 Last revised: 7 Mar 2024
+
+Muhammad Usman Khurram
+
+School of economics, Zhejiang university
+
+Lifeng Chen
+
+Zhejiang University - School of Public Affairs
+
+Mohammad Zoynul Abedin
+
+Teesside University
+
+Brian M. Lucey
+
+Trinity Business School, Trinity College Dublin
+
+Date Written: March 20, 2023
+
+Abstract
+
+This study aims to examine how ESG disclosure can modify the internal pay gap between executives and employees, especially green, high-tech, and SOE enterprises in China. We employed Bloomberg’s ESG disclosure score from 2015 to 2019 to identify the U-shape relationship between ESG disclosure and the internal Pay gap (IPG), adopting the differentiation grouping method of green enterprises, high-tech enterprises, and State-owned enterprises (SOEs) to explore the impact of enterprise heterogeneity, providing more policy enlightenment on ESG performance. Our findings indicate a significant U-shaped relationship between ESG disclosure and the internal pay gap, and endogenous characteristics of green and high-tech enterprises have a positive moderating effect within this U-shaped relationship. These findings are statistically significant and consistent with transmissions with endogenous characteristics of the enterprises. Notably, the connectedness shows dynamic patterns by 2SLS and GMM regression, highlighting the risk of ESG disclosure being the shock transmitters to enterprise internal control. Our study is prone to benefit lawmakers, regulators, and firm executives responsible for analyzing and assessing the pay gap.
+
+Keywords: ESG disclosure; Internal pay gap; State-owned enterprises; Green enterprises; High-tech enterprises
+
+JEL Classification: G18, G30, O30, O32
+
+Suggested Citation:
+
+Khurram, Muhammad Usman and Chen, Lifeng and Abedin, Mohammad Zoynul and Lucey, Brian M., ESG disclosure and internal pay gap: Empirical evidence from China (March 20, 2023). Khurram, M. U., Chen, L., Abedin, M. Z., Adu, D. A., & Lucey, B. (2024). ESG disclosure and internal pay gap: Empirical evidence from China. International Review of Economics & Finance, 92, 228-244. https://doi.org/10.1016/j.iref.2024.02.023, Available at SSRN: https://ssrn.com/abstract=4307511
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+600
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

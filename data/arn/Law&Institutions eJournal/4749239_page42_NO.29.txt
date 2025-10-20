@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Culture, Corporate Governance, and Independent Directors: Evidence from Textual Analysis
+
+51 Pages Posted: 2 Apr 2024
+
+Pattanaporn Chatjuthamard
+
+Sasin GIBA
+
+Pornsit Jiraporn
+
+Pennsylvania State University - School of Graduate Professional Studies (SGPS)
+
+Ali Uyar
+
+La Rochelle Business School
+
+Merve Kilic
+
+Samsun University
+
+Date Written: March 5, 2024
+
+Abstract
+
+Purpose - Taking advantage of a unique measure of corporate culture obtained from advanced machine learning algorithms, we explore how corporate culture strength is influenced by board independence, which is one of the most crucial aspects of the board of directors. Because of their independence from the corporation, outside independent directors are more likely to be unbiased. As a result, board independence is commonly used as a proxy for board quality.
+
+Design - In addition to the standard regression analysis, we execute a variety of additional tests, i.e., propensity score matching, an instrumental-variable analysis, Lewbel's (2012) heteroscedastic identification, and Oster's (2019) testing for coefficient stability.
+
+Findings - Our results show that stronger board independence, measured by a higher proportion of independent directors, is significantly associated with corporate culture. In particular, a rise in board independence by one standard deviation results in an improvement in corporate culture by 32.8%
+
+Originality - Conducting empirical research on corporate culture is incredibly difficult due to the inherent difficulties in recognizing and assessing corporate culture, resulting in a lack of empirical research on corporate culture in the literature. We fill this important void in the literature. Exploiting a novel measure of corporate culture based on textual analysis, our study is the first to link corporate culture to corporate governance with a specific focus on board independence.
+
+Keywords: Corporate culture, Board independence, Independent directors, Corporate governance, Machine learning, Textual analysis
+
+JEL Classification: M14, G34
+
+Suggested Citation:
+
+Chatjuthamard, Pattanaporn and Jiraporn, Pornsit and Uyar, Ali and Kilic, Merve, Corporate Culture, Corporate Governance, and Independent Directors: Evidence from Textual Analysis (March 5, 2024). Available at SSRN: https://ssrn.com/abstract=4749239 or http://dx.doi.org/10.2139/ssrn.4749239
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+170
+ABSTRACT VIEWS
+646
+RANK
+403,165
+88 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

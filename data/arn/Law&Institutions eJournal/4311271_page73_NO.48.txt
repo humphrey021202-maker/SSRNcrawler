@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Development of a Framework of Key Internal Control and Governance Principles for Robotic Process Automation (RPA)
+
+37 Pages Posted: 28 Dec 2022
+
+Marc Eulerich
+
+University of Duisburg-Essen, Mercator School of Management
+
+Nathan Waddoups
+
+University of Denver
+
+Martin Wagener
+
+University of Duisburg-Essen
+
+David A. Wood
+
+Brigham Young University - School of Accountancy
+
+Date Written: December 23, 2022
+
+Abstract
+
+Although robotic process automation (RPA) usage is growing rapidly in accounting, concerns are emerging regarding the internal controls and overall governance structure surrounding RPA. To help address these concerns, we use a design science research approach and work with a Fortune 500 company to develop an RPA governance framework. The framework consists of 4 governance areas and 14 control requirements, which help maximize the benefits and minimize the risks associated with the use of RPA. We validate that the framework is useful and generalizable to many organizations by presenting the framework to and subsequently interviewing and surveying 84 professionals at different organizations, including internal and external auditors, chief audit executives at several multinational corporations, academics, accounting and finance professionals, and other RPA stakeholders. Their feedback suggests the framework is successful in achieving its objectives.
+
+Keywords: Robotic Process Automation (RPA), internal controls, governance, framework
+
+JEL Classification: M40, O30, O32, O33, M40
+
+Suggested Citation:
+
+Eulerich, Marc and Waddoups, Nathan and Wagener, Martin and Wood, David A., Development of a Framework of Key Internal Control and Governance Principles for Robotic Process Automation (RPA) (December 23, 2022). Available at SSRN: https://ssrn.com/abstract=4311271 or http://dx.doi.org/10.2139/ssrn.4311271
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+855
+ABSTRACT VIEWS
+2,046
+RANK
+65,053
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

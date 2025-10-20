@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+External Financing, Corporate Governance and the Value of Cash Holdings
+
+Tut, D. (2024) External financing, corporate governance and the value of cash holdings, International Review of Economics & Finance, 91,156-179, https://doi.org/10.1016/j.iref.2024.01.008.
+
+64 Pages Posted: 24 Jun 2022 Last revised: 26 Jan 2024
+
+Daniel Tut
+
+Toronto Metropolitan University
+
+Date Written: January 1, 2024
+
+Abstract
+
+This study investigates the role of corporate governance in the deployment of internal resources when access to credit is hampered and external financing is costly. The extant literature has focused on the rise in cash holdings amongst firms, but little is still known about when and under what conditions firms deploy and use accumulated internal resources. Using a panel data of 1,599 U.S firms for the period 2004 to 2016, the 2008 financial crisis as a quasi-natural experiment and a difference-in-difference estimation strategy, we examine how managers deploy and allocate cash reserves and excess cash. We find that the propensity to invest out of pre-crisis cash reserves is highest for weakly-governed firms and that these firms finance additional investment using short-term debt and allocate a higher fraction of post-crisis excess cash towards building up cash balances. Contrastingly, well-governed firms have a higher propensity to allocate excess cash towards increasing the value of pledgeable assets and deploy any accumulated cash balances to reduce short-term debt financing. Our findings are important as they reconcile the flexibility and the spending hypothesis of cash holdings, showing that well-governed firms trade-off the cost of cash holdings against the benefit of minimizing future demand for costly external financing; effectively hedging against foregoing profitable future investment opportunities.
+
+Keywords: Financial Crisis, Corporate Governance, Cash, Leverage, Pledgeable Assets
+
+JEL Classification: G01, G14, G30, G32
+
+Suggested Citation:
+
+Tut, Daniel, External Financing, Corporate Governance and the Value of Cash Holdings (January 1, 2024). Tut, D. (2024) External financing, corporate governance and the value of cash holdings, International Review of Economics & Finance, 91,156-179, https://doi.org/10.1016/j.iref.2024.01.008., Available at SSRN: https://ssrn.com/abstract=4145368 or http://dx.doi.org/10.2139/ssrn.4145368
+Download This Paper
+ 
+Open PDF in Browser
+54 References
+V V Acharya , H Almeida , M Campello
+Is cash negative debt? A hedging perspective on corporate financial policies
+Journal of Financial Intermediation , volume 16 , p. 515 - 554 Posted: 2007
+V V Acharya , S A Davydenko , I A Strebulaev
+Cash holdings and credit risk
+Review of Financial Studies , volume 25 , issue 12 , p. 3572 - 3609 Posted: 2012
+H Almeida , M Campello
+Financial constraints, asset tangibility, and corporate investment
+Review of Financial Studies , volume 20 , issue 5 , p. 1429 - 1460 Posted: 2007
+H Almeida , M Campello , M S Weisbach
+The cash flow sensitivity of cash
+The Journal of Finance , volume 59 , issue 4 , p. 1777 - 1804 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+124
+ABSTRACT VIEWS
+900
+RANK
+524,565
+1 Citations
+54 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

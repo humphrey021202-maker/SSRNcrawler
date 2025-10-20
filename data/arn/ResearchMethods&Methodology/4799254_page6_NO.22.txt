@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Financial Crisis, Basel III, and Large Banks Financial Reports - a Topic Modeling Approach
+
+54 Pages Posted: 18 Apr 2024 Last revised: 6 Oct 2025
+
+Avinoam Blum
+
+Bar Ilan University
+
+Alon Raviv
+
+Bar-Ilan University - Graduate School of Business Administration
+
+There are 2 versions of this paper
+
+Date Written: April 18, 2024
+
+Abstract
+
+The impact of the 2008 financial crisis and subsequent reforms on banks' financial reports has primarily been assessed through quantitative measures and financial ratios. This study introduces a complementary approach, employing Latent Dirichlet Allocation (LDA) for topic modeling to analyze textual data from the financial reports of 30 major financial institutions between 2005 and 2018. The findings indicate that following the crisis European banks increased their focus on capital requirements and reduced their focus on market risk, unlike their American counterparts. However, during the Basel III period, both American and European banks experienced a significant decline in market risk, accompanied by an increased focus on policies, controls, and capital requirements. Evidence of a significant increase in capital requirements disclosure was also found in Canadian and Australian banks during the Basel III implementation phase.
+
+Keywords: Topic modeling, LDA, Financial crisis, Basel III, Banks, Financial Reports, TBTF
+
+JEL Classification: E32, G28, G21
+
+Suggested Citation:
+
+Blum, Avinoam and Raviv, Alon, The Financial Crisis, Basel III, and Large Banks Financial Reports - a Topic Modeling Approach (April 18, 2024). Available at SSRN: https://ssrn.com/abstract=4799254 or http://dx.doi.org/10.2139/ssrn.4799254
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+V V Acharya , I Drechsler , P Schnabl
+A Pyrrhic victory? Bank bailouts and sovereign credit risk Posted: 2011
+V Acharya , R Engle , M Richardson
+Capital shortfall: A new approach to ranking and regulating systemic risks
+American Economic Review , volume 102 , issue 3 , p. 59 - 64 Posted: 2012
+V Acharya , G Ryan , S
+Banks' Financial Reporting and Financial System Stability
+Journal of Accounting Research Conference Posted: 2016
+V V Acharya , L H Pedersen , T Philippon , M Richardson
+Measuring systemic risk
+The review of financial studies , volume 30 , issue 1 , p. 2 - 47 Posted: 2017
+Load more
+1 Citations
+Rui Li , Jianping Li , Xiaoqian Zhu
+Downside belief disagreements and financial instability: Evidence from risk factor disclosures in U.S. financial institutions’ 10-K filings
+Journal of International Financial Markets, Institutions and Money , volume 99 , p. 102118 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+94
+ABSTRACT VIEWS
+651
+RANK
+490,025
+1 Citations
+49 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Risk Management & Analysis in Financial Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

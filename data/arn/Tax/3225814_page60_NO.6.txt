@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Assessing the Relation Between Taxes and Stock Returns: The Critical Role of Choosing the Tax Variable
+
+50 Pages Posted: 16 Aug 2018
+
+Zhan Gao
+
+Lancaster University
+
+Dan Givoly
+
+Pennsylvania State University, Smeal College of Business
+
+Rick Laux
+
+Oklahoma State University - Stillwater - Spears School of Business
+
+Date Written: June 15, 2018
+
+Abstract
+
+Firms invest non-trivial resources to avoid paying taxes. One of the presumed incentives for doing so is that it should increase the value of the firm. Surprisingly, a large number of studies find that tax expense is positively related to stock returns, suggesting that paying more taxes is good news. We re-evaluate this puzzling relation and provide new evidence that an increase in tax expense is indeed bad news. We begin by showing that the tax expense variable in a regression of returns on pretax income and tax expense captures the market’s pricing of book-tax differences, and importantly, the different tax variables used in the literature capture different components of book-tax differences. Using a regression that clearly distinguishes between temporary and permanent book-tax differences, we show that both temporary and permanent differences (after controlling for influential observations) are negatively related with contemporaneous returns. We also demonstrate that the positive association between contemporaneous returns and current and total expense documented in prior research is explained by influential observations and the intricacies of the accounting for temporary differences. Finally, we provide evidence that the positive relation between future returns and total tax expense, or tax expense momentum, can be attributed to the same market inefficiency captured by earnings momentum.
+
+Keywords: Income Tax Expense, Book-Tax Differences, Stock Returns
+
+JEL Classification: G12, G14, H25, M41
+
+Suggested Citation:
+
+Gao, Zhan and Givoly, Dan and Laux, Rick C., Assessing the Relation Between Taxes and Stock Returns: The Critical Role of Choosing the Tax Variable (June 15, 2018). Available at SSRN: https://ssrn.com/abstract=3225814 or http://dx.doi.org/10.2139/ssrn.3225814
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+R Anderson
+Modern Methods for Robust Regression Posted: 2008
+Crossref
+B Ayers , J Jiang , S Laplante
+Taxable income as a performance measure: The effects of tax planning and earnings quality
+Contemporary Accounting Research , volume 26 , issue 1 , p. 15 - 54 Posted: 2009
+Crossref
+B Baik , K Kim , R Morton , Y Roh
+Analysts' pre-tax income forecasts and tax expense anomaly
+Review of Accounting Studies , volume 21 , p. 559 - 595 Posted: 2016
+Crossref
+R Ball , P Brown
+An empirical evaluation of accounting income numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+Crossref
+Load more
+1 Citations
+Bradford F. Hepfer
+Are Book-Tax Differences Mispriced?
+The Accounting Review , volume 98 , issue 3 , p. 285 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+227
+ABSTRACT VIEWS
+2,161
+RANK
+307,614
+1 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

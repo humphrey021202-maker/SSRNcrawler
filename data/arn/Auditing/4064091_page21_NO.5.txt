@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+capAI - A Procedure for Conducting Conformity Assessment of AI Systems in Line with the EU Artificial Intelligence Act
+
+91 Pages Posted: 25 Mar 2022 Last revised: 22 Jul 2022
+
+Luciano Floridi
+
+Yale University - Digital Ethics Center; University of Bologna- Department of Legal Studies
+
+Matthias Holweg
+
+University of Oxford - Said Business School
+
+Mariarosaria Taddeo
+
+University of Oxford - Oxford Internet Institute
+
+Javier Amaya
+
+ESADE Business School; University of Oxford - Said Business School; University College Dublin (UCD), College of Business and Law, UCD School of Business, Michael Smurfit Graduate School of Business, Students
+
+Jakob Mökander
+
+University of Oxford - Oxford Internet Institute
+
+Yuni Wen
+
+University of Oxford - Said Business School
+
+Date Written: March 23, 2022
+
+Abstract
+
+We have developed capAI, a conformity assessment procedure for AI systems, to provide an independent, comparable, quantifiable, and accountable assessment of AI systems that conforms with the proposed AIA regulation. By building on the AIA, capAI provides organisations with practical guidance on how high-level ethics principles can be translated into verifiable criteria that help shape the design, development, deployment and use of ethical AI. The main purpose of capAI is to serve as a governance tool that ensures and demonstrates that the development and operation of an AI system are trustworthy – i.e., legally compliant, ethically sound, and technically robust – and thus conform to the AIA.
+
+Keywords: AI, AI Act, AI legislation, AI Auditing, Conformity Assessment, EU, Trustworthy AI
+
+Suggested Citation:
+
+Floridi, Luciano and Holweg, Matthias and Taddeo, Mariarosaria and Amaya, Javier and Mökander, Jakob and Wen, Yuni, capAI - A Procedure for Conducting Conformity Assessment of AI Systems in Line with the EU Artificial Intelligence Act (March 23, 2022). Available at SSRN: https://ssrn.com/abstract=4064091 or http://dx.doi.org/10.2139/ssrn.4064091
+Download This Paper
+ 
+Open PDF in Browser
+110 References
+L Floridi , J Cowls
+A unified framework of five principles for AI in society
+Ethics, Governance, and Policies in Artificial Intelligence , p. 5 - 17 Posted: 2021
+Mckinsey , Mckinsey
+Artificial intelligence in the United Kingdom: prospects and challenges Posted: 2019
+M Taddeo , L Floridi
+How AI can be a force for good
+Science , volume 361 , issue 6404 , p. 751 - 752 Posted: 2018
+Government Digital Service (GDS) and the Office for Artificial Intelligence (OAI), A guide to using artificial intelligence in the public sector Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+21,871
+ABSTRACT VIEWS
+54,863
+RANK
+319
+65 Citations
+110 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

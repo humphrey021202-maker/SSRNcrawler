@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Testing for Structural Stability of Factor Augmented Forecasting Models
+
+Journal of Econometrics, Forthcoming
+
+53 Pages Posted: 16 Jul 2013
+
+Valentina Corradi
+
+University of Warwick - Department of Economics
+
+Norman R. Swanson
+
+Rutgers, The State University of New Jersey - Department of Economics; Rutgers University - Department of Economics
+
+Date Written: April 2013
+
+Abstract
+
+Mild factor loading instability, particularly if sufficiently independent across the different constituent variables, does not affect the estimation of the number of factors, nor subsequent estimation of the factors themselves (see e.g. Stock and Watson (2009)). This result does not hold in the presence of large common breaks in the factor loadings, however. In this case, information criteria overestimate the number of breaks. Additionally, estimated factors are no longer consistent estimators of "true" factors. Hence, various recent research papers in the diffusion index literature focus on testing the constancy of factor loadings. One reason why this is a positive development is that in applied work, factor augmented forecasting models are used widely for prediction, and it is important to understand when such models are stable. Now, forecast failure of factor augmented models can be due to either factor loading instability, regression coefficient instability, or both. To address this issue, we develop a test for the joint hypothesis of structural stability of both factor loadings and factor augmented forecasting model regression coefficients. The proposed statistic is based on the difference between full sample and rolling sample estimators of the sample covariance of the factors and the variable to be forecasted. Failure to reject the null ensures the structural stability of the factor augmented forecasting model. If the null is instead rejected, one can proceed to disentangle the cause of the rejection as being due to either (or both) of the afore mentioned varieties of instability. Standard inference can be carried out, as the suggested statistic has a chi-squared limiting distribution. We also establish the first order validity of (block) bootstrap critical values. Finally, we provide an empirical illustration by testing for the structural stability of factor augmented forecasting models for 11 U.S. macroeconomic indicators.
+
+Keywords: diffusion index, factor loading stability, forecast failure, forecast stability, regression coefficients stability
+
+JEL Classification: C12, C22, C53
+
+Suggested Citation:
+
+Corradi, Valentina and Swanson, Norman Rasmus and Swanson, Norman Rasmus, Testing for Structural Stability of Factor Augmented Forecasting Models (April 2013). Journal of Econometrics, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2294147
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+Nii Ayi C. Armah , Norman Rasmus Swanson , Norman Rasmus Swanson
+Seeing Inside the Black Box: Using Diffusion Index Methodology to Construct Factor Proxies in Largescale Macroeconomic Time Series Environments
+FRB of Philadelphia Working Paper No. 08-25 Pages: 38 Posted: 7 Mar 2007 Last revised: 22 Nov 2019
+Download PDF  Add Paper to My Library
+J Bai
+Inferential Theory for Factor Models of Large Dimensions
+Econometrica , volume 71 , p. 135 - 171 Posted: 2003
+Crossref
+J Bai , S Ng
+Determining the Number of Factors in Approximate Factor Models
+Econometrica , volume 70 , p. 191 - 221 Posted: 2002
+Crossref
+J Bai , S Ng
+Confidence Intervals for Diffusion Index Forecasts and Inference with Factor Augmented Regressions
+Econometrica , volume 74 , p. 1133 - 1150 Posted: 2006
+Crossref
+Load more
+4 Citations
+Ray Y. Chou , Tso-Jung Yen , Yu-Min Yen
+Macroeconomic Forecasting Using Approximate Factor Models with Outliers
+International Journal of Forecasting, vol. 36, 2020 · 45 Pages · Posted: 8 Oct 2019 · Last revised: 28 Nov 2020 · Downloads: 43
+Download PDF  Add Paper to My Library
+Zhonghao Fu , Yongmiao Hong , Xia Wang
+Testing for Structural Changes in Large Dimensional Factor Models via Discrete Fourier Transform
+50 Pages · Posted: 14 Apr 2020 · Last revised: 5 May 2022 · Downloads: 187
+Download PDF  Add Paper to My Library
+Barbara Rossi
+Forecasting in the Presence of Instabilities: How Do We Know Whether Models Predict Well and How to Improve Them
+CEPR Discussion Paper No. DP14472 · 70 Pages · Posted: 25 Mar 2020 · Downloads: 13
+ Add To Cart  Add Paper to My Library
+Daniele Massacci
+Unstable Diffusion Indexes: With an Application to Bond Risk Premia
+Oxford Bulletin of Economics and Statistics, Vol. 81, Issue 6, pp. 1376-1400, 2019 · 25 Pages · Posted: 2 Jun 2020 · Downloads: 2
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+82
+ABSTRACT VIEWS
+1,268
+RANK
+702,914
+4 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

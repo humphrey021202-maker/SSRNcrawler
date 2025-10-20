@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Role of Taxes in the Rise of ETFs
+
+148 Pages Posted: 11 Dec 2020 Last revised: 28 Apr 2025
+
+Rabih Moussawi
+
+Villanova University - Department of Finance; University of Pennsylvania
+
+Ke Shen
+
+Lehigh University -- Perella Department of Finance
+
+Raisa Velthuis
+
+Villanova University - Department of Finance
+
+Date Written: November 18, 2019
+
+Abstract
+
+This paper argues that a lesser-known yet economically significant tax-deferral feature of ETFs’ security design is crucial to their success. By relying on the in-kind redemption exemption, authorized participants help ETFs avoid distributing capital gains and reduce their tax overhang, partly by deploying heartbeat trades. We estimate that the ETF tax efficiency has increased long-term investors’ after-tax returns by 1.05% per year relative to mutual funds in recent years. Exploiting cross-sectional and time-series variations in investors’ tax burden, we show that tax efficiency is a significant driver of capital migration by high-net-worth investors from mutual funds into ETFs.
+
+Keywords: ETFs, Mutual Funds, Capital Gains, Fund Flows, In-Kind Redemptions, Section 852(b)(6) Exemption, Heartbeat Trades, Tax Deferral, High-Net-Worth Individuals, Step-up in Basis
+
+JEL Classification: G11, G23, G28, K22
+
+Suggested Citation:
+
+Moussawi, Rabih and Shen, Ke and Velthuis, Raisa, The Role of Taxes in the Rise of ETFs (November 18, 2019). Available at SSRN: https://ssrn.com/abstract=3744519 or http://dx.doi.org/10.2139/ssrn.3744519
+Download This Paper
+ 
+Open PDF in Browser
+83 References
+A Agapova
+Conventional mutual index funds versus exchange-traded funds
+Journal of Financial Markets , volume 14 , issue 2 , p. 323 - 343 Posted: 2011
+V Agarwal , H Ren , K Shen , H Zhao
+Redemption in Kind and Mutual Fund Liquidity Management. Review of Financial Studies , volume 6 , p. 2274 - 2318 Posted: 2023
+R Arnott , V Kalesnik , T Schuesler
+Is Your Alpha Big Enough to Cover Its Taxes? A Quarter-Century Retrospective
+Journal of Portfolio Management , p. 78 - 102 Posted: 2018
+G Auten , D Splinter , S Nelson
+Reactions of high-income taxpayers to major tax legislation
+National Tax Journal , volume 69 , p. 935 - 964 Posted: 2016
+Load more
+4 Citations
+Shaojun Zhang
+Toward Tax-Efficient Low-Volatility Investing
+Journal of Portfolio Management (JPM), Forthcoming · 1 Pages · Posted: 22 Jul 2021 · Last revised: 10 Jan 2022 · Downloads: 228
+Download PDF  Add Paper to My Library
+Adam L. Aiken , D. Eli Sherrill , Kate Upton
+Side‐by‐side management of mutual funds and actively managed exchange traded funds
+Financial Review , volume 57 , issue 3 , p. 533 Posted: 2022
+Crossref
+C. Vijaya , M. Thenmozhi
+Spillover and leverage effect in Smart Beta Exchange Traded Funds: Evidence from India
+DECISION , volume 51 , issue 1 , p. 105 Posted: 2024
+Crossref
+Cao Fang , Peter J. McGee
+Asymmetric information, liquidity needs, and migration to ETFs: An experimental investigation
+Journal of Behavioral Finance , p. 1 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,629
+ABSTRACT VIEWS
+14,209
+RANK
+11,983
+4 Citations
+83 References
+PlumX Metrics
+Related eJournals
+
+The Wharton School, University of Pennsylvania Research Paper Series
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

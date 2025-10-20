@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting for Data Assets
+
+59 Pages Posted: 4 Mar 2025 Last revised: 27 Jun 2025
+
+Xingchao Gao
+
+University of Toronto - Rotman School of Management
+
+Junhao Liu
+
+University of Melbourne - Faculty of Business and Economics
+
+Hai Lu
+
+University of Toronto - Rotman School of Management
+
+Date Written: March 03, 2025
+
+Abstract
+
+We provide initial survey and empirical evidence on a new accounting rule in China that allows data to be recognized as assets in financial statements. Our survey of 511 Chinese public firms yields two major findings. First, firms show strong agreement with the importance of data in their operations and value creation. Second, while firms widely acknowledge the benefits of recognizing and disclosing data resources, such as improved relevance of accounting information and real effects on digitalization, substantial concerns arise from the direct and indirect costs of compliance. Using data on actual data asset reporting practices throughout 2024, we find that only 2% of public firms have reported data assets, but their impact on accounting earnings appears non-trivial. Follow-up interviews provide insights into why most firms have not recognized data assets despite the economic significance and potential benefits. Overall, our study offers novel insights into the first accounting rule worldwide for corporate data resources and provides policy implications for standard setters and practitioners regarding the accounting for and disclosure of intangibles.
+
+Keywords: Data Assets, Intangibles, Accounting Standard, Digital Economy, Survey
+
+JEL Classification: G10, M41, M48
+
+Suggested Citation:
+
+Gao, Xingchao and Liu, Junhao and Lu, Hai, Accounting for Data Assets (March 03, 2025). Available at SSRN: https://ssrn.com/abstract=5164215 or http://dx.doi.org/10.2139/ssrn.5164215
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+S Abis , L Veldkamp
+The changing economics of knowledge production
+Review of Financial Studies , volume 37 , p. 89 - 118 Posted: 2024
+D Aboody , B Lev
+The value relevance of intangibles: The case of software capitalization
+Journal of Accounting research , volume 36 , p. 161 - 191 Posted: 1998
+R D Banker , R Huang , R Natarajan , S Zhao
+Market valuation of intangible asset: Evidence on SG&A expenditure
+The Accounting Review , volume 94 , p. 61 - 90 Posted: 2019
+M E Barth , K Li , C G Mcclure
+Evolution in value relevance of accounting information
+The Accounting Review , volume 98 , p. 1 - 28 Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+588
+ABSTRACT VIEWS
+4,628
+RANK
+106,324
+52 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Governance of the Water Supply Systems in the Palestinian Territories: A Data Envelopment Analysis Approach to the Management of Water Resources
+
+Journal of Environmental Management, Vol. 87, pp. 80-94, 2008
+
+34 Pages Posted: 15 Aug 2008 Last revised: 31 Dec 2018
+
+Kamal A. Alsharif
+
+University of South Florida
+
+Ehsan H. Feroz
+
+University of Washington Tacoma, Milgard School of Business-Accounting ; University of Illinois at Urbana-Champaign; Government of the United States of America - US GAO Advisory Council; University of Minnesota Duluth, Labovitz School of Business-Department of Accounting; University of Minnesota, Carlson School of Management-Department of Accounting; Baruch College, City University of New York; The State University of New York at Buffalo
+
+Andrew Klemer
+
+affiliation not provided to SSRN
+
+Raymond L. Raab
+
+University of Minnesota, Duluth - Labovitz School of Business and Economics (LSBE)
+
+Abstract
+
+The purpose of this study is to evaluate the governance efficiencies of the water supply systems by applying data envelopment analysis (DEA) to 33 Palestinian municipalities. We demonstrate that DEA can be a useful tool to assess the relative efficiencies of water supply systems and to establish benchmarks with which to measure progress in the management of water resources. Frontier estimation models measure the efficiency of water use in the Palestinian Territories (West Bank and the Gaza Strip). At the municipality level, sufficient data for the years 1999-2002 were available to estimate efficiency and stability scores. The Gaza Strip efficiency scores were considerably lower than those of the West Bank. Water losses were the major source of the inefficiency as indicated by the large slacks of this input. The relative size of the municipalities did not affect efficiency scores as much. Palestinian policy makers should focus on rebuilding the infrastructure of the water networks, beginning with the most inefficient municipalities in order to minimize water losses. We document that water shortage crisis can be alleviated by improvements in the management of domestic water sector. The needs for improvement in water network infrastructure are assessed to aid water management decisions. The evaluation of water use efficiency factors allow policy makers to monitor improvement programs and to make better management decisions. Even more importantly, the alleviation of water supply crisis will improve the prospects for a peaceful settlement of other issues involving the Palestinian territories. Gestures by the Israeli and the Palestinian authorities toward political stability can also stimulate more progressive and enlightened water management policies. Rather than being perceived as an obstacle to progress and permanent peace, solutions to these problems can help motivate broader commonalities of interest.
+
+
+
+Keywords: Governance, Water resources, DEA, Benchmarking, Global warming, Palestine, Political Economy, Environmental Management
+
+JEL Classification: C44, C61, C67, D24, D57, D61, E23, G18, H10, H51,L30, L51, M41, 010, O47, Q20, Q25
+
+Suggested Citation:
+
+Alsharif, Kamal A. and Feroz, Ehsan H. and Klemer, Andrew and Raab, Raymond L., Governance of the Water Supply Systems in the Palestinian Territories: A Data Envelopment Analysis Approach to the Management of Water Resources. Journal of Environmental Management, Vol. 87, pp. 80-94, 2008, Available at SSRN: https://ssrn.com/abstract=1227883
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+173
+ABSTRACT VIEWS
+2,339
+RANK
+397,014
+PlumX Metrics
+Related eJournals
+
+Operations Research eJournal
+
+Follow
+
+Governmental & Nonprofit Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+A Productivity Growth Accounting Approach to the Ranking of Developing and Developed Nations
+
+By Raymond L. Raab and Ehsan H. Feroz
+
+Global Warming and Environmental Production Efficiency Ranking of the Kyoto Protocol Nations
+
+By Ehsan H. Feroz, Raymond L. Raab, ...
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

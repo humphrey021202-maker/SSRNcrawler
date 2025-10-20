@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Information Advantage of Banks: Evidence From Their Private Credit Assessments *
+
+57 Pages Posted: 15 Nov 2022 Last revised: 26 Apr 2024
+
+Gregory Weitzner
+
+McGill University
+
+Mehdi Beyhaghi
+
+Board of Governors of the Federal Reserve System
+
+Cooper Howes
+
+Federal Reserve Bank of Kansas City
+
+Date Written: November 1, 2022
+
+Abstract
+
+In classic theories of financial intermediation, banks mitigate information frictions by monitoring and producing information about borrowers. However, it is difficult to test these theories without access to banks' private information. In this paper, we use supervisory data containing banks' private assessments of their loans' expected losses. We show that changes in expected losses predict firms' future stock returns, bond returns, and earnings surprises, and that banks use this information to allocate credit. Our findings show that banks' information production and monitoring create an information advantage over financial markets, even among publicly traded firms.
+
+Keywords: bank loans, asymmetric information, relationship lending, informed finance
+
+JEL Classification: g21, g14, d82
+
+Suggested Citation:
+
+Weitzner, Gregory and Beyhaghi, Mehdi and Howes, Cooper, The Information Advantage of Banks: Evidence From Their Private Credit Assessments * (November 1, 2022). Available at SSRN: https://ssrn.com/abstract=4265161 or http://dx.doi.org/10.2139/ssrn.4265161
+Download This Paper
+ 
+Open PDF in Browser
+74 References
+Jawad M Addoum , Justin R Murfin
+Equity price discovery with informed private debt
+The Review of Financial Studies , volume 33 , p. 3766 - 3803 Posted: 2020
+Manuel Adelino , Ivan Ivanov , Michael Smolyansky
+Humans vs machines: Soft and hard information in corporate loan pricing Posted: 2019
+Sumit Agarwal , Robert Hauswald
+Distance and private information in lending
+The Review of Financial Studies , volume 23 , p. 2757 - 2788 Posted: 2010
+Edward I Altman , Amar Gande , Anthony Saunders
+Bank debt versus bond debt: Evidence from secondary market prices
+Journal of Money, Credit and Banking , volume 42 , p. 755 - 767 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+480
+ABSTRACT VIEWS
+2,248
+RANK
+136,170
+2 Citations
+74 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

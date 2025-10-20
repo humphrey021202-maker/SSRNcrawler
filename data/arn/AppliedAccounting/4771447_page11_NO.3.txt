@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Tax Trap Inside the BOXX
+
+Tax Notes Federal, vol. 182, pp. 1973-1980 (Mar. 11, 2024) (cover story)
+
+NYU Law and Economics Research Paper No. 24-26
+
+9 Pages Posted: 29 Apr 2024
+
+Daniel J. Hemel
+
+New York University School of Law
+
+Date Written: March 11, 2024
+
+Abstract
+
+In recent weeks, an exchange-traded fund called Alpha Architect 1-3 Month Box ETF (trading under the ticker symbol “BOXX”) has garnered attention in the financial press for its supposedly tax-efficient method of generating nearly risk-free returns. BOXX purports to produce Treasury bill-like yields while deferring any income tax liabilities until shareholders sell their ETF shares. And when shareholders do sell, their gains — according to BOXX promoters — will be taxed as capital gain rather than ordinary income, an additional advantage over ordinary income-generating Treasury bills.
+
+If all that sounds too good to be true, it’s because it most likely is too good to be true. BOXX’s strategy runs headlong into two code provisions — section 1258 and section 1092 — that are designed to prevent the sorts of maneuvers that BOXX seeks to exploit. In light of these provisions, BOXX shareholders in most states are likely to end up in a worse position than if they had simply purchased Treasury bills. For BOXX shareholders, an ostensibly tax-efficient investment may turn into a tax trap.
+
+This article considers the application of the section 1258 conversion transaction rules and the section 1092 straddle rules to BOXX’s too-clever-by-half tax strategy. After examining BOXX’s disclosures to reconstruct the fund’s trades, it evaluates both the fund-level and shareholder-level tax consequences of BOXX’s maneuvers. In contrast to other commentary emphasizing the possibility that capital gains on sales of the BOXX ETF could be recharacterized as ordinary income at the shareholder level, this article concludes that the IRS would likely succeed in recharacterizing gains from BOXX’s trades as ordinary income at the fund level. Whereas shareholder-level recharacterization would leave BOXX’s deferral benefits in place, fund-level recharacterization would erase both the deferral and rate-arbitrage benefits that BOXX advertises.
+
+Keywords: exchange-traded fund, conversion transactions, straddle rules, tax arbitrage
+
+JEL Classification: K34
+
+Suggested Citation:
+
+Hemel, Daniel J., The Tax Trap Inside the BOXX (March 11, 2024). Tax Notes Federal, vol. 182, pp. 1973-1980 (Mar. 11, 2024) (cover story), NYU Law and Economics Research Paper No. 24-26, Available at SSRN: https://ssrn.com/abstract=4771447
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+347
+ABSTRACT VIEWS
+2,649
+RANK
+197,664
+PlumX Metrics
+Related eJournals
+
+NYU Law & Economics Research Paper Series
+
+Follow
+
+Tax Law: Practitioner Series eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Fair Value versus Historical Cost Reporting Model on Analyst Forecast Accuracy
+
+Accounting Review, Forthcoming
+
+49 Pages Posted: 2 Feb 2013 Last revised: 19 Dec 2013
+
+Lihong Liang
+
+Syracuse University
+
+Eddie Riedl
+
+Boston University - Questrom School of Business
+
+Date Written: December 1, 2013
+
+Abstract
+
+This paper examines how the reporting model for a firm’s operating assets affects analyst forecast accuracy. We contrast UK and US investment property firms having real estate as their primary operating asset, exploiting that UK (US) firms report these assets at fair value (historical cost). We assess the accuracy of a balance sheet-based forecast (net asset value, or NAV) and an income statement-based forecast (earnings-per-share, or EPS). We predict and find higher NAV forecast accuracy for UK relative to US firms, consistent with the fair value reporting model revealing private information that is incorporated into analysts’ balance sheet forecasts. We find this difference is attenuated when the fair value and historical cost models are more likely to converge: during recessionary periods. Finally, we predict and find lower EPS forecast accuracy for UK firms when reporting under the full fair value model of IFRS, in which unrealized fair value gains and losses are included in net income. This is consistent with the full fair value model increasing the difficulty of forecasting net income through the inclusion of non-serially correlated elements such as these gains/losses. Information content analyses provide further support for these inferences. Overall, the results indicate that the fair value reporting model enhances analysts’ ability to forecast the balance sheet, but the full fair value model reduces their ability to forecast net income.
+
+Keywords: fair value, historical cost, analyst forecast accuracy, net asset value, real estate
+
+JEL Classification: M4, L85
+
+Suggested Citation:
+
+Liang, Lihong and Riedl, Edward J., The Effect of Fair Value versus Historical Cost Reporting Model on Analyst Forecast Accuracy (December 1, 2013). Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2210056 or http://dx.doi.org/10.2139/ssrn.2210056
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+Accounting for Investment Properties. London: Institute of Chartered Accountants in England and Wales Posted: 1994
+Crossref
+C Armstrong , M Barth , A Jagolinzer , E Riedl
+Market reaction to the adoption of IFRS in Europe
+The Accounting Review , volume 85 , issue 1 , p. 31 - 61 Posted: 2010
+Crossref
+B Baik , B Billings , R Morton
+Reliability and transparency of non-GAAP disclosures by real estate investment trusts (REITS)
+The Accounting Review , volume 83 , issue 2 , p. 271 - 301 Posted: 2008
+Crossref
+M Barth
+Fair value accounting: evidence from investment securities and the market valuation of banks
+The Accounting Review , volume 69 , p. 1 - 25 Posted: 1994-01
+Load more
+13 Citations
+Jumoke Olamide Jayeoba , Jerry Danjuma Kwarbai
+Value of Accounting Numbers and Analysts’ Forecast Errors
+International Journal of Research & Methodology in Social Science, Vol. 2, No. 3, p.17 (Jul – Sep, 2016), · 20 Pages · Posted: 8 Oct 2020 · Downloads: 42
+Download PDF  Add Paper to My Library
+Phillip T. Lamoreaux , Nathan J. Newton , Landon M. Mauler
+Audit Regulation and the Cost of Equity Capital: Evidence From the PCAOB’s International Inspection Regime
+52 Pages · Posted: 6 Mar 2020 · Downloads: 206
+Download PDF  Add Paper to My Library
+Mary Jo Brooks Hunter , Xiaoxiao Song
+Analysts’ IFRS Knowledge, Forecast Error, and Sec’S Elimination of the 20-F Reconciliation
+Accounting & Taxation Vol. 13, No. 1, 2021, pp. 1-14 · 14 Pages · Posted: 8 Sep 2021 · Downloads: 56
+Download PDF  Add Paper to My Library
+Paul E. Fischer , David Haushalter , Brian P. Miller , Kevin Pisciotta
+Why are Reported Fair Values Sticky?
+60 Pages · Posted: 4 Sep 2021 · Last revised: 20 Aug 2025 · Downloads: 211
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,392
+ABSTRACT VIEWS
+6,157
+RANK
+32,442
+13 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+Boston University Questrom School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Innovation and Reporting Consequences of Financial Regulation for Young Life-Cycle Firms
+
+55 Pages Posted: 11 Jun 2018 Last revised: 23 Jul 2021
+
+Abigail M. Allen
+
+Brigham Young University - Marriott School
+
+Melissa F. Lewis-Western
+
+Brigham Young University - Marriott School of Business
+
+Kristen Valentine
+
+University of Georgia
+
+There are 2 versions of this paper
+
+Date Written: July 22, 2021
+
+Abstract
+
+Firm life-cycle stage reflects a firm’s current strategic direction towards exploration independent of age or size. We provide evidence that young life-cycle firms are particularly vulnerable to negative innovation consequences from financial regulation but do not appear to experience any compensating financial reporting quality benefits. Using a generalized difference-in-differences design around SOX, we document a significant reduction in both R&D spending and innovation outputs for young life-cycle stage firms after regulation. Declines in innovation manifest both from the diversion of scarce resources and from the imposition of an organizational culture mismatched to the pursuit of explorative innovation, resulting in a less generalizable and less diversified patent portfolio. However, we find no evidence that improvements to financial reporting quality materialize to offset these costs. Event study analyses suggests that this negative impact was expected by market participants, and post-regulation returns confirm this expectation.
+
+Keywords: Firm Life-Cycle, Innovation, Explorative Innovation, R&D, Financial Regulation, Corporate Governance, Financial Reporting Quality
+
+JEL Classification: G38; L51; M40; M41; M48; O32
+
+Suggested Citation:
+
+Allen, Abigail M. and Lewis-Western, Melissa Fay and Valentine, Kristen, The Innovation and Reporting Consequences of Financial Regulation for Young Life-Cycle Firms (July 22, 2021). Available at SSRN: https://ssrn.com/abstract=3184837 or http://dx.doi.org/10.2139/ssrn.3184837
+Download This Paper
+ 
+Open PDF in Browser
+102 References
+L Abbott , S Parker , G Peters
+Audit Committee characteristics and restatements. Auditing , volume 23 , p. 69 - 87 Posted: 2004
+Crossref
+P Aghion , J Van Reenen , L Zingales
+Innovation and Institutional Ownership
+American Economic Review , volume 103 , issue 1 , p. 277 - 304 Posted: 2013
+Crossref
+A Albuquerque , J Zhu
+Has section 404 of the Sarbanes-Oxley Act discouraged corporate investment? New evidence from a natural experiment
+Management Science , volume 65 , issue 7 , p. 3423 - 3446 Posted: 2019
+Crossref
+C R Alexander , S W Bauguess , G Bernile , Y H A Lee , J Marietta-Westberg
+Economic effects of SOX Section 404 compliance: A corporate insider perspective
+Journal of Accounting and Economics , volume 56 , issue 2-3 , p. 267 - 290 Posted: 2013
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+529
+ABSTRACT VIEWS
+2,534
+RANK
+121,100
+15 Citations
+102 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

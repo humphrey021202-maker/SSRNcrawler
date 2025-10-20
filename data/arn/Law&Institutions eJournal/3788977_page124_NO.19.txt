@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Applying Machine Learning and Artificial Intelligence to CSR-Compliance. A Conceptual Framework with Illustrations.
+
+15 Pages Posted: 23 Feb 2021
+
+Peter Kotzian
+
+Heinrich Heine University Dusseldorf; Technical University of Darmstadt
+
+Date Written: February 19, 2021
+
+Abstract
+
+Corporate Social Responsibility (CSR) became an ever more relevant theme for firms in their dealings with investors, customers, and the public at large. CSR is also a domain, where problems of misconduct and non-compliance may occur. Investors and Activists are interested in the CSR-related compliance for practical reasons, researchers are interested in whether compliance in the domain of CSR can be predicted or detected. Structurally, this problem is similar to detecting non-compliance in the domain of financial regulation (fraud detection), a standard application of methods of artificial intelligence and machine learning, which are already applied successfully in the domain of legal /financial compliance. A yet unanswered question is, whether such methods can be applied in the domain of CSR, too. This conceptual paper outlines possible strategies for applying methods of artificial intelligence and machine learning to the domain of CSR. The paper starts out from elaborating differences between compliance in the domain of CSR, compared to legal and financial compliance. A crucial difference is that in the case of legal and financial compliance, non-compliance is defined in legal terms, and can, in principle, be recognized objectively, with official institutions doing the classification on which data sets are based. In the domain of CSR, compliance is more difficult to define and, consequentially, much more difficult to detect. This paper proposes and illustrates options for harnessing the potential of methods of machine learning and artificial intelligence for issues of CSR-related non-compliance.
+
+Keywords: Compliance, Corporate Social Responsibility, CSR; Artificial Intelligence; Machine Learning
+
+JEL Classification: C45, C38, G30, G38
+
+Suggested Citation:
+
+Kotzian, Peter, Applying Machine Learning and Artificial Intelligence to CSR-Compliance. A Conceptual Framework with Illustrations. (February 19, 2021). Available at SSRN: https://ssrn.com/abstract=3788977 or http://dx.doi.org/10.2139/ssrn.3788977
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+H Aguinis , A Glavas
+What We Know and Don't Know About Corporate Social Responsibility: A Review and Research Agenda
+Journal of Management , volume 38 , p. 932 - 968 Posted: 2012
+Crossref
+W S Albrecht , C O Albrecht , C C Albrecht , &amp; M F Zimbelman
+Fraud Examination Posted: 2016
+Crossref
+B Baesens , V Van , &amp; W Vlasselaer , Verbeke
+Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques: A Guide to Data Science for Fraud Detection Posted: 2015
+R H Berry , F Yeung
+Are Investors Willing to Sacrifice Cash for Morality?
+Journal of Business Ethics , volume 117 , p. 477 - 492 Posted: 2013
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+704
+ABSTRACT VIEWS
+2,062
+RANK
+84,001
+1 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

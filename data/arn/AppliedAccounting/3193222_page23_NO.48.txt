@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Robotic Process Automation in Public Accounting
+
+Accounting Horizons, 33 (4): 15-35
+
+62 Pages Posted: 11 Sep 2018 Last revised: 15 Jul 2020
+
+Lauren Cooper
+
+West Virginia University
+
+Kip Holderness
+
+West Virginia University
+
+Trevor Sorensen
+
+University of Wyoming - Department of Accounting
+
+David A. Wood
+
+Brigham Young University - School of Accountancy
+
+Date Written: 2019
+
+Abstract
+
+This study investigates the adoption and use of Robotic Process Automation (RPA) software—often referred to as bots—in the public accounting industry. Accounting firms use RPA software to automate the input, processing, and output of data across computer applications in order to streamline repetitive and mundane business processes. We conducted individual, semi-structured interviews with 14 accounting professionals including at least two RPA leaders at each of the Big 4 accounting firms to gain insights into how RPA software is currently being used. Interviewees note that bots are implemented in all areas of the firm but have gained the most traction in tax services, followed by advisory services and assurance services. Interviewees report that bot implementation has increased quality and resulted in stunning increases in efficiency—although bots are a nascent technology, firms report improved processing times by 70 to 80 percent and reductions of over one million human work hours in 2017. Although bots are more efficient, respondents report that bot implementation is not reducing headcount, but it is decreasing offshoring and increasing employees’ job satisfaction and upward career mobility. In addition, respondents provide perspective on skills that will be needed to succeed in an accounting profession that melds RPA and human judgments. This study is the first to identify and discuss the potential benefits, opportunities, and challenges to implementing RPA in the accounting profession and serves as a catalyst to spur future research in this area.
+
+Keywords: Robotic Process Automation (RPA), Automation, Accounting Efficiency, Accounting Effectiveness, Hiring Decisions, Offshoring
+
+JEL Classification: M4, M40, M41, M42, M31
+
+Suggested Citation:
+
+Cooper, Lauren and Holderness, Darin Kip and Sorensen, Trevor and Wood, David A., Robotic Process Automation in Public Accounting (2019). Accounting Horizons, 33 (4): 15-35, Available at SSRN: https://ssrn.com/abstract=3193222 or http://dx.doi.org/10.2139/ssrn.3193222
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+another year, it will be commonplace, and then I think it's going to peak. Then I think artificial intelligence will merge into what you think robotics are
+Accenture
+How to Avoid the Six Most Damaging Mistakes in Scaling Up Robotic Process Automation Posted: 2016
+What is descriptive research? Available at Posted: 2001
+Crossref
+S Aguirre , A Rodriguez
+Automation of a business process using robotic process automation (rpa): A case study
+Applied Computer Sciences in Engineering Posted: 2017
+Crossref
+Load more
+36 Citations
+Gina Raluca Guse , Marian Dragos Mangiuc
+Digital Transformation in Romanian Accounting Practice and Education: Impact and Perspectives
+www.amfiteatrueconomic.ro , volume 24 , issue 59 , p. 252 Posted: 2022
+Crossref
+Chanyuan (Abigail) Zhang
+Intelligent Process Automation in Audit
+Journal of Emerging Technologies in Accounting , volume 16 , issue 2 , p. 69 Posted: 2019
+Crossref
+Michael G Alles , Glen L. Gray
+Will the Medium Become the Message? A Framework for Understanding the Coming Automation of the Audit Process
+Journal of Information Systems , volume 34 , issue 2 , p. 109 Posted: 2020
+Crossref
+Zhiguo Huang , Ling Qian , Shaoling Sun , Dunbo Cai , Tao Hang , Qingsong Feng
+Design of Dynamic Cooperative Robot System for Financial Bill Recognition
+, p. 44 Posted: 2020
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+4,813
+ABSTRACT VIEWS
+13,112
+RANK
+4,526
+36 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

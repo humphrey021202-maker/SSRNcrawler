@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Voluntary Disclosure of Accounting Ratios and Firm-Specific Characteristics: The Case of GCC
+
+Journal of Financial Reporting and Accounting Volume 18 Issue 2 2020
+
+45 Pages Posted: 11 Jan 2020 Last revised: 15 Jun 2022
+
+Ayman E. Haddad
+
+American University of Kuwait
+
+Fatima Baalbaki Shibly
+
+The American University of Kuwait - College of Business & Economics
+
+Ruwaidah Haddad
+
+Yarmouk University
+
+Date Written: January 10, 2020
+
+Abstract
+
+This study investigates the voluntary disclosure of accounting ratios in the corporate annual reports of manufacturing firms in the Gulf Cooperation Council (GCC) and determines whether an association exists between voluntary disclosure and firm-specific characteristics namely, size, profitability, leverage, liquidity and efficiency.
+
+A sample of 53 GCC listed manufacturing firms and 263 firm-year observations were observed over the period 2011 to 2015. A count data regression (Poisson) with incident rate ratios (IRR) was used to identify the relationship between firms’ voluntary disclosures of accounting ratios and other firm-specific characteristics.
+
+During the period under review, the voluntary disclosure of accounting ratios provided in annual reports of GCC firms were found to be exceedingly low. On average, a GCC company discloses at most two accounting ratios in its annual reports. The results also show that the profitability ratios are the most popularly reported ones. Controlling for family board domination, the results also reveal that structure-related variables (firm size and leverage) are positively associated with accounting ratio disclosures. However, performance-related variables (profitability, liquidity and efficiency) have no significant effect on disclosures. We conclude that signaling theory as implied in the performance-related variables is not strongly supported in the GCC region.
+
+This is the first known study to investigate the disclosure of accounting ratios and its determinants within the context of GCC. The findings of this study could be beneficial to both agents and principals in assessing the associated risks. The study provides regulators and market participants an understanding of the corporate reporting activities of manufacturing firms in the GCC and who accordingly will be able to consider associated policy implementation.
+
+Keywords: Financial Ratio, Disclosure, GCC, firm-specific characteristics, Corporate Reporting
+
+JEL Classification: G10, M41, M14, G14, G30, G22
+
+Suggested Citation:
+
+Haddad, Ayman E. and Baalbaki Shibly, Fatima and Haddad, Ruwaidah, Voluntary Disclosure of Accounting Ratios and Firm-Specific Characteristics: The Case of GCC (January 10, 2020). Journal of Financial Reporting and Accounting Volume 18 Issue 2 2020 , Available at SSRN: https://ssrn.com/abstract=3508255
+Download This Paper
+ 
+Open PDF in Browser
+81 References
+A Abdullah , K N I K Ismail
+Disclosure of voluntary accounting ratios by Malaysian listed companies
+Journal of Financial Reporting and Accounting , volume 6 , issue 1 , p. 1 - 20 Posted: 2008
+Agyei-Mensah
+The determinants of financial ratio disclosure and quality: Evidence from an emerging market
+International Journal of Accounting and Financial Reporting , volume 5 , issue 1 , p. 188 - 211 Posted: 2015
+W Ali , J G Frynas , Z Mahmood
+Determinants of corporate social responsibility (CSR) disclosure in developed and developing countries: A literature review
+Corporate Social Responsibility Environmental Management , volume 24 , p. 273 - 294 Posted: 2017
+K Ahmed
+Disclosure policy choice and corporate characteristics: A study of Bangladesh
+Asia-Pacific Journal of Accounting , volume 3 , issue 1 , p. 183 - 203 Posted: 1996
+Load more
+1 Citations
+Ayman E. Haddad , Hussain Alai
+Risk Disclosure and Financial Performance: The Case of Islamic and Conventional Banks in the GCC
+Journal of Islamic Accounting and Business Research, NO: 10.1108/JIABR-11-2020-0343 · 19 Pages · Posted: 24 Sep 2021 · Last revised: 16 Jun 2022 · Downloads: 59
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+65
+ABSTRACT VIEWS
+924
+RANK
+805,600
+1 Citations
+81 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

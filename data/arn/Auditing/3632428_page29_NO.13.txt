@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Trust of the Crowd and Audit Pricing
+
+54 Pages Posted: 14 Aug 2020
+
+Konan Chan
+
+National Chengchi Unversity (NCCU) - Finance
+
+Jianxin Cui
+
+The University of Hong Kong - Faculty of Business and Economics
+
+Weiyu Kuo
+
+National Chengchi University (NCCU) - Department of International Business
+
+Tse-Chun Lin
+
+The University of Hong Kong - Faculty of Business and Economics
+
+Date Written: June 21, 2020
+
+Abstract
+
+Using a novel dataset that captures public perceptions of the trustworthiness of client firms by extracting and converting social media feeds into an index, we find that auditors charge higher fees for client firms with lower trustworthiness, as client firms with higher trustworthiness are less likely to incur lawsuits. This correlation is stronger for the shorter audit tenures, younger client firms, and more complex auditing practices after the enactment of the SOX Act. Our results are robust to:
+
+(i) including firm or county fixed effects,
+
+(ii) controlling for the internal control weaknesses and various corporate governance measures, and
+
+(iii) adding the trust index constructed from financial news.
+
+Our study highlights the role of the perceived trustworthiness of client firms in audit pricing decisions.
+
+Keywords: audit pricing, trustworthiness, social media, natural language processing, textual analysis
+
+JEL Classification: G30, G41, M14, M42, Z10
+
+Suggested Citation:
+
+Chan, Konan and Cui, Jianxin and Kuo, Weiyu and Lin, Tse-Chun, Trust of the Crowd and Audit Pricing (June 21, 2020). Available at SSRN: https://ssrn.com/abstract=3632428 or http://dx.doi.org/10.2139/ssrn.3632428
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+140
+ABSTRACT VIEWS
+1,382
+RANK
+475,660
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

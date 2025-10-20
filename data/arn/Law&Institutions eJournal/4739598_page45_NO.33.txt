@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Gendering Corporate Success: The Role of Female Directors in Crisis
+
+33 Pages Posted: 27 Feb 2024
+
+Hsiu-I Ting
+
+National Taipei University of Technology
+
+Abstract
+
+This study examines the influence of female directors on the performance of publicly listed Taiwanese companies amid challenging operational conditions. Employing the Difference-in-Differences (DiD) methodology, the research tackles potential endogeneity concerns by capitalizing on an exogenous shock—specifically, the Taiwan Stock Exchange’s 2015 integration of female directors into corporate governance evaluation criteria. Analyzing data spanning from 2002 to 2020, the study focuses on market and accounting performance metrics, including stock return, industry-adjusted return, return on assets (ROA), and return on equity (ROE). Various female director variables, such as count and proportion, are scrutinized, alongside binary indicators assessing critical mass representation. The research categorizes companies into high and low operational risk, utilizing a DiD regression model to explore the impact of female director appointments on firm value and performance. The findings highlight that, especially in high-risk firms, appointing female directors positively influences stock return, providing valuable insights into the nuanced role of gender diversity in demanding business environments.
+
+Keywords: Gender Diversity, Female directors, Corporate governance evaluation, Difference-in-Differences (DiD) methodology, Firm Performance
+
+Suggested Citation:
+
+Ting, Hsiu-I, Gendering Corporate Success: The Role of Female Directors in Crisis. Available at SSRN: https://ssrn.com/abstract=4739598 or http://dx.doi.org/10.2139/ssrn.4739598
+Download This Paper
+ 
+Open PDF in Browser
+14 References
+R B Adams , D Ferreira
+Women in the boardroom and their impact on governance and performance
+Journal of Financial Economics , volume 94 , p. 291 - 309 Posted: 2009
+R B Adams , P Funk
+Beyond the Glass Ceiling: Does Gender Matter?
+Management Science , volume 58 , p. 219 - 235 Posted: 2012
+R B Adams , V Ragunathan
+Lehman Sisters Posted: 2017
+J Andreoni , L Vesterlund
+Which is the Fair Sex? Gender Differences in Altruism
+Quarterly Journal of Economics , volume 116 , p. 293 - 312 Posted: 2001
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+46
+ABSTRACT VIEWS
+347
+14 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

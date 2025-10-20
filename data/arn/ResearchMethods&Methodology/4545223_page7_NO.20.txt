@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Statistical versus Economic Significance in Accounting: A Reality Check
+
+17 Pages Posted: 20 Aug 2023 Last revised: 6 Sep 2023
+
+Jeremy Bertomeu
+
+Washington University in St. Louis - John M. Olin Business School
+
+Date Written: August 18, 2023
+
+Abstract
+
+Empirical research is ripe for a reality check, as elegantly put by the "elephants in the room" (Ohlson 2022) referring to practices to disguise false positives with the aid of statistical engineering. However, the diagnosis points to a deeper problem. The dominant empirical paradigm combines extraordinarily vague hypotheses with ridiculously high desired levels of statistical confidence beatable solely with econometric hacks. Instead, I argue that economic magnitudes measure meaningful theoretical constructs and require far less than conventional significance levels for measurements of sufficient importance. Precisely estimating that an effect is close to zero can be more meaningful than a noisy but significant coefficient. I make several actionable proposals: (1) report standard errors rather than conventional statistical significance (stars) or t-stats, (2) discuss target significance levels likely to change priors, which could be much higher than weak significance for unsettled questions, (3) report precisely estimated zeros and power analyses, and (4) anchor empirical design on formal theory justified with precise references or structural models.
+
+Keywords: methods, econometrics, philosophy of science, theory, scientific process
+
+JEL Classification: A1, A2, C01
+
+Suggested Citation:
+
+Bertomeu, Jeremy, Statistical versus Economic Significance in Accounting: A Reality Check (August 18, 2023). Available at SSRN: https://ssrn.com/abstract=4545223 or http://dx.doi.org/10.2139/ssrn.4545223
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+322
+ABSTRACT VIEWS
+1,164
+RANK
+214,562
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Philosophy of Science eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

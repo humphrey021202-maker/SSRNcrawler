@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Assessing the Influence of Artificial Intelligence on Corporate Tax Compliance and Financial Reporting
+
+23 Pages Posted: 24 Jul 2025
+
+Imran Hussain Shah
+
+The University of Lahore Islamabad Campus
+
+Date Written: July 09, 2025
+
+Abstract
+
+This study investigates the transformative impact of Artificial Intelligence (AI) on corporate tax compliance and financial reporting processes. Using a mixed-methods approach, the research explores how AI technologies—such as machine learning, natural language processing, and predictive analytics—enhance accuracy, efficiency, and regulatory alignment in tax functions. Through case analysis, statistical data, and implementation frameworks, the study identifies key success factors, challenges, and future trends in AI adoption. Findings indicate that organizations leveraging AI experience significant improvements in data quality, error detection, and real-time compliance capabilities. The research also highlights the importance of governance, ethical AI practices, and cross-functional collaboration. A phased model for AI implementation is proposed, supported by visual data and practical recommendations for corporate entities, regulators, and technology providers. This paper contributes to the growing literature on digital transformation in finance and offers strategic insights for navigating the evolving tax technology landscape.
+
+Keywords: ArƟficial Intelligence, Corporate Tax Compliance, Financial ReporƟng, Machine Learning, RoboƟc Process AutomaƟon, Natural Language Processing, Tax Technology
+
+Declaration of Interest
+
+Declaration of Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. All research activities were conducted independently, and the study was not funded by any commercial, governmental, or non-governmental organization that could create a conflict of interest.
+
+Suggested Citation:
+
+Shah, Imran Hussain,
+
+Assessing the Influence of Artificial Intelligence on Corporate Tax Compliance and Financial Reporting
+
+(July 09, 2025). Available at SSRN: https://ssrn.com/abstract=5346545 or http://dx.doi.org/10.2139/ssrn.5346545
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+Upskill Tax Professionals Skill development is a criƟcal success factor. Corporate tax professionals need conƟnuous training in AI tools, data interpretaƟon, and digital reporƟng standards. A blended learning model-combining AI literacy with tax experƟsecan create future-ready professionals
+RecommendaƟons for Tax AuthoriƟes and Regulators
+Standardize Digital Tax Frameworks Tax authoriƟes should promote standardized APIs, digital tax reporƟng formats, and real-Ɵme compliance mechanisms to enable seamless AI integraƟon across corporate systems. This will reduce reporƟng errors and facilitate cross-border tax data exchange
+Provide Regulatory Sandboxes for AI Pilots To foster innovaƟon, governments should create safe environments-regulatory sandboxes-where corporaƟons can pilot AI-based tax systems under supervision
+This would accelerate AI maturity and regulatory alignment
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+45
+ABSTRACT VIEWS
+232
+37 References
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+
+Political Economy: National, State & Local Government; Intergovernmental Relations eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

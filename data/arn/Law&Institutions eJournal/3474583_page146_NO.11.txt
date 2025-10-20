@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Using Textual Analysis to Identify Merger Participants: Evidence from the U.S. Banking Industry
+
+Finance Research Letters, volume 42, 2021[10.1016/j.frl.2021.101949]
+
+15 Pages Posted: 3 Nov 2019 Last revised: 21 Sep 2021
+
+Apostolos G. Katsafados
+
+Athens University of Economics and Business - Department of Accounting and Finance; Bank of Greece
+
+Ion Androutsopoulos
+
+Athens University of Economics and Business
+
+Ilias Chalkidis
+
+University of Copenhagen
+
+Emmanouel Fergadiotis
+
+Athens University of Economics and Business
+
+George N. Leledakis
+
+Athens University of Economics and Business, School of Business, Department of Accounting and Finance
+
+Emmanouil G. Pyrgiotakis
+
+University of Essex - Essex Business School
+
+Date Written: October 23, 2019
+
+Abstract
+
+In this paper, we use the sentiment of annual reports to gauge the likelihood of a bank to participate in a merger transaction. We conduct our analysis on a sample of annual reports of listed U.S. banks over the period 1997 to 2015, using the Loughran and McDonald’s lists of positive and negative words for our textual analysis. We find that a higher frequency of positive (negative) words in a bank’s annual report relates to a higher probability of becoming a bidder (target). Our results remain robust to the inclusion of bank-specific control variables in our logistic regressions.
+
+Keywords: Textual analysis, text sentiment, bank mergers and acquisitions, acquisition likelihood
+
+JEL Classification: G14, G21, G34, G40
+
+Suggested Citation:
+
+Katsafados, Apostolos G. and Androutsopoulos, Ion and Chalkidis, Ilias and Fergadiotis, Emmanouel and Leledakis, George N. and Pyrgiotakis, Emmanouil G., Using Textual Analysis to Identify Merger Participants: Evidence from the U.S. Banking Industry (October 23, 2019). Finance Research Letters, volume 42, 2021[10.1016/j.frl.2021.101949], Available at SSRN: https://ssrn.com/abstract=3474583 or http://dx.doi.org/10.1016/j.frl.2021.101949
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+P Barnes
+Can takeover targets be identified by statistical techniques? Some UK evidence
+Journal of the Royal Statistical Society: Series D (The Statistician) , volume 47 , p. 573 - 591 Posted: 1998
+D A Becher
+Bidder returns and merger anticipation: Evidence from banking deregulation
+Journal of Corporate Finance , volume 15 , p. 85 - 98 Posted: 2009
+A Bodnaruk , T Loughran , B Mcdonald
+Using 10-K text to gauge financial constraints
+Journal of Financial and Quantitative Analysis , volume 50 , p. 623 - 646 Posted: 2015
+B L Del Gaudio , A V Megaravalli , G Sampagnaro , V Verdoliva
+Mandatory disclosure tone and bank risk-taking: Evidence from Europe
+Economics Letters Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+264
+ABSTRACT VIEWS
+1,918
+RANK
+264,473
+21 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Hedge Fund Activism and Internal Control Weaknesses
+
+China Accounting & Finance Review, Vol. 24, No. 4, 2022
+
+19 Pages Posted: 11 Aug 2023
+
+David Folsom
+
+Weber State University (WSU) - Goddard School of Business and Economics
+
+Iftekhar Hasan
+
+Fordham University ; Bank of Finland; University of Sydney
+
+Fuzhao Zhou
+
+Bowling Green State University
+
+Date Written: December 1, 2022
+
+Abstract
+
+Purpose
+The aim of the paper is to investigate the associations between hedge fund activism and corporate internal control weaknesses.
+
+Design/methodology/approach
+In this paper, the authors identify hedge fund activism events using 13D filings and news search. After matching with internal control related information from Audit Analytics, the authors utilize ordinary least square (OLS) and propensity score matching (PSM) to analyze the data.
+
+Findings
+The authors find that after hedge fund activism, target firms report additional internal control weaknesses, and these identified internal control weaknesses are remediated in subsequent years, leading to better financial-reporting quality.
+
+Originality/value
+The findings indicate that both managers and activists have incentives to develop a stronger internal control environment after targeting.
+
+Keywords: Hedge fund activism, Internal control weakness, Targeting, Intervention
+
+Suggested Citation:
+
+Folsom, David and Hasan, Iftekhar and Zhou, Fuzhao, Hedge Fund Activism and Internal Control Weaknesses (December 1, 2022). China Accounting & Finance Review, Vol. 24, No. 4, 2022, Available at SSRN: https://ssrn.com/abstract=4515849
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+78
+ABSTRACT VIEWS
+602
+RANK
+724,439
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

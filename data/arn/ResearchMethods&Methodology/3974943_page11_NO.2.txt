@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Empirical implications of incorrect special item tax rate assumptions
+
+Review of Accounting Studies, forthcoming
+
+Posted: 6 Dec 2021
+
+William M. Cready
+
+University of Texas at Dallas - Naveen Jindal School of Management
+
+Thomas J. Lopez
+
+University of Alabama - Culverhouse School of Accountancy
+
+Craig A. Sisneros
+
+Oklahoma State University
+
+Shane Stinson
+
+University of Alabama
+
+Date Written: November 30, 2021
+
+Abstract
+
+The use of assumed tax rates to adjust special items (e.g., restructuring charges, asset writedowns, etc.) is common in empirical accounting research, as these items are reported pre-tax and are often used in research designs that include after-tax earnings. This study aims to explore the potential empirical consequences of assuming an incorrect tax rate in adjusting special items. We focus our investigation on special items, given both their prevalence in the literature as well as the wide variation in tax rate assumptions from these studies. Our investigation shows that the tax rate assumed can be critical to the interpretation of results. Importantly, our evidence suggests extreme tax rate assumptions, in particular the highest statutory rate, are especially problematic and yield dramatically biased estimates. Our review of the tax consequences of special items suggests that, in almost all circumstances, the marginal tax rate is the theoretically correct rate to apply to these items when adjusting for tax. Consistent with this view, our empirical evidence, with a limited exception, suggests that marginal tax rates represent the best estimate of the true tax rate. By providing empirical evidence on the potential empirical consequences of these varied tax rate assumptions, we offer a guide for future researchers on the importance of this critical design choice.
+
+Keywords: Special items; nonrecurring items; assumed tax rates; marginal tax rates
+
+JEL Classification: M40, M41, H25, H32
+
+Suggested Citation:
+
+Cready, William M. and Lopez, Thomas J. and Sisneros, Craig A. and Stinson, Shane, Empirical implications of incorrect special item tax rate assumptions (November 30, 2021). Review of Accounting Studies, forthcoming, Available at SSRN: https://ssrn.com/abstract=3974943
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+493
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

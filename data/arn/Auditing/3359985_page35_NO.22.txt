@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Systemizing the Challenges of Auditing Blockchain-Based Assets
+
+Pimentel, E., Boulianne, E., Eskandari, S. & Clark, J. (2020) Systematizing the Challenges of Blockchain-Based Assets. Journal of Information Systems. Forthcoming. https://doi.org/10.2308/ISYS-19-007
+
+45 Pages Posted: 2 May 2019 Last revised: 8 Oct 2020
+
+Erica Pimentel
+
+Concordia University, John Molson School of Business, Department of Accountancy
+
+Emilio Boulianne
+
+Concordia University, Quebec - John Molson School of Business
+
+Shayan Eskandari
+
+Concordia University, Quebec - Gina Cody School of Engineering and Computer Science
+
+Jeremy Clark
+
+Concordia University, Quebec - Gina Cody School of Engineering and Computer Science
+
+Date Written: October 1, 2020
+
+Abstract
+
+Presently, auditing firms are hesitant to accept mandates from companies that hold a significant amount of cryptoassets, primarily because the blockchain sector introduces novel, technically sophisticated and risky propositions that auditors are unequipped to handle. Abrupt recusals by auditors operating in this sector have led to several enterprises being placed on cease trade by securities regulators for failure to produce audited financial statements on time, thus impeding these companies from raising capital and bringing new investment to fund innovation in this space. Through an iterative process of interviews with senior accounting professionals, structured brainstorming among a multidisciplinary team of accountants and blockchain experts, and a focus group with experienced auditors, we critically analyze the purported roadblocks to auditing blockchain firms and map them to traditional auditing practices. We urge auditors to reconsider their resistance to the blockchain sector by demonstrating that providing an audit opinion is challenging but not insurmountable.
+
+Keywords: Blockchain, Financial Audit, Cryptoassets, Accounting Firms, Auditors, Cryptocurrencies
+
+Suggested Citation:
+
+Pimentel, Erica and Boulianne, Emilio and Eskandari, Shayan and Clark, Jeremy, Systemizing the Challenges of Auditing Blockchain-Based Assets (October 1, 2020). Pimentel, E., Boulianne, E., Eskandari, S. & Clark, J. (2020) Systematizing the Challenges of Blockchain-Based Assets. Journal of Information Systems. Forthcoming. https://doi.org/10.2308/ISYS-19-007 , Available at SSRN: https://ssrn.com/abstract=3359985 or http://dx.doi.org/10.2139/ssrn.3359985
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+P W Abreu , M Aparicio , C J Costa
+Blockchain Technology in the Auditing Environment. 13th Iberian Conference on Information Systems and Technologies (CISTI) Posted: 2018
+Crossref
+T D , C Estep
+One team or two? Investigating relationship quality between auditors and IT specialists: Implications for audit team identity and the audit process
+Association of International Certified Professional Accountants, AICPA. 2020. Blockchain and Distributed Ledger Technology. Available at , volume 36 , p. 2142 - 2177 Posted: 2019
+G Bdo. ; D , Paul
+The financial auditing of distributed ledgers, blockchain and cryptocurrencies
+Journal of Financial Transformation , volume 46 Posted: 2017
+C Carter , C Spence
+Being a successful professional: An exploration of who makes partner in the Big 4
+Contemporary Accounting Research , volume 31 , issue 4 Posted: 2014
+Crossref
+Load more
+11 Citations
+Jeremy Clark , Didem Demirag , Mahsa Moosavi
+SoK: Demystifying Stablecoins
+Communications of the ACM, Forthcoming · 21 Pages · Posted: 17 Oct 2019 · Last revised: 6 Apr 2020 · Downloads: 908
+Download PDF  Add Paper to My Library
+Jeremy Clark , Didem Demirag , Seyedehmahsa Moosavi
+Demystifying Stablecoins
+Queue , volume 18 , issue 1 , p. 39 Posted: 2020
+Crossref
+Erica Pimentel , Emilio Boulianne
+Blockchain in Accounting Research and Practice: Current Trends and Future Opportunities*
+Accounting Perspectives , volume 19 , issue 4 , p. 325 Posted: 2020
+Crossref
+Emilio Boulianne , Mélissa Fortin
+Risks and Benefits of Initial Coin Offerings: Evidence from impak Finance, a Regulated ICO*
+Accounting Perspectives , volume 19 , issue 4 , p. 413 Posted: 2020
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,027
+ABSTRACT VIEWS
+4,679
+RANK
+50,478
+11 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

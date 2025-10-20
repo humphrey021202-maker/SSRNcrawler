@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Apparent Criticality and Calibration Issues in the Hawkes Self-Excited Point Process Model: Application to High-Frequency Financial Data
+
+Swiss Finance Institute Research Paper No. 13-60
+
+39 Pages Posted: 24 Dec 2013
+
+Vladimir Filimonov
+
+Swiss Federal Institute of Technology Zurich (ETH Zurich)
+
+Didier Sornette
+
+Risks-X, Southern University of Science and Technology (SUSTech); Swiss Finance Institute
+
+Date Written: November 11, 2013
+
+Abstract
+
+We present a careful analysis of possible issues of the application of the self-excited Hawkes process to high-frequency financial data and carefully analyze a set of effects that lead to significant biases in the estimation of the "criticality index'' n that quantifies the degree of endogeneity of how much past events trigger future events. We report the following model biases: (i) evidence of strong upward biases on the estimation of n when using power law memory kernels in the presence of a few outliers, (ii) strong effects on n resulting from the form of the regularization part of the power law kernel, (iii) strong edge effects on the estimated n when using power law kernels, and (iv) the need for an exhaustive search of the absolute maximum of the log-likelihood function due to its complicated shape. Moreover, we demonstrate that the calibration of the Hawkes process on mixtures of pure Poisson process with changes of regime leads to completely spurious apparent critical values for the branching ratio (n = 1) while the true value is actually n = 0. More generally, regime shifts on the parameters of the Hawkes model and/or on the generating process itself are shown to systematically lead to a significant upward bias in the estimation of the branching ratio. We demonstrate the importance of the preparation of the high-frequency financial data, in particular: (i) the impact of overnight trading in the analysis of long-term trends, (ii) intraday seasonality and detrending of the data and (ii) vulnerability of the analysis to day-to-day nonstationarity and regime shifts. Special care is given to the decrease of quality of the timestamps of tick data due to latency and grouping of messages to packets by the stock exchange. Altogether, our careful exploration of the caveats of the calibration of the Hawkes process stresses the need for considering all the above issues before any conclusion can be sustained. In this respect, because the above effects are plaguing their analyses, the claim by Hardiman, Bercot and Bouchaud (2013) that financial market have been continuously functioning at or close to criticality (n = 1) cannot be supported. In contrast, our previous results on E-mini S&P 500 Futures Contracts and on major commodity future contracts are upheld.
+
+Keywords: Hawkes process, Poisson process, endogeneity, reflexivity, branching ratio, outliers, memory kernel, high-frequency data, criticality, statistical biases, power laws, regime shifts
+
+JEL Classification: C12, C53, C61, G01, G17
+
+Suggested Citation:
+
+Filimonov, Vladimir and Sornette, Didier, Apparent Criticality and Calibration Issues in the Hawkes Self-Excited Point Process Model: Application to High-Frequency Financial Data (November 11, 2013). Swiss Finance Institute Research Paper No. 13-60, Available at SSRN: https://ssrn.com/abstract=2371284 or http://dx.doi.org/10.2139/ssrn.2371284
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+A Helmstetter , D Sornette
+Importance of direct and indirect triggered seismicity in the ETAS model of seismicity
+Geophysical Research Letters , volume 30 , issue 11 Posted: 2003
+Crossref
+V Filimonov , D Sornette
+Quantifying reflexivity in financial markets: Toward a prediction of flash crashes
+Physical Review E , volume 85 , issue 5 Posted: 2012
+Crossref
+Vladimir Filimonov , David Bicchetti , Nicolas Maystre , Didier Sornette
+Quantification of the High Level of Endogeneity and of Structural Regime Shifts in Commodity Markets
+Pages: 56 Posted: 23 Mar 2013
+Download PDF  Add Paper to My Library
+Stephen Hardiman , Nicolas Bercot , Jean-Philippe Bouchaud
+Critical Reflexivity in Financial Markets: A Hawkes Process Analysis
+Pages: 9 Posted: 21 Feb 2013
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+215
+ABSTRACT VIEWS
+2,656
+RANK
+324,308
+13 Citations
+57 References
+PlumX Metrics
+Related eJournals
+
+Swiss Finance Institute Research Paper Series
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

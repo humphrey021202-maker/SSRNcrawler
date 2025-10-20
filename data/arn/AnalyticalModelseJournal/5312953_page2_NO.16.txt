@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Queuing management for the cost of congestion and the profit potential
+
+American Accounting Association 2025 ANNUAL MEETING, Chicago
+
+12 Pages Posted: 24 Jun 2025 Last revised: 30 Jun 2025
+
+Hiroto Kataoka
+
+Meiji University, Graduate School of Professional Accountancy
+
+Yuki Misui
+
+Ryutsu Keizai University
+
+Hirohisa Hirai
+
+Waseda University; Kanagawa University; Takasaki City University of Economics
+
+Date Written: January 05, 2025
+
+Abstract
+
+Congestion costs refer to opportunity losses (profit losses) caused by customer's balking or reneging behavior due to congestion; a study by Hirai and Kataoka (2024) modeled congestion costs and showed that profits decrease when utilization rates increase too much. This makes it clear that controlling the rate of balking or reneging is essential to maximizing a business profit. Proper queuing management can prevent customer's balking or reneging due to wait times and contribute to improved profits and a better customer experience. This has attracted attention as a means of building competitive advantage. The purpose of this paper is to extend the preceding model and explore the significance of controlling customer's balking or reneging behavior during congestion through simulation. It also discusses the profit potential and ways of control and explores the role of queuing management in addressing congestion problems.
+
+Suggested Citation:
+
+Kataoka, Hiroto and Misui, Yuki and Hirai, Hirohisa, Queuing management for the cost of congestion and the profit potential (January 05, 2025). American Accounting Association 2025 ANNUAL MEETING, Chicago, Available at SSRN: https://ssrn.com/abstract=5312953 or http://dx.doi.org/10.2139/ssrn.5312953
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+M C Anderson , R D Banker , S N Janakiraman
+Are selling, general, and administrative "sticky
+Journal of Accounting Research , volume 41 , issue 1 , p. 47 - 63 Posted: 2003
+R Balakrishnan , K Sivaramakrishnan , G Sprinkle
+Managerial Accounting Posted: 2008
+R Balakrishnan , N S Soderstrom
+The cost of system congestion: Evidence from the healthcare sector
+Journal of Management Accounting Research , volume 12 , issue 1 , p. 97 - 114 Posted: 2000
+R D S M Banker , S M Datar , S Kekre
+Relevant costs, congestion and stochasticity in production environments
+Journal of Accounting & Economics , volume 10 , issue 3 , p. 171 - 197 Posted: 1988
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+28
+ABSTRACT VIEWS
+222
+25 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

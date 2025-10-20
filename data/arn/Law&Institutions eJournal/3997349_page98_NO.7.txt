@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Social Responsibility and Dynamic Productivity Change in the US Food and Beverage Manufacturing Industry
+
+Agribusiness, 2021, Vol. 37, Issue 2, 286-305
+
+32 Pages Posted: 28 Feb 2022 Last revised: 28 Oct 2022
+
+Magdalena Kapelko
+
+Wroclaw University of Economics and Business, Department of Logistics
+
+Alfons G. J. M. Oude Lansink
+
+Wageningen University
+
+Encarna Guillamon Saorin
+
+Universidad Carlos III de Madrid
+
+Date Written: February 27, 2020
+
+Abstract
+
+This work examines the relationship between corporate social responsibility (CSR) and dynamic productivity change of each input employed and investment undertaken in the United States food and beverage manufacturing industry. We compute input- and investment-specific dynamic Luenberger indicators and decompose them into the contributions of input- and investment-specific dynamic technical inefficiency changes and dynamic technological changes. We then relate these indicators to an overall CSR measure and aspect-specific CSR measures (governance, environment, and social). Our results confirm that the association between CSR and productivity change has different signs and effects on specific inputs or investments. We also find that only certain aspects of CSR participate in the association between CSR and dynamic productivity change and its components.
+
+Keywords: Corporate social responsibility, Input- and investment-specific dynamic productivity change, Data Envelopment Analysis, Food and beverage manufacturing industry
+
+JEL Classification: C61, D24, L66, M14
+
+Suggested Citation:
+
+Kapelko, Magdalena and Oude Lansink, Alfons G. J. M. and Guillamon Saorin, Encarna, Corporate Social Responsibility and Dynamic Productivity Change in the US Food and Beverage Manufacturing Industry (February 27, 2020). Agribusiness, 2021, Vol. 37, Issue 2, 286-305, Available at SSRN: https://ssrn.com/abstract=3997349
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+M R M Abrigo , I Love
+Estimation of panel vector autoregression in STATA
+Stata Journal , volume 16 , issue 3 , p. 778 - 804 Posted: 2016
+H Akaike
+Fitting autoregressive models for prediction
+Annals of the Institute of Statistical Mathematics , volume 21 , issue 1 , p. 243 - 247 Posted: 1969
+J Antonakis , S Bendahan , P Jacquart , R Lalive
+On making causal claims: A review and recommendations. The Leadership Quarterly , volume 21 , p. 1086 - 1120 Posted: 2010
+K Aupperle , A Carroll , J Hartfield
+An empirical examination of the relationship between corporate social responsibility and profitability
+Journal , volume 28 , issue 2 , p. 446 - 463 Posted: 1985
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+82
+ABSTRACT VIEWS
+527
+RANK
+702,914
+1 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

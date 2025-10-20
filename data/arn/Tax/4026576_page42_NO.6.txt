@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Purchase - $8
+CEPR Subscribers Download
+ Add Paper to My Library
+Share:    
+Equilibrium Worker-Firm Allocations and the Deadweight Losses of Taxation
+
+CEPR Discussion Paper No. DP16735
+
+60 Pages Posted: 4 Feb 2022
+
+Jesper Bagger
+
+University of London - Royal Holloway College
+
+Espen R. Moen
+
+BI Norwegian Business School; Centre for Economic Policy Research (CEPR)
+
+Rune Vejlin
+
+Aarhus University
+
+Date Written: November 2021
+
+Abstract
+
+We analyse the deadweight losses of tax-induced labor misallocation in an equilibrium model of the labour market where workers search to climb a job ladder and firms post vacancies. Workers differ in abilities. Jobs differ in productivities and amenities. A planner uses affine tax functions to finance lump-sum transfers to all workers and unemployment benefits. The competitive search equilibrium maximizes after-tax utility subject to resource constraints and the tax policy. A higher tax rate distorts search effort, job ranking and vacancy creation. Distortions vary on the job ladder, but always result in deadweight losses. We calibrate the model using matched employer-employee data from Denmark. The marginal deadweight loss is 33 percent of the tax base, and primarily arise from distorted search effort and vacancy creation. Steeply rising deadweight losses from distorted vacancy creation imply that the deadweight loss in the calibrated economy exceeds those incurred by very inequality averse social planners.
+
+Keywords: amenities, deadweight loss, job ranking, job search, labour allocation, Matched employer-employee data, ptimal taxation, redistribution, vacancy creation
+
+JEL Classification: H21, H30, J63, J64
+
+Suggested Citation:
+
+Bagger, Jesper and Moen, Espen R. and Vejlin, Rune, Equilibrium Worker-Firm Allocations and the Deadweight Losses of Taxation (November 2021). CEPR Discussion Paper No. DP16735, Available at SSRN: https://ssrn.com/abstract=4026576
+Purchase - $8
+CEPR Subscribers Download
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+14
+ABSTRACT VIEWS
+408
+PlumX Metrics
+Related eJournals
+
+CEPR Discussion Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+Feedback 
+
+
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

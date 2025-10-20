@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Exploring Large Language Models (ChatGPT) in External Audits: Implications and Ethical Considerations
+
+Posted: 23 May 2023 Last revised: 5 Jun 2025
+
+Lazarus Fotoh
+
+Karlstad University - Karlstad University Business School
+
+Tatenda Mugwira
+
+University of Agder
+
+Date Written: May 19, 2023
+
+Abstract
+
+This study investigates the potential effects of large language models (LLMs), in particular ChatGPT, on external audits, and its ethical implications. This study employs theoretical methods, drawing on established discussions of the influence of this technology on auditing. This study used prompts to engage with ChatGPT and quotes from audit firms and professional organisations. The discussion of the technology’s benefits is structured around the dynamic capabilities theory, the arguments for future enhancements are rooted in social presence theory, and the ethical implications are discussed in line with the International Code of Ethics for Professional Accountants (IESBA). The benefits of ChatGPT include its ability to deliver human-like responses to auditor queries quickly, save time in performing mundane and repetitive tasks that require less judgement, and enable auditors to focus on complex tasks that require judgement. However, concerns have arisen regarding inaccurate responses, the reliability of information sources, hallucinations, negative impacts on auditors’ critical thinking, and limited relevance in the audit process due to restricted data access. Ethical concerns include auditor independence, confidentiality, privacy, accountability, and intellectual property rights. These findings should be relevant to audit regulators, audit firms, and academics.
+
+Keywords: ChatGPT, External audits, Ethical implications, Advantages and disadvantages.
+
+JEL Classification: M4, M40, M42, M49
+
+Suggested Citation:
+
+Fotoh, Lazarus and Mugwira, Tatenda, Exploring Large Language Models (ChatGPT) in External Audits: Implications and Ethical Considerations (May 19, 2023). Available at SSRN: https://ssrn.com/abstract=4453835 or http://dx.doi.org/10.2139/ssrn.4453835
+ Not Available for Download
+145 References
+H Agnew
+Auditing: Pitch battle
+Financial Times Posted: 2016-05-09
+M G Alles
+Drivers of the use and facilitators and obstacles of the evolution of big data by the audit profession
+Accounting Horizons , volume 29 , issue 2 , p. 439 - 449 Posted: 2015
+D G Altman , J M Bland
+Measurement in medicine: the analysis of method comparison studies
+Statistician , volume 32 , issue 3 , p. 307 - 317 Posted: 1983
+Audit Evidence-Specific Considerations for Selected Items
+AU-C Section , volume 122 , issue AICPA Posted: 2011
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+3,255
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

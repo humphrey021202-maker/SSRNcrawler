@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Desbalanceamento de Informações e Qualidade da Auditoria: Efeitos Antes e Depois da Adoção das Normas Internacionais de Contabilidade (Information Imbalance and Audit Quality: Effects Before and After the Adoption of International Accounting Standards)
+
+18 Pages Posted: 7 Mar 2025
+
+Abelardo De Melo Gaspar Neto
+
+University of Vale do Rio dos Sinos (UNISINOS)
+
+Date Written: January 13, 2025
+
+Abstract
+
+Este estudo tem como objetivo investigar os elementos da qualidade da auditoria (QA) que contribuem para a redução da assimetria de informações (AI) nas empresas listadas na B3, considerando os períodos antes e depois da adoção das IFRS. Foram realizadas análises de regressão com dados em painel para examinar a relação entre QA e AI em uma amostra de 82 empresas, abrangendo o período de 2003 a 2016. Os principais resultados indicam: (i) uma relação significativa e negativa entre elementos de QA (BIG4, TA, ESP e CA) e AI; (ii) uma relação significativa e negativa entre variáveis de controle (COB, INT, FLOAT e NM) e AI; e (iii) maior relevância da QA na redução da AI no período pós-adoção das IFRS. Este estudo contribui ao destacar os atributos de QA associados à melhoria da qualidade informacional, oferecendo subsídios para reguladores e normatizadores, além de auxiliar investidores na identificação de empresas com maior qualidade informacional.
+
+Note: Downloadable document is in Portuguese.
+
+Keywords: Qualidade informacional, Qualidade da auditoria, Assimetria de informação, Convergência internacional
+
+Suggested Citation:
+
+De Melo Gaspar Neto, Abelardo,
+
+Desbalanceamento de Informações e Qualidade da Auditoria: Efeitos Antes e Depois da Adoção das Normas Internacionais de Contabilidade (Information Imbalance and Audit Quality: Effects Before and After the Adoption of International Accounting Standards)
+
+(January 13, 2025). Available at SSRN: https://ssrn.com/abstract=5096146 or http://dx.doi.org/10.2139/ssrn.5096146
+Download This Paper
+ 
+Open PDF in Browser
+95 References
+J E F Almeida , J C G Almeida , De
+Auditoria e earnings management: estudo empírico nas empresas abertas auditadas pelas big four e demais firmas de auditoria
+Revista Contabilidade & Finanças , volume 20 , p. 62 - 74 Posted: 2009
+Y Amihud , H Mendelson
+Asset pricing and the bid-ask spread
+Journal of Financial Economics , volume 17 , p. 223 - 249 Posted: 1986
+H Ashbaugh
+Non-US Firms' Accounting Standard Choices
+Journal of Accounting and Public Policy , volume 20 , p. 129 - 153 Posted: 2001
+R H Ashton , J J Willingham , R K Elliott
+An Empirical Analysis of Audit Delay
+Journal of Accounting Research , volume 25 , issue 2 , p. 275 - 292 Posted: 1987
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+53
+ABSTRACT VIEWS
+264
+RANK
+897,300
+95 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

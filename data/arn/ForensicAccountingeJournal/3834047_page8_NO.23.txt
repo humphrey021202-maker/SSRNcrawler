@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Incentives-Based Mechanism for Corporate Cyber Governance Enforcement and Regulation
+
+Corbet S., Gurdgiev C. (2020) An Incentives-Based Mechanism for Corporate Cyber Governance Enforcement and Regulation In: Walker T., Gramlich D., Bitar M., Fardnia P. (eds) Ecological, Societal, and Technological Risks and the Financial Sector. Palgrave Studies in Sustainable Business In Association
+
+16 Pages Posted: 26 Apr 2021
+
+Shaen Corbet
+
+Dublin City University ; University of Waikato - Management School
+
+Constantin Gurdgiev
+
+Monfort College of Business, University of Northern Colorado; Trinity Business School, Trinity College, Dublin
+
+Date Written: June 11, 2020
+
+Abstract
+
+A growing literature in finance examines the impact of cybercrime on equity markets and publicly traded corporations, with an emerging strand of this literature investigating the contagion channel from cybersecurity breaches against the publicly traded companies, to broader market volatility. The dominant responses by the corporations to these threats can be described as ‘test internally for internal vulnerabilities’, and the ‘insure and forget’ approach, both of which imply a lack of significant preventative actions by companies under the risk of an external cybersecurity attack. The evidence of growing adverse impact and risk of hacking events on firms’ market valuations is highlighted by (i) the rising cumulative abnormal returns impact of such events, (ii) the rising systemic contagion effects of hacks, and (iii) the lack of robust regulatory mechanisms for systematic prevention, mitigation, and enforcement of data security breaches. This supports our proposal that when acting under regulatory authority’s supervision from within a ring-fenced incentives system, ‘white knight’ hackers may provide the appropriate mechanism for discovery and deterrence of weak corporate cybersecurity practices and systems. This mechanism can help alleviate the systemic weaknesses in the existent mechanisms for cybersecurity oversight and enforcement in financial markets.
+
+Keywords: Governance, Cybersecurity, Risk
+
+JEL Classification: G15, G32, G38
+
+Suggested Citation:
+
+Corbet, Shaen and Gurdgiev, Constantin, An Incentives-Based Mechanism for Corporate Cyber Governance Enforcement and Regulation (June 11, 2020). Corbet S., Gurdgiev C. (2020) An Incentives-Based Mechanism for Corporate Cyber Governance Enforcement and Regulation In: Walker T., Gramlich D., Bitar M., Fardnia P. (eds) Ecological, Societal, and Technological Risks and the Financial Sector. Palgrave Studies in Sustainable Business In Association, Available at SSRN: https://ssrn.com/abstract=3834047
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+L Ablon , M C Libicki , A A Golay
+Markets for cybercrime tools and stolen data. Rand National Security Division Posted: 2014
+Accenture
+The cost of cybercrime Posted: 2019
+Alva Group
+What is the long-term impact of a cybersecurity breach on corporate reputation? Alva Posted: 2016-11-10
+R Anderson , C Barton , R Böhme , R Clayton , M J G Van Eaton , M Levi , T Moore , S Savage
+Measuring the cost of cybercrime
+The Economics of Information Security and Privacy , volume 1 , issue 4 , p. 265 - 300 Posted: 2013
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+68
+ABSTRACT VIEWS
+534
+RANK
+785,362
+51 References
+PlumX Metrics
+Related eJournals
+
+Information Systems Legislation & Regulations eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

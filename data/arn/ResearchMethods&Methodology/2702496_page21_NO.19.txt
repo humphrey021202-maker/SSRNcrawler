@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Thresholds in Accounting Recognition Standards
+
+Chicago Booth Research Paper No. 15-50
+
+36 Pages Posted: 12 Dec 2015
+
+Pingyang Gao
+
+HKU Business School
+
+Date Written: December 11, 2015
+
+Abstract
+
+This paper investigates the design of recognition thresholds in accounting standards. In statistics, a threshold classi.es evidence to balance two types of recognition errors weighted by their respective costs to a decision maker. In accounting recognition standards, a threshold induces firms to respond strategically and thus affects the very distribution of evidence the threshold classi.es. With this strategic effect, the optimal recognition threshold is determined by not only the decision maker’s loss function but also the transaction’s features. We compare the optimal threshold’s properties under the statistical and strategic approaches, provide their respective empirical predictions, and discuss the limitations of using a statistical approach to guide accounting standard setting.
+
+Keywords: Thresholds, Evidence Management, Accounting Standard Setting, Statistical Inference
+
+JEL Classification: M41, M45, G28, G38
+
+Suggested Citation:
+
+Gao, Pingyang, Optimal Thresholds in Accounting Recognition Standards (December 11, 2015). Chicago Booth Research Paper No. 15-50, Available at SSRN: https://ssrn.com/abstract=2702496 or http://dx.doi.org/10.2139/ssrn.2702496
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+A Arya , J Glover , K Sivaramakrishnan
+The interaction between decision and control problems and the value of information
+Accounting Review , volume 72 , p. 561 - 574 Posted: 1997
+A Arya , J Glover , S Sunder
+Earnings management and the revelation principle
+Review of Accounting Studies , volume 3 , p. 7 - 34 Posted: 1998
+J Bertomeu , E Cheynel
+Toward a positive theory of disclosure regulation: In search of institutional foundations
+The Accounting Review , volume 88 , p. 789 - 824 Posted: 2013
+Crossref
+J Bertomeu , R P Magee
+From low-quality reporting to …nancial crises: Politics of disclosure regulation along the economic cycle
+Journal of Accounting and Economics , volume 52 , p. 209 - 227 Posted: 2011
+Crossref
+Load more
+6 Citations
+Volker Laux
+Debt Covenants and Accounting Manipulation
+56 Pages · Posted: 11 Feb 2017 · Last revised: 11 Jan 2020 · Downloads: 740
+Download PDF  Add Paper to My Library
+Volker Laux , Korok Ray
+Effects of Accounting Conservatism on Investment Efficiency and Innovation
+Mays Business School Research Paper No. 2781261 · 51 Pages · Posted: 19 May 2016 · Last revised: 27 Nov 2019 · Downloads: 1,067
+Download PDF  Add Paper to My Library
+Qi Chen , Xu Jiang , Yun Zhang
+The Effects of Audit Quality Disclosure on Audit Effort and Investment Efficiency
+60 Pages · Posted: 15 Dec 2014 · Last revised: 6 Feb 2018 · Downloads: 1,076
+Download PDF  Add Paper to My Library
+Sebastian Kronenberger , Volker Laux
+Conservative Accounting, Audit Quality, and Litigation
+42 Pages · Posted: 5 Aug 2016 · Last revised: 28 Nov 2020 · Downloads: 802
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+228
+ABSTRACT VIEWS
+2,254
+RANK
+306,185
+6 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

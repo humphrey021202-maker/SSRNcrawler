@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Inventory Control under Corporate Income Tax and Accrual Accounting
+
+https://www.tandfonline.com/doi/full/10.1080/24725854.2022.2128235
+
+37 Pages Posted: 29 Jan 2021 Last revised: 28 Nov 2022
+
+Zhan Pang
+
+Purdue University - Krannert School of Management
+
+Yixuan Xiao
+
+Washington State University
+
+Date Written: September 21, 2021
+
+Abstract
+
+Corporate income tax constitutes a significant portion of financial costs in business operations. A typical tax system is characterized by the tax structure, accounting method, and loss carryover rule. In this article, we study the optimal inventory policies under taxation and accrual accounting. We consider a lost-sales periodic-review inventory system under a proportional tax with loss carryforward. We formulate the problem as a cyclic stochastic dynamic program with multiple accounting periods, each of which consists of multiple review periods. We show that an income-dependent basestock policy is optimal. We find that tax function convexity and loss carryforward may introduce conflicting incentives into inventory decisions: the former drives risk-averse decisions whereas the latter induces risk-seeking behavior. We identify two intertemporal effects of taxation, the intra-accounting-period effect and the inter-accounting-period effect, both inducing smaller basestock levels. We further extend the analysis to the progressive tax, backordering system, and cash accounting method. Our numerical study examines the effects of various characteristics of taxation on the optimal policies. Our results demonstrate that ignoring taxation in inventory decisions may lead to significant losses especially when the tax rate and demand uncertainty are sufficiently high, which reveals the value of tax considerations in inventory management.
+
+Keywords: Inventory management; corporate income tax (CIT); accrual accounting; stochastic dynamic programming
+
+Suggested Citation:
+
+Pang, Zhan and Xiao, Yixuan, Inventory Control under Corporate Income Tax and Accrual Accounting (September 21, 2021). https://www.tandfonline.com/doi/full/10.1080/24725854.2022.2128235, Available at SSRN: https://ssrn.com/abstract=3735233 or http://dx.doi.org/10.2139/ssrn.3735233
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+V Agrawal , S Seshadri
+Impact of uncertainty and risk aversion on price and order quantity in the newsvendor problem
+Manufacturing & Service Operations Management , volume 2 , issue 4 , p. 410 - 423 Posted: 2000
+G C Biddle , R K Martin
+Inflation, taxes, and optimal inventory policies
+Journal of Accounting Research , volume 23 , issue 1 , p. 57 - 83 Posted: 1985
+G C Biddle , R K Martin
+A stochastic inventory model incorporating intra-year purchases and accounting tax incentives
+Management Science , volume 32 , issue 6 , p. 645 - 772 Posted: 1986
+M Bouakiz , M J Sobel
+Inventory control with an exponential utility criterion
+Operations Research , volume 40 , issue 3 , p. 603 - 608 Posted: 1992
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+132
+ABSTRACT VIEWS
+941
+RANK
+499,164
+42 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

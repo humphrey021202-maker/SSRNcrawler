@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Where Have All the Equations Gone? the Forgotten Algebra of Qualitative Structural Modelling
+
+DOI: 10.1080/01605682.2022.2039565
+
+35 Pages Posted: 1 Jul 2020 Last revised: 4 Mar 2022
+
+Ettore Settanni
+
+University of Cambridge - Institute for Manufacturing
+
+Reinout Heijungs
+
+VU University Amsterdam; Leiden University - Centre of Environmental Science (CML)
+
+Jagjit Singh Srai
+
+University of Cambridge - Department of Engineering
+
+Date Written: May 26, 2020
+
+Abstract
+
+Qualitative structural modelling (QSM) techniques have assisted decision makers with the cognitive burden of structuring and interpreting complex problematic situations. Indeed, QSM pioneered the application of graph-theoretical principles and human-computer interaction. Specific approaches include ISM (Interpretive Structural Modelling); DEMATEL (DEcision MAking Trial and Evaluation Laboratory project); and MICMAC (Matrice d’Impacts Croisés-Multiplication Appliquée à un Classement). The extant QSM research seldom advances or critically assesses these techniques. Instead, ‘template’-style research prevails across a rising number of applications. We challenge this research methodology practice by investigating procedural and algebraic aspects in QSM that are now taken as self-evident, and emphasising the extent to which individual techniques overlap or differ analytically. Results highlight the following: 1) Previously unnoticed computational similarities between techniques currently regarded as mutually exclusive; 2) Incongruences between techniques that are often applied jointly, as some techniques are often stripped of their algebraic contents; 3) Potential pitfalls in those research ‘templates’ that dispense with most algebraic and algorithmic aspects of QSM. Findings provide a unified analytical perspective on QSM, overcoming research silos centred on individual techniques. Future work should address the use of digital technologies for human-computer interaction, a prominent aspect in early QSM research now surprisingly underplayed.
+
+Keywords: Structural modelling; decision making; systems thinking; ISM, MICMAC; DEMATEL
+
+JEL Classification: C18, C67
+
+Suggested Citation:
+
+Settanni, Ettore and Heijungs, Reinout and Heijungs, Reinout and Srai, Jagjit Singh, Where Have All the Equations Gone? the Forgotten Algebra of Qualitative Structural Modelling (May 26, 2020). DOI: 10.1080/01605682.2022.2039565, Available at SSRN: https://ssrn.com/abstract=3622934 or http://dx.doi.org/10.2139/ssrn.3622934
+Download This Paper
+ 
+Open PDF in Browser
+69 References
+R L Ackoff
+The systems revolution
+Long Range Planning , volume 7 , p. 2 - 20 Posted: 1974
+H Bashir , U Ojiako , C Mota
+Modeling and Analyzing Factors Affecting Project Delays Using an Integrated Social Network-Fuzzy MICMAC Approach Posted: 2019
+R Bolaños , E Fontela , A Nenclares , P Pastor
+Using interpretive structural modelling in strategic decision-making groups
+Management Decision , volume 43 , p. 877 - 895 Posted: 2005
+S B Borgatti , M G Everett , J C Johnson
+Analyzing social networks
+Los Angeles i.e. Thousand Oaks, Calif Posted: 2013
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+109
+ABSTRACT VIEWS
+1,073
+RANK
+580,030
+69 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Technology, Operations Management & Production eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

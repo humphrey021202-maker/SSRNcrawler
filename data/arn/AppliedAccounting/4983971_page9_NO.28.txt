@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Application of Outlier Detection Methods in Audit Analytics
+
+33 Pages Posted: 4 Nov 2024
+
+Kevin Fulcer
+
+Baker Tilly US LLP
+
+Hanchi Gu
+
+Shanghai University of Finance and Economics
+
+Hanxin Hu
+
+Rutgers, The State University of New Jersey
+
+Qing Huang
+
+Marshall University - Lewis College of Business; Rutgers Business School - Rutgers University
+
+Alexander Kogan
+
+Rutgers, The State University of New Jersey
+
+Miklos A. Vasarhelyi
+
+Rutgers Business School
+
+Danyang Wei
+
+Durham University Business School
+
+Jimmy Young
+
+American Institute of Certified Public Accountants (AICPA)
+
+Date Written: August 16, 2024
+
+Abstract
+
+Audit transaction anomalies can be viewed as outliers. Unsupervised learning methods of outlier detection do not require outcome labels and enable auditors to discover possible problems based  on observed transaction patterns. This study develops a framework for using outlier detection methods in audit selection and evaluates the proposed framework on real-world revenue sub-ledger datasets. The results indicate that the proposed framework could facilitate the identification of relevant outlier detection algorithms and effectively select risky observations.
+
+Keywords: Audit Analytics, Outlier Detection, Unsupervised Learning, Credible Algorithms
+
+JEL Classification: M42, M40, C45
+
+Suggested Citation:
+
+Fulcer, Kevin and Gu, Hanchi and Hu, Hanxin and Huang, Qing and Kogan, Alexander and Vasarhelyi, Miklos A. and Wei, Danyang and Young, Jimmy, Application of Outlier Detection Methods in Audit Analytics (August 16, 2024). Available at SSRN: https://ssrn.com/abstract=4983971 or http://dx.doi.org/10.2139/ssrn.4983971
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+E Alpaydin
+Introduction to machine learning Posted: 2020
+Y Bao , B Ke , B Li , Y J Yu , J Zhang
+Detecting accounting fraud in publicly traded US firms using a machine learning approach
+Journal of Accounting Research , volume 58 , issue 1 , p. 199 - 235 Posted: 2020
+M M Breunig , H P Kriegel , R T Ng , J Sander
+LOF: identifying density-based local outliers
+Proceedings of the 2000 ACM SIGMOD international conference on Management of data , p. 93 - 104 Posted: 2000
+N Craswell
+Precision at N. Encyclopedia of Database Systems: 2127-2128 Posted: 2009
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+168
+ABSTRACT VIEWS
+900
+RANK
+407,466
+57 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

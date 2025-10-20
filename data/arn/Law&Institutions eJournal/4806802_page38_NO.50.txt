@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Voluntary Disclosure of ESG, Firm Performance, and Idiosyncratic Risk
+
+19 Pages Posted: 25 Apr 2024
+
+Shih-Chang Hung
+
+Tamkang University
+
+Junmao Chiu
+
+National Sun Yat-sen University
+
+Hao-Chi Hsu
+
+National Sun Yat-sen University
+
+Abstract
+
+This paper aims to explore the effect of voluntary discourse ESG information on corporate ﬁnancial performance and idiosyncratic risk. Previous studies obtained mixed and inconsistent findings due to the inappropriate conduct of the endogeneity issues because the voluntary disclosure of ESG information has a self-selection problem. Using a panel dataset of Taiwan listed ﬁrms by introducing a Heckman- model, we show that listed firms with voluntary ESG disclosure have higher Tobin's Q, ROA, and fewer idiosyncratic risks. Our results indicate that voluntary ESG disclosure can improve firm transparency to strengthen external governance mechanisms.
+
+Keywords: ESG, self-selection problem, endogeneity, Heckman model, idiosyncratic risk, corporate ﬁnancial performance, external governance mechanisms
+
+Suggested Citation:
+
+Hung, Shih-Chang and Chiu, Junmao and Hsu, Hao-Chi, Voluntary Disclosure of ESG, Firm Performance, and Idiosyncratic Risk. Available at SSRN: https://ssrn.com/abstract=4806802 or http://dx.doi.org/10.2139/ssrn.4806802
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+C A Adams
+The ethical, social and environmental reporting-performance portrayal gap
+Accounting, Auditing & Accountability , volume 17 , issue 5 , p. 731 - 757 Posted: 2004
+F M Ali , Y Wu , X Zhang
+ESG disclosure, CEO power and incentives, and corporate risk-taking
+European Financial Management , p. 1 - 51 Posted: 2023
+N Basu , I Paeglis , M Rahnamaei
+Multiple blockholders, power, and firm value
+Journal of Banking & Finance , volume 66 , p. 66 - 78 Posted: 2016
+O Boiral
+Sustainability reports as simulacra? A counter account of A and A+ GRI reports
+Accounting, Auditing & Accountability , volume 26 , issue 7 , p. 1036 - 1071 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+97
+ABSTRACT VIEWS
+440
+RANK
+631,426
+28 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

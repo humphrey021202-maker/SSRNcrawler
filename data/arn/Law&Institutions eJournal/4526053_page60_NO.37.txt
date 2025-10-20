@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The relevance of legal requirements in the going public process: The discretionary decision of adopting an audit committee
+
+
+
+
+European Journal of Management and Business Economics, https://doi.org/10.1108/EJMBE-01-2024-0018
+
+15 Pages Posted: 2 Aug 2023 Last revised: 20 Sep 2023
+
+Leticia Castaño
+
+Universitat de València - Deparment of Corporate Finance
+
+José Emilio Farinós Viñas
+
+Universitat de València
+
+Ana M. Ibáñez
+
+University of Valencia - Department of Corporate Finance
+
+Date Written: July 01, 2024
+
+Abstract
+
+Purpose – We study the role of having an audit committee (AC) as a signal of firm quality and as a monitoring device of the information quality contained in the listing prospectus.
+
+
+
+Design/methodology/approach – Ordinary Least Squares regressions are used to examine the association between the presence of an audit committee and (1) the initial return (IR), and (2) the earnings forecast error in the listing prospectus in a sample of 55 Real Estate Investment Trusts that went public on the BME Growth market during 2013–2022. Heckman two-step estimation procedure to correct for endogeneity and bootstrap are used for robustness.
+
+
+Findings – We show that IR and earnings forecasts are significantly affected by the presence of AC. The IR is higher and the earnings forecast included in the prospectus are of higher quality in firms with AC.
+
+
+Practical implications – Our research provides (1) managers with new tools when deciding on their corporate governance structure in the listing process, (2) specific evidence for regulators on the role played by ACs in the process of going public, which may be useful in the context of the ongoing regulatory changes regarding admission processes in Europe, and (3) society with a sign that AC can enhance investor and public confidence in financial markets and foster a more stable and transparent investment environment.
+
+
+Originality/value – The adoption of an ACis voluntary in this market, so this discretionary decision provides an exceptional opportunity to conduct such an analysis. Additionally, this issue has not been previously analysed in Europe.
+
+Keywords: audit committee, initial return, earnings forecast, real estate, corporate governance, going public
+
+JEL Classification: G23, M40, G12, G34
+
+Suggested Citation:
+
+Castaño, Leticia and Farinós Viñas, José Emilio and Ibáñez, Ana M., The relevance of legal requirements in the going public process: The discretionary decision of adopting an audit committee (July 01, 2024).
+, European Journal of Management and Business Economics, https://doi.org/10.1108/EJMBE-01-2024-0018, Available at SSRN: https://ssrn.com/abstract=4526053 or http://dx.doi.org/10.2139/ssrn.4526053
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+N A Ahmad-Zaluki , W N Wan-Hussin
+Corporate governance and earnings forecasts accuracy
+Asian Review of Accounting , volume 18 , issue 1 , p. 50 - 67 Posted: 2010
+M A Ammer , N A Ahmad-Zaluki
+The role of the gender diversity of audit committees in modelling the quality of management earnings forecasts of initial public offers in Malaysia
+An International Journal , volume 32 , issue 6 , p. 420 - 440 Posted: 2017
+D P Baron
+A model of the demand for investment banking advising and distribution services for new issues
+The Journal of Finance , volume 37 , issue 4 , p. 955 - 976 Posted: 1982
+J Marakchi-Chtourou , S Courteau , L
+The effect of audit committee expertise, independence, and activity on aggressive earnings management
+Auditing: A Journal of Practice and Theory , volume 23 , issue 2 , p. 13 - 35 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+67
+ABSTRACT VIEWS
+464
+RANK
+791,953
+34 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

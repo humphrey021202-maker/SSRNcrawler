@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Valuation Risk at European Banks: Empirical Evidence
+
+28 Pages Posted: 12 May 2021
+
+Mario Onorato
+
+Promontory Financial Group
+
+Fabio Battaglia
+
+Promontory Financial Group
+
+Orazio Lascala
+
+Promontory Financial Group
+
+Arber Ngjela
+
+Promontory Financial Group
+
+Date Written: April 1, 2021
+
+Abstract
+
+The risk that a financial institution will experience a loss because it did not accurately determine the fair value of the financial instruments on its balance sheet is known as Valuation Risk (VR). That risk is sometimes heightened because determining fair value is not always a simple or straightforward task. When market data is scarce or unavailable, or markets turn illiquid, banks tend to rely upon internally developed valuation models that use unobservable inputs, which may amplify VR.
+
+VR has attracted growing supervisory attention. Several supervisory agencies internationally have voiced concern over banks holding vast amounts of instruments that are potentially exposed to valuation uncertainty and the potential knock-on effects this VR could have on the stability of the financial system.
+
+Following up to our previous work discussing VR methodology and practice, this whitepaper seeks to expand the analysis by investigating European banks’ exposure to VR from a more quantitative perspective. To this end, we collected the evidence available from banks’ disclosures, looked for patterns, and drew as many sound conclusions as possible.
+
+However, in doing so, we encountered a frustrating reality: inadequacies in available data make it difficult to build an accurate view of these risks.
+
+We realized that the lack of data itself is an important lesson, as it informs us that crucial information is missing in banks’ disclosure. This paper delivers the results of the narrower analysis allowed by the limited data and delves into the implication of these constraints. The lack of data thwarts efforts to build an accurate view of the risks truly resting on financial institutions’ balance sheets. This is a serious matter. European banks hold amounts of assets and liabilities potentially exposed to VR that exceed their regulatory capital by many multiples. Even a relatively small unexpected shock or estimation error in instrument valuations could significantly impact banks’ capitalization and resilience.
+
+In the debate over VR, we believe a joint action by supervisors and standard setters to deepen banks’ disclosure of their holdings of assets and liabilities potentially more exposed to VR would significantly increase transparency and risk-awareness in the financial industry. By increasing clarity and transparency around bank risks through increased disclosure, banks can enhance public trust and allow observers and analysts to better assess bank balance sheets, leading to share prices that more closely reflect bank risks.
+
+Keywords: Valuation Risk, Market Risk, Fair Value, Prudent Value, Fair Value Hierarchy, IFRS 13, IFRS 9, Empirical Evidence, European Banks, market data
+
+JEL Classification: G12, G18, G21, G32
+
+Suggested Citation:
+
+Onorato, Mario and Battaglia, Fabio Maria and Lascala, Orazio and Ngjela, Arber, Valuation Risk at European Banks: Empirical Evidence (April 1, 2021). Available at SSRN: https://ssrn.com/abstract=3843099 or http://dx.doi.org/10.2139/ssrn.3843099
+Download This Paper
+ 
+Open PDF in Browser
+6 References
+Mario Onorato , Fabio Maria Battaglia , Orazio Lascala , Arber Ngjela
+Valuation Risk: A Holistic Accounting and Prudential Approach
+Pages: 36 Posted: 4 Dec 2020
+Download PDF  Add Paper to My Library
+Pillar 3 disclosure requirements -updated framework
+BCBS Posted: 2018
+Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 Text with EEA relevance Posted: 2013
+International Financial Reporting Standard #13 -Fair Value Measurement Posted: 2013
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+141
+ABSTRACT VIEWS
+805
+RANK
+472,944
+6 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+European Economics: Macroeconomics & Monetary Economics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

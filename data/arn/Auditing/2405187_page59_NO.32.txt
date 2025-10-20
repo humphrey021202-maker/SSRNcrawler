@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Benefits and Costs of Sarbanes-Oxley Section 404(B) Exemption: Evidence from Small Firms’ Internal Control Disclosures
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+71 Pages Posted: 7 Mar 2014 Last revised: 9 Feb 2017
+
+Weili Ge
+
+University of Washington - Michael G. Foster School of Business
+
+Allison Koester
+
+Georgetown University - Department of Accounting and Business Law; Georgetown University - McDonough School of Business
+
+Sarah E. McVay
+
+University of Washington
+
+Date Written: January 4, 2017
+
+Abstract
+
+Thousands of publicly traded U.S. firms are exempt from auditor oversight of internal control effectiveness disclosures (Section 404(b) of the Sarbanes-Oxley Act of 2002). We provide initial estimates of the measurable benefits and costs of this exemption. We measure the benefit of exemption with audit fee savings, which we estimate to be an aggregate $388 million from 2007 through 2014 for our sample of exempt firms. The key concern of exemption is internal control misreporting (IC misreporting; i.e., firms with ineffective internal controls erroneously disclosing effective internal controls). We estimate that 9.3 percent of exempt firms are IC misreporters, and that 404(b) compliance would lower this IC misreporting to 5.8 percent. IC misreporting imposes at least two measurable costs on current and prospective shareholders: lower operating performance due to non-remediation, and market values that fail to reflect a firm’s underlying internal control status. We calculate the cost of 404(b) exemption from 2007 through 2014 to be an aggregate $719 million in lower future earnings due to non-remediation, and a $935 million delay in aggregate market value decline due to the failure to disclose ineffective internal controls. Although the measurable costs of exemption exceed the measurable benefits, the audit fee savings benefit shareholders of all exempt firms, whereas costs are borne by shareholders of only a fraction of exempt firms (the IC misreporters). In addition to providing initial evidence on measurable benefits and costs of internal control disclosure regulation, our study provides a tool for identifying the firms most at risk of inaccurately disclosing internal control effectiveness.
+
+Keywords: internal controls over financial reporting; disclosure accuracy; non-accelerated filers; Section 404
+
+Suggested Citation:
+
+Ge, Weili and Koester, Allison and McVay, Sarah E., Benefits and Costs of Sarbanes-Oxley Section 404(B) Exemption: Evidence from Small Firms’ Internal Control Disclosures (January 4, 2017). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=2405187 or http://dx.doi.org/10.2139/ssrn.2405187
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+J Doyle , W Ge , S Mcvay
+Accruals quality and internal control over financial reporting
+The Accounting Review , volume 82 , p. 1141 - 1170 Posted: 2007
+Crossref
+Determinants of weaknesses in internal control over financial reporting
+Journal of Accounting and Economics , volume 44 , p. 193 - 223 Posted: 2007
+Crossref
+M Erickson , M Hanlon , E Maydew
+How much will firms pay for earnings that do not exist? Evidence of taxes paid on allegedly fraudulent earnings
+The Accounting Review , volume 79 , issue 2 , p. 387 - 408 Posted: 2004
+Crossref
+E Fama , K French
+Industry cost of equity
+Journal of Financial Economics , volume 43 , issue 2 , p. 153 - 193 Posted: 1997
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+811
+ABSTRACT VIEWS
+4,313
+RANK
+69,987
+11 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

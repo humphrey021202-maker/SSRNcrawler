@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Efficient Estimation of Integrated Volatility Functionals via Multiscale Jackknife
+
+Chicago Booth Research Paper No. 17-05
+
+31 Pages Posted: 28 Mar 2017 Last revised: 18 Apr 2018
+
+Jia Li
+
+Duke University
+
+Yunxiao Liu
+
+University of North Carolina (UNC) at Chapel Hill
+
+Dacheng Xiu
+
+University of Chicago - Booth School of Business; National Bureau of Economic Research (NBER)
+
+Date Written: March 27, 2017
+
+Abstract
+
+We propose semi-parametrically efficient estimators for general integrated volatility functionals of multivariate semimartingale processes. It is known that a plug-in method that uses nonparametric estimates of spot volatilities induces high-order biases which need to be corrected to obey a central limit theorem. Such bias terms arise from boundary effects, the diffusive and jump movements of stochastic volatility, and the sampling error from the nonparametric spot volatility estimation. We propose a novel jackknife method for bias-correction. The jackknife estimator is simply formed as a linear combination of a few uncorrected estimators associated with different local window sizes used in the estimation of spot volatility. We show theoretically that our estimator is asymptotically mixed Gaussian, semi-parametrically efficient, and more robust to the choice of local windows. To facilitate the practical use, we introduce a simulation-based estimator of the asymptotic variance, so that our inference is derivative-free and, hence, is very convenient to implement.
+
+Suggested Citation:
+
+Li, Jia and Liu, Yunxiao and Xiu, Dacheng, Efficient Estimation of Integrated Volatility Functionals via Multiscale Jackknife (March 27, 2017). Chicago Booth Research Paper No. 17-05, Available at SSRN: https://ssrn.com/abstract=2942235 or http://dx.doi.org/10.2139/ssrn.2942235
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+Y A¨ıta¨ıt-Sahalia , D Xiu
+Principal component analysis of high frequency data Posted: 2015
+T G Andersen , T Bollerslev , F X Diebold , P Labys
+Modeling and forecasting realized volatility
+Econometrica , volume 71 , issue 2 , p. 579 - 625 Posted: 2003
+Crossref
+O E Barndorff-Nielsen , N Shephard
+Econometric analysis of realized covariation: High frequency based covariance, regression, and correlation in financial economics
+Econometrica , volume 72 , issue 3 , p. 885 - 925 Posted: 2004
+Crossref
+P Carr , H Geman , D B Madan , M Yor
+The fine structure of asset returns: An empirical investigation
+Journal of Business , volume 75 , p. 305 - 332 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+127
+ABSTRACT VIEWS
+1,595
+RANK
+514,660
+12 Citations
+16 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

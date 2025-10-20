@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Network Structure and Auditor Compensation: Evidence from a Small World Bipartite Network
+
+39 Pages Posted: 20 Aug 2023
+
+D. James Zhang
+
+University of Galway - J.E. Cairnes School of Business & Economics
+
+Reggy Hooghiemstra
+
+University of Groningen - Faculty of Economics and Business
+
+Floor Rink
+
+University of Groningen
+
+Dennis Veltrop
+
+University of Groningen
+
+Date Written: August 17, 2023
+
+Abstract
+
+This study examines the relationship between auditors’ tacit knowledge transfer and auditor compensation. We exploit a unique proprietary sample and employ small-world theory in social network analysis to capture tacit knowledge transfer among individual auditors. Drawing from an audit firm’s full year of personnel records and data on the assignment of individual auditors to audit engagements throughout the year, we find a statistically significant positive association between tacit knowledge transfer and auditor compensation. Furthermore, we find that this positive association is mainly driven by assistants, audit seniors, and audit managers. Finally, we find that auditor performance is likely to be a valid mechanism linking tacit knowledge transfer and auditor compensation for audit seniors and audit managers. Overall, our results suggest that the social capital embedded within knowledge networks plays an important role in auditor compensation.
+
+Keywords: Auditor Compensation; Tacit Knowledge Transfer; Small World Network; Auditor Performance; Social Network Analysis
+
+JEL Classification: M42, M41, D83, J31
+
+Suggested Citation:
+
+Zhang, James and Hooghiemstra, Reggy and Rink, Floor and Veltrop, Dennis, Network Structure and Auditor Compensation: Evidence from a Small World Bipartite Network (August 17, 2023). Available at SSRN: https://ssrn.com/abstract=4543919 or http://dx.doi.org/10.2139/ssrn.4543919
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+104
+ABSTRACT VIEWS
+660
+RANK
+601,250
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

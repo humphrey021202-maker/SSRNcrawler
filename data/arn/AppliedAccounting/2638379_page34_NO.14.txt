@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Institutional Investors, Analysts' Recommendations, Annual Reports, Textual Analysis and Stock Returns: Evidence from SEC EDGAR 10-K and 13-F Forms
+
+41 Pages Posted: 2 Aug 2015 Last revised: 7 Oct 2015
+
+Andreas Chouliaras
+
+affiliation not provided to SSRN
+
+Date Written: October 6, 2015
+
+Abstract
+
+I analyze 18510 SEC EDGAR Form 10-K (annual reports), for NASDAQ, NYSE and AMEX (NYSE MKT) stocks, along with 176565 SEC EDGAR Form 13-F (quarterly reports of institutional investors holdings), and analysts' recommendations, from 2001 until 2015. I find that (i) 10-K pessimism negatively affects stock holdings after the filing, (ii) institutions do not appear to have forecasting power as to how pessimistic the annual report will be, as they do not adjust their holdings in the pessimistic stocks before the 10-K filing takes place, (iii) an increase in the number of institutional investors that hold a stock leads to an increase in stock prices after the 10-K filing (iv) institutions increase their positions in stocks that had positive returns one (1) to twelve (12) months before the 10-K filing (v) analysts' recommendations are affected by 10-K pessimism three (3) to nine (9) months after the 10-K filing, (vi) contrary to the cross-section of institutional investors, analysts do appear to have some forecasting power over how pessimistic the annual report will be, a few months before the 10-K filing month.
+
+Keywords: SEC, EDGAR, Form 13-F, Form 10-K, Textual Analysis, NYSE, NASDAQ, AMEX (NYSE MKT)
+
+JEL Classification: G10, G14, G23
+
+Suggested Citation:
+
+Chouliaras, Andreas, Institutional Investors, Analysts' Recommendations, Annual Reports, Textual Analysis and Stock Returns: Evidence from SEC EDGAR 10-K and 13-F Forms (October 6, 2015). Available at SSRN: https://ssrn.com/abstract=2638379 or http://dx.doi.org/10.2139/ssrn.2638379
+Download This Paper
+ 
+Open PDF in Browser
+12 References
+K R Ahern , D Sosyura
+Who writes the news? corporate press releases during merger negotiations
+The Journal of Finance , volume 69 , p. 241 - 291 Posted: 2014
+Crossref
+J Boudoukh , R Feldman , S Kogan , M Richardson
+Which news moves stock prices? a textual analysis
+National Bureau of Economic Research Posted: 2013
+Crossref
+H Chen , P De , J Hu , B.-H Hwang
+Wisdom of crowds: The value of stock opinions transmitted through social media
+Review of Financial Studies Posted: 2013
+Crossref
+Andreas Chouliaras
+The Pessimism Factor: SEC EDGAR Form 10-K Textual Analysis and Stock Returns
+Pages: 41 Posted: 6 Jul 2015
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+362
+ABSTRACT VIEWS
+2,517
+RANK
+188,584
+2 Citations
+12 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

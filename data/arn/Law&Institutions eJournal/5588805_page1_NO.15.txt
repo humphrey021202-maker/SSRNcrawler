@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax Reforms for Growing Firms? Evidence from Corporate Tax Filing Data in Japan
+
+53 Pages Posted: 10 Oct 2025
+
+Masaki Hotei
+
+Daito Bunka University - Department of Economics
+
+Kaoru Hosono
+
+Gakushuin University - Economics
+
+Daisuke Miyakawa
+
+Waseda University
+
+Abstract
+
+Using tax filing data of Japanese business enterprises from 2014 to 2020, we investigate how the 2015-2018 tax reforms in Japan affected the average tax burden and whether the reforms benefited growing firms or not. We first calculate backward-looking effective tax rates (ETRs) and then estimate the sensitivity of the ETR and its components with respect to firm sales growth, R&D intensity, and other characteristics. Our findings are as follows. First, the average ETR increased after the reform. Second, compared with the average ETR, ETRs for growing and R&D-intensive firms initially decreased, but then began to increase. The reforms did not benefit growing firms in the long run due to the expansion of tax bases.
+
+Keywords: Corporate tax filing data, Effective tax rate, Firm growth
+
+Suggested Citation:
+
+Hotei, Masaki and Hosono, Kaoru and Miyakawa, Daisuke, Tax Reforms for Growing Firms? Evidence from Corporate Tax Filing Data in Japan. Available at SSRN: https://ssrn.com/abstract=5588805 or http://dx.doi.org/10.2139/ssrn.5588805
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+Effect of firm size on (Business tax on value added / Pre-tax profits): Large firms Coefficient Lower 95% confidence interval Upper 95% confidence interval
+Effect of firm size on Posted: 2015
+ETR of SME with a high R&D intensity Mean SME with a high R&D intensity Posted: 2015
+ETR of SME with a high loss carryforwards rate Mean SME with a high loss carryforward rate References Posted: 2015
+P Buyl , A Roggeman
+Do SMEs Face a Higher Tax Burden? Evidence from Belgian Tax Return Data
+Prague Economic Papers , volume 28 , issue 6 , p. 729 - 747 Posted: 2019
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+8
+ABSTRACT VIEWS
+46
+17 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

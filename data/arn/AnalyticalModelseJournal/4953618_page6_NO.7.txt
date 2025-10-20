@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Auditor Change Lead to Real Earnings Management? - a Study of Small and Medium-Sized Firms
+
+32 Pages Posted: 11 Sep 2024
+
+Frode Kjærland
+
+Norwegian University of Science and Technology (NTNU); Nord University - Faculty of Business School
+
+Sandra Brocks Hagen
+
+affiliation not provided to SSRN
+
+Are Oust
+
+NTNU Business School
+
+Ranik Raaen Wahlstrøm
+
+NTNU Business School, Norwegian University of Science and Technology
+
+Abstract
+
+This study examines the impact of auditor change on real earnings management, particularly exploring whether larger auditing firms are associated with lower occurrences of earnings management and if occurrences are higher among firms that change auditors compared to those that do not. The research focuses on activity-based earnings management and auditor change, contributing to a relatively under-researched area.Using a unique panel dataset of financial information from Norwegian small and medium-sized companies between 2011 and 2019, comprising 788,998 observations, including 33,545 related to companies with auditor change, the study conducts a comprehensive empirical analysis. A two-step procedure is employed, developing activity-based earnings management measures based on Roychowdhury's (2006) model, which are then used as dependent variables in subsequent regressions using fixed effects estimation.The findings reveal that companies changing between Big5 auditing firms exhibit higher occurrences of activity-based earnings management compared to companies that haven't changed auditors. This indicates potential differences in how large auditing firms assess financial information quality. However, the implications of other auditing changes are unclear, suggesting no significant quality differences between large (Big5) and small (non-Big5) auditing firms. In general, the study suggests that robust legal frameworks and a well-functioning legal system act as safeguards, hindering companies from executing auditor changes based on less legitimate reasons and limiting management's opportunistic behavior, which could otherwise be reflected in activity-based earnings management occurrences.
+
+Keywords: Real earnings management, Auditor change, small and medium-sized firms
+
+Suggested Citation:
+
+Kjærland, Frode and Hagen, Sandra Brocks and Oust, Are and Wahlstrøm, Ranik Raaen, Does Auditor Change Lead to Real Earnings Management? - a Study of Small and Medium-Sized Firms. Available at SSRN: https://ssrn.com/abstract=4953618 or http://dx.doi.org/10.2139/ssrn.4953618
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+Mohammad & Alhadab , Iain Clacher
+The impact of audit quality on real and accrual earnings management around IPOs
+The British accounting review , volume 50 , issue 4 , p. 442 - 461 Posted: 2018
+Seraina C Anagnostopoulou , Andrianos E Tsekrekos
+The effect of financial leverage on real and accrual-based earnings management
+Accounting and business research , volume 47 , issue 2 , p. 191 - 236 Posted: 2017
+Auditor Act
+Lov om revisjon og revisorer Posted: 2020
+Vivien & Beattie , Stella Fearnley
+Audit market competition: Auditor changes and the impact of tendering
+The British accounting review , volume 30 , issue 3 , p. 261 - 289 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+74
+ABSTRACT VIEWS
+511
+RANK
+747,544
+30 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

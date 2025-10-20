@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting Architecture: The New Face of AIS
+
+38 Pages Posted: 11 Sep 2015 Last revised: 19 Sep 2015
+
+Joshua G. Coyne
+
+University of Central Arkansas
+
+Emily Coyne
+
+San Jose State University - School of Library & Information Science
+
+Kenton B. Walker
+
+University of Wyoming
+
+Date Written: September 16, 2015
+
+Abstract
+
+Unlike Financial Accounting, Managerial Accounting, Tax Accounting and Auditing, Accounting Information Systems as an academic discipline is not currently focused on training students to enter a discrete professional field. This lack of focus is not demand-driven as an increasingly dire need exists for IT auditors, as well as systems developers with accounting knowledge. One hurdle preventing expansion of AIS curriculum to prepare accounting students to serve as IT auditors and IT architects is the need for a unifying framework that circumscribes relevant professional competencies. This article introduces such a framework and proposes a corresponding academic discipline that combines accounting and auditing with systems design and control: Accounting Architecture.
+
+Keywords: accounting information systems, information life cycle, technology, control
+
+JEL Classification: M4, L8
+
+Suggested Citation:
+
+Coyne, Joshua G. and Coyne, Emily and Walker, Kenton B., Accounting Architecture: The New Face of AIS (September 16, 2015). Available at SSRN: https://ssrn.com/abstract=2658257 or http://dx.doi.org/10.2139/ssrn.2658257
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+Aicpa
+Trust Services, Principles, Criteria, and Illustrations. AICPA Posted: 2014
+J Atherton
+From Life Cycle to Continuum: Some Thoughts on the Records Management-Archives Relationship
+Archivaria , volume 21 , p. 43 - 51 Posted: 1985
+M J Coe
+Trust Services: A Better Way to Evaluate IT Controls
+Journal of Accountancy , volume 199 , issue 3 Posted: 2005
+M Corrigan , J T Sprehe
+Cleaning Up Your Information Wasteland
+Information Management Journal , volume 44 , issue 3 , p. 26 - 30 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+273
+ABSTRACT VIEWS
+2,451
+RANK
+255,505
+15 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

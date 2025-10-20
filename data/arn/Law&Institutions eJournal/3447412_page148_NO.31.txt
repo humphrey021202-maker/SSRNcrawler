@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+(When) Does Transparency Hurt Liquidity?
+
+Singapore Management University School of Accountancy Research Paper No. 2021-126
+
+45 Pages Posted: 7 Sep 2019 Last revised: 29 Feb 2020
+
+Karthik Balakrishnan
+
+Rice University - Jesse H. Jones Graduate School of Business
+
+Aytekin Ertan
+
+London Business School
+
+Yun Lee
+
+Singapore Management University
+
+Date Written: February 26, 2020
+
+Abstract
+
+Conventional wisdom suggests that increases in public information improve market liquidity. However, if greater public information incentivizes only sophisticated investors to produce private information, it could exacerbate information asymmetry among investors and thus reduce liquidity. We explore this argument on a sample of mortgage-backed securities (MBSs) by using a recent European regulation that mandates complex disclosures about the individual loans underlying MBSs. We find that the liquidity of the debt tranches of disclosed MBSs declines by 23% post-regulation. Our inferences are stronger when the securities are harder to value and when the disparity in investor sophistication is higher. In contrast to these findings, we also find that the disclosures increase the liquidity of the equity tranches of the same MBSs. Overall, our evidence implies that the liquidity impact of enhanced public information varies with the nature of the asset in question; this effect is likely a function of the investors’ incentives for information production and price discovery.
+
+Keywords: liquidity, disclosure, securitization, information sensitivity, regulation, MBS, ABS
+
+JEL Classification: G10, G21, G23, G28
+
+Suggested Citation:
+
+Balakrishnan, Karthik and Ertan, Aytekin and Lee, Yun, (When) Does Transparency Hurt Liquidity? (February 26, 2020). Singapore Management University School of Accountancy Research Paper No. 2021-126, Available at SSRN: https://ssrn.com/abstract=3447412 or http://dx.doi.org/10.2139/ssrn.3447412
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+V V Acharya , S G Ryan
+Banks' financial reporting and financial system stability
+Journal of Accounting Research , volume 54 , issue 2 , p. 277 - 340 Posted: 2016
+Crossref
+T Adrian , N Boyarchenko , O Shachar
+Dealer balance sheets and bond liquidity provision
+Journal of Monetary Economics , volume 89 , p. 92 - 109 Posted: 2017
+Crossref
+G Akerlof
+The market for lemons: Quality uncertainty and the market mechanism
+Quarterly Journal of Economics , volume 84 , issue 3 , p. 235 - 251 Posted: 1970
+Crossref
+D Amiram , E Owens , O Rozenbaum
+Do information releases increase or decrease information asymmetry? New evidence from analyst forecast announcements
+Journal of Accounting and Economics , volume 62 , issue 1 , p. 121 - 138 Posted: 2016
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+477
+ABSTRACT VIEWS
+3,754
+RANK
+137,237
+3 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Singapore Management University School of Accountancy Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

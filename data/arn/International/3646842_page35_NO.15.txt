@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+So Similar, yet So Different: Comparing the US GAAP and IFRS Experience at Eliciting Greater Transparency on Pension Asset Disclosures
+
+61 Pages Posted: 5 Aug 2020 Last revised: 13 Jan 2023
+
+Divya Anantharaman
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+Elizabeth Chuk
+
+University of California, Irvine
+
+Tonni Xia
+
+San Diego State University
+
+Date Written: January 11, 2023
+
+Abstract
+
+We examine whether regulatory mandates intended to improve disclosure can lead to greater transparency in the absence of a change in preparer incentives to obfuscate that disclosure. We exploit a sequence of two otherwise similar regulatory changes, one under US GAAP and the other under IFRS, which have one key difference—while both changes mandate improvements to the disclosure of pension asset allocation, only the latter removes preparer incentives to disclose opaquely (by eliminating a key reporting assumption—the expected rate of return on pension assets or ERR, which can be more effectively manipulated if asset allocation remains opaque). We construct two difference-in-difference research designs to examine and compare disclosure outcomes for both changes. We find that the IFRS disclosure standard is effective at improving pension asset transparency as intended, whereas the US standard—which only mandates better disclosure while leaving unchanged preparers’ incentives to obfuscate—is not as effective at improving pension asset transparency. Further tests isolate the IFRS improvement to firms likely to have inflated their ERRs before the change. Overall, our study highlights the potential for standard-setters to learn from each other, by comparing and contrasting their regulatory experience on a specific accounting topic with clearly identifiable incentives.
+
+Keywords: Accounting regulation, standard-setting, defined benefit pension, IAS 19R, SFAS 132R
+
+JEL Classification: M40, M41, M48
+
+Suggested Citation:
+
+Anantharaman, Divya and Chuk, Elizabeth and Xia, Shijun, So Similar, yet So Different: Comparing the US GAAP and IFRS Experience at Eliciting Greater Transparency on Pension Asset Disclosures (January 11, 2023). Available at SSRN: https://ssrn.com/abstract=3646842 or http://dx.doi.org/10.2139/ssrn.3646842
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+E Amir , S Benartzi
+The expected rate of return on pension funds and asset allocation as predictors of portfolio performance
+The Accounting Review , volume 73 , issue 3 , p. 335 - 352 Posted: 1998
+D Anantharaman , E Chuk
+The economic consequences of accounting standards: Evidence from risk-taking in pension plans
+The Accounting Review , volume 93 , issue 4 , p. 23 - 51 Posted: 2018
+C Armstrong , A D Jagolinzer , D F Larcker
+Chief Executive Officer equity incentives and accounting irregularities
+Journal of Accounting Research , volume 48 , issue 2 , p. 225 - 271 Posted: 2010
+S Asthana
+Earnings management, expected returns on pension assets, and resource allocation decisions
+Journal of Pension Economics and Finance , volume 7 , issue 2 , p. 199 - 220 Posted: 2007
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+292
+ABSTRACT VIEWS
+1,632
+RANK
+238,435
+1 Citations
+37 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

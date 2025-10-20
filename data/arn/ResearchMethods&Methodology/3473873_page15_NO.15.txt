@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Calendar Rotations: A New Approach for Studying the Impact of Timing using Earnings Announcements
+
+Journal of Financial Economics 140 (3), 865-893
+
+57 Pages Posted: 28 Oct 2019 Last revised: 29 Sep 2021
+
+Suzie Noh
+
+Stanford Graduate School of Business
+
+Eric C. So
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Rodrigo S. Verdi
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Date Written: June 1, 2020
+
+Abstract
+
+We develop a novel methodology for studying the causal impact of announcement timing. Our methodology uses firms' earnings announcements and leverages quasi-exogenous variation attributable to the specific day-of-week on which a calendar month begins. We refer to the resulting variation in announcement timing as 'calendar rotations,' which are uncorrelated with proxies for announcement content. In applying our methodology, we show announcements moved forward by calendar rotations receive heightened media and investor attention, and experience greater earnings announcement premia. Taken together, our study details a method for studying how the timing of information flows impacts outcomes of interest to financial economists.
+
+JEL Classification: G10, G11, G12, G14, G40, G41
+
+Suggested Citation:
+
+Noh, Suzie and So, Eric C. and Verdi, Rodrigo S., Calendar Rotations: A New Approach for Studying the Impact of Timing using Earnings Announcements (June 1, 2020). Journal of Financial Economics 140 (3), 865-893, Available at SSRN: https://ssrn.com/abstract=3473873 or http://dx.doi.org/10.2139/ssrn.3473873
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+J D Angrist , J S Pischke
+Mostly harmless econometrics: An empiricist's companion Posted: 2008
+M Bagnoli , W Kross , S G Watts
+The information in management's expected earnings report date: A day late, a penny short
+Journal of Accounting Research , volume 40 , p. 1275 - 1296 Posted: 2002
+L S Bamber
+Unexpected earnings, firm size, and trading volume around quarterly earnings announcements
+The Accounting Review , volume 62 , p. 510 - 532 Posted: 1987
+B M Barber , T Odean
+All that glitters: The effect of attention and news on the buying behavior of individual and institutional investors
+Review of Financial Studies , volume 21 , p. 785 - 818 Posted: 2008
+Load more
+2 Citations
+Mark Kim , Spencer Pierce , Ira Yeung
+Why Firms Announce Good News Late: Earnings Management and Financial Reporting Timeliness
+Contemporary Accounting Research, Forthcoming · 58 Pages · Posted: 18 Jan 2017 · Last revised: 7 May 2021 · Downloads: 343
+Download PDF  Add Paper to My Library
+Julio Crego , Jasmin Gider
+The Dynamic Informativeness of Scheduled News
+37 Pages · Posted: 15 Apr 2020 · Last revised: 1 Nov 2023 · Downloads: 409
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,348
+ABSTRACT VIEWS
+5,552
+RANK
+34,000
+2 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

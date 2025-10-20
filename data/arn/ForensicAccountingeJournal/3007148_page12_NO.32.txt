@@ -1,0 +1,94 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Information Content of Sarbanes-Oxley in Predicting Security Breaches
+
+Posted: 25 Jul 2017
+
+J. Christopher Westland
+
+University of Illinois at Chicago - Department of Information and Decision Sciences
+
+Date Written: July 22, 2017
+
+Abstract
+
+How effective is compliance with the Sarbanes-Oxley Act (SOX) in identifying and eliminating firm threats from information systems breaches? We investigated publicly reported security breaches of internal controls in corporate systems to determine whether SOX assessments are information bearing with respect to breaches which can lead to materially significant losses and misstatements. The results of our tests varied significantly between breach types. SOX Section 404 adverse decisions on effectiveness of controls occurred in 100% of credit card data breaches and around 33% of insider breaches. SOX 404 audits provided a contrarian “effective” control decisions on 88% of situations where there was a control breach concerning a portable device. This suggests that employees are subverting particularly strict internal controls by using portable devices that can be carried outside the physical boundaries of the firm. We found that management and SOX 404 auditors do not general agree on the underlying internal control situation at any time; instead the SOX 404 team was likely to discover material weaknesses and “educate” management and internal audit teams about the importance of these control weaknesses. SOX attestations were poor at identifying control weaknesses from unintended disclosures, physical losses, hacking and malware, stationary devices, and situations where the cause of the breach was unknown. Hazard and occupancy structural models were constructed to extrapolate to a larger population; results showed that both SOX 302 and 404 section audits provided information germane to the frequency of breaches, with SOX 404 being three times as informative as section 302 reports. The hazard model found an expected 2.88% reduction in breaches when SOX 302 controls are effective; management “material weakness’ attestations provided no information in this structural model, whereas there would be around a 1% increase in breach occurrence when there are significant deficiencies. SOX 404 attestations were the most informative, and a negative SOX 404 attestation is projected to increase the frequency of breaches by around 8.5%. We concluded that the strength of internal controls attested in SOX reports is likely to be a significant factor in the occurrence of a breach at a firm in a specific period.
+
+Keywords: Sarbanes-Oxley, Security Breaches, Internal Control, Auditing
+
+JEL Classification: M14, M45
+
+Suggested Citation:
+
+Westland, J. Christopher, The Information Content of Sarbanes-Oxley in Predicting Security Breaches (July 22, 2017). Available at SSRN: https://ssrn.com/abstract=3007148
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,102
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Ratchet Effect: Theory and Empirical Evidence
+
+42 Pages Posted: 20 May 2020 Last revised: 22 Jun 2022
+
+Michal Matejka
+
+Arizona State University
+
+Matthias D. Mahlendorf
+
+Frankfurt School of Finance & Management
+
+Utz Schäffer
+
+WHU Otto Beisheim School of Management
+
+Date Written: June 21, 2022
+
+Abstract
+
+Using current performance to set future targets can discourage effort and reduce performance. Our study examines whether this ratchet effect also undermines incentives of high-level managers and executives. We use a dynamic model to show that empirical tests used in prior literature can falsely reject the null hypothesis of no ratchet effect. We also motivate a new test that can better detect the adverse incentives effects of target setting. Specifically, we show that the ratchet effect can be identified as the effect of past performance on changes in perceived target difficulty. We use panel data from nine annual 2011–2019 surveys to implement this test. Similar to prior studies, we find strong evidence that targets are revised upward following good performance. Nevertheless, we reject the ratchet effect hypothesis because we further find that good performance in one period is associated with a decrease in perceived target difficulty in the next period. This finding is more pronounced in settings where well-performing managers have more private information about future performance and where long-term commitments are more credible.
+
+Keywords: Ratchet Effect, Dynamic Incentives, Target Updating
+
+JEL Classification: M41, M52
+
+Suggested Citation:
+
+Matejka, Michal and Mahlendorf, Matthias D. and Schäffer, Utz, The Ratchet Effect: Theory and Empirical Evidence (June 21, 2022). Available at SSRN: https://ssrn.com/abstract=3583697 or http://dx.doi.org/10.2139/ssrn.3583697
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+V V Acharya , K John , R K Sundaram
+On the optimality of resetting executive stock options
+Journal of Financial Economics , volume 57 , p. 65 - 101 Posted: 2000
+S Anderson , H Dekker , K Sedatole , E Wiersma
+When one size does not fit all: Using ex post subjective ratings to provide parity in risk-adjusted compensation
+Management Accounting Research , volume 49 , p. 1 - 12 Posted: 2020
+S W Anderson , H C Dekker , K L Sedatole
+An empirical examination of goals and performance-to-goal following the introduction of an incentive bonus plan with participative goal-setting
+Management Science , volume 56 , p. 90 - 109 Posted: 2010
+C Aranda , J Arellano , A Davila
+Ratcheting and the role of relative target setting
+The Accounting Review , volume 89 , p. 1197 - 1226 Posted: 2014
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+661
+ABSTRACT VIEWS
+2,950
+RANK
+91,313
+60 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

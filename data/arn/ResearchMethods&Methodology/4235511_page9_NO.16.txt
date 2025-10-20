@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Artificial Intelligence in Financial Decision Making
+
+Handbook of Financial Decision Making, Forthcoming
+
+HKUST Business School Research Paper No. 2022-082
+
+32 Pages Posted: 4 Oct 2022 Last revised: 13 Dec 2022
+
+Allen H. Huang
+
+Hong Kong University of Science and Technology - Department of Accounting
+
+Haifeng You
+
+Hong Kong University of Science & Technology (HKUST) - Department of Accounting
+
+Date Written: May 16, 2022
+
+Abstract
+
+Artificial intelligence (AI), powered by machine learning algorithms, is capable of extracting information efficiently from big data and, therefore, has great potential for improving financial decision-making. In this chapter, we summarize several important applications of AI in this context. First, we review AI algorithms that extract information from unstructured data, with a focus on natural language processing algorithms. Next, we discuss how AI extracts and aggregates information from unstructured and structured data so as to facilitate financial decisions such as investment and FinTech lending. Lastly, we discuss the complementary roles of AI and humans in improving financial decision-making.
+
+Keywords: Artificial Intelligence, Machine Learning, Natural Language Processing, Financial Decision Making, Equity Investment, Fintech Lending
+
+JEL Classification: C38, C45, C61, D81, G11, G12, G14, G32
+
+Suggested Citation:
+
+Huang, Allen H. and You, Haifeng, Artificial Intelligence in Financial Decision Making (May 16, 2022). Handbook of Financial Decision Making, Forthcoming , HKUST Business School Research Paper No. 2022-082, Available at SSRN: https://ssrn.com/abstract=4235511
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+3,829
+ABSTRACT VIEWS
+9,679
+RANK
+6,547
+PlumX Metrics
+Related eJournals
+
+HKUST Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

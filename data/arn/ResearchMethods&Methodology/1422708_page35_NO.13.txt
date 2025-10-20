@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Crises and Bank Failures: A Review of Prediction Methods
+
+FRB of Cleveland Working Paper No. 09-04R
+
+34 Pages Posted: 22 Jun 2009 Last revised: 1 Nov 2010
+
+Yuliya Demyanyk
+
+University of Illinois at Chicago
+
+Iftekhar Hasan
+
+Fordham University ; Bank of Finland; University of Sydney
+
+There are 2 versions of this paper
+
+Date Written: September 4, 2009
+
+Abstract
+
+In this article we provide a summary of empirical results obtained in several economics and operations research papers that attempt to explain, predict, or suggest remedies for financial crises or banking defaults; we also outline the methodologies used in them. We analyze financial and economic circumstances associated with the U.S. subprime mortgage crisis and the global financial turmoil that has led to severe crises in many countries. The intent of this article is to promote future empirical research for preventing bank failures and financial crises.
+
+Keywords: subprime, financial crisis, mortgage, bank failure, operations research
+
+JEL Classification: G01, G15, G21, C44, C45
+
+Suggested Citation:
+
+Demyanyk, Yuliya and Hasan, Iftekhar, Financial Crises and Bank Failures: A Review of Prediction Methods (September 4, 2009). FRB of Cleveland Working Paper No. 09-04R, Available at SSRN: https://ssrn.com/abstract=1422708
+Download This Paper
+ 
+Open PDF in Browser
+81 References
+W H Chen , J Y Shih
+A study of Taiwan's issuer credit rating systems using support vector machines
+Expert Systems with Applications , volume 30 , p. 427 - 435 Posted: 2006
+Crossref
+M A Boyacioglu , Y Kara , O K Baykan
+Predicting bank financial failures using neural networks, support vector machines and multivariate statistical methods: A comparative analysis in the sample of savings deposit insurance fund (SDIF) transferred banks in Turkey
+Expert Systems with Applications , volume 36 , issue 2 Posted: 2008
+Crossref
+A Demirguc-Kunt , E Detragiache
+Cross-country empirical studies of systemic bank distress: A survey Posted: 2005
+Crossref
+J Bell , D Pain
+Leading indicator models of banking crises-a critical review
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,422
+ABSTRACT VIEWS
+6,643
+RANK
+16,530
+81 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Déjà Vu All Over Again: The Causes of U.S. Commercial Bank Failures This Time Around
+
+By Rebel A. Cole and Lawrence J. White
+
+Financial Crises and Bank Failures: A Review of Prediction Methods
+
+By Yuliya Demyanyk and Iftekhar Hasan
+
+Ability of Accounting and Audit Quality Variables to Predict Bank Failure During the Financial Crisis
+
+By Justin Yiqiang Jin, Kiridaran (giri) Kanagaretnam, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

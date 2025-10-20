@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Numerical Simulations of Asymmetric First-Price Auctions - discussion paper
+
+41 Pages Posted: 16 Apr 2010 Last revised: 5 Jan 2011
+
+Gadi Fibich
+
+Tel Aviv University - School of Mathematical Sciences
+
+Nir Gavish
+
+Technion-Israel Institute of Technology - Faculty of Mathematics
+
+Date Written: November 1, 2009
+
+Abstract
+
+The standard method for computing the equilibrium strategies of asymmetric first-price auctions is the backward-shooting method. In this study we show that the backward-shooting method is inherently unstable, and that this instability cannot be eliminated by changing the numerical methodology of the backward solver. Moreover, this instability becomes more severe as the number of players increases. We then present a novel boundary-value method for computing the equilibrium strategies of asymmetric first-price auctions. We demonstrate the robustness and stability of this method for auctions with any number of players, and for players with mixed types of distributions, including both common distributions and distributions with more than one crossings. Finally, we use the boundary-value method to study large auctions with hundreds of players, to compute the rate at which large auctions first-price and second-price auctions become revenue equivalent, and to study auctions in which the distributions cannot be ordered according to first-order stochastic dominance.
+
+JEL Classification: C63, D44, C72, D82
+
+Suggested Citation:
+
+Fibich, Gadi and Gavish, Nir, Numerical Simulations of Asymmetric First-Price Auctions - discussion paper (November 1, 2009). Available at SSRN: https://ssrn.com/abstract=1589722 or http://dx.doi.org/10.2139/ssrn.1589722
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+140
+ABSTRACT VIEWS
+1,664
+RANK
+475,518
+10 Citations
+22 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Recommended Papers
+
+Asymmetric First-Price Auctions: A Dynamical Systems Approach
+
+By Gadi Fibich and Nir Gavish
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

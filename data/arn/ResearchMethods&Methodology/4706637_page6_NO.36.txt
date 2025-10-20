@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Impression Management in Sustainability Reports: A Graph Analysis of Companies Listed on the Corporate Sustainability Index of the Brazilian Stock Exchange
+
+19 Pages Posted: 25 Jan 2024
+
+Ricardo Lopes Cardoso
+
+Brazilian School of Public and Business Administration; Rio de Janeiro State Univ., FAF
+
+Ian Dias Veloso de Almeida
+
+Rio de Janeiro State University
+
+Johnny Oliveira da Silva
+
+Rio de Janeiro State University
+
+William Araujo da Silva
+
+Rio de Janeiro State University
+
+Abstract
+
+This study investigates impression management (IM) in sustainability reports of publicly traded companies on the Brazilian stock exchange's Corporate Sustainability Index (ISE-B3). It explores the use of graphs and potential correlations between companies' sustainability index prominence and graphical elements. Analyzing 2022 sustainability reports from 34 firms, we utilize the US-SEC's 'Plain English Handbook' to identify IM. Key findings reveal strategically crafted graphs presenting company-favorable information, using presentation enhancement techniques. Despite commonalities in graph features, a significant proportion of pie charts are divided into more than three parts, and material discrepancies favor the company's interests, confirming IM. Surprisingly, no observed association exists between a company's sustainability index weight and the presentation of materially distorted graphs, challenging the initial hypothesis. This study highlights potential biases in graph disclosure, advocating for regulatory measures and increased market supervision scrutiny. The findings emphasize transparency and accuracy's pivotal role in corporate communication for investors and stakeholders.
+
+Keywords: Impression Management, Sustainability Reports, Graph, Corporate Sustainability Index, Environmental-Social-Governance (ESG), Brazilian Stock Exchange, ISE-B3, Relative Graph Discrepancy (RGD), Measurement distortion, Presentation Enhancement, Selectivity
+
+Suggested Citation:
+
+Cardoso, Ricardo Lopes and Almeida, Ian Dias Veloso de and Silva, Johnny Oliveira da and Silva, William Araujo da, Impression Management in Sustainability Reports: A Graph Analysis of Companies Listed on the Corporate Sustainability Index of the Brazilian Stock Exchange. Available at SSRN: https://ssrn.com/abstract=4706637 or http://dx.doi.org/10.2139/ssrn.4706637
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+MCSE, instituído pela Resolução Normativa nº 444, de 26 de outubro de Posted: 2001
+Vivien ; Beattie , Michael Jones , John
+The use and abuse of graphs in annual reports: Theoretical framework and empirical study. Accounting and business research , volume 22 , p. 291 - 303 Posted: 1992
+Vivien ; Beattie , M Jones
+Corporate reporting using graphs: A review and synthesis
+Journal of Accounting Literature , volume 27 , p. 71 - 110 Posted: 2008
+N M Brennan , E Guillamon-Saorin , A Pierce
+Methodological Insights: Impression management: developing and illustrating a scheme of analysis for narrative disclosures-a methodological note
+Accounting, Auditing & Accountability Journal , volume 22 , issue 5 , p. 789 - 832 Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+170
+ABSTRACT VIEWS
+1,024
+RANK
+403,165
+37 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

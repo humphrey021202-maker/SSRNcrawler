@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Nested Factor Model for Non-Linear Dependences in Stock Returns
+
+23 Pages Posted: 14 Sep 2013
+
+Rémy Chicheportiche
+
+Ecole Centrale Paris
+
+Jean-Philippe Bouchaud
+
+Capital Fund Management
+
+Date Written: September 12, 2013
+
+Abstract
+
+The aim of our work is to propose a natural framework to account for all the empirically known properties of the multivariate distribution of stock returns. We define and study a "nested factor model", where the linear factors part is standard, but where the log-volatility of the linear factors and of the residuals are themselves endowed with a factor structure and residuals. We propose a calibration procedure to estimate these log-vol factors and the residuals. We find that whereas the number of relevant linear factors is relatively large (10 or more), only two or three log-vol factors emerge in our analysis of the data. In fact, a minimal model where only one log-vol factor is considered is already very satisfactory, as it accurately reproduces the properties of bivariate copulas, in particular the dependence of the medial-point on the linear correlation coefficient, as reported in Chicheportiche and Bouchaud (2012). We have tested the ability of the model to predict Out-of-Sample the risk of non-linear portfolios, and found that it performs significantly better than other schemes.
+
+Suggested Citation:
+
+Chicheportiche, Rémy and Bouchaud, Jean-Philippe, A Nested Factor Model for Non-Linear Dependences in Stock Returns (September 12, 2013). Available at SSRN: https://ssrn.com/abstract=2324754 or http://dx.doi.org/10.2139/ssrn.2324754
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+R Allez , J P Bouchaud
+Individual and collective stock dynamics: intra-day seasonalities
+New Journal of Physics Posted: 2011
+Crossref
+D Bartz , K Hatrick , C W Hesse , K R Müller , S Lemm
+Directional Variance Adjustment: improving covariance estimates for high-dimensional portfolio optimization. arXiv preprint qfin Posted: 2012
+N Blomqvist
+On a measure of dependence between two random variables
+The Annals of Mathematical Statistics , volume 21 , p. 593 - 600 Posted: 1950
+Crossref
+J P Bouchaud , M Potters
+Theory of Financial Risk and Derivative Pricing: from Statistical Physics to Risk Management Posted: 2003
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+138
+ABSTRACT VIEWS
+1,433
+RANK
+481,162
+1 Citations
+22 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

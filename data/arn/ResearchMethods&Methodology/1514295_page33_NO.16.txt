@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Compositionality of Accounting Information Back to Basics
+
+69 Pages Posted: 29 Nov 2009 Last revised: 13 Mar 2012
+
+K. R. Pertsemlidis
+
+National Technical University of Athens (NTUA)
+
+Date Written: March 12, 2012
+
+Abstract
+
+Is the double-entry theory of financial statements able to serve the complexity and transparency of accounting information demanded by contemporary audiences? If yes, why the noise in the accounting communication system becomes uncontrollable under complex settings? This fact is interpreted by the present paper as a sign calling for reengineering the low-level structure of accounting transactions. In this context, Pacioli’s treatise is upgraded to comply with modern systems thinking and more specifically with three innate properties of networks of economic events, namely (i) independence of actions (expenditures, expenses, revenues, and cash flows) from accounts (physical assets, financial assets, financial liabilities, and earnings), (ii) structural coupling of physical and financial networks, and (iii) compositionality of the constituents of economic events. In this new frame of reference, the syntactic and semantic paradoxes (the nonarticulation of financial statements, the debate on conceptual primacy, etc.) are resolved resulting in consistent data structures that ameliorate the pragmatic relevance of empirical research and revitalize the semi-finished accounting innovations of the 1960s.
+
+Keywords: compositionality, binary syntax, double-entry layout, acyclic accounting digraphs and networks, Cartesian database, FASB/IASB Conceptual Framework, 4D Frame of Reference, ERPs
+
+JEL Classification: C60, C67, D23, E21, M15, M41
+
+Suggested Citation:
+
+Pertsemlidis, Konstantinos R., The Compositionality of Accounting Information Back to Basics (March 12, 2012). Available at SSRN: https://ssrn.com/abstract=1514295 or http://dx.doi.org/10.2139/ssrn.1514295
+Download This Paper
+ 
+Open PDF in Browser
+157 References
+P B Andersen , C Emmeche , N O Finnemann , P V Christiansen
+Downward Causation Posted: 2000
+J K Arrow
+Methodological Individualism and Social Knowledge
+The American Economic Review , volume 84 , issue 2 , p. 1 - 9 Posted: 1994
+W Arthur , B
+The Nature of Technology: What It Is and How It Evolves Posted: 2009
+A Arya , J C Fellingham , J C Glover , D A Schroeder , G Strang
+Inferring Transactions from Financial Statements
+Contemporary Accounting Research , volume 17 , issue 3 , p. 365 - 385 Posted: 2000
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+334
+ABSTRACT VIEWS
+3,099
+RANK
+206,108
+157 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+History of Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Theory Deficit in Accounting
+
+By George J. Staubus
+
+The Theory Deficit in Accounting
+
+By George J. Staubus
+
+Financial Statement Analysis and Valuation Spreadsheets
+
+By Dhananjay (dan) K. Gode and James A. Ohlson
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

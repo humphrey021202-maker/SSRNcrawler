@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Conservatism Principle and Asymmetric Preferences Over Reporting Errors
+
+Behavioral Research in Accounting (2024) 36 (2): 1–26.
+
+64 Pages Posted: 17 Jul 2020 Last revised: 17 Mar 2025
+
+Jivas Chakravarthy
+
+University of Texas at Arlington - Department of Accounting
+
+Timothy W. Shields
+
+Chapman University - The George L. Argyros College of Business and Economics; Chapman University - Economic Science Institute
+
+Date Written: August 1, 2023
+
+Abstract
+
+Accounting conservatism has been described as deriving from preferences for reporting errors to be in the direction of understatement rather than overstatement. We pair Reporters with Users (who rely on Reporters’ information) in a multi-period experiment. We posit that under misaligned incentives that motivate aggressive reporting, Users view aggressive reports as reflecting exploitative intent and expect that a norm prohibiting aggressive reporting applies. We predict that Users use noisy reporting errors to gauge Reporters’ norm compliance. We find that, ceteris paribus, Users prefer not to be paired with Reporters producing overstatement errors likely to reflect aggressive reporting relative to Reporters producing understatement errors likely to reflect conservative reporting; alternatively, we find no such asymmetric preferences when the agents’ motives are aligned. The asymmetric preferences cannot be explained by agency theory predictions of payoff maximization or loss aversion. These moral preferences provide an initial condition from which conservatism can endogenously emerge.
+
+Keywords: accounting conservatism; experimental economics; fairness intentions; moral hazard; normative expectations; trustworthiness, experimental economics, fairness intentions, moral hazard, normative expectations, trustworthiness
+
+JEL Classification: B52, D81, D82, M41
+
+Suggested Citation:
+
+Chakravarthy, Jivas and Shields, Timothy W., The Conservatism Principle and Asymmetric Preferences Over Reporting Errors (August 1, 2023). Behavioral Research in Accounting (2024) 36 (2): 1–26., Available at SSRN: https://ssrn.com/abstract=3635015 or http://dx.doi.org/10.2139/ssrn.3635015
+Download This Paper
+ 
+Open PDF in Browser
+95 References
+H Y Abdel-Rahim , D E Stevens
+Information system precision and honesty in managerial reporting: A re-examination of information asymmetry effects. Accounting
+Organizations and Society , volume 64 , p. 31 - 43 Posted: 2018
+A S Ahmed , B K Billings , R M Morton , M Stanford-Harris
+The Role of Accounting Conservatism in Mitigating Bondholder-Shareholder Conflicts over Dividend Policy and in Reducing Debt Costs
+The Accounting Review , volume 77 , issue 4 , p. 867 - 890 Posted: 2002
+A A Alchian
+Uncertainty, Evolution, and Economic Theory
+Journal of Political Economy , volume 58 , issue 3 , p. 211 - 221 Posted: 1950
+Apb
+Statement of the Accounting Principles Board: Basic Concepts and Accounting Principles Underlying Financial Statements of Business Enterprises Posted: 1970
+Load more
+1 Citations
+Jivas Chakravarthy , Kay-Yut Chen , Triza Nganga , Timothy W. Shields
+Making Talk Less Cheap: The Social Value of Honest Managers
+52 Pages · Posted: 18 Feb 2025 · Last revised: 18 Feb 2025 · Downloads: 62
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+219
+ABSTRACT VIEWS
+1,955
+RANK
+318,538
+1 Citations
+95 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

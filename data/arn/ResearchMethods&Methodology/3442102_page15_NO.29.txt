@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Initial Stage Clustering When Estimating Accounting Quality Measures With Self-Organizing Maps
+
+Expert Systems with Applications, vol. 42, no. 21, pp. 8327-8336, November 2015
+
+33 Pages Posted: 24 Aug 2019
+
+Jesper Haga
+
+Hanken School of Economics - Department of Finance and Statistics
+
+Jimi Siekkinen
+
+Hanken School of Economics
+
+Dennis Sundvik
+
+Hanken School of Economics
+
+Date Written: July 02, 2015
+
+Abstract
+
+This study introduces self-organizing maps as a clustering approach for several measures in accounting that rely on local linear regression-based estimation models with an initial and essential clustering phase. Clustering by industry is the most frequently used approach in prior literature when estimating measures such as real activities manipulation or accruals quality. However, this approach has been subject to criticism due to its association with sample attrition and biased outcome measures. The purpose of our study is to develop and evaluate the performance of a self-organizing map (SOM) local regression-based estimation model for several measures of accounting quality. The SOM is built by utilizing general firm characteristics such as regular balance sheet items as cluster variables instead of model specific variables. According to the results, our SOM local regression models outperform previously suggested clustering methods. Simulation tests show that estimation models based on SOM clustering with general firm characteristics detect abnormality in the accounting quality measures much better than previously used clustering methods. By utilizing the SOM approach, the estimation process of the measures is significantly improved which results in more accurate outcome measures that can be used in various contexts including expert systems designed for auditors and investors.
+
+Keywords: Accounting quality, Clustering, Earnings management, Self-organizing maps
+
+JEL Classification: M40, C45
+
+Suggested Citation:
+
+Haga, Jesper and Siekkinen, Jimi and Sundvik, Dennis, Initial Stage Clustering When Estimating Accounting Quality Measures With Self-Organizing Maps (July 02, 2015). Expert Systems with Applications, vol. 42, no. 21, pp. 8327-8336, November 2015, Available at SSRN: https://ssrn.com/abstract=3442102
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+G Barreto
+Time series prediction with the self-organizing map: a review
+Perspectives on Neural-Symbolic Intergration Posted: 2007
+Crossref
+V Bernard , D Skinner
+What motivates managers' choice of discretionary accruals?
+Journal of Accounting and Economics , volume 22 , p. 313 - 325 Posted: 1996
+Crossref
+J Brickley , J Zimmerman
+Corporate governance myths: comments on Armstrong, Guay and Weber
+Journal of Accounting and Economics , volume 50 , p. 235 - 245 Posted: 2010
+Crossref
+C Budayan , I Dikmen , T Birgonul
+Comparing the performance of traditional cluster analysis, self-organizing maps and fuzzy C-means method for strategic grouping
+Expert Systems with Applications , volume 36 , p. 11772 - 11781 Posted: 2009
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+51
+ABSTRACT VIEWS
+665
+RANK
+914,805
+30 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

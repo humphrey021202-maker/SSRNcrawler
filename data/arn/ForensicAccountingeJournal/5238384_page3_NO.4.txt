@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Committee Gender Diversity and Its Impact on Earnings Quality
+
+35 Pages Posted: 7 May 2025
+
+Onipe Adabenege Yahaya
+
+Nigerian Defence Academy
+
+Date Written: May 01, 2025
+
+Abstract
+
+The persistent concerns over financial reporting credibility and the role of governance structures have heightened scholarly interest in the impact of boardroom diversity on earnings quality. Despite growing advocacy for gender inclusion, empirical evidence on the influence of audit committee gender diversity on earnings quality remains inconclusive, particularly in emerging markets. This study investigates the relationship between the gender composition of audit committees and the quality of reported earnings among 150 publicly listed firms in Nigeria from 2014 to 2023. The primary objective is to determine whether increased female representation on audit committees enhances earnings quality, as measured by discretionary accruals. A quantitative research design was employed, using secondary panel data from annual reports. The study applied a random effects panel regression model alongside robust diagnostic tests to analyze the impact of gender diversity while controlling for firm-specific characteristics. Findings reveal that audit committees with a higher proportion of female members are significantly associated with reduced discretionary accruals, suggesting a positive influence on earnings quality. The results support the notion that gender-diverse audit committees exhibit stronger oversight and ethical vigilance, thereby enhancing financial reporting credibility. It is concluded that gender diversity on audit committees contributes to better earnings quality, aligning with agency and resource dependence theories. The study recommends that regulators and corporate boards institute genderinclusive policies to strengthen audit committee effectiveness. Limitations include potential omitted variable bias and reliance on accounting-based proxies for earnings quality. Future research may explore crosscountry comparisons and alternative governance mechanisms. The originality of this study lies in its focused examination of audit committee gender diversity, distinct from board-level diversity, and its direct linkage to earnings quality, offering novel insights for policy-makers, investors, and scholars in corporate governance.
+
+Keywords: audit committee gender diversity, earnings quality, firm leverage, firm size JEL Classification: C23, C58, C87, M21, M24, M48
+
+Declaration of Interest
+
+None
+
+Ethics Approval
+
+none
+
+Funder Statement
+
+Self
+
+Suggested Citation:
+
+Yahaya, Onipe Adabenege, Audit Committee Gender Diversity and Its Impact on Earnings Quality (May 01, 2025). Available at SSRN: https://ssrn.com/abstract=5238384 or http://dx.doi.org/10.2139/ssrn.5238384
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+189
+ABSTRACT VIEWS
+1,404
+RANK
+366,257
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

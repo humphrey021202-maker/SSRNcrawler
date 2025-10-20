@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring information in analyst reports: A machine learning approach
+
+Rotman School of Management Working Paper No. 3925176
+
+15 Pages Posted: 20 Sep 2021
+
+Charles Martineau
+
+University of Toronto - Rotman School of Management and UTSC Management
+
+Marius Zoican
+
+University of Calgary - Haskayne School of Business
+
+Date Written: September 16, 2021
+
+Abstract
+
+How to quantify the informational content of analyst reports? In this short methodological paper, we propose a measure of information contribution (IC), defined in the spirit of Shapley values. We use natural language processing to identify topics for over 90,000 analyst reports for S&P 500 stocks between January 2018 to May 2020. Next, we build the IC measure as the average cosine distance between the topic distribution for a particular report and any subset of competitor reports. A first preliminary finding is that the informational content of reports in "crowded stocks" is 41% lower than for reports in low-coverage stocks. Second, team-authored reports are 36% more informative than individual reports and women-authored reports are 12% more informative than men-authored reports.
+
+Keywords: analyst reports, natural language processing, Shapley value, information
+
+JEL Classification: G11, G24, G40, D83, M41
+
+Suggested Citation:
+
+Martineau, Charles and Zoican, Marius, Measuring information in analyst reports: A machine learning approach (September 16, 2021). Rotman School of Management Working Paper No. 3925176, Available at SSRN: https://ssrn.com/abstract=3925176 or http://dx.doi.org/10.2139/ssrn.3925176
+Download This Paper
+ 
+Open PDF in Browser
+7 References
+Gustaf Bellstam , Sanjai Bhagat , Anthony Cookson
+A text-based analysis of corporate innovation
+Management Science , volume 67 , p. 4004 - 4031 Posted: 2021
+David M Blei , Y Andrew , Michael I Ng , Jordan
+Latent dirichlet allocation
+Journal of Machine Learning Research , volume 3 , p. 993 - 1022 Posted: 2003
+Casey Dougal , Joseph Engelberg , Diego Garcia , Christopher A Parsons
+Journalists and the stock market
+The Review of Financial Studies , volume 25 , p. 639 - 679 Posted: 2012
+Jillian Grennan
+A corporate culture channel: How increased shareholder governance reduces firm value, Available at SSRN 2345384 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+532
+ABSTRACT VIEWS
+2,142
+RANK
+120,270
+7 References
+PlumX Metrics
+Related eJournals
+
+University of Toronto - Rotman School of Management Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

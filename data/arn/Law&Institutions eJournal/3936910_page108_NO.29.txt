@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Inventory Planning and Tax Incentives for Charitable Giving
+
+33 Pages Posted: 5 Oct 2021 Last revised: 2 Jun 2022
+
+Anil Arya
+
+Ohio State University (OSU) - Fisher College of Business
+
+Tyler Atanasov
+
+Purdue University
+
+Brian Mittendorf
+
+Ohio State University (OSU) - Fisher College of Business
+
+Dae-Hee Yoon
+
+Yonsei University
+
+Date Written: May 27, 2022
+
+Abstract
+
+Many of America’s top corporate donors share a common feature: the bulk of their giving is in the form of in-kind products, not cash. This phenomenon is not a coincidence but rather a result of the tax code creating such a preference due to an “enhanced” deduction for inventory donations. In this paper, we examine a model of inventory choice under uncertainty and demonstrate that enhanced tax deductions not only promote giving, they also notably influence inventory planning and accelerate learning of customer demand. We then show how enhanced deductions serve as a robust means through which socially-optimal inventory stocking decisions can be implemented. Besides effectively aligning priorities of the firm with those of the social planner in each period, the implementing approach gives credence to tax deductions seen in practice in that the mechanism specifies deductions that exceed the taxpayer’s standard cost basis.
+
+Keywords: charitable giving; corporate philanthropy; enhanced tax deductions; inventory; taxation
+
+JEL Classification: D21, H21, H25, L31, M40
+
+Suggested Citation:
+
+Arya, Anil and Atanasov, Tyler and Mittendorf, Brian and Yoon, Dae-Hee, Inventory Planning and Tax Incentives for Charitable Giving (May 27, 2022). Available at SSRN: https://ssrn.com/abstract=3936910 or http://dx.doi.org/10.2139/ssrn.3936910
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+K Anand , R Anupindi , Y Bassok
+Strategic inventories in vertical contracts
+Management Science , volume 54 , p. 1792 - 1804 Posted: 2008
+A Arya , B Mittendorf
+Supply chain consequences of subsidies for corporate social responsibility , volume 24 , p. 1346 - 1357 Posted: 2015
+S Baiman , S Netessine , R Saouma
+Informativeness, incentive compensation, and the choice of inventory buffer
+The Accounting Review , volume 85 , p. 1839 - 1860 Posted: 2010
+K Balakrishnan , J Blouin , W Guay
+Tax aggressiveness and corporate transparency
+The Accounting Review , volume 94 , p. 45 - 69 Posted: 2019
+Load more
+3 Citations
+Helen Flannery , Brian Mittendorf
+Reshaping Charity Channels: How Assets Flow into and out of Donor-Advised Funds
+Fisher College of Business Working Paper · 33 Pages · Posted: 18 Jan 2024 · Last revised: 13 Mar 2025 · Downloads: 252
+Download PDF  Add Paper to My Library
+Ionela Andreicovici , Nava Cohen , Alessandro Ghio , Luc Paugam
+Donations in the Dark
+ESCP Business School Research Paper · 57 Pages · Posted: 13 Mar 2024 · Last revised: 9 Jul 2025 · Downloads: 204
+Download PDF  Add Paper to My Library
+Chao Tang , Xin Wang , Gaoqing Zhang
+Managing Systemic Disruptions in Supply Chains: The Roles of Dual Transparencies
+HKUST Business School Research Paper No. 2024-184 · 51 Pages · Posted: 21 Oct 2024 · Last revised: 20 Mar 2025 · Downloads: 129
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+243
+ABSTRACT VIEWS
+1,612
+RANK
+287,617
+3 Citations
+29 References
+PlumX Metrics
+Related eJournals
+
+Ohio State University, Fisher College of Business Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

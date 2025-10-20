@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Navigating the Split-Holding-Period Rules for Partnership Interests
+
+The Tax Lawyer, Vol. 77, No. 3, Spring 2024, pp 503-574
+
+72 Pages Posted: 5 Jan 2024
+
+Steven Z. Hodaszy
+
+Robert Morris University
+
+Date Written: December 1, 2023
+
+Abstract
+
+When a partner contributes a capital asset or a section 1231 asset to her partnership in exchange for her interest in the partnership, section 1223(1) provides that her holding period for the contributed asset tacks—i.e., is added to—her holding period for the partnership interest. This ensures that, if the partner sells her partnership interest within one year, any deferred long-term capital gain on the contributed asset retains its long-term character when the partner recognizes it at the time of the sale. When a partner contributes more than one asset to her partnership and receives only a portion of her partnership interest in exchange for a contributed capital asset or section 1231 asset, there needs to be a mechanism for determining the portion of the partner’s holding period for her interest to which the partner’s holding period for the contributed capital or section 1231 asset tacks. The split-holding-period rules in regulation § 1.1223-3 provide that mechanism.
+
+Unfortunately, although the split-holding-rules serve a necessary purpose, the current formulation of regulation § 1.1223-3 is both needlessly complex and substantially flawed. Much of the complexity comes from “special” rules in paragraphs (b)(4) and (e) of the regulation to disregard a partner’s contribution of section 751 assets and to bifurcate contributed section 1231 assets with built-in section 1245 recapture income, respectively. The rules concerning treatment of section 1245 recapture income have been a particular source of confusion for some commentators.
+
+The most troubling flaw relates to the formula in regulation § 1.1223-3(b)(1) for dividing a partner’s holding period for her partnership interest. Under that formula, when a partner sells her partnership interest within one year, a portion of her capital gain attributable to partnership assets other than the capital or section 1231 asset she contributed, is often treated as long-term. Because that portion of the partner’s gain does not derive from the partner’s continued investment in the contributed asset, it should instead be treated as short-term capital gain and taxed at the partner’s marginal rate for ordinary income. Given the preferential long-term capital gain rates for individual taxpayers, this flaw in the regulation often provides an unwarranted tax break for short-term sellers of partnership interests.
+
+This article provides a detailed review of the split-holding-period rules in regulation § 1.1223-3, to make sense out of the confusion they often cause. Then, the article explains precisely how the rules create an unjustified tax windfall for a partner who sells her partnership interest within one year after acquiring the interest from the partnership.
+
+Finally, this article proposes specific textual revisions to regulation § 1.1223-3, which would eliminate the regulation’s flaws and reduce its complexity. If the article’s recommended changes to regulation § 1.1223-3 were made, the split-holding-period rules would continue to serve their intended purpose of preserving the character of deferred long-term capital gain on an asset that a partner contributes to her partnership. At the same time, however, the rules would no longer be susceptible to misuse, to convert other gain on a short-term sale of a partnership interest to long-term capital gain.
+
+Keywords: Partnerships, Holding Period, Sec. 1223(1), Reg. 1.1223-3
+
+JEL Classification: K34
+
+Suggested Citation:
+
+Hodaszy, Steven Z., Navigating the Split-Holding-Period Rules for Partnership Interests (December 1, 2023). The Tax Lawyer, Vol. 77, No. 3, Spring 2024, pp 503-574, Available at SSRN: https://ssrn.com/abstract=4663941
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+256
+ABSTRACT VIEWS
+1,761
+RANK
+273,040
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

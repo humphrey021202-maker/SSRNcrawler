@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Failing Faithful Representations of Financial Statements: Issues in Reporting Financial Instruments
+
+Abdel-Khalik, A. Rashad, Failing Faithful Representations of Financial Statements: Issues in Reporting Financial Instruments (October 2, 2019).
+
+33 Pages Posted: 17 Apr 2019 Last revised: 4 Mar 2020
+
+A. Rashad Abdel-Khalik
+
+University of Illinois at Urbana-Champaign - Department of Accountancy
+
+Date Written: March 21, 2019
+
+Abstract
+
+Available at SSRN: https://ssrn.com/abstract=3357733
+
+Both the International Financial Reporting Standards (IFRSs) and the codified accounting standards (ASC) for the US GAAP categorize hedging relationships as falling into several buckets. The two buckets of relevance in this paper are (a) hedging the volatility of fair values, and (b) hedging the volatility of future cash flow. In this paper, I argue that at least three accounting treatments of derivatives and hedging lead to creating serious distortion of reporting actual transactions, to combining hard and plastic valuations, and to violating adherence to the principle of “faithful representation.” The three accounting treatments are as follows: (1) Creating the fictional Hypothetical Derivatives Method. (2) Allowing for the establishment of purely discretionary valuation adjustments for all of OTC derivative assets (Credit Valuation Adjustment) and liabilities (Debt Valuation Adjustment) without any guides or constraints. (3) Requiring subjective metaphysical separation of embedded derivatives with the main guide being the management’s own perception of the instrument’s embodiment of unrelated value and risk generators. To remedy the resulting distortion in financial reporting, significant revisions of certain accounting standards are sorely needed.
+
+
+Keywords: OTC Derivatives; Hypothetical Derivatives; Embedded Derivatives; CVA and DVA
+
+JEL Classification: M40, M41, M48
+
+Suggested Citation:
+
+Abdel-Khalik, A. Rashad, Failing Faithful Representations of Financial Statements: Issues in Reporting Financial Instruments (March 21, 2019). Abdel-Khalik, A. Rashad, Failing Faithful Representations of Financial Statements: Issues in Reporting Financial Instruments (October 2, 2019). , Available at SSRN: https://ssrn.com/abstract=3357733 or http://dx.doi.org/10.2139/ssrn.3357733
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+117
+ABSTRACT VIEWS
+1,480
+RANK
+552,835
+1 Citations
+12 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

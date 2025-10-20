@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of U.S. Country-by-Country Reporting on U.S. Multinationals’ Tax-Motivated Income Shifting and Real Activities
+
+65 Pages Posted: 14 Jun 2022 Last revised: 21 Oct 2024
+
+Michelle L. Nessa
+
+Michigan State University - The Eli Broad College of Business and The Eli Broad Graduate School of Management
+
+Anh Persson
+
+University of Illinois at Urbana-Champaign - Gies College of Business - Department of Accountancy
+
+Jane Z. Song
+
+University of Missouri - Trulaske College of Business
+
+Erin Towery
+
+University of Georgia
+
+Mary E. Vernon
+
+University of Illinois at Chicago - Department of Accounting
+
+Date Written: October 11, 2024
+
+Abstract
+
+The Organization for Economic Co-operation and Development introduced country-by-country reporting (CbCR) for multinational enterprises (MNEs) to help tax authorities combat tax-motivated income shifting. This study uses confidential U.S. tax administrative data from 2011 to 2018 to examine the effect of U.S. CbCR adoption on the tax-motivated income shifting and real activities of U.S. MNEs. We first document that while U.S. CbCR provides the Internal Revenue Service with incremental information about the location of U.S. MNEs’ global activities relative to existing U.S. tax return disclosures, we observe substantial overlap between U.S. CbCR and existing disclosures. In contrast with prior CbCR studies in cross-country settings, we fail to find evidence of a change in U.S. MNEs’ tax-motivated income shifting or a reallocation of real activities based on tax incentives in response to U.S. CbCR using multiple empirical approaches. Overall, our study leverages U.S.
+
+Keywords: Country-by-country reporting, disclosure regulation, BEPS, income shifting, IRS
+
+JEL Classification: G38; G39; H20; H25; H26
+
+Suggested Citation:
+
+Nessa, Michelle L. and Persson, Anh and Song, Jane (Zhiyan) and Towery, Erin and Vernon, Mary, The Effect of U.S. Country-by-Country Reporting on U.S. Multinationals’ Tax-Motivated Income Shifting and Real Activities (October 11, 2024). Available at SSRN: https://ssrn.com/abstract=4130818 or http://dx.doi.org/10.2139/ssrn.4130818
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+Joshua D Angrist , Jörn-Steffen Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2009
+Vladimir Atanasov , Bernard Black
+Shock-Based Causal Inference in Corporate Finance and Accounting Research
+Critical Finance Review , volume 5 , p. 207 - 304 Posted: 2016
+Jennifer Blouin , Leslie A Robinson
+Double Counting Accounting: How Much Profit of Multinational Enterprises Is Really in Tax Havens?
+SSRN Scholarly Paper Posted: 2020
+Sebastian Calonico , Matias D Cattaneo , Max H Farrell
+Optimal Bandwidth Choice for Robust Bias-Corrected Inference in Regression Discontinuity Designs
+The Econometrics Journal , volume 23 , p. 192 - 210 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+424
+ABSTRACT VIEWS
+1,524
+RANK
+157,700
+7 Citations
+35 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate & Financial Law: Interdisciplinary Approaches eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

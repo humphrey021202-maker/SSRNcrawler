@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Backing Away from ESG? The Effect of Sovereign Rating Downgrades on Corporate Sustainability
+
+Journal of Corporate Finance, Forthcoming
+
+94 Pages Posted: 29 Feb 2024 Last revised: 2 Aug 2025
+
+Periklis Boumparis
+
+Newcastle University Business School
+
+Chris Florackis
+
+University of Liverpool (UK)
+
+Omrane Guedhami
+
+University of South Carolina - Moore School of Business
+
+Sushil Sainani
+
+University of Liverpool
+
+Date Written: November 28, 2024
+
+Abstract
+
+We examine how sovereign rating downgrades affect firms’ environmental, social, and governance (ESG) policies, leveraging the sovereign “ceiling” rule as a quasi-natural experiment that generates exogenous variation in corporate credit ratings. Under this rule, firms originally rated at or above the sovereign rating (bound firms) face a higher likelihood of downgrade following a sovereign downgrade. Using a difference-in-differences (DiD) setting, we find that bound firms experience a decline in ESG performance following a sovereign downgrade. This decline occurs only after the downgrade, not before, validating the parallel trends assumption. Our analysis further indicates that this effect is not driven by financing frictions and is concentrated in countries with a shareholder-centric orientation, and among firms with low institutional ownership from countries with strong social norms. Additional evidence suggests that affected firms experience an increase in ESG-related incidents, damaging their reputation post-downgrade. Overall, our findings underscore the crucial role of sovereign risk in shaping corporate sustainability practices. 
+
+Keywords: JEL classification: G24, H63, M14 Credit Ratings, Sovereign Downgrade, ESG, Corporate Sustainability, Markets and Institutions JEL classification: G24, H63, M14 Credit Ratings, Sovereign Downgrade, ESG, Corporate Sustainability, Markets and Institutions
+
+JEL Classification: G24, H63, M14
+
+Suggested Citation:
+
+Boumparis, Periklis and Florackis, Chris and Guedhami, Omrane and Sainani, Sushil, Backing Away from ESG? The Effect of Sovereign Rating Downgrades on Corporate Sustainability (November 28, 2024). Journal of Corporate Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4731519 or http://dx.doi.org/10.2139/ssrn.4731519
+Download This Paper
+ 
+Open PDF in Browser
+98 References
+V V Acharya , T Eisert , C Eufinger , C Hirsch
+Real effects of the sovereign debt crisis in Europe: Evidence from syndicated loans
+The Review of Financial Studies , volume 31 , p. 2855 - 2896 Posted: 2018
+M Adelino , M A Ferreira
+Bank ratings and lending supply: Evidence from sovereign downgrades
+The Review of Financial Studies , volume 29 , p. 1709 - 1746 Posted: 2016
+R Aggarwal , I Erel , M Ferreira , P Matos
+Does governance travel around the world? Evidence from institutional investors
+Journal of Financial Economics , volume 100 , p. 154 - 181 Posted: 2011
+P Akey , S Lewellen , I Liskovich , C Schiller
+Hacking corporate reputations. Rotman School of Management Working Paper Posted: 2024
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+163
+ABSTRACT VIEWS
+1,785
+RANK
+418,259
+98 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

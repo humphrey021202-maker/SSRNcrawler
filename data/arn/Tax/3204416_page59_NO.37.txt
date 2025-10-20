@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Estimating and imputing missing tax loss carryforward data to reduce measurement error
+
+European Accounting Review (forthcoming)
+
+48 Pages Posted: 4 Oct 2018 Last revised: 29 Apr 2021
+
+Malte Max
+
+VU University Amsterdam - Department of Accounting
+
+Jacco L. Wielhouwer
+
+Vrije Universiteit Amsterdam
+
+Eelke Wiersma
+
+VU University, Amsterdam; VU University Amsterdam - Department of Accounting
+
+Date Written: April 29, 2021
+
+Abstract
+
+The ability to reduce current and future taxable income with prior years’ taxable losses is highly relevant for explaining firms’ effective tax rates. Compustat data on the tax loss carryforward (TLCF) are, however, often missing. We propose a method to estimate values for the missing TLCF data instead of the common practice in the literature of imputing zero values. In order to assess the accuracy of our method, we compare our estimated TLCFs with (i) a random selection of 10-K data and (ii) Compustat data for firm-years where Compustat data is available. The results show that our estimated values align very closely with the reported data. Re-analyzing Frank et al. (2009) shows that imputing our estimated values instead of zeros leads to a large decrease in measurement error. This reduces the risk that firms with missing data and low effective tax rates are incorrectly classified as tax aggressive. Consistent with this, a re-analysis of Dyreng et al. (2017) shows that using our estimated TLCFs leads to economically and statistically different conclusions compared to imputing zeros. Using our estimated values thus increases the probability of correct inferences in studies that use Compustat TLCF data. The estimated values are available from https://doi.org/10.34894/N9J1WE.
+
+Keywords: tax loss carryforward, measurement error, tax aggressiveness, imputation
+
+JEL Classification: C52, H25, H26, H32, M41
+
+Suggested Citation:
+
+Max, Malte and Wielhouwer, Jacco L. and Wiersma, Eelke and Wiersma, Eelke, Estimating and imputing missing tax loss carryforward data to reduce measurement error (April 29, 2021). European Accounting Review (forthcoming), Available at SSRN: https://ssrn.com/abstract=3204416 or http://dx.doi.org/10.2139/ssrn.3204416
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+233
+ABSTRACT VIEWS
+2,292
+RANK
+299,879
+3 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

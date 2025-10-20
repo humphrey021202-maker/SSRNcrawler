@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The effects of disconnecting the group and parent accounts on earnings persistence and cash flow predictability
+
+
+
+Kelley School of Business Research Paper No. 2021-32
+
+55 Pages Posted: 5 May 2021 Last revised: 13 Feb 2025
+
+Fabio Moraes da Costa
+
+University of Iowa - Henry B. Tippie College of Business; FUCAPE Business School
+
+Anne Ehinger
+
+Florida State University
+
+Wolfgang Schultze
+
+University of Augsburg
+
+Samuel L. Tiras
+
+Indiana University - Kelley School of Business
+
+Date Written: February 13, 2025
+
+Abstract
+
+Corporations within the E.U. maintain group accounts that serve as the basis for a firm’s consolidated financial accounting and parent accounts that typically serve as the basis for taxation and other regulatory reporting. While historically, a country’s Local GAAP served as the accounting basis for both the firm’s group and parent accounts, the mandatory adoption of IFRS for group accounts in 2005 prompted E.U. countries to consider whether to retain the Local GAAP as the basis for a firm’s parent accounts. We examine this country-level strategic choice of continuing to require the use of Local GAAP for the parent accounts with the adoption of IFRS for group accounts, effectively decoupling tax reporting from financial reporting, and the effect of this choice on earnings persistence and cash flow predictability of the consolidated financial statements. Using a difference-in-difference approach and controlling for other synchronous changes surrounding the 2005 choice, we find earnings persistence and cash flow predictability increased upon adoption for firms in countries that decoupled, relative to a control sample. Our findings persist when we utilize a comparability-matched subsample as our control sample. Further, our results hold across both high and low levels of pre-adoption book-tax conformity (BTC). Finally, we perform a within-treatment subsample analysis by comparing the effects of decoupling on earnings persistence for group versus parent accounts, finding that BTC continues to be reflective of a firm’s tax strategy with respect to the parent accounts, but not in the group accounts. Overall, our results suggest that consolidated financial reporting increases in earnings persistence and cash flow predictability when decoupling relaxes the effect of tax reporting incentives on financial reporting.
+
+Keywords: Earnings Persistence, Cash Flow Predictability, Financial Reporting Quality, Group versus Parent Accounts, Accounting Basis
+
+JEL Classification: F23, G18, H25, M41
+
+Suggested Citation:
+
+da Costa, Fabio Moraes and Ehinger, Anne and Schultze, Wolfgang and Tiras, Samuel L.,
+The effects of disconnecting the group and parent accounts on earnings persistence and cash flow predictability
+
+
+(February 13, 2025). Kelley School of Business Research Paper No. 2021-32, Available at SSRN: https://ssrn.com/abstract=3837467 or http://dx.doi.org/10.2139/ssrn.3837467
+Download This Paper
+ 
+Open PDF in Browser
+78 References
+A Ahmed , M Neel , D Wang
+Does mandatory adoption of IFRS improve accounting quality? Preliminary evidence
+Contemporary Accounting Research , volume 30 , issue 4 , p. 1344 - 1372 Posted: 2013
+A Ali , L.-S Hwang
+Country-specific factors related to financial reporting and the value relevance of accounting data
+Journal of Accounting Research , volume 38 , issue 1 , p. 1 - 21 Posted: 2000
+P André , M Schaubschläger , W Schultze
+The cash-relevance of IFRS -European legislation regarding dividends and taxation in the context of IFRS reporting. Working paper Posted: 2021
+C Armstrong , M Barth , A Jagolinzer , E Riedl
+Market reaction to the adoption of IFRS in Europe
+The Accounting Review , volume 85 , issue 1 , p. 31 - 61 Posted: 2010
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+228
+ABSTRACT VIEWS
+1,274
+RANK
+306,268
+78 References
+PlumX Metrics
+Related eJournals
+
+Indiana University Kelley School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

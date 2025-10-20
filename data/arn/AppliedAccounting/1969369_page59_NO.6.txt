@@ -1,0 +1,94 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+ESO Accounting: New GAAP Standard
+
+Paper presented at Tenth NIRMA International Conference on Management (NICOM-2007): Enhancing Enterprise Competitiveness Organized by Institute of Management, NIRMA University, Ahamdabad on January 5-7, 2007
+
+Posted: 7 Dec 2011
+
+Pankaj M. Madhani
+
+Former Dean (Academics) & Professor
+
+Date Written: December 7, 2011
+
+Abstract
+
+Accounting for employee stock options (ESO) has been one of the most controversial topics in accounting during the last decade. After the wave of recent corporate scandals, the controversy over employee stock options has intensified and arguments are being made in favor of expensing ESO in the actual income statement. FAS 123(R) is the new financial accounting standard introduced by the Financial Accounting Standards Board (FASB) that requires companies to deduct the amount of share-based (equity) payment granted to their employees on an annual basis. There are a number of different ways to compute the fair value of stock options. One of the most popular is the Black-Scholes option-pricing model, which was developed to compute the value of publicly traded European stock options. More sophisticated models, such as lattice or binomial option pricing, are becoming a more common means of computing the fair value of employee stock options, as they handle more option plan provisions than the Black-Scholes model does, but are more complex. FAS 123(R) enhances transparency in financial reporting and improve corporate governance standard.
+
+Keywords: Employee stock options, ESO, Accounting standard
+
+Suggested Citation:
+
+Madhani, Pankaj M., ESO Accounting: New GAAP Standard (December 7, 2011). Paper presented at Tenth NIRMA International Conference on Management (NICOM-2007): Enhancing Enterprise Competitiveness Organized by Institute of Management, NIRMA University, Ahamdabad on January 5-7, 2007, Available at SSRN: https://ssrn.com/abstract=1969369
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,261
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Liabilities Sukuk vis-à-vis Equity Sukuk and the Profitability of UAE Islamic Banks
+
+12 Pages Posted: 17 Jun 2024
+
+Sulaiman Mouselli
+
+Arab International University
+
+Alaa Salhani
+
+Arab International University
+
+Reem Bahlawan
+
+Damascus university
+
+Date Written: June 11, 2024
+
+Abstract
+
+Purpose Liabilities sukuk and equity sukuk are recorded on the liabilities and equity side of Islamic banks’ statements of financial position. Tier One sukuk are equity sukuk with special characteristics of loss absorption and perpetuity to meet Basel III requirements. This paper attempts to investigate if the impact of Liabilities sukuk on the profitability of Islamic banks differs from that of Tier One sukuk. Design / methodology / approach The dataset contains all Islamic banks in the United Arab Emirates that issued liabilities sukuk or Tier One sukuk from 2008 to 2021. We compiled 88 observations from 7 Islamic banks over 14 years. Then, we applied panel OLS multivariate linear regression models using pooled, fixed effects, and random effects methods. The suitable estimation method was selected based on the redundant fixed effects test and the Hausman test. Findings The results of this study reveal novel findings. Liabilities sukuk reduces all profitability indicators. That is, Liabilities sukuk are costly, and issuing more of this sukuk will damage the return to shareholders. Hence, we conclude that Liabilities sukuk do not encourage managers to better utilise bank resources and do not necessarily change the appetite of those banks to engage in riskier activities. Research limitations The effect of Liabilities sukuk on the profitability of Islamic banks is only investigated in the UAE. It will be interesting to conduct an out-of-sample test of this relationship in other Islamic countries to accommodate institutional differences. Moreover, we examine only the effect of issuing Liabilities sukuk on Islamic banks’ profitability and not on their risk. These limitations represent venues for future research. Practical implications Islamic banks should avoid issuing liabilities sukuk and increase their issuance of Tier One sukuk. Moreover, we encourage investors to buy stocks of Islamic banks that have larger Tier One Sukuk while avoiding investing in Islamic banks that utilise liabilities sukuk because the latter rewards them lower EPS. Originality / value  This paper contributes to sukuk literature in threefold. First, it complements the prevailing literature on how sukuk affects Islamic banks’ profitability. Second, this study shows that Liabilities sukuk neither enhances the profitability indicators of Islamic banks nor improves the utilisation of banks’ assets. These findings support the signaling theory projections that Liabilities sukuk are costly and Islamic banks should only resort to them if other sources of funding are unavailable. Third, this study runs a horse race between two sources of funds for Islamic banks to test how each source affects profitability
+
+Keywords: Liabilities sukuk, Tier One Sukuk, Profitability, Islamic banks, United Arab Emirates
+
+Suggested Citation:
+
+Mouselli, Sulaiman and Salhani, Alaa and Bahlawan, Reem, Liabilities Sukuk vis-à-vis Equity Sukuk and the Profitability of UAE Islamic Banks (June 11, 2024). Available at SSRN: https://ssrn.com/abstract=4861296 or http://dx.doi.org/10.2139/ssrn.4861296
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+67
+ABSTRACT VIEWS
+879
+RANK
+792,195
+2 Citations
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

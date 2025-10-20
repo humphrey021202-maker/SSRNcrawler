@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring Real Activity Management
+
+45 Pages Posted: 24 Mar 2011 Last revised: 21 Jul 2019
+
+Daniel A. Cohen
+
+Vanderbilt University - Owen Graduate School of Management
+
+Shail Pandit
+
+University of Illinois at Chicago; University of Illinois at Chicago
+
+Charles E. Wasley
+
+Simon School, University of Rochester
+
+Tzachi Zach
+
+Ohio State University (OSU) - Department of Accounting & Management Information Systems
+
+There are 2 versions of this paper
+
+Date Written: July 17, 2019
+
+Abstract
+
+To test hypotheses about earnings management many studies investigate managers’ manipulation of real activities (real earnings management, REM). Tests using measures of abnormal REM hinge critically on the measurement of normal real activities. Yet there is no systematic evidence on the statistical properties of commonly-used REM measures. We provide such evidence by documenting the Type I error rates and power of the test of the REM measures commonly used in the literature. We find these measures are often mis-specified with Type I error rates that deviate from the nominal significance level of the test, especially in samples of firms with extreme performance or firm characteristics. We also compare the specification and power of traditional REM measures with performance-matched REM measures to see if the latter provide better specified and more powerful tests. While performance-matched REM measures are not immune from mis-specification in all settings, in general, they are better specified under the null hypothesis (i.e., in terms of Type I errors) than are traditional REM measures. Comparisons of the power to detect abnormal REM reveal that neither approach, traditional or performance-matched, is consistently more powerful than the other in terms of detecting abnormal REM ranging from 1% to 10% of (lagged) total assets. The absence of a dominant approach to measure abnormal REM leads us to recommend that future researchers report results using both traditional and performance-matched measures so that readers are able to clearly assess the reliability of the inferences drawn about the magnitude and significance of the abnormal REM documented in a given study.
+
+Keywords: Real activity management; real earnings management; earnings management; real activity models, test specification, Type I errors, Type II errors, power of the test, meet or beat, earnings benchmarks, model specification
+
+JEL Classification: M41, C12, C15, M42
+
+Suggested Citation:
+
+Cohen, Daniel A. and Pandit, Shailendra and Pandit, Shailendra and Wasley, Charles E. and Zach, Tzachi, Measuring Real Activity Management (July 17, 2019). Available at SSRN: https://ssrn.com/abstract=1792639 or http://dx.doi.org/10.2139/ssrn.1792639
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+W Alissa , S B Bonsall , K Koharki , M W Penn
+Firms' use of accounting discretion to influence their credit ratings
+Journal of Accounting and Economics , volume 59 , p. 129 - 147 Posted: 2013
+Crossref
+W Baber , P Fairfield , J Haggard
+The effect of concern about reported income on discretionary spending decisions: The case of research and development
+The Accounting Review , volume 66 , issue 4 , p. 818 - 829 Posted: 1991
+B Badertscher
+Overvaluation and the choice of alternative earnings management mechanisms
+The Accounting Review , volume 86 , issue 5 , p. 1491 - 1518 Posted: 2011
+Crossref
+B Barber , J Lyon
+Detecting abnormal operating performance: The empirical power and specification of test statistics
+Journal of Financial Economics , volume 41 , p. 359 - 399 Posted: 1996
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,795
+ABSTRACT VIEWS
+12,282
+RANK
+10,846
+14 Citations
+24 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Detecting Earnings Management: A New Approach
+
+By Patricia Dechow, Amy P. Hutton, ...
+
+A Review of the Earnings Management Literature and its Implications for Standard Setting
+
+By Paul M. Healy and James Michael Wahlen
+
+Errors in Estimating Accruals: Implications for Empirical Research
+
+By Daniel W. Collins and Paul Hribar
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

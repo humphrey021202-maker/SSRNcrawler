@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Non-GAAP Earnings and Board Connectedness in a Multiplex Network
+
+Posted: 18 Mar 2021
+
+Monika Causholli
+
+University of Kentucky - Von Allmen School of Accountancy
+
+Nicole Thorne Jenkins
+
+University of Virginia - McIntire School of Commerce
+
+Valbona Sulcaj
+
+University of Texas at El Paso - Department of Accounting & Information Systems
+
+Date Written: May 2020
+
+Abstract
+
+We examine whether the quality of non-GAAP earnings disclosures varies with the board of directors’ connectedness. We construct a two-layer multiplex network where nodes represent boards while ties represent shared directorships in the first layer and industry membership in the second layer. The overlap between the layers creates a network where central boards have greater access to more relevant information and best practices relative to peripheral boards. We use this multiplex centrality to capture board connectedness. Relying on two governance theories, namely, resource dependence theory and agency theory, we predict that better connected boards in the network are better able to not only mitigate managerial opportunism but also to advise and counsel management in developing and disclosing higher quality non-GAAP earnings. Consistent with our predictions, we find that firms with highly central boards have less persistent non-GAAP exclusions, are less likely to receive a non-GAAP comment from the SEC, and are less likely to use non-GAAP exclusions to meet or beat earnings benchmarks. Our study extends prior literature on the role of corporate governance on non-GAAP earnings quality.
+
+Keywords: Board Connectedness, non-GAAP Earnings, SEC Comment Letters, Multiplex Network, Beta Centrality.
+
+JEL Classification: M40, M41, G30, D85, L14
+
+Suggested Citation:
+
+Causholli, Monika and Jenkins, Nicole Thorne and Sulcaj, Valbona, Non-GAAP Earnings and Board Connectedness in a Multiplex Network (May 2020). Available at SSRN: https://ssrn.com/abstract=3805021
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+701
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

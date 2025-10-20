@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Market Efficiency and Processing Costs
+
+Columbia Law and Economics Working Paper No. 5341753
+
+107 Pages Posted: 17 Jul 2025 Last revised: 20 Jul 2025
+
+Joshua Mitts
+
+Columbia Law School
+
+Moran Ofir
+
+University of Haifa; Reichman University (IDC Herzliya)
+
+Date Written: July 06, 2025
+
+Abstract
+
+This paper examines how processing costs affect market efficiency by exploiting a unique setting where U.S.-Israel dual-listed stocks face mandatory 30-minute trading halts on the Tel Aviv Stock Exchange (TASE) prior to material disclosures, while trading continues uninterrupted in U.S. markets. Due to institutional frictions, many Israeli traders who face lower processing costs for these securities are effectively prevented from trading during these halts. Using intraday trade and quote data from 2007-2024 covering 2,117 trading halts across 96 dual-listed securities, we find that during TASE trading halts, U.S. markets experience significantly increased illiquidity and volatility. We document increases in effective spreads, realized spreads, and quoted spreads, along with decreased market depth and elevated return volatility. These findings suggest that the temporary removal of lower processing-cost traders delays price discovery and increases adverse selection risk, indicating that processing costs affect market efficiency even for publicly disclosed information.
+
+JEL Classification: D53, K22, G12, G14
+
+Suggested Citation:
+
+Mitts, Joshua and Ofir, Moran, Market Efficiency and Processing Costs (July 06, 2025). Columbia Law and Economics Working Paper No. 5341753, Available at SSRN: https://ssrn.com/abstract=5341753 or http://dx.doi.org/10.2139/ssrn.5341753
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+Yakov Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of financial markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+Eli Bartov , Radhakrishnan , Suresh , Krinsky , Itzhak
+Investor sophistication and patterns in stock returns after earnings announcements
+The accounting review , volume 75 , issue 1 , p. 43 - 63 Posted: 2000
+Robert H Battalio , Lerman , Alina , Joshua Livnat , Mendenhall , R Richard
+Who, if anyone, reacts to accrual information
+Journal of Accounting and Economics , volume 53 , issue 1-2 , p. 205 - 224 Posted: 2012
+Sanjai Bhagat , Roberta Romano
+Empirical studies of corporate law. Handbook of law and economics , volume 2 , p. 945 - 1012 Posted: 2007
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+77
+ABSTRACT VIEWS
+527
+RANK
+730,194
+24 References
+PlumX Metrics
+Related eJournals
+
+Columbia Law School, Law & Economics Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CEO Facial Trustworthiness and Corporate Governance
+
+China Accounting & Finance Review, Vol. 24, No. 4, 2022
+
+24 Pages Posted: 11 Aug 2023
+
+bi wenjie
+
+Central South University
+
+Yujie Wang
+
+Central South University
+
+Yi Xiang
+
+Hong Kong Polytechnic University
+
+Feida Zhang
+
+China Europe International Business School (CEIBS); University of Queensland - Accounting and Accountability
+
+Date Written: December 1, 2022
+
+Abstract
+
+Purpose
+In this paper the authors aim to argue that the existence of a strong corporate governance mechanism (a formal credibility-enhancing mechanism) and the presence of a more trustworthy-looking CEO (an informal credibility-enhancing mechanism) are substitutes.
+
+Design/methodology/approach
+By using machine-learning-based facial-feature-point detection technique, the authors construct a proprietary facial-trustworthiness database for a large-scale of CEOs in the US listed companies. First, the authors manually search for qualifying CEO image from websites and annual reports. Second, by following the neuroscience and psychology literature, the authors use the machine-learning-based face detector to identify the facial features in the CEO photos to calculate a rich and reliable set of facial-trustworthiness measures. The authors then construct a composite facial-trustworthiness index for each CEO. After obtaining accounting data, the authors’ final sample comprises 16,201 firm-year observations for 3,186 CEOs in the sample period of 2000-2018.
+
+Findings
+The results of the authors’ regression analyses show a negative association between board monitoring intensity and CEOs' facial trustworthiness, indicating that board directors may factor CEOs' facial trustworthiness into their monitoring decisions. Moreover, the authors find that these results are mainly driven by CEOs whose tenure is below the third quartile (i.e. eight years). The authors further find stronger results for externally hired CEOs than internally promoted CEOs. Finally, the authors’ results remain robust when using change models or subsample of CEO photos in recent years.
+
+Originality/value
+First, to the best of the authors’ knowledge, this is the first study that adopts a large sample to provide systematic evidence on the directors' use of facial trustworthiness. This study extends the literature by documenting the impacts of CEOs' individual characteristics on the board monitoring intensity. Second, the results of this study emphasized the important role of perceptions based on executives' facial appearance in firm valuation, executive compensation and audit fee, and by presenting empirical evidence that CEOs' facial trustworthiness affects board monitoring intensity. Third, this study responds to the call for research on personalized trust by Hsieh et al. (2020).
+
+Keywords: CEO, Facial trustworthiness, Corporate governance
+
+Suggested Citation:
+
+wenjie, bi and Wang, Yujie and Xiang, Yi and Zhang, Feida, CEO Facial Trustworthiness and Corporate Governance (December 1, 2022). China Accounting & Finance Review, Vol. 24, No. 4, 2022, Available at SSRN: https://ssrn.com/abstract=4515804
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+80
+ABSTRACT VIEWS
+733
+RANK
+713,531
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

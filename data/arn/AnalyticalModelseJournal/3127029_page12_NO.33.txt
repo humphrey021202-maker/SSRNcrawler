@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dynamic Investment Models in Accounting Research
+
+64 Pages Posted: 1 Mar 2018
+
+Alexander Nezlobin
+
+London School of Economics
+
+Date Written: February 20, 2018
+
+Abstract
+
+This monograph presents three variants of the neoclassical investment model and characterizes the firm's optimal investment policy, equity value, and the desirable properties of accrual accounting rules in each setting.
+
+Two main questions are considered:
+
+(1) What accounting rules result in the most informative financial statements from the perspective of investors seeking to value the firm's equity? and,
+
+(2) What accounting rules can be efficiently used by shareholders in evaluating the performance of better informed managers?
+
+One accounting treatment, referred to as replacement cost accounting, achieves efficiency along both dimensions.
+
+The notion of replacement cost studied in this monograph corresponds closely to that of fair value, as defined in IFRS 13, in that it is defined as either:
+
+(i) the current price of the capital goods in a perfectly competitive market, if such a market is available, or
+
+(ii) the hypothetical amount that would have to be incurred today to replace the current and future capacity of the capital goods in question.
+
+While the replacement cost rule is, in many settings, unique in providing the firm's shareholders with sufficient information for precise equity valuation, the problem of efficient performance measurement is generally less informationally demanding. For example, under certain plausible conditions, the owners can incentivize a better informed manager to make efficient investment decisions using the straight-line depreciation method.
+
+Keywords: Investment, Valuation, Real Options, Goal Congruence, Performance Measurement, Accounting Rules, Fair Value Measurement, Vintage Capital, Irreversibility
+
+JEL Classification: E22, G31, M41, D82
+
+Suggested Citation:
+
+Nezlobin, Alexander, Dynamic Investment Models in Accounting Research (February 20, 2018). Available at SSRN: https://ssrn.com/abstract=3127029 or http://dx.doi.org/10.2139/ssrn.3127029
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+305
+ABSTRACT VIEWS
+2,397
+RANK
+227,558
+59 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

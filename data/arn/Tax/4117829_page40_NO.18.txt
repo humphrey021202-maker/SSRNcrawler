@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of the Tax Cuts and Jobs Act on Foreign Investment in the United States
+
+IMF Working Paper No. 2022/079
+
+30 Pages Posted: 24 May 2022 Last revised: 1 Jun 2022
+
+Thornton Matheson
+
+The Urban Institute; International Monetary Fund (IMF)
+
+Alexander Klemm
+
+International Monetary Fund (IMF)
+
+Laura Power
+
+Government of the State of Michigan - Department of Treasury
+
+Thomas Brosy
+
+Tax Policy Center
+
+Date Written: May 2022
+
+Abstract
+
+The 2017 Tax Cuts and Jobs Act (TCJA) sharply reduced effective corporate income tax rates on equity-financed US investment. This paper examines the reform’s impact on US inbound foreign direct investment (FDI) and investment in property, plant and equipment (PPE) by foreign-owned US companies. We first model effective marginal and average tax rates (EMTRs and EATRs) by country, industry, and method of finance, and then use those tax rates to calculate the tax semi-elasticities of inbound FDI and PPE investment. We find that both PPE investment and FDI financed with retained earnings responded positively to the TCJA reform, but FDI financed with new equity or debt did not. In country-level PPE regressions, inclusion of macroeconomic controls renders tax rate coefficients insignificant, suggesting that the increase in PPE investment after TCJA was driven by general economic growth. In regressions of FDI financed with retained earnings, however, tax coefficients were robust to inclusion of macroeconomic controls. As the literature predicts, EATRs have a greater impact on cross-border investment than EMTRs. Country-by-industry regressions showed a larger effect of taxes on PPE investment than aggregate country-level regressions, but industry-level tax rates appear to have no effect on earnings retention.
+
+Keywords: TCJA, Inbound Investment, Effective Tax Rates, PPE investment, investment in property, plant and equipment, PPE Investment, inbound foreign direct investment, tax coefficient, Effective tax rate, Foreign direct investment, Marginal effective tax rate, Average effective tax rate, Corporate income tax, Global
+
+JEL Classification: F21, H25, H20
+
+Suggested Citation:
+
+Matheson, Thornton and Klemm, Alexander and power, laura and Brosy, Thomas, The Impact of the Tax Cuts and Jobs Act on Foreign Investment in the United States (May 2022). IMF Working Paper No. 2022/079, Available at SSRN: https://ssrn.com/abstract=4117829
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+C Agostini
+The Impact of State Corporate Taxes on FDI Location
+Public Finance Review , volume 35 , issue 3 , p. 335 - 360 Posted: 2007
+H Amberger , L Robinson
+The Effect of US Tax Reform on Foreign Acquisitions Posted: 2021
+M Arellano , S Bond
+Some Tests of Specification for Panel Data: Monte Carol Evidence and an Application to Employment Data
+Review of Economic Studies , volume 58 , p. 277 - 297 Posted: 1991
+A Auerbach , K Hassett , A Giovannini
+Taxation and Foreign Direct Investment in the United States: A Reconsideration of the Evidence
+Studies in International Taxation Posted: 1993
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+164
+ABSTRACT VIEWS
+954
+RANK
+416,133
+32 References
+PlumX Metrics
+Related eJournals
+
+International Monetary Fund (IMF) Research Paper Series
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

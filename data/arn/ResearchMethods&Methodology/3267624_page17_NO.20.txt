@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+What’s in a Name? Initial Evidence of U.S. Audit Partner Identification Using Difference-in-Differences Analyses
+
+The Accounting Review Vol. 94, No. 5: 139-163, 2019
+
+Posted: 9 Nov 2018 Last revised: 7 Oct 2019
+
+Lauren M. Cunningham
+
+University of Tennessee - Haslam College of Business
+
+Chan Li
+
+University of Kansas
+
+Sarah E. Stein
+
+Virginia Tech
+
+Nicole Wright
+
+James Madison University
+
+Date Written: October 2019
+
+Abstract
+
+We investigate changes in the quality and cost of audit services surrounding PCAOB Rule 3211, which requires disclosure of audit partner names in Form AP. To isolate changes due to Rule 3211 from other confounding factors, we use difference-in-differences analyses with separate control groups, including a group of companies that disclosed partner identities prior to Rule 3211. Our study also incorporates several measures from prior literature to proxy for various dimensions of audit quality. Evidence from the difference-in-differences analyses reveals that any immediate impact of Rule 3211 on audit quality or fees is limited to specific dimensions of audit quality, specific control groups, and/or specific company characteristics. We reach this conclusion after considering alternative research designs and evaluating confidence intervals for statistically insignificant coefficients. We caution that our findings only provide initial evidence and further research is necessary to evaluate other potential impacts of Rule 3211.
+
+Keywords: PCAOB, Rule 3211, Form AP, audit partner, audit quality, audit fees, difference-in-differences
+
+JEL Classification: M42
+
+Suggested Citation:
+
+Cunningham, Lauren M. and Li, Chan and Stein, Sarah E. and Wright, Nicole, What’s in a Name? Initial Evidence of U.S. Audit Partner Identification Using Difference-in-Differences Analyses (October 2019). The Accounting Review Vol. 94, No. 5: 139-163, 2019, Available at SSRN: https://ssrn.com/abstract=3267624
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+4,808
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

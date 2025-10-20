@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Labor Income Taxation in Poland - the Case of High Income Earners
+
+19 Pages Posted: 9 Jul 2020
+
+Maciej Konrad Dudek
+
+University of Michigan, Department of Economics
+
+Date Written: June 15, 2020
+
+Abstract
+
+In this paper we present solutions to the optimal taxation problem in Poland in the case of high income earners. We characterize the actual data provided by the Polish Tax Authority and show that it is thick-tailed in the upper end of the distribution. Specifically, we show that income distribution in Poland can be approximated with a Pareto distribution with parameter equal to 3:44; which makes the Saez’s formula applicable. We show that the value of the optimal marginal tax rates in Poland ranges between 16% and 60% for high income earners depending on the value of the elasticity with respect to the wage. Moreover, we show that the value of the optimal marginal tax rate for high income earners can be close 60% when one accepts - an empirically viable - relatively low value of the elasticity of labor supply with respect to the wage.
+
+Suggested Citation:
+
+Dudek, Maciej Konrad, Optimal Labor Income Taxation in Poland - the Case of High Income Earners (June 15, 2020). Available at SSRN: https://ssrn.com/abstract=3626813 or http://dx.doi.org/10.2139/ssrn.3626813
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+Anthony Atkinson , Thomas Piketty , Emmanuel Saez
+Top Incomes in the Long-Run of History
+Journal of Economic Literature , volume 49 , issue 1 , p. 3 - 71 Posted: 2011
+Crossref
+Andrew Berg , Jonathan D Ostry , Charalambos G Tsangarides
+Redistribution Inequality and Growth Posted: 2014
+Olivier Bargain , Christian Orsini
+Labor Supply Elasticities in Europe and the USA
+IZA DP Np , volume 5820 Posted: 2011
+Peter Diamond
+Optimal Income Taxation: An Example with a U-Shaped Pattern for the Optimal Marginal Rates
+American Economic Review , volume 88 , p. 83 - 95 Posted: 1998
+Load more
+1 Citations
+Maciej Konrad Dudek
+Optimal Taxation in Poland - the CARA Case
+17 Pages · Posted: 29 Nov 2023 · Downloads: 18
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+72
+ABSTRACT VIEWS
+817
+RANK
+759,919
+1 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

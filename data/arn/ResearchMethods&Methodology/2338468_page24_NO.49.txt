@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Cross-Quantilogram: Measuring Quantile Dependence and Testing Directional Predictability between Time Series
+
+57 Pages Posted: 11 Oct 2013 Last revised: 16 Jan 2014
+
+Heejoon Han
+
+Kyung Hee University - Department of Economics
+
+Oliver B. Linton
+
+University of Cambridge
+
+Tatsushi Oka
+
+Keio University
+
+Yoon-Jae Whang
+
+Seoul National University - School of Economics
+
+Date Written: January 2014
+
+Abstract
+
+This paper considers the cross-quantilogram, which measures the quantile dependence between time series. We apply it to test the hypothesis that one time series has no directional predictability to another time series. We establish the asymptotic distribution of the cross quantilogram and the corresponding test statistic. The limiting distributions depend on nuisance parameters. To construct consistent confidence intervals we employ the stationary bootstrap procedure; we show the consistency of this bootstrap. Also, we consider the self-normalized approach, which is shown to be asymptotically pivotal under the null hypothesis of no predictability. We provide simulation studies and two empirical applications. First, we use the cross-quantilogram to detect predictability from stock variance to excess stock return. Compared to existing tools used in the literature of stock return predictability, our method provides more complete relationship between a predictor and stock return. Second, we investigate the systemic risk of individual financial institutions, such as JP Morgan Chase, Goldman Sachs and AIG.
+
+Keywords: Quantile, Correlogram, Dependence, Predictability, Systemic risk
+
+JEL Classification: C12, C13, C14, C22
+
+Suggested Citation:
+
+Han, Heejoon and Linton, Oliver B. and Oka, Tatsushi and Whang, Yoon-Jae, The Cross-Quantilogram: Measuring Quantile Dependence and Testing Directional Predictability between Time Series (January 2014). Available at SSRN: https://ssrn.com/abstract=2338468 or http://dx.doi.org/10.2139/ssrn.2338468
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+Notes: Same as Table 2
+T Adrian , M K Brunnermeier
+Sta¤ Reports Posted: 2011
+Crossref
+M Arcones
+Second Order Representations of the Least Absolute Deviation Regression Estimator
+Annals of the Institute of Statistical Mathematics , volume 50 , p. 87 - 117 Posted: 1998
+Crossref
+Dimitrios Bisias , Mark D. Flood , Andrew W. Lo , Stavros Valavanis
+A Survey of Systemic Risk Analytics
+U.S. Department of Treasury, Office of Financial Research No. 0001 Pages: 165 Posted: 11 Jan 2012 Last revised: 16 Mar 2016
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+362
+ABSTRACT VIEWS
+2,684
+RANK
+188,511
+31 Citations
+55 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Recommended Papers
+
+Optimal Bandwidth Selection in Heteroskedasticity-Autocorrelation Robust Testing
+
+By Yixiao Sun, Peter C. B. Phillips, ...
+
+Powerful Trend Function Tests that are Robust to Strong Serial Correlation with an Application to the Prebisch-Singer Hypothesis
+
+By Helle Bunzel and Timothy J. Vogelsang
+
+Consistent Hac Estimation and Robust Regression Testing Using Sharp Origin Kernels with No Truncation
+
+By Peter C. B. Phillips, Yixiao Sun, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

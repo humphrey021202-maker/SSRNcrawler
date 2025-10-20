@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Detecting Abnormal Changes in Credit Default Swap Spreads Using Matching-Portfolio Models
+
+Journal of Banking and Finance, Forthcoming
+
+44 Pages Posted: 8 Mar 2016 Last revised: 17 Apr 2018
+
+Fabio Bertoni
+
+SKEMA Business School - Paris la Défense Campus
+
+Stefano Lugo
+
+Utrecht University - School of Economics
+
+Date Written: March 30, 2018
+
+Abstract
+
+We evaluate the size and power of different statistical tests and adjustment methods for matching-portfolio models to detect abnormal changes in credit default swap (CDS) spreads. The sign-test generally dominates the signed-rank test in terms of size, and dominates both the t-test and the signed-rank test in terms of power. Traditional adjustment methods often lead to a misspecified sign-test. We propose a new and parsimonious method (the spread-matched method), which leads to a well-specified and more powerful sign-test. The superiority of the spread-matched method is particularly evident for observations characterized by extreme levels of CDS spread. Analyses of CDS samples differing by contract maturity, data source, and time period confirm these results. We perform an event study on rating downgrades to illustrate how the choice of tests and adjustment methods can affect inference.
+
+Keywords: Event studies, Credit default swap, Matching portfolio models, Size and power of tests
+
+JEL Classification: G10, G14
+
+Suggested Citation:
+
+Bertoni, Fabio and Lugo, Stefano, Detecting Abnormal Changes in Credit Default Swap Spreads Using Matching-Portfolio Models (March 30, 2018). Journal of Banking and Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2743243 or http://dx.doi.org/10.2139/ssrn.2743243
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+John D Finnerty , D Cameron , Ren-Raw Miller , Chen
+The impact of credit rating announcements on credit default swap spreads
+Journal of Banking & Finance , volume 37 Posted: 2011
+Crossref
+Koresh Galil , Gil Soffer
+Good news, bad news and rating announcements: An empirical investigation
+Journal of Banking & Finance , volume 35 , p. 3101 - 3119 Posted: 2011
+Crossref
+Balint L Horvath , Harry Huizinga
+Does the european financial stability facility bail out sovereigns or banks? An event study
+Journal of Money, Credit and Banking , volume 47 , p. 177 - 206 Posted: 2015
+Crossref
+John Hull , Mirela Predescu , Alan White
+The relationship between credit default swap spreads, bond yields, and credit rating announcements
+Journal of Banking & Finance , volume 28 , p. 2789 - 2811 Posted: 2004
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+170
+ABSTRACT VIEWS
+1,327
+RANK
+403,165
+1 Citations
+32 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

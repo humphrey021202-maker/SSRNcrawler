@@ -1,0 +1,99 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Evaluating Probabilistic Forecasts of Stock Prices in a Developing Stock Market
+
+European Journal of Operational Research, 74, pp. 350-358, 1994
+
+Posted: 23 Nov 2008
+
+Yaz Gulnur Muradoglu
+
+University of Illinois Springfield
+
+Dilek Onkal
+
+Bilkent University
+
+Date Written: 1994
+
+Abstract
+
+Recent literature on the accuracy of forecasting in financial markets reveals contradictory results. These discrepancies can be attributed to the differences in forecasting environments as well as the differences in forecaster expertise that are employed by the researchers. Since the use of point and interval predictions by themselves do not aid in explaining the various aspects of forecaster performance, probabilistic forecasting provides a better alternative that can be used to gain insight into forecasting accuracy in such settings. This study aims to test the effects of forecaster expertise and forecasting environment on forecasting accuracy. Accordingly, various aspects of forecasting performance are studied in a developing stock-market framework.
+
+Keywords: Forecasting, Probability, Financial, Stock price
+
+Suggested Citation:
+
+Muradoglu, Yaz Gulnur and Onkal, Dilek, Evaluating Probabilistic Forecasts of Stock Prices in a Developing Stock Market (1994). European Journal of Operational Research, 74, pp. 350-358, 1994, Available at SSRN: https://ssrn.com/abstract=1298519
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,572
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Entrepreneurship & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

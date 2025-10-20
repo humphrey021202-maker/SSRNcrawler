@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Population Aging and Labor Cost Management—A Machine-learning Approach
+
+53 Pages Posted: 6 May 2025
+
+Ruirui Fang
+
+Hong Kong Polytechnic University - School of Accounting and Finance
+
+Nan Hu
+
+Singapore Management University
+
+Rong Huang
+
+Fudan University - School of Management
+
+Haonan Wang
+
+Xi’an University of Architecture and Technology
+
+Date Written: April 01, 2024
+
+Abstract
+
+This study investigates the impact of population aging on firms’ labor cost management through the lens of cost stickiness, where costs increase more rapidly than they decrease relative to changes in activity levels. We hypothesize that population aging increases labor cost stickiness, as firms increasingly commit to sustaining an aging workforce and meeting societal expectations regarding responsible employment practices. Applying textual analysis and machine learning methods to firms’ annual reports, we develop a time-varying measure of a firm’s exposure to population aging, enabling a more nuanced examination of how firms adapt strategically to demographic shifts. We find that population aging is significantly and positively related to labor cost stickiness. This relationship is more pronounced for firms in labor-intensive industries, those with strong corporate social responsibility performance, state-owned enterprises, and firms in highly marketized regions. Our results remain robust after addressing endogeneity concerns and ruling out alternative explanations. Overall, this study documents the impact of demographic shifts on firms’ labor cost structures and highlights the critical role of social responsibility in shaping labor cost dynamics.
+
+Keywords: population aging, labor cost management, cost stickiness, machine learning, firm-level measure, textual analysis
+
+Suggested Citation:
+
+Fang, Ruirui and Hu, Nan and Huang, Rong and Wang, Haonan, Population Aging and Labor Cost Management—A Machine-learning Approach (April 01, 2024). Available at SSRN: https://ssrn.com/abstract=5215923 or http://dx.doi.org/10.2139/ssrn.5215923
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+S Aaronson , T Cajner , B Fallick , F Galbis-Reig , C L Smith , W Wascher
+Labor force participation: Recent developments and future prospects Posted: 2014
+D Acemoglu , P Restrepo
+Demographics and automation
+The Review of Economic Studies , volume 89 , issue 1 , p. 1 - 44 Posted: 2022
+M C Anderson , R D Banker , S N Janakiraman
+Are selling, general, and administrative costs "Sticky
+Journal of Accounting Research , volume 41 , issue 1 , p. 47 - 63 Posted: 2003
+R Balakrishnan , M J Petersen , N S Soderstrom
+Does capacity utilization affect the "Stickiness" of cost?
+Journal of Accounting, Auditing & Finance , volume 19 , issue 3 , p. 283 - 300 Posted: 2004
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+31
+ABSTRACT VIEWS
+260
+40 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

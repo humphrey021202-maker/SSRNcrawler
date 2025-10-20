@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+EMERGING SOLUTIONS FOR INTEGRATING BLOCKCHAIN TECHNOLOGY INTO THE FINANCIAL-ACCOUNTING INFORMATION FLOW
+
+10 Pages Posted: 12 Dec 2024 Last revised: 24 Jan 2025
+
+Lucian Gheorghe Nastase
+
+University of Valahia Targoviste
+
+Dumitru Bejinariu
+
+University of Valahia Targoviste
+
+Florin Radu
+
+University of Valahia Targoviste
+
+Date Written: September 12, 2024
+
+Abstract
+
+In the era of accelerated digitalization, blockchain technology is becoming a promising solution for optimizing financial and accounting information flows, bringing transparency, security and efficiency in transaction management. The implementation of blockchain in a Billing Data and Payments/Receipts (CDFPI) confirmation system, highlights how smart contracts and security protocols can reduce the risk of errors and fraud, while ensuring voluntary tax compliance. By integrating the public blockchain, the proposed system offers a robust architecture that guarantees both the confidentiality and verifiability of transactions, contributing to the modernization and security of accounting processes.
+
+Keywords: blockchain technology, smart contract, financial-accounting information flow, eInvoice JEL Classification: F52
+
+Suggested Citation:
+
+Nastase, Lucian Gheorghe and Bejinariu, Dumitru and Radu, Florin, EMERGING SOLUTIONS FOR INTEGRATING BLOCKCHAIN TECHNOLOGY INTO THE FINANCIAL-ACCOUNTING INFORMATION FLOW (September 12, 2024). Available at SSRN: https://ssrn.com/abstract=4979643 or http://dx.doi.org/10.2139/ssrn.4979643
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+P De Filippi , A Wright
+Blockchain and the Law: The Rule of Code Posted: 2020
+J C G Dietrich , S Grüninger
+Blockchain Technology in Accounting: Opportunities and Challenges
+Journal of Accounting and Public Policy Posted: 2019
+V Kanaparthi
+Exploring the Impact of Blockchain, AI, and ML on Financial Accounting Efficiency and Transformation
+International Conference on Multi-Strategy Learning Environment Posted: 2024-01
+E A Zubareva , I V Basantsov , S V Byelov
+Financial e-control: modernization of the state financial control system in the conditions of digital economy
+Journal of Automation and Information Sciences Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+46
+ABSTRACT VIEWS
+425
+4 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

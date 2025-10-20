@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+   
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Synthetic Governance
+
+Columbia Business Law Review, Vol. 2021, p. 476
+
+U of Penn, Inst for Law & Econ Research Paper No. 20-41
+
+European Corporate Governance Institute – Finance Working Paper No. 693/2020
+
+50 Pages Posted: 19 Aug 2020 Last revised: 22 Sep 2021
+
+Byung Hyun Ahn
+
+University of California, Berkeley - Haas School of Business
+
+Jill E. Fisch
+
+University of Pennsylvania Carey Law School; European Corporate Governance Institute (ECGI)
+
+Panos N. Patatoukas
+
+University of California, Berkeley - Haas School of Business
+
+Steven Davidoff Solomon
+
+University of California, Berkeley - School of Law; European Corporate Governance Institute (ECGI)
+
+Date Written: 2021
+
+Abstract
+
+Although securities regulation is distinct from corporate governance, the two fields have considerable substantive overlap. By increasing the transparency and efficiency of the capital markets, securities regulation can also enhance the capacity of those markets to discipline governance decisions. The importance of market discipline is heightened by the increasingly vocal debate over what constitutes “good” corporate governance.
+
+Securities product innovation offers new tools to address this debate. The rise of index-based investing provides a market-based mechanism for selecting among governance options and evaluating their effects. Through the creation of bespoke governance index funds, asset managers can create indexes that correspond to investors’ governance preferences. We argue that this “synthetic governance” offers a way to gather evidence on the economic impact of corporate governance by providing a market-based tool for evaluating the relationship between corporate governance and stock returns.
+
+We illustrate the potential of synthetic governance by creating a new governance-based index, the Dual Index, which selects portfolio companies on the basis of a dual class voting structure and comparing its performance to various benchmarks. We further modify the Dual Index by implementing synthetic sunsets to highlight the value creation of dual class companies in their early years and provide evidence on the appropriate length of a time-based sunset provision. Finally, we expand our analysis of synthetic governance with a second index—the Split Index—which tests the effect of separating the positions of CEO and Chairman of the Board. We conclude that synthetic governance demonstrates the ability of securities market innovation to discipline corporate governance.
+
+
+
+Keywords: Law and economics, corporate governance, capital markets, securities regulation, mutual funds, dual-class stock, shareholder voting, investment choices, asset management, index funds, split board chair and CEO
+
+JEL Classification: G11, G32, G38, K22
+
+Suggested Citation:
+
+Ahn, Byung Hyun and Fisch, Jill E. and Patatoukas, Panos N. and Davidoff Solomon, Steven, Synthetic Governance (2021). Columbia Business Law Review, Vol. 2021, p. 476, U of Penn, Inst for Law & Econ Research Paper No. 20-41, European Corporate Governance Institute – Finance Working Paper No. 693/2020, Available at SSRN: https://ssrn.com/abstract=3645312 or http://dx.doi.org/10.2139/ssrn.3645312
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+E G See , Sanjai Generally , Bernard Bhagat , Black
+The Non-Correlation Between Board Independence and Long-Term Firm Performance, 27
+J. CORP. L , volume 231 Posted: 2002
+Ryan Krause , Matthew Semadeni , Albert A Cannella , Ceo Duality
+A Review and Research Agenda
+40 J. MGMT , volume 256 Posted: 2014
+E G See , Diego Generally , Asensio-López
+Laura Cabeza-García & Nuria González-Álvarez, Corporate Governance and Innovation: A Theoretical Review, 28 EUR
+J. MGMT. & BUS. ECON , volume 266 Posted: 2019
+E G See , Mark S Generally , Beasley
+An Empirical Analysis of the Relation Between the Board of Director Composition and Financial Statement Fraud, 71 ACCT Posted: 1996
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+461
+ABSTRACT VIEWS
+3,579
+RANK
+143,013
+35 References
+PlumX Metrics
+Related eJournals
+
+University of Pennsylvania Carey Law School, Law & Economics Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

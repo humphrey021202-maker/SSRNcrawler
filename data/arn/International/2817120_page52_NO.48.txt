@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Consequences of Mandatory Quarterly Reporting: The U.K. Experience
+
+Columbia Business School Research Paper No. 17-33
+
+52 Pages Posted: 30 Aug 2016 Last revised: 13 Mar 2017
+
+Suresh Nallareddy
+
+University of Washington - Foster School of Business
+
+Robert Pozen
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Shivaram Rajgopal
+
+Columbia University - Columbia Business School, Accounting, Business Law & Taxation
+
+Date Written: March 1, 2017
+
+Abstract
+
+The Securities and Exchange Commission (SEC) is considering the pros and cons of moving to semi-annual reporting from quarterly reporting at least for certain segments of the market. However, documenting causal evidence on the consequences of mandatory quarterly reporting has been difficult, due to either the absence of a clear exogenous shock or older data. We exploit the start of mandatory quarterly reporting by the Financial Conduct Authority (FCA) in 2007 and the end of the requirement in 2014 in the United Kingdom to examine corporate and capital market behavior. After imposition of mandatory quarterly reporting in 2007, we find (i) a dramatic decline in the number of companies that issue reports with quantitative information (defined as including both sales and earnings numbers for the quarter); (ii) a substantial increase in companies announcing managerial guidance for the upcoming year's earnings or sales; and (iii) an increase in analyst following for all sample companies. However, using a difference-in-differences analysis, we find that the imposition of mandatory quarterly reporting has virtually no impact on firms’ investment decisions. Companies that voluntarily moved back from quarterly to semi-annual reporting after 2014 have experienced a reduction in analyst coverage, but no detectable increases in their levels of corporate investments.
+
+Keywords: Quarterly reporting; Analyst following; Investments; Disclosure
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Nallareddy, Suresh and Pozen, Robert and Rajgopal, Shivaram, Consequences of Mandatory Quarterly Reporting: The U.K. Experience (March 1, 2017). Columbia Business School Research Paper No. 17-33, Available at SSRN: https://ssrn.com/abstract=2817120 or http://dx.doi.org/10.2139/ssrn.2817120
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+J Ernstberger , B Link , M Stich , O Vogler
+The real effects of mandatory quarterly reporting. The Accounting Review, Forthcoming Posted: 2016
+Revised directive on transparency requirements for listed companies (transparency directive)-Frequently asked questions
+European Commission , issue 12 Posted: 2013-06
+L Fink
+Letter to CEOs Posted: 2016
+R Fu , A Kraft , H Zhang
+Financial reporting frequency, information asymmetry, and the cost of equity
+Journal of Accounting and Economics , volume 54 , issue 2 , p. 132 - 149 Posted: 2012
+Crossref
+Load more
+27 Citations
+David Yermack
+﻿Corporate Governance and Blockchains
+Review of Finance, Forthcoming · 47 Pages · Posted: 8 Dec 2015 · Last revised: 7 May 2017 · Downloads: 4,913
+Download PDF  Add Paper to My Library
+Hardo Holpus , Ahmad Alqatan , Muhammad Arslan
+Accounting and Finance Innovations
+Posted: 2021
+Crossref
+Tobias Bornemann , Anna-Lena Moosmann , Zoltán Novotny-Farkas
+The Consequences of Abandoning the Quarterly Reporting Mandate in the Prime Market Segment
+European Accounting Review , volume 34 , issue 1 , p. 89 Posted: 2025
+Crossref
+Sofia Johan , Minjie Zhang
+The Palgrave Encyclopedia of Private Equity
+, p. 824 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,469
+ABSTRACT VIEWS
+8,197
+RANK
+29,985
+27 Citations
+20 References
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

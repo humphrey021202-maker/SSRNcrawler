@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Ai-Induced Disclosure Pressure Model and Empirical Evidence from Md&A Reporting
+
+32 Pages Posted: 15 Jul 2025
+
+Keren Bar-Hava
+
+Hebrew University of Jerusalem - Jerusalem School of Business Administration
+
+Abstract
+
+This research introduces a novel theoretical model: the AI-Induced Disclosure Pressure Model, which explains how artificial intelligence (AI) is reshaping corporate narrative disclosures in the MD&A section of annual reports. Grounded in agency theory, signaling theory, and information economics, the model identifies three core pressures, exposure, competitive, and reputational, that AI imposes on managers ex ante, transforming AI from a passive reader to an active force in disclosure behavior.By analyzing 108 MD&A sections from 27 of the largest firms in the S&P 100 between 2021 and 2024, the study reveals that positive tone is no longer a reliable indicator of strong performance. Rather, firms increasingly use upbeat language to manage perceptions while strategic truth leaks through uncertainty terms, now the clearest tonal signal of weak fundamentals. This performative optimism is not accidental; it is algorithm-aware.
+
+Keywords: MD&A, Artificial Intelligence, Disclosure Pressure, Narrative Tone, Textual Analysis
+
+Suggested Citation:
+
+Bar-Hava, Keren, The Ai-Induced Disclosure Pressure Model and Empirical Evidence from Md&A Reporting. Available at SSRN: https://ssrn.com/abstract=5353022 or http://dx.doi.org/10.2139/ssrn.5353022
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+G A Akerlof
+The Market for "Lemons": Quality Uncertainty and the Mechanism
+Quarterly Journal of Economics , volume 84 , issue 3 , p. 488 - 500 Posted: 1970
+D Araci
+FinBERT: Financial sentiment analysis with pre-trained language models Posted: 2019
+R Ball , P Brown
+An Empirical Evaluation of Accounting Income Numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+K Bar-Hava , S Huang , B Segal , D Segal
+Do independent directors tell the truth, the whole truth, and nothing but the truth when they resign
+Journal of Accounting, Auditing & Finance , volume 36 , issue 1 , p. 3 - 29 Posted: 2021
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+34
+ABSTRACT VIEWS
+280
+21 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

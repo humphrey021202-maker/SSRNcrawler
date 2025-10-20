@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fiscal Policy and Optimal Taxation in Sierra Leone: Testing for Tax Smoothing Hypothesis
+
+International Journal of Economics and Finance Archives Vol. 14, No. 2
+
+14 Pages Posted: 17 Jan 2022
+
+Samuel Bonzu
+
+Ministry of Finance, Sierra Leone
+
+Date Written: January 7, 2022
+
+Abstract
+
+This paper empirically investigates whether the budget imbalances in Sierra Leone over the review period is consistent with optimal tax policy. The procedure involves testing if tax smoothing hypothesis hold for Sierra Leone. In this regard, three different empirical approaches were performed. Firstly, I examine the random walk property of the tax rate. The null hypothesis of non-stationarity of tax rate could not be rejected, which implies the tax rate follows random walk. Second, I examined whether changes in tax rate is predictable by regressing changes in tax rate by its own lagged values. The result shows that tax rate is unpredictable, as changes in tax cannot be determined by its lagged values. Finally, a VAR model was employed to examine whether tax rate can be predicted by its own lagged values together with changes in the government spending rate and the growth rate of real GDP. The results indicate that all the variables employed were found not be significant is predicating the tax rate. Overall, all the empirical estimations support the existence of tax smoothing over the sample period and that the budget imbalances over the review period is consistent with optimal tax policy.
+
+Keywords: fiscal sustainability, budget deficits, public debt
+
+JEL Classification: H20, H21,E62,]
+
+Suggested Citation:
+
+Bonzu, Samuel, Fiscal Policy and Optimal Taxation in Sierra Leone: Testing for Tax Smoothing Hypothesis (January 7, 2022). International Journal of Economics and Finance Archives Vol. 14, No. 2, Available at SSRN: https://ssrn.com/abstract=4009463
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+G Abuselidze
+The influence of optimal tax burden on economic activity and production capacity
+Intelektinė ekonomika , volume 6 , issue 4 , p. 493 - 503 Posted: 2012
+C Agiakloglou , P Newbold
+Empirical evidence on Dickey-Fuller-type tests
+Journal of Time Series Analysis , volume 13 , issue 6 , p. 471 - 483 Posted: 1992
+J Ashworth , L Evans
+Seigniorage and tax smoothing in developing countries
+Journal of Economic Studies Posted: 1998
+R J Barro
+On the determination of the public debt
+Journal of political Economy , volume 87 , issue 5 , p. 940 - 971 Posted: 1979
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+62
+ABSTRACT VIEWS
+312
+RANK
+826,677
+46 References
+PlumX Metrics
+Related eJournals
+
+Macroeconomics: Monetary & Fiscal Policies eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analyses of Unintended Consequences of IAS 12 Adoption on Deferred Taxes
+
+38 Pages Posted: 29 Sep 2022
+
+Jude Edeigba
+
+Colorado Mesa University
+
+Date Written: August 21, 2022
+
+Abstract
+
+This study examined IAS 12 implementation and listed firms deferred taxes in different accounting regimes. A z-score analysis is used to compare pre and post deferred taxes and the explanatory variables. The final analysis includes a T-Test and pooled ordinary least square regression that tests the relationships among the covariates. The deferred tax values between pre and post-IAS 12 adoption are significantly different. This suggests that IAS 12 affects the value of deferred taxes. The variation between the deferred taxes pre and post-IAS 12 is associated with the values of assets, liabilities and revenue. Earlier studies have discussed several issues associated with deferred taxes such as measurement, income and expenses recognition and their effects on deferred tax values while this research focused on how IAS 12 unintendedly addresses an intractable issue between tax and accounting rules by examining how well deferred taxes reduce or increase following IAS 12 adoption.
+
+Suggested Citation:
+
+Edeigba, Jude, Analyses of Unintended Consequences of IAS 12 Adoption on Deferred Taxes (August 21, 2022). Available at SSRN: https://ssrn.com/abstract=4196196 or http://dx.doi.org/10.2139/ssrn.4196196
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+B Panel , V Taffler , R J
+Deferred Tax Asset Post-IAS 12 Adoption , volume 256 , p. 285 - 300 Posted: 0953
+S Aisbitt
+Tax and accounting rules: some recent developments
+European Business Review , volume 14 , issue 2 , p. 92 - 97 Posted: 2002
+A Ali , L.-S Hwang
+Country-specific factors related to financial reporting and the value relevance of accounting data
+Journal of accounting research , volume 38 , issue 1 , p. 1 - 21 Posted: 2000
+A Alkurdi , G H Mardini , M G Sandmo , A
+The impact of ownership structure and the board of directors' composition on tax avoidance strategies: empirical evidence from Jordan
+Journal of Financial Reporting and Accounting Allingham , volume 1 , issue 3-4 , p. 323 - 338 Posted: 1972
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+374
+ABSTRACT VIEWS
+1,328
+RANK
+181,909
+40 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimized Tax Loss Harvesting: A Simple Algorithm and Framework
+
+34 Pages Posted: 18 Jul 2022
+
+Roni Israelov
+
+Independent
+
+Jason Lu
+
+International Monetary Fund (IMF) - Research Department
+
+Date Written: July 11, 2022
+
+Abstract
+
+When should you harvest a tax loss? Tax-loss harvesting is a strategy used to improve the net of tax returns of a portfolio, where an investor deliberately sells assets that have incurred a loss in order to use these losses to offset current or future capital gains. However, an important unanswered question is at what threshold should an investor harvest a loss. Specifically, the wash sale rule prevents an investor from realizing the harvested loss if they repurchase a security within 30 calendar days of their harvesting sale. Those who wish to realize a harvested loss must remain uninvested in the security for at least 30 days and hence investors ought to be somewhat selective when choosing to harvest. The wash sale rule thus places loss harvesting into a classic risk-reward paradigm, creating a trade-off between harvesting yield and active risk. In this paper we empirically document such a trade-off and provide guidance on when to harvest losses. We offer a rule-of thumb return threshold of -10% when harvesting monthly or -15% when harvesting daily. This rule of-thumb threshold sits on a frontier of efficient thresholds, from which harvesting yield is traded off against active risk. Furthermore, for out-sized positions in a portfolio, we propose and analyze a throttled harvesting algorithm which controls the active risk arising from loss harvesting. Although harvesting efficiency depends on the stock’s volatility and whether harvesting is throttled over time, we find our suggested rule-of-thumb to be a robust choice in a variety of settings.
+
+Keywords: Direct Indexing; Loss Harvesting; Tax Loss Harvesting; Tax Alpha; Tax Efficiency; Tax Optimization; Tax-Aware Investing
+
+JEL Classification: D14, G11, H21, H24
+
+Suggested Citation:
+
+Israelov, Roni and Lu, Jason, Optimized Tax Loss Harvesting: A Simple Algorithm and Framework (July 11, 2022). Available at SSRN: https://ssrn.com/abstract=4152425 or http://dx.doi.org/10.2139/ssrn.4152425
+Download This Paper
+ 
+Open PDF in Browser
+14 References
+Shomesh E Chaudhuri , C Terence , Andrew W Burnham , Lo
+An Empirical Evaluation of Tax-Loss-Harvesting Alpha
+Financial Analysts Journal , volume 76 , p. 99 - 108 Posted: 2020
+Andrew L Berkin , Christopher G Luck
+Having Your Cake and Eating It Too: The Before-and After-Tax Efficiencies of an Extended Equity Mandate
+Financial Analysts Journal , volume 66 , p. 33 - 45 Posted: 2010
+Andrew L Berkin , Jia Ye
+Tax management, loss harvesting, and HIFO accounting
+Financial Analysts Journal , volume 59 , p. 91 - 102 Posted: 2003
+Michael F Gallmeyer , Ron Kaniel , Stathis Tompaidis
+Tax management strategies with multiple risky assets
+Journal of Financial Economics , volume 80 , issue 2 , p. 243 - 291 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,327
+ABSTRACT VIEWS
+5,109
+RANK
+34,805
+14 References
+PlumX Metrics
+Related eJournals
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+
+Wealth Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

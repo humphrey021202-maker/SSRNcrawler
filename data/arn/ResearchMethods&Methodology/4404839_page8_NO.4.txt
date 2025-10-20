@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Forecasting Earnings Variance: Quantiles-Based Vs. Residuals-Based Approaches
+
+40 Pages Posted: 13 Apr 2023 Last revised: 3 Apr 2024
+
+Luca Brunke
+
+University of Cologne - Department of Corporate Finance
+
+Date Written: March 30, 2023
+
+Abstract
+
+This study aims to compare different earnings variance forecasting approaches to derive information about future earnings uncertainty. That is, a newly introduced residuals-based forecasting approach and the two existing quantiles-based forecasting approaches by Konstantinidi and Pope (2016) and Chang, Monahan, Ouazad and Vasvari (2021) are compared with regard to their forecast accuracy on industry- as well as firm-level. The results imply that the new residuals-based forecasting approach performs best in forecasting earnings variance on industry-level. Further, this study introduces two firm-level tests for the evaluation of the accuracy of earnings variance forecasts, which are not yet explored in this field of research. The approach by Konstantinidi and Pope (2016) leads to the most accurate firm-level earnings variance forecasts emphasizing the importance of the chosen level of aggregation when evaluating forecasts. All three approaches result in earnings variance forecasts with relevance for equity prices, i.e. produce variance forecasts with a negative and significant relationship with the earnings-to-price and the book-to-market ratio, implying that equity prices are increasing in the variance of future earnings.
+
+Keywords: Earnings Prediction, Earnings Variance, Higher Moments
+
+JEL Classification: G17, G32, M41
+
+Suggested Citation:
+
+Brunke, Luca, Forecasting Earnings Variance: Quantiles-Based Vs. Residuals-Based Approaches (March 30, 2023). Available at SSRN: https://ssrn.com/abstract=4404839 or http://dx.doi.org/10.2139/ssrn.4404839
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+Adrian , T , J Rosenberg
+Stock Returns and Volatility: Pricing the Short-Run and Long-Run Components of Market Risk
+The Journal of Finance , volume 63 , p. 2997 - 3030 Posted: 2008
+S Alizadeh , M W Brandt , F X Diebold
+Range-Based Estimation of Stochastic Volatility Models
+The Journal of Finance , volume 57 , p. 1047 - 1091 Posted: 2002
+J D Angrist , J.-S Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2009
+S P Baginski , J M Wahlen
+Residual Income Risk, Intrinsic Values, and Share Prices
+The Accounting Review , volume 78 , p. 327 - 351 Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+136
+ABSTRACT VIEWS
+705
+RANK
+487,089
+51 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

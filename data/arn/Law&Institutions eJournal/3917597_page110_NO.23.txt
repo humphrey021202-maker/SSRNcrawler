@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Operational Distortion: Compound Effects of Short-termism and Competition
+
+Management Science, volume 68, issue 8, 2022[10.1287/mnsc.2021.4204]
+
+56 Pages Posted: 7 Sep 2021 Last revised: 30 May 2025
+
+Xiaoyan Liu
+
+Santa Clara University, Leavey School of Business
+
+William Schmidt
+
+Emory University - Information Systems and Operations Management
+
+Date Written: January 28, 2022
+
+Abstract
+
+Practitioners and academics alike have argued that a firm's interest in its short-term capital market valuation (short-termism) is harmful to the firm's long-term profit. Their argument is intuitive -- when a firm exhibits short-termism, its decision making will cater to the short-term at the expense of the long-term. Some practitioners claim that the adverse effects of increased short-termism become particularly acute in competitive markets. However, there is little academic research that examines the compound effect of short-termism and competition on a firm's operational choices and long-term profit. In this paper, we provide a rigorous analytical model to examine how short-termism and competition can interact to induce a firm to distort its capacity investment and affect its long-term profit. We model a firm that has private information about its market demand, which can be either high or low and is captured by the firm's type. Signaling this private information can influence both the investor's valuation and the competitor's entry decision. We find that operational distortion can emerge not only when short-termism is large, but also when it is small. In fact, when short-termism is sufficiently small, both firm types will distort their operational decision by under-investing in a pooling outcome. We show, however, that the impact of short-termism on a firm's long-term profit is not monotonically negative, and a certain level of short-termism can be beneficial to a firm's long-term profit. The positive impact of incremental short-termism is robust to alternative modeling assumptions, including the form of competition and the investor's risk profile.
+
+Keywords: operational distortion, short-termism, competition, information asymmetry, signaling game
+
+Suggested Citation:
+
+Liu, Xiaoyan and Schmidt, William, Operational Distortion: Compound Effects of Short-termism and Competition (January 28, 2022). Management Science, volume 68, issue 8, 2022[10.1287/mnsc.2021.4204], Available at SSRN: https://ssrn.com/abstract=3917597 or http://dx.doi.org/10.1287/mnsc.2021.4204
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+Anand , S Krishnan , Manu Goyal
+Strategic information management under leakage in a supply chain
+Management Science , volume 55 , issue 3 Posted: 2009
+John Asker , Joan Farre-Mensa , Alexander Ljungqvist
+Corporate investment and stock market listing: A puzzle? The Review of
+Financial Studies , volume 28 , issue 2 Posted: 2014
+Aspen Institute
+Overcoming short-termism: A call for a more responsible approach to investment and business management Posted: 2019-01-07
+Claudia Assis
+Tesla stock falls after report that gigafactory expansion is on hold Posted: 2019-06-20
+Load more
+1 Citations
+Karca Aral , Erasmo Giambona , Luk N. Van Wassenhove
+Managerial Flexibility, Capacity Investment, and Inventory Levels
+Productions and Operations Management, Forthcoming , INSEAD Working Paper No. 2023/56/TOM · 31 Pages · Posted: 13 Oct 2023 · Last revised: 18 Oct 2023 · Downloads: 142
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+191
+ABSTRACT VIEWS
+844
+RANK
+362,694
+1 Citations
+61 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

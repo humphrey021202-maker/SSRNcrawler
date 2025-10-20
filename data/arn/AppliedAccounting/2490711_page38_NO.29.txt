@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Shareholder Derivative Litigation and the Preclusion Problem
+
+Virginia Law Review, Vol. 100, No. 2, April 2014
+
+Virginia Law and Economics Research Paper No. 2014-13
+
+53 Pages Posted: 2 Sep 2014
+
+George S. Geis
+
+University of Virginia School of Law
+
+Date Written: September 2014
+
+Abstract
+
+Shareholder derivative litigation differs from other types of representative lawsuits because a lead plaintiff does not purport to stand in for an entire class of similarly situated parties. Rather, the plaintiff seeks to wrest governance control from the corporate entity itself in order to prosecute a lawsuit on the firm’s behalf. This is an extreme act: why should one shareholder get to take the reins of an entire firm? Accordingly, corporate law only permits these lawsuits to go forward in rare circumstances, typically when there are strong signs that something is rotten in the boardroom.
+
+Many claims are filed each year, however, and a single alleged bad act will often attract multiple lawsuits. This raises a very tricky question for derivative litigation: when can we be confident that a given shareholder adequately prosecutes a claim - such that the matter should be closed? When a case is dismissed in one court, the failure to collaterally estop a sister case (relating to the same misdeed) in another jurisdiction raises the possibility of never-ending litigation. But routine dismissal of follow-up filings could create a situation where firms are inoculated from legitimate derivative claims by ill-informed plaintiffs who rush to the courthouse with weak complaints. Relatedly, early filing pressures, amplified under a strict collateral estoppel regime, may encourage jurisdiction shopping and shoddy claims that undermine the governance goals of derivative litigation.
+
+This Article offers a three-part strategy for navigating the preclusion problem in derivative litigation. First, more claims should be channeled into a single jurisdiction through the robust adoption (and judicial validation) of forum selection provisions for derivative litigation in corporate charters or bylaws. This will minimize the race to the courthouse(s) and alleviate conflicting judicial treatment of derivative claims. Second, following recent Delaware precedent, collateral estoppel should not be triggered until a mindful shareholder-plaintiff brings the case; prior attempts should be classified as inadequate representation. This will prevent a corporation from taking advantage of “patsy” litigation that obstructs legitimate claims. Finally, courts should be encouraged to implement legal fee shifting whenever a plaintiff undertakes derivative litigation without reasonable cause or for an improper purpose. In particular, the failure to incorporate information from a books and records investigation into a complaint should raise concerns that the lawsuit was brought without reasonable cause. Similarly, filing a follow-on lawsuit, after an initial claim has been dismissed, should only meet the reasonable cause test if the subsequent plaintiff introduces substantial incremental evidence related to the alleged misdeed. Taken together, these reforms should minimize duplicative litigation and mitigate specious claims - while still preserving the promise of shareholder lawsuits as a meaningful safeguard against dysfunctional corporate governance.
+
+Suggested Citation:
+
+Geis, George S., Shareholder Derivative Litigation and the Preclusion Problem (September 2014). Virginia Law Review, Vol. 100, No. 2, April 2014, Virginia Law and Economics Research Paper No. 2014-13, Available at SSRN: https://ssrn.com/abstract=2490711
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+Allergan Inc
+Annual Report (Form 10-K) Posted: 2013-02-26
+La , Mun
+Police Emps
+Ret. Sys. v. Pyott (Allergan I Posted: 2012
+Id
+Id
+The more commonly known use of Botox for cosmetic purposes was not at issue in the case
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+213
+ABSTRACT VIEWS
+1,984
+RANK
+327,319
+42 References
+PlumX Metrics
+Related eJournals
+
+University of Virginia Law & Economics Research Paper Series
+
+Follow
+
+Corporate Governance & Law eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

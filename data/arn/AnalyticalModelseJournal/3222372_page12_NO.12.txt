@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Private Information, Securities Lending, and Asset Prices
+
+31st Australasian Finance and Banking Conference 2018
+
+73 Pages Posted: 30 Jul 2018 Last revised: 14 Oct 2020
+
+Pedram Nezafat
+
+University of Michigan at Ann Arbor - Finance
+
+Mark D. Schroder
+
+Michigan State University - The Eli Broad Graduate School of Management
+
+Date Written: June 5, 2018
+
+Abstract
+
+We study the role of private information in the equity-lending market in a rational expectations model with endogenous loan fees. When all investors are privately informed, an increase in information precision reduces the fee by increasing trading aggressiveness and decreasing demand dispersion. However, when some investors are uninformed, the information asymmetry tends to increase the fee, and, thus, the overall effect of an increase in precision is ambiguous. We show that the fee can be incrementally informative given the stock price and that fee opaqueness tends to increase the fee but has an ambiguous effect on the stock price.
+
+Keywords: Short Selling, Asset Prices, Equity Lending Fees, Information Asymmetry
+
+JEL Classification: G10, G11, G12
+
+Suggested Citation:
+
+Nezafat, Pedram and Schroder, Mark D., Private Information, Securities Lending, and Asset Prices (June 5, 2018). 31st Australasian Finance and Banking Conference 2018, Available at SSRN: https://ssrn.com/abstract=3222372 or http://dx.doi.org/10.2139/ssrn.3222372
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+A B Abel
+Asset prices under heterogeneous beliefs: Implications for the equity premium Posted: 1989
+E W Anderson , E Ghysels , J L Juergens
+Do heterogeneous beliefs matter for asset pricing?
+Review of Financial Studies , volume 18 Posted: 2005
+Crossref
+P Asquith , P A Pathak , J R Ritter
+Short interest, institutional ownership, and stock returns
+Journal of Financial Economics , volume 78 Posted: 2005
+Crossref
+Adem Atmaz , Suleyman Basak , Fangcheng Ruan
+Dynamic Equilibrium with Costly Short-Selling and Lending Market
+Review of Financial Studies Pages: 74 Posted: 3 Feb 2020 Last revised: 21 Jun 2023
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+282
+ABSTRACT VIEWS
+2,330
+RANK
+247,189
+33 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

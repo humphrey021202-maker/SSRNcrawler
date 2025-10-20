@@ -1,0 +1,149 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Optimal Focus of Transfer Prices: Pre-Tax Profitability versus Tax Minimization
+
+38 Pages Posted: 13 Dec 2007 Last revised: 28 Nov 2014
+
+Jan Thomas Martini
+
+Bielefeld University - Department of Business Administration and Economics
+
+Date Written: October 27, 2014
+
+Abstract
+
+This paper studies transfer prices influencing managerial decisions and determining corporate taxes in a multinational firm. Common sense suggests that the transfer price decision should be made to maximize the firm's after-tax profit and thus achieve the optimal trade-off between pre-tax profitability and tax minimization. Based on a model of a decentralized firm facing asymmetric information with respect to operations, I examine why this conclusion does not hold in general. In particular, I demonstrate that a policy of negotiated transfer pricing, under which the divisions exploit their superior information but select the transfer price to maximize the firm's pre-tax profit, is the firm’s optimal organizational choice if the high-tax division's productivity is high. With respect to the firm's discretion over the transfer price, I identify situations where the firm's optimal policy choice does not depend on the arm's length range and where less discretion increases the firm's profitability.
+
+Keywords: Transfer Pricing, Multinational firm, Taxation, Decentralization, Management Control
+
+JEL Classification: C78, H25, L23, M41
+
+Suggested Citation:
+
+Martini, Jan Thomas, The Optimal Focus of Transfer Prices: Pre-Tax Profitability versus Tax Minimization (October 27, 2014). Available at SSRN: https://ssrn.com/abstract=1053641 or http://dx.doi.org/10.2139/ssrn.1053641
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+R N Anthony , V Govindarajan
+Management Control Systems Posted: 2000
+T Baldenius
+Intrafirm trade, bargaining power, and specific investments
+Rev Account Stud , volume 5 , issue 1 , p. 27 - 56 Posted: 2000
+T Baldenius , N D Melumad , S Reichelstein
+Integrating managerial and tax objectives in transfer pricing
+Account Rev , volume 79 , issue 3 , p. 591 - 615 Posted: 2004
+Crossref
+T Baldenius , S Reichelstein , S A Sahay
+Negotiated versus cost-based-transfer pricing
+Rev Account Stud , volume 4 , issue 2 , p. 67 - 91 Posted: 1999
+Load more
+4 Citations
+Rebecca Reineke , Katrin Weiskirchner-Merten , Stefan Wielenberg
+When do firms use one set of books in an international tax compliance game?
+WU International Taxation Research Paper Series No. 2017-08 · 46 Pages · Posted: 1 Sep 2017 · Last revised: 15 Sep 2021 · Downloads: 195
+Download PDF  Add Paper to My Library
+Clemens Löffler
+Divisionalization and Domestic Transfer Pricing for Tax Considerations in the Multinational Enterprise
+Management Accounting Research, Forthcoming · 30 Pages · Posted: 10 Jul 2019 · Downloads: 133
+Download PDF  Add Paper to My Library
+Michael Kopel , Clemens Löffler
+Tax Differences and Global Supply Chain Architecture
+37 Pages · Posted: 16 Jun 2020 · Downloads: 186
+Download PDF  Add Paper to My Library
+Markus Diller , Johannes Lorenz , Georg Thomas Schneider , Caren Sureth-Sloane
+Is Tax Transfer Pricing Harmonization a Panacea? Real Effects of Global Tax Transparency and Standards Consistency
+TRR 266 Accounting for Transparency Working Paper Series No. 57, WU International Taxation Research Paper Series No. 2021-05, Forthcoming in The Accounting Review · 49 Pages · Posted: 2 Aug 2021 · Last revised: 26 Nov 2024 · Downloads: 340
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+715
+ABSTRACT VIEWS
+5,751
+RANK
+82,321
+4 Citations
+46 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+Centralized Versus Decentralized Transfer Pricing and Cost-System Choice
+
+By Stephan Lengsfeld, Thomas Pfeiffer, ...
+
+Transfer Pricing or Formula Apportionment? Tax-Induced Distortions of Multinationals' Investment and Production Decisions
+
+By Jan Thomas Martini, Rainer Niemann, ...
+
+The Value of Negotiating Cost-Based Transfer Prices
+
+By Anne Chwolka, Jan Thomas Martini, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

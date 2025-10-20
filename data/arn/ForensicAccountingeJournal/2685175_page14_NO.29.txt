@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A New Approach to Estimating the Relation between Audit Fees and Financial Misconduct
+
+45 Pages Posted: 3 Nov 2015 Last revised: 5 Sep 2019
+
+Bidisha Chakrabarty
+
+Saint Louis University - Richard A. Chaifetz School of Business
+
+Scott Duellman
+
+Saint Louis University - Department of Accounting
+
+Michael Hyman
+
+Syracuse University - Joseph I. Lubin School of Accounting
+
+Date Written: August 27, 2018
+
+Abstract
+
+Research on the association between abnormal audit fees (measuring audit effort) and financial misconduct has produced mixed results. The use of actual misstatements in this research creates small-sample inferences, introduces systematic selection bias, and reduces the scope of sample coverage. In this study we use a metric based on Benford’s Law to analyze the impact of abnormal audit fees on the likelihood of misconduct. This measure is parsimonious, avoids selection bias, and can be computed for a large sample of public firms. Consistent with theory, we find that greater audit effort reduces the likelihood of misconduct and auditor resignations are more likely for clients with higher misconduct likelihood. Our findings are not driven by audit firm size, client size, the governance structure of the client, or economic bonding explanations. The effect is not subsumed when controlling for alternative misconduct measurement metrics and is robust across multiple tests to address endogeneity.
+
+Keywords: Audit Fees; Benford Score; Financial Misconduct; Fraud
+
+JEL Classification: G32; M41
+
+Suggested Citation:
+
+Chakrabarty, Bidisha and Duellman, Scott and Hyman, Michael, A New Approach to Estimating the Relation between Audit Fees and Financial Misconduct (August 27, 2018). Available at SSRN: https://ssrn.com/abstract=2685175 or http://dx.doi.org/10.2139/ssrn.2685175
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A Agrawal , S Chadha
+Corporate governance and accounting scandals
+The Journal of Law and Economics , volume 48 , issue 2 , p. 371 - 406 Posted: 2005
+Crossref
+D Amiram , Z Bozanic , E Rouen
+Financial statement errors: Evidence from the distributional properties of financial statement numbers
+Review of Accounting Studies , volume 20 , issue 4 , p. 1540 - 1593 Posted: 2015
+Crossref
+D Amiram , Z Bozanic , J D Cox , Q Dupont , J M Karpoff , R Sloan
+Financial reporting fraud and other forms of misconduct: a multidisciplinary review of the literature
+Review of Accounting Studies , volume 23 , issue 2 , p. 732 - 783 Posted: 2018
+Crossref
+A I Blankley , D N Hurtt , J E Macgregor
+Abnormal audit fees and restatements
+Auditing: A Journal of Practice & Theory , volume 31 , issue 1 , p. 79 - 96 Posted: 2012
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+529
+ABSTRACT VIEWS
+3,548
+RANK
+121,100
+31 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

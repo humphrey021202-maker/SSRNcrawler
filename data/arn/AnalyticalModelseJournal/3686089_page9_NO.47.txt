@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Asymmetric Disclosure, Noise Trade, and Firm Valuation
+
+HEC Paris Research Paper Forthcoming
+
+73 Pages Posted: 21 Oct 2020 Last revised: 3 Jan 2023
+
+Davide Cianciaruso
+
+New Economic School (NES)
+
+Ivan Marinovic
+
+Graduate School of Business, Stanford University
+
+Kevin Smith
+
+Stanford University Graduate School of Business
+
+Date Written: November 28, 2022
+
+Abstract
+
+We study the impact of asymmetric (i.e., conservative or aggressive) disclosure on a firm's price in the classic setting in which its stock is traded by risk-averse investors and noise or liquidity traders. We show that asymmetric accounting policies alter the relative risk faced by investors when they short vs. long, which causes market liquidity to differ for positive vs. negative demand shocks. As a result, accounting conservatism raises firms' valuations and lowers their expected returns. We further demonstrate that the relationship between accounting informativeness and expected returns depends upon the skewness of investors' prior beliefs. Finally, we find that a firm that can commit to an accounting policy can tailor this policy to benefit from noise trade and foster overvaluation.
+
+Keywords: Short-selling, Noise Trade, Disclosure, Bayesian Persuasion, Downside Risk, Trading
+
+JEL Classification: D72, D82, D83, G20
+
+Suggested Citation:
+
+Cianciaruso, Davide and Marinovic, Ivan and Smith, Kevin, Asymmetric Disclosure, Noise Trade, and Firm Valuation (November 28, 2022). HEC Paris Research Paper Forthcoming, Available at SSRN: https://ssrn.com/abstract=3686089 or http://dx.doi.org/10.2139/ssrn.3686089
+Download This Paper
+ 
+Open PDF in Browser
+70 References
+E Albagli , C Hellwig , A Tsyvinski
+Dispersed information and asset prices Posted: 2021
+C D Aliprantis , K C Border
+Infinite Dimensional Analysis: A Hitchhiker's Guide Posted: 1999
+A Ang , J Chen , Y Xing
+Downside risk
+The Review of Financial Studies , volume 19 , issue 4 , p. 1191 - 1239 Posted: 2006
+C S Armstrong , D J Taylor , R E Verrecchia
+Asymmetric reporting
+Journal of Financial Reporting , volume 1 , issue 1 , p. 15 - 32 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+553
+ABSTRACT VIEWS
+2,438
+RANK
+114,562
+7 Citations
+70 References
+PlumX Metrics
+Related eJournals
+
+HEC Paris Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

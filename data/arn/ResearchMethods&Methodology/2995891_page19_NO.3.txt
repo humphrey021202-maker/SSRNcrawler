@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Time-Localized Wavelet Multiple Regression and Correlation: Eurozone Stock Markets Across Scales and Time
+
+Physica A, Vol. 492 (2018), pp. 1226–1238
+
+18 Pages Posted: 30 Aug 2017 Last revised: 11 Mar 2020
+
+Javier Fernandez-Macho
+
+University of the Basque Country - Department of Applied Economics III (Econometrics and Statistics)
+
+Date Written: July 1, 2017
+
+Abstract
+
+This paper extends wavelet methodology to handle co-movement dynamics of multivariate time series via moving weighted regression on wavelet coefficients.
+
+The concept of wavelet local multiple correlation is used to produce one single set of multi-scale correlations along time, in contrast with the large number of wavelet correlation maps that need to be compared when using standard pairwise wavelet correlations with rolling windows. Also, the spectral properties of weight functions are investigated and it is argued that some common time windows, such as the usual rectangular rolling window, are not satisfactory on these grounds.
+
+The method is illustrated with a multi-scale analysis of the co-movements of Eurozone stock markets during this century. It is shown how the evolution of the correlation structure in these markets has been far from homogeneous both along time and across timescales featuring an acute divide across timescales at about the quarterly scale. At longer scales, evidence from the long-term correlation structure can be interpreted as stable perfect integration among Euro stock markets. On the other hand, at intramonth and intraweek scales, the short-term correlation structure has been clearly evolving along time, experiencing a sharp increase during financial crises which may be interpreted as evidence of financial ‘contagion’.
+
+Keywords: Comovement dynamics, Euro zone, local regression, multiscale analysis, multivariate time series, non-stationary time series, stock markets, wavelet transform, weighted least squares
+
+JEL Classification: C32, C58, C87, G15
+
+Suggested Citation:
+
+Fernandez-Macho, Javier, Time-Localized Wavelet Multiple Regression and Correlation: Eurozone Stock Markets Across Scales and Time (July 1, 2017). Physica A, Vol. 492 (2018), pp. 1226–1238, Available at SSRN: https://ssrn.com/abstract=2995891 or http://dx.doi.org/10.2139/ssrn.2995891
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+P S Addison
+The illustrated wavelet transform handbook: introductory theory and applications in science, engineering, medicine and finance Posted: 2017
+L Aguiar-Conraria , M J Soares
+The continuous wavelet transform: moving beyond uni-and bivariate analysis
+Journal of Economic Surveys , volume 28 , issue 2 , p. 344 - 375 Posted: 2014
+Crossref
+M S Bartlett
+Periodogram analysis and continuous spectra
+Biometrika , volume 37 , issue 1-2 , p. 1 - 16 Posted: 1950
+Crossref
+S Bartram , S Taylor , Y Wang
+The Euro and European financial market dependence
+Journal of Banking & Finance , volume 31 , p. 1461 - 1481 Posted: 2007
+Crossref
+Load more
+3 Citations
+Kim Raath , Katherine B. Ensor
+Time-Varying Wavelet-Based Applications for Evaluating the Water-Energy Nexus
+38 Pages · Posted: 30 Jun 2018 · Last revised: 31 Jan 2020 · Downloads: 111
+Download PDF  Add Paper to My Library
+Ahmet Faruk Aysan , Giray Gozgor , Rabeh Khalfaoui , Zhamal Nanaeva
+Metaverse and Global Financial Markets: Twitter-Based Uncertainty Factor
+FINANA-D-24-01772 · 52 Pages · Posted: 18 Jul 2024 · Downloads: 61
+Download PDF  Add Paper to My Library
+Partha Gangopadhyay , Walid Bakry , Xuan-Hoa Nghiem , Veton Zeqiraj
+Exploring the Dynamics of Quantile Connectedness and Frequency-Varying Wavelet Models for Cross-Border Spillovers of Financial Stress Across the Us, Other Advanced and Emerging Financial Markets
+RIBAF-D-24-01206 · 35 Pages · Posted: 28 Dec 2024 · Downloads: 139
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+319
+ABSTRACT VIEWS
+2,270
+RANK
+216,668
+3 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+European Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Mafia Ties and Financial Reporting Quality Spillovers: Evidence from Private Firms in Italy
+
+36 Pages Posted: 30 Jun 2025
+
+Pietro A. Bianchi
+
+Bocconi
+
+Nicola Pecchiari
+
+Bocconi University - Department of Accounting
+
+Date Written: June 25, 2025
+
+Abstract
+
+This study examines how firms with no connections to Mafia organizations respond to the tax avoidance and earnings management practices of mafia-connected peers, focusing on both industry and geographic spillovers. While prior research has documented the financial practices of mafiaconnected firms, little is known about how their presence influences otherwise "clean" firms. We leverage a proprietary dataset from the Italian Internal Intelligence and Security Agency (AISI), which records individuals under investigation for mafia-related crimes. Using a large sample of private firms in the Lombardy region from 2006 to 2013, we examine how exposure to mafiaconnected peers-measured at the industry and geographic levels-affects firms' tax avoidance and financial reporting choices. We find that greater mafia presence is associated with lower effective tax rates among unconnected peers. Geographic proximity to mafia-connected firms is associated with increased tax-related restatements and income-decreasing abnormal accruals. We also document that unconnected firms in high-crime provinces show stronger tax avoidance responses, suggesting that broader criminal exposure amplifies the influence of mafia-connected peers.
+
+Keywords: connections to organized crime, spillover, criminal investigations, tax avoidance, earnings management, private firms, Italian setting G31, G32, G38, K42, K49
+
+JEL Classification: G31, G32, G38, K42, K49
+
+Suggested Citation:
+
+Bianchi, Pietro A. and Pecchiari, Nicola, Mafia Ties and Financial Reporting Quality Spillovers: Evidence from Private Firms in Italy (June 25, 2025). Available at SSRN: https://ssrn.com/abstract=5329014 or http://dx.doi.org/10.2139/ssrn.5329014
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+M D Amore , O Garofalo , A Minichilli
+Gender interactions within the family firm
+Management Science , volume 60 , issue 5 , p. 1083 - 1097 Posted: 2014
+P A Bianchi
+Auditors' joint engagements and audit quality: Evidence from Italian private companies
+Contemporary Accounting Research , volume 35 , issue 3 , p. 1533 - 1577 Posted: 2018
+P A Bianchi , M Causholli , M Minutti-Meza , V Sulcaj
+Social networks analysis in accounting and finance
+Contemporary Accounting Research , volume 40 , issue 1 , p. 577 - 623 Posted: 2023
+P A Bianchi , D Falsetta , M Minutti-Meza , E Weisbrod
+Joint audit engagements and client tax avoidance: Evidence from the Italian statutory audit regime
+Journal of the American Taxation Association , volume 41 , issue 1 , p. 31 - 58 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+42
+ABSTRACT VIEWS
+296
+28 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

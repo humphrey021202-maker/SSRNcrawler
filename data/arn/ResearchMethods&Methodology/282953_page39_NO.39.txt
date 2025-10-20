@@ -1,0 +1,94 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+On Comparing Cash Flow and Accrual Accounting Models for Use in Equity Valuation
+
+Posted: 16 Oct 2001
+
+Stephen H. Penman
+
+Columbia University - Columbia Business School, Accounting, Business Law & Taxation; Bocconi University
+
+There are 2 versions of this paper
+
+Abstract
+
+A claim is commonly made that cash and accrual accounting methods for valuing equities must always yield equivalent valuations. A recent paper by Lundholm and O'Keefe (Contemporary Accounting Research, Summer, 2001), for example, claims that, because of this equivalence, there is nothing to be learned from empirical comparison of valuation models. So they dismiss recent research that has shown that accrual accounting residual income models and earnings capitalization models perform, over a range of conditions, better than cash flow or dividend discount models. This paper demonstrates, with examples, that the claim is misquided. Practice inevitably involves forecasting over finite,truncated horizons and the accounting specified in a model - cash versus accrual accounting in particular - is pertinent to valuation with finite horizon forecasting. Indeed, the issue of choosing a valuation model is an issue of specifying pro forma accounting, and so, for finite horizon forecasts, one cannot be indifferent to the accounting.
+
+Keywords: Equity valuation; Dividend discounting; Discounted cash flow; Accrual accounting
+
+JEL Classification: G12, M41
+
+Suggested Citation:
+
+Penman, Stephen H., On Comparing Cash Flow and Accrual Accounting Models for Use in Equity Valuation. Available at SSRN: https://ssrn.com/abstract=282953
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+4,081
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

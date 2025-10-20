@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Clear and Liquid: The Interaction of Firm Disclosure and Trader Competition
+
+49 Pages Posted: 10 Oct 2018 Last revised: 19 Oct 2018
+
+Efstathios Avdis
+
+University of Alberta - Department of Finance and Statistical Analysis
+
+Sanjay Banerjee
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+There are 2 versions of this paper
+
+Date Written: October 15, 2018
+
+Abstract
+
+In an economy where traders absorb information partially, we study the effect of disclosure accuracy and disclosure clarity on financial markets. Accuracy measures how precisely a disclosure identifies the firm's fundamentals, whereas clarity measures how well traders understand the disclosure. Increasing clarity promotes competition among informed traders more so than it increases the information asymmetry between informed traders and market makers. Increasing accuracy has the opposite effect. Trading volume increases monotonically in clarity, while liquidity has a U-shaped relationship with clarity if competition among traders is intense. Volume and liquidity both decrease in accuracy due to adverse selection among different market participants. Moreover, traders' attention to disclosure is hump-shaped in clarity, but increasing in accuracy. Trading profits mimic the patterns of attention, but only under intense competition. Overall, our results suggest that the current trend of increasing complexity in firm disclosures is detrimental to liquidity and volume.
+
+Keywords: Competition, Bounded Rationality, Accuracy, Clarity
+
+JEL Classification: D53, G14, M41, D82
+
+Suggested Citation:
+
+Avdis, Efstathios and Banerjee, Sanjay, Clear and Liquid: The Interaction of Firm Disclosure and Trader Competition (October 15, 2018). Available at SSRN: https://ssrn.com/abstract=3250467 or http://dx.doi.org/10.2139/ssrn.3250467
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+A R Admati , P Pfleiderer
+A monopolistic market for information
+Journal of Economic Theory , volume 39 , issue 2 , p. 400 - 438 Posted: 1986
+Crossref
+A R Admati , P Pfleiderer
+A theory of intraday patterns: Volume and price variability
+Review of Financial Studies , volume 1 , issue 1 , p. 3 - 40 Posted: 1988
+Crossref
+B C Ayers , O Z Li , P E Yeung
+Investor trading and the post-earningsannouncement drift
+The Accounting Review , volume 86 , issue 2 , p. 385 - 416 Posted: 2011
+Crossref
+K Balakrishnan , M B Billings , B Kelly , A Ljungqvist
+Shaping liquidity: On the causal effects of voluntary disclosure
+Journal of Finance , volume 69 , issue 5 , p. 2237 - 2278 Posted: 2014
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+113
+ABSTRACT VIEWS
+1,525
+RANK
+216,668
+18 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+Microeconomics: General Equilibrium & Disequilibrium Models of Financial Markets eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

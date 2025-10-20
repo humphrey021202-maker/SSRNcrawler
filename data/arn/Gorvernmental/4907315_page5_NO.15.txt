@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Income smoothing en cooperativas de crédito brasileñas: los efectos del incumplimiento
+(Income Smoothing in Brazilian Credit Unions: The Effects of Default)
+
+REVISTA AMBIENTE CONTÁBIL - Universidade Federal do Rio Grande do Norte - ISSN 2176-9036, volume 16, issue 1, 2024 [10.21680/2176-9036.2024v16n1ID34808]
+
+22 Pages Posted: 30 Aug 2024 Last revised: 13 May 2025
+
+Jonatas Sallaberry
+
+UFSC - PPGC
+
+Lauren Venturini
+
+Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Arthur Frederico Lerner
+
+Federal University of Santa Catarina (UFSC)
+
+Leonardo Flach
+
+Universidade Federal de Santa Catarina (UFSC)
+
+Date Written: January 02, 2024
+
+Abstract
+
+Objetivo: El objetivo del estudio es analizar si las cooperativas de ahorro y crédito gestionan sus resultados contables, con el fin de suavizarlos a través de provisiones para cuentas incobrables (income smoothing), desde una perspectiva de incumplimiento. Metodología: La muestra alcanza 938 cooperativas únicas entre el período de diciembre de 2010 a diciembre de 2018, con datos del Banco Central de Brasil, probados mediante la técnica estadística de regresión múltiple, en paneles trimestrales. Resultados: La variación en el stock de operaciones de crédito y la utilidad neta ajustada no fueron estadísticamente significativas en el modelo, sin embargo no fue posible aceptar la hipótesis de que las cooperativas de ahorro y crédito utilizan la estimación preventiva para riesgos crediticios (PPC) como mecanismo de gestión de resultados. La tasa de interés implícita en el resultado de los ingresos por operaciones de crédito fue significativa y, por tanto, relacionada con la variación del PPC, mientras que la condición de entrada libre no mostró significación estadística. La variación de la morosidad resultó significativa en el modelo, con un coeficiente negativo, lo que implica coherencia con la hipótesis de gestión de resultados, ya que en un escenario de mayor morosidad (riesgo) la relación es negativa y, por tanto, los niveles de PPC son menores, evitando posibles resultados negativos. Contribuciones del Estudio: Los resultados indican ausencia de gestión de ganancias por parte de PPC en la muestra y el período, lo que contribuye a la discusión de las relaciones entre las variables de gestión de ganancias. Esto permite a las cooperativas de ahorro y crédito reflexionar sobre su estructura interna de gobierno corporativo. Además, la evidencia contribuye al avance de la literatura sobre la manipulación de ganancias en cooperativas de ahorro y crédito, para la cual hay pocos estudios disponibles y juegan un papel importante en el mercado brasileño, asegurando flujos de financiamiento a sectores económicos no atendidos por instituciones bancarias tradicionales.
+
+Note: Downloadable document is in Spanish.
+
+Keywords: Devengo, Gestión de Resultados, Provisión, Mora, Bancos, Cooperativa
+
+Suggested Citation:
+
+Sallaberry, Jonatas and Venturini, Lauren and Lerner, Arthur Frederico and Flach, Leonardo, Income smoothing en cooperativas de crédito brasileñas: los efectos del incumplimiento
+(Income Smoothing in Brazilian Credit Unions: The Effects of Default)
+
+(January 02, 2024). REVISTA AMBIENTE CONTÁBIL - Universidade Federal do Rio Grande do Norte - ISSN 2176-9036, volume 16, issue 1, 2024 [10.21680/2176-9036.2024v16n1ID34808], Available at SSRN: https://ssrn.com/abstract=4907315
+Download This Paper
+ 
+Open PDF in Browser
+54 References
+V V Acharya , B M Lambrecht
+A theory of income smoothing when insiders know more than outsiders
+The Review of Financial Studies , volume 28 , issue 9 , p. 2534 - 2574 Posted: 2015
+B Baik , K A Gunny , B Jung , D Park
+Income smoothing through R&D management and earnings informativeness
+The Accounting Review , volume 97 , issue 3 , p. 25 - 49 Posted: 2022
+Ffi s%2Fcosif%2Fbalancetes.asp Banco Central do Brasil [BACEN]. (2023b, 06 de junho)
+Balancetes e Balanços Patrimoniais Posted: 2019
+SGS -Sistema Gerenciador de Séries Temporais -v2.1: Módulo público: Resultado da consulta de valores Posted: 2023-07
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+27
+ABSTRACT VIEWS
+254
+54 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

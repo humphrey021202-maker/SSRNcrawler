@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Peer Effects of Corporate ESG Activities: Evidence from Mandatory ESG Disclosure Regulations
+
+48 Pages Posted: 30 Aug 2024 Last revised: 18 Mar 2025
+
+Weishi Jia
+
+Cleveland State University - Monte Ahuja College of Business
+
+Albert Tsang
+
+School of Business, Southern University of Science and Technology, China
+
+Danlei Bonnie Yu
+
+Soochow University
+
+Jingran Zhao
+
+Hong Kong Polytechnic University
+
+Date Written: May 31, 2024
+
+Abstract
+
+We examine the peer effects of corporate environmental, social, and governance (ESG) activities in an international context. We consider U.S. multinational enterprises (MNEs) operating in foreign host countries and local firms in those countries as peer firms, as they both operate within the same host market. This novel perspective allows us to leverage the staggered introduction of mandatory ESG disclosure regulations in foreign host countries as an exogenous shock, as these regulations apply exclusively to local firms and not to U.S. MNEs. Focusing on philanthropic giving as a key component of firms' ESG portfolios, we find that U.S. MNEs adopt local mimetic isomorphism whereby they emulate the pro-social behavior of their local peers and increase their donations in the host country, even though they are not legally obligated to do so. In addition, we find that post-mandate donation increases are particularly pronounced for host countries crucial to the firms' operating portfolio, as well as for firms with higher liability of foreignness (LOF), greater media coverage by local outlets, and stronger reliance on governmental contracts. Furthermore, post-mandate donations enhance U.S. MNEs' ability to retain governmental contracts and improve their media sentiment in the host country, subsequently contributing to higher firm valuation.
+
+Keywords: Peer Effects of Corporate ESG Activities: Evidence from Mandatory ESG Disclosure Regulations ESG reporting, Peer effects, Spillover effects, U.S. MNEs, Philanthropic giving, Corporate donations, Liability of foreignness
+
+Suggested Citation:
+
+Jia, Weishi and Tsang, Albert and Yu, Danlei Bonnie and Zhao, Jingran, Peer Effects of Corporate ESG Activities: Evidence from Mandatory ESG Disclosure Regulations (May 31, 2024). Available at SSRN: https://ssrn.com/abstract=4907333 or http://dx.doi.org/10.2139/ssrn.4907333
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+Andrew C Baker , David F Larcker , Y Charles C , Wang
+How Much Should We Trust Staggered Difference-in-Differences Estimates?
+Journal of Financial Economics , volume 144 , p. 370 - 395 Posted: 2022
+Luis Ballesteros , Catherine Magelssen
+Institutional Disruptions and the Philanthropy of Multinational Firms
+Organization Science , volume 33 , p. 1501 - 1522 Posted: 2022
+R Bell , Igor Greg , Abdul A Filatotchev , Rasheed
+The Liability of Foreignness in Capital Markets: Sources and Remedies
+Journal of International Business Studies , volume 43 , p. 107 - 122 Posted: 2012
+Marianne Bertrand , Esther Duflo , Sendhil Mullainathan
+How Much Should We Trust Differences-in-Differences Estimates?
+The Quarterly Journal of Economics , volume 119 , p. 249 - 275 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+165
+ABSTRACT VIEWS
+651
+RANK
+413,842
+47 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

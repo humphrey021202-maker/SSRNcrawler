@@ -1,0 +1,157 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Procurement in Supply Chains When the End-Product Exhibits the 'Weakest Link' Property
+
+46 Pages Posted: 5 Jun 2012
+
+Stanley Baiman
+
+University of Pennsylvania - Accounting Department
+
+Serguei Netessine
+
+University of Pennsylvania - The Wharton School
+
+Howard Kunreuther
+
+National Bureau of Economic Research (NBER); University of Pennsylvania - Wharton Risk Management and Decision Processes Center
+
+Date Written: February 1, 2004
+
+Abstract
+
+We consider a supply chain with one manufacturer who assembles an end-product using multiple outsourced parts. The end-product exhibits the “weakest-link” property, such that if any of its component parts fails, the end-product fails. The supplier of each component part can improve the (uncertain) quality of her parts by exerting costly effort that is unobservable to the manufacturer and is non-contractible. We analyze three possible contractual agreements between the manufacturer and suppliers: Acceptable Quality Level (AQL), Quality–Based Incentive Pricing (Q–Pricing) and Group Warranty. Under AQL, the manufacturer inspects all incoming parts, but establishes different quality thresholds and pays the suppliers different amounts for achieving the different thresholds. Under Q-Pricing, the manufacturer also inspects all incoming parts but pays each supplier a constant amount for each good part. Under Group Warranty there is no testing of the individual parts; instead all suppliers are responsible for any failed end-product. We compare the efficiency of these three contractual arrangements as a function of the exogenous variables.
+
+Suggested Citation:
+
+Baiman, Stanley and Netessine, Serguei and Kunreuther, Howard C. and Kunreuther, Howard C., Procurement in Supply Chains When the End-Product Exhibits the 'Weakest Link' Property (February 1, 2004). Available at SSRN: https://ssrn.com/abstract=2077640 or http://dx.doi.org/10.2139/ssrn.2077640
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+A Alchian , H Demsetz
+Production, information costs and economic organization
+American Economic Review , volume 62 , p. 777 - 795 Posted: 1972
+Crossref
+S Baiman , P Fischer , M V Rajan
+Information, contracting, and quality costs
+Management Science , volume 46 , issue 6 , p. 776 - 789 Posted: 2000
+Crossref
+S Baiman , P Fischer , M V Rajan
+Performance measurement and design in supply chains
+Management Science , volume 47 , issue 1 , p. 173 - 188 Posted: 2001
+Crossref
+Stanley Baiman , Serguei Netessine
+An Incentive Effect of Multiple Sourcing
+Pages: 30 Posted: 5 Jun 2012
+Download PDF  Add Paper to My Library
+Load more
+16 Citations
+Alexander E. Saak
+Traceability and reputation in supply chains
+International Journal of Production Economics , volume 177 , p. 149 Posted: 2016
+Crossref
+Xiaoning Jin , S. Jack Hu , Jun Ni , Guoxian Xiao
+Assembly Strategies for Remanufacturing Systems With Variable Quality Returns
+IEEE Transactions on Automation Science and Engineering , volume 10 , issue 1 , p. 76 Posted: 2013
+Crossref
+Mohammad E. Nikoofal , Mehmet Gümüş
+Quality at the Source or at the End? Managing Supplier Quality Under Information Asymmetry
+Manufacturing & Service Operations Management , volume 20 , issue 3 , p. 498 Posted: 2018
+Crossref
+Hakan Tarakci , Subramaniam Ponnaiyan , Shailesh Kulkarni
+Maintenance-outsourcing contracts for a system with backup machines
+International Journal of Production Research , volume 52 , issue 11 , p. 3259 Posted: 2014
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+231
+ABSTRACT VIEWS
+3,085
+RANK
+302,262
+16 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+Coordination and Incentive Contracts in Project Management Under Asymmetric Information
+
+By Murat Bayiz and Charles J. Corbett
+
+Co-opetition and Investment for Supply-Chain Resilience
+
+By Nitin Bakshi and Paul R. Kleindorfer
+
+An Incentive Effect of Multiple Sourcing
+
+By Stanley Baiman and Serguei Netessine
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

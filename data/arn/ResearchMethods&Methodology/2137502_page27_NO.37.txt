@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Lower Bound Approximation to Basket Option Values for Local Volatility Jump-Diffusion Models
+
+11 Pages Posted: 29 Aug 2012
+
+Guoping Xu
+
+Citi
+
+Harry Zheng
+
+Imperial College London - Mathematical Finance
+
+Date Written: August 28, 2012
+
+Abstract
+
+In this paper we derive an easily computed approximation of Rogers and Shi’s lower bound for a local volatility jump-diffusion model and then use it to approximate European basket option values. If the local volatility function is time independent then there is a closed-form expression for the approximation. Numerical tests show that the lower bound approximation is fast and accurate in comparison with the Monte Carlo method, the partial-exact approximation method and the asymptotic expansion method.
+
+Keywords: basket options valuation, local volatility jump-diffusion model, lower bound approximation, second order asymptotic expansion
+
+JEL Classification: G13
+
+Suggested Citation:
+
+Xu, Guoping and Zheng, Harry, Lower Bound Approximation to Basket Option Values for Local Volatility Jump-Diffusion Models (August 28, 2012). Available at SSRN: https://ssrn.com/abstract=2137502 or http://dx.doi.org/10.2139/ssrn.2137502
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+H Albrecher , P Mayer , W Schoutens
+General lower bounds for arithmetic Asian option prices
+Applied Mathematical Finance , volume 15 , p. 123 - 149 Posted: 2008
+Crossref
+E Benhamou , E Gobet , M Miri
+Smart expansion and fast calibration for jump diffusions
+Finance and stochastics , volume 4 , p. 563 - 589 Posted: 2009
+Crossref
+M Curran
+Valuing Asian and portfolio options by conditioning on the geometric mean price
+Management Science , volume 40 , p. 1705 - 1711 Posted: 1994
+Crossref
+G Deelstra , J Liinev , M Vanmaele
+Pricing of arithmetic basket options by conditioning , volume 34 , p. 55 - 77 Posted: 2004
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+115
+ABSTRACT VIEWS
+1,272
+RANK
+556,453
+1 Citations
+11 References
+PlumX Metrics
+Related eJournals
+
+Derivatives eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Computation in an Asymptotic Expansion Method
+
+By Akihiko Takahashi, Kohta Takehara, ...
+
+A Hybrid Asymptotic Expansion Scheme: An Application to Long-Term Currency Options
+
+By Akihiko Takahashi and Kohta Takehara
+
+General Asymptotics of Wiener Functionals and Application to Mathematical Finance
+
+By Yasufumi Osajima
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

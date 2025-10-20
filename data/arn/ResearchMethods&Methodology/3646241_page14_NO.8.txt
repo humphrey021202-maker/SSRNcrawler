@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Robust Pricing and Hedging via Neural SDEs
+
+34 Pages Posted: 5 Aug 2020
+
+Patryk Gierjatowicz
+
+University of Edinburgh - School of Mathematics
+
+Marc Sabate-Vidales
+
+University of Edinburgh - School of Mathematics
+
+David Siska
+
+University of Edinburgh - School of Mathematics; Vega
+
+Lukasz Szpruch
+
+University of Edinburgh - School of Mathematics; The Alan Turing Institute; Simtopia
+
+Zan Zuric
+
+Kaiju Capital Management; Imperial College London - Department of Mathematics
+
+Date Written: July 8, 2020
+
+Abstract
+
+Mathematical modelling is ubiquitous in the financial industry and drives key decision processes. Any given model provides only a crude approximation to reality and the risk of using an inadequate model is hard to detect and quantify. By contrast, modern data science techniques are opening the door to more robust and data-driven model selection mechanisms. However, most machine learning models are “black-boxes” as individual parameters do not have meaningful interpretation. The aim of this paper is to combine the above approaches achieving the best of both worlds. Combining neural networks with risk models based on classical stochastic differential equations (SDEs), we find robust bounds for prices of derivatives and the corresponding hedging strategies while incorporating relevant market data. The resulting model called neural SDE is an instantiation of generative models and is closely linked with the theory of causal optimal transport. Neural SDEs allow consistent calibration under both the risk-neutral and the real-world measures. Thus the model can be used to simulate market scenarios needed for assessing risk profiles and hedging strategies. We develop and analyse novel algorithms needed for efficient use of neural SDEs. We validate our approach with numerical experiments using both local and stochastic volatility models.
+
+Keywords: Stochastic Differential Equations, Deep Neural Network, Derivative Pricing, Stochastic Gradient Descent
+
+JEL Classification: G12, C45, C60, C63
+
+Suggested Citation:
+
+Gierjatowicz, Patryk and Sabate-Vidales, Marc and Siska, David and Szpruch, Lukasz and Zuric, Zan, Robust Pricing and Hedging via Neural SDEs (July 8, 2020). Available at SSRN: https://ssrn.com/abstract=3646241 or http://dx.doi.org/10.2139/ssrn.3646241
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+[ Acciaio
+Causal optimal transport and its links to enlargement of filtrations and continuous-time stochastic optimization
+Stochastic Processes and their Applications Posted: 2019
+Crossref
+Robust framework for quantifying the value of information in pricing and hedging
+SIAM Journal on Financial Mathematics , volume 11 , issue 1 , p. 27 - 59 Posted: 2020
+D G Hobson
+Robust hedging of the lookback option
+Finance and Stochastics , volume 2 , issue 4 , p. 329 - 347 Posted: 1998
+Crossref
+K Hornik ; Hornik
+Approximation capabilities of multilayer feedforward networks
+Neural Networks , volume 4 , issue 2 , p. 251 - 257 Posted: 1991
+Load more
+2 Citations
+Samuel N. Cohen , Derek Snow , Lukasz Szpruch
+Black-Box Model Risk in Finance
+31 Pages · Posted: 19 Mar 2021 · Downloads: 876
+Download PDF  Add Paper to My Library
+Blanka Horvath , Josef Teichmann , Zan Zuric
+Deep Hedging under Rough Volatility
+Swiss Finance Institute Research Paper No. 21-88 · 27 Pages · Posted: 18 Feb 2021 · Last revised: 7 Dec 2021 · Downloads: 1,266
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+458
+ABSTRACT VIEWS
+2,252
+RANK
+144,163
+2 Citations
+15 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

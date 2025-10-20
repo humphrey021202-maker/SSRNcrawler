@@ -1,0 +1,98 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Applying Data Envelopment Analysis on Accounting Data to Assess and Optimize the Efficiency of Greek Local Governments
+
+Posted: 26 Nov 2013
+
+Michael Doumpos
+
+Technical University of Crete (TUC) - Department of Production Engineering and Management
+
+Sandra Cohen
+
+Athens University of Economics and Business - Department of Business Administration
+
+Date Written: November 26, 2013
+
+Abstract
+
+The efficiency and effectiveness of local governments has become one of the main points of interest in public sector administration, as decision and policy making gradually move from the central to the local level. This paper introduces an efficiency analysis framework based on accrual accounting data obtained from the local governments’ financial statements. Data envelopment analysis is used to obtain efficiency estimates, which are analyzed through a second stage regression against a set of efficiency explanatory factors. Furthermore, the optimal reallocation of the municipalities’ inputs and outputs is explored to provide policy recommendations that a central government could implement in a budget reduction context. Detailed empirical results are presented from a panel data set of Greek municipalities over the period 2002–2009.
+
+Keywords: Local governments, efficiency, data envelopment analysis, accrual accounting data
+
+JEL Classification: C15, H72, M40, C50, E62
+
+Suggested Citation:
+
+Doumpos, Michael and Cohen, Sandra, Applying Data Envelopment Analysis on Accounting Data to Assess and Optimize the Efficiency of Greek Local Governments (November 26, 2013). Available at SSRN: https://ssrn.com/abstract=2359968 or http://dx.doi.org/10.2139/ssrn.2359968
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,474
+PlumX Metrics
+Related eJournals
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+
+Political Economy: National, State & Local Government; Intergovernmental Relations eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

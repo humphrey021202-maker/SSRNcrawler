@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does the Credibility of Open Market Share Repurchase Matter?
+
+International Review of Economics & Finance, Forthcoming
+
+International Review of Economics & Finance, volume 93, 2024[10.1016/j.iref.2024.03.025]
+
+46 Pages Posted: 12 Apr 2024 Last revised: 21 Nov 2024
+
+Han Hou
+
+Shih Chien University
+
+Date Written: January 1, 2022
+
+Abstract
+
+Previous studies indicate that stock prices react positively to announcements of open market share repurchases (OMR). However, global evidence indicates that some firms announce OMR programs without repurchasing shares. Kracher and Johnson (1997) define such firms as guilty of poor credibility firms. This study investigates whether credibility measurements are associated with market responses using a sample of OMR announcements from 2001 to 2021. Benefitting from the complete information disclosure in Taiwan, an accurate completion rate and cost location variables are adopted to measure a firm’s credibility. The results show that the proxy of credibility, i.e., the product of the completion rate and the cost location, positively affect market responses. In addition, a probit model is utilized to predict which firm-specific characteristics lead to high credibility. The findings reveal that firms with low market-to-book ratios, low return volatility, high insider ownership, good firm performance, low dividend yield, and are classified as electronics industry have a high probability of conveying credible signals to investors. Overall, the paper supports the existence of credibility effect and suggests that firms should value their credibility.
+
+Keywords: Open market repurchase; Completion rate; Credibility; Abnormal returns
+
+JEL Classification: G10, G11, G14, G32
+
+Suggested Citation:
+
+Hou, Han, Does the Credibility of Open Market Share Repurchase Matter? (January 1, 2022). International Review of Economics & Finance, Forthcoming, International Review of Economics & Finance, volume 93, 2024[10.1016/j.iref.2024.03.025], Available at SSRN: https://ssrn.com/abstract=4759783 or http://dx.doi.org/10.1016/j.iref.2024.03.025
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+935 The financial crises from 2007 to 2012 include the 2007-2008 Global Financial Crisis and the 2009-2012 European Monetary Union sovereign debt crisis
+T M References Alessandri , R A Bettis
+Surviving the bulls and the bears: robust strategies and shareholder wealth
+Long Range Planning , volume 36 , issue 1 , p. 13 - 35 Posted: 2003
+D Andriosopoulos , C Gaganis , F Pasiouras
+Prediction of open market share repurchases and portfolio returns: evidence from France, Germany and the UK
+Review of Quantitative Finance and Accounting , volume 46 , issue 2 , p. 387 - 416 Posted: 2016
+D Andriosopoulos , M Lasfer
+The market valuation of share repurchases in Europe
+Journal of Banking & Finance , volume 55 , p. 327 - 339 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+59
+ABSTRACT VIEWS
+502
+RANK
+848,823
+57 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Accounting - Disclosure eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

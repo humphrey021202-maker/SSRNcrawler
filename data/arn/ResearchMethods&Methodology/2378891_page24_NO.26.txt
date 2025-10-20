@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Empirical Examination of Horizon: Evidence from the Term Structure of Implied Equity Volatilities
+
+Ross School of Business Paper No. 1223
+
+54 Pages Posted: 16 Jan 2014 Last revised: 6 Feb 2014
+
+Ryan T. Ball
+
+The Stephen M. Ross School of Business at the University of Michigan
+
+Jonathan A. Milian
+
+Florida International University (FIU)
+
+Date Written: January 14, 2014
+
+Abstract
+
+We develop and test measures of the horizon of firm uncertainty and of the horizon of managers’ corporate disclosures. The measures exploit information in the term structure of implied equity volatilities to gauge the relative extent to which the information underlying securities prices reflects long-term versus short-term uncertainty. We find that the horizon of firm uncertainty measure is associated with variables that are likely to capture the extent to which firms’ business models result in differing degrees of uncertainty about the long-term versus the short-term. The horizon of managers’ corporate disclosures measure allows us to characterize managers’ disclosures in terms of whether they provide information about long-term business strategies or are more oriented towards short-term operating results. We find that earnings announcements containing management forecasts have shorter disclosure horizons than earnings announcements not containing management forecasts.
+
+Keywords: corporate disclosure, short-term focus, earnings guidance, uncertainty, horizon
+
+Suggested Citation:
+
+Ball, Ryan T. and Milian, Jonathan A., An Empirical Examination of Horizon: Evidence from the Term Structure of Implied Equity Volatilities (January 14, 2014). Ross School of Business Paper No. 1223, Available at SSRN: https://ssrn.com/abstract=2378891 or http://dx.doi.org/10.2139/ssrn.2378891
+Download This Paper
+ 
+Open PDF in Browser
+56 References
+D Aboody , B Lev
+The value-relevance of intangibles: the case of software capitalization
+Journal of Accounting Research , volume 36 , p. 161 - 191 Posted: 1998
+Crossref
+B Ajinkya , M J Gift
+Corporate managers' earnings forecasts and symmetrical adjustments of market expectations
+Journal of Accounting Research , volume 22 , p. 425 - 444 Posted: 1984
+Crossref
+A Alford , R Leftwich , M Zmijewski
+The relative informativeness of accounting disclosures in different countries
+Journal of Accounting Research , volume 31 , p. 183 - 223 Posted: 1993
+Crossref
+E Amir , B Lev
+Value-relevance of nonfinancial information: the wireless communications industry
+Journal of Accounting and Economics , volume 22 , p. 3 - 30 Posted: 1996
+Crossref
+Load more
+1 Citations
+Ryan T. Ball , Lindsey A. Gallo
+A Mixed Data Sampling Approach to Accounting Research
+49 Pages · Posted: 10 Oct 2018 · Downloads: 4,387
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+205
+ABSTRACT VIEWS
+2,683
+RANK
+339,258
+1 Citations
+56 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,146 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cost-of-Capital Effects of IFRS Reporting in the United States
+
+42 Pages Posted: 6 Feb 2012
+
+Kazbi Soonawalla
+
+London School of Economics & Political Science (LSE) - Department of Accounting and Finance
+
+Suhas A. Sridharan
+
+Emory University - Goizueta Business School
+
+Date Written: December 1, 2011
+
+Abstract
+
+This paper investigates the cost of equity capital effects of the SEC’s decision to eliminate the U.S. GAAP reconciliation requirement for cross-listed companies using IFRS. We use a sample of foreign domiciled firms that are cross-listed in the U.S. to conduct this investigation. We partition our cross-listed sample into three distinct groups: those firms that file using IFRS, those firms that file directly in U.S GAAP, and those that file in their own domestic GAAP with a 20-F reconciliation. For each of these groups we calculate cost of equity capital using a range of traditional measures and examine changes in these measures from 2006 to 2007 – the year that IFRS filers were no longer required to file a 20-F reconciliation. In order to ensure that the changes in the traditional cost of capital measures are not driven by firm fundamentals we control for firm specific factors when calculating an additional residual cost of capital measure. In contrast to prior research, we find evidence of a significant decline in residual cost of equity from 2006 to 2007 for IFRS filers in response to the elimination of U.S. GAAP reconciliations relative to both U.S. and non-U.S. local GAAP filers. Our results suggest that eliminating the reconciliation for IFRS filers does not weaken the information environment relative to U.S. GAAP.
+
+Keywords: cost of capital, IFRS, US GAAP, convergence, harmonisation, 20-F reconciliation
+
+Suggested Citation:
+
+Soonawalla, Kazbi and Sridharan, Suhas A., Cost-of-Capital Effects of IFRS Reporting in the United States (December 1, 2011). Available at SSRN: https://ssrn.com/abstract=2000113 or http://dx.doi.org/10.2139/ssrn.2000113
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+E Amir , T Harris , E Venuti
+A Comparison of the Value-Relevance of U.S. versus Non-U.S. GAAP Accounting Measures Using Form 20-F Reconciliations
+Journal of Accounting Research , volume 31 , p. 230 - 264 Posted: 1993
+Crossref
+H Ashbaugh , P Olsson
+An Exploratory Study of the Valuation Properties of CrossListed Firms
+IAS and U.S. GAAP. The Accounting Review , volume 77 , p. 107 - 126 Posted: 2002
+T Atwood , M S Drake , J N Myers , L A Myers
+Do Earnings Reported Under IFRS Tell Us More About Future Earnings and Cash Flows?
+Journal of Accounting and Public Policy , volume 30 , issue 2 , p. 103 - 121 Posted: 2011
+Crossref
+M E Barth , G Clinch
+International accounting differences and their relation to share prices: Evidence from U.K., Australian, and Canadian firms
+Contemporary Accounting Research , volume 13 , p. 135 - 170 Posted: 1996
+Crossref
+Load more
+2 Citations
+Donal Byard , Shamin Mashruwala , Jangwon Suh
+Does the 20-F Reconciliation Affect Investors' Perception of Comparability between Foreign Private Issuers (FPIs) and U.S. Firms?
+Accounting Horizons , volume 31 , issue 2 , p. 1 Posted: 2017
+Crossref
+Stuart Mestelman , Emad Mohammad , Mohamed Shehata
+The Convergence of IFRS and U.S. GAAP: Evidence from the SEC's Removal of Form 20‐F Reconciliations
+Accounting Perspectives , volume 14 , issue 3 , p. 190 Posted: 2015
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+545
+ABSTRACT VIEWS
+2,946
+RANK
+116,737
+2 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+International Accounting Standards and Accounting Quality
+
+By Mary E. Barth, Wayne R. Landsman, ...
+
+Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences
+
+By Holger Daske, Luzi Hail, ...
+
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors
+
+By Ray Ball
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

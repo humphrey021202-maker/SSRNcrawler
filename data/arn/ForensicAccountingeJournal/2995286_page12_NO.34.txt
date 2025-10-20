@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Framework of Applying Process Mining for Fraud Scheme Detection
+
+26 Pages Posted: 30 Jun 2017
+
+Tiffany Chiu
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+Yunsen Wang
+
+Montclair State University - School of Business
+
+Miklos A. Vasarhelyi
+
+Rutgers Business School
+
+Date Written: June 29, 2017
+
+Abstract
+
+Process mining has been used for auditing and internal control risk assessment as an audit analytical tool. This paper aims at providing a framework on how process mining can be applied to identify fraud schemes and assessing the riskiness of business processes. Specifically, the proposed framework captures how the patterns in process mining can be used to detect potentially fraudulent transactions. This paper contributes to the existing literature by associating notable variants/activities with potential fraud schemes and then assigning risk levels, which could be used as an automatic tool to test the fraud risk of every transaction. In addition, process mining enables auditors with the full population of event logs that can be used as non-financial information in fraud scheme detection.
+
+Keywords: Process Mining; Financial Statement Fraud Detection; Fraud Schemes; Event Logs
+
+Suggested Citation:
+
+Chiu, Tiffany and Wang, Yunsen and Vasarhelyi, Miklos A., A Framework of Applying Process Mining for Fraud Scheme Detection (June 29, 2017). Available at SSRN: https://ssrn.com/abstract=2995286 or http://dx.doi.org/10.2139/ssrn.2995286
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+M S Beasley
+An empirical analysis of the relation between the board of director composition and financial statement fraud
+Accounting review , p. 443 - 465 Posted: 1996
+Crossref
+M D Beneish
+Incentives and penalties related to earnings overstatements that violate GAAP
+The Accounting Review , volume 74 , issue 4 , p. 425 - 457 Posted: 1999
+Crossref
+J F Brazel , K L Jones , M F Zimbelman
+Using nonfinancial measures to assess fraud risk
+Journal of Accounting Research , volume 47 , issue 5 , p. 1135 - 1166 Posted: 2009
+Crossref
+F A Bukhsh , H Weigand
+REA & process mining: How to combine them for auditing?'. 6th International Workshop on Value Modeling and Business Ontology Posted: 2012
+Load more
+2 Citations
+Li Zhang , Duo Pei , Miklos A. Vasarhelyi
+Toward a New Business Reporting Model
+Journal of Emerging Technologies in Accounting , volume 14 , issue 2 , p. 1 Posted: 2017
+Crossref
+Tiffany Chiu , Mieke Julie Jans
+Process Mining of Event Logs: A Case Study Evaluating Internal Control Effectiveness
+43 Pages · Posted: 12 Mar 2018 · Downloads: 826
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+592
+ABSTRACT VIEWS
+2,886
+RANK
+104,934
+2 Citations
+36 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

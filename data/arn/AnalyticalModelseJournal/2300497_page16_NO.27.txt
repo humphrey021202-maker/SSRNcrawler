@@ -1,0 +1,149 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Contribution of Bank Regulation and Fair Value Accounting to Procyclical Leverage
+
+Review of Accounting Studies, Forthcoming
+
+56 Pages Posted: 29 Jul 2013 Last revised: 8 Mar 2017
+
+Amir Amel-Zadeh
+
+University of Oxford - Said Business School
+
+Mary E. Barth
+
+Stanford University - Graduate School of Business
+
+Wayne R. Landsman
+
+University of North Carolina Kenan-Flagler Business School
+
+Date Written: February 28, 2017
+
+Abstract
+
+Our analytical description of how banks’ responses to asset price changes can result in procyclical leverage reveals that for banks with a binding regulatory leverage constraint, absent differences in regulatory risk weights across assets, procyclical leverage does not occur. For banks without a binding constraint, fair value and bank regulation both can contribute to procyclical leverage. Empirical findings based on a large sample of US commercial banks reveal that bank regulation explains procyclical leverage for banks relatively close to the regulatory leverage constraint and contributes to procyclical leverage for those that are not. We also show that fair value accounting does not contribute to procyclical leverage by finding (i) the portion of comprehensive income attributable to fair value accounting, i.e., fair value comprehensive income, has a negative relation with change in leverage as expected for any increase in equity, (ii) no evidence of a positive relation between fair value comprehensive income and banks’ net purchases of assets, and (iii) the relation between change in leverage and fair value comprehensive income is more negative than that between change in leverage and change in equity.
+
+Keywords: Fair value accounting, procyclicality, leverage, risk-based capital regulation, financial institutions, commercial banks
+
+JEL Classification: E32, G20, G21, G28, G32, M41
+
+Suggested Citation:
+
+Amel-Zadeh, Amir and Barth, Mary E. and Landsman, Wayne R., The Contribution of Bank Regulation and Fair Value Accounting to Procyclical Leverage (February 28, 2017). Review of Accounting Studies, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2300497 or http://dx.doi.org/10.2139/ssrn.2300497
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+V V Acharya , S G Ryan
+Banks' Financial Reporting and Financial System Stability
+Journal of Accounting Research , volume 54 , p. 277 - 340 Posted: 2016
+Crossref
+Tobias Adrian , Hyun Song Shin
+Liquidity and Financial Cycles
+BIS Working Paper No. 256 Pages: 38 Posted: 22 Jul 2008
+Download PDF  Add Paper to My Library
+T Adrian , H S Shin
+Liquidity and Leverage
+Journal of Financial Intermediation , volume 19 , p. 418 - 437 Posted: 2010
+Crossref
+T Adrian , H Shin
+Procyclical Leverage and Value-at-Risk
+Review of Financial Studies , volume 27 , p. 373 - 403 Posted: 2014
+Crossref
+Load more
+10 Citations
+Alessandro Leardi
+Fuelling fire sales? Prudential regulation and crises: evidence from the Italian market
+Journal of Economics and Finance , volume 46 , issue 1 , p. 121 Posted: 2022
+Crossref
+David Procházka
+Global Versus Local Perspectives on Finance and Accounting
+, p. 217 Posted: 2019
+Crossref
+Manfred Kühnberger
+Kapitalmarktorientierte Rechnungslegung
+, p. 65 Posted: 2017
+Crossref
+Karthik Balakrishnan , Emmanuel T. De George , Aytekin Ertan , Hannah Scobie
+Economic Consequences of Mandatory Auditor Reporting to Bank Supervisors
+University of Miami Business School Research Paper No. 3510389, Journal of Accounting & Economics (JAE), Forthcoming · 82 Pages · Posted: 10 Jan 2020 · Last revised: 10 Aug 2021 · Downloads: 299
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,065
+ABSTRACT VIEWS
+10,049
+RANK
+47,856
+10 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

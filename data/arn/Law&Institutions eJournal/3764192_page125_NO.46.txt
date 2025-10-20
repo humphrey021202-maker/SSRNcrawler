@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Much Insider Trading Happens in Stock Markets?
+
+American Finance Association (AFA) Annual Meeting
+
+59 Pages Posted: 9 Feb 2021 Last revised: 9 Sep 2023
+
+Vinay Patel
+
+University of Technology Sydney (UTS)
+
+Tālis J. Putniņš
+
+University of Technology Sydney (UTS); Digital Finance CRC; Stockholm School of Economics, Riga
+
+Date Written: January 11, 2020
+
+Abstract
+
+We estimate that the prevalence of illegal insider trading is at least four times greater than the number of prosecutions. Using structural estimation methods that account for incomplete non-random detection and all US prosecuted insider trading cases, we estimate that insider trading occurs in 1-in-5 mergers and acquisitions and in 1-in-20 earnings announcements. We find that insider trading is more likely when the information is more valuable, more people are in possession of the information, and in more liquid stocks. Detection and prosecution are more likely when there are abnormal trading patterns and more regulatory resourcing.
+
+Keywords: insider trading, prosecution, detection controlled estimation, M&A, earnings
+
+JEL Classification: G14
+
+Suggested Citation:
+
+Patel, Vinay and Putnins, Talis J., How Much Insider Trading Happens in Stock Markets? (January 11, 2020). American Finance Association (AFA) Annual Meeting, Available at SSRN: https://ssrn.com/abstract=3764192 or http://dx.doi.org/10.2139/ssrn.3764192
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+V V Acharya , T C Johnson
+More insiders, more insider trading: Evidence from private-equity buyouts
+Journal of Financial Economics , volume 98 , p. 500 - 523 Posted: 2010
+A Admati , P Pfleiderer
+A theory of intraday patterns: Volume and price variability
+Review of Financial Studies , volume 1 , p. 3 - 40 Posted: 1988
+K R Ahern
+Information networks: Evidence from illegal insider trading tips
+Journal of Financial Economics , volume 125 , p. 26 - 47 Posted: 2017
+K R Ahern
+Do proxies for informed trading measure informed trading? Evidence from illegal insider trades
+Review of Asset Pricing Studies , volume 10 , p. 397 - 440 Posted: 2020
+Load more
+2 Citations
+Kurt M. Saunders , Luis Perez
+Concepts and Cases of Illicit Finance
+, p. 1 Posted: 2023
+Crossref
+Marc J. M. Bohmann , Vinay Patel
+Informed options trading prior to FDA announcements
+Journal of Business Finance & Accounting , volume 49 , issue 7-8 , p. 1211 Posted: 2022
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+4,039
+ABSTRACT VIEWS
+16,961
+RANK
+5,975
+2 Citations
+41 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

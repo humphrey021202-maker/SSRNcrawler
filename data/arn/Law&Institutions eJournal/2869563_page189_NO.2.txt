@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Reporting Quality and Noise in Stock Returns: Evidence from Chinese A-B Twin Shares
+
+Journal of Financial Reporting, Forthcoming https://doi.org/10.2308/JFR-2019-0019
+
+57 Pages Posted: 15 Nov 2016 Last revised: 13 Aug 2020
+
+Liang Ma
+
+University of South Carolina - Darla Moore School of Business
+
+Tao Ma
+
+Texas Tech University - Area of Accounting
+
+Henry L. Friedman
+
+University of California, Los Angeles (UCLA) - Anderson School of Management
+
+Date Written: July 12, 2020
+
+Abstract
+
+We examine how financial reporting quality affects the degree of noise in stock returns using the setting of Chinese A-B twin shares, which are shares for the same firm, traded on the same exchange but with separate inventor clienteles (i.e., mainly domestic vs. foreign). We measure return noise using the correlation between firm-specific returns of A-B twin shares and find that higher financial reporting quality leads to less return noise, both in panel regressions and using China’s 2007 accounting standard reform as an exogenous shock to financial reporting quality. We also find that returns are less noisy around earnings announcements than during other trading days. Our results suggest that higher-quality financial reporting can reduce the degree of noise in returns and make returns more efficient.
+
+Keywords: Financial Reporting Quality, Noise in Stock Returns, Stock Market Efficiency, A-B Twin Shares, Chinese Stock Market
+
+JEL Classification: G14, G15, M41
+
+Suggested Citation:
+
+Ma, Liang and Ma, Tao and Friedman, Henry L., Financial Reporting Quality and Noise in Stock Returns: Evidence from Chinese A-B Twin Shares (July 12, 2020). Journal of Financial Reporting, Forthcoming https://doi.org/10.2308/JFR-2019-0019, Available at SSRN: https://ssrn.com/abstract=2869563 or http://dx.doi.org/10.2139/ssrn.2869563
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+Elias Albagli , Pengjie Gao , Yongxiang Wang
+Property Rights Protection, Information Acquisition, and Asset Prices: Theory and Evidence
+Pages: 48 Posted: 15 Mar 2012 Last revised: 27 Aug 2013
+Download PDF  Add Paper to My Library
+Y Amihud
+Illiquidity and stock returns: Cross-section and time-series effects
+Journal of Financial Markets , volume 5 , p. 31 - 56 Posted: 2002
+Crossref
+S G Badrinath , J R Kale , T H Noe
+Of Shepherds, sheep, and the cross autocorrelations in equity returns
+Review of Financial Studies , volume 8 , p. 401 - 430 Posted: 1995
+Crossref
+N Barberis , A Shleifer , R Vishny
+A model of investor sentiment
+Journal of Financial Economics , volume 49 , p. 307 - 343 Posted: 1998
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+292
+ABSTRACT VIEWS
+3,498
+RANK
+238,367
+1 Citations
+77 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

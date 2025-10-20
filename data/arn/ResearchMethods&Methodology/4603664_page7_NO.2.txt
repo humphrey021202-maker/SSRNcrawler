@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On Detecting and Predicting Structural Changes and Breaks
+
+17 Pages Posted: 13 Nov 2023
+
+Peter Kotzian
+
+Heinrich Heine University Dusseldorf; Technical University of Darmstadt
+
+Date Written: October 16, 2023
+
+Abstract
+
+Much of the daily business of data scientists is about extracting patterns in data as a basis for decision makers in various, mostly economic, settings. Aligned with this task, most applications of machine learning and artificial intelligence are limited to extracting patterns in data which remain basically stable in terms of drivers of the events under consideration. This focus is inherent to the situation data science is confronted with: existing data covers the past. The emergence of new types of cases, e.g., in unsupervised clustering notwithstanding, the employed algorithm extracts a more or less complex set of drivers from the training data, using this to predict upcoming cases. However, while these tasks are central to data science, they are only part of the picture. Fads, but also economic and political shocks induce changes, for instance create new types of events (e.g., a new type of customer) and also changes the mechanisms driving known types of events (e.g., a loan default). Thus, a crucial, but difficult subject for data science, are changes in the patterns: when does a model extracted from the past does no longer fit the current situation? This paper elaborates on the notion of a structural change, by considering, first, What constitutes a structural change, second, Can structural changes in the data be predicted? Using data from a drug store chain as an example, we identify structural changes, using four definitions of the notion, and investigate possible triggers for structural changes. We discuss implications for data science standard applications.
+
+Keywords: C18, C23, C38, C45, C53
+
+Suggested Citation:
+
+Kotzian, Peter, On Detecting and Predicting Structural Changes and Breaks (October 16, 2023). Available at SSRN: https://ssrn.com/abstract=4603664 or http://dx.doi.org/10.2139/ssrn.4603664
+Download This Paper
+ 
+Open PDF in Browser
+5 References
+C.-S J Chu , M Stinchcombe , H White
+Monitoring Structural Change
+Econometrica , volume 64 , issue 5 , p. 1045 - 1065 Posted: 1996
+M Ester , H.-P Kriegel , J Sander , X Xu , E Simoudis , J Han , U M Fayyad
+A density-based algorithm for discovering clusters in large spatial databases with noise
+Proceedings of the Second International Conference on Knowledge Discovery and Data Mining , p. 226 - 231 Posted: 1996
+M Krakowski , G Klassen , M Bravidor , S Conrad
+Predicting Erroneous Financial Statements Using a Density-Based Clustering Approach
+Proceedings of the 4th International Conference on Business and Information Management , volume 2020 , p. 89 - 94 Posted: 2020
+E Maasoumi , A Zaman , M Ahmed
+Tests for structural change, aggregation, and homogeneity
+Economic Modelling , volume 27 , issue 6 , p. 1382 - 1391 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+84
+ABSTRACT VIEWS
+458
+RANK
+692,196
+5 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Computational & Applied Mathematics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Income Taxation and Heterogeneity
+
+133 Pages Posted: 7 Apr 2021 Last revised: 15 Mar 2022
+
+John Sturm
+
+Massachusetts Institute of Technology (MIT) - Department of Economics
+
+Andre Sztutman
+
+Carnegie Mellon University - David A. Tepper School of Business
+
+Date Written: April 6, 2021
+
+Abstract
+
+How should income taxes account for differences in households’ tax responses? We address this question with a new efficiency test for non-linear income tax schedules in environments with arbitrary heterogeneity in the elasticity of taxable income (ETI). Importantly, the test fails when these differences in ETI are wide enough among households with the same income. In such cases, the planner can reform taxes to (a) sort households into different parts of the income distribution based on their elasticities and—at the same time—(b) adapt to this separation using higher marginal taxes on the less elastic. Moving to the data, we evaluate our test using novel estimates of the variance of ETI by income bracket. In the NBER sample of tax returns from 1979 to 1990, our preliminary estimates indicate that the test fails every year. This implies that a “free lunch” is available through tax reform.
+
+Keywords: optimal taxation, Pareto efficiency, multidimensional heterogeneity
+
+JEL Classification: H21
+
+Suggested Citation:
+
+Sturm, John and Sztutman, Andre, Income Taxation and Heterogeneity (April 6, 2021). Available at SSRN: https://ssrn.com/abstract=3820880 or http://dx.doi.org/10.2139/ssrn.3820880
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+C Aliprantis , Border
+Infinite Dimensional Analysis: A Hitchhiker's Guide Posted: 2006
+Susan Athey , Julie Tibshirani , Stefan Wager
+Generalized random forests
+The Annals of Statistics , volume 47 , issue 2 , p. 1148 - 1178 Posted: 2019
+Olivier Bargain , Mathias Dolls , Dirk Neumann , Andreas Peichl , Sebastian Siegloch
+Tax-benefit revealed social preferences in europe and the us
+Annals of Economics and Statistics/Annales d'Économie et de Statistique , issue 113/114 , p. 257 - 289 Posted: 2014
+Felix Bierbrauer , Pierre Boyer , Emanuel Hansen
+Pareto-improving tax reforms and the earned income tax credit Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+303
+ABSTRACT VIEWS
+1,390
+RANK
+229,292
+2 Citations
+41 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

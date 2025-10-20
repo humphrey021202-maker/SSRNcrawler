@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dividend Policy and Investment Efficiency -- The Changes of the Mandatory Dividends Payment
+
+43 Pages Posted: 15 Jan 2016
+
+Raymond Siu Yeung Chan
+
+Hong Kong Baptist University
+
+Byron Y. Song
+
+Hong Kong Baptist University
+
+Lu Fan
+
+Hong Kong Baptist University
+
+Date Written: January 13, 2016
+
+Abstract
+
+This paper demonstrates important interactions between dividend policy and investment efficiency. We find that dividend payout can improve investment efficiency, especially can mitigate over-investment. Prior research shows that dividend payout help mitigate over-investment problem (Biddle, Hilary, and Verdi, 2009). However, firms with low investment discretionary may be maturer, have rich cash flows, and prefer to issue dividends. We use a setting to solve this problem. In 2006, China Securities Regulatory Commission (CSRC) issues documents and declares that firms need to issue at least 20% of their net profit as cash dividends accumulatively in continuous three years before refinancing. In 2008, this rate increases to 30%. We find the negative effect of dividend on over-investment is more significant after 2006. Because this regulation is associated with refinancing, we use cross-sectional analysis to compare firms with and without refinancing activities. This can exclude the effect of the macroeconomic factors and other regulation factors. We find that firms with refinancing activities have negative effect on the depressant effect of dividend payout on over-investment. This effect is more significant after 2006. This mitigating effect is mainly affected by the shock in 2006, when the refinancing activities are first linked to a certain amount of dividend payments. Besides, we also find that the larger size of refinancing, the more negative effect on the depressant effect of dividend payout on over-investment is. Larger size of refinancing means that firms are more likely to have larger investment projects. Those kinds of firms really need cash to catch the investment opportunities. At that time, CSRC asks them to issue at least 20% of net profit as cash dividends can attenuate the over-investment more pronouncedly. These policy events provide exogenous shocks, which can attenuate the endogeneity concern. Our finding is consistent with prior the research (Biddle et al., 2009). It is robust when we use different model to estimate investment residual and after other robust tests. After analyzing, we can conclude that dividend payout can alleviate over-investment.
+
+Keywords: dividend payout; investment efficiency; over-investment
+
+Suggested Citation:
+
+Chan, Raymond Siu Yeung and Song, Byron Y. and Fan, Lu, Dividend Policy and Investment Efficiency -- The Changes of the Mandatory Dividends Payment (January 13, 2016). Available at SSRN: https://ssrn.com/abstract=2715220 or http://dx.doi.org/10.2139/ssrn.2715220
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+504
+ABSTRACT VIEWS
+3,286
+RANK
+128,423
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

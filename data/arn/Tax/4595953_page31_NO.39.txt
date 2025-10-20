@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analyst Coverage and its Impact on Tax Aggressiveness: A Study on B3-listed Brazilian Companies
+
+23 Pages Posted: 6 Nov 2023
+
+Antonio Lopo Martinez
+
+University of Coimbra Institute for Legal Research; University of Salamanca
+
+Lennilton Viana Leal
+
+Universidade Federal do Piauí (UFPI)
+
+Date Written: October 8, 2023
+
+Abstract
+
+This study investigates the relationship between tax aggressiveness and the number of financial analysts covering Brazilian companies listed on the B3 stock exchange between 2010 and 2021, with a focus on the role of information asymmetry. Specifically, the analysis examines metrics such as Book-Tax Differences (BTD) and Effective Tax Rates (ETR) to assess the extent to which companies employ aggressive tax practices. The findings indicate that an increase in the number of financial analysts covering a company is associated with a decrease in tax aggressiveness, which highlights the role of financial analyst coverage in mitigating information asymmetry between investors and company management. The study employs multiple regression analysis to support the hypothesis that an increase in analyst coverage has a negative impact on tax aggressiveness, which is consistent with the findings of previous research. The research has significant implications for regulators, financial statement preparers, and users who rely on accounting information in Brazil for decision-making. An increase in analyst coverage enhances business visibility and generates a heightened demand for transparent information from analysts, which helps to reduce information asymmetry and promote greater corporate integrity and accountability. Overall, the findings of this study underscore the importance of considering the relationship between information asymmetry and tax aggressiveness in Brazilian companies listed on the B3 stock exchange.
+
+Keywords: Analyst coverage, tax aggressiveness, book-tax differences, effective tax rates
+
+JEL Classification: H26, G2
+
+Suggested Citation:
+
+Martinez, Antonio Lopo and Viana Leal, Lennilton, Analyst Coverage and its Impact on Tax Aggressiveness: A Study on B3-listed Brazilian Companies (October 8, 2023). Available at SSRN: https://ssrn.com/abstract=4595953 or http://dx.doi.org/10.2139/ssrn.4595953
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+G A Akerlοf
+The Market fοr "Lemοns": Quality uncertainty and the Market Meⅽhanism , volume 84 , p. 488 - 500 Posted: 1970
+G A Akerlof , R E Kranton
+Economics and identity
+The Quarterly Journal of Economics , volume 115 , issue 3 , p. 715 - 753 Posted: 2000
+A Allen , B B Francis , Q Wu , Y Zhao
+Analyst coverage and corporate tax aggressiveness
+Journal of Banking & Finance , volume 73 , p. 84 - 98 Posted: 2016
+N M Belo , H G Brasil
+Assimetria infοrmacional e eficiência semifοrte de mercado
+Revista de Administração de Empresas -RAE , volume 46 , p. 48 - 57 Posted: 2006
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+192
+ABSTRACT VIEWS
+910
+RANK
+361,062
+55 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

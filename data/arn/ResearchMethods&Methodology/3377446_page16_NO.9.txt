@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Testing for Private Information Using Trade Duration Models with Unobserved Market Heterogeneity: The Case of Banco Popular
+
+Research Institute of Applied Economics Working Paper 2019/07
+
+23 Pages Posted: 9 May 2019
+
+Jorge Pérez Rodríguez
+
+University of Las Palmas de Gran Canaria - Faculty of Economic Science
+
+Emilio Gómez-Déniz
+
+Universidad de Las Palmas de Gran Canaria
+
+Simon Sosvilla-Rivero
+
+UCM Institute for Economic Analysis
+
+Date Written: April 24, 2019
+
+Abstract
+
+In this paper, we attempt to assess the potential importance of different types of traders (i.e., those with public and private information) in financial markets using a specification of the standardized duration. This approach allows us to test unobserved heterogeneity in a nonlinear version based on a self-exciting threshold autoregressive conditional duration model. We illustrate the relevance of this procedure for identifying the presence of private information in the final days of trading of Banco Popular, the first bank rescued by the European Single Resolution Board.
+
+Keywords: conditional duration, threshold models, finite and infinite mixtures, private information, bank failure
+
+JEL Classification: C22, C41, D53, D82, G10, G12, G14
+
+Suggested Citation:
+
+Pérez Rodríguez, Jorge and Gómez-Déniz, Emilio and Sosvilla-Rivero, Simon, Testing for Private Information Using Trade Duration Models with Unobserved Market Heterogeneity: The Case of Banco Popular (April 24, 2019). Research Institute of Applied Economics Working Paper 2019/07, Available at SSRN: https://ssrn.com/abstract=3377446 or http://dx.doi.org/10.2139/ssrn.3377446
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+R Albuquerque , G H Bauer , M Schneider
+Global private information in international equity markets
+Journal of Financial Economics , volume 94 , p. 18 - 46 Posted: 2009
+Crossref
+H Aslan , D Easley , S Hvidkjaer , M O&apos;hara
+The characteristics of informed trading: Implications for asset pricing
+Journal of Empirical Finance , volume 18 , p. 782 - 801 Posted: 2011
+L Bauwens , P Giot
+The logarithmic ACD model: An application to the bidask quote process of three NYSE stocks
+Annales d'Economie et de Statistique , volume 60 , p. 117 - 150 Posted: 2000
+Crossref
+L Bauwens , D Veredas
+The stochastic conditional duration model: a latent factor model for the analysis of financial durations
+Journal of Econometrics , volume 119 , p. 381 - 412 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+46
+ABSTRACT VIEWS
+1,000
+52 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+European Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

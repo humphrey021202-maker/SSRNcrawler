@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Signals or Smoke? The Determinants and Informativeness of Corporate Artificial Intelligence (AI) Disclosures
+
+72 Pages Posted: 12 Feb 2025 Last revised: 23 May 2025
+
+John Manuel Barrios
+
+Yale School of Management; National Bureau of Economic Research
+
+John L. Campbell
+
+University of Georgia - J.M. Tull School of Accounting
+
+Ryan G. Johnson
+
+Indiana University - Kelley School of Business - Department of Accounting
+
+Y. Christine Liu
+
+Bentley University
+
+Date Written: August 23, 2024
+
+Abstract
+
+Artificial Intelligence (AI) has emerged as a transformative General Purpose Technology (GPT), yet significant uncertainty around firms’ AI investments remains due to their intangible and opaque nature. We examine the characteristics of firms that disclose AI activities, and whether these disclosures provide credible signals of firms’ underlying AI investments and their future economic outcomes. Using advanced textual analysis of corporate disclosures and detailed firm-level data on AI employment, we document four key findings. First, firms that disclose AI activities are generally innovative, operate in AI-intensive industries, and face greater investor scrutiny. Second, AI disclosures are positively associated with subsequent operational efficiency and AI patent filings, even after accounting for firms’ investment in AI human capital. This indicates that disclosure not only signals AI investment but also managers’ confidence in its expected returns. Third, firms that align high AI disclosures with substantial AI employment exhibit greater operational benefits than those with mismatches. Finally, these aligned firms significantly outperform peers in long-term stock returns, highlighting the crucial role of complementary human capital investment in unlocking AI’s potential. Our findings underscore that AI disclosures provide investors with a signal about firms’ underlying investments as well as managers’ confidence in those investments, thereby facilitating the market’s assessment of firms’ technological adoption and growth prospects.
+
+Suggested Citation:
+
+Barrios, John Manuel and Campbell, John L. and Johnson, Ryan G. and Liu, Y. Christine,
+
+Signals or Smoke? The Determinants and Informativeness of Corporate Artificial Intelligence (AI) Disclosures
+
+(August 23, 2024). Available at SSRN: https://ssrn.com/abstract=5133107 or http://dx.doi.org/10.2139/ssrn.5133107
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+J M Abowd , J Haltiwanger , J Lane
+Integrated longitudinal employer-employee data for the United States
+The American Economic Review , volume 94 , issue 2 , p. 224 - 229 Posted: 2004
+D Acemoglu , D Autor , J Hazell , P Restrepo
+Artificial intelligence and jobs: Evidence from online vacancies
+Journal of Labor Economics , volume 40 , issue S1 , p. 293 - 340 Posted: 2022
+P Aghion , B F Jones , C I Jones
+Artificial intelligence and economic growth Posted: 2017
+A Agrawal , J S Gans , A Goldfarb
+Artificial intelligence: The ambiguous labor market impact of automating prediction
+Journal of Economic Perspectives , volume 33 , issue 2 , p. 31 - 50 Posted: 2019
+Load more
+1 Citations
+Xin Song , Julieta Mercado González , Luz Cecilia Revilla , Nicole Goldberg Dalma
+<b>Unveiling Mexican Perspectives on AI Meets Luxury Marketing in Mexico</b>
+Journal of Applied Business & Behavioral Sciences , volume 1 , issue 1 , p. 1 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,107
+ABSTRACT VIEWS
+3,822
+RANK
+45,273
+1 Citations
+55 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

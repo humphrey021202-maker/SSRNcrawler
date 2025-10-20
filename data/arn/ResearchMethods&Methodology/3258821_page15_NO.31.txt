@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is Positive Sentiment in Corporate Annual Reports Informative? Evidence from Deep Learning
+
+Forthcoming, Review of Asset Pricing Studies, 2021
+
+59 Pages Posted: 15 Aug 2019 Last revised: 6 Jan 2021
+
+Mehran Azimi
+
+University of Massachusetts Boston - Department of Accounting and Finance
+
+Anup Agrawal
+
+University of Alabama - Culverhouse College of Commerce & Business Administration
+
+Date Written: January 5, 2021
+
+Abstract
+
+We use a novel text classification approach from deep learning to more accurately measure sentiment in a large sample of 10-Ks. In contrast to most prior literature, we find that positive, and negative, sentiment predicts abnormal return and abnormal trading volume around 10-K filing date and future firm fundamentals and policies. Our results suggest that the qualitative information contained in corporate annual reports is richer than previously found. Both positive and negative sentiments are informative when measured accurately, but they do not have symmetric implications, suggesting that a net sentiment measure advocated by prior studies would be less informative.
+
+Keywords: Corporate annual reports, 10-K filings, Textual analysis, Textual sentiment classification, Deep learning
+
+JEL Classification: C81, D83, G10, G14, G30, M41
+
+Suggested Citation:
+
+Azimi, Mehran and Agrawal, Anup, Is Positive Sentiment in Corporate Annual Reports Informative? Evidence from Deep Learning (January 5, 2021). Forthcoming, Review of Asset Pricing Studies, 2021, Available at SSRN: https://ssrn.com/abstract=3258821 or http://dx.doi.org/10.2139/ssrn.3258821
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+V Acharya , S A Davydenko , I A Strebulaev
+Cash holdings and credit risk
+Review of Financial Studies , volume 25 , p. 3572 - 3609 Posted: 2012
+Crossref
+W Antweiler , M Z Frank
+Is all that talk just noise? The information content of internet stock message boards
+Journal of Finance , volume 59 , p. 1259 - 1294 Posted: 2004
+Crossref
+T W Bates , K M Kahle , R M Stulz
+Why do US firms hold so much more cash than they used to
+Journal of Finance , volume 64 , p. 1985 - 2021 Posted: 2009
+Crossref
+G Bellstam , S Bhagat , J A Cookson
+Forthcoming. A text-based analysis of corporate innovation
+Management Science
+Crossref
+Load more
+15 Citations
+Xiliu Man , Tong Luo , Jianwu Lin
+Financial Sentiment Analysis(FSA): A Survey
+, p. 617 Posted: 2019
+Crossref
+Binay Kumar Adhikari , Shradha Bindal , Timothy Colin Campbell , Shane A. Johnson
+CEO Optimism and Competitive Shocks
+79 Pages · Posted: 23 Aug 2018 · Last revised: 12 Sep 2025 · Downloads: 312
+Download PDF  Add Paper to My Library
+Mehran Azimi
+Are Professional Investors Prone to Behavioral Biases? Evidence from Mutual Fund Managers
+35 Pages · Posted: 22 Oct 2019 · Downloads: 575
+Download PDF  Add Paper to My Library
+Elizabeth Blankespoor , Bradley E. Hendricks , Gregory S. Miller
+The Pitch: Managers’ Disclosure Choice During IPO Roadshows
+50 Pages · Posted: 25 Mar 2020 · Last revised: 4 Apr 2022 · Downloads: 1,174
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,384
+ABSTRACT VIEWS
+8,221
+RANK
+32,716
+15 Citations
+36 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

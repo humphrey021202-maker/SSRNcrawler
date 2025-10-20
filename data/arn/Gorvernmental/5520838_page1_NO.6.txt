@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cost Structure and Profitability: An Empirical Analysis of Nigerian Breweries Plc (2003-2024)
+
+24 Pages Posted: 6 Oct 2025
+
+Boniface Umoh E.
+
+Institute of Management and Technology (IMT), Enugu
+
+Date Written: September 22, 2025
+
+Abstract
+
+Cost efficiency remains a central determinant of corporate survival in competitive industries such as brewing. This study investigates the relationship between cost structure and profitability of Nigerian Breweries Plc from 2003 to 2024, employing both trend analysis and econometric techniques using E-Views. Profitability was proxied by operating profit, while cost structure was decomposed into material cost, labor cost, and overhead cost, alongside macroeconomic indicators such as inflation, exchange rate, and GDP growth. Descriptive statistics and autoregressive models were applied, complemented with SWOT and PESTEL analyses to provide strategic insights. The regression results revealed that material cost had a significant negative effect on profitability (p = 0.0388), while exchange rate (p = 0.0148) and GDP growth (p = 0.0544) positively influenced performance. Labor cost (p = 0.1900), overhead cost (p = 0.1174), and inflation (p = 0.1673) were statistically insignificant but exhibited directional effects consistent with theory. The overall model was statistically significant with Prob(F-statistic) = 0.0011, confirming that cost structure and macroeconomic variables jointly explain variations in profitability. Diagnostic tests showed no evidence of serial correlation (p = 0.6966) or heteroskedasticity (p = 0.3464), validating the model's robustness. It concludes that cost efficiency and macroeconomic stability are critical to sustaining profitability in the Nigerian brewery sector. The study focused on a single firm, which might limit how far the findings can be applied across the entire brewing industry. It recommends management to implement contemporary cost-control measures, diversify foreign exchange risk and invest in digital technologies and automation while lowering ongoing labor and overhead expenses.
+
+Keywords: Cost Structure, Material Cost, Labor Cost, Overhead Cost, Profitability, Operating Profit
+
+Declaration of Interest
+
+no personal or financial relationship
+
+Ethics Approval
+
+This study did not involve human participants, or primary data collection. It relied exclusively on secondary data obtained from publicly available financial reports, macroeconomic databases, and archival sources. Therefore, ethical approval and informed consent were not required.
+
+Funder Statement
+
+self
+
+Suggested Citation:
+
+Umoh E., Boniface, Cost Structure and Profitability: An Empirical Analysis of Nigerian Breweries Plc (2003-2024) (September 22, 2025). Available at SSRN: https://ssrn.com/abstract=5520838 or http://dx.doi.org/10.2139/ssrn.5520838
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+12
+ABSTRACT VIEWS
+57
+PlumX Metrics
+Related eJournals
+
+Governmental & Nonprofit Accounting eJournal
+
+Follow
+
+Microeconomics: Production, Market Structure & Pricing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

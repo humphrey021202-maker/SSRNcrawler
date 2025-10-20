@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Limits to Nonmarket Insurance: A Textual Analysis of the Impact of Corporate Social Responsibility on Media Sentiment
+
+2017 Canadian Academic Accounting Association (CAAA) Annual Conference
+
+23 Pages Posted: 10 Jan 2017
+
+Abhilash S. Nair
+
+IIM Kozhikode
+
+Suresh Kalagnanam
+
+University of Saskatchewan - Edwards School of Business
+
+Date Written: January 8, 2017
+
+Abstract
+
+Prior research examining the impact of corporate social responsibility (CSR) on stakeholders has largely focused on studying the insurance like effect of CSR outlays and the resulting effect on stock returns, thereby emphasizing the implications for shareholders. Our study examines the following research question: “Do secondary stakeholders perceive the nonmarket insurance effect potentially arising out of a company’s CSR activities in the face of integrity-based negative events?” We use the notion of nonmarket insurance (Arnott & Stiglitz, 1991) to hypothesize a negative relationship between the net-negative sentiment score and investments in CSR. In addition, we predict inverse relationships between the sentiment score and several firm characteristics.
+
+Our study focuses on the effects of two of the largest scams in India, the 2G Scam and the Coal Scam, on 13 publicly listed companies (six in the case of one scam and seven in the case of the other). We use text analysis to compute a sentiment score from a total of 9,339 media reports over a seven-year period (2010-14 for the 2G scam and 2012-16 for the coal scam). Our results report a positive relationship between CSR outlays and (net) negative sentiment score, which contradicts the hypothesized inverse relationship and therefore the presence of nonmarket insurance effect, particularly in the context of integrity-based negative events. This suggests that CSR, in the context of our study, does not have the potential to offset the negative reputation accrued as a result of involvement in the scams.
+
+Keywords: Sentiment analysis, Nonmarket insurance, CSR investment, Integrity-based events
+
+Suggested Citation:
+
+Nair, Abhilash Sreekumar and Kalagnanam, Suresh S., Limits to Nonmarket Insurance: A Textual Analysis of the Impact of Corporate Social Responsibility on Media Sentiment (January 8, 2017). 2017 Canadian Academic Accounting Association (CAAA) Annual Conference, Available at SSRN: https://ssrn.com/abstract=2895823 or http://dx.doi.org/10.2139/ssrn.2895823
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+R Arnott , J E Stiglitz
+Moral hazard and nonmarket institutions: Dysfunctional crowding out of peer monitoring?
+The American Economic Review , volume 81 , p. 179 - 190 Posted: 1991
+M Baker , J Wurgler
+Investor sentiment and the cross-section of stock returns
+The Journal of Finance , volume 61 , p. 1645 - 1680 Posted: 2006
+Crossref
+M Baker , J Wurgler
+Investor sentiment in the stock market
+The Journal of Economic Perspectives , volume 21 , p. 129 - 151 Posted: 2007
+Crossref
+R Banz
+The relationship between return and market value of common stocks
+Journal of Financial Economics , volume 9 , p. 3 - 18 Posted: 1981
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+52
+ABSTRACT VIEWS
+477
+RANK
+906,046
+42 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

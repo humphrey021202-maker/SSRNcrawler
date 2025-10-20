@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Joint Distribution of Maxima and Minima of Multivariate Random Variates
+
+35 Pages Posted: 22 Jul 2013
+
+Bernhard Hientzsch
+
+Wells Fargo Bank
+
+Date Written: July 4, 2013
+
+Abstract
+
+In this paper, a characterization of the joint distribution function for the maximum and minimum of a vector is presented in terms of the joint distribution function for the vector. If the joint distribution function is given explicitly, for instance by a copula and marginals, this leads to an explicit computation of the joint distribution function for the maximum and minimum, through a simple algorithm showing exponential computation times, which is nevertheless competitive against simulation approaches for high accuracy and low error for up to seven marginals (and potentially more, depending on the accuracy requirements). Archimedean copulas, among others, provide such an explicit joint distribution function for the vector. For identical marginals, they allow a much faster computation of the joint distribution function for the maximum and minimum, leading to a second algorithm. The algorithms are then used to compare the joint distribution functions for different copulas and different parameters corresponding to different values of Kendall's bi-variate tau and to study the convergence of the empirical joint distribution for the maximum and minimum to the exact joint distribution function.
+
+Keywords: joint distribution function of maximum and minimum, copula, Archimedean copula
+
+JEL Classification: C15, C61, C63, C88
+
+Suggested Citation:
+
+Hientzsch, Bernhard, Joint Distribution of Maxima and Minima of Multivariate Random Variates (July 4, 2013). Available at SSRN: https://ssrn.com/abstract=2295668 or http://dx.doi.org/10.2139/ssrn.2295668
+Download This Paper
+ 
+Open PDF in Browser
+6 References
+Dependence of errors on the number of samples for lognormal marginals and Ali-Mikhail-Haq copula (τ = 0.2, θ ≈ 0.7135) for five marginals References
+Figure , volume 20
+Mario R. Melchiori
+Tools for Sampling Multivariate Archimedean Copulas
+YieldCurve, April 2006 Pages: 8 Posted: 25 Apr 2008 Last revised: 15 Jun 2016
+Download PDF  Add Paper to My Library
+Albert W Marshall , Ingram Olkin
+Families of Multivariate Distributions
+Journal of the American Statistical Association , volume 83 , p. 834 - 841 Posted: 1988
+Crossref
+Marius Hofert
+Efficiently Sampling Nested Archimedean Copula
+Computational Statistics & Data Analysis , volume 55 , p. 57 - 70 Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+514
+ABSTRACT VIEWS
+3,315
+RANK
+125,376
+6 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Recommended Papers
+
+Market Liquidity Risk - An Overview
+
+By Sebastian Stange and Christoph Kaserer
+
+Which Archimedean Copula is the Right One?
+
+By Mario R. Melchiori
+
+Tools for Sampling Multivariate Archimedean Copulas
+
+By Mario R. Melchiori
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

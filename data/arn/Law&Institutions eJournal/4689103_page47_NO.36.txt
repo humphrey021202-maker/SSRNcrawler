@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Investors Information Acquisition and Corporate Investment Efficiency: Evidence from A Quasi-Natural Experiment
+
+Posted: 2 Feb 2024 Last revised: 13 Feb 2024
+
+Karen Jingrong Lin
+
+University of Massachusetts Lowell - Department of Accounting
+
+Chi Zhang
+
+University of Massachusetts Lowell
+
+Ye Zhu
+
+University of Massachusetts Lowell - Department of Accounting
+
+Date Written: November 30, 2023
+
+Abstract
+
+Using the SEC’s 2016 Tick Size Pilot Program (TSPP) as a quasi-natural experiment and deploying the difference-in-differences research design, we provide evidence supporting a causal relationship between investor information acquisition and corporate investment efficiency. We find that after the enactment of the program, treatment stocks witness improved level of corporate investment efficiency, and the effect is mainly due to curbing corporate overinvestment. We further show that the reduction of algorithmic trading and increases in fundamental information acquisition after TSPP enactment attribute to the improvement of investment efficiency. We also find firms with lower corporate transparency benefit more from investor information acquisition in terms of investment efficiency improvement. Our results are not driven by firms in the TSPP have different level of financial constraints. Our evidence is consistent with the existing analytical work regarding the role of public scrutiny on corporate investment efficiency.
+
+Keywords: Corporate investment, Investor Information Acquisition, Tick Size Pilot Program
+
+JEL Classification: G14, G31, M40
+
+Suggested Citation:
+
+Lin, Karen Jingrong and Zhang, Chi and Zhu, Ye, Investors Information Acquisition and Corporate Investment Efficiency: Evidence from A Quasi-Natural Experiment (November 30, 2023). Available at SSRN: https://ssrn.com/abstract=4689103
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+344
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

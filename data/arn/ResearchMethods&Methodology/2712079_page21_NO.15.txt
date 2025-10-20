@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Stress-Dependent Random Walk
+
+International Journal of Theoretical and Applied Finance, Vol. 18, No. 8, 2015
+
+16 Pages Posted: 8 Jan 2016 Last revised: 11 Feb 2022
+
+Martin Gremm
+
+Pivot Point Advisors
+
+Date Written: November 20, 2015
+
+Abstract
+
+A log-normal random walk with parameters that are functions of market stress naturally accounts for volatility clustering and fat-tailed return distributions. Fitting this model to a stock and a bond index we find no evidence of significant misspecification despite the fact that the model has no adjustable parameters. This model can be interpreted as a stochastic volatility model without latent variables. We obtain a closed-form expression for the Value at Risk (VaR) that accommodates returns of any magnitude and discuss several other applications.
+
+Keywords: Market model, regime-switching, stochastic volatility, value at risk, market stress, lognormal random walk, volatility clustering, fat tails
+
+JEL Classification: C22
+
+Suggested Citation:
+
+Gremm, Martin, The Stress-Dependent Random Walk (November 20, 2015). International Journal of Theoretical and Applied Finance, Vol. 18, No. 8, 2015, Available at SSRN: https://ssrn.com/abstract=2712079
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+T Bollerslev
+Generalized autoregressive conditional heteroskedasticity
+Journal of Econometrics , volume 31 , issue 3 , p. 307 - 327 Posted: 1986
+P Clark
+A subordinated stochastic process model with finite variance for speculative prices
+Econometrica , p. 135 - 155 Posted: 1973
+D Duffie , J Pan , K Singleton
+Transform analysis and asset pricing for affine jump-diffusions
+Econometrica , volume 68 , issue 6 , p. 1343 - 1376 Posted: 2000
+B Eraker , M Johannes , N Polson
+The impact of jumps in volatility and returns
+The Journal of Finance , volume 58 , issue 3 , p. 1269 - 1300 Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+32
+ABSTRACT VIEWS
+1,253
+1 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

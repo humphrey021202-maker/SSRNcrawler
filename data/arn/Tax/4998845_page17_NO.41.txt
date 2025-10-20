@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Consequences of Limiting the Tax Deductibility of R&D
+
+Stanford University Graduate School of Business Research Paper No. 4998845
+
+75 Pages Posted: 21 Nov 2024 Last revised: 14 Sep 2025
+
+Mary Cowx
+
+Arizona State University (ASU) - W.P. Carey School of Business
+
+Rebecca Lester
+
+Stanford Graduate School of Business
+
+Michelle L. Nessa
+
+Michigan State University - The Eli Broad College of Business and The Eli Broad Graduate School of Management
+
+Date Written: September 14, 2025
+
+Abstract
+
+We study the effects of limiting the tax deductibility of research and development (“R&D”) expenditures. From 2022 through 2024, U.S. companies were required to capitalize and amortize R&D rather than immediately deduct these expenditures. We use variation in U.S. firms’ fiscal year ends to examine the extent of—and heterogeneity in—firms’ responses to the R&D tax change in a difference-in-differences framework. We first document that affected U.S. firms’ cash effective tax rates increase by 9.6 to 10.9 percentage points (47.5% to 56.8%). Second, we find that R&D investment declines in response to the change; we estimate an aggregate reduction of $42 billion in the first year of the policy. This reduction is concentrated among research-intensive, domestic-only, and financially constrained firms. Third, we estimate decreases in domestic R&D employment of 1.4% to 2.6%, relative to domestic non-R&D employment. Finally, we observe decreased capital expenditures and share repurchases among affected companies, consistent with the R&D tax change impacting firms’ other investing and financing decisions. This paper provides policy-relevant evidence regarding the significant real effects of limiting the R&D tax deduction, which is an important but understudied innovation tax incentive.
+
+Keywords: R&D, Tax, Incentives
+
+Declaration of Interest
+
+We have no declarations of personal or financial interests for this study.
+
+Ethics Approval
+
+N/A
+
+Funder Statement
+
+The research was funded by our academic institutions.
+
+JEL Classification: H25, M41, M48
+
+Suggested Citation:
+
+Cowx, Mary and Lester, Rebecca and Nessa, Michelle L., The Consequences of Limiting the Tax Deductibility of R&D (September 14, 2025). Stanford University Graduate School of Business Research Paper No. 4998845, Available at SSRN: https://ssrn.com/abstract=4998845 or http://dx.doi.org/10.2139/ssrn.4998845
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+E I Altman
+Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy
+The Journal of Finance , volume 23 , issue 4 , p. 589 - 609 Posted: 1968
+C S Armstrong , S Glaeser , S Huang , D J Taylor
+The economics of managerial taxes and corporate risk-taking
+The Accounting Review , volume 94 , issue 1 , p. 1 - 24 Posted: 2019
+J Atanassov , X Liu
+Can Corporate Income Tax Cuts Stimulate Innovation
+Journal of Financial and Quantitative Analysis , volume 55 , issue 5 , p. 1415 - 1465 Posted: 2020
+P G Berger
+Explicit and Implicit Tax Effects of the R&D Tax Credit
+Journal of Accounting Research , volume 31 , issue 2 , p. 131 - 171 Posted: 1993
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+697
+ABSTRACT VIEWS
+11,336
+RANK
+85,112
+63 References
+PlumX Metrics
+Related eJournals
+
+Stanford Graduate School of Business Research Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

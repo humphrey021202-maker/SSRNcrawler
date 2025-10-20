@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Interest Deductibility
+
+38 Pages Posted: 28 Mar 2022 Last revised: 4 Apr 2022
+
+David Hasen
+
+University of Florida Levin College of Law
+
+Date Written: March 1, 2022
+
+Abstract
+
+The proper tax treatment of interest expense has been a subject of disagreement since the inception of the modern income tax in the early twentieth century. On one view, the purpose of the financing transaction dictates the tax treatment of interest so that interest paid on borrowing used to finance consumption should be nondeductible, whereas business interest should be deductible. On another view, interest paid does not finance a consumption item but rather a mere shift in resources and therefore should be deductible at all events, assuming the recipient includes the interest received in income.
+
+Both of these views lead to conundrums that cannot be resolved without considering the broader question of why some expenses are deductible at all. Focusing on that question, it turns out that business interest, like any other business expense, should generally be deductible as a timing or an accounting principle under an income tax. That principle does not apply to personal interest expense. Nevertheless, there may be an independent basis to permit a deduction for personal interest expense that is grounded in considerations of vertical equity.
+
+A related question arises when loan proceeds finance the purchase of business assets that are taxed under consumption tax principles. Congress has lately sought to limit interest deductibility in this setting because of the arbitrage benefit that it provides, but a better approach would be to apply consumption tax principles more consistently to the overall arrangement. Such an approach would keep business interest deductible, but loan proceeds would be includible in gross income in whole or part.
+
+Keywords: interest expense, tax policy, taxation
+
+JEL Classification: H20, H25, K34
+
+Suggested Citation:
+
+Hasen, David, Interest Deductibility (March 1, 2022). Available at SSRN: https://ssrn.com/abstract=4047289 or http://dx.doi.org/10.2139/ssrn.4047289
+Download This Paper
+ 
+Open PDF in Browser
+7 References
+Kirby Lumber
+284 U.S Posted: 1931
+Martin J Mcmahon , Jr Daniel , L Simmons
+A Field Guide to Cancellation of Debt Income, 63 TAX LAW , volume 415 , p. 421 - 422 Posted: 2010
+B)
+excludes COD income to the extent the taxpayer is insolvent, subject to possible recapture in future years by means of reductions in tax attributes
+§ , volume 108 , issue b
+Kerbaugh-Empire
+Posted: 1926
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+120
+ABSTRACT VIEWS
+731
+RANK
+538,270
+7 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

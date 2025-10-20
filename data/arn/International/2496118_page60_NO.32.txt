@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Intangible Assets on the Company's Market Value: A Comparative Analysis in the Listed Companies on Latin America and USA
+
+17 Pages Posted: 16 Sep 2014
+
+Walther Castro
+
+Fundação Escola de Comércio Álvares Penteado (FECAP); Fundação Instituto de Pesquisas Contábeis Atuáriais e Financeiras (FIPECAFI) - Faculdade FIPECAFI; University of São Paulo (USP) - Faculty of Economics, Administration and Accounting of Ribeirão Preto (FEARP)
+
+Date Written: September 14, 2014
+
+Abstract
+
+Based on the assumption that the market price of a stock immediately incorporates all relevant information on the assets, which are a reasonable measure of the market value of a company, the impact on financial statements caused by restrictions to record intangible assets are of significant interest. This article aims to study the relationship between the corporate market value and intangible assets not recorded in order to verify the existence of a negative relationship, which would explain part of the differences between the book value and market value of companies, occasioned by the restrictions of accounting standards for records intangible assets, whose record is basically limited to situations of business combinations. For preparation of a multiple regression model to study this negative relationship between intangible assets recorded and the market value of companies, we selected an Intangibility Degree as the dependent variable, which represents how many times the market value is higher than book value, and IROAI (Return on Intangible Assets Ratio), a proxy developed which aims to capture the effect of the presence of intangible assets and the abnormal return of the total assets of the companies, since they are understated due to the absence of registration of internally generated intangible assets. Financial variables were also used as explanatory variables in order to reinforce the equation and isolate the effect of market expectations on intangible assets. This study confirmed the existence of a negative relationship between these variables in Brazilian, Mexican and Argentinean markets and allowed the development of a model indicative of potential intangible assets not recorded in these markets, which explains part of the difference between market and accounting values. The proxy IROAI was not statistically significant in United States of America's, Chile's, Peru's and Colombia’s markets.
+
+Keywords: Intangible assets, degree of intangibility, market-to-book ratio, book and market value
+
+Suggested Citation:
+
+Bottaro de Castro, Walther, The Impact of Intangible Assets on the Company's Market Value: A Comparative Analysis in the Listed Companies on Latin America and USA (September 14, 2014). Available at SSRN: https://ssrn.com/abstract=2496118 or http://dx.doi.org/10.2139/ssrn.2496118
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+D Aboody , B Lev
+The value relevance of intangibles: The case of software capitalization
+Journal of Accounting Research , volume 36 , p. 161 - 191 Posted: 1998
+Crossref
+S B Almeida
+Valor justo (fair value) e regulamentação contábil: valor justo (fair value) na regulamentação contábil brasileira, norte-americana e internacional Posted: 2007
+Dissertação , V C Belém , M M Marques
+A influência dos ativos intangíveis na rentabilidade do patrimônio líquido das empresas brasileiras
+Congresso USP de Controladoria e Contabilidade Posted: 2007
+Pronunciamentos Comite De , Contábeis , Cpc
+Pronunciamento técnico 46. Mensuração do valor justo. Brasília, 07 de dezembro de Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+565
+ABSTRACT VIEWS
+2,868
+RANK
+111,488
+1 Citations
+20 References
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

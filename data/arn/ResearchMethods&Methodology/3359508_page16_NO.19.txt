@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Spoiled for Choice: Does the Selection of Sustainability Datasets Matter?
+
+61 Pages Posted: 25 Apr 2019 Last revised: 25 Jul 2019
+
+Jan Diebecker
+
+University of Münster - Accounting Center
+
+Christian Rose
+
+University of Münster - Accounting Center Münster
+
+Friedrich Sommer
+
+University of Bayreuth
+
+Date Written: July 24, 2019
+
+Abstract
+
+In this paper, we analyze the qualitative and quantitative differences and similarities between two prominent sustainability datasets, namely, the sustainability ratings developed by MSCI ESG KLD STATS (formerly known as KLD) and Thomson Reuters ESG (formerly known as ASSET4). We find substantial qualitative differences between the two sources’ sustainability measures, which are also reflected quantitatively through weak correlations between their scores. Our analysis of individual sustainability pillars reveals substantial differences, especially in social and governmental topics. Additionally, we examine the impact of dataset selection on empirical results by analyzing the effect of corporate sustainability performance on the cost of equity. Following the methodology of El Ghoul et al. (2011), we find that corporate sustainability has a significantly negative effect when using MSCI ESG KLD STATS’s and the original ASSET4 measurements but not when using Thomson Reuters ESG’s measurements. Further analysis indicates that dissimilarities in the consideration of economic aspects can explain the results. The results of this paper suggest that researchers should choose sustainability ratings carefully, adjust differences between and within datasets, and conduct robustness checks to substantiate their theoretical justifications.
+
+Keywords: corporate sustainability performance, corporate social responsibility, sustainability ratings, cost of equity
+
+JEL Classification: M41, G30, Q01
+
+Suggested Citation:
+
+Diebecker, Jan and Rose, Christian and Sommer, Friedrich, Spoiled for Choice: Does the Selection of Sustainability Datasets Matter? (July 24, 2019). Available at SSRN: https://ssrn.com/abstract=3359508 or http://dx.doi.org/10.2139/ssrn.3359508
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+476
+ABSTRACT VIEWS
+2,572
+RANK
+137,584
+2 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

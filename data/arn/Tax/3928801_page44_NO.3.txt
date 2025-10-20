@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Purchase - $8
+CEPR Subscribers Download
+ Add Paper to My Library
+Share:    
+Subsidy and Taxation in All-Pay Auctions Under Incomplete Information
+
+CEPR Discussion Paper No. DP16504
+
+28 Pages Posted: 22 Sep 2021
+
+Yizhaq Minchuk
+
+Shamoon College of Engineering
+
+Aner Sela
+
+Ben-Gurion University of the Negev - Department of Economics; Centre for Economic Policy Research (CEPR)
+
+Date Written: September 2021
+
+Abstract
+
+We study all-pay auctions under incomplete information with n contestants who have non-linear cost functions. The designer may award two kinds of subsidy (taxation): one that decreases (increases) each contestant's marginal cost of effort and another that increases (decreases) each contestant's value of winning. The designer's expected payoff is the contestants' expected total effort minus the cost of subsidy or, alternatively, plus the tax payment. We show that when the resource of subsidy (the marginal taxation rate) is relatively small and the cost function is concave (convex), the designer's expected payoff in all-pay auctions with both kinds of subsidy (taxation) is higher than in the same contest without any subsidy (taxation). We then compare both kinds of subsidy and demonstrate that if the resource of subsidy is relatively small and the cost functions are concave (convex), the cost subsidy is better than prize subsidy for the designer who wishes to maximize his expected payoff.
+
+Keywords: all-pay auctions, Subsidy, taxation
+
+JEL Classification: C72, D44, H25
+
+Suggested Citation:
+
+Minchuk, Yizhaq and Sela, Aner, Subsidy and Taxation in All-Pay Auctions Under Incomplete Information (September 2021). CEPR Discussion Paper No. DP16504, Available at SSRN: https://ssrn.com/abstract=3928801
+Purchase - $8
+CEPR Subscribers Download
+41 References
+M Bisceglia
+Optimal taxation in a common resource oligopoly game
+Journal of Economics , volume 129 , p. 1 - 31 Posted: 2020
+J I Bulow , P D Klemperer
+Auctions vs. negotiations
+American Economic Review , volume 86 , p. 180 - 194 Posted: 1996
+T N Casson , W A Masters , R M Sheremeta
+Entry into winner-take-all and proportional-prize contests: An experimental study
+Journal of Public Economics , volume 94 , p. 604 - 611 Posted: 2010
+J Carpenter , H P Matthewsa , B Tabba
+Progressive taxation in a tournament economy
+Journal of Public Economics , volume 143 , p. 64 - 72 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+5
+ABSTRACT VIEWS
+304
+2 Citations
+41 References
+PlumX Metrics
+Related eJournals
+
+CEPR Discussion Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+
+
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

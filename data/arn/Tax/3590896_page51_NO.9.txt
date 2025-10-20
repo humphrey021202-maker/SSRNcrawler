@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Changes in Alcohol Tax Differentials on Alcohol Consumption
+
+IZA Discussion Paper No. 13198
+
+56 Pages Posted: 4 May 2020 Last revised: 6 May 2025
+
+Markus Gehrsitz
+
+University of Strathclyde; IZA Institute of Labor Economics
+
+Henry Saffer
+
+National Bureau of Economic Research
+
+Michael Grossman
+
+National Bureau of Economic Research (NBER), NY Office; CUNY The Graduate Center - Department of Economics
+
+There are 3 versions of this paper
+
+Abstract
+
+We show that tax-induced increases in alcohol prices can lead to substantial substitution and avoidance behavior that limits reductions in alcohol consumption. Causal estimates are derived from a natural experiment in Illinois where spirits and wine taxes were raised sharply and unexpectedly in 2009. Beer taxes were increased by only a trivial amount. We construct representative and consistent measures of alcohol prices and sales from scanner data collected for hundreds of products in several thousand stores across the US.Using several difference-in-differences models, we show that alcohol excise taxes are instantly over-shifted by a factor of up to 1.5. Consumers react by switching to less expensive products and increase purchases of low-tax alcoholic beverages, thus all but offsetting any moderate, tax-induced reductions in total ethanol consumption. Our study highlights the importance of tax-induced substitution, the implications of differential tax increases by beverage group and the impacts on public health of alternative types of tax hikes whose main aims are to increase revenue.
+
+Keywords: externalities, sin taxes, excise taxes, alcohol, health, difference-in-differences
+
+JEL Classification: I12, H21, D12, D62
+
+Suggested Citation:
+
+Gehrsitz, Markus and Saffer, Henry and Grossman, Michael, The Effect of Changes in Alcohol Tax Differentials on Alcohol Consumption. IZA Discussion Paper No. 13198, Available at SSRN: https://ssrn.com/abstract=3590896
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+A Abadie , A Diamond , J Hainmueller
+Synthetic control methods for comparative case studies: Estimating the effect of californias tobacco control program
+Journal of the American Statistical Association , volume 105 , issue 490 , p. 493 - 505 Posted: 2010
+R An , R Sturm
+Does the response to alcohol taxes differ across racial/ethnic groups? some evidence from 1984-2009 behavioral risk factor surveillance system
+The Journal of Mental Health Policy and Economics , volume 14 , issue 1 Posted: 2011
+G S Becker , H G Lewis
+On the interaction between the quantity and quality of children
+Journal of Political Economy , volume 81 , issue 2 , p. 279 - S288 Posted: 1973
+K Bedard , P Kuhn
+Micro-marketing healthier choices: Effects of personalized ordering suggestions on restaurant purchases
+Journal of Health Economics , volume 39 , p. 106 - 122 Posted: 2015-01
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+47
+ABSTRACT VIEWS
+748
+40 References
+PlumX Metrics
+Related eJournals
+
+IZA Institute of Labor Economics Discussion Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

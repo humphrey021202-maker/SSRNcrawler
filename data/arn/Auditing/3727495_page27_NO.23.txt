@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditor Skill Demands and Audit Quality: Evidence from Job Postings
+
+
+
+
+Management Science, Forthcoming
+
+64 Pages Posted: 6 Jan 2021 Last revised: 15 Oct 2025
+
+Charles (Chad) Ham
+
+Indiana University - Kelley School of Business
+
+Rebecca N. Hann
+
+University of Maryland - Robert H. Smith School of Business
+
+MaryJane Rabier
+
+Washington University in St. Louis
+
+Wenfeng Wang
+
+Southern University of Science and Technology
+
+Date Written: September 05, 2024
+
+Abstract
+
+This study empirically examines the relation between audit quality and auditors’ cognitive and social skills. Using a novel dataset of online job postings by accounting firms, we document substantial variation in the stated demand for auditors’ cognitive and social skills, suggesting that audit offices are not homogeneous in their preferences for such skills. We find a positive relation between audit quality and the prevalence of cognitive and social skills within an audit office’s job postings. This association is stronger for audit engagements that are more complex or require greater coordination, suggesting that cognitive and social skills are particularly important in engagements where effective communication and knowledge transfer, as well as sound professional judgement and skepticism, are needed. The association is also stronger for audit offices with greater investments in new technology, consistent with the complementary relation between cognitive and social skills and the use of technology. Overall, our study offers among the first empirical evidence linking specific auditor skills to audit quality.
+
+Keywords: Auditor skill demands, audit quality, job postings
+
+Suggested Citation:
+
+Ham, Charles and Hann, Rebecca N. and Rabier, MaryJane and Wang, Wenfeng, Auditor Skill Demands and Audit Quality: Evidence from Job Postings
+
+(September 05, 2024).
+, Management Science, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3727495 or http://dx.doi.org/10.2139/ssrn.3727495
+Download This Paper
+ 
+Open PDF in Browser
+61 References
+D Acemoglu , D Autor
+Skills, tasks and technologies: Implications for employment and earnings
+Handbook of Labor Economics , volume 4 , p. 1043 - 1171 Posted: 2011
+D Aobdia
+Do practitioner assessments agree with academic proxies for audit quality? Evidence from PCAOB and internal inspections
+Journal of Accounting and Economics , volume 67 , issue 1 , p. 144 - 174 Posted: 2019
+D Aobdia , P Choudhary , N Newberger
+Which Audit Input Matters? An Analysis of the Determinants of Audit Quality, Profitability, and Audit Fees Using PCAOB Data Posted: 2018
+A Austin , T Carpenter , M Christ , C Nielson
+The Data Analytics Transformation: Evidence From Auditors, CFOs, and Standard-Setters Posted: 2019
+Load more
+2 Citations
+Anastassia Fedyk , James Hodson , Natalya Khimich , Tatiana Fedyk
+Is artificial intelligence improving the audit process?
+Review of Accounting Studies , volume 27 , issue 3 , p. 938 Posted: 2022
+Crossref
+Hüseyin ÖZYİĞİT
+İç Kontrol Sisteminin Değerlendirilmesinde Yapay Zekâ: Bağımsız Denetçilere Yönelik Bir Araştırma
+Muhasebe ve Finansman Dergisi , issue 99 , p. 103 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,588
+ABSTRACT VIEWS
+8,944
+RANK
+12,264
+2 Citations
+61 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

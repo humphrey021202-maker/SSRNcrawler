@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Enhancing Bookkeeper Decision Support Through Graph Representation Learning for Bank Reconciliation
+
+50 Pages Posted: 13 Nov 2024
+
+Justin Munoz
+
+Royal Melbourne Institute of Technology (RMIT University)
+
+Mahdi Jalili
+
+Royal Melbourne Institute of Technology (RMIT University)
+
+Laleh Tafakori
+
+Royal Melbourne Institute of Technology (RMIT University)
+
+Abstract
+
+The emergence of cloud-based bookkeeping platforms has made it possible to streamline decision-making in tedious accounting tasks, such as bank reconciliation. Bank reconciliation involves tracing the expected cash flow from invoices and bills to the actual payments recorded in a business’s bank feeds. A bookkeeper is responsible for ensuring that every payment listed in a business’s bank statement is accurately matched to financial activity recorded in the bookkeeping system. This process is crucial for maintaining the accuracy and integrity of the business's financial records. Current decision-support systems leverage natural language processing to recommend close matches for incoming bank feeds. While these approaches are effective for one-to-one matching, they underperform in identifying one-to-many matches, which are common and significantly more complex for larger businesses. In this work, we investigate the value of embedding relational data along with natural language in identifying matches to support the bank reconciliation process. Our proposed graph-based system surpasses industry benchmarks on one-to-one matching and offers a more robust decision support solution for the identification of one-to-many matches. Additionally, we introduce a novel post-processing technique, Top Boundary Ranking, which enhances the system's detection of group-based matches.
+
+Keywords: Representation Learning, Graph Embeddings, Record Linkage, Link Prediction, Bookkeeping, Decision-support Systems
+
+Suggested Citation:
+
+Munoz, Justin and Jalili, Mahdi and Tafakori, Laleh, Enhancing Bookkeeper Decision Support Through Graph Representation Learning for Bank Reconciliation. Available at SSRN: https://ssrn.com/abstract=5019966 or http://dx.doi.org/10.2139/ssrn.5019966
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+References
+O Dimitriu , M Matei
+A new paradigm for accounting through cloud computing
+Procedia economics and finance , volume 15 , p. 840 - 846 Posted: 2014
+J Munoz , M Jalili , L Tafakori
+Hierarchical classification for account code suggestion
+Knowledge-Based Systems , volume 251 Posted: 2022
+D Ma , R Fisher , T Nesbit
+Cloud-based client accounting and small and medium accounting practices: Adoption and impact
+International Journal of Accounting Information Systems , volume 41 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,370
+ABSTRACT VIEWS
+2,935
+RANK
+33,191
+66 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Artificial Intelligence eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

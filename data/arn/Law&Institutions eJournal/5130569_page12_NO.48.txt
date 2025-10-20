@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Bridging Regulatory Gaps in Operational Risk Management: A Study on Basel III, ORION, ORR, and Malaysia's Banking Supervision
+
+Posted: 9 Apr 2025
+
+Zulkarnain Muhamad Sori
+
+INCEIF UNIVERSITY; INCEIF, The Global University of Islamic Finance
+
+Date Written: February 10, 2025
+
+Abstract
+
+Operational risk management is a critical component of financial stability, particularly in Islamic financial institutions (IFIs), which must navigate both global regulatory standards such as Basel III and local regulatory mandates such as ORR (Operational Risk Reporting) and IFSA 2013. This study explores the regulatory landscape governing operational risk, with a particular focus on the transition from ORION to ORR, highlighting enhancements in fraud detection, cybersecurity risk monitoring, and Shariah non-compliance governance. A key issue in Basel III is its emphasis on capital adequacy for operational risk, mandating financial institutions to allocate capital based on the Standardized Approach for Operational Risk (SA-OR). However, Basel III does not explicitly address Shariah governance risks, creating a regulatory gap for IFIs that must manage both financial and Shariah compliance risks. By contrast, Malaysia’s ORR framework mandates real-time operational risk disclosures, covering a broader scope of fraud, IT security threats, and governance risks, but does not impose direct capital requirements as Basel III does. The study identifies key challenges in integrating Basel III’s capital adequacy approach with ORR’s risk disclosure-based framework, particularly for IFIs that must comply with Shariah risk governance standards under SGPD 2019. The lack of standardization in Shariah non-compliance risk reporting, inconsistent enforcement of fraud detection mechanisms, and gaps in cybersecurity risk monitoring create challenges in harmonizing both frameworks. To address these gaps, this study proposes a dual compliance framework that aligns Basel III’s capital risk measures with ORR’s real-time operational risk disclosures, ensuring regulatory transparency, investor confidence, and financial resilience in Islamic banking. 
+
+Keywords: Operational Risk Management, Basel III, ORR, Shariah Non-Compliance Risk, Operational Lapse, Islamic finance
+
+Declaration of Interest
+
+NA
+
+Ethics Approval
+
+NA
+
+Funder Statement
+
+Fund: IERIF, INCEIF University &amp; MIFC (Funds provided by the Ministry of Finance - Under Madani Initiative for Islamic Economy &amp; Sustainability Track) Project ID: ISRARMC/IERIF/AWARD/2024/BATCH1/INCEIF/87 Project Title: Shariah Non-Compliance Risk Reporting by Islamic Financial Institutions in Malaysia: The Mediating Role of Risk Governance Tenure: 2024-2026 (18 Months)
+
+Clinical Trial Registration
+
+NA
+
+Suggested Citation:
+
+Muhamad Sori, Zulkarnain, Bridging Regulatory Gaps in Operational Risk Management: A Study on Basel III, ORION, ORR, and Malaysia's Banking Supervision (February 10, 2025). Available at SSRN: https://ssrn.com/abstract=5130569
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+597
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

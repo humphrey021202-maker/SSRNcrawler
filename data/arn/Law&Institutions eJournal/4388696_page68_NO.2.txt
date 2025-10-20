@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Federal Agencies and Corporate Performance
+
+93 Pages Posted: 20 Mar 2023 Last revised: 31 Jul 2025
+
+Dain C. Donelson
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Jon A. Garfinkel
+
+University of Iowa - Tippie College of Business
+
+Sepehr Roudini
+
+University of Memphis - Fogelman College of Business and Economics
+
+Date Written: March 14, 2023
+
+Abstract
+
+We examine how government impacts firm performance through an agency-centered lens. Using Exploratory Factor Analysis on six agency-level variables—enforcement actions, budget variables, and regulatory text—we construct an annual Agency Activity Index (AAI) for the EPA, FDA, OSHA, and SEC. Higher AAI scores predict weaker firm operating performance. Greater firm exposure to the agency strengthens the relationship. To identify causality, we apply difference-in-differences analyses using regulatory and deregulatory shocks that generate shifts in AAI. Finally, we conduct event studies on the Supreme Court’s review of the Chevron doctrine, capturing market reactions to potential limits on agency authority.
+
+Keywords: Federal Agencies, Corporate Performance
+
+Suggested Citation:
+
+Donelson, Dain C. and Garfinkel, Jon A. and Roudini, Sepehr, Federal Agencies and Corporate Performance (March 14, 2023). Available at SSRN: https://ssrn.com/abstract=4388696 or http://dx.doi.org/10.2139/ssrn.4388696
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+Omar Al-Ubaydli , Patrick A Mclaughlin
+Regdata: A numerical database on industry-specific regulations for all united states industries and federal regulations
+Regulation & Governance , volume 11 , p. 109 - 123 Posted: 1997
+Samuel Ampaabeng , Patrick A Kofi , Dustin Mclaughlin , Chambers
+RegAuthorities: The Regulations Authorities Dataset Posted: 2022
+Daphne M Armstrong , Stephen Glaeser , Jeffrey L Hoopes
+Measuring firm exposure to government agencies
+Journal of Accounting and Economics , volume 79 Posted: 2025
+EPA moves to repeal finding that underpins current limits on greenhouse pollution from cars, factories, powerplants Posted: 2025
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+263
+ABSTRACT VIEWS
+1,086
+RANK
+265,489
+13 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

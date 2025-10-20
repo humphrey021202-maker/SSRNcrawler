@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Intangible Assets’ Mobility on Intangibles Location and Income Shifting: Trademarks vs. Patents
+
+41 Pages Posted: 18 Aug 2022 Last revised: 25 Mar 2024
+
+Lisa De Simone
+
+University of Texas at Austin
+
+Cinthia Valle Ruiz
+
+Catholic University of Lille - IESEG School of Management
+
+Johannes Voget
+
+University of Mannheim
+
+Date Written: March 8, 2024
+
+Abstract
+
+Despite multilateral efforts to combat profit shifting, recent literature finds that firms with higher ratios of intangible assets shift more income. Prior research primarily focuses on the role of patents and R&D expenditures due to data availability, which could distort estimates of the role of IP in income shifting if patenting firms exhibit a different propensity to shift income than firms with other types of IP. We estimate a mixed logit model and find that trademarks’ tax elasticities are larger than those for patents, leading to greater income shifting. We further provide evidence that agglomeration effects reduce the tax elasticity of patents, which aligns with theory that trademarks can be more mobile than patents. Country-level policies that do not allow the separation of legal versus economic ownership exacerbate these effects. We suggest that policy makers and local tax administrations could curb profit shifting by devoting more attention and resources to the role of trademarks.
+
+Keywords: intangible assets, patents, trademarks, tax planning, income shifting
+
+JEL Classification: H25, F23, H26, H3
+
+Suggested Citation:
+
+De Simone, Lisa and Valle Ruiz, Cinthia and Voget, Johannes, The Impact of Intangible Assets’ Mobility on Intangibles Location and Income Shifting: Trademarks vs. Patents (March 8, 2024). Available at SSRN: https://ssrn.com/abstract=4188135 or http://dx.doi.org/10.2139/ssrn.4188135
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+U Akcigit , J Grigsby , T Nicholas , S Stantcheva
+Taxation and Innovation in the 20th Century Posted: 2018
+C R Austin , R J Wilson
+An Examination of Reputational Costs and Tax Avoidance: Evidence from Firms with Valuable Consumer Brands
+Journal of the American Taxation Association , volume 39 , issue 1 , p. 67 - 93 Posted: 2017
+S Berry , J Levinsohn , A Pakes
+Differentiated products demand systems from combination of micro and macro data: the new car market
+Journal of Political Economy , volume 112 , issue 1 , p. 68 - 105 Posted: 2004
+T Bornemann , S O Kelley Laplante , B Osswald
+The effect of intellectual property boxes on innovative activity and tax benefits
+The Journal of the American Taxation Association , p. 1 - 28 Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+240
+ABSTRACT VIEWS
+1,189
+RANK
+291,202
+41 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

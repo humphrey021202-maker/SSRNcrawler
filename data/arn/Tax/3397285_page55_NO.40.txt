@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Debt and Taxes? The Effect of TCJA Interest Limitations on Capital Structure
+
+45 Pages Posted: 14 Jun 2019 Last revised: 11 Sep 2020
+
+Richard Carrizosa
+
+University of California, Riverside (UCR) - School of Business Administration
+
+Fabio B. Gaertner
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Dan Lynch
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Date Written: September 10, 2020
+
+Abstract
+
+The Tax Cuts & Jobs Act of 2017 (TCJA) placed limitations on the deductibility of interest for U.S. firms. Using a difference-in-differences design examining both affected and unaffected firms, we show that following the enactment of the new limitations, affected firms significantly decrease corporate leverage. Specifically, we find that relative to unaffected U.S. firms, affected firms experience a decrease in leverage of 2.9% of assets; corresponding to about $126 million per firm and $29.8 billion aggregated over our full sample. This represents a debt decrease of 5.8% relative to the average debt to asset ratio for the pre-TCJA affected sample. We find similar results using a triple differences design, which benchmarks debt trends in the U.S. to those of unaffected and pseudo-affected Canadian firms that would be subject to the limitation had they been U.S. firms. These results are driven by decreases in long-term domestic debt and by declines in new issuances rather than repayment of existing debt. Robustness tests indicate other elements of tax reform do not influence the results. We also find firms not currently subject to limitations on interest but subject to future limitations decrease leverage by about half as much as firms currently subject to interest limits.
+
+Keywords: TCJA, tax reform, interest limitation, capital structure, debt, leverage
+
+JEL Classification: H26, H71, H72
+
+Suggested Citation:
+
+Carrizosa, Richard and Gaertner, Fabio B. and Lynch, Dan, Debt and Taxes? The Effect of TCJA Interest Limitations on Capital Structure (September 10, 2020). Available at SSRN: https://ssrn.com/abstract=3397285 or http://dx.doi.org/10.2139/ssrn.3397285
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,339
+ABSTRACT VIEWS
+5,318
+RANK
+34,342
+2 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

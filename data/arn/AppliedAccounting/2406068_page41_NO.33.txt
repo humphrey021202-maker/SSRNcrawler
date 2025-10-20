@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The New Costs-in-Sequence Evaluation Method Applied to Multiproduct Pipelines Transportation Costs Evaluation
+
+15 Pages Posted: 9 Mar 2014
+
+José Augusto Morais de Andrade Jr
+
+Faculdade de Administração, Economia e Contabilidade de Ribeirão Preto - FEARP
+
+Liliane Maria Andrade
+
+Universidade Federal de Rondônia - UNIR
+
+Date Written: March 7, 2014
+
+Abstract
+
+The assessment of costs of transport of liquid hydrocarbons through multi-product pipelines is not a trivial task, since it requires the real-time measurement of a series of quantities such as flow, volumes, pumps' energy consumption, et cetera, besides to an evaluation method that takes into account the proper allocation of the pumping costs of lots of different products that are withdrawn from the pipeline running to the storage and distribution terminals along its path. This paper presents the an theoretical implementation of the costs-in-sequence costing method to the evaluation of transportation costs of liquid hydrocarbons through a multi-product pipeline seeking to show: which variables need to be measured in real time and the method used to allocate the pumping costs from different batches products that are withdrawn from the pipeline and stored in the terminals along its path. First, the new costs-in-sequence costing method is presented. After, it is done the modeling and simulation of this multi-product pipeline model. Finally, the results are compared with other available costing methods, so highlighting the possible advantages of this method. In the end, the results are discussed and the future developments, outlined in this research, are shown.
+
+Suggested Citation:
+
+Andrade Jr, José Augusto Morais de and Andrade, Liliane, The New Costs-in-Sequence Evaluation Method Applied to Multiproduct Pipelines Transportation Costs Evaluation (March 7, 2014). Available at SSRN: https://ssrn.com/abstract=2406068 or http://dx.doi.org/10.2139/ssrn.2406068
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+47
+ABSTRACT VIEWS
+1,555
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

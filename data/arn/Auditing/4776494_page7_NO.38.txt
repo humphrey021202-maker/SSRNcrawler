@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Materiality Judgments during the COVID-19 Pandemic: Evidence from the United Kingdom
+
+61 Pages Posted: 2 Dec 2024 Last revised: 2 Dec 2024
+
+Ting Dong
+
+Stockholm School of Economics
+
+Florian Eugster
+
+University of St. Gallen - Institute of Accounting, Control and Auditing; Swiss Finance Institute
+
+Liwei Zhu
+
+CUNEF Universidad
+
+Omar de Ines Anton
+
+CUNEF Universidad
+
+Date Written: March 28, 2024
+
+Abstract
+
+This study investigates how auditors' materiality assessments changed during the sudden adverse economic conditions caused by the COVID-19 pandemic. Our evidence suggests that auditors primarily adjusted their benchmark choices in response to the pandemic’s negative impact, while maintaining quantitative materiality amounts similar to the pre-pandemic levels.  Our further analysis reveals an asymmetric pattern in auditors' materiality judgments: declining performance is associated with a higher likelihood of changing materiality benchmark types, but not with significant reductions in materiality values. Conversely, strong performance is associated with increased materiality values, but not with changes in benchmark types. These results suggest a misalignment between auditors' practices and ISA guidelines, which do not explicitly account for the direction of performance changes in materiality assessments. Such practices also raise concerns about whether auditors may have used benchmark changes to avoid reducing materiality levels. Our study provides valuable insights for practitioners, policymakers, and academics on auditors’ materiality assessments in the context of a global crisis. 
+
+Keywords: materiality, auditing, professional judgment, COVID-19 pandemic
+
+JEL Classification: C80, M41, M42, M48
+
+Suggested Citation:
+
+Dong, Ting and Eugster, Florian and Zhu, Liwei and de Ines Anton, Omar, Audit Materiality Judgments during the COVID-19 Pandemic: Evidence from the United Kingdom (March 28, 2024). Available at SSRN: https://ssrn.com/abstract=4776494 or http://dx.doi.org/10.2139/ssrn.4776494
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+A A Acito , J J Burks , W B Johnson
+Materiality decisions and the correction of accounting errors
+Account. Rev , volume 84 , issue 3 , p. 659 - 688 Posted: 2009
+I Alexeyeva , T Svanström
+The impact of the global financial crisis on audit and nonaudit fees: Evidence from Sweden
+Manag. Audit. J , volume 30 , issue 4/5 , p. 302 - 323 Posted: 2015
+Statement of auditing standards 109 (AU section 314): Understanding the entity and its environment and assessing the risks of material misstatement Posted: 2006-02
+A Al-Qadasi , S R Baatwah , W K Omer
+Audit fees under the COVID-19 pandemic: Evidence from Oman
+J. Account. Emerg. Econ , volume 3 , issue 4 , p. 806 - 824 Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+117
+ABSTRACT VIEWS
+730
+RANK
+549,213
+50 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

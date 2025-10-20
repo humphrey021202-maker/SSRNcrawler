@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Synthetic Credit Ratings and the Inefficiency of Agency Ratings
+
+Columbia Business School Research Paper No. 17-81
+
+Posted: 4 Aug 2017 Last revised: 4 May 2023
+
+Doron Nissim
+
+Columbia University - Columbia Business School
+
+Date Written: April 30, 2023
+
+Abstract
+
+This study develops and evaluates a model that generates synthetic credit ratings using accounting and market-based information. The model performs well in explaining agency ratings, suggesting that fitted values for unrated companies are likely to be reasonably precise. Moreover, the synthetic ratings explain cross sectional differences in CDS spreads, even after controlling for contemporaneous agency ratings. Compared to synthetic ratings, agency ratings explain a greater proportion of the variation in CDS spreads, but their differential informativeness is relatively small and has declined substantially over the last decade. This decline is possibly due to post-crisis SEC regulation that limits rating agencies’ ability to obtain confidential information from rated companies. Consistent with the finding that agency ratings do not fully impound the information in synthetic ratings, the difference between synthetic and agency ratings predicts changes in agency ratings in subsequent months, especially for small companies. There is no evidence of substantial improvement over the last four decades in the timeliness of agency ratings with respect to the information in synthetic ratings. Investors in large companies appear to process the synthetic rating information in a timely fashion, as the difference between synthetic and agency ratings does not predict changes in CDS spreads or in the stock prices of these companies. For small companies, however, there is some predictability.
+
+Keywords: credit ratings, rating agencies, credit risk, CDS, financial statement analysis, market efficiency
+
+JEL Classification: G12, G14, G24, G28, G32, M41
+
+Suggested Citation:
+
+Nissim, Doron, Synthetic Credit Ratings and the Inefficiency of Agency Ratings (April 30, 2023). Columbia Business School Research Paper No. 17-81, Available at SSRN: https://ssrn.com/abstract=3012723 or http://dx.doi.org/10.2139/ssrn.3012723
+ Not Available for Download
+48 References
+E Altman
+Financial ratios, discriminant analysis and the prediction of corporate bankruptcy
+The Journal of Finance , volume 23 , issue 4 , p. 589 - 609 Posted: 1968
+E Altman , H Rijken
+A point-in-time perspective on through-the-cycle ratings
+Financial Analysts Journal , volume 62 , issue 1 , p. 54 - 70 Posted: 2004
+J Amato , C Furfine
+Are credit ratings procyclical?
+Journal of Banking and Finance , volume 28 , p. 2641 - 2677 Posted: 2004
+H Ashbaugh-Skaife , D Collins , R Lafond
+The Effects of Corporate Governance on Firms Credit Ratings
+Journal of Accounting and Economics , volume 42 , p. 203 - 243 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+3,688
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Risk Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

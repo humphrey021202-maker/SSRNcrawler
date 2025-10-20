@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Contagious Stock Price Crashes along the Supply Chain
+
+Production and Operations Management, Forthcoming
+
+50 Pages Posted: 15 Nov 2017 Last revised: 16 Apr 2024
+
+Buhui Qiu
+
+The University of Sydney - Discipline of Finance; Financial Research Network (FIRN)
+
+Fangming Xu
+
+University of Bristol Business School
+
+Andy Yeung
+
+Hong Kong Polytechnic University - Department of Logistics and Maritime Studies
+
+Cheng (Colin) Zeng
+
+Hong Kong Polytechnic University
+
+Date Written: April 7, 2024
+
+Abstract
+
+Although risk management is widely regarded as an important topic within supply chain (SC) management, little research studies the contagious effect of risk factors along SC networks. By using stock price crashes as an indicator of risk factors, our study reveals that stock price crash risk can be transmitted from major customers to suppliers with a delay of up to two weeks. We show that the information opacity of suppliers is a factor that potentially contributes to the delayed crash contagion. We also find that the contagion effect becomes more pronounced as the importance of customers increases. Moreover, customer operational incidents have a more pronounced contagion effect on suppliers compared to customer financial incidents. Additionally, we find that suppliers tend to take strategic measures following the stock price crashes of their major customers, including diversifying their customer base, enhancing operational efficiency, and improving product quality. However, among these actions, only the improvement of operational efficiency effectively mitigates the adverse impact of customer stock price crashes on suppliers. Overall, our findings provide new insight into the distribution of risk factors across SC networks, highlighting the critical role of operational improvements in bolstering the resilience of firms to SC risks.
+
+Keywords: Supply chain risk, contagion effects, stock price crashes, operational incidents, financial incidents
+
+Suggested Citation:
+
+Qiu, Buhui and Xu, Fangming and Yeung, Andy and Zeng, Cheng, Contagious Stock Price Crashes along the Supply Chain (April 7, 2024). Production and Operations Management, Forthcoming , Available at SSRN: https://ssrn.com/abstract=3069993 or http://dx.doi.org/10.2139/ssrn.3069993
+Download This Paper
+ 
+Open PDF in Browser
+73 References
+S Agca , V Babich , J R Birge , J Wu
+Credit shock propagation along supply chains: Evidence from the CDS market
+Management Science , volume 68 , issue 9 , p. 6506 - 6538 Posted: 2022
+Ş Ağca , J R Birge , Z A Wang , J Wu
+The impact of COVID-19 on supply chain credit risk , volume 32 , p. 4088 - 4113 Posted: 2023
+B K Ak , S Rossi , R Sloan , S Tracy
+Navigating stock price crashes
+Journal of Portfolio Management , volume 42 , issue 4 , p. 28 - 37 Posted: 2016
+K D Aral , E Giambona , Y Wang
+Buyer's bankruptcy risk, sourcing strategy, and firm value: Evidence from the supplier protection act
+Management Science , volume 68 , issue 11 , p. 7940 - 7957 Posted: 2022
+Load more
+3 Citations
+Tri Tri Nguyen , Manh Cuong Nguyen , Hung Quang Bui , Tuyet Nhung Vu
+The cash-holding link within the supply chain
+Review of Quantitative Finance and Accounting Posted: 2021
+Crossref
+Aaron Burt , Christopher Hrdlicka
+Where Does the Predictability from Sorting on Returns of Economically Linked Firms Come From?
+Journal of Financial and Quantitative Analysis , p. 1 Posted: 2020
+Crossref
+Tri Tri Nguyen , Manh Cuong Nguyen , Hung Bui , Tuyet Nhung Vu
+The Cash-holding Link within the Supply Chain
+Review of Quantitative Finance and Accounting · 47 Pages · Posted: 10 Apr 2020 · Last revised: 5 Feb 2021 · Downloads: 143
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+738
+ABSTRACT VIEWS
+3,627
+RANK
+79,080
+3 Citations
+73 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

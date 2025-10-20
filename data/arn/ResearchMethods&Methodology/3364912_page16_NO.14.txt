@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Primer on Bootstrap Testing of Hypotheses in Time Series Models: With an Application to Double Autoregressive Models
+
+49 Pages Posted: 2 May 2019
+
+Giuseppe Cavaliere
+
+University of Bologna - Department of Economics
+
+Anders Rahbek
+
+University of Copenhagen - Department of Statistics and Operations Research; University of Copenhagen - Department of Economics
+
+Date Written: April 3, 2019
+
+Abstract
+
+In this paper we discuss the general application of the bootstrap as a tool for statistical inference in econometric time series models. We do this by considering the implementation of bootstrap inference in the class of double-autoregressive [DAR] models discussed in Ling (2004). DAR models are particularly interesting to illustrate implementation of the bootstrap to time series: first, standard asymptotic inference is usually difficult to implement due to the presence of nuisance parameters under the null hypothesis; second, inference involves testing whether one or more parameters are on the boundary of the parameter space; third, under the alternative hypothesis, fourth or even second order moments may not exist. In most of these cases, the bootstrap is not considered an appropriate tool for inference. Conversely, and taking testing (non-)stationarity to illustrate, we show that although a standard bootstrap based on unrestricted parameter estimation is invalid, a correct implementation of a bootstrap based on restricted parameter estimation (restricted bootstrap) is first-order valid; that is, it is able to replicate, under the null hypothesis, the correct limiting null distribution. Importantly, we also show that the behaviour of this bootstrap under the alternative hypothesis may be different because of possible lack of finite second-order moments of the bootstrap innovations. This features makes - for some parameter configurations - the restricted bootstrap unable to replicate the null asymptotic distribution when the null is false. We show that this drawback can be fixed by using a new 'hybrid' bootstrap, where the parameter estimates used to construct the bootstrap data are obtained with the null imposed, while the bootstrap innovations are sampled with replacement from the unrestricted residuals. We show that this bootstrap, novel in this framework, mimics the correct asymptotic null distribution, irrespetively of the null to be true or false. Throughout the paper, we use a number of examples from the bootstrap time series literature to illustrate the importance of properly defining and analyzing the bootstrap generating process and associated bootstrap statistics.
+
+Keywords: Bootstrap; Hypothesis testing; Double-autoregressive models; Parameter on the boundary; Infinite variance
+
+JEL Classification: C32
+
+Suggested Citation:
+
+Cavaliere, Giuseppe and Rahbek, Anders, A Primer on Bootstrap Testing of Hypotheses in Time Series Models: With an Application to Double Autoregressive Models (April 3, 2019). Available at SSRN: https://ssrn.com/abstract=3364912 or http://dx.doi.org/10.2139/ssrn.3364912
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+D W K Andrews
+Estimation when a Parameter is on a Boundary
+Econometrica , volume 67 , issue 6 , p. 1341 - 1383 Posted: 1999
+Crossref
+Inconsistency of the Bootstrap when a Parameter is on the Boundary of the Parameter Space
+Econometrica , volume 68 , issue 2 , p. 399 - 405 Posted: 2000
+Crossref
+Testing when a Parameter is on the Boundary of the Maintained Hypothesis
+Econometrica , volume 69 , issue 3 , p. 683 - 734 Posted: 2001
+Crossref
+D W K Andrews , M Buchinsky
+A three-step method for choosing the number of bootstrap repetitions
+Econometrica , volume 68 , p. 23 - 51 Posted: 2000
+Crossref
+Load more
+1 Citations
+U. Copenhagen Economics Discussion Paper Series , Giuseppe Cavaliere , Ye Lu , Anders Rahbek , Jacob Østergaard
+Bootstrap inference for Hawkes and general point processes
+46 Pages · Posted: 13 May 2021 · Downloads: 58
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+106
+ABSTRACT VIEWS
+1,502
+RANK
+592,557
+1 Citations
+57 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

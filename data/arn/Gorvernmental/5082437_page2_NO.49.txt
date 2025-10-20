@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+AI Agents and Automation in Small Non-Profit Organizations' Accounting Functions
+
+21 Pages Posted: 28 Jan 2025
+
+David Krause
+
+Marquette University
+
+Date Written: January 04, 2025
+
+Abstract
+
+This paper investigates the potential of AI agents and automation within the accounting functions of small non-profit organizations (NPOs). It explores the benefits of AI, including increased efficiency, reduced errors, and improved decision-making, while also examining the challenges, such as data security, staff training, and ethical considerations. The research analyzes existing literature on AI in accounting, examines the implementation process, reviews available AIpowered accounting software solutions for NPOs, and discusses the critical importance of ethical considerations, including data privacy, algorithmic bias, and the potential for job displacement. The paper concludes by emphasizing the need for a strategic approach to AI adoption, including a focus on scalability, continuous learning, and impact measurement to ensure long-term sustainability and alignment with the NPO's mission.
+
+Keywords: Artificial Intelligence, Accounting, Non-profit Organizations, Automation, Data Privacy, Algorithmic Bias, Ethics, Financial Management
+
+JEL Classification: M40, M31, L31, M42, O30, J24
+
+Suggested Citation:
+
+Krause, David, AI Agents and Automation in Small Non-Profit Organizations' Accounting Functions (January 04, 2025). Available at SSRN: https://ssrn.com/abstract=5082437 or http://dx.doi.org/10.2139/ssrn.5082437
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+A Amneh , H Borgi , L Phung , A Muhammad
+How artificial intelligence changes the future of the accounting industry
+International Journal of Economics and Business Administration , volume 8 , issue 3 , p. 478 - 488 Posted: 2020
+R N Arora
+The beginner's guide to AI for nonprofits Posted: 2024-06-30
+P E Arregui , M Bacigalupo , B Federico , C G Marcelino , F Caena , J Castaño Muñoz , C Clara , J H Edwards , E Fernández-Macías , E Gomez Gutierrez , M E Gomez Herrera , A I Dos Santos , P Kampylis , D Klenert , M Lopez Cobo , R Marschinski , A Pesole , A Punie , N A Azman , A Mohamed , A M Jamil
+Artificial intelligence in automated bookkeeping: A value-added function for small and medium enterprises
+JOIV: International Journal on Informatics Visualization , volume 5 , issue 3 , p. 224 - 230 Posted: 2021
+J W Barnes
+The best nonprofit accounting software for every budget and stage of growth. JRF Accounting Posted: 2024-10-25
+Load more
+1 Citations
+Guillaume Plaisance
+Artificial Intelligence (AI) in the Context of Nonprofits and Philanthropy: Suspicion and Hope for Researchers and Organizations
+Journal of Philanthropy , volume 30 , issue 2 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+283
+ABSTRACT VIEWS
+1,171
+RANK
+246,297
+1 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Governmental & Nonprofit Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

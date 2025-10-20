@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Effect of Mandatory IFRS Adoption on Accounting-Based Prediction Models for CDS Spreads
+
+European Accounting Review, Forthcoming
+
+49 Pages Posted: 15 May 2020
+
+Pepa Kraft
+
+HEC Paris
+
+Wayne R. Landsman
+
+University of North Carolina Kenan-Flagler Business School
+
+Zilu SHAN
+
+University of Bristol Business School
+
+There are 2 versions of this paper
+
+Date Written: April 7, 2020
+
+Abstract
+
+In this study, we examine the effects of mandatory IFRS adoption on accounting-based prediction models of CDS spreads for a sample of 292 firms in 16 countries. In our examination, we estimate the models for both financial and non-financial firms before and after mandatory IFRS adoption. We find that mean and median absolute percentage prediction errors are larger for both financial and non-financial firms after mandatory IFRS adoption. We also estimate accounting-based prediction models of CDS spreads separately for financial and non-financial US firms as a benchmark. Although US firms also show an increase in the mean and median absolute percentages of prediction errors over the same period, our findings from regressions that use a difference-in-difference design indicate that the increase is significantly greater for firms in countries that adopted IFRS mandatorily. We also find that in the post-adoption period, prediction errors are larger for firms in countries with weaker institutions such as low levels of property rights and more restrictive access to credit.
+
+Keywords: IFRS, credit markets
+
+JEL Classification: M40
+
+Suggested Citation:
+
+Kraft, Pepa and Landsman, Wayne R. and SHAN, Zilu, Effect of Mandatory IFRS Adoption on Accounting-Based Prediction Models for CDS Spreads (April 7, 2020). European Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3570515
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+V V Acharya , T C Johnson
+Insider trading in credit derivatives
+Journal of Financial Economics , volume 84 , p. 110 - 141 Posted: 2007
+Crossref
+A S Ahmed , M Neel , D Wang
+Does mandatory adoption of IFRS improve accounting quality? Preliminary evidence
+Contemporary Accounting Research , volume 30 , issue 4 , p. 1344 - 1372 Posted: 2013
+Crossref
+E I Altman
+Financial ratios, discriminant analysis and the prediction of corporate bankruptcy
+The Journal of Finance , volume 23 , issue 4 , p. 589 - 609 Posted: 1968
+Crossref
+Sandro C. Andrade , Elaine Henry , Dhananjay Nanda
+The Impact of Operating Leases and Purchase Obligations on Credit Market Prices
+Pages: 50 Posted: 10 Oct 2011 Last revised: 25 May 2016
+Download PDF  Add Paper to My Library
+Load more
+5 Citations
+Jeong-Bon Kim , Jeff J. Wang , Eliza Xia Zhang
+Does Real Earnings Smoothing Reduce Investors’ Perceived Risk?
+Kim J-B,Wang JJ, Zhang EX. Does real earnings smoothing reduce investors’ perceived risk?. J Bus Fin Acc. 2021;1–36. https://doi.org/10.1111/jbfa.12529, · 65 Pages · Posted: 11 Jun 2019 · Last revised: 18 Jul 2022 · Downloads: 72
+Download PDF  Add Paper to My Library
+Kirstin Becker , Jannis Bischof , Holger Daske
+IFRS: Markets, Practice, and Politics
+Foundations and Trends® in Accounting: Vol. 15: No. 1–2, pp 1-262. http://dx.doi.org/10.1561/1400000055, · 223 Pages · Posted: 23 May 2021 · Last revised: 26 Jul 2021 · Downloads: 683
+Download PDF  Add Paper to My Library
+Alexios Kythreotis
+Relevance and faithful representation (reliability) of annual and semi-annual financial statements; a trade-off?
+Kythreotis, A. and Soltani, M. (2023) ‘Relevance and faithful representation (reliability) of annual and semi-annual financial statements; a trade-off?’, Int. J. Managerial and Financial Accounting, Vol. 15, No. 3, pp.393–412., · 20 Pages · Posted: 4 Nov 2023 · Downloads: 183
+Download PDF  Add Paper to My Library
+Hungyi Huang
+How Do Languages React to CDS Spreads?
+FINANA-D-24-00759 · 58 Pages · Posted: 18 Apr 2024 · Downloads: 42
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+110
+ABSTRACT VIEWS
+1,009
+RANK
+120,303
+5 Citations
+46 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

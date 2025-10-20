@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Discrepancies in Hospital Financial Information: Comparison of Financial Data in State Data Repositories and the Healthcare Cost Reporting Information System
+
+Journal of Information Systems
+
+64 Pages Posted: 24 Mar 2018 Last revised: 23 May 2022
+
+Melvin A. Lamboy-Ruiz
+
+Georgia Southern University; Iowa State University
+
+Won Gyun No
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+Olena V. Watanabe
+
+Iowa State University - Debbie and Jerry Ivy College of Business
+
+Date Written: May 15, 2018
+
+Abstract
+
+High-quality financial data are important to stakeholders in the healthcare sector but are difficult to obtain. The two data sources most often used are hospital financial statements (HFSs) and Medicare Cost Reports (MCRs). Applying an analytical framework of data information quality dimensions, we compare a sample of 34,728 instances of 12 financial statement items extracted from HFSs and MCRs filed from 2007 through 2011. Our comparison shows a nontrivial frequency of missing items, widespread discrepancies across financial items, and a materiality of discrepancies that is significant in both sources. We also find many avoidable computational errors and significant absolute relative discrepancies between the sources. Additionally, we perform replications of two prior studies to test the believability of HFS and MCR data. Although we cannot conclude which source is more accurate, we do alert users of hospital financial data to the comparative potentials and limitations of these two major sources.
+
+Keywords: data and information quality; Medicare Cost Report; financial statement; state data repository; hospital
+
+JEL Classification: M40, M49, I19, C80, C81
+
+Suggested Citation:
+
+Lamboy-Ruiz, Melvin and No, Won Gyun and Watanabe, Olena V., Discrepancies in Hospital Financial Information: Comparison of Financial Data in State Data Repositories and the Healthcare Cost Reporting Information System (May 15, 2018). Journal of Information Systems, Available at SSRN: https://ssrn.com/abstract=3144779 or http://dx.doi.org/10.2139/ssrn.3144779
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+163
+ABSTRACT VIEWS
+1,827
+RANK
+418,383
+2 Citations
+47 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

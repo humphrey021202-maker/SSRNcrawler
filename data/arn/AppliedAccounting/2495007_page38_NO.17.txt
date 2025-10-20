@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Presentation of Other Comprehensive Income: Is There a Relationship with the Total Amount, the Sign and the Volatility of Such Accounting Items?
+
+Department of Management, Università Ca' Foscari Venezia Working Paper No. 2014/16
+
+18 Pages Posted: 13 Sep 2014
+
+Marisa Agostini
+
+Ca Foscari University of Venice - Department of Management
+
+Date Written: September 2014
+
+Abstract
+
+The paper analyzes the ways of reporting other comprehensive income (OCI) and their relationships with three different variables, i.e. the volatility, the sign and the total amount of such accounting items. In order to investigate the reasons of such relationships, the study considers the final annual financial statements approved for the accounting periods from 2009 (i.e. the first year in which the 2007 revision of IAS 1 was applied) to 2012 by Italian companies which are required to apply the International Financial Reporting Standards and to follow their updates since 2005. The choice of this specific sample is due to the willingness of verifying the ways of departing from a strong Italian accounting traditional culture which does not consider other comprehensive income (OCI items have never been mentioned by Italian civil code and have not been included in Italian financial reporting). Some preliminary results emphasize the relevance of OCI items. In each accounting period, the majority of the analyzed financial statements show a significant impact of OCI on net income (each amount in absolute value) over a materiality threshold of 10%. In some years also the difference between ROE measured with net income (NI) and ROE measured with comprehensive income (CI) is statistically significant. It demonstrates that the prominence of OCI in evaluating firms’ performance potentially should not be ignored. Moreover, the median of changes in OCI is greater than the one of changes in net income, showing that OCI is more volatile than NI. After such preliminary analysis, a logistic analysis has been implemented by considering the above-mentioned variables. Such study brings some important results confirming the significance of the relations between the ways of reporting other comprehensive income and both the sign and the total amount of such accounting items. The analysis has been implemented by using also different versions of the dependent variable in order to investigate the impact of the OCI presentation in two statements which are positioned in two different (i.e. following) pages. So, while the predominance in the use of two statements for OCI presentation shows the willingness to emphasize the traditional profit or loss section and may be related to the influence of a strong Italian accounting traditional culture, the reasons of the use of two different pages for such presentation may represent the signal of “accounts management”.
+
+Keywords: Other Comprehensive Income, Financial Statement Presentation, Volatility
+
+JEL Classification: M41, M42, M48
+
+Suggested Citation:
+
+Agostini, Marisa, Presentation of Other Comprehensive Income: Is There a Relationship with the Total Amount, the Sign and the Volatility of Such Accounting Items? (September 2014). Department of Management, Università Ca' Foscari Venezia Working Paper No. 2014/16, Available at SSRN: https://ssrn.com/abstract=2495007 or http://dx.doi.org/10.2139/ssrn.2495007
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+L S Bamber , J X Jiang , K R Petroni , I Y Wang
+Comprehensive income: who's afraid of performance reporting
+The Accounting Review , volume 85 , p. 97 - 126 Posted: 2010
+Crossref
+J Barton , T B Hansen , G Pownall
+Which performance measures do investors around the world value the most-And why
+The Accounting Review , volume 85 , issue 3 , p. 753 - 789 Posted: 2010
+Crossref
+E Bartov
+Foreign currency exposure of multinational firms: Accounting measures and market valuation
+Contemporary Accounting Research , volume 14 , issue 4 , p. 623 - 652 Posted: 1997
+Crossref
+S Bhamornsiri , C Wiggins
+Comprehensive income disclosure
+The CPA Journal , volume 71 , p. 54 - 56 Posted: 2001
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+243
+ABSTRACT VIEWS
+2,846
+RANK
+287,697
+1 Citations
+26 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Political Budget Cycle: An Analysis of Brazilian Municipalities
+
+17 Pages Posted: 12 Aug 2021
+
+Gilberto Crispim
+
+affiliation not provided to SSRN
+
+Leonardo Flach
+
+Universidade Federal de Santa Catarina (UFSC)
+
+Luiz Alberton
+
+Federal University of Santa Catarina (UFSC)
+
+Celma Duque Ferreira
+
+affiliation not provided to SSRN
+
+Date Written: July 10, 2021
+
+Abstract
+
+The study investigates the behavior of committed expenses, investment expenditures and loan during an election period in Brazilian municipalities with a population equal to or greater than 50 thousand inhabitants, as well as whether these same municipalities meet the legal requirements regarding the source and limit of budget resources in an election year, as established by Law No. 11,300/06, in the period 2000-2016. The research sample represents 66% of the Brazilian population. The method applied for data analysis was tobit regression on panel data, grouped by municipalities, corresponding to 353 municipalities, 5 regions and 6001 observations. The findings indicate that there are no changes in the expenses committed before, during and after the electoral period, regardless of party equality and election in two rounds. With regard to spending on investments and loan during an election period, the study suggests an average increase of 9% and 68% respectively, with greater intensity when there is party equality between municipal and state governments, especially in the process of reelection. As for compliance with legal requirements on the use of budget resources in an election year, the study indicates that local governments do not comply with current normative instructions. Contributions: Considering that there is no consensus in the specialized literature on the behavior of public spending, this study contributes to the literature and future research because it innovates through a robust and effective statistical method, the disclosure of spending behavior in local governments in election period.
+
+
+Keywords: Public expense, Political Budget Cycle, Election period, panel data regression
+
+JEL Classification: C54,C58,C50,C51,D04,D72,D78,E6
+
+Suggested Citation:
+
+Crispim, Gilberto and Flach, Leonardo and Alberton, Luiz and Ferreira, Celma Duque, Political Budget Cycle: An Analysis of Brazilian Municipalities (July 10, 2021). Available at SSRN: https://ssrn.com/abstract=3902816 or http://dx.doi.org/10.2139/ssrn.3902816
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+T S Aidt , G Mooney
+Voting suffrage and the political budget cycle: Evidence from the London Metropolitan Boroughs 1902-1937
+Journal of Public Economics , volume 112 , p. 53 - 71 Posted: 2014
+A Akhmedov , E Zhuravskaya
+Opportunistic political cycles: test in a young democracy setting
+The Quarterly Journal of Economics , volume 119 , p. 1301 - 1338 Posted: 2004
+A Alesina , N Roubini , G D Cohen
+Political Cycles and the Macroeconomy Posted: 1997
+O Amorim , Neto , A G Simonassi
+Bases políticas das transferências intergovernamentais no Brasil (1985-2004)
+Revista de Economia Política , volume 33 , issue 4 , p. 704 - 725 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+77
+ABSTRACT VIEWS
+701
+RANK
+730,194
+52 References
+PlumX Metrics
+Related eJournals
+
+Public Choice: Analysis of Collective Decision-Making eJournal
+
+Follow
+
+Political Economy: National, State & Local Government; Intergovernmental Relations eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

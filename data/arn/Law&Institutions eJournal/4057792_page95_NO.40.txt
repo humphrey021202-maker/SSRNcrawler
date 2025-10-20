@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Voting for Socially Responsible Corporate Policies
+
+HKU Jockey Club Enterprise Sustainability Global Research Institute - Archive
+
+29 Pages Posted: 1 Apr 2022 Last revised: 6 Jun 2025
+
+Adam Meirowitz
+
+Yale University
+
+Shaoting Pi
+
+Ivy College of Business, Iowa State University
+
+Matthew C. Ringgenberg
+
+University of Utah - Department of Finance
+
+Date Written: May 30, 2025
+
+Abstract
+
+ We study voting for corporate policies when voters face a trade-off between maximizing firm value and implementing social objectives (like minimizing pollution). Contrary to the view that it is impossible to maximize in more than one dimension (Jensen, 2001), we show the collective preferences of voters are well defined when they care about one social objective in addition to firm value.  But this is not generally true when there is more than one social dimension. Consequently, governance becomes highly sensitive to finer details of the process making it difficult for investors to anticipate policy outcomes.  There are exceptions: certain configurations of blockholders make it possible to achieve stable policies even with more than two objectives. Our framework provides novel results about firm objective functions and introduces tools from social choice theory that may assist scholars studying other aspects of governance.
+
+Keywords: Corporate governance, ESG, Shareholder Voting, Social Choice Theory, Socially Responsible Investing, Sustainability, Blockholders, Proxy Voting
+
+JEL Classification: G12, G14
+
+Suggested Citation:
+
+Meirowitz, Adam and Pi, Shaoting and Ringgenberg, Matthew C., Voting for Socially Responsible Corporate Policies (May 30, 2025). HKU Jockey Club Enterprise Sustainability Global Research Institute - Archive, Available at SSRN: https://ssrn.com/abstract=4057792 or http://dx.doi.org/10.2139/ssrn.4057792
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+A R Admati , P Pfleiderer , J Zechner
+Large shareholder activism, risk sharing, and financial market equilibrium
+Journal of Political Economy , volume 102 , issue 6 , p. 1097 - 1130 Posted: 1994
+K Arrow
+A difficulty in the concept of social welfare
+Journal of Political Economy , volume 58 , p. 328 - 346 Posted: 1951
+Austen-Smith , D Banks , J S
+Positive Political Theory I: Collective Preference Posted: 2000
+Austen-Smith , D Banks , J S
+Positive Political Theory II: Strategy and Structure Posted: 2000
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+441
+ABSTRACT VIEWS
+2,315
+RANK
+150,648
+29 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

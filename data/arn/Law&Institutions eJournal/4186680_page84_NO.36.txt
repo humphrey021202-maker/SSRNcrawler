@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+' onclick='sendLeadBoxerEvent()' > Download This Paper
+ 
+' onclick='sendLeadBoxerEvent()' > Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Measuring Companies' Environmental and Social Impacts: An Analysis of ESG Ratings and SDG Scores.
+
+Organization & Environment, 0[10.1177/10860266251326895]
+
+65 Pages Posted: 12 Aug 2022 Last revised: 8 Apr 2025
+
+Jan Anton van Zanten
+
+Erasmus University Rotterdam (EUR) - Rotterdam School of Management (RSM); Robeco Institutional Asset Management
+
+Date Written: February 04, 2025
+
+Abstract
+
+Environmental, social, and governance (ESG) ratings are central to sustainable investing and research but face criticism for inaccurately reflecting corporate sustainability performance. In response, new metrics have emerged that assess companies' impacts on the Sustainable Development Goals (SDGs). This paper compares four ESG ratings with two SDG scores, revealing no correlation between them. It then evaluates the alignment between these sustainability ratings and how investors and regulators assess corporate (un)sustainability. The findings show that SDG scores capture how these stakeholders judge companies’ negative and positive impacts on sustainable development, while ESG ratings do not. This implies that SDG scores have high, and ESG ratings low, construct validity for assessing corporate sustainability performance. These results underscore that concepts like ESG, corporate sustainability, and company impact can be used complementarily but not interchangeably. The practical implication is that sustainable investors should prioritize sustainable development impacts next to avoiding ESG risks.
+
+Keywords: Sustainable investing, ESG, impact investing, Sustainable Development Goals (SDGs), sustainable finance, EU Taxonomy
+
+Suggested Citation:
+
+van Zanten, Jan Anton,
+
+Measuring Companies' Environmental and Social Impacts: An Analysis of ESG Ratings and SDG Scores.
+
+(February 04, 2025). Organization & Environment, 0[10.1177/10860266251326895], Available at SSRN: https://ssrn.com/abstract=4186680 or http://dx.doi.org/10.1177/10860266251326895
+' onclick='sendLeadBoxerEvent()' > Download This Paper
+ 
+' onclick='sendLeadBoxerEvent()' > Open PDF in Browser
+85 References
+H Ahlström , D Monciardini
+The regulatory dynamics of sustainable finance: Paradoxical success and limitations of EU reforms
+Journal of Business Ethics , volume 177 , issue 1 , p. 193 - 212 Posted: 2022
+A Amel-Zadeh , G Serafeim
+Why and how investors use ESG information: Evidence from a global survey
+Financial Analysts Journal , volume 74 , issue 3 , p. 87 - 103 Posted: 2018
+M Arayssi , M Jizi , H H Tabaja
+The impact of board composition on the level of ESG disclosures in GCC countries
+Sustainability Accounting, Management and Policy Journal Posted: 2020
+R Armstrong
+The ESG investing industry is dangerous
+Financial Times Posted: 2021
+Load more
+1 Citations
+David Blitz , Mike Chen , Clint Howard , Harald Lohre
+3D Investing: Jointly Optimizing Return, Risk, and Sustainability
+<a href="https://doi.org/10.1080/0015198X.2024.2335142" rel="nofollow">Financial Analysts Journal, volume 80, issue 3, 2024</a> [10.1080/0015198X.2024.2335142] · 27 Pages · Posted: 20 Dec 2023 · Last revised: 5 Aug 2024 · Downloads: 1,487
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+3,765
+ABSTRACT VIEWS
+13,194
+RANK
+6,760
+1 Citations
+85 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

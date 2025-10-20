@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Do Debt Investors Adjust Financial Statement Ratios when Financial Statements Fail to Reflect Economic Substance? Evidence from Cash Flow Hedges
+
+Contemporary Accounting Research, Vol. 38, No. 3, Fall 2021, Available at: https://doi.org/10.1111/1911-3846.12656
+
+Posted: 12 Jan 2021 Last revised: 8 Sep 2021
+
+John L. Campbell
+
+University of Georgia - J.M. Tull School of Accounting
+
+Jenna D'Adduzio
+
+Oregon State University - College of Business
+
+Jimmy Downes
+
+University of Nebraska at Lincoln
+
+Steven Utke
+
+University of Connecticut - Department of Accounting
+
+There are 2 versions of this paper
+
+Date Written: September 7, 2021
+
+Abstract
+
+Cash flow hedge derivatives are an example of an economic transaction that is not fully portrayed in the financial statements in two key ways. First, while changes in the fair value of the derivative are recorded at each reporting date, changes in the value of the underlying purchase or sale commitment are not recorded or disclosed until that transaction occurs. Therefore, until the purchase or sale occurs, the financial statements only portray half of the economic transaction. Second, the gains/losses associated with these derivatives provide an inverse signal about the persistence of firm profitability. We document a method by which financial statement users can partially adjust for these distortions and find evidence that debt investors incorporate information conveyed by cash flow hedge gains/losses into their pricing of new debt issuances. We also find evidence that credit analysts incorporate these adjustments into their firm-level credit ratings but are unable to find consistent evidence of similar adjustments to credit ratings on new debt issuances. Overall, our results suggest that a subset of sophisticated investors (i.e., those in public debt markets) appear to incorporate information from cash flow hedge accounting into their assessments of firm risk, and that users may benefit from enhanced disclosure about the amount and timing of a firm’s future transactions that are exposed to foreign currency, interest rate, or commodity price risk as well as the amount and timing of derivatives that protect the firm from those risks.
+
+Keywords: financial statement analysis, ratio analysis, accounting distortions, derivatives and hedging, cost of capital
+
+Suggested Citation:
+
+Campbell, John L. and D'Adduzio, Jenna and Downes, Jimmy and Utke, Steven, Do Debt Investors Adjust Financial Statement Ratios when Financial Statements Fail to Reflect Economic Substance? Evidence from Cash Flow Hedges (September 7, 2021). Contemporary Accounting Research, Vol. 38, No. 3, Fall 2021, Available at: https://doi.org/10.1111/1911-3846.12656, Available at SSRN: https://ssrn.com/abstract=3761770
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+627
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

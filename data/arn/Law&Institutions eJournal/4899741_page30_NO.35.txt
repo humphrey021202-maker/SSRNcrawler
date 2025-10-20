@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+   
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CECL Adoption and the Contractual Usefulness of Accounting Earnings in Bank CEO Compensation
+
+SMU Cox School of Business Research Paper No. 24-8
+
+Olin Business School Center for Finance & Accounting Research Paper No. 2024/12
+
+HKU Jockey Club Enterprise Sustainability Global Research Institute - Archive
+
+77 Pages Posted: 24 Jul 2024 Last revised: 12 Aug 2025
+
+Ilona Babenko
+
+Arizona State University
+
+Benjamin Bennett
+
+Texas Christian University - M.J. Neeley School of Business
+
+Gauri Bhat
+
+Southern Methodist University (SMU) - Accounting Department
+
+Todd T. Milbourn
+
+Southern Methodist University (SMU) - SMU Cox School of Business
+
+Date Written: July 19, 2024
+
+Abstract
+
+The adoption of the Current Expected Credit Losses (CECL) model, a new methodology for accounting for expected credit losses, has significantly increased bank earnings volatility. Using a difference-in-differences design around adoption, we examine how more volatile earnings impact CEO compensation design. We find that post-CECL, bank CEO pay becomes less sensitive to earnings, but more sensitive to other performance measures, such as stock returns and revenues. Additionally, total executive compensation increases, consistent with the higher risk premia demanded by bank executives. Overall, our results suggest that compensation committees view accounting earnings as having lower contractual usefulness for incentives after CECL.
+
+Keywords: Pay-Performance Sensitivity, Earnings-Based Incentive Compensation, CECL
+
+JEL Classification: D8, J33, G21, G32, M41, M48
+
+Suggested Citation:
+
+Babenko, Ilona and Bennett, Benjamin and Bhat, Gauri and Milbourn, Todd T., CECL Adoption and the Contractual Usefulness of Accounting Earnings in Bank CEO Compensation (July 19, 2024). SMU Cox School of Business Research Paper No. 24-8, Olin Business School Center for Finance & Accounting Research Paper No. 2024/12, HKU Jockey Club Enterprise Sustainability Global Research Institute - Archive, Available at SSRN: https://ssrn.com/abstract=4899741 or http://dx.doi.org/10.2139/ssrn.4899741
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+Ana ; Albuquerque , Rui Albuquerque , ; Mary , Ellen Carter , ; , Qi Dong
+How large is the pay premium from executive incentive compensation?
+The Accounting Review , volume 99 , p. 35 - 64 Posted: 2024
+William ; Baber , Sok-Hyon , ; Kang , Krishna Kumar
+The explanatory power of earnings levels vs. earnings changes in the context of executive compensation
+The Accounting Review , volume 74 , p. 459 - 472 Posted: 1999
+Patrick ; Badolato , Dain Donelson , ; , Matthew Ege , ; Baek , ; Seungho , K Sunil , ; Mohanty , Mina Glambosky
+Audit committee financial expertise and earnings management: The role of status
+Journal of Accounting and Economics , volume 58 Posted: 2014
+Andrew ; Baker , David Larcker , ; , Charles Wang
+How much should we trust staggered difference-in-differences estimates?
+Journal of Financial Economics , volume 144 , p. 370 - 395 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+227
+ABSTRACT VIEWS
+1,262
+RANK
+307,529
+59 References
+PlumX Metrics
+Related eJournals
+
+SMU Cox School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How to Communicate an Exclusion From the Statutory Audit of Narrative Reports?
+
+54 Pages Posted: 26 Dec 2018 Last revised: 5 May 2020
+
+Peter Kajüter
+
+University of Münster - Accounting Center
+
+Max Meinhövel
+
+University of Münster
+
+Kai Schaumann
+
+University of Münster
+
+Date Written: April 2020
+
+Abstract
+
+This study addresses two potential ways of communicating an exclusion from a statutory audit of narratives, as recently proposed by auditors: (1) an explicit label at the page margin and (2) an appendix to the auditor’s report referencing unaudited information. We conduct an eye-tracking experiment and examine the impact of communicating such an exclusion from the audit on financial report users’ attention, understanding, and credit risk judgment in a lending-decision task. Our results show that the effect of the audit exclusion depends on whether users understand which pieces of information were left unaudited and on the amount of attention they pay to the unaudited information. Specifically, we predict and find that the label increases users’ attention to unaudited information and enhances their understanding of the audit exclusion. For an appendix to the auditor’s report, however, we cannot document similar results. Users subject to the appendix do not direct more attention to the unaudited information and even show a lower ability to distinguish audited from unaudited information. Furthermore, the amount of attention that users pay to the unaudited information and their degree of understanding of the audit exclusion have a direct influence on their credit risk assessment. The results of this study imply a potentially widened expectations gap due to audit exclusions and highlight the need for clear communication of the audit status of narratives.
+
+Keywords: assurance, audit exclusion, eye tracking, information processing, narrative disclosures
+
+JEL Classification: M41, M42, M48
+
+Suggested Citation:
+
+Kajüter, Peter and Meinhövel, Max and Schaumann, Kai, How to Communicate an Exclusion From the Statutory Audit of Narrative Reports? (April 2020). Available at SSRN: https://ssrn.com/abstract=3297481 or http://dx.doi.org/10.2139/ssrn.3297481
+Download This Paper
+ 
+Open PDF in Browser
+80 References
+P Andersson
+Does experience matter in lending? A process-tracing study on experienced loan officers' and novices' decision behavior
+Journal of Economic Psychology , volume 25 , issue 4 , p. 471 - 492 Posted: 2004
+Crossref
+A D Andre , C D Wickens
+Proximity compatibility and information display: The effects of space and color on the analysis of aircraft stall conditions Posted: 1989
+V Beattie
+Accounting narratives and the narrative turn in accounting research: Issues, theory, methodology, methods and a research framework
+The British Accounting Review , volume 46 , issue 2 , p. 111 - 134 Posted: 2014
+Crossref
+J C Bedard , S G Sutton , V Arnold , J R Phillips
+Another piece of the "expectations gap": What do investors know about auditor involvement with information in the annual report?
+Current Issues in Auditing , volume 6 , issue 1 , p. 17 - 30 Posted: 2012
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+241
+ABSTRACT VIEWS
+2,292
+RANK
+290,067
+80 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

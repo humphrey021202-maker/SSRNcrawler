@@ -1,0 +1,90 @@
+Skip to main content
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Bibliometric Analysis of Research on Forensic Accounting from 2006 to 2024
+Social Sciences & Humanities Open
+
+20 Pages Posted: 15 Jan 2025 Publication Status: Accepted
+
+Sunil Kumar
+
+Deen Dayal Upadhyaya College, University of Delhi
+
+Shiran Khan
+
+University of Delhi - Kalindi College
+
+Reena Yadav
+
+University of Delhi
+
+Abstract
+
+The purpose of the present study is to bring out diverse attributes of the literature review in the field of forensic accounting. The data have been extracted from the SCOPUS and 109 research papers filtered by applying PRISMA framework followed by bibliometric-analysis. The ‘biblioshiny’ tool of the R-studio package is used for analysis purposes. The output of the said package presented in tables and graphs. The study reveals that empirical research on the proposed topic is widely conducted in the western nations. The TC and NP of the developed nation is much higher than any other country. The SCP and MCP is higher, in case of source of the journals, of developed nation. The most relevant author, research paper, affiliations, and countries are also from the developed nation only. It opens an opportunity for the developing nation to undertake research in this field. The conceptual analysis of the study reveals sub-themes as per the contemporary requirements of the filed viz., forensic accounting techniques, fraud identification and risk assessment, role of certified public accountants in forensic accounting etc. It will provide help to research scholar in summarizing their literature review in future and suggests upcoming fields which may be undertaken as future research topic. The present study is original and reference of all sources, used in the study, are given at appropriate places and duly acknowledged.
+
+Keywords: Forensic Accounting, Bibliometric Analysis, PRISMA Framework, Biblioshiny
+
+Suggested Citation:
+
+Kumar, Sunil and Khan, Shiran and Yadav, Reena, A Bibliometric Analysis of Research on Forensic Accounting from 2006 to 2024. Available at SSRN: https://ssrn.com/abstract=5078504 or http://dx.doi.org/10.2139/ssrn.5078504
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+222
+ABSTRACT VIEWS
+728
+PlumX Metrics
+Social Sciences & Humanities Open First Look
+All Journals (1898)
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

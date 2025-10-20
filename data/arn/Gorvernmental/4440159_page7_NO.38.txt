@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Taxing the Way to Lower Pay: The Impact of Section 4960 Excise Tax on Nonprofit Compensation
+
+35 Pages Posted: 9 May 2023 Last revised: 26 Jan 2024
+
+Steven Balsam
+
+Temple University - Department of Accounting
+
+Curtis M. Hall
+
+Drexel University - Bennett S. LeBow College of Business
+
+Erica Harris
+
+Florida International University (FIU) - School of Accounting
+
+Kyle Smith
+
+Mississippi State University - School of Accountancy
+
+Date Written: January 5, 2024
+
+Abstract
+
+We examine the effect on nonprofit (NPO) executive compensation of Internal Revenue Service code (IRC) section 4960 of the Tax Cuts and Jobs Act of 2017 (TCJA) which imposed a 21% excise tax on nonprofit employee compensation over $1 million per covered individual. Using a difference-in-differences analysis on IRS Form 990 data for almost 40 thousand nonprofit employee-year observations from 2015 to 2020, we find a lower growth rate for treated employee compensation post section 4960. Our results are robust to the use of alternative treatment specifications as well as control samples, e.g., employees earning more than $1 million but not covered under section 4960; medical professionals specifically exempt from section 4960. These findings suggest that tax policy can be used to reduce executive compensation, at least in the context of nonprofits, which are an important part of the economy that has been less studied than for profits.
+
+Keywords: Nonprofit Organizations; Highly Compensated Employees; Executive Compensation; Excise Tax
+
+JEL Classification: G38, H20, M52
+
+Suggested Citation:
+
+Balsam, Steven and Hall, Curtis M. and Harris, Erica and Smith, Kyle, Taxing the Way to Lower Pay: The Impact of Section 4960 Excise Tax on Nonprofit Compensation (January 5, 2024). Available at SSRN: https://ssrn.com/abstract=4440159 or http://dx.doi.org/10.2139/ssrn.4440159
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+202
+ABSTRACT VIEWS
+1,156
+RANK
+344,140
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

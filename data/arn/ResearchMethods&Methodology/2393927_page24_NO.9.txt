@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+P Values, Confidence Intervals, or Confidence Levels for Hypotheses?
+
+22 Pages Posted: 11 Feb 2014
+
+Michael Wood
+
+University of Portsmouth
+
+Date Written: February 11, 2014
+
+Abstract
+
+Null hypothesis significance tests and p values are widely used despite very strong arguments against their use in many contexts. Confidence intervals are often recommended as an alternative, but these do not achieve the objective of assessing the credibility of a hypothesis, and the distinction between confidence and probability is an unnecessary confusion. This paper proposes a more straightforward (probabilistic) definition of confidence, and suggests how the idea can be applied to whatever hypotheses are of interest to researchers. The relative merits of the different approaches are discussed using a series of illustrative examples: usually confidence based approaches seem more transparent and useful, but there are some contexts in which p values may be appropriate. I also suggest some methods for converting results from one format to another. (The attractiveness of the idea of confidence is demonstrated by the widespread persistence of the completely incorrect idea that p=5% is equivalent to 95% confidence in the alternative hypothesis. In this paper I show how p values can be used to derive meaningful confidence statements, and the assumptions underlying the derivation.)
+
+Keywords: Confidence interval, Confidence level, Hypothesis testing, Null hypothesis significance tests, P value, User friendliness
+
+Suggested Citation:
+
+Wood, Michael, P Values, Confidence Intervals, or Confidence Levels for Hypotheses? (February 11, 2014). Available at SSRN: https://ssrn.com/abstract=2393927 or http://dx.doi.org/10.2139/ssrn.2393927
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+M J Bayarri , J O Berger
+The interplay of Bayesian and frequentist analysis
+Statistical Science , volume 19 , issue 1 , p. 58 - 80 Posted: 2004
+T A Beauregard
+Direct and indirect links between organizational work-home culture and employee well-being
+British Journal of Management , volume 22 , p. 218 - 237 Posted: 2011
+Crossref
+BMJ Posted: 2011-10
+Crossref
+W M Bolstad
+Introduction to Bayesian statistics Posted: 2007
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+136
+ABSTRACT VIEWS
+1,773
+RANK
+487,089
+3 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Cognitive Social Science eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

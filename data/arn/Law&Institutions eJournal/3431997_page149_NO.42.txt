@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Boards and Bond Contract Terms
+
+64 Pages Posted: 10 Aug 2019 Last revised: 21 Apr 2023
+
+Hami Amiraslani
+
+ESMT European School of Management and Technology
+
+Date Written: April 21, 2023
+
+Abstract
+
+I use the NYSE and NASD board independence reforms to examine the relation between board structure and the contract terms of new bond issues. Using a difference-in-differences design, I find that noncompliant firms that transition to independent boards experience reductions in payout, financing, investment, and event risk covenants and attract higher credit ratings on their new bond issues. These contracting benefits are not offset by higher at-issue credit spreads. I further show that the effects of the reforms are concentrated in Delaware, where state law governing directors’ fiduciary duties limits their incentives to favor equity over debt. I also find that these incentives dominate co-opted directors’ allegiance to the CEO, to the extent that following the reforms, covenants of bonds issued by Delaware firms with co-opted boards decrease, whereas those of non-Delaware firms increase. These contracting outcomes are not influenced by shareholder control, and are stronger when firms are more vulnerable to takeovers and have fewer distracted directors. Collectively, my findings are consistent with the disciplining effect of independent boards on entrenched managers and suggest that when directors have legal incentives to consider the interests of creditors, increased oversight of managers through board independence reforms can reduce bondholders’ agency costs.
+
+Keywords: Bond Covenants, Corporate Boards, Corporate Governance, Cost of Debt, Debt Contracting, Entrenchment, Fiduciary Duties, Regulation
+
+JEL Classification: G30, G32, G38, K22
+
+Suggested Citation:
+
+Amiraslani, Hami, Corporate Boards and Bond Contract Terms (April 21, 2023). Available at SSRN: https://ssrn.com/abstract=3431997 or http://dx.doi.org/10.2139/ssrn.3431997
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+R Adams , B Hermalin , M Weisbach
+The role of boards of directors in corporate governance: A conceptual framework and survey
+Journal of Economic Literature , volume 48 , issue 1 , p. 58 - 107 Posted: 2010
+R Anderson , S Mansi , D Reeb
+Board characteristics, accounting report integrity, and the cost of debt
+Journal of Accounting and Economics , volume 37 , issue 3 , p. 315 - 342 Posted: 2004
+C Armstrong , J Core , W Guay
+Do independent directors cause improvements in firm transparency?
+Journal of Financial Economics , volume 113 , issue 3 , p. 383 - 403 Posted: 2014
+H Ashbaugh-Skaife , D Collins , R Lafond
+The effects of corporate governance on firms' credit ratings
+Journal of Accounting and Economics , volume 42 , issue 1-2 , p. 203 - 243 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+336
+ABSTRACT VIEWS
+1,844
+RANK
+204,782
+1 Citations
+77 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

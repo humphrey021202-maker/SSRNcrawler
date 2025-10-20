@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Empirical Evidence on Debt Governance
+
+67 Pages Posted: 19 Dec 2023
+
+Aras Canipek
+
+Columbia University
+
+Date Written: December 9, 2023
+
+Abstract
+
+A large theoretical literature suggests that debt can mitigate agency problems, yet empirical evidence is limited due to identification problems. To provide evidence, I examine whether firms implement independent directors as a substitute when debt governance becomes ineffective. Key to my analysis are two central features of debt as a governance device: first, it is only effective with bankruptcy penalties, second, it only matters for firms close to default. Consistent with debt inducing discipline, across countries, board independence is negatively related to bankruptcy penalties, and especially so among risky firms. For them, a change from strictest to softest penalties is associated with a 46% increase in the number of independent directors. Comparing changes in board independence of risky firms to those of safe firms around bankruptcy reforms confirms the cross-country results. My findings underline the role of agency problems in explaining corporate capital structure, and can further account for several unresolved issues in corporate governance (e.g., differences in bankruptcy penalties can explain 37% of the 37 percentage point “board independence gap” between the US and the UK). Moreover, my findings have important implications for optimal bankruptcy design: in the absence of bankruptcy penalties, management may have difficulties to credibly commit to forgo inefficient actions and thus to secure financing.
+
+Keywords: Debt, corporate governance, bankruptcy, board independence
+
+JEL Classification: G32, G33, G34, G38, K22
+
+Suggested Citation:
+
+Canipek, Aras, Empirical Evidence on Debt Governance (December 9, 2023). Available at SSRN: https://ssrn.com/abstract=4659362 or http://dx.doi.org/10.2139/ssrn.4659362
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+161
+ABSTRACT VIEWS
+1,085
+RANK
+422,747
+86 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

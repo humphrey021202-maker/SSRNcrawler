@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+GMM-Based Tests of Efficient Market Learning and an Application to Testing for a Small Firm Effect in Equity Pricing
+
+38 Pages Posted: 6 Feb 2013 Last revised: 15 Dec 2013
+
+Valerio Potì
+
+University College Dublin
+
+Akhtar R. Siddique
+
+Government of the United States of America - Office of the Comptroller of the Currency (OCC)
+
+Date Written: October 12, 2013
+
+Abstract
+
+In this paper, we extend Bossaerts’ (2004) analysis of the implications of the efficient learning market hypothesis (ELM) for asset prices by reformulating it in a GMM setting. Our representation is more amenable to widespread application and allows the econometrician, in testing ELM, to make use of the full range of specification tests that have been developed by the empirical literature in the context of tests of the more restrictive Efficient Market Hypothesis (EMH). We apply this framework to test for efficient learning in the pricing of small capitalization stocks. We find evidence of mispricing of small stocks but we cannot rule out that, in spite of possibly incorrect priors about the future payoffs of small firms, the market efficiently processes information as it becomes available over time. That is, our evidence contradicts the Efficient Market Hypothesis (EMH) but it is not incompatible with efficient learning in the manner of Bossaerts (2004).
+
+Keywords: Asset Pricing, GMM, Learning, Size Effect
+
+JEL Classification: G12
+
+Suggested Citation:
+
+Potì, Valerio and Siddique, Akhtar R., GMM-Based Tests of Efficient Market Learning and an Application to Testing for a Small Firm Effect in Equity Pricing (October 12, 2013). Available at SSRN: https://ssrn.com/abstract=2212482 or http://dx.doi.org/10.2139/ssrn.2212482
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+R F Banz
+The relationship between return and market value of common stocks
+Journal of Financial Economics , volume 9 , p. 3 - 18 Posted: 1981
+Crossref
+K Back , D P Brown
+Implied Probabilities in GMM Estimators
+Econometrica , volume 61 , p. 971 - 75 Posted: 1993
+Crossref
+P Bossaerts
+Filtering Returns for Unspecified Biases in Priors when Testing Asset Pricing Theory
+Review of Economic Studies , volume 71 , p. 63 - 86 Posted: 2004
+Crossref
+E Fama , K French
+The Cross-Section of Expected Stock Returns
+Journal of Finance , volume 47 , p. 427 - 465 Posted: 1992
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+101
+ABSTRACT VIEWS
+1,349
+RANK
+614,231
+29 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Anomalies and Market Efficiency
+
+By G. William Schwert
+
+Anomalies and Market Efficiency
+
+By G. William Schwert
+
+Evidence on the Speed of Convergence to Market Efficiency
+
+By Tarun Chordia, Avanidhar Subrahmanyam, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

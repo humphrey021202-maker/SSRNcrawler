@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+resume_checkpoint.json
+resume_checkpoint.json.tmp
+cookies.json
+*.log
+*/_challenge/
+article_*.txt

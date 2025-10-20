@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Blueprint for Agile Audit Standard Setting in a Fast-Moving World
+
+38 Pages Posted: 1 Aug 2025
+
+Brant E. Christensen
+
+Brigham Young University
+
+Scott A. Emett
+
+Arizona State University (ASU) - School of Accountancy
+
+C. Christina Ho
+
+Public Company Accounting Oversight Board (PCAOB)
+
+David A. Wood
+
+Brigham Young University - School of Accountancy
+
+Date Written: July 22, 2025
+
+Abstract
+
+This paper proposes a framework for audit standard-setting that would transform today's slow, linear rule-making with iterative, stakeholder-centric development cycles. After documenting multi-year lags in recent projects across leading audit standard setters and diagnosing weaknesses-reactiveness, rigidity, and episodic consultation-we apply principles from the software industry's agile development processes to regulatory design. We recommend breaking large standard-setting projects into modular "sprints," forming cross-functional teams, using pilot sandboxes, and embedding continuous investor, auditor, and public feedback. We discuss how governance safeguards such as quality checkpoints, transparent documentation, balanced advisory panels, and post-implementation reviews can address risks of rushed or captured rule-making. By treating standards as living products rather than episodic pronouncements, audit regulators can better protect investors amid rapid technological and market change.
+
+Keywords: PCAOB, Standard Setting, Agile
+
+Suggested Citation:
+
+Christensen, Brant E. and Emett, Scott A. and Ho, C. Christina and Wood, David A., A Blueprint for Agile Audit Standard Setting in a Fast-Moving World (July 22, 2025). Available at SSRN: https://ssrn.com/abstract=5372900 or http://dx.doi.org/10.2139/ssrn.5372900
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+Proposed ASB Strategic Plan 2026-2030 Posted: 2025
+Australian Government , Treasury
+Regulation of accounting, auditing, and consulting firms in Australia: Consultation paper Posted: 2024
+K Beck , M Beedle , A Van Bennekum , A Cockburn , W Cunningham , M Fowler , . . Thomas , D
+Manifesto for Agile Software Development Posted: 2001
+C M Boland , V L Brown , D Dickins
+Standard-setting in auditing: Insights from PCAOB inspections
+Journal of accounting and Public Policy , volume 39 , issue 4 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+205
+ABSTRACT VIEWS
+411
+RANK
+339,352
+42 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

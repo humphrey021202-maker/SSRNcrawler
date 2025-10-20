@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+REA, Triple-Entry Accounting and Blockchain: Converging Paths to Shared Ledger Systems
+
+32 Pages Posted: 11 Jun 2020 Last revised: 17 Jul 2023
+
+Juan Ignacio Ibañez
+
+UCL Centre for Blockchain Technologies; The DLT Science Foundation
+
+Dr. Chris N. Bayer
+
+Development International e.V.
+
+Paolo Tasca
+
+UCL Centre for Blockchain Technologies
+
+Jiahua Xu
+
+University College London - Department of Computer Science; The DLT Science Foundation; École Polytechnique Fédérale de Lausanne (EPFL); UCL
+
+Date Written: May 15, 2020
+
+Abstract
+
+The concept of shared ledger systems offering a single source of truth has repeatedly called traditional bookkeeping into question. Improving upon the long-standing double-entry system, solutions such as the Resource-Event-Agent (REA) accounting framework, triple-entry accounting (TEA) and blockchain have been advanced. However, to date, the historical development of these concepts remains murky. This paper conducts a genealogical analysis of shared ledger systems, in particular tracing the development of REA, TEA and blockchain. We show how the REA framework has had a distinct influence on independent streams of research in the field of TEA, and how this interaction may be traced to the present incarnation of shared ledger systems in blockchain. In doing so, we duly acknowledge the influence of key individuals contributing to this development, correct common misconceptions and map out how the paths of REA, TEA and blockchain overlap in the realm of shared ledger systems.
+
+Keywords: Triple-Entry Accounting, REA Accounting Model, Single Source of Truth, Blockchain, Distributed Ledger Technology
+
+Suggested Citation:
+
+Ibañez, Juan Ignacio and Bayer, Dr. Chris N. and Tasca, Paolo and Xu, Jiahua, REA, Triple-Entry Accounting and Blockchain: Converging Paths to Shared Ledger Systems (May 15, 2020). Available at SSRN: https://ssrn.com/abstract=3602207 or http://dx.doi.org/10.2139/ssrn.3602207
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+A Alawadhi , B Ames , C E Maciel De Aquino , M Arthúrsdóttir , G Brennan , H L Brown-Liburd , N Bumgarner , P Byrnes , T R Criste , S Ghosh , J A Gross , B Gullkvist , C Hardy , H M Jónsson , G Lasslet , A Medinets , D Moon , E H Miyaki , N Sigolo , S Sigurjónsson , T R Stewart , T Teeter , M A Vasarhelyi , J D Warren , B T Blaustein , S Jajodia , C D Mccollum , L Notargiacomo , I Kumaresan , R Miller , A
+How to Explain the Value of Replicated, Shared Ledgers from First Principles. Richard Gendal Brown: Thoughts on the Future of Finance
+Instantaneous Decentralized Poker. International Conference on the Theory and Application of Cryptology and Information Security , p. 410 - 440 Posted: 1993
+H Byeongju
+An Introduction on Traditional Double Entry Bookkeeping of Korea Posted: 2018
+C W Cai
+Triple-entry Accounting with Blockchain: How far Have we Come?
+th World Congress of Korean Studies Posted: 2019
+Accounting & Finance. Accounting and Finance Association of Australia and New Zealand. Chandler, A. D. 1977. The Visible Hand: Managerial Revolution in American Business
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,592
+ABSTRACT VIEWS
+7,039
+RANK
+26,563
+19 Citations
+67 References
+PlumX Metrics
+Related eJournals
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+
+History of Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Stock Index Manipulation Around Election Announcements: Evidence from Pakistan Stock Exchange
+
+International Journal of Accounting and Economics Studies. 5(2). 87-91 (2017)
+
+5 Pages Posted: 5 Jul 2017
+
+Shahbaz Khan
+
+Zhongnan University of Economics and Law, School of Finance, Students
+
+Razzi Razzi Abbas Jafri
+
+National Bank Of Pakistan; NBP
+
+Nida Baig
+
+Huazhong University of Science and Technology - College of Public Administration
+
+Muhammad Shaique
+
+Zhongnan University of Economics and Law, School of Accounting, Students
+
+Muhammad Usman
+
+Zhongnan University of Economics and Law, School of Finance, Students
+
+Date Written: July 1, 2017
+
+Abstract
+
+The purpose of this study is to find out the impact of political general elections of Pakistan on KSE-100 index. We employed Event study methodology on closing prices of KSE-100 index over the time period January, 1998 to May, 2013. During our sample period, 3 events of political general Elections occurred i.e., Event1 in 2002, Event2 in 2008, and recently Event3 in 2013. We construct an Event window of 11 days consisting of 5 pre-event days, 1 on-event day, and 5 post-event days. Results of this study show that Events 1 and 2 put significant negative impact on stock returns, while Event3 demonstrates a significant positive impact on stock returns. This study also revealed the pre- and post-event comparison for all of the three events and, suggested that as soon as the political situation of the country changes, behavior of investors towards political general election also changes. Manipulation in stock index has always been remained an inconclusive phenomenon for investors and policy makers. So, further evidence on an individual country level might suggest fruitful guidelines to both investors and policy makers.
+
+Keywords: Political Elections, Pakistan Stock Exchange, Stock Returns, Market Efficiency, Event Study
+
+JEL Classification: G14, G15
+
+Suggested Citation:
+
+Khan, Shahbaz and Razzi Abbas Jafri, Razzi and Baig, Nida and Shaique, Muhammad and Usman, Muhammad, Stock Index Manipulation Around Election Announcements: Evidence from Pakistan Stock Exchange (July 1, 2017). International Journal of Accounting and Economics Studies. 5(2). 87-91 (2017), Available at SSRN: https://ssrn.com/abstract=2996079
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+A Alesina , E Spolaore , R Wacziarg
+Economic integration and political disintegration (No.w6163)
+National Bureau of Economic Research Posted: 1997
+Crossref
+Election polls, free trade, and the stock market: evidence from theCanadian general election (No. w3073)
+Crossref
+E F Fama
+The behavior of stock-market prices
+The journal of Business , volume 38 , issue 1 , p. 34 - 105 Posted: 1965
+Crossref
+W M Fong , S K Koh
+The political economy of volatility dynamics in the Hong Kong stock market
+Asia-Pacific financial markets , volume 9 , issue 3 , p. 259 - 282 Posted: 2002
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+153
+ABSTRACT VIEWS
+1,739
+RANK
+441,817
+17 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

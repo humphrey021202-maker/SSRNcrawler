@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Do Financial Executives Respond to the Use of Artificial Intelligence in Financial Reporting and Auditing?
+
+Review of Accounting Studies. doi.org/10.1007/s11142-023-09771-y
+
+47 Pages Posted: 6 Dec 2021 Last revised: 10 Apr 2025
+
+Cassandra Estep
+
+Emory University - Goizueta Business School
+
+Emily E. Griffith
+
+University of Wisconsin - Madison
+
+Nikki L. MacKenzie
+
+Georgia Institute of Technology - Scheller College of Business
+
+Date Written: January 5, 2023
+
+Abstract
+
+Financial reporting quality can benefit from companies and auditors using artificial intelligence (AI) in complex and subjective financial reporting areas. However, benefits will only accrue if managers incorporate AI-based information into their financial reporting decisions, which the popular press and academic literature suggest is uncertain. We use a multi-method approach to examine how financial executives view and respond to AI. In a survey, respondents describe various uses of AI at their companies, spanning from simple to complex functions. While managers are not averse to the use of AI by their companies or their auditors, they appear to be uncertain about how auditors’ use of AI will directly benefit their companies. In an experiment that manipulates whether a company and/or its auditor use AI, managers whose companies use AI record larger audit adjustments for a complex accounting estimate when the auditor uses AI versus does not use AI. Auditor AI use does not affect managers’ adjustment decisions in the absence of company AI. This study highlights the importance of considering the effects of AI use by both companies and their auditors when evaluating how AI influences auditing and financial reporting.
+
+Keywords: Accounting estimates, artificial intelligence, audit adjustments, auditor-client interaction, financial executive judgment, judgment and decision making
+
+Suggested Citation:
+
+Estep, Cassandra and Griffith, Emily Elaine and MacKenzie, Nikki, How Do Financial Executives Respond to the Use of Artificial Intelligence in Financial Reporting and Auditing? (January 5, 2023). Review of Accounting Studies. doi.org/10.1007/s11142-023-09771-y, Available at SSRN: https://ssrn.com/abstract=3974946 or http://dx.doi.org/10.2139/ssrn.3974946
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+W Andrews
+AI adoption lags ambition Posted: 2020
+A Austin , T Carpenter , M Christ , C Nielson
+The data analytics journey: Interactions among auditors, managers, regulation, and technology
+Contemporary Accounting Research , volume 38 , issue 3 , p. 1888 - 1924 Posted: 2021
+C Bame-Aldred , T Kida
+A comparison of auditor and client initial negotiation positions and tactics
+Accounting, Organizations, and Society , volume 32 , issue 6 , p. 497 - 511 Posted: 2007
+L Bamber , K Hui , P E Yeung
+Managers' EPS forecasts: Nickeling and diming the market?
+The Accounting Review , volume 85 , issue 1 , p. 63 - 95 Posted: 2010
+Load more
+14 Citations
+Tim Bauer , Cassandra Estep , Emily Elaine Griffith
+Specialists’ Evidence Evaluation and Judgments in Audits
+42 Pages · Posted: 20 Jun 2016 · Last revised: 4 Apr 2025 · Downloads: 533
+Download PDF  Add Paper to My Library
+Joseph F. Brazel , Keith Lamar Jones , Qiyang Lian
+Auditor Use of Benchmarks to Assess Fraud Risk: The Case for Industry Data
+54 Pages · Posted: 2 Jun 2020 · Last revised: 28 Feb 2023 · Downloads: 360
+Download PDF  Add Paper to My Library
+Kathryn Holmstrom
+Auditor Reliance on Opaque Audit Methods: The Effects of Auditor Ownership and Task Experience
+50 Pages · Posted: 5 Jun 2020 · Last revised: 22 Dec 2023 · Downloads: 444
+Download PDF  Add Paper to My Library
+Joseph F. Brazel , Anna Gold , Justin Leiby , Tammie Rech Schaefer
+How do Audit Committees Support Audit Engagement Teams and Encourage Professional Skepticism? A Survey and Experimental Evidence
+55 Pages · Posted: 10 Jan 2022 · Last revised: 28 Jul 2025 · Downloads: 620
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,035
+ABSTRACT VIEWS
+3,528
+RANK
+18,105
+14 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

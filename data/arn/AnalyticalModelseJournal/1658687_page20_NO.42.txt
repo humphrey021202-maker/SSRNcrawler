@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Information Asymmetry and Team Performance Measurement
+
+30 Pages Posted: 14 Aug 2010
+
+Naomi Rothenberg
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+Date Written: August 13, 2010
+
+Abstract
+
+This paper studies the effect of agents’ access to pre-decision information, depending on whether only group performance is rewarded or individual performance is rewarded. Pre-decision information only affects agents’ incentives, which in turn depend on the type of performance evaluation system. With public information and group performance measures, the principal prefers a perfect signal if the high productivity state is more informative, and otherwise prefers no information. With group measures, only team success is rewarded, but cooperation is more costly in the higher productive states when the high state is more informative, so the principal prefers to be able to distinguish the states. With individual performance measures, the principal can replicate the group performance measure or induce competition, and in both cases prefers no information. A private signal exacerbates the control problem, and generally, with either performance evaluation system, the principal prefers uninformed agents. However, if agents can become at least slightly informed, then with individual performance measures the principal is indifferent to the level of information conveyed in the signal. Individual performance measures better balance the incentive effects of private information. With group measures, by definition the principal is restricted to a cooperative performance based pay and always prefers the lowest level of information.
+
+Keywords: Pre-decision information, teams, performance measurement, principal-agent
+
+JEL Classification: M41, D82, M52, J33
+
+Suggested Citation:
+
+Rothenberg, Naomi, Optimal Information Asymmetry and Team Performance Measurement (August 13, 2010). Available at SSRN: https://ssrn.com/abstract=1658687 or http://dx.doi.org/10.2139/ssrn.1658687
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+A Alchian , H Demsetz
+Production, Information Costs, and Economic Organization
+American Economic Review , volume 62 , issue 5 , p. 777 - 795 Posted: 1972
+Crossref
+S Baiman , J Evans
+Pre-Decision Information and Participative Management Control Systems
+Journal of Accounting Research , volume 21 , issue 2 , p. 371 - 395 Posted: 1983
+Crossref
+S Baiman , K Sivaramakrishnan
+The Value of Private Pre-Decision Information in a Principal-Agent Context
+The Accounting Review , volume 66 , issue 4 , p. 747 - 766 Posted: 1991
+R Bushman , R Indjejikian , M Penno
+Private Predecision Information, Performance Measure Congruity, and the Value of Delegation
+Contemporary Accounting Research , volume 17 , issue 4 , p. 561 - 587 Posted: 2000
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+171
+ABSTRACT VIEWS
+1,726
+RANK
+401,016
+19 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+CEO Overconfidence and Corporate Investment
+
+By Ulrike Malmendier and Geoffrey A. Tate
+
+CEO Overconfidence and Corporate Investment
+
+By Ulrike Malmendier and Geoffrey A. Tate
+
+Who Makes Acquisitions? CEO Overconfidence and the Market's Reaction
+
+By Ulrike Malmendier and Geoffrey A. Tate
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

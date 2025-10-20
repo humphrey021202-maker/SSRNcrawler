@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Mandatory Corporate Social Responsibility Reporting on Liquidity and Risk
+
+Journal of Accounting Review (會計評論), Vol. 72, 2021
+
+Nanyang Business School Research Paper No. 22-20
+
+48 Pages Posted: 7 Jun 2022 Last revised: 18 Aug 2025
+
+Chang Chan
+
+National Taipei College of Business
+
+Chao-Hung Huang
+
+Deloitte Consulting (Pacific) Limited
+
+Calvin J. Chiou
+
+National Chengchi University (NCCU) - Department of Finance
+
+Wen-Chyan Ke
+
+National Taipei University-Department of Finance and Cooperative Management
+
+Date Written: January 31, 2021
+
+Abstract
+
+This study investigates whether mandatory corporate social responsibility (CSR) reporting ameliorates liquidity and reduces risk for stocks. Moreover, we explore whether these impacts vary with regulated company category and stakeholder influence capacity. For a mandatory CSR reporting regulation in Taiwan, we assess the policy’s effects using difference-in-differences (DID) modeling. The results show that mandatory CSR reporting significantly increases liquidity and reduces idiosyncratic risks. However, the effect on systematic risk is asymmetric—a high (low) systematic risk is accompanied by a positive (negative) market return; namely, a large (small) price increase (decrease) caused by a positive (negative) market return. This aligns with the insurance-like benefits argument. These findings suggest investors hold on to CSR firms because of increased information transparency and good financial performance during a recession. The improved liquidity is more significant for firms in the electronics and chemical industries and for firms with a large equity share owned by domestic institutional investors. Idiosyncratic risk is reduced more for the latter two. The findings provide feedback on mandatory CSR reporting to policymakers and provide references for firms and investors.
+
+Keywords: Corporate social responsibility, Liquidity, Systematic risk, Non-systematic risk
+
+JEL Classification: M14, G12, G14
+
+Suggested Citation:
+
+Chan, Chang and Huang, Chao-Hung and Chiou, Jian-Jia and Ke, Wen-Chyan, The Impact of Mandatory Corporate Social Responsibility Reporting on Liquidity and Risk (January 31, 2021). Journal of Accounting Review (會計評論), Vol. 72, 2021, Nanyang Business School Research Paper No. 22-20, Available at SSRN: https://ssrn.com/abstract=4125974
+Download This Paper
+ 
+Open PDF in Browser
+91 References
+月 司財務績效(池祥萱等 ; ；陳振遠、 王健聰與洪世偉 ; Petrenko , Aime Ridge , ; 柯文乾、林美 珍、 Hill , 朱炫璉與詹場
+Lins et al. 2017)。(2)增加股票報酬與提升公司價值(陳庭萱、 何瑞鎮與林玉婷 2016；池祥麟
+Barnett and Salomon Posted: 1985
+Lins
+Byun and Oh Posted: 2017
+降低股票風險(池祥麟等 ; Oikonomou , Ioannou Cheng , Serafeim
+。(4)緩和負面事件衝擊(下方風險)(池祥萱等 2014；陳彩稚等
+Lins et al. 2017)。(5)降低資金成 本與易於籌資 Posted: 1979
+Wu Hoi , Zhang
+Lins et al. 2017)。 7 本文和第 3 及第 4 點之分析 CSR 績效與風險之關係的文獻具互補功能。文獻上鮮少分析 CSR 和流動性之關 係。就我們所知，僅有 Akrout and Othman
+與蕭莉芃等(2020)。Akrout and Othman Posted: 2013
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+55
+ABSTRACT VIEWS
+782
+RANK
+880,636
+91 References
+PlumX Metrics
+Related eJournals
+
+Nanyang Business School Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

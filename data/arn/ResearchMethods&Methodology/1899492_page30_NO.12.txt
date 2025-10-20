@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Clustering Financial Time Series by Network Community Analysis
+
+International Journal of Modern Physics C, Vol. 22, No. 1, pp. 35-50
+
+Posted: 1 Aug 2011
+
+Carlo Piccardi
+
+Polytechnic University of Milan
+
+Lisa Calatroni
+
+Polytechnic University of Milan
+
+Fabio Bertoni
+
+SKEMA Business School - Paris la Défense Campus
+
+Date Written: January 14, 2011
+
+Abstract
+
+In this paper, we describe a method for clustering financial time series which is based on community analysis, a recently developed approach for partitioning the nodes of a network (graph). A network with N nodes is associated to the set of N time series. The weight of the link (i; j), which quantfies the similarity between the two corresponding time series, is defined according to a metric based on symbolic time series analysis, which has recently proved effective in the context of financial time series. Then, searching for network communities allows one to identify groups of nodes (and then time series) with strong similarity. A quantitative assessment of the significance of the obtained partition is also provided. The method is applied to two distinct case-studies concerning the US and Italy Stock Exchange, respectively. In the US case, the stability of the partitions over time is also thoroughly investigated. The results favorably compare with those obtained with the standard tools typically used for clustering financial time series, such as the minimal spanning tree and the hierarchical tree.
+
+Suggested Citation:
+
+Piccardi, Carlo and Calatroni, Lisa and Bertoni, Fabio, Clustering Financial Time Series by Network Community Analysis (January 14, 2011). International Journal of Modern Physics C, Vol. 22, No. 1, pp. 35-50, Available at SSRN: https://ssrn.com/abstract=1899492
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,160
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

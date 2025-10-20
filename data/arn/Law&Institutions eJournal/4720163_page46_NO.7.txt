@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Expression Reflects Mind: Evidence from CEO's Interview Video and Audit Fee
+
+50 Pages Posted: 19 Feb 2024 Last revised: 20 Feb 2024
+
+Jing Dai
+
+Southwestern University of Finance and Economics (SWUFE)
+
+Rong Huang
+
+Fudan University - School of Management
+
+Xiaorong Li
+
+Antai College of Economics and Management, Shanghai Jiaotong University
+
+Date Written: February 8, 2024
+
+Abstract
+
+Neuropsychological studies have shown that observers unconsciously assess an individual’s credibility based on the observed degree of facial expression fabrication. Building on this theory, we investigate whether auditors incorporate their client CEOs’ dynamic hemifacial asymmetry of expressions (DHFA) into the pricing decision. Consistent with the neuroscience prediction that a high level of DHFA implies a low degree of credibility, we find that auditors charge higher audit fees to firms whose CEOs exhibit greater DHFA in CNBC’s video interviews about corporate earnings. This effect is more pronounced when auditors have a longer relationship with and are geographically closer to their clients, suggesting that additional information from social interactions validates auditors’ preliminary assessments of a CEO’s expression fabrication. We also find that CEOs’ DHFA is positively associated with real earnings management activities, indicating that auditors’ wariness towards CEOs with high DHFA is more likely due to a rational decision than a cognitive bias. Our results are robust to employing the propensity score matching approach, including auditor fixed effects, using an alternative measure of DHFA, and controlling for additional CEO and video characteristics. Collectively, our findings suggest that auditors form rational perceptions on CEOs’ credibility based on their DHFA when making pricing decisions.
+
+Keywords: Dynamic Hemifacial Asymmetry of Expressions, Audit Fees, CEOs’ Video Interviews
+
+JEL Classification: M41, M42
+
+Suggested Citation:
+
+Dai, Jing and Huang, Rong and Li, Xiaorong, Expression Reflects Mind: Evidence from CEO's Interview Video and Audit Fee (February 8, 2024). Available at SSRN: https://ssrn.com/abstract=4720163 or http://dx.doi.org/10.2139/ssrn.4720163
+Download This Paper
+ 
+Open PDF in Browser
+75 References
+R Adolphs
+Trust in the brain
+Nature Neuroscience , volume 5 , issue 3 , p. 192 - 193 Posted: 2002
+Statement on Auditing Standards No. 47: Audit risk and materiality in conducting an audit Posted: 1983
+D Aobdia , E Li , K Ramesh , M Shen
+Public Company Accounting Oversight Board (PCAOB) Auditing Standards. TheAuditor's Responses to the Risks of Material Misstatement AS 2301. Public Company Accounting Oversight Board (PCAOB) Auditing Standards. The Auditor's Responses to the Risks of Material Misstatement
+AS , volume 12 Posted: 2019
+A P Atkinson , W H Dittrich , A J Gemmell , A W Young
+Emotion perception from dynamic and static body expressions in point-light and full-light displays
+Perception , volume 33 , issue 6 , p. 717 - 746 Posted: 2004
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+221
+ABSTRACT VIEWS
+1,022
+RANK
+315,603
+75 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

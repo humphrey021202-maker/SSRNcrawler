@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How do taxes affect the trading behavior of private investors? Evidence from individual portfolio data
+
+61 Pages Posted: 17 Apr 2020 Last revised: 1 Jun 2021
+
+Florian Buhlmann
+
+ZEW – Leibniz Centre for European Economic Research
+
+Philipp Dörrenberg
+
+University of Mannheim; IZA Institute of Labor Economics; CESifo (Center for Economic Studies and Ifo Institute); ZEW – Leibniz Centre for European Economic Research
+
+Benjamin Loos
+
+UNSW
+
+Johannes Voget
+
+University of Mannheim
+
+There are 2 versions of this paper
+
+Date Written: March 31, 2020
+
+Abstract
+
+The removal of an intertemporal tax discontinuity in Germany provides us with a natural experiment to study the causal effect of taxes on individual stock-trading
+behavior and the disposition effect. Using individual investor transactions data combined with nonparametric regressions and bunching methods, we find that the
+presence of the tax discontinuity induces investors to adjust their holding periods, which reduces their effective tax rate by 11.3%. We also find that tax effects
+dominate the disposition effect in the days around the discontinuity and can inhibit it (by about 20%) during the six months preceding the discontinuity. We discuss
+the consequences of our results for the firms whose stocks are traded and policy implications.
+
+Keywords: JEL Classification: H20, G11, D14, C41 Private investors, Trading Behavior, Capital-gains, Taxation, Disposition Effect
+
+Suggested Citation:
+
+Buhlmann, Florian and Dörrenberg, Philipp and Loos, Benjamin and Voget, Johannes, How do taxes affect the trading behavior of private investors? Evidence from individual portfolio data (March 31, 2020). Available at SSRN: https://ssrn.com/abstract=3565547 or http://dx.doi.org/10.2139/ssrn.3565547
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+O Agersnap , O Zidar
+The tax elasticity of capital gains and revenuemaximizing rates
+American Economic Review: Insights , volume 3 , issue 4 , p. 399 - 416 Posted: 2021
+P Aghion , J Van Reenen , L Zingales
+Innovation and institutional ownership
+American Economic Review , volume 103 , issue 1 , p. 277 - 304 Posted: 2013
+B M Barber , T Odean
+Boys will be boys: Gender, overconfidence, and common stock investment
+The Quarterly Journal of Economics , volume 116 , issue 1 , p. 261 - 292 Posted: 2001
+B M Barber , T Odean
+Are individual investors tax savvy? evidence from retail and discount brokerage accounts
+Journal of Public Economics , volume 88 , issue 1-2 , p. 419 - 442 Posted: 2004
+Load more
+1 Citations
+Ole Agersnap , Owen Zidar
+The Tax Elasticity of Capital Gains and Revenue-Maximizing Rates
+American Economic Review: Insights , volume 3 , issue 4 , p. 399 Posted: 2021
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+210
+ABSTRACT VIEWS
+2,388
+RANK
+203,526
+1 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Benefits of Structured Data across the Information Supply Chain: Initial Evidence on XBRL Adoption and Loan Contracting of Private Firms
+
+Journal of Accounting and Public Policy, Vol. 35, No. 4, 2016
+
+44 Pages Posted: 18 Jun 2014 Last revised: 10 Nov 2016
+
+Devrimi Kaya
+
+University of Erlangen-Nuremberg-Friedrich Alexander Universität Erlangen Nürnberg
+
+Paul Pronobis
+
+Free University of Bolzano-Bozen
+
+Date Written: April 29, 2016
+
+Abstract
+
+A growing body of literature documents how different parties benefit from structured data across the information supply chain. The purpose of this study is to examine the effect of voluntary adoption of the eXtensible Business Reporting Language (XBRL) on price and non-price terms of loan contracting. Using a sample of Belgian private firms, the analyses provide evidence that banks charge lower interest rate spreads to voluntary adopters as compared to non-adopters. The results also show that loan sizes are larger in comparison for voluntary adopters of XBRL. Further, the effect of XBRL adoption is stronger for opaque firms. The results are robust to using different estimation approaches as well as additional tests. The findings are in line with the view that XBRL data filings reduce information processing costs, and contribute to our understanding of the impact of structured data on loan contracting – an implication that may be of interest to regulators and other parties interested in the benefits of structured data across the information supply chain.
+
+Keywords: XBRL, Loan Contracting, Cost of Debt, Interest Rate Spread, Information Technology, Information Supply Chain
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Kaya, Devrimi and Pronobis, Paul, The Benefits of Structured Data across the Information Supply Chain: Initial Evidence on XBRL Adoption and Loan Contracting of Private Firms (April 29, 2016). Journal of Accounting and Public Policy, Vol. 35, No. 4, 2016, Available at SSRN: https://ssrn.com/abstract=2450858 or http://dx.doi.org/10.2139/ssrn.2450858
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+549
+ABSTRACT VIEWS
+3,514
+RANK
+115,646
+3 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Value of Verification in Debt Financing: Evidence from Private U.S. Firms
+
+By Michael Minnis
+
+Voluntary Audits and the Cost of Debt Capital for Privately Held Firms: Korean Evidence
+
+By Jeong-bon Kim, Dan A. Simunic, ...
+
+Voluntary Audit and the Cost of Debt Capital for Privately Held Firms: Korean Evidence
+
+By Dan A. Simunic, Jeong-bon Kim, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

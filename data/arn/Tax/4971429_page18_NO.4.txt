@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+AI Risk Management in Tax Audits: A Comparative Review of the EU and US Regulatory Approaches
+
+Stanford-Vienna TTLF Working Paper No. 124
+
+56 Pages Posted: 14 Nov 2024
+
+Amedeo Rizzo
+
+University of Oxford - Faculty of Law; Bocconi University; Stanford Law School
+
+Giorgio Hassan
+
+SDA Bocconi
+
+Date Written: September 30, 2024
+
+Abstract
+
+This paper focuses on the AI risk management framework that applies to tax authorities under the EU and US legal systems. In recent years, the development of AI has entered the field of tax administration, revolutionizing the planning and operational tasks of tax authorities. In this scenario, it is crucial that taxpayers are not unduly exposed to any risk of harm arising from the unsafe implementation of AI by tax authorities. In this regard, the EU legal framework – with the GDPR and the recent AI Act – and the US legal framework – with the recent Executive Order on the development of Safe, Secure, and Trustworthy AI – provide valuable sources of risk-based obligations that could adequately address the risks of AI in the tax domain.
+
+On the EU side, the GDPR and AI Act have a complementary approach – a “rights-based approach” in the case of the GDPR, and a “risk-based approach” in the case of the AI Act – and an overlapping scope of application. In the field of AI risk management, the potential overlap between the GDPR and the AI Act may provide valuable indications for adapting the GDPR-based risk management framework to the realm of AI, and, at the same time, for interpreting the scope of the AI Act in light of the rights provided under the GDPR. On the US side, the risk management obligations stemming from the Executive Order on Safe AI draw from the recent developments in AI regulation in the EU, providing measures that have a similar scope to the requirements of the AI Act. From this perspective, we discuss that the EU and US approaches to AI regulation are slowly aligning and are similarly able to address the risks arising from the use of AI in the tax domain – such as, particularly, the risks concerning AI-enabled discrimination and human-AI interaction. However, both in the EU and the US, it is unclear whether the risk management framework provided by these regulations can effectively extend to tax authorities. Except for the GDPR, the AI Act and the Executive Order seem to consider tax-related AI systems at a lower risk class compared to other categories of “high-risk” or “risk-impacting” AI systems. The misalignment in the classification of tax-related AI systems could jeopardize the application of the AI risk management framework provided in these regulations, and consequently, expose taxpayers to significant risks of harm.
+
+For this reason, we argue that the risks concerning the use of AI in tax administration, and the benefits that could derive from the adoption of a risk management framework inspired by these three regulations, should convince EU and US lawmakers to adopt a precautionary and uniform approach to the risk categorization of tax-related AI systems. Particularly, lawmakers should locate tax-related AI systems among the pool of high-risk and rights-impacting systems for the purposes of the AI Act and the Executive Order, for the better interest of taxpayers in the EU and the US.
+
+Suggested Citation:
+
+Rizzo, Amedeo and Hassan, Giorgio, AI Risk Management in Tax Audits: A Comparative Review of the EU and US Regulatory Approaches (September 30, 2024). Stanford-Vienna TTLF Working Paper No. 124, Available at SSRN: https://ssrn.com/abstract=4971429 or http://dx.doi.org/10.2139/ssrn.4971429
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300
+Regulation , issue 167 Posted: 2008
+Artificial Intelligence Act: MEPs adopt landmark law Posted: 2024-03-13
+Artificial intelligence (AI) act: Council gives final green light to the first worldwide rules on AI , volume 60 Posted: 2023-09-12
+High-risk AI systems
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+146
+ABSTRACT VIEWS
+621
+RANK
+459,276
+24 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

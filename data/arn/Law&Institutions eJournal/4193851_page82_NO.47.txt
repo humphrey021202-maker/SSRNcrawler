@@ -1,0 +1,96 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Sensing, Seizing, and Reconfiguring: What Enterprise Resource Planning Can and Cannot Do for Management Control Systems
+
+Posted: 14 Sep 2022
+
+Lian Zhong
+
+Chongqing Technology and Business University
+
+Jason Zezhong Xiao
+
+University of Macau
+
+Evangelia Varoutsa
+
+Independent
+
+Date Written: August 6, 2022
+
+Abstract
+
+Over the past decade, enterprise resource planning (ERP) has become widely used, especially in management control systems (MCS). Management accounting research has thus focused on ERP-based MCS. Surprisingly, however, there has been comparatively little analysis of the strategic impacts of ERP-based MCS. Existing studies on ERP-based MCS have not yet evaluated companies’ increasing reliance on ERP-based MCS to establish and implement dynamic capabilities (DC) — the ability that a company needs to change business strategies. Accordingly, this paper undertakes a single case study of ERP implementation in a medium-sized Chinese manufacturer whose management accounting changes are considered fundamental to developing its DC. Employing the theory of organisational routines and DC, we conceptualize MCS changes as routine changes, exploring the inner working of MCS changes as well as the relevant changes across routines of various levels. We find four fundamental MCS changes. First, tighter controls over data entry and consistent data processing methods were enacted to maintain the effectiveness of individual ERP-based MCS. Second, connections between information, tools, principles, and activities were enhanced to promote MCS to work as a whole. Third, the fundamental constituents of MCS information were redefined, and thus MCS could gradually immerse into the shop-floor level to make the shop-floor activities accountable. Fourth, MCS became the primary means of supporting managers to identify, codify, and develop (new) action patterns. The strategic impacts of modified MCS thus manifest through its critical role in developing seizing and reconfiguring routines. However, the use of ERP-based MCS is limited for developing a sensing routine. Accordingly, we contribute new evidence by tracing ongoing ERP changes to expand the digitalization-based MCS knowledge.
+
+Keywords: Management controls, Enterprise resource planning, Dynamic capabilities
+
+Suggested Citation:
+
+Zhong, Lian and Xiao, Jason Zezhong and Varoutsa, Evangelia, Sensing, Seizing, and Reconfiguring: What Enterprise Resource Planning Can and Cannot Do for Management Control Systems (August 6, 2022). Available at SSRN: https://ssrn.com/abstract=4193851
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+304
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

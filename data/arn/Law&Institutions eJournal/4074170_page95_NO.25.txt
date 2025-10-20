@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Important Are Semi-Annual Earnings Announcements? An Information Event Perspective
+
+AASB Research Centre Working Paper 3
+
+41 Pages Posted: 4 Apr 2022 Last revised: 27 Sep 2022
+
+Stephen L. Taylor
+
+University of Technology Sydney; Financial Research Network (FIRN)
+
+Alex Tong
+
+University of Technology Sydney (UTS)
+
+Date Written: April 1, 2022
+
+Abstract
+
+Using a method that avoids the need to specify earnings expectations (Ball and Shivakumar 2008), we demonstrate that the period surrounding the semi-annual announcement of Australian firms’ earnings is, on average, an important source of information. Although there is substantial year-to-year variation, we observe no evidence of any significant time trend, and also conclude that a shift from Australian domestic GAAP to IFRS did not impact the association between earnings announcement windows and stock returns. We also find no evidence that the informativeness of earnings announcements varies systematically with firm size, analyst following or economic news (i.e., positive versus negative stock returns, profits versus losses), although we do observe significant variation across industries. Our conclusion is further supported by contrasting the earnings release date with the days immediately prior to release, or high information days other than earnings announcement windows. Using a more precise event window relative to prior studies (i.e., three hours versus three days), we confirm that earnings announcements contain significant new information about fundamentals.
+
+Keywords: Earnings announcements, information content.
+
+JEL Classification: M41, G34
+
+Suggested Citation:
+
+Taylor, Stephen L. and Tong, Alex, How Important Are Semi-Annual Earnings Announcements? An Information Event Perspective (April 1, 2022). AASB Research Centre Working Paper 3, Available at SSRN: https://ssrn.com/abstract=4074170 or http://dx.doi.org/10.2139/ssrn.4074170
+Download This Paper
+ 
+Open PDF in Browser
+35 References
+information. Following He and Tian Posted: 2013
+Abnormal adjusted R 2 is the regression adjusted R 2 less the expectation of six trading days assuming daily stock returns are i.i.d. Calendar-year stock returns are regressed on earnings announcement window returns. Calendar-year returns are adjusted for dividends and stock capitalisation changes. Earnings announcement window returns are daily compounded returns for the three days centered on the earnings release date
+Observations , volume 634 , issue 1 Posted: 2000
+References Ball , R Brown , P
+An empirical evaluation of accounting income numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+R Ball , P Brown
+Ball and Brown (1968) after fifty years
+Pacific-Basin Finance Journal , volume 53 , p. 410 - 431 Posted: 2019
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+122
+ABSTRACT VIEWS
+737
+RANK
+531,260
+35 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analysis of Hybrid Financial Instruments: The IFRS 17 and Solvency Ii Perspective
+
+47 Pages Posted: 15 Jul 2025
+
+Bruno Paisani
+
+affiliation not provided to SSRN
+
+Eduardo Flores
+
+University of São Paulo - School of Economics, Business and Accounting
+
+Bruno Salotti
+
+FEA-USP
+
+Abstract
+
+This study investigates how the introduction of IFRS 17 influences the issuance of hybrid financial instruments (HFIs) by insurance companies. As empirical research on HFI often overlooks financial firms such as insurers, this study aims to fills this gap and offers new insights. Using data from the pre-announcement period (2014–2016) and post-announcement period (2017–2019), it compares HFI issuance between IFRS adopters and firms in countries where IFRS is not required or permitted. Across three difference-in-differences analyses, the results consistently show that international insurers have not responded to IFRS 17 by increasing their HFI issuances to strengthen their capital structure. This outcome can be partially explained by considering the implementation of Solvency II, which included transitional rules allowing insurers to meet new capital and solvency requirements by issuing HFI. This study contributes to the understanding of the potential effects of IFRS 17 on the accounting practices. From a regulatory perspective, it offers insights into potential solutions for firms facing regulatory capital deficits. Moreover, it enriches the academic discourse by highlighting the unintended effects of adopting international accounting standards and fair value accounting. It underscores the importance of considering the interaction between new accounting rules and existing regulatory frameworks.
+
+Keywords: Difference-in-Difference, Hybrid Financial Instruments, IFRS 17, International Accounting, Insurance Companies, Solvency II
+
+Suggested Citation:
+
+Paisani, Bruno and Flores, Eduardo and Salotti, Bruno, Analysis of Hybrid Financial Instruments: The IFRS 17 and Solvency Ii Perspective. Available at SSRN: https://ssrn.com/abstract=5352787 or http://dx.doi.org/10.2139/ssrn.5352787
+Download This Paper
+ 
+Open PDF in Browser
+218 References
+A Abdallah , W Abdallah , F Salama
+The market reaction to the adoption of IFRS in the European Insurance Industry
+Geneva Papers on Risk and Insurance: Issues and Practice , volume 43 , issue 4 , p. 653 - 703 Posted: 2018
+L E Afonso
+A editoria de atuária da Revista Contabilidade & Finanças: algumas considerações gerais. Revista Contabilidade & Finanças , p. 9 - 13 Posted: 2019
+A Amel-Zadeh , G Meeks
+Bank failure, mark-to-market and the financial crisis
+Abacus -A Journal of Accounting, FInance and Business Studies , volume 49 , issue 3 , p. 308 - 339 Posted: 2013
+M Arce , B Giner , M A Taleb
+Due process as a legitimating mechanism: Participation and responsiveness in the development of IFRS 17: Insurance contracts
+Journal of Accounting and Public Policy Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+83
+ABSTRACT VIEWS
+336
+RANK
+697,608
+218 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

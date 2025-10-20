@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Dark Web and Capital Markets
+
+55 Pages Posted: 13 Jun 2025 Last revised: 13 Jun 2025
+
+Brigham Brau
+
+University of North Carolina (UNC) at Chapel Hill - Kenan-Flagler Business School
+
+Juuso Itkonen
+
+Macquarie University, Macquarie Business School
+
+Junyoung Jeong
+
+University of Texas at Dallas
+
+Mark H. Lang
+
+University of North Carolina at Chapel Hill
+
+Mikko Niemela
+
+Singapore Management University - Lee Kong Chian School of Business
+
+Date Written: June 06, 2025
+
+Abstract
+
+We use granular dark web data to infer cyber incidents and link them to capital market outcomes. We find that dark web activity increases before cyber breaches are disclosed, suggesting that many breaches occur substantially earlier than reported. Consistent with capital market awareness, information asymmetry and informed trade rise during periods of elevated dark web activity prior to cyber breach disclosure. Next, we identify firm-level periods of heightened dark web activity with no subsequent breach disclosure, which we term "shadow breaches." These episodes exhibit similar characteristics to disclosed breaches, are associated with increased information asymmetry and informed trading and are followed by negative stock returns. Using dark web activity to identify an adjusted event date, we find a negative market reaction around the adjusted breach date, but not around the disclosure date, suggesting that dark web activity preempts breach disclosure. Lastly, we find that breach activity is more likely to be disclosed in high-tech industries and among firms monitoring the dark web. Our findings support the usefulness of dark web data to detect cyber breaches and suggest cyber breaches are more prevalent than disclosed, disclosure is often delayed, and firms monitoring the dark web are more likely to detect breaches.
+
+Keywords: Dark web, informed trading, cybercrime, cyber breach
+
+JEL Classification: G14, G18, D82
+
+Suggested Citation:
+
+Brau, Brigham and Itkonen, Juuso and Jeong, Junyoung and Lang, Mark H. and Niemela, Mikko, The Dark Web and Capital Markets (June 06, 2025). Available at SSRN: https://ssrn.com/abstract=5288434 or http://dx.doi.org/10.2139/ssrn.5288434
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+P Akey , V Grégoire , C Martineau
+Price revelation from insider trading: Evidence from hacked earnings news
+Journal of Financial Economics , volume 143 , issue 3 , p. 1162 - 1184 Posted: 2022
+A Ali , N Li , W Zhang
+Restrictions on managers' outside employment opportunities and asymmetric disclosure of bad versus good news
+The Accounting Review , volume 94 , issue 5 , p. 1 - 25 Posted: 2019
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+E Amir , S Levi , T Livne
+Do firms underreport information on cyber-attacks? Evidence from capital markets
+Review of Accounting Studies , volume 23 , p. 1177 - 1206 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+413
+ABSTRACT VIEWS
+1,322
+RANK
+162,515
+38 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

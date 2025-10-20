@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Jump-Diffusion Risk-Sensitive Benchmarked Asset Management with Traditional and Alternative Data
+
+38 Pages Posted: 20 Jan 2022
+
+Mark Davis
+
+Imperial College London
+
+Sebastien Lleo
+
+NEOMA Business School
+
+Date Written: December 1, 2021
+
+Abstract
+
+This paper addresses errors in mean return estimates in continuous-time asset allocation models. A standard approach postulates that stochastic factors explain expected asset returns. The problem is then to estimate these factors from observed asset prices via filtering. Recent advances have also combined asset prices with expert opinions to improve the estimates. However, these methods have limitations: stocks prices favor momentum strategies, and expert opinions require careful debiasing. To resolve these issues, we propose a jump-diffusion risk-sensitive benchmarked asset management model in which investors estimate the factors from both traditional and alternative data. We show that this model admits a unique $C^{1,2}$ solution, and we derive the optimal investment policy in quasi-closed form. We find that investors construct their portfolios from a passive core and an active satellite. The passive core adds considerations for jump risk to a simple benchmark replication. The active satellite blends security selection, and factor tilts with event-driven strategies unique to jump-diffusion problems. Thus, our model explains the most popular investment strategies. Furthermore, the improved expert forecast model and the introduction of alternative data provide factor tilters with new tools to sharpen their asset allocation.
+
+Keywords: alternative data, benchmark, expert opinions, filtering, jump-diffusion processes, risk-sensitive stochastic control
+
+JEL Classification: C32, C61, G11, G41
+
+Suggested Citation:
+
+Davis, Mark and Lleo, Sebastien, Jump-Diffusion Risk-Sensitive Benchmarked Asset Management with Traditional and Alternative Data (December 1, 2021). Available at SSRN: https://ssrn.com/abstract=4013413 or http://dx.doi.org/10.2139/ssrn.4013413
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+126
+ABSTRACT VIEWS
+886
+RANK
+517,938
+4 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

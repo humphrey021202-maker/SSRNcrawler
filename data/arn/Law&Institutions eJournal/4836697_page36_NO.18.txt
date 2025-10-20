@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Mutual Funds Respond to Mechanical Changes in ESG Ratings?
+
+European Corporate Governance Institute – Finance Working Paper No. 981/2024
+
+University of Miami Business School Research Paper No. 4836697
+
+HKU Jockey Club Enterprise Sustainability Global Research Institute - Archive
+
+69 Pages Posted: 22 May 2024 Last revised: 26 Aug 2025
+
+Seungju Choi
+
+University of Miami Herbert Business School
+
+Fabrizio Ferri
+
+University of Miami - Miami Business School; European Corporate Governance Institute
+
+Daniele Macciocchi
+
+University of Miami Herbert Business School
+
+Date Written: August 06, 2025
+
+Abstract
+
+Using a quasi-experimental setting, we study whether mutual fund investors respond to a purely mechanical change in ESG ratings––i.e., a change independent of concurrent changes in firms’ actual ESG activities. We find that when a firm experiences a mechanical increase in ESG ratings, the probability of being selected by an ESG fund increases (extensive margin). In contrast, if the firm is already in the fund’s portfolio, its holdings do not change (intensive margin), consistent with portfolio weighting being based on market capitalization. The selection effect is observable not only among funds that follow an ESG index but also among active ESG funds, which presumably should have the resources and ability to identify and filter out the mechanical increase in ESG ratings. Among active ESG funds, the selection effect is stronger for funds with less assets under management, larger portfolios of firms, and lower expense ratios, consistent with the notion that resource constraints may impede a fund’s screening ability. Our findings imply that passive investing based on commercial ESG ratings––whether due to resource constraints or portfolio indexing––might result in portfolio allocations that do not reflect the actual ESG activities of firms.
+
+Keywords: ESG, Ratings, Information Intermediaries, Mutual Funds, Portfolio Selection
+
+Suggested Citation:
+
+Choi, Seungju and Ferri, Fabrizio and Macciocchi, Daniele, Do Mutual Funds Respond to Mechanical Changes in ESG Ratings? (August 06, 2025). European Corporate Governance Institute – Finance Working Paper No. 981/2024, University of Miami Business School Research Paper No. 4836697, HKU Jockey Club Enterprise Sustainability Global Research Institute - Archive, Available at SSRN: https://ssrn.com/abstract=4836697 or http://dx.doi.org/10.2139/ssrn.4836697
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+S Agrawal , L Y Liu , S Rajgopal , S A Sridharan , Y Yan , T L Yohn
+ESG Ratings of ESG Index Providers Posted: 2023
+R Basu , X Chen , J Naughton
+The Regulatory Role of Credit Ratings and Voluntary Disclosures
+The Accounting Review , volume 97 , issue 2 , p. 25 - 50 Posted: 2022
+L A Bebchuk , A Cohen , S Hirst
+The agency problems of institutional investors
+Journal of Economic Perspectives , volume 31 , issue 3 , p. 89 - 112 Posted: 2017
+F Berg , K Fabisik , Z Sautner
+Is history repeating itself? The (un) predictable past of ESG ratings. The (Un) Predictable Past of ESG Ratings , volume 708 Posted: 2020-08-24
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+463
+ABSTRACT VIEWS
+1,864
+RANK
+142,252
+1 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+University of Miami Herbert Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

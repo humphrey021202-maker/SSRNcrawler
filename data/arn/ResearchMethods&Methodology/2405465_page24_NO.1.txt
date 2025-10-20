@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Illiquidity and the Measurement of Stock Price Synchronicity
+
+55 Pages Posted: 7 Mar 2014 Last revised: 23 Mar 2019
+
+Joachim Gassen
+
+Humboldt University of Berlin - School of Business and Economics; TRR 266 Accounting for Transparency
+
+Hollis Ashbaugh Skaife
+
+Graduate School of Management, UC-Davis
+
+David Veenman
+
+University of Amsterdam - Amsterdam Business School (ABS)
+
+There are 3 versions of this paper
+
+Date Written: March 2019
+
+Abstract
+
+This paper demonstrates that measures of stock price synchronicity based on market model R2s are predictably biased downwards as a result of stock illiquidity, and that previously-employed remedies to correct market model betas for measurement bias do not fix R2. Using a large international sample of firm-years, we find strong negative and nonlinear relations between illiquidity and R2 across countries, across firms, and over time. Because variables of interest frequently relate to illiquidity as well, we illustrate the consequences of not controlling for illiquidity in synchronicity research. More generally, we demonstrate the importance of using nonlinear control variable methods. Overall, we conclude that the illiquidity-driven measurement bias in R2 provides an explanation for why prior research finds low-R2 firms to have weak information environments, and suggest future research carefully evaluate the sensitivity of its results to nonlinear controls for illiquidity.
+
+Keywords: Stock price synchronicity; Price informativeness; Illiquidity; Zero returns; Corporate transparency; Sell-side analysts; Control variables; Fixed effects; Nonlinearity
+
+JEL Classification: G12, G14, G15, M40, N20
+
+Suggested Citation:
+
+Gassen, Joachim and Skaife, Hollis Ashbaugh and Veenman, David, Illiquidity and the Measurement of Stock Price Synchronicity (March 2019). Available at SSRN: https://ssrn.com/abstract=2405465 or http://dx.doi.org/10.2139/ssrn.2405465
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+14 Citations
+David C. Parsley , Helen Popper
+Return Comovement
+39 Pages · Posted: 15 Aug 2015 · Last revised: 15 Jun 2017 · Downloads: 178
+Download PDF  Add Paper to My Library
+Yi Dong , Chenkai Ni
+Does Limited Attention Constrain Investors’ Acquisition of Firm‐specific Information?
+Journal of Business Finance & Accounting , volume 41 , issue 9-10 , p. 1361 Posted: 2014
+Crossref
+Nyanine Chuele Fonou-Dombeu , Josue Mbonigaba , Odunayo Magret Olarewaju , Bomi Cyril Nomlala
+Earnings quality measures and stock return volatility in South Africa
+Future Business Journal , volume 8 , issue 1 Posted: 2022
+Crossref
+Matthijs Lof , Jos van Bommel
+Asymmetric Information and the Distribution of Trading Volume
+Journal of Corporate Finance, Forthcoming · 92 Pages · Posted: 3 Feb 2016 · Last revised: 7 Aug 2023 · Downloads: 982
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+971
+ABSTRACT VIEWS
+5,896
+RANK
+54,517
+14 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

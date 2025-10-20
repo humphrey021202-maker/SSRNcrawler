@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accruals and Long-Term Non-financial Assets and Liabilities
+
+European Accounting Review, forthcoming.
+
+45 Pages Posted: 14 Oct 2024
+
+Carl Brousseau
+
+Université Laval - School of Accounting
+
+Cédric Poretti
+
+EHL Lausanne, HES-SO, University of Applied Sciences Western Switzerland
+
+Date Written: July 23, 2024
+
+Abstract
+
+This study proposes improvements to accrual models. Existing models explain how working capital maps cash flows from operations into earnings and how this mapping reflects accounting conservatism. However, except for fixed asset depreciation, accruals associated with long-term nonfinancial balance sheet accounts (e.g., intangible assets, goodwill, deferred revenues) are not modeled. We show that these unmodeled accruals have grown in importance over time and that a significant portion of them can be explained by utilizing a fundamental property of accrual accounting: most nonfinancial assets and liabilities will eventually be transferred to earnings as accruals, especially during bad times. Using a large U.S. sample for the 1988-2019 period, we document that beginning-of-year long-term nonfinancial assets and liabilities are significantly associated with total accruals and that, consistent with conditional conservatism, a greater proportion of long-term nonfinancial assets is expensed as accruals when current performance is poor. In simulations, compared to traditional models, models that include longterm nonfinancial assets and liabilities as regressors are more likely to detect seeded discretionary accruals between 2% and 20% of total assets, suggesting that these expanded models should be used to decrease the likelihood of making erroneous inferences.
+
+Keywords: Accruals, long-term nonfinancial balance sheet accounts, conservatism
+
+Declaration of Interest
+
+The authors report there are no competing interests to declare.
+
+Funder Statement
+
+Authors were funded by their respective academic institutions.
+
+JEL Classification: M41, D25, G34, G38
+
+Suggested Citation:
+
+Brousseau, Carl and Poretti, Cédric, Accruals and Long-Term Non-financial Assets and Liabilities (July 23, 2024). European Accounting Review, forthcoming., Available at SSRN: https://ssrn.com/abstract=4950324 or http://dx.doi.org/10.2139/ssrn.4950324
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+124
+ABSTRACT VIEWS
+597
+RANK
+524,402
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+When Shareholders Cross-Hold Lenders’ Equity: The Effects on the Costs of Bank Loans
+
+Journal of Banking and Finance, Forthcoming
+
+45 Pages Posted: 10 Jan 2022 Last revised: 26 Apr 2024
+
+Jing Wang
+
+University of Missouri at Columbia
+
+Liying Wang
+
+University of Nebraska at Lincoln
+
+Date Written: August 17, 2018
+
+Abstract
+
+We show that syndicated loan spreads are lower as borrowers’ shareholders cross-hold more lenders’ equity. Apart from controlling for borrower and lender fixed effects and various other ownership measures, we address endogeneity concerns by conducting a difference-in-differences analysis exploiting the mergers of institutional investors. Additional tests on cross-holding shareholders’ holding period, the impact of active cross-holders, subsamples of borrowers subject to different degrees of shareholder–creditor conflicts, changes in borrower risk around loan initiation, and the number of financial covenants provide support for the hypothesis that borrower shareholders’ equity holdings of lenders reduce agency costs of debt.
+
+Keywords: Syndicated loans, Equity cross-holdings, Loan spreads, Shareholder-creditor conflicts of interest
+
+JEL Classification: G32, G20
+
+Suggested Citation:
+
+Wang, Jing and Wang, Liying, When Shareholders Cross-Hold Lenders’ Equity: The Effects on the Costs of Bank Loans (August 17, 2018). Journal of Banking and Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4003618 or http://dx.doi.org/10.2139/ssrn.4003618
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+P Aghion , P Bolton
+An incomplete contracts approach to financial contracting. The review of economic Studies , volume 59 , p. 473 - 494 Posted: 1992
+M Antón , F Ederer , M Giné , M Schmalz
+Common ownership, competition, and top management incentives
+Journal of Political Economy , volume 131 , p. 1294 - 1355 Posted: 2023
+I R Appel , T A Gormley , D B Keim
+Passive investors, not passive owners
+Journal of Financial Economics , volume 121 , p. 111 - 141 Posted: 2016
+J Azar , M C Schmalz , I Tecu
+Anti-competitive effects of common ownership
+Journal of Finance , volume 73 , p. 1513 - 1565 Posted: 2018
+Load more
+2 Citations
+Yongning Deng , Jing Li , Qilin Peng , Wentao Yao
+Does common institutional ownership mitigate hold‐up problems along the supply chain?
+Financial Management , volume 54 , issue 1 , p. 3 Posted: 2025
+Crossref
+Irina Luneva
+Explaining Debt Covenant Amendments: A Structural Approach
+Jacobs Levy Equity Management Center for Quantitative Financial Research Paper · 85 Pages · Posted: 27 Oct 2023 · Last revised: 2 Oct 2025 · Downloads: 338
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+196
+ABSTRACT VIEWS
+2,365
+RANK
+354,044
+2 Citations
+51 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

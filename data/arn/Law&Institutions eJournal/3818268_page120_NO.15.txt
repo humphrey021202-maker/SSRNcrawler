@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+New Venture Financing and Venture Capital `Funding Hole'
+
+51 Pages Posted: 6 Apr 2021
+
+Amiya Basu
+
+Syracuse University
+
+There are 2 versions of this paper
+
+Date Written: April 2, 2021
+
+Abstract
+
+An entrepreneur usually chooses to receive seed funding for a new project from an angel investor (angel) or a venture capitalist (VC), a choice complicated by the implications of follow-on financing required at the next stage of the venture. The size of the follow-on round is typically much larger than the seed round and the first-stage investors, including the angel almost certainly, and the VC with a significant probability, do not extend follow-on financing. A project released by the original investor faces unfavorable valuation risk from a new financier at the second stage due to asymmetric information, and may even be denied funding and disappear into a ``funding hole." We show theoretically and empirically that the risks are asymmetric for initially angel-funded and initially VC-funded but otherwise identical projects. The risk is elevated with initially VC-backed projects because the original venture capitalist is presumed to decline further financing to all negative-NPV projects in her stable, along with some positive-NPV projects depending on her other opportunities, while an angel declines in all cases. Thus, a positive-NPV project released by a VC enters a diluted pool with more negative-NPV projects than a project released by an angel. On the other hand, the original venture capitalist adds value to all projects in the first period with her guidance and advice and projects that receive follow-on funding have no valuation risk due to asymmetric information. We show that an entrepreneur should choose seed funding from a VC when the follow-on rate of the VC is low or high, but select angel financing for intermediate follow-on rates. We examine seed fundings by the top US angel investors and venture capitalists from 2010-2015 and show that projects released by venture capitalists are less successful raising funds after release, and that follow-on rates by venture capitalists tend to be either high or low, supporting our theoretical findings. Our results are new to the existing literature and offer interesting implications, including that angel financing and VC financing are sometimes complementary, and not always substitutes as in conventional thinking. Angel financing may rescue an entrepreneur when VC financing leads to a funding hole.
+
+Keywords: angel investor, venture capital, seed funding, follow-on financing
+
+JEL Classification: G23, D82, D86
+
+Suggested Citation:
+
+Basu, Amiya, New Venture Financing and Venture Capital `Funding Hole' (April 2, 2021). Available at SSRN: https://ssrn.com/abstract=3818268 or http://dx.doi.org/10.2139/ssrn.3818268
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+E Alvarez-Garrido
+Move-in ready or Fixer-Upper? VC Specialization and Start-up Innovation
+Strategy Science Posted: 2022
+J Bettignie , J Brander
+Financing entrepreneurship: Bank finance versus venture capital
+Journal of Business Venturing , volume 22 , p. 808 - 832 Posted: 2007
+C Casamatta
+Financing and Advising: Optimal Financial Contracts with Venture Capitalists
+The Journal of Finance , volume 58 , issue 5 , p. 2059 - 2085 Posted: 2003
+T J Chemmanur , Z Chen
+Venture Capitalists Versus Angels: The Dynamics of Private Firm Financing Contracts , volume 3 , p. 39 - 86 Posted: 2014
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+121
+ABSTRACT VIEWS
+908
+RANK
+394,837
+11 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Entrepreneurship & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

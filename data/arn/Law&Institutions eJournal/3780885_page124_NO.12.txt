@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Adoption and Content of Key Audit Matters and Stock Price Crash Risk
+
+Posted: 26 Feb 2021 Last revised: 22 Nov 2021
+
+Lin Liao
+
+Nanjing Audit Univeristy
+
+Divesh Sharma
+
+Kennesaw State University, School of Accountancy
+
+Yitang (Jenny) Yang
+
+UNSW Australia Business School, School of Accounting
+
+Rui Zhao
+
+Southwestern University of Finance and Economics (SWUFE)
+
+Date Written: November 18, 2021
+
+Abstract
+
+We examine whether the mandate for auditors to report key audit matters (KAMs) affects firm-specific stock price crash risk in China. Auditors in China are required to issue an expanded audit report that contains KAMs for AH-share firms, effective January 1, 2017 (applicable to the financial year 2016), and for A-share firms, effective January 1, 2018 (applicable to the financial year 2017). Applying a staggered difference-in-differences (D-i-D) design to a sample of 15,563 observations for financial years 2012-2018, we find that auditor reporting of KAMs is not significantly associated with stock price crash risk. Textual analyses buttress this finding by revealing that the content of KAMs does not significantly impact stock price crash risk. Numerous additional analyses reinforce our primary findings. Finally, we show that our findings are not sensitive, but are robust to firms’ information environment, corporate governance, product market competition, ownership structure, and auditor size. Overall, we have confidence in our findings for informing regulators, investors, auditors, and other stakeholders interested in the economic consequences of mandating KAM disclosures.
+
+Keywords: Expanded audit report, Key audit matters, stock price crash risk, China
+
+JEL Classification: M42
+
+Suggested Citation:
+
+Liao, Lin and Sharma, Divesh Shankar and Yang, Yitang and Zhao, Rui, Adoption and Content of Key Audit Matters and Stock Price Crash Risk (November 18, 2021). Available at SSRN: https://ssrn.com/abstract=3780885
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+924
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

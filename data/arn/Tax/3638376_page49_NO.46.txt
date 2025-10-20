@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Multinational Corporations’ Effective Tax Rates: Evidence from Orbis
+
+Garcia-Bernardo J., Jansky P. and Tørsløv T. (2020): "Multinational Corporations’ Effective Tax Rates: Evidence from Orbis" IES Working Papers 20/2020. IES FSV. Charles University.
+
+Posted: 22 Jul 2020 Last revised: 22 Dec 2020
+
+Javier Garcia-Bernardo
+
+University of Amsterdam - Amsterdam Institute for Social Science Research (AISSR)
+
+Petr Jansky
+
+Charles University in Prague, Faculty of Social Sciences, Institute of Economic Studies
+
+Thomas Tørsløv
+
+University of Copenhagen
+
+Date Written: June 17, 2020
+
+Abstract
+
+Effective tax rates (ETRs) estimated from the balance sheet data of multinational corporations (MNCs) are useful for comparing MNCs’ corporate income taxation across countries. In this paper we propose a new methodological approach to estimate ETRs as reliably and as for as many countries as possible using Orbis’ unconsolidated data for the 2011–2015 period. We focus on countries with at least 50 available companies, which results in a sample of 50, mostly European, countries. We estimate the ETR of a country as the ratio of corporate income tax to gross income for all affiliates of MNCs in that country, weighted by gross income. We propose four ETR estimations, including lower and upper bounds, which differ by gross income calculation. We find that ETRs substantially differ from statutory rates for some countries. For example, we show that despite similar statutory rates of 28% and 29%, MNCs in Luxembourg paid as little as 1–8% of gross income in taxes while those in Norway paid as much as 45–66%. Despite being the best available, existing data is still imperfect, and we therefore call for better data in the form of MNCs’ unconsolidated, public country-by-country reporting data.
+
+Keywords: effective tax rate; multinational corporation; foreign direct investment; profit shifting; tax haven; tax competition
+
+JEL Classification: C81; F21; F23; H25; H26
+
+Suggested Citation:
+
+Garcia-Bernardo, Javier and Jansky, Petr and Tørsløv, Thomas, Multinational Corporations’ Effective Tax Rates: Evidence from Orbis (June 17, 2020). Garcia-Bernardo J., Jansky P. and Tørsløv T. (2020): "Multinational Corporations’ Effective Tax Rates: Evidence from Orbis" IES Working Papers 20/2020. IES FSV. Charles University. , Available at SSRN: https://ssrn.com/abstract=3638376
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,473
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

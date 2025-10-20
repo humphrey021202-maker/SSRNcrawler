@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How do auditors respond to competition? Evidence from the bidding process
+
+Journal of Accounting & Economics (JAE), Vol. 73, No. 1, 2022
+
+70 Pages Posted: 23 Feb 2018 Last revised: 28 Dec 2021
+
+Nicholas Hallman
+
+University of Texas at Austin; The Salem Center for Policy
+
+Antonis Kartapanis
+
+Texas A&M University - Mays Business School
+
+Jaime J. Schmidt
+
+University of Texas at Austin
+
+Date Written: November 30, 2021
+
+Abstract
+
+Prior research provides mixed evidence about whether competition among auditors impairs or improves audit quality. An impediment to this stream of research is the inability of researchers to observe the audit engagement bidding process. We develop a method of detecting bidding by applying a machine learning algorithm to non-incumbent (i.e., competitor) auditor views of public companies’ SEC filings. We validate our method using a proprietary sample where all instances of bidding are known. We then examine the associations between bidding, audit quality, and audit pricing. Contrary to concerns that competitive pressure may cause auditors to compromise their independence, we find that incumbent auditors perform higher quality audits during bidding years. This improvement in audit quality occurs regardless of whether the bidding ultimately results in an auditor change and persists for several years when the incumbent auditor wins reappointment. We also find that bidding is associated with modest audit fee concessions.
+
+Keywords: auditor competition, audit market concentration, audit quality, audit fees
+
+Suggested Citation:
+
+Hallman, Nicholas and Kartapanis, Antonis and Schmidt, Jaime J., How do auditors respond to competition? Evidence from the bidding process (November 30, 2021). Journal of Accounting & Economics (JAE), Vol. 73, No. 1, 2022, Available at SSRN: https://ssrn.com/abstract=3124722 or http://dx.doi.org/10.2139/ssrn.3124722
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+S P Bandyopadhyay , J L Kao
+Final Report of the Advisory Committee on the Auditing Profession to the U.S. Department of Treasury
+Advisory Committee on the Auditing Profession , volume 21 , p. 529 - 562 Posted: 2004
+A Barua , C Lennox , A Raghunandan
+Are audit fees discounted in initial year audit engagements?
+Journal of Accounting and Economics , volume 69 Posted: 2020
+M J Beck , J L Gunn , N Hallman
+The geographic decentralization of audit firms and audit quality
+Journal of Accounting and Economics , volume 68 Posted: 2019
+M J Beck , E G Mauldin
+Who's really in charge? Audit committee versus CFO power and audit fees
+The Accounting Review , volume 89 , p. 2057 - 2085 Posted: 2014
+Load more
+1 Citations
+Joanne Horton , Gilad Livne , Angela Pettinicchio
+Empirical Evidence on Audit Quality under a Dual Mandatory Auditor Rotation Rule
+European Accounting Review , volume 30 , issue 1 , p. 1 Posted: 2021
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+553
+ABSTRACT VIEWS
+2,935
+RANK
+114,604
+1 Citations
+51 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

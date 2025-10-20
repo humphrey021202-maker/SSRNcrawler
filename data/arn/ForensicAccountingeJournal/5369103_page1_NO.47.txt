@@ -1,0 +1,161 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Taxonomy of Fraud in Crowdfunding: A Hybrid Review of Detection Tools Using Artificial Intelligence and Blockchain for Sustainable Platforms
+
+29 Pages Posted: 28 Jul 2025
+
+Ioana Florina Coita
+
+Universitatea din Oradea; University of Economics in Bratislava; "Sofia University "St. Kliment Ohridski
+
+Marcos Machado
+
+University of Twente
+
+Lucia Gomez Teijeiro
+
+Bern University of Applied Sciences (BFH); University of Geneva
+
+Andreas Gregoriades
+
+Cyprus University of Technology
+
+CHRISTOS THEMISTOCLEOUS
+
+Cyprus University of Technology
+
+Frederik Sinan Bernard
+
+University of Twente
+
+Ramona Rupeika-Apoga
+
+University of Latvia
+
+Huei-Wen Teng
+
+National Yang Ming Chiao Tung University
+
+Anastas Dzurovski
+
+affiliation not provided to SSRN
+
+Gokce Nur Yilmaz
+
+TED University
+
+Liana Stanca
+
+Babes-Bolyai University
+
+Wouter van Heeswijk
+
+affiliation not provided to SSRN
+
+Marius Vlad Pop
+
+University of Oradea
+
+Karolina Bolesta
+
+Warsaw School of Economics (SGH) - Department of Economics I
+
+Jana Péliová
+
+University of Economics in Bratislava
+
+Olivija Filipovska
+
+Geostrategic Institute Global
+
+Karsten Wenzlaff
+
+University of Hamburg - Faculty of Business, Economics, and Social Sciences; University of Cambridge - Cambridge Centre for Alternative Finance; European Centre for Alternative Finance
+
+Abstract
+
+Crowdfunding platforms have gained popularity as a means of financing entrepreneurial initiatives but face a high risk of fraud. Fraud erodes trust and causes financial instability. Thus, robust fraud detection and pre­vention are crucial for the sustainability of crowdfunding platforms. This study provides a systematic review of the literature and state-of-the-art discussions about crowdfunding fraud. Unsupervised topic modeling highlights that both AI and blockchain are recurrently presented in the literature as effective methodologies for identifying and preventing fraudulent practices. Furthermore, this work describes current market practices of crowdfunding platforms in preventing fraudu­lent behavior and argues that while fraud is rare, its high impact requires new and innovative forms of fraud detection. A key limiting factor for the application of Artificial Intelligence (AI) solutions is the lack of available labeled crowdfunding data for training efficient algorithms for fraud detection, which is crucial as it constitutes an anomaly detection Machine Learning (ML) task. In this context, unsupervised ML methods are discussed as valuable techniques for detecting anomalies in the absence of labeled fraud cases because ofe of their ability to adapt to evolving fraud patterns. This research provides valuable insights into the taxonomy of frauds and the complexity of detecting and preventing fraudulent activities in crowdfunding.
+
+Keywords: Fraud Detection, Crowdfunding, Finance Industry, Alternative Finance Methods, AI guided Literature Review
+
+Suggested Citation:
+
+Coita, Ioana Florina and Machado, Marcos and Gomez Teijeiro, Lucia and Gregoriades, Andreas and THEMISTOCLEOUS, CHRISTOS and Bernard, Frédérik Sinan and Rupeika-Apoga, Ramona and Teng, Huei-Wen and Dzurovski, Anastas and Nur Yilmaz, Gokce and Stanca, Liana and van Heeswijk, Wouter and Pop, Marius Vlad and Bolesta, Karolina and Péliová, Jana and Filipovska, Olivija and Wenzlaff, Karsten, Taxonomy of Fraud in Crowdfunding: A Hybrid Review of Detection Tools Using Artificial Intelligence and Blockchain for Sustainable Platforms. Available at SSRN: https://ssrn.com/abstract=5369103 or http://dx.doi.org/10.2139/ssrn.5369103
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+42
+ABSTRACT VIEWS
+275
+PlumX Metrics
+Related eJournals
+
+Risk Management & Analysis in Financial Institutions eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,149 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Countercyclical Contingent Capital
+
+56 Pages Posted: 17 Apr 2011
+
+Emilio Barucci
+
+Politecnico di Milano - Department of Mathematics
+
+Luca Del Viva
+
+ESADE Business School
+
+Date Written: April 15, 2011
+
+Abstract
+
+We analyze the optimal capital structure of a bank issuing countercyclical contingent capital, i.e., notes to be converted in common shares in case of a bad state for the economy. This type of asset reduces the spread of straight debt but is quite expensive. The effect on bankruptcy costs is limited (it is strong when contingent capital is not countercyclical), the asset reduces the asset substitution incentive. Contingent capital is useful for macroprudential regulation, the countercyclical feature is important depending on priorities (moderate the asset substitution incentive or reduce bankruptcy costs).
+
+Keywords: Countercyclical Contingent Capital, Convertible Bonds, Capital Structure, Leverage
+
+JEL Classification: G21, G28, G32, G33
+
+Suggested Citation:
+
+Barucci, Emilio and Del Viva, Luca, Countercyclical Contingent Capital (April 15, 2011). Available at SSRN: https://ssrn.com/abstract=1810940 or http://dx.doi.org/10.2139/ssrn.1810940
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+Viral V. Acharya , Viral V. Acharya , Irvind Gujral , Hyun Song Shin
+Dividends and Bank Capital in the Financial Crisis of 2007-2009
+Pages: 36 Posted: 20 Mar 2009 Last revised: 10 Nov 2010
+Download PDF  Add Paper to My Library
+Anat R. Admati , Paul C. Pfleiderer
+Increased-Liability Equity: A Proposal to Improve Capital Regulation of Large Financial Institutions
+Stanford University Graduate School of Business Research Paper No. 2043, Rock Center for Corporate Governance at Stanford University Working Paper No. 68 Pages: 25 Posted: 7 Jan 2010 Last revised: 11 Mar 2010
+Download PDF  Add Paper to My Library
+Raj Aggarwal , Kevin T Jacques
+The impact of FDICIA and prompt corrective action on bank capital and risk: Estimates using a simultaneous equations model
+Journal of Banking and Finance , volume 25 , p. 1139 - 1160 Posted: 2001
+Crossref
+Boris Albul , Dwight M. Jaffee , Alexei Tchistyi
+Contingent Convertible Bonds and Capital Structure Decisions
+Pages: 45 Posted: 1 May 2016
+Download PDF  Add Paper to My Library
+Load more
+2 Citations
+Emilio Barucci , Luca Del Viva
+Countercyclical contingent capital
+Journal of Banking & Finance , volume 36 , issue 6 , p. 1688 Posted: 2012
+Crossref
+Dandan Song , Zhaojun Yang
+Contingent Capital, Real Options and Agency Costs
+32 Pages · Posted: 6 Aug 2013 · Last revised: 12 Nov 2014 · Downloads: 283
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+289
+ABSTRACT VIEWS
+2,193
+RANK
+240,980
+2 Citations
+33 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+
+Macroeconomics: Prices, Business Fluctuations, & Cycles eJournal
+
+Follow
+ 
+Recommended Papers
+
+No Pain, No Gain? Effecting Market Discipline Via 'Reverse Convertible Debentures'
+
+By Mark J. Flannery
+
+Death Spiral Convertibles
+
+By Pierre Hillion and Theo Vermaelen
+
+Stabilizing Large Financial Institutions with Contingent Capital Certificates
+
+By Mark J. Flannery
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

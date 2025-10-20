@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax Non-Audit Services and Client Income Tax Estimation Error
+
+Auditing: A Journal of Practice & Theory
+
+56 Pages Posted: 5 Sep 2013 Last revised: 21 Aug 2021
+
+Preeti Choudhary
+
+University of Arizona, Eller College of Management
+
+Allison Koester
+
+Georgetown University - Department of Accounting and Business Law; Georgetown University - McDonough School of Business
+
+Robert J. Pawlewicz
+
+University of Richmond - Accounting
+
+Date Written: August 13, 2021
+
+Abstract
+
+Theory suggests that accounting firms providing both audit and non-audit services to a single client can generate knowledge spillover or impair auditor independence through self-review or self-interest threats. Knowledge spillover (independence impairment) should manifest as better (worse) financial reporting quality within clients’ tax accounts. Prior research on tax non-audit services finds mixed evidence, and largely examines clients’ actual and potential tax-related material GAAP violations. We posit that auditors are likely to avoid these more extreme financial reporting outcomes due to reputation and litigation concerns, and re-examine this question using a more subtle measure of tax-specific financial reporting quality. We find that greater amounts of tax non-audit services are associated with greater estimation error in the tax account. This finding is consistent with the self-review threat impairing auditor independence, and is inconsistent with knowledge spillover. Inferences are robust to considering various potential sources of endogeneity. Additional analyses reveal that this relation is partially offset by auditor expertise, and concentrated in client-years where auditors face both self-review and financial self-interest threats. Our findings inform a recent public policy debate that questions whether one accounting firm should be permitted to provide tax services to its audit clients.
+
+Keywords: audit quality; income tax estimation error; auditor-provided tax services; tax non-audit services
+
+JEL Classification: M41; M44; M49
+
+Suggested Citation:
+
+Choudhary, Preeti and Koester, Allison and Pawlewicz, Robert J., Tax Non-Audit Services and Client Income Tax Estimation Error (August 13, 2021). Auditing: A Journal of Practice & Theory, Available at SSRN: https://ssrn.com/abstract=2320479 or http://dx.doi.org/10.2139/ssrn.2320479
+Download This Paper
+ 
+Open PDF in Browser
+65 References
+M Defond , K Raghunandan , K Subramanyam
+Do non-audit service fees impair auditor independence? Evidence from going concern audit opinions
+Journal of Accounting Research , volume 40 , issue 4 , p. 1247 - 1274 Posted: 2002
+M Defond , J Zhang
+A review of archival auditing research
+Journal of Accounting and Economics , volume 58 , issue 2-3 , p. 275 - 326 Posted: 2014
+P Demerjian , B Lev , M Lewis , S Mcvay
+Managerial ability and earnings quality
+The Accounting Review , volume 88 , issue 2 , p. 463 - 498 Posted: 2013
+L De Simone , M Ege , B Stomberg
+Internal control quality: the role of auditorprovided tax services
+The Accounting Review , volume 90 , issue 4 , p. 1469 - 1496 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+936
+ABSTRACT VIEWS
+5,192
+RANK
+57,310
+9 Citations
+65 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Empirical Tax Research in Accounting
+
+By Douglas A. Shackelford and Terry J. Shevlin
+
+Earnings Management: New Evidence Based on Deferred Tax Expense
+
+By John D. Phillips, Morton Pincus, ...
+
+An Evaluation of Alternative Measures of Corporate Tax Rates
+
+By George Plesko
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

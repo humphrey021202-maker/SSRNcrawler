@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Firms' use of subjectively verifiable evidence when estimating the deferred tax asset valuation allowance
+
+57 Pages Posted: 18 Oct 2022
+
+Nathan C. Goldman
+
+North Carolina State University - Department of Accounting
+
+Christina Lewellen
+
+North Carolina State University - Department of Accounting
+
+Andrew Schmidt
+
+North Carolina State University
+
+Date Written: June 24, 2024
+
+Abstract
+
+Accounting standards and practitioner guides emphasize prioritizing objectively verifiable evidence over subjectively verifiable evidence when assessing the deferred tax asset valuation allowance (DTAVA). We empirically examine the relative weight of objectively verifiable versus subjectively verifiable evidence in determining the DTAVA. While we find managers generally assign larger weights to objectively verifiable evidence, we also find that managers overweight subjectively verifiable factors when determining the DTAVA, especially among observations with cumulative book losses, which is inconsistent with guidance from GAAP and practitioners. Next, we document a positive association between using subjectively verifiable evidence to determine the DTAVA and adverse tax-related financial reporting outcomes. Finally, we examine SEC comment letters that identify issues related to firm-specific DTAVA estimates. We find consistent evidence that the SEC criticizes firms' usage of subjective evidence when determining the DTAVA. Our study enhances researchers' understanding of the DTAVA by providing large sample evidence on the extent to which firms rely on subjectively verifiable evidence to determine the DTAVA and the adverse financial reporting consequences of this reliance.
+
+Keywords: Deferred tax asset valuation allowance; subjective evidence; objective evidence; taxrelated financial reporting outcomes, Financial Reporting Quality, Verifiable, Faithful Representation, SEC Comment Letters
+
+Suggested Citation:
+
+Goldman, Nathan C. and Lewellen, Christina and Schmidt, Andrew P., Firms' use of subjectively verifiable evidence when estimating the deferred tax asset valuation allowance (June 24, 2024). Available at SSRN: https://ssrn.com/abstract=4244914 or http://dx.doi.org/10.2139/ssrn.4244914
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+C C Bauman , M P Bauman , R F Halsey
+Do firms use the deferred tax asset valuation allowance to manage earnings
+Journal of the American Taxation Association , volume 23 , p. 27 - 48 Posted: 2001
+B K Behn , T V Eaton , J R Williams
+The determinants of the deferred tax allowance account under SFAS No. 109
+Accounting Horizons , volume 12 , issue 1 , p. 63 - 78 Posted: 1998
+A Bruehne , M Jacob
+Corporate tax avoidance and the real effects of taxation: A review Posted: 2019
+C A Cassell , L M Dreher , L A Myers
+Reviewing the SEC's review process: 10-K comment letters and the cost of remediation
+The Accounting Review , volume 88 , issue 6 , p. 1875 - 1908 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+149
+ABSTRACT VIEWS
+977
+RANK
+451,432
+5 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

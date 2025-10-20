@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Time-Varying Predictability of the Long Horizon Equity Premium Based on Semiparametric Regressions
+
+Economics Letters, Forthcoming
+
+11 Pages Posted: 9 Jan 2023 Last revised: 9 Feb 2023
+
+Deshui Yu
+
+College of Finance and Statistics, Hunan University
+
+Li Chen
+
+WISE and School of Economics, Xiamen University
+
+Luyang Li
+
+Monash University - Department of Economics
+
+Date Written: December 7, 2022
+
+Abstract
+
+This paper proposes a novel semiparametric time-varying model for long-horizon predictive regressions in which the coefficients are allowed to change over time with unspecified functional forms. A linear projection method is employed to deal with the embedded endogeneity issue. We pursue an indirect approach to estimate the long-horizon coefficients through the implication of the short-horizon coefficients, which is less subject to overlapping observations. Monte Carlo simulation illustrates that the nonparametric estimation method works well in finite and large samples. Empirically, the predictability of return or dividend growth changes significantly over time. The dividend-price ratio predicts stock return in most of our samples, but the dividend growth is much less predictable than the stock return. Moreover, the dividend-price ratio predicts either stock return or dividend growth, or both in a local period. Our findings are robust to several forecast horizons.
+
+Keywords: Long-horizon stock return, Time-varying coefficient, Profile estimation, Present-value model
+
+JEL Classification: C14, C22, G17
+
+Suggested Citation:
+
+Yu, Deshui and Chen, Li and Li, Luyang, Time-Varying Predictability of the Long Horizon Equity Premium Based on Semiparametric Regressions (December 7, 2022). Economics Letters, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4319953 or http://dx.doi.org/10.2139/ssrn.4319953
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+71
+ABSTRACT VIEWS
+446
+RANK
+765,896
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

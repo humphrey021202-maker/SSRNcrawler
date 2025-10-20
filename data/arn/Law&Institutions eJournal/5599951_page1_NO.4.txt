@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bank Internal Credit Ratings Bias and Borrower Financial Reporting Quality
+
+45 Pages Posted: 16 Oct 2025
+
+Edward Owens
+
+University of Utah - David Eccles School of Business
+
+Matias Sokolowski
+
+University of New Mexico - Robert O. Anderson Schools of Management
+
+Date Written: October 12, 2025
+
+Abstract
+
+There is regulatory concern that banks optimistically bias their internal borrower credit ratings under Basel's internal ratings-based (IRB) approach to minimize required regulatory capital. This concern has led some countries to implement restrictions on the use of the IRB approach, while other countries continue to debate their path forward. Using new data on banks' internal borrower credit ratings, we first find evidence of discontinuities that suggest optimistic bias at salient thresholds in the ratings distribution. Next, we provide evidence that the discontinuities are less pronounced for public borrowers relative to private borrowers, and for public borrowers with better financial reporting quality. Using firm-year measures from an implied credit-ratings model, we find that both optimistic ratings bias and ratings dispersion across banks are reduced for borrowers with better financial reporting quality. Collectively, our results suggest that borrower financial reporting quality facilitates bank examiner detection of internal ratings bias and may therefore be an important factor to consider in the current international regulatory debate concerning limitations on the use of the IRB approach.
+
+Keywords: financial reporting quality, internal ratings-based (IRB) approach, bank capital, bank regulatory reporting, credit ratings, probability of default
+
+JEL Classification: G21, M40, M41, M48
+
+Suggested Citation:
+
+Owens, Edward and Sokolowski, Matias, Bank Internal Credit Ratings Bias and Borrower Financial Reporting Quality (October 12, 2025). Available at SSRN: https://ssrn.com/abstract=5599951 or http://dx.doi.org/10.2139/ssrn.5599951
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+10
+ABSTRACT VIEWS
+26
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

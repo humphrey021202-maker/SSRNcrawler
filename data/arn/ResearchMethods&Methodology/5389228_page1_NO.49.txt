@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Drivers of Citation in Accounting Research: The Role of Replication
+
+67 Pages Posted: 19 Aug 2025
+
+Steven Salterio
+
+Queen's University - Smith School of Business
+
+Yi Luo
+
+Ivey Business School, Western University
+
+Constance Adamson
+
+Queen's University
+
+Date Written: June 21, 2025
+
+Abstract
+
+Documenting accounting research’s impact results in two fundamental challenges for accounting researchers. First, for the traditional measure of academic research impact, citations, there is little theory based research on accounting citation drivers. Second, to measure impact beyond traditional measures there is a lack of understanding about the extent, type and outcomes of accounting replications, which most disciplines believe is a necessary precondition to transfer knowledge outside the academy. We address two research questions: 1) What are the drivers of citation rates in accounting research? 2) How do extent, type, and outcome of replication attempts affect the citations of the original article? We carry out a full text search to find a sample of accounting replication articles, then trace those replications back to the original article(s). We identify three theory based sets of potential citation drivers: Universalistic, Social Constructionist, and Presentation. We find the three sets explain near 50% of the variance in accounting citation rates, with the Universalistic variables as the main drivers. We find some support for Social Constructionist variables as well as very limited support for Presentation variables. Second, when we incorporate replication, we find that the number of original article replications (i.e., replication extent), the “generalize and extend” type of replication, and the outcomes of the replication (i.e., success in whole or in part) are associated with increased citations. We explore whether these drivers also explain the significant time lag (a sample average of seven years) between publication of an original article and a replication article. We find that higher original article citations are associated with less timely replication; having female coauthors on the original article is associated with timelier replication; the composition of the replication article’s author team has a significant impact on timeliness of replication.
+
+Keywords: Citation Drivers, Replication, Financial Accounting, Auditing, Knowledge Transfer
+
+JEL Classification: M41, M42
+
+Suggested Citation:
+
+Salterio, Steven E. and Luo, Yi and Adamson, Constance, Drivers of Citation in Accounting Research: The Role of Replication (June 21, 2025). Available at SSRN: https://ssrn.com/abstract=5389228 or http://dx.doi.org/10.2139/ssrn.5389228
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+Aaa
+Research Relevance Task Force)
+Report of the task force Posted: 2018
+J A Barrick , N W Mecham , S L Summers , D A Wood
+Ranking accounting journals by topical area and methodology
+Journal of Information Systems , volume 33 , issue 2 , p. 1 - 22 Posted: 2019
+B C Björk , D Solomon
+The publishing delay in scholarly peer-reviewed journals
+Journal of Informetrics , volume 7 , issue 4 , p. 914 - 923 Posted: 2013
+R Bricker
+An empirical investigation of the structure of accounting research
+Journal of Accounting Research , volume 27 , issue 2 , p. 246 - 262 Posted: 1989
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+67
+ABSTRACT VIEWS
+237
+RANK
+791,696
+62 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

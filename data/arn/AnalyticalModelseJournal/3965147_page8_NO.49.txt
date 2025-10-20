@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Board Bias, Information, and Investment Efficiency
+
+60 Pages Posted: 18 Nov 2021 Last revised: 30 Jan 2024
+
+Martin Gregor
+
+Charles University, Prague
+
+Beatrice Michaeli
+
+University of California, Los Angeles (UCLA)
+
+Date Written: November 1, 2021
+
+Abstract
+
+We study how interest alignment between CEOs and corporate boards influences investment efficiency and identify a novel force behind the benefit of misaligned preferences. Our model entails a CEO who encounters a project, gathers investment-relevant information, and decides whether or not to present the project implementation for approval by a sequentially rational board of directors. The CEO may be able to strategically choose the properties of the collected information---this happens, for instance, if the project is “novel” in the sense that it explores new technology, business concept, or market and directors are less knowledgeable about it. We find that only sufficiently conservative and expansion-cautious directors can discipline the CEO's empire-building tendency and opportunistic information collection. Such directors, however, underinvest in projects that are not novel. From the shareholders' perspective, the board that maximizes firm value is either conservative or neutral (has interests aligned with those of the shareholders) and always overinvests in innovations. Boards with greater expertise are more likely to be conservative, but their bias is less severe. Our analysis shows that board's commitment power and bias are substitutes.
+
+Keywords: empire-building, biased board, underinvestment, overinvestment, endogenous information
+
+JEL Classification: D71, D72, D81, D82, D83, G34
+
+Suggested Citation:
+
+Gregor, Martin and Michaeli, Beatrice, Board Bias, Information, and Investment Efficiency (November 1, 2021). Available at SSRN: https://ssrn.com/abstract=3965147 or http://dx.doi.org/10.2139/ssrn.3965147
+Download This Paper
+ 
+Open PDF in Browser
+82 References
+R B Adams , D Ferreira
+A theory of friendly boards
+Journal of Finance , volume 62 , issue 1 , p. 217 - 250 Posted: 2007
+C Aghamola , T Hashimoto
+Aggressive boards and CEO turnover
+Journal of Accounting Research , volume 50 , p. 437 - 486 Posted: 2020
+R Antle , G Eppen
+Capital rationing and organizational slack in capital budgeting
+Management Science , volume 31 , issue 2 , p. 163 - 174 Posted: 1985
+A Arya , J Glover , K Sivaramakrishnan
+Commitment issues in budgeting. Journal of Accounting Research , volume 35 , p. 273 - 278 Posted: 1997
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+356
+ABSTRACT VIEWS
+2,306
+RANK
+192,137
+3 Citations
+82 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

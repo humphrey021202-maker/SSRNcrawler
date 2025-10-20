@@ -1,0 +1,152 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Disclosure of Supervisory Information in the Banking Sector
+
+23 Pages Posted: 18 Feb 2012
+
+Wolfgang Gick
+
+Free University of Bozen-Bolzano; Research Institute of Industrial Economics (IFN)
+
+Thilo Pausch
+
+Deutsche Bundesbank
+
+Date Written: February 15, 2012
+
+Abstract
+
+We analyze disclosure of multiple pieces of information by a bank supervisor to a continuum of investors. Specifically, we present a model to explain why a banking authority, observing the state of the banking system, is willing to commit to perform stress tests, and disclose their results. Following the literature on persuasion games we show in a specific multi-receiver model consisting of investors that differ in their beliefs on risk, that disclosing information together with the signal generating process leads to a unique optimum of the risk disclosure process. The paper thus explains why stress tests create value as they will generally improve information disclosure between supervisor and investors.
+
+Keywords: supervisory information, persuasion games, multiple receivers, cheap talk and risk disclosure, stress testing
+
+JEL Classification: D83, G18, G28
+
+Suggested Citation:
+
+Gick, Wolfgang H. and Pausch, Thilo, Optimal Disclosure of Supervisory Information in the Banking Sector (February 15, 2012). Available at SSRN: https://ssrn.com/abstract=2006852 or http://dx.doi.org/10.2139/ssrn.2006852
+Download This Paper
+ 
+Open PDF in Browser
+10 References
+J Caruana
+Keynote Speech to the FSB Roundtable on Risk Disclosure Posted: 2011-12-09
+Vincent P Crawford , Joel Sobel
+Strategic Information Transmission
+Econometrica , volume 50 , issue 6 , p. 1431 - 1451 Posted: 1982-11
+Crossref
+Alex Cukierman
+Central Bank Strategy, Credibility, and Independence: Theory and Evidence Posted: 1992
+Crossref
+Frank Rosar , Elisabeth Schulte
+Imperfect Private Information and the Design of Information-Generating Mechanisms Posted: 2010-03
+Load more
+11 Citations
+Julio Abad-González , Cristina Gutiérrez-López
+Modelización de la solvencia bancaria en escenarios adversos: aplicación a los «PIIGS»
+Revista de Contabilidad , volume 19 , issue 2 , p. 227 Posted: 2016
+Crossref
+Ekaterina Neretina , Cenkhan Sahin , Jakob <!>de Haan
+Banking Stress Test Effects on Returns and Risks
+De Nederlandsche Bank Working Paper No. 419 · 26 Pages · Posted: 12 Apr 2014 · Last revised: 21 Aug 2015 · Downloads: 659
+Download PDF  Add Paper to My Library
+Giovanni Petrella , Andrea Resti
+Supervisors as information producers: Do stress tests reduce bank opaqueness?
+Journal of Banking & Finance , volume 37 , issue 12 , p. 5406 Posted: 2013
+Crossref
+Giovanni Petrella , Andrea Resti
+The Palgrave Handbook of European Banking
+, p. 409 Posted: 2016
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+264
+ABSTRACT VIEWS
+3,009
+RANK
+264,473
+11 Citations
+10 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Bayesian Persuasion
+
+By Emir Kamenica and Matthew Gentzkow
+
+Selling Information
+
+By Johannes Horner and Andrzej Skrzypacz
+
+Competition in Persuasion
+
+By Matthew Gentzkow and Emir Kamenica
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

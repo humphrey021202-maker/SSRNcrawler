@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is Accounting Useful for Forecasting GDP Growth? A Machine Learning Perspective
+
+57 Pages Posted: 19 Apr 2021 Last revised: 26 Apr 2021
+
+Srikant Datar
+
+Harvard University - Accounting & Control Unit
+
+Apurv Jain
+
+MacroXStudio; Harvard Business School; Microsoft Corporation - Microsoft Research - Redmond
+
+Charles C. Y. Wang
+
+Harvard University - Business School (HBS); Harvard University - Accounting & Control Unit; European Corporate Governance Institute (ECGI)
+
+Siyu Zhang
+
+Harvard Business School
+
+Date Written: December 1, 2020
+
+Abstract
+
+We provide a comprehensive examination of whether, to what extent, and which accounting variables are useful for improving the predictive accuracy of GDP growth forecasts. We leverage statistical models that accommodate a broad set of (341) variables---outnumbering the total time-series observations---and apply machine learning techniques to train, validate, and test the prediction models. For near-term (current and next-quarter) GDP growth, accounting does not improve the out-of-sample accuracy of predictions because the professional forecasters' predictions are relatively efficient. Accounting's predictive usefulness increases for more distant-term (three- and four-quarters-ahead) GDP growth forecasts: they contribute more to the model's predictions; moreover, their inclusion increases the model's out-of-sample predictive accuracy by 13 to 46%. Overall, four categories of accounting variables---relating to profits, accrual estimates (e.g., loan loss provisions or write-offs), capital raises or distributions, and capital allocation decisions (e.g., investments)---are most informative of the longer-term outlook of the economy.
+
+Keywords: Accounting; Big Data; Elastic Net; GDP Growth; Machine Learning; Macro Forecasting; Short Fat Data
+
+JEL Classification: E01, E32, E37, E60, M41
+
+Suggested Citation:
+
+Datar, Srikant and Jain, Apurv and Wang, Charles C. Y. and Zhang, Siyu, Is Accounting Useful for Forecasting GDP Growth? A Machine Learning Perspective (December 1, 2020). Available at SSRN: https://ssrn.com/abstract=3827510 or http://dx.doi.org/10.2139/ssrn.3827510
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+A Ang , G Bekaert , M Wei
+Do macro variables, asset markets, or surveys forecast inflation better
+Journal of Monetary Economics , volume 54 , issue 4 Posted: 2007
+Crossref
+S Arif , C M Lee
+Aggregate investment and investor sentiment
+Review of Financial Studies , volume 27 , issue 11 Posted: 2014
+Crossref
+B Baumohl
+The secrets of economic indicators: Hidden clues to future economic trends and investment opportunities Posted: 2012
+V Cerqueira , L Torgo , J Smailovi´csmailovi´c , I Mozetič
+A comparative study of performance estimation methods for time series forecasting
+International Conference on Data Science and Advanced Analytics (DSAA) , volume 16 , p. 529 - 538 Posted: 2017
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+476
+ABSTRACT VIEWS
+2,488
+RANK
+137,584
+9 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Blockholders and strategic voting in DeFi DAOs' governance
+
+96 Pages Posted: 13 Feb 2024 Last revised: 9 Jun 2025
+
+Romain Rossello
+
+HEC Paris
+
+Date Written: January 25, 2024
+
+Abstract
+
+Decentralized Finance (DeFi) is at its core composed of Decentralized Autonomous Organizations (DAOs). Because they rely on frequent votes to make strategic decisions, and because granular data on these votes are available, I show how DeFi DAOs offer an interesting laboratory to study corporate governance. I find that large voters strategically influence votes. Relying on event studies, I put forward that the way in which they exercise their voting power signals whether their interests are aligned with those of minority token-holders. This information is then incorporated in the market valuation of the DeFi DAOs' governance tokens. The first time a majority voter sways the decision against the votes of minority token-holders causes on average a -12.05% weekly abnormal return. Aligned with corporate governance theory, the presence of blockholders in votes is positive. Their votes are associated with an average 1.7% weekly abnormal return. However, the first time a blockholder strategically votes in the last minutes of a proposal triggers on average a -8.55% weekly abnormal return. Leveraging an LLM algorithm on governance texts, I distinguish DeFi DAOs which advertised decentralization and righteous management. In line with a corporate governance framework, negative effects on token returns following first strategic voting occurrences are exacerbated those DeFi DAOs.
+
+Keywords: Decentralized Finance, DAOs, Strategic voting, Corporate Governance, Blockholder theory, Shareholder's voting, Tokenomics, Cryptocurrencies, Textual Analysis
+
+JEL Classification: D79, G34, L17, M13
+
+Suggested Citation:
+
+Rossello, Romain, Blockholders and strategic voting in DeFi DAOs' governance (January 25, 2024). Available at SSRN: https://ssrn.com/abstract=4706759 or http://dx.doi.org/10.2139/ssrn.4706759
+Download This Paper
+ 
+Open PDF in Browser
+93 References
+I Appel , J Grennan
+Decentralized governance and digital asset prices Posted: 2023
+L Bach , D Metzger
+How Close Are Close Shareholder Votes?
+The Review of Financial Studies , volume 32 , issue 8 , p. 3183 - 3214 Posted: 2018
+Y Bakos , H Halaburda
+Will blockchains disintermediate platforms? the problem of credible decentralization in daos
+The Problem of Credible Decentralization in Daos Posted: 2022-08-07
+T Barbereau , R Smethurst , O Papageorgiou , A Rieger , G Fridgen
+Defi, not so decentralized: The measured distribution of voting rights Posted: 2022
+Load more
+2 Citations
+Ioannis Karakostas , Konstantinos Pantelidis
+DAO Dynamics: Treasury and Market Cap Interaction
+Journal of Risk and Financial Management , volume 17 , issue 5 , p. 179 Posted: 2024
+Crossref
+Thomas Lloyd , Daire O'Broin , Martin Harrigan
+The On-Chain and Off-Chain Mechanisms of DAO-to-DAO Voting
+, p. 649 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+354
+ABSTRACT VIEWS
+2,475
+RANK
+193,307
+2 Citations
+93 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Projection Methods via Neural Networks for Continuous-Time Models
+
+49 Pages Posted: 31 Jan 2022
+
+Maxime Sauzet
+
+Boston University - Questrom School of Business
+
+Date Written: December 22, 2021
+
+Abstract
+
+I extend traditional projection methods by using neural networks as a function approximator to solve continuous-time models. The method is well-suited for high-dimensional settings such as those that arise in the presence of many assets, and can capture the strong non-linearities that occur for instance when agents face constraints. It is designed to accommodate multiple unknown functions, e.g. multiple value functions, so that it is set to tackle economies with several agents and incomplete markets. The technical apparatus that comes with neural networks (e.g., automatic differentiation, just-in-time compiling) can also be used in a hybrid fashion by combining it with more standard polynomials, in order to make use of their good convergence properties while speeding up the resolution and increasing the dimensionality.
+
+Keywords: Asset Pricing, Macro-Finance, Heterogeneous Agents, Global Methods, Projection Approaches, Neural Networks, High-Dimensional Settings
+
+JEL Classification: C0, E0, G0
+
+Suggested Citation:
+
+Sauzet, Maxime, Projection Methods via Neural Networks for Continuous-Time Models (December 22, 2021). Available at SSRN: https://ssrn.com/abstract=3981838 or http://dx.doi.org/10.2139/ssrn.3981838
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+Yves Achdou , Jiequn Han , Jean-Michel Lasry , Pierre-Louis Lions , Benjamin Moll
+Income and Wealth Distribution in Macroeconomics: A Continuous-Time Approach
+The Review of Economic Studies rdab Posted: 2021
+Sehyoun Ahn , Greg Kaplan , Benjamin Moll , Thomas Winberry , Christian Wolf
+When inequality matters for macro and macro matters for inequality
+NBER Macroeconomics Annual , volume 32 , p. 1 - 75 Posted: 2018
+Francis Bach
+Breaking the curse of dimensionality with convex neural networks
+Journal of Machine Learning Research , volume 18 , p. 1 - 53 Posted: 2017
+A R Barron
+Universal approximation bounds for superpositions of a sigmoidal function
+IEEE Transactions on Information Theory , volume 39 , p. 930 - 945 Posted: 1993
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+526
+ABSTRACT VIEWS
+1,492
+RANK
+121,963
+48 References
+PlumX Metrics
+Related eJournals
+
+Boston University Questrom School of Business Research Paper Series
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

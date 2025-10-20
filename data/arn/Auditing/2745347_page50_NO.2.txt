@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Joint Impact of Management Expressed Confidence and Response Timing on Auditor Professional Skepticism in Client Email Inquiries
+
+Managerial Auditing Journal (2016)
+
+37 Pages Posted: 11 Mar 2016 Last revised: 11 Nov 2018
+
+Ally Zimmerman
+
+Florida State University - Department of Accounting
+
+Date Written: March 9, 2016
+
+Abstract
+
+Purpose - While academic research has been conducted on auditors’ ability to exercise professional skepticism in face-to-face client interviews, little is known about auditors’ application of professional skepticism in email communication with the client. The purpose of this paper is to examine the factors that impact auditor professional skepticism during client inquiries conducted through email.
+
+Design/methodology/approach - A 2X2 between-subjects experiment was conducted with 69 undergraduate and graduate auditing students as surrogates for auditors. The experimental design crossed two levels of client expressed confidence (high and low) and two levels of client response timing to the auditor’s email inquiry (earlier than expected and later than expected).
+
+Findings - Results indicate management expressed confidence moderates the influence of management response timing on auditor professional skepticism and that auditor perceptions of client credibility mediate this interactive effect. When the client’s response is low in confidence, auditors perceive a later than expected response from the manager as less credible than an earlier than expected response, which leads to less reliance on management explanations, which signifies more skepticism. However, when confidence is high, response timing does not impact perceptions of the client’s credibility.
+
+Practical implications - The results imply that junior auditors should be vigilant of how communication cues in client emails may impact their judgments. Even though management response timing and expressed confidence should not influence auditor skepticism per se, auditors seem vary their level of skepticism with the timing of the client’s response when client confidence is low but not when client confidence is high despite the information content of the client’s response being held constant.
+
+Originality/value - This study (1) contributes to the literature on professional skepticism by addressing the PCAOB’s concerns about the need for auditors to exercise more professional skepticism in practice, particularly in an environment in which computer-mediated communication is increasing at a fast pace; and (2) assists practitioners in better understanding the factors that influence the degree of skepticism auditors exercise when collecting audit evidence through email. The study should be of interest to audit firms as it provides evidence on whether auditors use nonverbal cues such as chronemics, or time‐related messages, in email communication to judge management and evidence reliability and credibility.
+
+Keywords: Auditing, Professional Skepticism, Client Inquiries, Email Communication, Chronemics
+
+JEL Classification: M42
+
+Suggested Citation:
+
+Zimmerman, Aleksandra, The Joint Impact of Management Expressed Confidence and Response Timing on Auditor Professional Skepticism in Client Email Inquiries (March 9, 2016). Managerial Auditing Journal (2016), Available at SSRN: https://ssrn.com/abstract=2745347
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+S Aghazadeh , J Joe
+How Management's Expressions of Confidence Influence Audit Judgment Posted: 2015
+C P Agoglia , J F Brazel , R C Hatfield , S B Jackson
+How do audit workpaper reviewers cope with the conflicting pressures of detecting misstatements and balancing client workloads?
+Auditing: A Journal of Practice and Theory , volume 29 , issue 2 , p. 27 - 43 Posted: 2010
+Crossref
+Consideration of Fraud in a Financial Statement Audit. AU Section 316
+American Institute of Certified Public Accountants (AICPA) Posted: 2007
+R Baron , D Kenny
+The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations
+Journal of Personality and Social Psychology , volume 51 , issue 6 , p. 1173 - 1182 Posted: 1986
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+60
+ABSTRACT VIEWS
+1,562
+RANK
+841,621
+51 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

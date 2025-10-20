@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Advancing Financial Transparency in Emerging Markets: Interpretable Machine Learning Evidence from China's Diverse Capital Markets
+
+19 Pages Posted: 16 Jun 2025 Last revised: 19 Jul 2025
+
+Wenyan Wu
+
+affiliation not provided to SSRN
+
+Liangbo Ma
+
+University of Wollongong, School of Business
+
+Shiguang Ma
+
+University of Wollongong - School of Accounting Economics and Finance
+
+Date Written: June 15, 2025
+
+Abstract
+
+This study employs a hybrid framework integrating classical financial models with advanced machine learning algorithms to detect earnings management in Chinese listed firms. Utilizing over 44,000 firm-year observations from 2008 to 2023, we evaluate 15 supervised learning models for both accrual-based and real activity earnings manipulation. Our findings demonstrate that ensemble machine learning models, particularly LightGBM and XGBoost, consistently and significantly outperform traditional approaches. Crucially, we provide novel insights through feature importance analysis, revealing key drivers of detection, and detailed error analysis, pinpointing specific firm characteristics where traditional models misclassify but machine learning models succeed. These explainable machine learning insights underscore the value of data-driven tools in improving financial transparency and oversight in emerging markets, offering practical implications for regulators, auditors, and investors.
+
+Keywords: C53, G32, G38, M41, Earnings management, Error analysis, Financial transparency, Feature importance, Machine learning, SHAP
+
+Suggested Citation:
+
+Wu, Wenyan and Ma, Liangbo and Ma, Shiguang, Advancing Financial Transparency in Emerging Markets: Interpretable Machine Learning Evidence from China's Diverse Capital Markets (June 15, 2025). Available at SSRN: https://ssrn.com/abstract=5296332 or http://dx.doi.org/10.2139/ssrn.5296332
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+Y Bao , B Ke , B Li , Y J Yu , J Zhang
+Detecting accounting fraud in publicly traded U.S. firms using a machine learning approach
+Journal of Accounting Research , volume 58 , issue 1 , p. 199 - 235 Posted: 2020
+S W Bauguess
+The role of big data, machine learning, and AI in assessing risks: A regulatory perspective
+SEC Keynote Address: OpRisk North America Posted: 2017
+M D Beneish
+The detection of earnings manipulation
+Financial Analysts Journal , volume 55 , issue 5 , p. 24 - 36 Posted: 1999
+J Bertomeu , E Cheynel , E Floyd , W Pan
+Using machine learning to detect misstatements
+Review of Accounting Studies , volume 26 , issue 2 , p. 468 - 519 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+62
+ABSTRACT VIEWS
+591
+RANK
+826,408
+17 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

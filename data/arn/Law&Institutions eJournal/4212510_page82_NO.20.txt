@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Venture Capital and Private M&A Contracting
+
+48 Pages Posted: 20 Sep 2022
+
+Lauren Vollon
+
+University of Notre Dame - Mendoza College of Business
+
+Date Written: August 30, 2024
+
+Abstract
+
+This study investigates the role of venture capital (VC) firms in private mergers and acquisitions (M&A) contracting, particularly in reducing information asymmetry. Analyzing a proprietary dataset of 851 startup acquisitions from 2015 to 2020, I find that M&A contracts are significantly less likely to include earnouts, mechanisms designed to mitigate information asymmetry, when a VC is involved in the transaction. Further analysis reveals that earnouts are more likely in transactions with high information asymmetry between the VC and the buyer. The study also examines the effect of prior relationships between VCs and buyers, showing that these connections not only increase the chances of repeat transactions but also further reduce the reliance on earnouts. These findings suggest that VCs play a crucial role in mitigating information asymmetry, reducing the need for earnouts, and ultimately improving M&A outcomes.
+
+Keywords: Venture capital, private M&A, contracts, asymmetric information, adverse selection, earnouts, relationships
+
+JEL Classification: D82, G24, G34, L14, M40
+
+Suggested Citation:
+
+Vollon, Lauren, Venture Capital and Private M&A Contracting (August 30, 2024). Available at SSRN: https://ssrn.com/abstract=4212510 or http://dx.doi.org/10.2139/ssrn.4212510
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+S Agarwal , R Hauswald
+Distance and Private Information in Lending
+The Review of Financial Studies , volume 23 , p. 2757 - 2788 Posted: 2010
+G A Akerlof
+4. the market for 'lemons': quality uncertainty and the market mechanism
+Market Failure or Success , volume 66 Posted: 1970
+T W Bates , J B Neyland , Y Y Wang
+Financing Acquisitions with Earnouts
+Journal of Accounting and Economics , volume 66 , p. 374 - 395 Posted: 2018
+L A Bebchuk
+The case for increasing shareholder power
+Harv. L. Rev , volume 118 Posted: 2004
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+249
+ABSTRACT VIEWS
+1,382
+RANK
+280,604
+34 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+A Modern Approach to Global Tax Transparency and Beneficial Ownership Registers: Forget Sunlight, Is Blockchain the Best Disinfectant?
+
+NYLS Legal Studies Research Paper No. 3671832
+
+Posted: 28 Sep 2020
+
+Joseph Iorio
+
+New York Law School, Students
+
+Date Written: March 17, 2020
+
+Abstract
+
+"…Establishing a shell company to launder money is easier than getting a library card." - Elizabeth Warren
+
+2019 was a significant year for tax transparency in the United States and around the world. As the 2020 election cycle continues, the subject of tax transparency has earned significant media attention after being pushed to the political foreground yet again. However, this rhetoric is just the latest attempt to focus on the shady business activities of opaque legal entities known as Limited Liability Companies or "LLCs".
+
+In 2016, the International Consortium of Investigative Journalists ("ICIJ") published an explosive report detailing financial and attorney-client information for 214,488 offshore entities. What became known as the "Panama Papers" was a thorough report focusing on the practices of Panamanian law firm, Mossack Fonseca, which had orchestrated the use of offshore legal entities so the world's rich and powerful could hide assets, avoid taxes and circumvent laws.
+
+As a result, the secrets of the international offshoring industry became public knowledge for the first time in history. Since then, governments around the world have been announcing stronger anti-avoidance efforts to disclose the beneficial owners of financial assets. While beneficial ownership information is relevant to a variety of assets, recent policy attention has focused on the beneficial ownership of companies, and in particular, the use of shell companies to anonymously purchase assets and move money.
+
+Today, the Financial Action Task Force ("FATF") estimates that there are roughly thirty million "legal persons" currently registered in the United States. Approximately two million are being created each year for a host of strategic legal, tax or financial reasons. Although regulatory efforts have been ongoing for several years, the Panama Papers scandal has motivated the U.S. government to recently act to address the alleged attempts by non-U.S. persons to launder the proceeds of illegal activities through U.S. financial transactions. Recent legislation, including the Corporate Transparency Act, and a sister bill currently under consideration in the Senate, are designed to disclose beneficial ownership so that shell corporations are incapable of being used for illegal offshore financing activities, money laundering and tax avoidance.
+
+Part I of this Note examines the most recent legislative attempts to disclose beneficial ownership information of LLCs and the historical, political and legal developments that have shaped these decisions. This will require a discussion of the regulatory developments in the United States and around the world with respect to shell corporations, tax transparency and enforcement. In addition, it examines the practical impact that the Corporate Transparency Act or similar beneficial ownership legislation will have on businesses. Finally, Part II this Note proposes a bold, forward-thinking solution reduce money laundering, fraud and abuse by utilizing block-chain technology to prevent burdening the market with more senseless regulation that fails to adequately address the problem. Namely, it analyzes block-chain's value in building more efficient auditing, record keeping, compliance and beneficial ownership infrastructure.
+
+Keywords: Block-chain, Beneficial Ownership, KYC, Technology, Law, Policy, Compliance, Beneficial Ownership Registers
+
+JEL Classification: K34, H2, H26, H25, K22
+
+Suggested Citation:
+
+Iorio, Joseph, A Modern Approach to Global Tax Transparency and Beneficial Ownership Registers: Forget Sunlight, Is Blockchain the Best Disinfectant? (March 17, 2020). NYLS Legal Studies Research Paper No. 3671832, Available at SSRN: https://ssrn.com/abstract=3671832
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+810
+PlumX Metrics
+Related eJournals
+
+New York Law School Legal Studies Research Paper Series
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

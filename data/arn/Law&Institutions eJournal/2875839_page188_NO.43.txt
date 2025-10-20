@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Earnings Announcements on a Firm's Information Environment
+
+45 Pages Posted: 28 Nov 2016 Last revised: 22 Feb 2025
+
+Mark T Bradshaw
+
+Boston College
+
+Marlene Plumlee
+
+University of Utah - School of Accounting
+
+Benjamin C. Whipple
+
+University of Georgia - C. Herman and Mary Virginia Terry College of Business
+
+Teri Lombardi Yohn
+
+Emory University Goizueta Business School
+
+Date Written: April 11, 2018
+
+Abstract
+
+Research suggests that earnings announcements reduce information asymmetry and level the playing field among investors. However, some studies find the opposite, with results indicating that the proportion of common information (i.e., consensus) decreases after earnings announcements. We revisit the question of how earnings announcements affect the information environment and provide new evidence that reconciles these seemingly contradictory findings. First, we show that earnings announcements decrease total forecast error by reducing both common forecast error and private forecast error (i.e., forecast dispersion). Therefore, although earnings announcements can decrease consensus, they are beneficial to the information environment because they decrease both common and private error. Second, we highlight the importance of a firm’s pre-existing consensus in understanding how earnings announcements affect the information environment. Specifically, we find that earnings announcements increase, as opposed to decrease, consensus when the pre-existing level of consensus is low. However, with higher levels of pre-existing consensus, this effect becomes attenuated and eventually negative. Third, we find that voluntary disclosures in earnings announcements can also affect consensus, with management forecasts increasing consensus and non-GAAP earnings decreasing consensus. Finally, we decompose earnings into revenues and expenses and find that earnings announcements improve information about revenue more than for expenses. Overall, we reconcile the existing literature by demonstrating that earnings announcements level the informational playing field, even if consensus declines around such announcements, and we provide new evidence about the effects of voluntary disclosures on consensus.
+
+JEL Classification: M41, G21
+
+Suggested Citation:
+
+Bradshaw, Mark T and Plumlee, Marlene A. and Whipple, Benjamin C. and Yohn, Teri Lombardi, The Impact of Earnings Announcements on a Firm's Information Environment (April 11, 2018). Available at SSRN: https://ssrn.com/abstract=2875839 or http://dx.doi.org/10.2139/ssrn.2875839
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+B B Ajinkya , M J Gift
+Dispersion of financial analysts' earnings forecasts and the (option model) implied standard deviations of stock returns
+The Journal of Finance , volume 40 , issue 5 , p. 1353 - 1365 Posted: 1985
+S Baginski , E Conrad , J Hassell
+The effects of management forecast precision on equity pricing and on the assessment of earnings uncertainty
+The Accounting Review , volume 68 , issue 4 , p. 913 - 927 Posted: 1993
+O Barron , D Byard , O Kim
+Changes in analysts' information around earnings announcements
+The Accounting Review , volume 77 , issue 4 , p. 821 - 846 Posted: 2002
+O Barron , D Byard , Y Yu
+Earnings surprises that motivate analysts to reduce average forecast error
+The Accounting Review , volume 83 , issue 2 , p. 303 - 325 Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+528
+ABSTRACT VIEWS
+2,854
+RANK
+121,660
+4 Citations
+48 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Parameter Heterogeneity in the Market-Accounting Relation
+
+44 Pages Posted: 24 Feb 2013
+
+Michael Falta
+
+University of Otago
+
+Roger J. Willett
+
+Victoria University of Wellington - Te Herenga Waka - Victoria Business School
+
+Date Written: August 28, 2011
+
+Abstract
+
+In this paper firm parameter heterogeneity in cross section regression analysis in capital market research (CMR) is investigated. Using panel data for 30 large US firms over the period 1955 to 2004, a well-specified common form of dynamic model for each firm is identified. Average parameter estimates from these models are compared to average parameter estimates from 50 annual cross section models having the same functional form. The dynamic parameters are mostly stable over time but variation in individual firm parameters is apparent. Analysis shows that even well-specified annual cross section models using large samples of data cannot guarantee valid and reliable estimates of the parameters of interest. Firm-level dynamic analysis is necessary to avoid this problem.
+
+We show how a fixed effects panel analysis of the sample data can be used to approximate the average data generating process of the firms in the sample. Although the impact of accounting variables is slight, compared to the autoregressive component in market value, it is systematic. There is weak evidence of cointegration between market and accounting data in most firms in the sample. Consequently, it is possible to construct the cross section analogue of the dynamic error correction model. Book value of net assets is used to illustrate the role of accounting variables. Other variables could be used, but single variable, multiplicative noise models perform best when judged by joint explanatory power and forecast ability criteria.
+
+Keywords: Cross section modelling, misspecification, heterogeneity, dynamic modelling, long-run effect, fundamentals
+
+JEL Classification: C31, C32, C33, E40
+
+Suggested Citation:
+
+Falta, Michael and Willett, Roger J., Parameter Heterogeneity in the Market-Accounting Relation (August 28, 2011). Available at SSRN: https://ssrn.com/abstract=2222999 or http://dx.doi.org/10.2139/ssrn.2222999
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+D Alexander , M Falta , R J Willett
+Using forecasting criteria to identify value relevance in the relationship between accounting numbers and market value
+Abacus , volume 48 , issue 3 , p. 316 - 363 Posted: 2012-09
+Crossref
+Jan Bartholdy , Paula Peare , Roger J. Willett
+A Theoretical and Empirical Analysis of the Relationship between Market and Book Values
+Pages: 32 Posted: 11 Jan 2001
+Download PDF  Add Paper to My Library
+J L Callen , M Morel
+Linear accounting valuation when abnormal earnings are AR(2)
+Review of Quantitative Finance and Accounting , volume 16 , issue 3 , p. 191 - 204 Posted: 2001
+J Y Campbell , R J Shiller
+Cointegration and tests of present value models
+The Journal of Political Economy , volume 97 , p. 1062 - 1088 Posted: 1987
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+92
+ABSTRACT VIEWS
+1,886
+RANK
+653,768
+33 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Truth and Robustness in Cross-Country Growth Regressions
+
+By Kevin D. Hoover and Stephen J. Perez
+
+The Properties of Automatic Gets Modelling
+
+By David F. Hendry and Martin Krolzig
+
+Selecting a Regression Saturated by Indicators
+
+By Soren Johansen, David F. Hendry, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

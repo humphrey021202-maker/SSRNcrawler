@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax Avoidance - Are Banks Any Different?
+
+TRR 266 Accounting for Transparency Working Paper Series No. 2
+
+64 Pages Posted: 12 Jul 2019 Last revised: 4 Aug 2021
+
+Vanessa Gawehn
+
+Paderborn University
+
+Jens Mueller
+
+Paderborn University
+
+Date Written: March 12, 2020
+
+Abstract
+
+While the public has noticed the need for the detection of potential tax loopholes and demands further improvement in the taxation of banks, there is scarce empirical evidence whether banks’ degree of tax avoidance actually differs from that of non-banks. We try to close this gap by investigating U.S. banks’ tax avoidance behavior for a sample period from 2004 to 2016. To identify banks’ tax avoidance, we use annual Cash ETRs and GAAP ETRs and compare them to the tax avoidance behavior of non-banks. As there are various channels of tax avoidance, we account for differences in several areas such as corporate fundamentals, the degree of multinationality and regulatory scrutiny. We provide cautious evidence that banks have significantly higher Cash ETRs than non-banks. Using quantile regression, we find evidence that the assocation between banks and ETRs is not constant over the whole tax avoidance distribution, with banks reporting significantly higher ETRs compared to nonbanks in those regions of the tax avoidance distribution which are regularly classified as “high tax avoidance”. In line with recent research, we provide some evidence that the difference in Cash ETRs between banks and non-banks is more pronounced for worse-capitalized, than for better-capitalized banks.
+
+Keywords: tax avoidance, banks, non-banks, standardized coefficients, quantile regression
+
+JEL Classification: G21, H26, M41
+
+Suggested Citation:
+
+Gawehn, Vanessa and Mueller, Jens, Tax Avoidance - Are Banks Any Different? (March 12, 2020). TRR 266 Accounting for Transparency Working Paper Series No. 2, Available at SSRN: https://ssrn.com/abstract=3418506 or http://dx.doi.org/10.2139/ssrn.3418506
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+387
+ABSTRACT VIEWS
+2,257
+RANK
+175,068
+41 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

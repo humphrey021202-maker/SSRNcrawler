@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Contracting with Opportunistic Partners: An Incomplete Contracts Approach
+
+AAA 2017 Management Accounting Section (MAS) Meeting
+
+40 Pages Posted: 16 Aug 2016
+
+Pablo Casas-Arce
+
+Arizona State University (ASU) - W.P. Carey School of Business
+
+Thomas Kittsteiner
+
+RWTH Aachen University - School of Business and Economics
+
+Francisco de Asis Martinez-Jerez
+
+Cornell University; Cornell SC Johnson College of Business
+
+Date Written: April 15, 2016
+
+Abstract
+
+After a contract is signed, contracting partners may engage in opportunistic behavior that circumvents the original intention of the agreement governing their business relationship (i.e. complying with the letter but not the spirit of the contract). We use an incomplete contracts approach to show that the anticipation and observability of such behavior are typically not enough to prevent it when parties can renegotiate contractual outcomes. This is because contractually specified incentives inevitably have conflicting effects: they simultaneously increase the likelihood of welfare-improving investments and welfare-reducing opportunistic behavior. The possibility of opportunism thus limits the effectiveness of contractual incentives and may call for simpler (less complete) rather than more complete contractual solutions. We provide general conditions for the optimality of incomplete contracts, a simple characterization of the second-best contract, and some comparative statics. We also discuss implications for vertical integration and make versus buy decisions.
+
+Keywords: Incomplete contracts; Opportunism; Supply chain
+
+JEL Classification: D23, J41, K12, L20
+
+Suggested Citation:
+
+Casas-Arce, Pablo and Kittsteiner, Thomas and Martinez-Jerez, Francisco de Asis, Contracting with Opportunistic Partners: An Incomplete Contracts Approach (April 15, 2016). AAA 2017 Management Accounting Section (MAS) Meeting, Available at SSRN: https://ssrn.com/abstract=2823799 or http://dx.doi.org/10.2139/ssrn.2823799
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+Philippe Aghion , Patrick Bolton
+An Incomplete Contracts Approach to Financial Contracting
+Review of Economic Studies , volume 59 , p. 473 - 494 Posted: 1992
+Crossref
+Philippe Aghion , Mathias Dewatripont , Patrick Rey
+Renegotiation Design With Unverifiable Information
+Econometrica , volume 62 , p. 257 - 282 Posted: 1994
+Crossref
+Anil Arya , Joel Demski , Jonathan Glover , Pierre Liang
+Quasi-Robust Multiagent Contracts
+Management Science , volume 55 , p. 752 - 762 Posted: 2009
+Crossref
+Anil Arya , Brian Mittendorf , David E M Sappington
+The Make-or-Buy Decision in the Presence of a Rival: Strategic Outsorcing to a Common Supplier
+Management Science , volume 54 , p. 1747 - 1758 Posted: 2008
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+172
+ABSTRACT VIEWS
+2,258
+RANK
+398,904
+57 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

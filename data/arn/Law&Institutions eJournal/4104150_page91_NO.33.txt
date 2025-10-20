@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting for Employee Flows
+
+Forthcoming, Journal of Business Finance & Accounting, https://doi.org/10.1111/jbfa.12673
+
+49 Pages Posted: 11 May 2022 Last revised: 13 Dec 2022
+
+Jeppe Christoffersen
+
+Copenhagen Business School, Department of Accounting
+
+Thomas Plenborg
+
+Copenhagen Business School - Department of Accounting
+
+Morten Nicklas Bigler Seitz
+
+Copenhagen Business School, Department of Accounting
+
+Date Written: May 9, 2022
+
+Abstract
+
+This paper examines employee flows and the association with firm earnings and interest rates. We use administrative employer–employee matched panel data from Denmark spanning 17 years and hence exploit actual data on employee arrivals (labor inflows) and departures (labor outflows). Three main findings emerge. First, we condition by firms’ economic conditions. Departures predict earnings increases for prior-year loss firms, while they predict earnings decreases for prior-year profit firms, suggesting that this conditioning can help explain the mixed results in the literature. Arrivals predict earnings increases, though only for prior-year profit firms. These effects are stronger for high-paid employees than for low-paid ones. Second, the effects of departures are generally larger than the effects of arrivals, consistent with departures disrupting operations. Third, we find that lenders price employee flow information but only for departures of high-paid employees, despite the predictive ability of the flow of other employees for future earnings. Overall our results suggest that employee flows predict firm financial performance but are only partially priced by lenders.
+
+Keywords: Human capital, labor flows, credit markets
+
+JEL Classification: M41, M54, M12, J24, L25, G12
+
+Suggested Citation:
+
+Christoffersen, Jeppe and Plenborg, Thomas and Seitz, Morten Nicklas Bigler, Accounting for Employee Flows (May 9, 2022). Forthcoming, Journal of Business Finance & Accounting, https://doi.org/10.1111/jbfa.12673, Available at SSRN: https://ssrn.com/abstract=4104150 or http://dx.doi.org/10.2139/ssrn.4104150
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+A Agrawal , I Hacamo , Z Hu
+Information dispersion across employees and stock returns. The Review of Financial Studies , volume 34 , p. 4785 - 4831 Posted: 2021
+D G Allen , P C Bryant , J M Vardaman
+Retaining talent: Replacing misconceptions with evidence-based strategies , volume 24 , p. 48 - 64 Posted: 2010
+E Amir , J.-P Kallunki , H Nilsson
+The association between individual audit partners' risk preferences and the composition of their client portfolios
+Review of Accounting Studies , volume 19 , issue 1 , p. 103 - 133 Posted: 2014
+M Bennedsen , M Tsoutsoura , D Wolfenzon
+Drivers of effort: Evidence from employee absenteeism
+Journal of Financial Economics , volume 133 , issue 3 , p. 658 - 684 Posted: 2019
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+93
+ABSTRACT VIEWS
+648
+RANK
+649,230
+36 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Why Do Countries Mandate Accrual Accounting for Tax Purposes?
+
+Forthcoming in Journal of Accounting Research
+
+59 Pages Posted: 19 Aug 2011 Last revised: 29 Aug 2014
+
+Igor Goncharov
+
+Lancaster University - Department of Accounting and Finance
+
+Martin Jacob
+
+University of Navarra, IESE Business School
+
+There are 2 versions of this paper
+
+Date Written: August 29, 2014
+
+Abstract
+
+This study investigates why countries mandate accruals in the definition of corporate taxable income. Accruals alleviate timing and matching problems in cash flows, which smoothes taxable income and thus better aligns it with underlying economic performance. These accrual properties can be desirable in the tax setting as tax authorities seek more predictable corporate tax revenues. However, they can also make tax revenues procyclical by increasing the correlation between aggregate corporate tax revenues and aggregate economic activity. We argue that accruals shape the distribution of corporate tax revenues, which leads regulators to incorporate accruals into the definition of taxable income to optimally balance the portfolio of government revenues and expenditures. Using a sample of 26 OECD countries, we find support for several theoretically motivated factors explaining the use of accruals in tax codes. We first provide evidence that corporate tax revenues are less volatile in high accrual countries, but high accrual countries collect relatively higher (lower) tax revenues when the corporate sector grows (contracts). Critically, we then show that accruals and smoother tax revenues are favored by countries with higher levels of government spending on public services and uncertain future expenditures, while countries with procyclical other tax collections favor cash rules and lower procyclicality of corporate tax revenues.
+
+Keywords: accrual accounting, income smoothing, tax revenues, corporate tax base
+
+JEL Classification: M41, H25, H21, M48
+
+Suggested Citation:
+
+Goncharov, Igor and Jacob, Martin, Why Do Countries Mandate Accrual Accounting for Tax Purposes? (August 29, 2014). Forthcoming in Journal of Accounting Research, Available at SSRN: https://ssrn.com/abstract=1912003 or http://dx.doi.org/10.2139/ssrn.1912003
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+J ; P Agell , J Englund , Södersten
+Tax reform of the century -the Swedish experiment
+National Tax Journal , volume 49 , p. 643 - 664 Posted: 1996
+Crossref
+Guiding principles of good tax policy: a framework for evaluating tax proposals Posted: 2001
+A Ali , P Zarowin
+Permanent versus transitory components of annual earnings and estimation error in earnings response coefficients
+Journal of Accounting and Economics , volume 15 , p. 286 - 296 Posted: 1992
+Crossref
+C S.; W R Armstrong , J P Guay , Weber
+The role of information and financial reporting in corporate governance and debt contracting
+Journal of Accounting and Economics , volume 50 , p. 179 - 234 Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+902
+ABSTRACT VIEWS
+5,304
+RANK
+60,389
+3 Citations
+62 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Empirical Tax Research in Accounting
+
+By Douglas A. Shackelford and Terry J. Shevlin
+
+Earnings Management: New Evidence Based on Deferred Tax Expense
+
+By John D. Phillips, Morton Pincus, ...
+
+An Evaluation of Alternative Measures of Corporate Tax Rates
+
+By George Plesko
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

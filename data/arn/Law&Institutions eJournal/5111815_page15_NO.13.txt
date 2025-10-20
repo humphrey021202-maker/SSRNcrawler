@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Non-Compete Agreements and Capital Structure Decisions
+
+47 Pages Posted: 24 Feb 2025
+
+Bektemir Ysmailov
+
+Nazarbayev University
+
+Date Written: May 31, 2024
+
+Abstract
+
+This paper examines the impact of changes in the enforceability of non-compete agreements (NCAs) on capital structure decisions. Using a novel dataset of NCA enforceability reforms across U.S. states from 1992 to 2013, I employ a difference-in-differences methodology to establish that following an increase in the enforceability of NCAs, firms decrease their leverage. The findings are consistent with the managerial career concerns hypothesis: by restricting outside employment opportunities, heightened NCA enforceability increases managers’ aversion to risk and financial distress, prompting more conservative capital structures. Cross-sectional evidence underscores the coexistence of both career concerns and proprietary information protection channels within the same empirical setting. This study provides robust evidence of how labor market frictions influence corporate financing policies, offering new insights into the interplay between managerial incentives and capital structure decisions.
+
+Keywords: leverage, labor mobility, career concerns, agency conflicts, trade secrets
+
+JEL Classification: G32, G34, J24, J40, K31
+
+Suggested Citation:
+
+Ysmailov, Bektemir, Non-Compete Agreements and Capital Structure Decisions (May 31, 2024). Available at SSRN: https://ssrn.com/abstract=5111815 or http://dx.doi.org/10.2139/ssrn.5111815
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+A K Agrawal , D A Matsa
+Labor unemployment risk and corporate financing decisions
+Journal of Financial Economics , volume 108 , issue 2 , p. 449 - 470 Posted: 2013
+A Ali , N Li , W Zhang
+Restrictions on managers' outside employment opportunities and asymmetric disclosure of bad versus good news
+The Accounting Review , volume 94 , issue 5 , p. 1 - 25 Posted: 2019
+Y Amihud , B Lev
+Risk reduction as a managerial motive for conglomerate mergers
+The Bell Journal of Economics , p. 605 - 617 Posted: 1981
+R S Arnow-Richman
+Bargaining for Loyalty in the Information Age: A Reconsideration of the Role of Substantive Fairness in Enforcing Employee Noncompetes. Or
+L. Rev , volume 80 Posted: 2001
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+97
+ABSTRACT VIEWS
+448
+RANK
+631,426
+59 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cross-Border Mergers and Acquisitions: The Interplay of Cultural Differences And Prior M&A Activity
+
+47 Pages Posted: 11 Apr 2024
+
+Fatos Radoniqi
+
+Whittier College
+
+Roger White
+
+Whittier College
+
+Abstract
+
+We examine the extent to which cross-border mergers and acquisitions (M&A) are affected by national cultural differences (i.e., cultural distance) and prior M&A activity. Our empirical specification follows the standard gravity framework. We estimate a series of Tobit models using bilateral data that represent 9,398 mergers involving firms in 31 countries over three periods (1995-1998, 2005-2008, and 2017-2020). We find a negative but declining influence of cultural distance on cross-border M&A activity. We also find merger activity involving firms in a particular country pair is positively related to subsequent M&A activity and that this experience counteracts the hindering influence of cultural differences, which becomes insignificant after approximately ten prior mergers. Our findings are robust to sample composition, choice of periods examined, alternative measures of cultural distance, alternative classifications of prior M&A activity, model specification, and estimation technique.
+
+Keywords: Cross-border mergers and acquisitions (M&A), Cultural Distance, learning by doing/observing practice, World Values Survey (WVS)
+
+Suggested Citation:
+
+Radoniqi, Fatos and White, Roger, Cross-Border Mergers and Acquisitions: The Interplay of Cultural Differences And Prior M&A Activity. Available at SSRN: https://ssrn.com/abstract=4791446 or http://dx.doi.org/10.2139/ssrn.4791446
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+B Agcayazi , A M Hibbert , T G Morillon
+CEO international background and crossborder M&As
+Journal of Banking & Finance Posted: 2024
+K R Ahern , D Daminelli , C Fracassi
+Lost in translation? The effect of cultural values on mergers around the world
+Journal of Financial Economics , volume 117 , issue 1 , p. 165 - 189 Posted: 2015
+A Alimov , M S Officer
+Intellectual property rights and cross-border mergers and acquisitions
+Journal of Corporate Finance , volume 45 , p. 360 - 377 Posted: 2017
+N Al Rahahleh , P P Wei
+Frequent cross-border acquirers from emerging countries and cultural distance: Does the cultural difference of the initial deal matter
+Journal of Multinational Financial Management , volume 23 , issue 4 , p. 356 - 373 Posted: 2013
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+90
+ABSTRACT VIEWS
+694
+RANK
+677,550
+50 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

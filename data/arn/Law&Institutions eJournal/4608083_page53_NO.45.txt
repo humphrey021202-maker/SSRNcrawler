@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Non-Financial Liabilities and Effective Corporate Restructuring
+
+Swedish House of Finance Research Paper No. 24-02
+
+55 Pages Posted: 17 Nov 2023 Last revised: 29 Sep 2025
+
+Bo Becker
+
+Stockholm School of Economics; Centre for Economic Policy Research (CEPR); ECGI
+
+Jens Josephson
+
+Stockholm University; Research Institute of Industrial Economics (IFN)
+
+Hongyi Xu
+
+Stockholm School of Economics
+
+There are 2 versions of this paper
+
+Date Written: December 02, 2024
+
+Abstract
+
+Many insolvency systems focus on restructuring financial liabilities, and ignore operational liabilities such as leases and long-term supplier contracts. We model the U.S. option to reject such contracts and find that it avoids excessive liquidation of firms with significant non-financial obligations and increases debt capacity ex ante. Using text analysis and accounting data to measure the extent of executory contracts, we test the debt capacity hypothesis using difference-in-difference tests comparing the U.S. to countries where rejection is limited and the introduction of rejection in Israel in 2019. We find operating restructuring is a key aspect of insolvency with a large impact on corporate capital structures.
+
+
+Keywords: Bankruptcy, Executory contracts, Capital structure, Restructuring, Insolvency
+
+JEL Classification: G33, G30, G32
+
+Suggested Citation:
+
+Becker, Bo and Josephson, Jens and Xu, Hongyi, Non-Financial Liabilities and Effective Corporate Restructuring (December 02, 2024). Swedish House of Finance Research Paper No. 24-02, Available at SSRN: https://ssrn.com/abstract=4608083 or http://dx.doi.org/10.2139/ssrn.4608083
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+Samuel Antill , Steven R Grenadier
+Optimal capital structure and bankruptcy choice: Dynamic bargaining versus liquidation
+Journal of Financial Economics , volume 133 , issue 1 , p. 198 - 224 Posted: 2019
+Kenneth Ayotte
+Leases and executory contracts in Chapter 11
+Journal of Empirical Legal Studies , volume 12 , issue 4 , p. 637 - 663 Posted: 2015
+Hayong Yun
+Matching Bankruptcy Laws to Legal Environments
+The Journal of Law, Economics, and Organization , volume 25 , issue 1 , p. 2 - 30 Posted: 2007
+Bo Becker , Jens Josephson
+Insolvency Resolution and the Missing High-Yield Bond Markets
+The Review of Financial Studies , volume 29 , issue 10 , p. 2814 - 2849 Posted: 2016
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+149
+ABSTRACT VIEWS
+1,464
+RANK
+177,635
+43 References
+PlumX Metrics
+Related eJournals
+
+Swedish House of Finance Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

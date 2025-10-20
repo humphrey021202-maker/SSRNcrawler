@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting Conservatism and Income Smoothing after the Japanese Sarbanes–Oxley Act
+
+Asian Journal of Business and Accounting 17 (1): 1-41, 2024
+
+38 Pages Posted: 14 Jun 2018 Last revised: 25 Mar 2024
+
+Ian Eddie
+
+Royal Melbourne Institute of Technology (RMIT University) - RMIT Asia Graduate Centre
+
+Tomoyasu Yamaguchi
+
+Chuo University - Faculty of Commerce
+
+Date Written: December 19, 2023
+
+Abstract
+
+Purpose – The Japanese Sarbanes-Oxley Act (J-SOX) was implemented for the fiscal years ending on or after March 31, 2009. This study examines the effect of J-SOX on accounting conservatism and income smoothing behavior in Japanese firms.
+Design/methodology/approach – We consider Japanese listed firms with fiscal years ending on March 31 in 2007 and 2008 (March 31 in 2009 and 2010) as the pre-J-SOX (post-J-SOX) sample. We perform multiple regression analyses with a dummy variable for the post-J-SOX period to compare the levels of accounting conservatism and income smoothing between the pre- and post-J-SOX periods.
+Findings – We find that accounting conservatism has increased and income smoothing has decreased following J-SOX implementation. This finding suggests that financial reporting transparency in Japanese firms may have increased after the implementation of J-SOX.
+Originality/value – To the best of our knowledge, this is the first study to analyze the effect of J-SOX on accounting conservatism and income smoothing behavior in Japanese firms. Although previous studies indicate that firms’ earnings in Japan are less conservative and more smoothed than those in other countries, this study complements them by demonstrating that Japanese firms’ earnings in the post-J-SOX period are more conservative and less smoothed than in the pre-J-SOX period.
+
+Keywords: Accounting Conservatism, Income Smoothing, Internal Control Regulation, Japan, Sarbanes–Oxley Act
+
+JEL Classification: G38, M41, M48
+
+Suggested Citation:
+
+Eddie, Ian and Yamaguchi, Tomoyasu, Accounting Conservatism and Income Smoothing after the Japanese Sarbanes–Oxley Act (December 19, 2023). Asian Journal of Business and Accounting 17 (1): 1-41, 2024, Available at SSRN: https://ssrn.com/abstract=3186280 or http://dx.doi.org/10.2139/ssrn.3186280
+Download This Paper
+ 
+Open PDF in Browser
+69 References
+J Aono , L Guan
+The impact of Sarbanes-Oxley Act on cosmetic earnings management
+Research in Accounting Regulation , volume 20 , p. 205 - 215 Posted: 2008
+B Baik , K Gunny , B Jung , D Park
+Income smoothing through R&D management and earnings informativeness
+The Accounting Review , volume 97 , issue 3 , p. 25 - 49 Posted: 2022
+R Ball , S P Kothari , A Robin
+The effect of international institutional factors on properties of accounting earnings
+Journal of Accounting and Economics , volume 29 , issue 1 , p. 1 - 51 Posted: 2000
+R Ball , A Robin , J S Wu
+Accounting standards, the institutional environment and issuer incentives: Effect on timely loss recognition in China
+Asia-Pacific Journal of Accounting and Economics , volume 7 , issue 2 , p. 71 - 96 Posted: 2000
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+300
+ABSTRACT VIEWS
+3,036
+RANK
+231,609
+69 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+
+The Role of Engagement Characteristics in Internal Quality Reviews and PCAOB Inspections of Component Auditor Work for US Issuers
+
+Posted: 18 Jul 2024 Last revised: 11 Jun 2025
+
+Denise Downey
+
+Villanova University
+
+Jean C. Bedard
+
+Bentley University - Department of Accountancy
+
+Colleen M. Boland
+
+University of Wisconsin - Milwaukee - Sheldon B. Lubar School of Business
+
+Date Written: March 14, 2025
+
+Abstract
+
+This study uses proprietary data from the Public Company Accounting Oversight Board (PCAOB) to investigate quality of the audit process in component audits of US issuer engagements performed by non-U.S. network firms. Our process quality measures are derived from the firms’ Internal Quality Reviews (IQRs) and PCAOB international inspections, which both monitor compliance with professional standards. We study engagement characteristics influencing inspection selection and outcomes (deficiency), using Heckman models to control for selection bias in the outcome models. Results show that IQR selection is more likely for component audit engagements with more non-US labor, more US-specific procedures, and lower profitability; and among non-US firms with fewer US issuer clients, fewer professionals, and more dispersed offices. These findings imply that IQR inspectors perceive resource constraints as key inhibitors of audit quality in US-referred work. Similarly, IQR outcome models show that deficiencies are more likely in engagements with more non-US labor, lower profitability, and in firms with fewer professionals. In contrast, PCAOB Part I deficiencies are more likely in engagements with higher profitability and longer tenure, suggesting influence of commercial incentives rather than resource constraints. Our findings contribute to understanding of factors influencing the quality of the audit process as viewed by internal and regulatory inspections in an important but under-researched sector of the audit market. The observed variation in determinants across programs contributes to the literature on drivers of audit quality and should be useful to both firms and regulators in calibrating their inspection programs and interpreting their findings.
+
+
+
+
+Keywords: group audits, component auditors, audit process deficiencies, audit economics, auditor tenure, multinational company reporting
+
+Suggested Citation:
+
+Downey, Denise and Bedard, Jean C. and Boland, Colleen M.,
+
+The Role of Engagement Characteristics in Internal Quality Reviews and PCAOB Inspections of Component Auditor Work for US Issuers
+
+(March 14, 2025). Available at SSRN: https://ssrn.com/abstract=4865378 or http://dx.doi.org/10.2139/ssrn.4865378
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+351
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

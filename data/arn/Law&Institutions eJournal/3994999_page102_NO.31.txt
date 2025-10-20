@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fair Value versus Non-fair Value Discretion and Auditing
+
+49 Pages Posted: 28 Dec 2021
+
+Bohan Song
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+Date Written: August 30, 2020
+
+Abstract
+
+Managers have alternative discretionary choices. I exploit security-level disclosures in the insurance industry to examine auditors’ role in insurers’ choice between using two specific types of discretion to avoid other-than-temporary-impairment (OTTI) losses. Managers can avoid recognizing an OTTI loss on investment either by (1) using the discretion over fair value measurements to inflate fair values above amortized cost or (2) exercising the discretion over non-fair value related aspects of an OTTI assessment to argue that such decline of fair values is temporary. Employing within-security analyses, I find that insurers engaging Big 4 and leading auditors in the insurance industry are more (less) likely to use non-fair value (fair value) discretion to avoid OTTI losses. This effect is stronger when insurers have a greater OTTI avoidance incentive. I also document that, in the presence of these two types of auditors, insurers using non-fair value discretion to avoid OTTI are more likely to dispose of the security at a loss in the subsequent year. The results are consistent with these auditors having a comparative advantage in auditing fair value measurements versus non-fair value discretion due to their increased access to fair-value-related resources at the national level.
+
+
+Keywords: other-than-temporary impairment; Big 4; industry-leading auditors; insurance companies; accounting choice
+
+JEL Classification: G22, M41, M42
+
+Suggested Citation:
+
+Song, Bohan, Fair Value versus Non-fair Value Discretion and Auditing (August 30, 2020). Available at SSRN: https://ssrn.com/abstract=3994999 or http://dx.doi.org/10.2139/ssrn.3994999
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+Jaehan Ahn , Rani Hoitash , Udi Hoitash
+Auditor Task-Specific Expertise: The Case of Fair Value Accounting
+The Accounting Review , volume 95 , issue 3 , p. 1 - 32 Posted: 2020
+Sophie Audousset-Coulier , Anne Jeny , Like Jiang
+The Validity of Auditor Industry Specialization Measures
+Auditing: A Journal of Practice & Theory , volume 35 , issue 1 , p. 139 - 161 Posted: 2016
+Brad A Badertscher , J Jeffrey , Peter D Burks , Easton
+The Market Pricing of Otherthan-Temporary Impairments
+The Accounting Review , volume 89 , issue 3 , p. 811 - 838 Posted: 2014
+Samuel B Bonsall , Brian P Miller
+The Impact of Narrative Disclosure Readability on Bond Ratings and the Cost of Debt
+Review of Accounting Studies , volume 22 , issue 2 , p. 608 - 643 Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+202
+ABSTRACT VIEWS
+1,450
+RANK
+344,140
+49 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

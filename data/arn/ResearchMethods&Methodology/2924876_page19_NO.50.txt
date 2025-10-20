@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Improving the Statistical Power and Reliability of Research Using Amazon Mechanical Turk
+
+41 Pages Posted: 28 Feb 2017 Last revised: 11 Jan 2021
+
+Jeremiah W. Bentley
+
+University of Oklahoma - School of Accounting
+
+Date Written: December 29, 2020
+
+Abstract
+
+Amazon Mechanical Turk (MTurk) is an increasingly popular source of experimental subjects for accounting research due to its convenience and low cost (relative to traditional laboratories). However, MTurk presents challenges related to statistical power and reliability. These challenges are not unique to MTurk, but are more prevalent than in research conducted with other participant pools. In this paper I discuss several reasons why research conducted with MTurk may face additional power and reliability challenges. I then present suggestions for dealing with these challenges, taking advantage of the comparative strengths of MTurk. The discussion should be of interest to PhD students and other researchers considering using MTurk or other online platforms as a source of experimental participants as well as to reviewers and editors who are considering quality control standards for research conducted with this participant pool.
+
+Keywords: Amazon Mechanical Turk; MTurk; AMT; Effect Size; Sample Size; Screening
+
+JEL Classification: M40, M41, M42, C18, C90, C91
+
+Suggested Citation:
+
+Bentley, Jeremiah W., Improving the Statistical Power and Reliability of Research Using Amazon Mechanical Turk (December 29, 2020). Available at SSRN: https://ssrn.com/abstract=2924876 or http://dx.doi.org/10.2139/ssrn.2924876
+Download This Paper
+ 
+Open PDF in Browser
+72 References
+E Aronson , P Ellsworth , J Carlsmith , M Gonzales
+Methods of research in social psychology Posted: 1990
+H S Asay
+Horizon-induced optimism as a gateway to earnings management
+Contemporary Accounting Research Posted: 2018
+Crossref
+H S Asay , W B Elliott , K Rennekamp
+Disclosure readability and the sensitivity of investors' valuation judgments to outside information
+The Accounting Review , volume 92 , issue 4 , p. 1 - 25 Posted: 2017
+Crossref
+H S Asay , J Hales
+Disclaiming the future: Investigating the impact of cautionary disclaimers on investor judgments before and after experiencing economic loss. The Accounting Review (forthcoming Posted: 2018
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+771
+ABSTRACT VIEWS
+3,575
+RANK
+74,661
+25 Citations
+72 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

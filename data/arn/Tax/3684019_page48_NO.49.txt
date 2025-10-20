@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Taxing Uber
+
+86 Pages Posted: 20 Oct 2020 Last revised: 7 Nov 2022
+
+David R. Agrawal
+
+University of California, Irvine; CESifo (Center for Economic Studies and Ifo Institute)
+
+Weihua Zhao
+
+University of Louisville - College of Business - Department of Economics
+
+There are 2 versions of this paper
+
+Date Written: August 31, 2020
+
+Abstract
+
+Ride-hailing applications create new challenges for governments providing transit services, but also create new opportunities to raise tax revenue. To shed light on the effect of taxing or subsidizing ride-hailing applications, we extend a pseudo-monocentric city model to include multiple endogenously chosen transportation modes, including ride-hailing applications and endogenous car ownership. We show that most tax and spending programs that cities have currently adopted mildly increase public transit usage. However, the model predicts more significant increases in public transit ridership when ride-hailing applications are subsidized as a "last-mile" provider. Our model indicates that whether ride-hailing services and public transit are substitutes or complements is a policy choice.
+
+Keywords: ride-hailing, taxation, public transit, traffic congestion, optimal tolls
+
+JEL Classification: C60, H25, H71, L88, L98, R41, R51
+
+Suggested Citation:
+
+Agrawal, David R. and Zhao, Weihua, Taxing Uber (August 31, 2020). Available at SSRN: https://ssrn.com/abstract=3684019 or http://dx.doi.org/10.2139/ssrn.3684019
+Download This Paper
+ 
+Open PDF in Browser
+54 References
+David R Agrawal , David E Wildasin , H William , Hoyt
+Commuting and Taxes: Theory, Empirics, and Welfare Implications
+Journal of Public Economics , volume 128 , issue 616 , p. 2969 - 3007 Posted: 2018
+William Alonso , Location , Land Use
+Toward a General Theory of Land Rent Posted: 1964
+James L Altmann , Joseph S Desalvo
+Tests and Extensions of the Mills-Muth Simulation Model of Urban Residential Land Use
+Journal of Regional Science , volume 21 , issue 1 , p. 1 - 21 Posted: 1981
+Alex Anas , Leon N Moses
+Mode Choice, Transport Structure and Urban Land Use
+Journal of Urban Economics , volume 6 , issue 2 , p. 228 - 246 Posted: 1979
+Load more
+5 Citations
+Mario Leccese
+The Effects of Targeted Platform Taxes: Evidence from the Ride-Sharing and Taxi Industry
+58 Pages · Posted: 12 Apr 2021 · Last revised: 10 Oct 2025 · Downloads: 266
+Download PDF  Add Paper to My Library
+Mario Leccese
+Taxing Ride-sharing: Which Neighborhoods Pay More?
+56 Pages · Posted: 18 Feb 2022 · Last revised: 10 Apr 2024 · Downloads: 142
+Download PDF  Add Paper to My Library
+Conor Lennon , Christian Saenz , Keith Teltser
+Ridesharing and External-Cause Mortality
+68 Pages · Posted: 7 Mar 2024 · Last revised: 29 May 2025 · Downloads: 153
+Download PDF  Add Paper to My Library
+Matthew Tarduno
+Should Cities Tax Uber and Lyft?
+JPUBE-D-24-00293 · 62 Pages · Posted: 1 Apr 2024 · Downloads: 59
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+231
+ABSTRACT VIEWS
+1,371
+RANK
+259,422
+5 Citations
+54 References
+PlumX Metrics
+Related eJournals
+
+Economics of Networks eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

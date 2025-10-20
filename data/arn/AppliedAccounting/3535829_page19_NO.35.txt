@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Framework for Accounting Software and Finance Packages Used in SMEs Based on FOSS/FLOSS
+
+Applied Informatics Conference Proceedings, 2: 26-39, 2015
+
+17 Pages Posted: 17 Mar 2020
+
+Maria Dimitriou
+
+University of Macedonia
+
+Date Written: 2015
+
+Abstract
+
+In this era of «information explosion», financial accounting with information systems is becoming more and more accessible. This paper aims to present some effective applications/services for SMEs, such as the free and open-source software (FOSS/FLOSS) and the proprietary software for financial accounting. Due to the ongoing downturn in the Greek economy, the increasing pressure of competitive multinationals but also trends created last, SMEs need to rethink their strategy in order to enhance the image of Greek brands and to ensure the development through a reference to innovation and new information technologies between them. The paper discusses the concepts, dimensions, and questions around information and communication technologies from a business perspective in decision-making. It compares the free and open-source software and proprietary software for financial accounting. This comparison focuses on tables intending to identify the issues and challenges for those involved in the face through these software and applications for them. The paper highlights the particular importance of the free and open-source software (FOSS/FLOSS) and their contributions in financial accounting in favor of SMEs due to budget limitations. Findings suggest that future research should examine a case study for the crucial role of the above information systems and technologies in making appropriate investment decisions, specifying the value of a business unit. The paper highlights the role of information systems for those involved in a business, in emphasizing the department of finance. While much has been written about the information systems /technologies, there has been a lack of highlighting their assistance in financial decisions.
+
+Keywords: IT, Finance-Accounting Decisions
+
+Suggested Citation:
+
+Dimitriou, Maria, A Framework for Accounting Software and Finance Packages Used in SMEs Based on FOSS/FLOSS (2015). Applied Informatics Conference Proceedings, 2: 26-39, 2015, Available at SSRN: https://ssrn.com/abstract=3535829
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+C Kenneth , J Laudon , P Laudon
+μετάφραση: Γιάννης Κατσαντώνης, Δημήτρης Κωστάκης, επιμέλεια: Βίκυ Μάνθου Posted: 2009
+P Achanga
+Critical success factors for lean implementation within SMEs
+Journal of Manufacturing Technology Management , volume 17 , issue 4 , p. 460 - 571 Posted: 2006
+Crossref
+Al-Johani , A A Youssef , A E
+A framework for ERP systems in SME based on cloud computing technology
+International Journal on Cloud Computing: Services and Architecture , volume 3 , issue 3 , p. 1 - 14 Posted: 2013
+D Galani , E Gravas , A Stavropoulos
+The Impact of ERP Systems on Accounting Process
+Journal of World Academy of Science, Engineering and Technology , volume 66 , p. 418 - 423 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+230
+ABSTRACT VIEWS
+1,162
+RANK
+303,670
+8 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Finance Education eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

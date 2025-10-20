@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+IT Environment Quality and Effectiveness of Controls Over the Tax Function and Income Tax Avoidance
+
+51 Pages Posted: 8 Aug 2015
+
+Sabrina Chi
+
+CSU Fullerton
+
+Morton Pincus
+
+University of California, Irvine - Paul Merage School of Business
+
+Jaclyn Prentice
+
+University of Central Oklahoma
+
+Vernon J. Richardson
+
+University of Arkansas at Fayetteville
+
+Date Written: July 10, 2015
+
+Abstract
+
+The complexity and frequent changes of multi-jurisdictional tax requirements generate a demand for a robust supporting information environment. If a firm’s information technology (IT) environment is not able to handle these tax complexities, that inability increases the risk of errors in the firm’s financial accounting for income taxes and the risk of ineffective tax avoidance strategies. We initially investigate the relation between IT-related material weaknesses (MWs) and tax-related MWs and find that having an IT-related MW is associated with a higher probability of having a tax-related MW. We then examine whether the quality of a firm’s IT environment influences its tax avoidance effectiveness. In addition, we find firms that restate their financial statements are more likely to disclose IT-related and tax-related MWs in advance of the year they announce that they must restate. We also show that having an IT-related MW hinders tax avoidance and that firms having a CFO with IT expertise or receiving the Most Admired Knowledge Enterprise award are also positively associated with tax avoidance. Our results are consistent with the idea that when firms have higher quality IT environments, they are more likely to have more effective controls over the tax function and similarly their tax avoidance efforts are more effective.
+
+Keywords: Information technology, material weaknesses, accounting for income taxes, tax avoidance
+
+Suggested Citation:
+
+Chi, Sabrina and Pincus, Morton P.K. and Prentice, Jaclyn and Richardson, Vernon J., IT Environment Quality and Effectiveness of Controls Over the Tax Function and Income Tax Avoidance (July 10, 2015). Available at SSRN: https://ssrn.com/abstract=2640832 or http://dx.doi.org/10.2139/ssrn.2640832
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+1 Citations
+Patricia Navarro , Sean W.G. Robb , Steve G. Sutton , Martin Weisner
+The Cost Stickiness of Information Technology Material Weaknesses: An Intertemporal Comparison between IT-Related and Other Material Weaknesses
+52 Pages · Posted: 23 May 2018 · Downloads: 118
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+324
+ABSTRACT VIEWS
+2,113
+RANK
+213,115
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

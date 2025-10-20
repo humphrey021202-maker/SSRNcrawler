@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Governance Data and Measures Revisited
+
+Rock Center for Corporate Governance at Stanford University Working Paper No. 211
+
+Stanford University Graduate School of Business Research Paper No. 15-60
+
+59 Pages Posted: 24 Nov 2015
+
+David F. Larcker
+
+Stanford Graduate School of Business; Stanford University - Hoover Institution; European Corporate Governance Institute (ECGI)
+
+Peter C. Reiss
+
+Stanford Graduate School of Business; National Bureau of Economic Research (NBER)
+
+Youfei Xiao
+
+Duke University - Fuqua School of Business
+
+Date Written: November 1, 2015
+
+Abstract
+
+Researchers in accounting, corporate finance, economics, and law regularly evaluate the impact of corporate governance provisions on firm performance and managerial actions. Many of these studies rely on publicly available governance summaries developed by the Investor Responsibility Research Center (IRRC). These summaries have been coded and used in a variety of influential studies, including analyses that assess whether corporate governance practices impact shareholder value.
+
+This paper reexamines the coding of the IRRC summaries for the 1990s and early 2000s. We find that the IRRC coding and one commercial source of corporate governance data disagree significantly for several important governance indicators. Our own review of source documents uncovered measurement errors in the IRRC summaries, especially for golden parachutes and supermajority voting provisions.
+
+We also find that the IRRC’s definitions do not always clearly represent managerial entrenchment or the difficulty of a (hostile) takeover, as many researchers have assumed. To understand whether these issues matter for corporate governance research, we investigate the striking conclusion of prior work that finds that a hedge portfolio composed of a long (short) position in firms with few (many) anti-takeover provisions produces annual excess returns of six to twelve percent per annum from 1990 to 1999.
+
+We find that governance data corrected for errors and definitional concerns do not predict excess returns. We conclude researchers should exercise caution using IRRC data from this period, and that much more attention needs to be devoted to measuring corporate governance practices.
+
+Keywords: corporate governance provisions, antitakeover provisions, impact on shareholder value, Investor Responsibility Research Center (IRRC)
+
+JEL Classification: G30, G32, G34
+
+Suggested Citation:
+
+Larcker, David F. and Reiss, Peter C. and Xiao, Youfei, Corporate Governance Data and Measures Revisited (November 1, 2015). Rock Center for Corporate Governance at Stanford University Working Paper No. 211, Stanford University Graduate School of Business Research Paper No. 15-60, Available at SSRN: https://ssrn.com/abstract=2694802 or http://dx.doi.org/10.2139/ssrn.2694802
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+L Bebchuk , A Cohen , A Ferrell
+What Matters in Corporate Governance
+The Review of Financial Studies , volume 22 , issue 2 , p. 783 - 827 Posted: 2009
+Crossref
+L Bebchuk , A Cohen , C Wang
+Learning and the Disappearing Association Between Governance and Returns
+Journal of Financial Economics , volume 108 , issue 2 , p. 323 - 348 Posted: 2013
+Crossref
+L Bebchuk , J Coates , G Subramanian
+The Powerful Antitakeover Force of Staggered Boards: Further Findings and a Reply to Symposium Participants
+Stanford Law Review , volume 55 , p. 885 - 915 Posted: 2002
+Crossref
+J Bird
+Stockholder and Corporate Board Bylaw Battles: Delaware Law and the Ability of a Corporate Board to Change or Overrule Stockholder Bylaw Amendments
+University of Pennsylvania Journal of Business Law , volume 11 , issue 1 , p. 217 - 236 Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,033
+ABSTRACT VIEWS
+7,913
+RANK
+50,042
+7 Citations
+27 References
+PlumX Metrics
+Related eJournals
+
+Stanford Graduate School of Business Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

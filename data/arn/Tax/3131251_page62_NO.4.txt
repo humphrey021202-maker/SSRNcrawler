@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is There a Confidence Interval for That? A Critical Examination of Null Outcome Reporting in Accounting Research
+
+Behavioral Research in Accounting (2022) 34(1):43-72.
+
+62 Pages Posted: 4 Mar 2018 Last revised: 28 Aug 2022
+
+William M. Cready
+
+University of Texas at Dallas - Naveen Jindal School of Management
+
+Jiapeng He
+
+The Chinese University of Hong Kong (CUHK) - CUHK Business School
+
+Wenwei Lin
+
+Chinese University of Hong Kong, Shenzhen
+
+Chengdao Shao
+
+Xiamen University
+
+Di Wang
+
+University of Texas at Dallas, Naveen Jindal School of Management, Students
+
+Yang Zhang
+
+University of Texas at Dallas, Naveen Jindal School of Management, Students
+
+Date Written: January 19, 2022
+
+Abstract
+
+This study evaluates how accounting researchers analyze and report null outcomes based on a large sample examination of recent accounting research publications. As null outcomes reflect an inability to reject a null they, unlike rejections, do not lend themselves to specifically conclusive interpretations. Rather, drawing useful inference from them requires fundamental descriptive analysis. In the 35 articles we identify as presenting substantive null outcomes, however, inappropriately conclusive interpretations of these outcomes are widespread while scant attention is given to providing the descriptive analyses needed to draw useful insights from them. The analysis also proposes and illustrates the use of descriptive techniques in the form of confidence intervals as an appropriate approach for interpreting null outcomes.
+
+Keywords: Null Hypothesis, Null Outcome, Confidence Interval
+
+JEL Classification: B41, M40
+
+Suggested Citation:
+
+Cready, William M. and He, Jiapeng and Lin, Wenwei and Shao, Chengdao and Wang, Di and Zhang, Yang, Is There a Confidence Interval for That? A Critical Examination of Null Outcome Reporting in Accounting Research (January 19, 2022). Behavioral Research in Accounting (2022) 34(1):43-72., Available at SSRN: https://ssrn.com/abstract=3131251 or http://dx.doi.org/10.2139/ssrn.3131251
+Download This Paper
+ 
+Open PDF in Browser
+81 References
+C Aberson
+Interpreting null results: Improving presentation and conclusions with confidence intervals
+Journal of Articles in Support of the Null Hypothesis , volume 1 , issue 3 , p. 36 - 42 Posted: 2002
+D G Altman , J M Bland
+Absence of evidence is not evidence of absence
+British Medical Journal , volume 311 , issue 7003 Posted: 1995
+Longstanding mandate on corporate audit committees yields no benefit for investors, new research finds Posted: 2013
+A Amrhein , S Greenland , B Mcshane
+Scientists rise up against statistical significance
+Nature , volume 567 , issue 7748 , p. 305 - 307 Posted: 2019
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+798
+ABSTRACT VIEWS
+4,673
+RANK
+71,283
+12 Citations
+81 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

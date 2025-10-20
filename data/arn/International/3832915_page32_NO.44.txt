@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Reporting Quality and International Trade
+
+62 Pages Posted: 26 Apr 2021 Last revised: 27 Dec 2021
+
+Yuqing Zhou
+
+The Chinese University of Hong Kong (CUHK) - CUHK Business School
+
+Date Written: December 25, 2021
+
+Abstract
+
+This paper examines the effects of financial reporting quality on exports and imports. I begin by using survey data from executives to measure accounting quality and conduct country-sector-level analyses. I find that a one standard deviation increase in financial reporting quality in a country is associated with increases in manufacturing exports and imports of 3.6 percent and 4.5 percent, respectively. I then exploit a reporting regulation change in China and use administrative firm-level international trade data to conduct differences-in-differences and triple-difference analyses. These results show that treated firms export 15.3 percent more after the financial reporting reform. They also export to more countries and export more types of goods after the reform. Next, I provide evidence for potential mechanisms for these effects; specifically, improvements in financial reporting quality (i) facilitate communication among people of different cultures, (ii) decrease information asymmetry between trade partners, and (iii) help firms raise external capital. This paper extends understanding of the real economic effects of financial disclosure and provides a potential link between information transparency and global economic growth.
+
+Keywords: Financial Reporting Quality, International Trade, Information Asymmetry
+
+JEL Classification: G14; F65
+
+Suggested Citation:
+
+Zhou, Yuqing, Financial Reporting Quality and International Trade (December 25, 2021). Available at SSRN: https://ssrn.com/abstract=3832915 or http://dx.doi.org/10.2139/ssrn.3832915
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+C Armstrong , M Barth , A Jagolinzer , E Riedl
+Market Reaction to the Adoption of IFRS in Europe
+The Accounting Review , volume 85 , issue 1 , p. 31 - 61 Posted: 2010
+R Ball , R Bushman , F Vasvari
+The Debt-Contracting Value of Accounting Information and Loan Syndicate Structure
+Journal of Accounting Research , volume 46 , issue 2 , p. 247 - 288 Posted: 2008
+S Banerjee , S Dasgupta , Y Kim
+Buyer-supplier relationships and the stakeholder theory of capital structure
+Journal of Finance , volume 63 , p. 2507 - 2552 Posted: 2008
+C Botosan , C Botosan , M Plumlee
+A Re-Examination of Disclosure Level and the Expected Cost of Equity Capital
+Journal of Accounting Research , volume 72 , p. 21 - 40 Posted: 1997
+Load more
+2 Citations
+STEPHEN GLAESER , JAMES D. OMARTIAN
+Public Firm Presence, Financial Reporting, and the Decline of U.S. Manufacturing
+Journal of Accounting Research , volume 60 , issue 3 , p. 1085 Posted: 2022
+Crossref
+Lin Nan , Chao Tang
+Uniform Standards, Information Quality, and Capital Flows
+Forthcoming at European Accounting Review · 46 Pages · Posted: 7 Jul 2020 · Last revised: 25 Apr 2023 · Downloads: 98
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+372
+ABSTRACT VIEWS
+1,908
+RANK
+183,013
+2 Citations
+62 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

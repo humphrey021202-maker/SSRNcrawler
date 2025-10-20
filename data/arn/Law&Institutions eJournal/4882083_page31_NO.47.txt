@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Commercial Property Taxes Affect Business Microlocation Decisions?
+
+58 Pages Posted: 10 Jul 2024 Last revised: 25 Apr 2025
+
+Brayden D. Bulloch
+
+University of Wisconsin-Madison
+
+Fabio B. Gaertner
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Jeffrey L. Hoopes
+
+University of North Carolina (UNC) at Chapel Hill - Accounting Area
+
+Date Written: April 25, 2025
+
+Abstract
+
+We examine how commercial property taxes influence business microlocation decisions by analyzing establishment-level data across U.S. county borders. Using a spatial discontinuity design and comparing for-profit to non-profit establishments, we document economically significant tax-induced location patterns. Specifically, we examine where within counties businesses choose to locate (the microlocation decision). Businesses strategically concentrate within 1 km of borders on the low-tax side while being drawn from up to 4-10 km away on the high-tax side. We observe a 6–7 (5–6) percent relocation effect in border areas with tax differentials in the top decile (quartile) over a 10 km band. Parametric analysis using polynomial estimates of counterfactual geographic distributions confirms our findings. This effect is attenuated by customer foot traffic dependence, with low-foot-traffic establishments being twice as responsive to tax differentials. Survey evidence from U.S. mayors corroborates these findings.
+
+Keywords: property tax planning, business location decisions, cross-border tax effects JEL Classification: H25, tax avoidance, corporate tax planning, state and local taxes
+
+Suggested Citation:
+
+Bulloch, Brayden and Gaertner, Fabio B. and Hoopes, Jeffrey L., Do Commercial Property Taxes Affect Business Microlocation Decisions? (April 25, 2025). Available at SSRN: https://ssrn.com/abstract=4882083 or http://dx.doi.org/10.2139/ssrn.4882083
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+K Andries , J Gallemore , M Jacob
+The effect of corporate taxation on bank transparency: Evidence from loan loss provisions
+Journal of Accounting and Economics , volume 63 , issue 2 , p. 307 - 328 Posted: 2017
+T J Bartik
+Business Location Decisions in the United States: Estimates of the Effects of Unionization, Taxes, and Other Characteristics of States
+Journal of Business & Economic Statistics , volume 3 , issue 1 , p. 14 - 22 Posted: 1985
+D E Black
+The Incidence of Differential Property Taxes on Urban Housing: Some Further Evidence: Abstract , volume 27 , p. 367 - 369 Posted: 1974
+D Bunn , C P Weigel
+Sources of U.S. Tax Revenue by Tax Type, 2023 Update Posted: 2023
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+149
+ABSTRACT VIEWS
+811
+RANK
+451,432
+58 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

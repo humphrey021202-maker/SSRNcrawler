@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Exploring the Boundaries of Financial Statement Fraud Detection with Large Language Models
+
+28 Pages Posted: 15 Jul 2024
+
+Georgia Boskou
+
+affiliation not provided to SSRN
+
+Evrikleia Chatzipetrou
+
+affiliation not provided to SSRN
+
+Eleftherios Tiakas
+
+affiliation not provided to SSRN
+
+Efstathios Kirkos
+
+International Hellenic University (IHU)
+
+Charalambos Spathis
+
+Aristotle University of Thessaloniki - Department of Economics
+
+There are 3 versions of this paper
+
+Abstract
+
+Financial statement fraud is a significant concern in today's world, representing the most financially destructive form of occupational fraud. It negatively impacts a wide array of stakeholders, including the organization itself, its investors, creditors, suppliers, employees, and the general public. Given its critical importance, this issue has been a focal point of scholarly research over the past decades. Previous studies have utilized a diverse array of statistical, machine learning, and deep learning techniques to analyze both arithmetic and textual data. However, the use of Large Language Models (LLMs) for detecting financial statement fraud remains largely unexplored. Recent scholarly work underscores the potential of LLMs in various linguistic analyses and auditing tasks. In this study, we examine the ability of an LLM, specifically ChatGPT-4, to identify fraudulent financial statements by analyzing text segments extracted from annual reports. We focus particularly on the CEO’s letters to shareholders and sections discussing the company’s risk exposures. Rather than employing complex fine-tuning, we utilize prompt engineering techniques, that can be easily implemented by auditors without machine learning expertise. The findings are promising, demonstrating the potential of LLMs to uncover financial statement falsifications. By incorporating human feedback into the model’s classification results, we achieved a performance score of 67% across sensitivity, specificity, and F-Measure metrics. With the ongoing growth in model size and capabilities, coupled with active research in prompt engineering, we anticipate further improvements in performance shortly. This research could prove invaluable to auditors, lenders, investors, and regulatory bodies.
+
+Keywords: Financial Statement Fraud, Large Language Models, Prompt Engineering, Auditing
+
+Suggested Citation:
+
+Boskou, Georgia and Chatzipetrou, Evrikleia and Tiakas, Eleftherios and Kirkos, Efstathios and Spathis, Charalambos, Exploring the Boundaries of Financial Statement Fraud Detection with Large Language Models. Available at SSRN: https://ssrn.com/abstract=4895081 or http://dx.doi.org/10.2139/ssrn.4895081
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+M A K Achakzai , J Peng
+Detecting financial statement fraud using dynamic ensemble machine learning
+International Review of Financial Analysis (Online)/International Review of Financial Analysis , volume 89 Posted: 2020
+M N Ashtiani , B Raahemi
+Intelligent Fraud Detection in Financial Statements Using Machine learning and Data Mining: A Systematic Literature review
+IEEE Access , volume 10 , p. 72504 - 72525 Posted: 2022
+M S Beasley
+An empirical analysis of the relation between the board of director composition and financial statement fraud
+Accounting Review , volume 71 , issue 4 , p. 443 - 465 Posted: 1996
+M S Beasley , J V Carcello , D R Hermanson , P D Lapides
+Fraudulent Financial Reporting: consideration of industry traits and corporate governance mechanisms
+Accounting Horizons , volume 14 , issue 4 , p. 441 - 454 Posted: 2000
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+74
+ABSTRACT VIEWS
+705
+RANK
+63,456
+55 References
+PlumX Metrics
+Related eJournals
+
+Corporate Governance & Accounting eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

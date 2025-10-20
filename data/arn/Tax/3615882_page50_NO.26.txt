@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Estimating the Likelihood of Future Tax Settlements
+
+55 Pages Posted: 10 Jun 2020 Last revised: 8 Jan 2024
+
+Jared N. Jennings
+
+Washington University in St. Louis
+
+Joshua A. Lee
+
+Brigham Young University
+
+Erin Towery
+
+University of Georgia
+
+Date Written: June 1, 2020
+
+Abstract
+
+Corporate income tax settlements represent a substantial cash outflow for many U.S. firms. This study develops an ex-ante measure of future corporate income tax settlement likelihood using quantitative and qualitative information from Form 10-K. We find that both quantitative and qualitative information are incrementally useful in predicting future tax settlements. We then use our new measure to examine the association between predicted future tax settlements and cash holdings. In contrast with prior research documenting a positive association between reserves for uncertain tax positions and cash holdings, we find that firms with a higher likelihood of future tax settlements hold less cash than firms with a lower likelihood of future tax settlements. Taken together, our study provides an ex-ante measure of tax settlement likelihood that can be used by future researchers, and our findings suggest a more nuanced relation between tax uncertainty and cash holdings.
+
+Keywords: Tax settlements, machine learning, textual analysis, tax uncertainty, cash holdings
+
+JEL Classification: H20, H25, H26, M40, M41
+
+Suggested Citation:
+
+Jennings, Jared N. and Lee, Joshua A. and Towery, Erin, Estimating the Likelihood of Future Tax Settlements (June 1, 2020). Available at SSRN: https://ssrn.com/abstract=3615882 or http://dx.doi.org/10.2139/ssrn.3615882
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+Dtl Dta
+NOL, permanently reinvest, permanently reinvested, permanently reinvests, permanently reinvesting, indefinitely reinvest, indefinitely reinvested, indefinitely reinvests, indefinitely reinvesting, internal revenue, valuation allowance, carryforward, or carryforwards
+Tetlock , Macskassy Saar-Tsechansky
+We note that machine learning methods are not the only methods used in textual analysis
+Tone Posted: 2008
+Li Kothari , Short
+Posted: 2009
+Feldman
+Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+210
+ABSTRACT VIEWS
+1,438
+RANK
+331,643
+1 Citations
+45 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

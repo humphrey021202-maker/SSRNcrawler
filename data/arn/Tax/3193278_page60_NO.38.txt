@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The International Provisions of the TCJA: A Preliminary Summary and Assessment
+
+U of Michigan Public Law Research Paper No. 605
+
+8 Pages Posted: 23 Jun 2018 Last revised: 28 Jun 2018
+
+Reuven S. Avi-Yonah
+
+University of Michigan Law School
+
+Date Written: December 23, 2017
+
+Abstract
+
+The Tax Cuts and Jobs Act (TCJA), as passed by Congress and signed into law on December 22, 2017, represents the most far reaching reform of the US international tax rules since Subpart F was enacted in 1962. Most importantly, TCJA for the first time since the income tax was enacted in 1913 changes the rule that US resident taxpayers have to pay tax on all income “from whatever source derived” (US Constitution, Amendment XVI; IRC section 61). Under the TCJA, dividends paid to US corporate parents from non-Subpart F income of their foreign subsidiaries are exempt from US tax. That remains true even if the dividend was not subject to a withholding tax at source and was paid out of earnings that were not subject to foreign tax in the country where the subsidiary is incorporated.
+
+This “participation exemption” is similar to the tax rules of our main trading partners in Europe and Asia. On the face of it, the participation exemption represents a glaring deviation from the “single tax principle”, which in our opinion underlies the international tax regime. The single tax principle states that all income should be subject to tax once, at the residence country rate if it is passive income and at the average source country rate if it is active income. The participation exemption violates this principle because it exempts dividends from residence taxation even if they were not taxed at source.
+
+But the violation is less blatant than it appears. First, the participation exemption only applies to 10% corporate shareholders. Portfolio US investors still are taxed on foreign source dividends. Moreover, when the US parent distributes a dividend to its taxable US shareholders or buys back their shares, the distribution is fully taxable at the dividend/capital gains rate of 23.8%.
+
+Second, in conjunction with adopting the participation exemption, TCJA significantly strengthened Subpart F. Specifically, IRC section 951A now currently taxes US parents of controlled foreign corporations (CFCs) on their “global intangible low-taxed income”, or GILTI, at a 10.5% rate. GILTI is defined broadly as any income that exceeds a 10% return on the CFCs’ basis in their tangible assets (the “hurdle rate”), with a credit for foreign taxes. Thus, the US parents of CFCs are effectively subject to a minimum tax of 10.5% on their offshore earnings that exceeds the hurdle rate. The tax on GILTI is consistent with the single tax principle because contrary to pre-TCJA law it ensures that offshore earnings that exceed the hurdle rate are taxed at 10.5%, and that a residence-based tax applies to those earnings to the extent they are not taxed at source.
+
+Third, there is a new anti-base erosion anti-abuse tax (BEAT) imposed at 10% on deductible payments made by US corporations to their foreign affiliates (which can be foreign parents or CFCs). The BEAT upholds the single tax principle because it imposes tax at source under circumstances where they may not be a tax at residence.
+
+Because of these and other provisions of the TCJA, it can actually be seen as more consistent with the single tax principle than previous law. On the outbound front, prior law permitted US-based multinationals to accumulate over $3 trillion in low tax jurisdictions offshore without current US or foreign tax, which was a blatant violation of the single tax principle. On the inbound front, prior law only had a weak limit of interest deductions to foreign related parties, so that massive earnings stripping out of the US could occur.
+
+The following sections describe first the relevant inbound provisions of TCJA and then the outbound provisions. They conclude with an overview of the likely impact of the TCJA on the international tax regime.
+
+Keywords: tax reform
+
+JEL Classification: H26
+
+Suggested Citation:
+
+Avi-Yonah, Reuven S., The International Provisions of the TCJA: A Preliminary Summary and Assessment (December 23, 2017). U of Michigan Public Law Research Paper No. 605, Available at SSRN: https://ssrn.com/abstract=3193278 or http://dx.doi.org/10.2139/ssrn.3193278
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+631
+ABSTRACT VIEWS
+3,251
+RANK
+96,735
+PlumX Metrics
+Related eJournals
+
+University of Michigan Law School, Public Law & Legal Theory Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

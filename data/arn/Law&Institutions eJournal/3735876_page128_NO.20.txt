@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Corporate Governance and Earnings Management – Evidence from Shareholder Proposals
+
+Contemporary Accounting Research, Forthcoming
+
+Posted: 11 Dec 2020
+
+Zhongwen Fan
+
+City University of Hong Kong (CityU)
+
+Suresh Radhakrishnan
+
+JSOM, University of Texas at Dallas
+
+Yuan Zhang
+
+University of Texas at Dallas
+
+Date Written: August 11, 2020
+
+Abstract
+
+We examine the causal effects of corporate governance on earnings management using shareholder-sponsored proposals that pass or fail by a small margin of votes in annual shareholder meetings. This setting provides a causal estimate that overcomes concerns of endogeneity. Specifically, compared with firms whose shareholder proposals fall just short of a majority threshold, firms whose shareholder proposals narrowly pass have similar characteristics but a discretely higher likelihood of implementing improvements in governance (Ertimur et al. 2010; Cuñat et al. 2012). As such, we expect firms whose shareholder proposals pass the threshold by a small margin exhibit a significantly lower level of earnings management. Employing a regression discontinuity design, we find results that support our expectation based on the propensity to just meet or beat analysts’ forecasts by one cent as a proxy for earnings management. In addition, we show that the results are driven by governance changes that increase directors’ monitoring. Our results are robust to using discretionary accruals as an alternative measure of earnings management. Collectively, the results suggest that improvements in corporate governance curtail earnings management, and support the underlying premise of regulators that improvements in corporate governance would improve financial reporting.
+
+Keywords: shareholder activism, corporate governance, earnings management, shareholder proposals
+
+Suggested Citation:
+
+Fan, Zhongwen and Radhakrishnan, Suresh and Zhang, Yuan, Corporate Governance and Earnings Management – Evidence from Shareholder Proposals (August 11, 2020). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3735876
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+859
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

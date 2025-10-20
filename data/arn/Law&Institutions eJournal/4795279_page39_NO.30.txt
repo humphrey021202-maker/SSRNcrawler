@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Ownership at OpenAI: From the Perspective of Enterprise Foundation Governance
+
+55 Pages Posted: 18 Apr 2024
+
+Frederik Hovmark Pedersen
+
+Copenhagen Business School
+
+Date Written: April 15, 2024
+
+Abstract
+
+In November 2023, the Board of Directors of OpenAI fired its popular CEO, Sam Altman, because it had lost confidence in him, and concluded that he was hindering the board’s ability to properly exercise its duties. The decision outraged employees and investors, including Microsoft which has a $13bn investment in OpenAI, and ignited a brief governance crisis. After mounting pressure from these key stakeholders, the crisis ended with Sam Altman returning as CEO and most board members resigning. The turmoil brought the importance and impacts of corporate governance to the attention of business and startup communities alike, and drew attention to OpenAI’s somewhat unusual governance structure: a self-owning and self-governing non-profit organisation controlling a for-profit company, where investors have a contractual claim on a portion of the profits but no formal control, and the ultimate decision-making authority is the board of the non-profit, which appoints and removes itself, has no personal financial interest, and has a fiduciary obligation to the non-profits mission of building general-purpose artificial intelligence that safely benefits humanity. OpenAI’s structure resembles the ownership found at enterprise foundations, and the case thus provides an interesting opportunity to study this relatively rare type of organisational control. This case therefore seeks to understand the corporate governance at OpenAI and the turmoil in November 2023, to deduct what other companies and boards can learn from it. The case shows that although corporate governance of OpenAI has been intentionally designed to advance the mission and protect this from financial obligations, in particular the short-term interests of investors, de facto control resides with Microsoft, undermining the formal governance structure. The case demonstrates that foundation-like ownership can under certain extreme circumstances be vulnerable, and might not be a good fit for a startup like OpenAI with significant capital requirements and enormous commercial potential.
+
+Keywords: OpenAI, corporate governance, nonprofit ownership, enterprise foundation
+
+Suggested Citation:
+
+Pedersen, Frederik Hovmark, Ownership at OpenAI: From the Perspective of Enterprise Foundation Governance (April 15, 2024). Available at SSRN: https://ssrn.com/abstract=4795279 or http://dx.doi.org/10.2139/ssrn.4795279
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+REFERENCES About
+E P Aprill , R C Loui , J R Horwitz
+Board Control of a Charity's Subsidiaries: The Saga of OpenA
+Los Angeles Legal Studies Research , volume 182 Posted: 2024
+Anthropic's CEO says why he quit his job at OpenAI
+Does OpenAI's Non-Profit Ownership Structure Actually Matter? Forbes Posted: 2023
+D Barts
+Microsoft says it does not own any portion of OpenAI Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+732
+ABSTRACT VIEWS
+19,839
+RANK
+79,911
+1 Citations
+67 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

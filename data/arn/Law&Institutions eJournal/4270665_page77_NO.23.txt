@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Payments Under the Table: Employer-Employee Collusion in Brazil
+
+102 Pages Posted: 15 Nov 2022 Last revised: 6 Nov 2024
+
+Javier Feinmann
+
+University of California, Berkeley - Department of Economics
+
+Roberto Hsu Rocha
+
+University of California, Berkeley, College of Letters & Science, Department of Economics
+
+Maximiliano Lauletta
+
+University of California, Berkeley - Department of Economics
+
+Date Written: November 7, 2022
+
+Abstract
+
+We study formal workers who receive part of their salary off-the-books, which we refer to as "payments under the table" (PUT). First, we report results from an original representative survey of formal sector workers in Brazil to document novel empirical facts about the scope and economic significance of PUTs. A quarter of formal employees admit to receiving PUTs for about 20% of their wages, with higher-wage workers under-reporting a larger share of their income. Conservative estimates imply that PUTs generate significant revenue losses for the government, totaling at least 4.7% of labor income taxes and 2.3% of social security contributions. Second, guided by a Nash Bargaining framework, we study how employers' and employees' incentives shape collusive PUT. On the employer side, we leverage novel data on PUT-related labor lawsuits matched to employer-employee records to show that employers increase the reported wages of other employees by 1% in response to a PUT-related lawsuit. The mechanisms are consistent with an increase in employers' perception of risk, and the effects are modest relative to a full-compliance benchmark. On the employee side, we study the ceiling in the social security system, which breaks the link between wage reporting and pension benefits. We show bunching evidence revealing that employers collusively adjust PUTs to report employees' wages up to the ceiling. Overall, these findings challenge existing assumptions about the effectiveness of third-party reporting in developing countries and suggest the need for new policy tools to improve the efficiency and fairness of tax systems.
+
+Keywords: Payments Under the Table, Collusion, Tax Evasion, Informality
+
+JEL Classification: H26, O17, J46
+
+Suggested Citation:
+
+Feinmann, Javier and Hsu Rocha, Roberto and Lauletta, Maximiliano, Payments Under the Table: Employer-Employee Collusion in Brazil (November 7, 2022). Available at SSRN: https://ssrn.com/abstract=4270665 or http://dx.doi.org/10.2139/ssrn.4270665
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+Annette Alstadsaeter , Martin Jacob
+Dividend taxes and income shifting
+The Scandinavian Journal of Economics , volume 118 , issue 4 , p. 693 - 717 Posted: 2016
+Facundo Alvaredo , Thomas Breda , Barra Roantree , Emmanuel Saez
+Contribution ceilings and the incidence of payroll taxes
+De Economist , volume 165 , issue 2 , p. 129 - 140 Posted: 2017
+Nikolaos Artavanis , Adair Morse , Tsoutsoura
+Measuring income tax evasion using bank credit: Evidence from greece
+The Quarterly Journal of Economics , volume 131 , issue 2 , p. 739 - 798 Posted: 2016
+Pierre Bachas , Lucie Gadenne , Anders Jensen
+Informality, consumption taxes, and redistribution Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+615
+ABSTRACT VIEWS
+2,144
+RANK
+99,960
+1 Citations
+53 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Macroeconomics: Employment, Income & Informal Economy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

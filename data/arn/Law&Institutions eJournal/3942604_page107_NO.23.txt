@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Purchase - $6.25
+ Add Paper to My Library
+Share:    
+Option Greeks, Insider Trading, and the Heinz Acquisition
+
+Darden Case No. UVA-F-1978
+
+11 Pages Posted: 21 Oct 2021 Last revised: 18 Feb 2022
+
+Davide Tomio
+
+Texas A&M University - Department of Finance
+
+Patrick Augustin
+
+McGill University; McGill University, Desautels Faculty of Management
+
+Menachem Brenner
+
+New York University (NYU) - Department of Finance
+
+Marti G. Subrahmanyam
+
+New York University (NYU) - Leonard N. Stern School of Business; NYU Shanghai
+
+Abstract
+
+Just before Warren Buffett's company, Berkshire Hathaway Inc, acquired H. J. Heinz Company on February 14, 2013, rumors had been circulating that the Omaha investing oracle had set eyes on the condiment giant. By the time the official acquisition was announced, questions had arisen about some unusual trading activity in financial markets. A very profitable trade was made on the option market just a few days before the announcement: a $90,000 trade that resulted in profits of around $1.8 million. The case puts students in the shoes of a fictional SEC analyst in charge of investigating rumors of insider trading in the context of Berkshire Hathaway's acquisition of Heinz. Which market would an informed investor with limited capital choose? Which option contract would the insider choose, and why? The case allows the instructor to introduce option “Greeks,” measures of sensitivity of option contracts to underlying risk factors. The Greeks are presented in an intuitive fashion, and the analysis provides an applied, true-to-life setting to a topic that students often consider very abstract.
+
+Excerpt
+
+Rev. Feb. 7, 2022
+
+Option Greeks, Insider Trading, and the Heinz Acquisition
+
+Just before Warren Buffett's company, Berkshire Hathaway Inc (Berkshire Hathaway), acquired H. J. Heinz Company (Heinz) on February 14, 2013, rumors had been circulating that the Omaha investing oracle had set eyes on the condiment giant. By the time of the official acquisition announcement, questions had arisen about some unusual trading activity in financial markets.
+
+Ana Barre was one of the people who suspected that there might be something unusual going on. She had received a tip that illicit trading might have taken place in the option market surrounding the Berkshire Hathaway–Heinz acquisition. She was an analyst with the US Securities and Exchange Commission (SEC) Market Abuse Unit team, so it was her duty to investigate. With years of experience, however, Barre was never quick to declare illegal gains without overwhelming evidence. She knew there were countless perfectly legitimate investment strategies that could explain the bets that investors had made. Investors routinely employed trading strategies that combined stock and options to create payoffs that precisely fit their investment theses. Derivatives markets also allowed them to take a lot more risk and make more of a return, thanks to the leverage naturally embedded in derivative contracts.
+
+. . .
+
+Keywords: options, Greeks, insider trading, Berkshire Hathaway, 3G Capital, Warren Buffett, Heinz, M&A, mergers and acquisitions, SEC, derivative contract, derivatives, takeover, stock, put-call, arbitrage, Black-Scholes, option pricing, Terpins
+
+Suggested Citation:
+
+Tomio, Davide and Augustin, Patrick and Brenner, Menachem and Subrahmanyam, Marti G., Option Greeks, Insider Trading, and the Heinz Acquisition. Darden Case No. UVA-F-1978, Available at SSRN: https://ssrn.com/abstract=3942604
+Purchase - $6.25
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+17
+ABSTRACT VIEWS
+1,368
+PlumX Metrics
+Related eJournals
+
+Darden Case Collection
+
+Follow
+
+Finance Education eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

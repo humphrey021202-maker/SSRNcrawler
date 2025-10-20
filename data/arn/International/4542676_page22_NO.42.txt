@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Lost in the FOG: Growing Complexity in Financial Reporting – A Comparative Study
+
+39 Pages Posted: 21 Aug 2023 Last revised: 26 Oct 2024
+
+Danny Lesmy
+
+Hebrew University of Jerusalem - Jerusalem School of Business Administration
+
+Lev Muchnik
+
+Hebrew University of Jerusalem - Jerusalem School of Business Administration
+
+Yevgeny Mugerman
+
+Bar Ilan University
+
+Date Written: October 25, 2024
+
+Abstract
+
+This study investigates the evolving readability of financial reporting by analyzing Item 7 of the 10-K reports over a 26-year period, utilizing a dataset of nearly 200,000 reports retrieved from SEC EDGAR filings. Our analysis reveals a significant decline in the readability of these reports over time, measured using the Fog Index. Specifically, we find that the number of years of schooling required to comprehend these texts increases by nearly one month each year, indicating a growing inaccessibility of financial reports for a substantial portion of the population. To contextualize these findings, we extend our analysis to include data from diverse financial corpora, encompassing almost 10 million documents. While most financial texts have shown a systematic increase in readability over the past decades, the Wall Street Journal emerges as a notable exception, exhibiting a moderate decline in readability—though at a much slower rate compared to Item 7. This study highlights the widening gap in financial text accessibility and underscores the need for more readable financial reporting.
+
+Keywords: Readability, Financial Reporting, Item 7, 10-K, Fog Index, NLP, Plain English, BloombergGPT
+
+JEL Classification: G10, G14
+
+Suggested Citation:
+
+Lesmy, Danny and Muchnik, Lev and Mugerman, Yevgeny, Lost in the FOG: Growing Complexity in Financial Reporting – A Comparative Study (October 25, 2024). Available at SSRN: https://ssrn.com/abstract=4542676 or http://dx.doi.org/10.2139/ssrn.4542676
+Download This Paper
+ 
+Open PDF in Browser
+56 References
+A S Abu Bakar , R Ameer
+Readability of Corporate Social Responsibility Communication in Malaysia
+Corporate Social Responsibility and Environmental Management , volume 18 , issue 1 , p. 50 - 60 Posted: 2011
+M Abudy , Shust E
+What Happens to Trading Volume When the Regulator Bans Voluntary Disclosure?
+European accounting Review , volume 29 , issue 3 , p. 555 - 580 Posted: 2020
+G Biddle , G Hilary , R Verdi
+How Does Financial Reporting Quality Relate to Investment Efficiency?
+Journal of Accounting and Economics , volume 48 , p. 112 - 131 Posted: 2009
+R J Bloomfield
+The "Incomplete Revelation Hypothesis" and Financial Reporting. Accounting Horizons , volume 16 , p. 233 - 243 Posted: 2002
+Load more
+1 Citations
+Ľubomír Benko , Anna Pilkova , Michal Munk , Slavka Eley
+Pillar 3: The impact of language complexity on the preferences of commercial bank website users
+Expert Systems with Applications , volume 259 , p. 125326 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+167
+ABSTRACT VIEWS
+1,155
+RANK
+409,562
+1 Citations
+56 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

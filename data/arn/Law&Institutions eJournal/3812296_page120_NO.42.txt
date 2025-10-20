@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Board Composition and Workplace Diversity: A Machine Learning Approach
+
+35 Pages Posted: 29 Mar 2021
+
+Mikko Ranta
+
+University of Vaasa
+
+Mika Ylinen
+
+University of Vaasa
+
+Date Written: March 25, 2021
+
+Abstract
+
+We examine the predictive value of board gender diversity on workplace diversity and the relative importance of various board and firm characteristics in predicting diversity. With a novel machine learning approach, we measure three workplace diversity variables using a social media data set of approximately 250,000 employee reviews. Our results show that board composition is an important predictor of workplace diversity, and board gender diversity is the most important predictor of the gender equality and inclusiveness dimensions of corporate diversity culture. However, board gender diversity is not found to have significance in predicting age diversity in a company, and overall, firm characteristics are found to be more critical in explaining age diversity. Furthermore, we find that workplace diversity is an important predictor of firm value, indicating a possible channel on how board gender diversity affects firm performance.
+
+Keywords: Corporate governance, Board gender diversity, Machine learning, Workplace diversity
+
+JEL Classification: M14, G30, G32
+
+Suggested Citation:
+
+Ranta, Mikko and Ylinen, Mika, Board Composition and Workplace Diversity: A Machine Learning Approach (March 25, 2021). Available at SSRN: https://ssrn.com/abstract=3812296 or http://dx.doi.org/10.2139/ssrn.3812296
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+F Kunze , S A Boehm , H Bruch
+Age diversity, age discrimination climate and performance consequences-A cross organizational study
+Journal of Organizational Behavior , volume 32 , issue 2 , p. 264 - 290 Posted: 2011
+Crossref
+S R Levine
+Diversity confirmed to boost innovation and financial results Posted: 2020
+C Liu , Y Chan , S H A Kazmi , H Fu
+Financial fraud detection model: Based on random forest
+International Journal of Economics and Finance , volume 7 , issue 7 Posted: 2015
+Crossref
+S M Lundberg , G Erion , H Chen , A Degrave , J M Prutkin , B Nair , R Katz , J Himmelfarb , N Bansal , S.-I Lee
+From local explanations to global understanding with explainable AI for trees
+Nature Machine Intelligence , volume 2 , issue 1 , p. 56 - 67 Posted: 2020
+Crossref
+Load more
+3 Citations
+Tristan Lim
+Environmental, social, and governance (ESG) and artificial intelligence in finance: State-of-the-art and research takeaways
+Artificial Intelligence Review , volume 57 , issue 4 Posted: 2024
+Crossref
+Mikko Ranta , Mika Ylinen , Marko Järvenpää
+Machine Learning in Management Accounting Research: Literature Review and Pathways for the Future
+European Accounting Review , volume 32 , issue 3 , p. 607 Posted: 2023
+Crossref
+Mika Ylinen , Mikko Ranta
+Employee-Friendly Corporate Culture and Firm Performance: Evidence from a Machine Learning Approach
+56 Pages · Posted: 29 Mar 2021 · Last revised: 16 Apr 2021 · Downloads: 694
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+302
+ABSTRACT VIEWS
+1,568
+RANK
+229,982
+3 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

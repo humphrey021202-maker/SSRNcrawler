@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Ownership Structure, Incentives, and Asset Returns
+
+Management Science 70 (1), 589--615.
+
+83 Pages Posted: 17 Jun 2022 Last revised: 24 Jan 2024
+
+Hae Won (Henny) Jung
+
+University of Melbourne - Department of Finance; Financial Research Network (FIRN)
+
+Ajay Subramanian
+
+Georgia State University
+
+Qi Zeng
+
+University of Melbourne - Department of Finance; Financial Research Network (FIRN)
+
+Date Written: January 23, 2024
+
+Abstract
+
+We develop a dynamic equilibrium model to derive the endogenous relations among firms' ownership structures, managerial incentives and asset returns. Ownership concentration is positively related to managerial incentives (PPS), but is negatively related to its expected stock (dollar) return and volatility. If initial block ownership is above (below) its steady-state level, block ownership and managerial PPS decrease (increase) over time to their steady-state levels, while the expected stock returns, return volatilities, and the price impacts of block trades increase (decrease). The convergence of these variables to their respective steady-state levels is faster for firms that are less productive, that are riskier, and whose earnings are more sensitive to managerial actions. The price impact of block trades is larger in firms that are more productive and smaller in firms whose earnings are more sensitive to managerial actions. Changes in the expected stock return over time are negatively affected by changes in block ownership, but positively affected by changes in managerial incentives. Relative to owner-managed firms, more widely owned firms have lower expected stock returns and volatilities, faster dispersion of block ownership, and smaller but more variable price impacts of block trades. Compared to diffusely owned firms, firms with significant blockholdings have lower expected stock returns, higher return volatilities, and less powerful managerial incentives.
+
+Keywords: Large Shareholders, Managerial Incentives, Asset Returns, Corporate Governance
+
+JEL Classification: G12, G14, G32, D82, D86
+
+Suggested Citation:
+
+Jung, Hae Won (Henny) and Subramanian, Ajay and Zeng, Qi, Ownership Structure, Incentives, and Asset Returns (January 23, 2024). Management Science 70 (1), 589--615., Available at SSRN: https://ssrn.com/abstract=4134617
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+A R Admati , P Pfleiderer , J Zechner
+Large Shareholder Activism, Risk Sharing, and Financial Market Equilibrium
+Journal of Political Economy , volume 102 , p. 1097 - 1130 Posted: 1994
+A Almazan , J C Hartzell , L T Starks
+Active Institutional Shareholders and Costs of Monitoring: Evidence from Executive Compensation
+Financial Management , volume 34 , p. 5 - 34 Posted: 2005
+R Almgren , N Chriss
+Optimal Execution of Portfolio Transactions
+Journal of Risk , volume 3 , p. 5 - 39 Posted: 2000
+G A Baghdadi , I M Bhatti , L H G Nguyen , E J Podolski
+Skill or Effort? Institutional Ownership and Managerial Efficiency
+Journal of Banking and Finance , volume 91 , p. 19 - 33 Posted: 2018
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+179
+ABSTRACT VIEWS
+1,032
+RANK
+384,900
+53 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

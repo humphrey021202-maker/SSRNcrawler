@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Unprotected Investors Between Brokers' Unethical Conduct and Corporations' Hidden Misuse of Continuing Accounting Issues: A Prediction for no Investors' Conservatism
+
+27 Pages Posted: 6 Jan 2025
+
+Tamer Aly ElNashar
+
+The American University in Cairo
+
+Date Written: December 08, 2024
+
+Abstract
+
+I present in this paper my view regarding the expected decision by the unprotected investor (Investor), which is likely to be of no conservatism, while facing possible unethical conduct by brokers, and while facing possible corporations' misuse of accounting issues. This paper predicts, using a game theory, the decision of investors as player (A), and brokers and corporations, as two players (B) in two games (1) and (2), regarding the investment decision in the financial markets. I use a mathematical approach in the game theory and linear programming solved by a simplex algorithm, the approach is based on the motives of unethical conducts and actions to be taken by brokers, and also based on the motive for corporations to misuse the accounting issues to attract investors to invest in the financial markets. The unethical motives variables are the inputs to the mathematical approach, where I assign weights for the importance of each variable of the motives in a payoff matrix that affects the game between the investor and both the broker and the corporation. The mathematical results of the game show that investors' best decision is to invest in the financial markets, whereas, hypothesis H1 of this paper is verified, where investors decide to invest in the financial market regardless of such unethical actions taken by brokers and corporations. Therefore, the paper's results are significant for showing that the economic recessions and lack of new ideas for investments in products and services are likely to push investors to take the risk of investing in the financial market, and undermine the conservatism, even though the likelihood of unethical actions taken by brokers and corporations are highly expected. This paper encourages future research to follow up on how regulators will prevent or limit the unethical actions conducted by both the brokers and the corporations, and how investors can found new businesses for investing their money away from the financial markets, particularly when the unethical conducts evolve in the financial markets as a result of the economic recessions and lack of opportunities to manufacture and provide new services and ideas to the customers. Future research can replicate my study as to investigate in the future how economies will drive investors to investment opportunities of manufacturing and providing services, hence, brokers and corporations may limit their unethical actions and instead provide relevant and faithful or reliable information to the investors as a consequence of economies booming.
+
+Keywords: Unprotected investors, brokers unethical actions, corporations misuse of accounting issues, investors conservatism
+
+Suggested Citation:
+
+ElNashar, Tamer Aly, Unprotected Investors Between Brokers' Unethical Conduct and Corporations' Hidden Misuse of Continuing Accounting Issues: A Prediction for no Investors' Conservatism (December 08, 2024). Available at SSRN: https://ssrn.com/abstract=5048304 or http://dx.doi.org/10.2139/ssrn.5048304
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+T G Aarat , S Narang , A Saran
+Ethical issues in the stock market Posted: 2016
+J J Angel , D Mccabe
+Ethical standards for stockbrokers: Fiduciary or suitability?
+Journal of Business Ethics , volume 115 , p. 183 - 193 Posted: 2013
+A M Game , A Gregoriou
+Do brokers act in the best interests of their clients? New evidence from electronic trading systems
+Business Ethics: A European Review , volume 25 , p. 187 - 197 Posted: 2014
+B Hannibal
+Relationships of collapse: network brokerage, opportunism and fraud in financial markets
+International Journal of Social Economics , volume 44 Posted: 2017
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+19
+ABSTRACT VIEWS
+405
+15 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

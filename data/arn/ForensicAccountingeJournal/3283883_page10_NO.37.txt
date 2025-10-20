@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fraud-Perception, Superegos, and Cultural Spread of Unethical Behaviour: Theory and Evidence from Enron
+
+37 Pages Posted: 7 Dec 2018
+
+Richard J. Fairchild
+
+University of Bath - School of Management
+
+Oliver Marnet
+
+University of Southampton
+
+Date Written: November 13, 2018
+
+Abstract
+
+In recent years, the corporate sector has been rocked by managerial fraud and scandals. In this paper, we analyse, employing a behavioural and psychoanalytical game theoretic approach, two particular phenomena that may lead to managerial fraud in the corporate sector: a) the tendency for fraud to start on a small scale, perceived by perpetrators as insignificant and inconsequential, but which may ‘mount up’ over time to large cumulative fraud. b) Formerly ethical managers becoming ‘infected’ by the behaviour of unethical managers within an organisation. We consider a simple model in which a manager commits a series of small frauds over time (initially perceived as insignificant). At some critical point the frauds accumulate to a magnitude where they ‘activate’ the manager’s superego. At that point, guilt looms large, which may be sufficient to motivate the manager to cease his fraudulent behaviour, and to admit to previous indiscretions. However, if regret dominates, the manager may be ‘entrapped’ into continuing to further hide fraud. In a second version of the model, we consider an organisation consisting of two managers: one ethical/non-fraudulent and one unethical/fraudulent. We consider how the unethical manager’s behaviour may ‘infect’ the ethical manager, so that the latter is induced to commit fraud, due to the unethical culture of the organisation. We employ our theoretical analysis to help to understand a real-world fraud case (Enron) in which fraud began at small individualistic levels, but quickly escalated and became institutionalized throughout the organization, destroying the company. We conclude with policy and ethical implications, and suggestions for future research.
+
+Keywords: Corporate fraud, Behavioural Economics, psychoanalysis, game theory
+
+Suggested Citation:
+
+Fairchild, Richard J. and Marnet, Oliver, Fraud-Perception, Superegos, and Cultural Spread of Unethical Behaviour: Theory and Evidence from Enron (November 13, 2018). Available at SSRN: https://ssrn.com/abstract=3283883 or http://dx.doi.org/10.2139/ssrn.3283883
+Download This Paper
+ 
+Open PDF in Browser
+78 References
+G A Akerlof
+The Market for 'Lemons': Quality Uncertainty and the Market Mechanism
+Quarterly Journal of Economics , volume 84 , issue 3 , p. 488 - 500 Posted: 1970
+Crossref
+N P Anastasopoulos , M P Anastasopoulos
+The Evolutionary Dynamics of Audit
+European Journal of Operational Research , volume 216 , issue 2 , p. 469 - 476 Posted: 2012
+Crossref
+D Ariely
+Predictably Irrational Posted: 2008
+Crossref
+S E Asch
+Effects of Group Pressure Upon the Modification and Distortion of Judgement
+Groups, Leadership and Men , p. 220 - 226 Posted: 1951
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+425
+ABSTRACT VIEWS
+2,533
+RANK
+157,252
+1 Citations
+78 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

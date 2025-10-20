@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Determinants of Non Performing Loan (NPL): A Case of an Emerging Economy
+
+Al Masud, A. & Hossain, M. A., (2020). ‘Determinants of Non Performing Loan (NPL): A Case of an Emerging Economy’, Southeast Business Review, Vol. X, No. 1 & 2, 46-60
+
+22 Pages Posted: 8 Jul 2021
+
+Abdullah Al Masud
+
+Southeast University, Dhaka, Bangladesh
+
+Mohammad Azhar Hossain
+
+Southeast University (Bangladesh) - School of Business Studies
+
+Date Written: March 16, 2021
+
+Abstract
+
+Commercial banks are the most influential element in the financial market of a country. But commercial banks get pegged back when their main income-generating asset i.e. loans and advances become non-performing. Based on a sample of 22 conventional private commercial banks with 10 years’ data, this study looked at bank-specific and macroeconomic determinants of non-performing loans (NPLs) using Generalized Method of Moments (GMM) analysis. Among the bank-specific variables such ROA, size, loan-to-deposit ratio, credit growth, and board independence, only ROA, a proxy for managerial efficiency, was found to have significantly negative relationship with NPLs. Among the macroeconomic variables, GDP growth rate, inflation, real interest rate, unemployment, and stock prices were found to have a significantly positive relationship with NPL. The study suggests that banks should focus more on improving managerial efficiency and supervision to improve their loan quality. In addition, regulators have a role to perform regular stress tests on the banks to check banks’ asset quality against macroeconomic shocks.
+
+Keywords: NPL, Banks, bank-specific, macroeconomic, GMM
+
+JEL Classification: G21, G32, G33
+
+Suggested Citation:
+
+Al Masud, Abdullah and Hossain, Mohammad Azhar, Determinants of Non Performing Loan (NPL): A Case of an Emerging Economy (March 16, 2021). Al Masud, A. & Hossain, M. A., (2020). ‘Determinants of Non Performing Loan (NPL): A Case of an Emerging Economy’, Southeast Business Review, Vol. X, No. 1 & 2, 46-60, Available at SSRN: https://ssrn.com/abstract=3873654
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+M Arellano , S Bond
+Some tests of specification for panel data: Monte Carlo evidence and an application to employment equations. The review of economic studies , volume 58 , p. 277 - 297 Posted: 1991
+Crossref
+Bangladesh Bank
+Banking Sector Performance, Regulation and Bank Supervision Posted: 2017-11
+L Barseghyan
+Non-performing loans, prospective bailouts, and Japan's slowdown
+Journal of Monetary economics , volume 57 , issue 7 , p. 873 - 890 Posted: 2010
+Crossref
+R Beck , P Jakubik , A Piloui
+Non-performing Loans What Matters in Addition to the Economic Cycle?
+European Central Bank Working Paper Series Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+702
+ABSTRACT VIEWS
+2,403
+RANK
+84,484
+41 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Monetary Economics: Financial System & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

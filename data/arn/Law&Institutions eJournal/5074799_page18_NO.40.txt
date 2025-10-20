@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Are Current Disclosures Current? Evidence from Form 8-K Impairment Filings
+
+Journal of Accounting, Auditing & Finance, 0[10.1177/0148558X241301465]
+
+Posted: 3 Jan 2025 Last revised: 28 Dec 2024
+
+Amanda Sanseverino
+
+Manhattan University
+
+Jangwon Suh
+
+CUNY Queens College
+
+Date Written: December 02, 2024
+
+Abstract
+
+Although Form 8-K rules mandate that firms report material events shortly after they occur, a limited safe harbor allows firms to delay disclosure of certain events if they arise or are discovered concurrently with preparation of the upcoming 10-K/Q filing. Additionally, the materiality thresholds used to determine whether a filing is required are subject to managerial discretion. Given these features that provide flexibility in 8-K reporting, our study uses 8-K Item 2.06 Material Impairments as a setting to investigate how frequently firms disclose information on an 8-K, relative to their 10-K/Q disclosures. Using a 2005-2020 sample period, we find that an 8-K Item 2.06 is filed in only 9.84% of firm-quarters with 10-K/Q impairments. We then examine managerial incentives underlying the 8-K Item 2.06 filing choice and find a greater likelihood of filing in quarters where stock options are granted and where insider stock purchases are higher, and a reduced likelihood when raising capital. Further analyses explore the safe harbor and materiality choice as mechanisms, as well as the effect of consecutive losses on the 8-K filing choice. Overall, our study demonstrates the rarity in which firms disclose impairments on a current basis and provides evidence of a relation between managerial incentives and the choice to file an 8-K for mandatory reportable events.
+
+Keywords: Current reports, Form 8-K, regulation, voluntary disclosure, asset impairments, managerial incentives, strategic reporting
+
+Declaration of Interest
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+JEL Classification: G14, G38, K22, M41, M48
+
+Suggested Citation:
+
+Sanseverino, Amanda and Suh, Jangwon, Are Current Disclosures Current? Evidence from Form 8-K Impairment Filings (December 02, 2024). Journal of Accounting, Auditing & Finance, 0[10.1177/0148558X241301465], Available at SSRN: https://ssrn.com/abstract=5074799 or http://dx.doi.org/10.1177/0148558X241301465
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+258
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

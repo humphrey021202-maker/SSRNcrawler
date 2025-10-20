@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Information Asymmetry
+
+Accounting Review, Vol. 81, No. 3, 2006
+
+48 Pages Posted: 10 Dec 2011
+
+Madhav V. Rajan
+
+Booth School of Business, University of Chicago
+
+Richard E. Saouma
+
+Eli Broad College of Business, Michigan State University
+
+Date Written: February 5, 2005
+
+Abstract
+
+At the heart of decentralization lies the notion that tasks are delegated by owners to managers who possess superior local information. The extent of this information asymmetry is often an endogenous construct, as it is influenced by the owner’s choice of internal accounting systems and the manager’s investment in acquiring local expertise. In this paper, we explore how varying levels of pre-contract, asymmetric information affect the owner-manager relationship. We provide three main sets of insights. First, we find that the owner’s payoffs are initially decreasing, and strictly convex everywhere, in the quality of the manager’s private information. The owner thus prefers to deal with either a perfectly informed or a perfectly uninformed manager, and we characterize conditions for either to be the preferred choice. Second, in contrast to recent work, we demonstrate that when information can be communicated internally, the optimal strength of managerial incentives unambiguously decreases as the manager becomes better informed. Third, we derive the surprising result that a self-interested manager does not always prefer to maximize his informational advantage. Our work has implications for the optimal design of organizations, and for internal accounting and control systems in particular.
+
+Keywords: optimal adverse selection, information asymmetry, contract theory
+
+JEL Classification: D82, D83
+
+Suggested Citation:
+
+Rajan, Madhav V. and Saouma, Richard E., Optimal Information Asymmetry (February 5, 2005). Accounting Review, Vol. 81, No. 3, 2006, Available at SSRN: https://ssrn.com/abstract=1966852
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+Rick Antle , John Fellingham
+Information rents and preferences among information systems in a model of resource allocation
+Journal of Accounting Research , volume 33 , p. 41 - 58 Posted: 1995
+Crossref
+Stanley Baiman , John Evans , Iii
+Pre-decision information and participative management control systems
+Journal of Accounting Research , volume 21 , issue 2 , p. 371 - 395 Posted: 1983
+Crossref
+Stanley Baiman , Konduru Sivaramakrishnan
+The value of private pre-decision information in a principal-agent context
+The Accounting Review , volume 66 , issue 4 , p. 747 - 766 Posted: 1991-10
+P George , Bjorn Baker , Jorgensen
+Volatility, noise, and incentives Posted: 2003
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+207
+ABSTRACT VIEWS
+1,831
+RANK
+336,212
+19 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Recommended Papers
+
+Providing Managerial Incentives: Cash Flows Versus Accrual Accounting
+
+By Stefan J. Reichelstein
+
+Accrual-Based Compensation, Depreciation and Investment Decisions
+
+By Alfred Wagenhofer
+
+Controlling Investment Decisions: Depreciation- and Capital Charges
+
+By Sunil Dutta and Stefan J. Reichelstein
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

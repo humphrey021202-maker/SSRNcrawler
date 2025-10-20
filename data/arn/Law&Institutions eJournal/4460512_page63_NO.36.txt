@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Industry Preparedness for Accelerated Settlement
+
+SWIFT Institute Working Paper No. 2022-003 (May 2023)
+
+21 Pages Posted: 31 May 2023 Last revised: 2 Jun 2023
+
+Tony Gandy
+
+The London Institute for Banking and Finance
+
+Daniel Broby
+
+Ulster University
+
+Gary Wright
+
+ISITC EUROPE CIC
+
+Tony Freeman
+
+ISITC EUROPE CIC
+
+Mark Durkin
+
+Ulster University - Business School
+
+Date Written: May 30, 2023
+
+Abstract
+
+This paper discusses the progress made towards T+1 and instantaneous settlement in financial markets, and industry preparedness for such a change. We cover the various equity settlement technologies and analyse how collateral, stock lending and margin requirements can impact the settlement processes. The debate on shortening the equity settlement cycle is discussed, along with potential policy recommendations based on industry preparedness. The paper draws on 44 unstructured interviews and two focus group workshops with key stakeholders in the financial industry. This sample represents firms with total assets in the tens of trillions. The paper provides a comprehensive overview of the issues surrounding accelerated settlement and offers insights for industry practitioners. It was clear from our research that there is a perceived trade-off between the benefits of improving market efficiency and infrastructure and the increased risk of settlement failure. As our interviews were focused on those with settlement and operations functions, the tone of the responses was biased towards the latter. The findings of this study will help stakeholders identify gaps in their current settlement processes and develop strategies to meet the demands of accelerated settlement.
+
+Keywords: Securities, Settlement, Swift
+
+Suggested Citation:
+
+Gandy, Anthony and Broby, Daniel and Wright, Gary and Freeman, Tony and Durkin, Mark, Industry Preparedness for Accelerated Settlement (May 30, 2023). SWIFT Institute Working Paper No. 2022-003 (May 2023), Available at SSRN: https://ssrn.com/abstract=4460512 or http://dx.doi.org/10.2139/ssrn.4460512
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+J Abel
+Advancing the settlement model of the us securities markets
+Journal of Securities Operations & Custody , volume 14 , p. 111 - 121 Posted: 2022
+Afme
+Advancing together: Leading the industry to accelerated settlement
+Association for Financial Markets in Europe Posted: 2022
+Afme
+T+1 settlement in europe: Potential benefits and challenges. association for financial markets in europe Posted: 2022
+M Asmar , S Trimbath
+Regulatory reform and trade settlement failures in usa equity markets: Does regulatory reform matter
+Quantitative Finance and Economics , volume 6 , p. 537 - 552 Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+239
+ABSTRACT VIEWS
+1,034
+RANK
+292,443
+43 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

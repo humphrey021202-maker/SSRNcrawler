@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+An Analysis of Net-Outcome Contracting with Applications to Equity-Based Compensation
+
+49 Pages Posted: 8 Aug 2017 Last revised: 23 Jul 2021
+
+Christian Hofmann
+
+Ludwig Maximilian University of Munich (LMU) - Faculty of Business Administration (Munich School of Management)
+
+Steven J. Huddart
+
+Pennsylvania State University, University Park - Department of Accounting
+
+Thomas Pfeiffer
+
+University of Vienna - Accounting and Control
+
+Date Written: July 19, 2021
+
+Abstract
+
+Options, restricted stock, bonuses tied to total shareholder return, and similar equity-based compensation contracts stipulate payments that depend on stock price. Any such contract is a function of shareholder value net of the compensation payment, because stock price (1) is proportional to this net value or “net outcome” and (2) anticipates compensation-related payments and dilution. The net outcome, in turn, is reduced by the payment and so depends on the contract. Standard moral hazard analyses, wherein contractual payments are based on the gross outcome before any payment to the agent, overlook this dependency. We characterize the optimal net-outcome contract, describe its shape and pay-for-performance sensitivity, contrast it to the optimal gross-outcome contract, and discuss implications for equity-based compensation arrangements.
+
+Keywords: dilution, equity-based compensation, moral hazard, team compensation, optimal contracting, pay-for-performance sensitivity, security holdings, stock options
+
+JEL Classification: D86, J33, M41
+
+Suggested Citation:
+
+Hofmann, Christian and Huddart, Steven J. and Pfeiffer, Thomas, An Analysis of Net-Outcome Contracting with Applications to Equity-Based Compensation (July 19, 2021). Available at SSRN: https://ssrn.com/abstract=3014149 or http://dx.doi.org/10.2139/ssrn.3014149
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+Elon Musk could make more than $50 billion from pay plan shareholders approved
+Tesla Posts Fourth-Consecutive Quarterly Profit, Defying Pandemic Shutdown Posted: 2018-03-21
+Jorge , Manuel Santos
+708 shares of common stock at an exercise price of $0.30, an option to buy 426,892 shares of convertible (upon an IPO) preferred stock at a purchase price of $2.3425 per share, and an annual salary of $250,000
+of the Google Inc. Definitive Proxy Statement for the 2005 annual meeting of shareholders , volume 331 , p. 813 - 837 Posted: 2005
+Dirk E Black , Shane S Dikolli , Christian Hofmann , Thomas Pfeiffer
+Estimating the Sensitivity of CEO Pay to Accounting-based Performance: Gross versus Net Measures Posted: 2021
+Robert M Bushman , J Raffi , Indjejikian
+Accounting Income, Stock Price, and Managerial Compensation
+Journal of Accounting & Economics , volume 16 , issue 1-3 , p. 3 - 23 Posted: 1993
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+241
+ABSTRACT VIEWS
+1,675
+RANK
+289,981
+2 Citations
+29 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

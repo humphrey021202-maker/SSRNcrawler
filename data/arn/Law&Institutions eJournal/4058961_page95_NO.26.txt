@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The EU Taxonomy and the Syndicated Loan Market
+
+44 Pages Posted: 4 Apr 2022 Last revised: 20 Jan 2025
+
+Zacharias Sautner
+
+University of Zurich - Department of Finance; Swiss Finance Institute; European Corporate Governance Institute (ECGI)
+
+Jing Yu
+
+The University of Sydney; Financial Research Network (FIRN)
+
+Rui Zhong
+
+The University of Western Australia - UWA Business School
+
+Xiaoyan Zhou
+
+University of Oxford, Smith School of Enterprise and the Environment
+
+Date Written: June 17, 2024
+
+Abstract
+
+The European Union (EU) Taxonomy on Sustainable Activities is one of the most far-reaching financial market regulations to combat climate change. Using international data from the syndicated loan market, we demonstrate that firms with larger EU Taxonomy-eligible revenue shares paid lower interest rates in the years before the formal introduction of the Taxonomy. Business revenue is Taxonomy-eligible if it originates from “transitional activities” that substantially contribute to climate change mitigation. A one-standard-deviation increase in firm revenue from transitional activities is associated with 5 basis points (bp) lower loan spreads (5% relative to the standard deviation). Effects are more pronounced for firms in countries with greater climate risk exposure and more stringent environmental policies, and when lending institutions have green preferences. The effects of transitional revenue do not simply reflect a borrower’s ESG ratings or broad exposure to climate risks and opportunities. Overall, our results indicate that financial markets already priced in some of the intended effects of the Taxonomy. 
+
+Keywords: EU Taxonomy, Climate resilience, Syndicated loan spreads, Climate risk
+
+JEL Classification: F34; G12; G32; M14; Q54
+
+Suggested Citation:
+
+Sautner, Zacharias and Yu, Jing and Zhong, Rui and Zhou, Xiaoyan, The EU Taxonomy and the Syndicated Loan Market (June 17, 2024). Available at SSRN: https://ssrn.com/abstract=4058961 or http://dx.doi.org/10.2139/ssrn.4058961
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+L Alessi , S Battiston
+Two sides of the same coin: Green Taxonomy alignment versus transition risk in financial portfolios
+Int Rev Financ Anal , volume 84 , issue 11 Posted: 2022
+E ; Allman , S Bartram , K Hou , S Kim
+Real effects of climate policy: Financial constraints and spillovers
+J Financ Econ , volume 143 , issue 2 , p. 668 - 696 Posted: 2021
+A Bassen , O Kordsachia , K Lopatta , W Tan
+Revenue alignment with the EU Taxonomy Regulation, forthcoming Posted: 2024
+P Bolton , M Kacperczyk
+Do investors care about carbon risk?
+J Financ Econ , volume 142 , issue 2 , p. 517 - 549 Posted: 2021
+Load more
+12 Citations
+Alexander Bassen , Othar Kordsachia , Kerstin Lopatta , Weiqiang Tan
+Revenue alignment with the EU taxonomy regulation in developed markets
+Journal of Banking & Finance , volume 170 , p. 107339 Posted: 2025
+Crossref
+Karolin Kirschenmann
+The EU Taxonomy’s (Potential) Effects on the Banking Sector and Bank Lending to Firms
+The Economists’ Voice , volume 19 , issue 2 , p. 275 Posted: 2023
+Crossref
+Federica Tonnarello , Carlo Vermiglio , Carlo Migliardo , Valeria Naciti
+The Impact of EU Taxonomy for Sustainable Activities on European Utilities' Performance
+Business Strategy and the Environment , volume 34 , issue 3 , p. 2848 Posted: 2025
+Crossref
+LAURA T. STARKS
+Presidential Address: Sustainable Finance and ESG Issues—ValueversusValues
+The Journal of Finance , volume 78 , issue 4 , p. 1837 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,410
+ABSTRACT VIEWS
+4,524
+RANK
+31,781
+12 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

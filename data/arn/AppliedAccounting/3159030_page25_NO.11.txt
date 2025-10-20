@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Setting the Horizon Value Using DCF-Based Methods: Teaching Note
+
+28 Pages Posted: 26 Apr 2018 Last revised: 10 Jan 2019
+
+Ian A. Cooper
+
+Indian Institute of Finance (IIF)
+
+Date Written: January 8, 2019
+
+Abstract
+
+This teaching note describes some important DCF-based formulas that are used for setting the horizon value in a corporate valuation. It shows the relationships between them and the key similarities/differences in assumptions. The formulas include the constant growth DCF formula, residual income with constant ROIC, residual income with decaying excess return, the “franchise value” method, the excess earnings growth method, and the “bank income” method. As well as being used for the horizon value for any firm, these formulas can also be used to estimate the current value of mature firms.
+
+Keywords: Horizon Value, Discounted Cash Flow, Constant Growth, Residual Income, Franchise Value
+
+JEL Classification: G11, G32, M41
+
+Suggested Citation:
+
+Cooper, Ian Anthony, Setting the Horizon Value Using DCF-Based Methods: Teaching Note (January 8, 2019). Available at SSRN: https://ssrn.com/abstract=3159030 or http://dx.doi.org/10.2139/ssrn.3159030
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+Zvi Bodie
+Compound interest depreciation in capital investment
+Harvard Business Review Posted: 1982-05
+Michael Bradley , Gregg A Jarrell
+Expected inflation and the constant-growth valuation model
+Journal of Applied Corporate Finance , volume 20 , p. 66 - 78 Posted: 2008
+Crossref
+Michael Bradley , Gregg A Jarrell
+Terminal value, accounting numbers, and inflation
+Journal of Applied Corporate Finance , volume 23 , p. 113 - 115 Posted: 2011
+Ian Anthony Cooper
+Estimating Sustainable Normalized Operating Free Cash Flow
+Pages: 24 Posted: 22 Jun 2016 Last revised: 29 Jun 2016
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+306
+ABSTRACT VIEWS
+2,053
+RANK
+226,842
+15 References
+PlumX Metrics
+Related eJournals
+
+Finance Education eJournal
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

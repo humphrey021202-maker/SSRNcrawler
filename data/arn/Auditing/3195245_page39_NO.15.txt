@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Quality Inputs and Financial Statement Reliability
+
+58 Pages Posted: 14 Jun 2018 Last revised: 27 Feb 2020
+
+Thien Le
+
+University of Houston - Department of Accountancy & Taxation
+
+Gerald J. Lobo
+
+University of Houston - C.T. Bauer College of Business
+
+Date Written: May 18, 2018
+
+Abstract
+
+Using Amiram, Bozanic, and Rouen’s (2015) measures of the conformity of a firm’s distribution of financial statement line items’ leading digits to the Benford distribution, we examine whether different constructs of audit quality inputs are related to financial statement reliability. Overall, we find that financial statement reliability increases with audit fees, non-audit fees, and audit report lag, and decreases with audit firm tenure. We also find that audit quality inputs are more strongly associated with income statement reliability than with cash flow statement reliability. In addition, we demonstrate that the impact of each audit quality input on overall financial statement reliability does not vary with audit firm size, defined as an audit firm’s Big 4 membership. Our results are robust to various alternative specifications of the dependent and the independent variables. Using a century-old measure that recently attracted interest, our findings corroborate the significant role that auditors play in enhancing the reliability of financial statements.
+
+Keywords: Benford’s Law; Financial Reporting Irregularities; Reliability; Accounting Errors and Frauds; Audit Quality Inputs
+
+JEL Classification: M41; M42; M48
+
+Suggested Citation:
+
+Le, Thien and Lobo, Gerald J., Audit Quality Inputs and Financial Statement Reliability (May 18, 2018). Available at SSRN: https://ssrn.com/abstract=3195245 or http://dx.doi.org/10.2139/ssrn.3195245
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+D Amiram , Z Bozanic , J D Cox , Q Dupont , J M Karpoff , R Sloan
+Financial reporting fraud and other forms of misconduct: A multidisciplinary review of the literature
+Review of Accounting Studies Posted: 2018
+Crossref
+D Amiram , Z Bozanic , E Rouen
+Financial Statement Errors: Evidence from the distributional properties of financial statement numbers
+Review of Accounting Studies , volume 20 , issue 4 , p. 1540 - 1593 Posted: 2015
+Crossref
+H Ashbaugh , R Lafond , B W Mayhew
+Do Non-audit Services Compromise Auditor Independence? Further Evidence
+The Accounting Review , volume 78 , issue 3 , p. 611 - 639 Posted: 2003
+Crossref
+R H Ashton , J J Willingham , R K Elliott
+An Empirical Analysis of Audit Delay
+Journal of Accounting Research , volume 25 , issue 2 , p. 275 - 292 Posted: 1987
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+546
+ABSTRACT VIEWS
+2,647
+RANK
+116,469
+36 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

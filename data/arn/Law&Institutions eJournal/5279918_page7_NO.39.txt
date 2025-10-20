@@ -1,0 +1,97 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Daily Performance of Top and Weak Companies on the S&P 500 Index
+
+37 Pages Posted: 17 Jun 2025
+
+Mohammadarian Ghahremanizahraie
+
+University of Texas at Arlington - Department of Accounting
+
+Date Written: April 30, 2025
+
+Abstract
+
+This study examines how the daily returns and volatilities of both top- and weak-performing companies within the S&P 500 index influenced the index's overall behavior in 2024. Leveraging daily stock data from ten representative firms, five top-performing and five weak-performing, the analysis utilizes ordinary least squares (OLS) regression to estimate their separate and combined impacts on the S&P 500's daily returns and volatility. Findings reveal that top-performing companies explain a substantially greater portion of the index’s return fluctuations (R² = 75.5%) compared to weak-performing firms (R² = 45.6%). When both groups are included, the explanatory power increases to 84.8%. Similarly, top performers account for more than 60% of the variation in volatility, whereas weak performers explain only about 14%. Among all firms, Microsoft shows the strongest influence on both return and volatility. These results highlight the asymmetric influence of extreme stock performance on broader market indices and provide implications for investor behavior, market sentiment, and portfolio strategy in the presence of performance dispersion.
+
+Suggested Citation:
+
+Ghahremanizahraie, Mohammadarian, The Impact of Daily Performance of Top and Weak Companies on the S&P 500 Index (April 30, 2025). Available at SSRN: https://ssrn.com/abstract=5279918 or http://dx.doi.org/10.2139/ssrn.5279918
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+33
+ABSTRACT VIEWS
+278
+PlumX Metrics
+Related eJournals
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

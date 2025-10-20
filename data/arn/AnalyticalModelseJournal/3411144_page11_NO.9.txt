@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Internal Capital Allocation, Voluntary Disclosure, and Investment Efficiency
+
+Management Science, 0[10.1287/mnsc.2022.01295]
+
+47 Pages Posted: 28 Jun 2019 Last revised: 17 Apr 2025
+
+Hyun Hwang
+
+University of Texas at Austin - Department of Accounting
+
+Date Written: July 13, 2020
+
+Abstract
+
+I develop an analytical model to examine the effect of disclosure on organizational structure. In this model, an owner with two investment projects decides whether to organize them as a single multi-divisional firm or two stand-alone firms whose manager(s) may issue a truthful but costly disclosure of each project’s profitability to raise capital. In a multi-divisional firm, capital is initially provided by investors and subsequently allocated across the two projects by the manager. The analysis shows that a multi-divisional structure allows for efficient internal capital allocation while avoiding disclosure costs, whereas a stand-alone structure prevents inefficient cross-subsidization. Specifically, a multi-divisional structure is optimal when disclosure costs are high relative to project payoffs. These results help explain empirical evidence that multidivisional firms tend to trade at a discount.
+
+Keywords: Organizational structure, internal capital allocation, corporate disclosure, investment efficiency
+
+JEL Classification: D23, D82, D83, L22, L25, M41
+
+Suggested Citation:
+
+Hwang, Hyun, Internal Capital Allocation, Voluntary Disclosure, and Investment Efficiency (July 13, 2020). Management Science, 0[10.1287/mnsc.2022.01295], Available at SSRN: https://ssrn.com/abstract=3411144 or http://dx.doi.org/10.1287/mnsc.2022.01295
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+323
+ABSTRACT VIEWS
+2,096
+RANK
+213,801
+43 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

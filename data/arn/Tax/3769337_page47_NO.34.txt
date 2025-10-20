@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Taxpayers’ and Tax Auditors’ Acceptance of Cooperative Automated Tax Audits
+
+WU International Taxation Research Paper Series No. 2021-02
+
+Posted: 25 Jan 2021 Last revised: 22 Sep 2025
+
+Paul Brezina
+
+Vienna University of Economics and Business
+
+Eva Eberhartinger
+
+Vienna University of Economics and Business
+
+Maximilian Zieser
+
+Vienna University of Economics and Business
+
+Date Written: January 25, 2021
+
+Abstract
+
+This study investigates the acceptance of “cooperative automated tax audits” (CATA) by taxpayers and tax auditors, and specifically the impact of the four features Data Privacy, Algorithm Transparency, Tax Certainty, and Independence from Tax Advisers. CATA allows taxpayers to upload detailed accounting data and receive a timely automatic assessment of the tax due. Following theories on the adoption of e-government services, algorithm aversion, and cooperative tax compliance, we hypothesize that the four features will increase taxpayers’ acceptance of CATA. Using an experimental survey among 331 taxpayers and 530 tax auditors, we analyze the impact of the four features on the acceptance of CATA and their effects on trust in and perceived power of tax authorities. Results indicate that taxpayers’ acceptance depends particularly on Tax Certainty, i.e., the automatic tax assessment cannot be overturned in a follow-up tax audit, but also on data privacy and transparency of the algorithm. Taxpayers perceive CATA as increasing tax authority’s power, and reducing its trustworthiness. In contrast, CATA, particularly when connected to the waiver of possible future tax audits, causes concerns for tax auditors, who react with lower acceptance and expect a loss in power to detect tax evasion. Overall, results suggest a stark mismatch between taxpayers’ and tax auditors’ perceptions about benefits and risks of CATA. Our study is among the first to investigate acceptance of digitalization in tax administration, and to include tax auditors’ views. Results are relevant to policymakers, suggesting that tax authorities should increase their digitalization efforts, incorporate safeguards, and educate about the importance of a trusting relationship between taxpayers and tax authorities.
+
+Keywords: Tax administration, e-government, tax audit, tax compliance, data privacy, algorithm aversion
+
+JEL Classification: H25, H26, H32, H83, M48
+
+Suggested Citation:
+
+Brezina, Paul and Eberhartinger, Eva and Zieser, Maximilian, Taxpayers’ and Tax Auditors’ Acceptance of Cooperative Automated Tax Audits (January 25, 2021). WU International Taxation Research Paper Series No. 2021-02, Available at SSRN: https://ssrn.com/abstract=3769337 or http://dx.doi.org/10.2139/ssrn.3769337
+ Not Available for Download
+61 References
+I M Al-Jabri , N Roztocki
+Adoption of ERP systems: Does information transparency matter? Telematics and Informatics , volume 32 , p. 300 - 310 Posted: 2015
+M Al-Jamal , E Abu-Shanab
+Privacy Policy of E-Government Websites and the Effect on Users' Privacy. ICIT 2015 The 7th International Conference on Information Technology Bhubaneswar Posted: 2015-11-06
+L Batrancea , A Nichita , J Olsen , C Kogler , E Kirchler , E Hoelzl , A Weiss , Torgler , J Fooken , J Fuller , M Schaffner , S Banuri , M Hassanein , G Alarcón-García , C Aldemir , O Apostol , D Bank Weinberg , I Batrancea , A Belianin , F D J Bello Gómez , M Briguglio , V Dermol , E Doyle , R Gcabo , B Gong , S Ennya , A Essel-Anderson , J Frecknall-Hughes , A Hasanain , Y Hizen , O Huber , G Kaplanoglou , J Kudła , J E Lemoine , S Leurcharusmee , T Matthiasson , S Mehta , S Min , G Naufal , M Niskanen , K Nordblom , E B Öztürk , L Pacheco , J Pántya , V Rapanos , C Roland-Lévy , A M Roux-Cesar , A Salamzadeh , L Savadori , V Schei , M Sharma , B Summers , K Suriya , Q Tran , C Villegas-Palacio , M Visser , C Xia , S Yi , S Zukauskas
+Trust and power as determinants of tax compliance across 44 nations
+Journal of Economic Psychology , volume 74 Posted: 2019
+P J Beck , P Lisowsky
+Tax Uncertainty and Voluntary Real-Time Tax Audits
+The Accounting Review , volume 89 , issue 3 , p. 867 - 901 Posted: 2014
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,380
+PlumX Metrics
+Related eJournals
+
+WU International Taxation Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

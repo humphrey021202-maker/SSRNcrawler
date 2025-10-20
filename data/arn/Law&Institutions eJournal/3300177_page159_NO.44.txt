@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+What Are the Shareholder Value Implications of SEC-Challenged Shareholder Proposals?
+
+Swiss Finance Institute Research Paper No. 18-79
+
+69 Pages Posted: 30 Dec 2018 Last revised: 3 Nov 2023
+
+Maxime Couvert
+
+The University of Hong Kong
+
+Date Written: November 2, 2023
+
+Abstract
+
+The Securities and Exchange Commission (SEC) permits managers to request the exclusion of shareholder-initiated proposals. I construct a novel dataset of excluded and withdrawn proposals from the SEC's responses to managers' requests. An examination of announcement returns to withdrawal and exclusion decisions demonstrates that SEC-challenged proposals are value-destroying. I find that special interest investors pursuing self-serving agendas and retail investors advocating for one-size-fits-all reforms explain the value-destroying nature of SEC-challenged proposals. On average, the SEC challenge benefits firm value by filtering out these harmful proposals. However, a regression discontinuity design reveals that proposals the SEC refuses to exclude may receive majority shareholder support and destroy firm value.
+
+Keywords: Corporate governance, corporate social responsibility, shareholder proposals, shareholder empowerment, SEC
+
+JEL Classification: G23, G32, G34
+
+Suggested Citation:
+
+Couvert, Maxime, What Are the Shareholder Value Implications of SEC-Challenged Shareholder Proposals? (November 2, 2023). Swiss Finance Institute Research Paper No. 18-79, Available at SSRN: https://ssrn.com/abstract=3300177 or http://dx.doi.org/10.2139/ssrn.3300177
+Download This Paper
+ 
+Open PDF in Browser
+90 References
+S Acharya
+A generalized econometric model and tests of a signalling hypothesis with two discrete signals
+Journal of Finance , volume 43 , issue 2 , p. 413 - 429 Posted: 1988
+S Acharya
+Value of latent information: Alternative event study methods
+Journal of Finance , volume 48 , issue 1 , p. 363 - 385 Posted: 1993
+A K Agrawal
+Corporate governance objectives of labor union shareholders: Evidence from proxy voting
+Review of Financial Studies , volume 25 , issue 1 , p. 187 - 226 Posted: 2011
+L Bach , D Metzger ; Bach , L , D Metzger
+How do shareholder proposals value? Working Paper
+Review of Financial Studies , volume 32 , issue 8 , p. 3183 - 3214 Posted: 2017
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+519
+ABSTRACT VIEWS
+3,711
+RANK
+123,905
+90 References
+PlumX Metrics
+Related eJournals
+
+Swiss Finance Institute Research Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

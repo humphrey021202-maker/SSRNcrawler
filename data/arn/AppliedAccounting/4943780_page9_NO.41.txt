@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Wasserstein Generative Adversarial Networks for Bacterial Hemoglobin-Like Proteins Prediction
+
+18 Pages Posted: 7 Oct 2024
+
+Soumiya Hamena
+
+University of Constantine 2
+
+Date Written: August 15, 2024
+
+Abstract
+
+In the event of decreased oxygen or oxidative and nitrosative stress, bacteria express three distinct structures of hemoglobin proteins which are flavohemoglobins (FlavoHb), truncated hemoglobins (TruncHb) and single domain hemoglobin proteins (SingHb). These proteins were expressed in different heterologous hosts and have been shown to enhance growth and productivity, making them attractive to scientific researchers. At present, only a small number of bacterial hemoglobin-Like proteins have been experimentally annotated. Therefore, it is beneficial to develop a data augmentation method capable of generating high quality of new synthetic sequences. Hence, we propose in this study a model that combines Wasserstein Generative Adversarial Network (WGAN) to generate novel bacteria hemoglobins sequences and Support Vector Machine (SVM) method to predict and classify these proteins. The performance measure comparison of the proposed model with the existing method by the fivefold cross-validation technique has demonstrated the efficiency and the effectiveness of our model. The experiment results were obtained with the evaluation metrics scores of Accuracy (Acc), Precision, Recall, F1_score, Cohen's Kappa (Kappa) and Matthews Correlation Coefficient (Mcc). Further, we have also plotted the learning and Receiver Operating Characteristic (Roc) curves. All experimental results indicate that the proposed model outperforms the existing method.
+
+Note:
+
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Keywords: Bacterial Hemoglobin-Like proteins, FlavoHb, TruncHb, SingHb, WGAN, SVM, Prediction, Classification
+
+Suggested Citation:
+
+Hamena, Soumiya, Wasserstein Generative Adversarial Networks for Bacterial Hemoglobin-Like Proteins Prediction (August 15, 2024). Available at SSRN: https://ssrn.com/abstract=4943780 or http://dx.doi.org/10.2139/ssrn.4943780
+Download This Paper
+ 
+Open PDF in Browser
+83 References
+Hemoglobins From Bacteria To Man ; Hardison , Ross
+EVOLUTION OF DIFFERENT PATTERNS OF GENE EXPRESSION
+The Journal of Experimental Biology , volume 201 , p. 1099 - 1117 Posted: 1998
+; Thermoglobin , Jj L Miranda , David H Maillett , Jayashree Soman
+Oxygen-avid Hemoglobin in a Bacterial Hyperthermophile
+THE JOURNAL OF BIOLOGICAL CHEMISTRY , volume 44 , p. 36754 - 36761 Posted: 2005
+Giardina , R Messana , M Scatena , Castagnola
+The multiple functions of hemoglobin
+Crit Rev Biochem Mol Biol , volume 3 , p. 165 - 196 Posted: 1995
+M E Clementi , R Scatena , S G Mordente , M Condò , B Castagnola , Giardina
+J Mol Biol , volume 1 , p. 229 - 234
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+36
+ABSTRACT VIEWS
+456
+83 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

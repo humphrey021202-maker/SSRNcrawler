@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Functions of Cryptointermediaries: The Decline of Cryptoexchanges and the Rise of Cryptoauditors as the 'White Hats' of Decentralized Finance
+
+Working paper (draft - comments welcome)
+
+110 Pages Posted: 24 Apr 2025 Last revised: 9 Jul 2025
+
+Vanessa Villanueva Collao
+
+Bocconi University, Department of Law
+
+Date Written: March 01, 2025
+
+Abstract
+
+Decentralized Finance (DeFi) promises an alternative capital market free of intermediation or concentration of power upon intermediaries. Instead, through peer-to-peer technology, financial products and services are delivered seamlessly to investors/consumers without paying fees to banks and other intermediaries. Intermediaries have proven crucial in reducing information asymmetry, addressing agency issues, and minimizing coordination costs for investors. By verifying and disseminating information, they guide investors in selecting which companies to invest in and improve investors’ monitoring activities. Their capabilities to extract and analyze credible information about a company’s assets and underlying business make them valuable for assessing investments’ risk and expected returns. Some high-profile financial intermediaries even act as reputational renters of corporations, signaling their wellness state. Beyond mitigating information asymmetries, intermediaries also emerge to absorb or shift transactions’ risk.
+
+Despite DeFi’s promise, intermediaries remain indispensable in reducing information asymmetries and absorbing risk even with advanced technological means. However, little research focuses on the roles of these new types of intermediaries or cryptointermediaries in this ecosystem.  
+
+This article takes an interdisciplinary approach through a case study, quantitative web content analysis, and unstructured interviews to examine the origins, structure, and functions of cryptointermediaries in DeFi, focusing on cryptoexchanges and cryptoauditors. It compares these cryptointermediaries with their traditional counterparts, arguing that while DeFi sought to eliminate intermediaries, it has given rise to new ones. Cryptointermediaries have evolved due to market forces and technological constraints, becoming integral to DeFi’s development. Particularly, this article explores how cryptoauditing firms—often regarded as “good hackers”—have gained prominence following multiple cryptoexchange crashes. While cryptointermediaries are not without flaws, their growing presence provides valuable insights into shaping future regulatory approaches.
+
+Keywords: Securities Laws, Financial Intermediaries, Exchanges, Auditors, Cryptoexchanges, Decentralized Finance, Blockchain, Cryptoauditors
+
+Suggested Citation:
+
+Villanueva Collao, Vanessa, The Functions of Cryptointermediaries: The Decline of Cryptoexchanges and the Rise of Cryptoauditors as the 'White Hats' of Decentralized Finance (March 01, 2025). Working paper (draft - comments welcome), Available at SSRN: https://ssrn.com/abstract=5161329
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+Coffee, supra note 52. (Can Lawyers Wear Blinders-Gatekeepers and Third-Party Opinions)
+Coffee, supra note 11. (Gatekeeper Failure and Reform: The Challenge of Fashioning Relevant Reforms)
+See Generally , Geoffrey C Hazard , Angelo Dondi
+LEGAL ETHICS: A COMPARATIVE STUDY Posted: 2004
+Arthur B Laby
+Differentiating Gatekeepers, 1 BROOK
+J. CORP. FIN. COM , p. 119 - 163 Posted: 2006
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+23
+ABSTRACT VIEWS
+1,374
+37 References
+PlumX Metrics
+Related eJournals
+
+Bocconi University Legal Studies Research Paper Series
+
+Follow
+
+Legal History eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit Committee Independence and a Contracting Perspective on Goodwill Impairment: Singaporean Evidence
+
+Business: Theory and Practice, 2017, 18: 128–135
+
+8 Pages Posted: 19 Dec 2018
+
+Jamaliah Abdul Majid
+
+Universiti Utara Malaysia
+
+Date Written: June 2017
+
+Abstract
+
+Purpose
+This study examines factors influencing and constraining the decision to recognize zero goodwill impairment by listed firms in Singapore.
+
+Research approach
+The Singaporean firms selected are those that encountered book-to-market ratios above one for three consecutive years from 2010-2012. With the book-to-market ratios persistently above one for three continuous years, these firms have indications that goodwill may be impaired, yet they reported zero goodwill impairment. The regression analysis is performed using binary logistic regression with the dependent variable sets to one for firms that are regarded as choosing to recognize zero goodwill impairment, and zero otherwise.
+
+Findings
+Based on 52 Singaporean listed firms with market indications that the goodwill may be impaired, the regression results reveal that the decision to recognize zero goodwill impairment by Singaporean listed firms is driven by the desire to avoid debt covenant violation, supporting the debt hypothesis. However, a high proportion of independent directors on the audit committee is more likely to constrain this recognition choice.
+
+Theoretical implications
+The findings of this study contribute to the literature on IFRS by providing evidence to support the applicability of the debt hypothesis, which was developed in an advanced market with firms that have dispersed ownership, in explaining the decision to recognize zero goodwill impairment by Singaporean listed firms with concentrated ownership. The results of this study also contribute to the corporate governance literature by supporting the results of prior studies that found effective governance mechanisms acts as a constraint to managerial opportunism related to reporting goodwill impairment.
+
+
+Practical/policy implications
+This study provides important implications for managers, policy makers and relevant authorities. To enhance the quality of the financial statements, especially for Singaporean listed companies, the relevant authorities need to closely monitor firms’ reporting incentives and further strengthen corporate governance mechanisms.
+
+Keywords: Goodwill Impairment, Contracting Perspective, Audit Committee Independence, Managerial Discretion, IFRS, Recognition Choice
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Abdul Majid, Jamaliah, Audit Committee Independence and a Contracting Perspective on Goodwill Impairment: Singaporean Evidence (June 2017). Business: Theory and Practice, 2017, 18: 128–135 , Available at SSRN: https://ssrn.com/abstract=3292729
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+Abdul Majid , J
+Accounting choices relating to goodwill impairment: evidence from Malaysia Posted: 2013
+Abdul Majid , J
+Reporting incentives, ownership concen­ tration by the largest outside shareholder, and reported go­ odwill impairment losses
+Journal of Contemporary Accoun­ ting & Economics , volume 11 , p. 199 - 214 Posted: 2015
+Crossref
+Abdul Majid , J
+Disclosure practices of an accounting for go­ odwill impairment by Malaysian listed companies: a ten year perspective Posted: 2017
+N M Abughazaleh , O M Al­hares , C Roberts
+Accounting discretion in goodwill impairments: UK evidence
+Journal of International Financial Management & Accounting , volume 22 , issue 3 , p. 165 - 204 Posted: 2011
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+52
+ABSTRACT VIEWS
+825
+RANK
+906,046
+39 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

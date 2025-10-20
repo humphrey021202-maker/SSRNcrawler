@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Invariant Inference and Efficient Computation in the Static Factor Model
+
+CAMA Working Paper 32/2013
+
+29 Pages Posted: 8 Jun 2013
+
+Joshua C. C. Chan
+
+Purdue University; University of Technology Sydney (UTS) - UTS Business School
+
+Roberto Leon-Gonzalez
+
+National Graduate Institute for Policy Studies (GRIPS)
+
+Rodney W. Strachan
+
+University of Queensland - School of Economics
+
+Date Written: June 1, 2013
+
+Abstract
+
+Factor models are used in a wide range of areas. Two issues with Bayesian versions of these models are a lack of invariance to ordering of the variables and computational inefficiency. This paper develops invariant and efficient Bayesian methods for estimating static factor models. This approach leads to inference on the number of factors that does not depend upon the ordering of the variables, and we provide arguments to explain this invariance. Beginning from identified parameters which have nonstandard forms, we use parameter expansions to obtain a specification with standard conditional posteriors. We show significant gains in computational efficiency. Identifying restrictions that are commonly employed result in interpretable factors or loadings and, using our approach, these can be imposed ex-post. This allows us to investigate several alternative identifying schemes without the need to respecify and resample the model. We apply our methods to a simple example using a macroeconomic dataset.
+
+Suggested Citation:
+
+Chan, Joshua C. C. and Chan, Joshua C. C. and Leon-Gonzalez, Roberto and Strachan, Rodney W., Invariant Inference and Efficient Computation in the Static Factor Model (June 1, 2013). CAMA Working Paper 32/2013, Available at SSRN: https://ssrn.com/abstract=2275707 or http://dx.doi.org/10.2139/ssrn.2275707
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+65
+ABSTRACT VIEWS
+1,526
+RANK
+805,600
+10 Citations
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

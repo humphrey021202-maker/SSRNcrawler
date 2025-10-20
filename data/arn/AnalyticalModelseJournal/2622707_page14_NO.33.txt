@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Public Information Precision and Coordination Failure: An Experiment
+
+Journal of Accounting Research, Forthcoming
+
+University of Alberta School of Business Research Paper No. 2015-306
+
+67 Pages Posted: 26 Jun 2015 Last revised: 27 Apr 2016
+
+Sanjay Banerjee
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+Michael S. Maier
+
+University of Alberta - Alberta School of Business
+
+There are 2 versions of this paper
+
+Date Written: April 25, 2016
+
+Abstract
+
+More precise public disclosure reduces uncertainty about economic fundamentals, but it can increase uncertainty about other agents' actions, leading to coordination failure. We conducted a laboratory experiment to study the effects of public information precision and strategic complementarity on coordination failure. Information precision is operationalized in terms of ``granularity'' (level of detail). We found that: (i) granular public disclosure, which is disaggregated and precise, increases the likelihood of coordination failure and decreases coordination efficiency when public information is pessimistic about future economic prospects; (ii) the deleterious effect of granular disclosure is stronger when strategic complementarity is high; and (iii) higher levels of strategic complementarity decrease coordination efficiency. Overall, the observed likelihood of coordination failure is higher and coordination efficiency is lower than predicted by theory. Our findings have implications for the Federal Reserve's decision to publicly disclose detailed stress test results for distressed banks, and the debate on whether the PCAOB should publicly release reports on firm-specific quality-control deficiencies of audit firms.
+
+Keywords: coordination failure, transparency, information granularity, global game, heterogenous information, strategic uncertainty, experiment
+
+JEL Classification: C92, D82, D84, E58
+
+Suggested Citation:
+
+Banerjee, Sanjay and Maier, Michael, Public Information Precision and Coordination Failure: An Experiment (April 25, 2016). Journal of Accounting Research, Forthcoming, University of Alberta School of Business Research Paper No. 2015-306, Available at SSRN: https://ssrn.com/abstract=2622707 or http://dx.doi.org/10.2139/ssrn.2622707
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+V V Acharya , D Gale , T Yorulmazer
+Rollover risk and market freezes
+Journal of Finance , volume 66 , issue 4 , p. 1177 - 1209 Posted: 2011
+Crossref
+R M Anctil , J Dickhaut , C Johnson , C Kanodia
+Does information transparency decrease coordination failure?
+Games and Economic Behavior , volume 70 , issue 2 , p. 228 - 241 Posted: 2010
+Crossref
+R M Anctil , J Dickhaut , C Kanodia , B Shapiro
+Information transparency and coordination failure: Theory and experiment
+Journal of Accounting Research , volume 42 , issue 2 , p. 159 - 195 Posted: 2004
+Crossref
+S T Anderson , D Friedman , R Oprea
+Preemption games: Theory and experiment
+American Economic Review , volume 100 , issue 4 , p. 1778 - 1803 Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+167
+ABSTRACT VIEWS
+1,613
+RANK
+409,437
+3 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

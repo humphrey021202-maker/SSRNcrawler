@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Forecasting Firm Decision to Change in Capital Structure
+
+51 Pages Posted: 22 May 2024 Last revised: 22 May 2024
+
+Sarthak Ghosh
+
+Independent
+
+Date Written: May 21, 2024
+
+Abstract
+
+Managing right level of capital structure plays a key role in short term and long-term financial decision-making process for any firms irrespective of industries across the world. Capital Structure is one of the key concepts in academic literature of Corporate Finance. Capital Structure tells firm's internal stakeholders like managers about financial position to take several decisions like investment for future projects, to adopt cost optimization techniques or this even gives some financial well-being news to external stakeholders like investors. There are many theoretical and empirical studies on future profit analysis, earnings per share predictions etc. based on some machine learning algorithms but there are very few advanced analytics and machine learning studies on prediction on firms' decision on changing capital structure in future. I selected a stratified sample of 51 USA firms from different industries like Manufacturing, Automobiles, Technology, Food, Airlines etc. and develop machine learning algorithm on 2017-2024 financial 10-K report data to predict firm's future year decision on possibility of changing capital structure. I choose 600+ financial parameters which might affect decision on future capital structure change and then evaluate top 10 most influencing parameters. My benchmark analysis with theoretical random work model and existing ML model shows higher accuracy in prediction over existing work. Due to selection of large number of parameters and iterative removal of redundant parameters my model works very well compared to existing models. My model describes the analytics of several capital structure influencing financial parameters in overall USA markets during pre and post Covid time which makes distinctive work than other studies.
+
+Keywords: Capital Structure Prediction, Corporate Finance, Machine Learning, Advanced Analytics, XBRL Data, Random Forest
+
+Suggested Citation:
+
+Ghosh, Sarthak, Forecasting Firm Decision to Change in Capital Structure (May 21, 2024). Available at SSRN: https://ssrn.com/abstract=4836746 or http://dx.doi.org/10.2139/ssrn.4836746
+Download This Paper
+ 
+Open PDF in Browser
+79 References
+V Anand , R Brunner , K Ikegwu , T Sougiannis
+Predicting Profitability Using Machine Learning Posted: 2019
+Y Bao , B Ke , B Li , J Yu , J Zhang
+Detecting Accounting Fraud in Publicly Traded US Firms Using a Machine Learning Approach
+Journal of Accounting Research , volume 58 , p. 199 - 235 Posted: 2020
+M Barth , K Li , C Mcclure
+Evolution in Value Relevance of Accounting Information Posted: 2021
+J Bartley , A Chen , And E Taylor
+A Comparison of XBRL Filings to Corporate 10-Ks-Evidence from the Voluntary Filing Program
+Accounting Horizon , volume 25 , p. 227 - 245 Posted: 2011
+Load more
+1 Citations
+Yunus Emre Akdogan
+Machine Learning and Modeling Techniques in Financial Data Science
+, p. 253 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+158
+ABSTRACT VIEWS
+871
+RANK
+429,664
+1 Citations
+79 References
+PlumX Metrics
+Related eJournals
+
+Economics of Networks eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

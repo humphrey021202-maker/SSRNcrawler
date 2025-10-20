@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Meeting with Creditors in Front of the Black Mirror: Information Security Certification and Corporate Debt Structure
+
+55 Pages Posted: 12 Apr 2023 Last revised: 6 Nov 2023
+
+Jiaxin Wang
+
+Zhongnan University of Economics and Law
+
+Xiang Huang
+
+Zhongnan University of Economics and Law
+
+Xiaoran Ni
+
+Xiamen University - School of Economics; Xiamen University - Wang Yanan Institute for Studies in Economics (WISE)
+
+Kam C. Chan
+
+Western Kentucky University - Department of Accounting and Finance
+
+Date Written: November 1, 2023
+
+Abstract
+
+We explore how a firm’s obtaining an information security certification, which confirms the confidentiality, integrity, and security of firm information and mitigates cyber risks, affects its corporate debt structure. We find that firms adopt a more concentrated debt structure after obtaining an International Organization for Standardization (ISO) information security certification. The effect is more pronounced for firms that are state-owned, that have a higher degree of digital transformation, that have a more concentrated supply chain, and that operate in more-competitive industries. In addition, obtaining an information security certification leads a firm to reduce its share of public bond financing and increase its share of bank loans. Furthermore, firms concerned with information security tighten their debt structure to reduce the attention paid by many different types of creditors to their information and lower the probability of information being leaked. Overall, our evidence suggests that because obtaining an information security certification requires a firm to have a high level of data confidentiality, firms adopt a more concentrated debt structure to limit the dissemination of their proprietary information to outsiders.
+
+Keywords: Debt Structure; Information Security Certification; Cyber Security
+
+JEL Classification: G32, G34, M41
+
+Suggested Citation:
+
+Wang, Jiaxin and Huang, Xiang and Ni, Xiaoran and Chan, Johnny, Meeting with Creditors in Front of the Black Mirror: Information Security Certification and Corporate Debt Structure (November 1, 2023). Available at SSRN: https://ssrn.com/abstract=4404033
+Download This Paper
+ 
+Open PDF in Browser
+68 References
+V V Acharya , T Johnson
+Insider trading in credit derivatives
+Journal of Financial Economics , volume 84 , issue 1 , p. 110 - 141 Posted: 2007
+M Ashraf , J Sunder
+Can shareholders benefit from consumer protection disclosure mandates? Evidence from data breach disclosure laws
+The Accounting Review , volume 98 , issue 4 , p. 1 - 32 Posted: 2023
+P Asquith , R Gertner , D Scharfstein
+of financial distress: An examination of junk-bond issuers
+Quarterly Journal of Economics , volume 109 , issue 3 , p. 625 - 658 Posted: 1994
+K Ayotte , Skeel Jr , D A
+Bankruptcy law as a liquidity provider
+University of Chicago Law Review , p. 1557 - 1624 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+97
+ABSTRACT VIEWS
+518
+RANK
+640,233
+68 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The going-concern opinion and the adverse credit rating: an analysis of their relationship
+
+Accounting Research Journal, 35(4), 470–489. DOI: 10.1108/ARJ-04-2021-0135.
+
+The University of Auckland Business School Research Paper Series
+
+Posted: 5 Sep 2023
+
+Matthew Strickett
+
+University of Auckland
+
+David Hay
+
+University of Auckland Business School
+
+David Lau
+
+Waseda University,
+
+There are 2 versions of this paper
+
+Date Written: 2021
+
+Abstract
+
+Purpose
+The purpose of this study is to examine the relationship between going-concern (GC) opinions issued by the Big 4 audit firms and adverse credit ratings from the two largest credit rating agencies (CRAs) – Standard & Poor’s (S&P) and Moody’s. This question is relevant because there have been suggestions that auditors and CRAs should become more similar to each other, and because the two largest CRAs have different ownership structures that could affect their ratings.
+
+Design/methodology/approach
+Univariate and multivariate analyses are performed using a sample of firms that filed for bankruptcy between January 1, 2002 and December 31, 2013 that also had an audit opinion signed during the 12 months prior to bankruptcy, along with a credit rating issued by either or both S&P and Moody’s. Both influence each other. The likelihood of an auditor issuing a GC opinion is related to the credit rating issued by both S&P and Moody’s in the month prior to the audit report signing. The results also show differences between the CRAs. S&P reacted in the month after an auditor issued a GC opinion by downgrading its ratings 68% of the time. However, Moody’s did not react as strongly as S&P, downgrading its ratings only 24% of the time.
+
+Findings
+Both audit reports and credit ratings influence each other. The likelihood of an auditor issuing a GC opinion is related to the credit rating issued by both S&P and Moody’s in the month prior to the audit report signing. The results also show differences between the CRAs. S&P reacted in the month after an auditor issued a GC opinion by downgrading its ratings 68% of the time. However, Moody’s did not react as strongly as S&P, downgrading its ratings only 24% of the time.
+
+Originality/value
+Auditors are more likely to issue GC opinions when there is a downgrade to the credit rating, and CRAs are more likely to downgrade their ratings when there is a GC opinion. The study highlights that CRAs with different ownership structures provide different credit rating outcomes.
+Full paper available at https://doi.org/10.1108/ARJ-04-2021-0135
+
+Keywords: Auditing, Audit firms, Credit ratings, Going-concern opinions
+
+Suggested Citation:
+
+Strickett, Matthew and Hay, David and Lau, David, The going-concern opinion and the adverse credit rating: an analysis of their relationship ( 2021). Accounting Research Journal, 35(4), 470–489. DOI: 10.1108/ARJ-04-2021-0135., The University of Auckland Business School Research Paper Series, Available at SSRN: https://ssrn.com/abstract=4560307
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+556
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

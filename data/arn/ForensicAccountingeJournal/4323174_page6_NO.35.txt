@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Reading between the Lines: a Machine Learning Framework to Identify and Prioritize Workplace Environmental and Behavioral Risk Factors
+
+Posted: 12 Jan 2023
+
+Ivy Munoko
+
+University of Florida
+
+Soohyun Cho
+
+Rutgers, The State University of New Jersey
+
+Helen L. Brown-Liburd
+
+Rutgers University, Newark - Rutgers Business School - Department of Accounting and Information Systems
+
+Date Written: January 12, 2023
+
+Abstract
+
+Billions of dollars are lost annually due to inappropriate activities within companies, such as the collusion of multiple employees to misappropriate corporate assets or misrepresent the financial position of the company. We develop a machine learning and natural language processing framework for analyzing corporate digital communication to detect behaviors that signal a higher risk of collusion within an organization. We use an expert panel to validate the framework and find those forensic experts who are also credentialed professionals with a high degree of technical accounting skills express risk assessments consistent with our machine learning framework. The managerial implication of this study is that management and those charged with corporate governance can utilize this machine learning framework to continuously monitor digital communications resulting in a proactive as opposed to a reactive approach to detect collusion risk.
+
+Keywords: machine learning, text analytics, natural language processing, audit, risk assessment, artificial intelligence, social network analysis
+
+JEL Classification: M15, M42
+
+Suggested Citation:
+
+Munoko, Ivy and Cho, Soohyun and Brown-Liburd, Helen L., Reading between the Lines: a Machine Learning Framework to Identify and Prioritize Workplace Environmental and Behavioral Risk Factors (January 12, 2023). Available at SSRN: https://ssrn.com/abstract=4323174
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+489
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

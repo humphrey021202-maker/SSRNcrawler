@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Firm (Non-)Disclosure
+
+Tuck School of Business Working Paper No. 2727737
+
+23 Pages Posted: 5 Feb 2016
+
+Patrick Hummel
+
+Google Inc.
+
+John Morgan
+
+University of California, Berkeley - Economic Analysis & Policy Group
+
+Phillip C. Stocken
+
+Dartmouth College - Tuck School of Business
+
+Date Written: January 16, 2016
+
+Abstract
+
+We re-examine the seminal persuasion model of Dye (1985), focusing on the contracting power of current shareholders. Current shareholders determine the disclosure policy of a manager, who may be informed about the firm's value. Current shareholders desire higher future stock prices and dislike volatility. We show that the optimal policy is complete non-disclosure. The key intuition is that the disclosure policy cannot affect the expected future stock price, but can affect price volatility, which is minimized under non-disclosure. Our results extend to cheap talk settings and Bayesian persuasion games.
+
+Keywords: Optimal contracts, disclosure policy, commitment
+
+JEL Classification: C72, D80, D83
+
+Suggested Citation:
+
+Hummel, Patrick and Morgan, John and Stocken, Phillip C., Optimal Firm (Non-)Disclosure (January 16, 2016). Tuck School of Business Working Paper No. 2727737, Available at SSRN: https://ssrn.com/abstract=2727737 or http://dx.doi.org/10.2139/ssrn.2727737
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+A Beyer , D A Cohen , T Z Lys , B R Walther
+The financial reporting environment: review of the recent literature
+Journal of Accounting and Economics , volume 50 , issue jou_issue[1].xmlText , p. 296 - 343 Posted: 2010
+Crossref
+V P Crawford , J Sobel
+Strategic information transformation
+Econometrica , volume 50 , issue 6 , p. 1431 - 1451 Posted: 1982
+Crossref
+R A Dye
+Disclosure of nonproprietary information
+Journal of Accounting Research , volume 23 , issue 1 , p. 123 - 145 Posted: 1985
+Crossref
+R A Dye
+Investor sophistication and voluntary disclsoures
+Review of Accounting Studies , volume 3 , issue 3 , p. 261 - 287 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+289
+ABSTRACT VIEWS
+2,213
+RANK
+240,980
+1 Citations
+25 References
+PlumX Metrics
+Related eJournals
+
+Tuck School of Business at Dartmouth Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

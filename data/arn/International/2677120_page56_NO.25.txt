@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Interrelation Among Faithful Representation (Reliability), Corruption and IFRS Adoption: An Empirical Investigation
+
+International Journal of Business and Economic Sciences Applied Research, 8(1): 25-50 (2015)
+
+26 Pages Posted: 22 Oct 2015
+
+Alexios Kythreotis
+
+European University Cyprus
+
+Date Written: August 21, 2015
+
+Abstract
+
+Purpose – The degree of corruption, among other things, indicates the non-implementation of laws, weak enforcement of legal sanctions and the existence of non-transparent economic transactions. Therefore, the expected change in reliability (faithful-representation) resulting from the adoption of IAS/IFRS, does not depend solely on the adoption of IAS/IFRS but is also influenced by the degree of corruption in each country. The purpose of this paper is to examine whether the above statement is true.
+
+Design/methodology/approach – The data were taken from DataStream database and the sample period consists of listed companies of fifteen European countries that adopted IAS/IFRS mandatorily. The time horizon is 10 years, from 2000 until 2009. The period between 2000 and 2004 is defined as the period before the adoption, while the period between 2005 and 2009 is defined as the period after the adoption. The reliability/faithful representation of financial statements – as defined by the Conceptual Framework – is detected through regression analysis.
+
+Findings – The findings advocate that the adoption of IFRS/IAS seems to be not enough. It appears that the level of reliability of financial statements in every country does not depend solely on the adoption of IAS/IFRS but is also influenced by the degree of corruption in each country.
+
+Research limitations/implications – The models that are used for the measurement of reliability have as an independent variable the short-term accruals. Given that, the models fail to take into consideration accounting treatments that concern non-current assets/liabilities.
+
+Originality/value – The findings that are identified for counties with a high degree of corruption indicate a statistically significant reduction in reliability after the adoption of IAS/IFRS. These findings constitute a useful tool for the IASB and the European Commission as well as for the users of financial statements.
+
+Keywords: IAS/IFRS Adoption, Faithful representation/reliability, Corruption, Conceptual framework
+
+JEL Classification: M41, M48
+
+Suggested Citation:
+
+Kythreotis, Alexios, The Interrelation Among Faithful Representation (Reliability), Corruption and IFRS Adoption: An Empirical Investigation (August 21, 2015). International Journal of Business and Economic Sciences Applied Research, 8(1): 25-50 (2015), Available at SSRN: https://ssrn.com/abstract=2677120
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+S A Anwer , M Neel , D Wang
+Does Mandatory Adoption of IFRS improve Accounting Quality? Preliminary Evidence Posted: 2010
+R Ball
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors', Accounting and Business Research International Accounting Policy Forum , p. 5 - 27 Posted: 2006
+R Ball , L Shivakumar
+Earnings Quality in UK Private Firms: Comparative Loss Recognition Timeliness
+Journal of Accounting & Economics , volume 39 , issue 1 , p. 83 - 128 Posted: 2005
+Crossref
+R Ball , S P Kothari , A Robin
+The effect of international institutional factors on properties of accounting earnings
+Journal of Accounting and Economics , volume 29 , p. 1 - 51 Posted: 2000
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+231
+ABSTRACT VIEWS
+1,669
+RANK
+302,340
+1 Citations
+26 References
+PlumX Metrics
+Related eJournals
+
+International Accounting eJournal
+
+Follow
+
+Institutions & Transition Economics: Political Economy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

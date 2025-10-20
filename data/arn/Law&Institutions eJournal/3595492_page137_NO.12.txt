@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Trade-off Theory of Corporate Capital Structure
+
+Oxford Research Encyclopedia of Economics and Finance
+
+65 Pages Posted: 11 Jun 2020 Last revised: 13 Jul 2021
+
+Hengjie Ai
+
+University of Wisconsin-Madison
+
+Murray Z. Frank
+
+University of Minnesota
+
+Ali Sanati
+
+American University
+
+Date Written: August 31, 2020
+
+Abstract
+
+This paper provides a survey of the trade-off theory of corporate capital structure. First we provide an analysis of an equilibrium version of the theory. The firm raises debt from an investor. Debt provides interest tax shields but raises the probability of costly bankruptcy. The model provides closed form solutions for the quantity and price of debt. Second, we review dynamic trade-off theory based models. Third, we review the empirical evidence using the equilibrium model as the foundation. The literature has essentially resolved challenges to the theory based on the low leverage puzzle, profits-leverage puzzle, and speed of target adjustment. There is empirical support for predicted interest rate effects, and an impact of market conditions. There is evidence of tax effects in specific contexts, but the predicted tightly structured overall link between taxes and leverage remains challenging to identify. Overall, the theory provides a reasonable basis on which to build our understanding of capital structure. However, we identify several areas where significant theoretical and empirical work remains needed to improve our understanding.
+
+Suggested Citation:
+
+Ai, Hengjie and Frank, Murray Z. and Sanati, Ali, The Trade-off Theory of Corporate Capital Structure (August 31, 2020). Oxford Research Encyclopedia of Economics and Finance, Available at SSRN: https://ssrn.com/abstract=3595492 or http://dx.doi.org/10.2139/ssrn.3595492
+Download This Paper
+ 
+Open PDF in Browser
+122 References
+P M Demarzo
+Presidential address: Collateral and commitment
+Journal of Finance , volume 74 , p. 1587 - 1619 Posted: 2019
+Crossref
+M Z Frank , V K Goyal , T Shen
+The pecking order theory of capital structure
+Economics and Finance Posted: 2020
+Crossref
+J R Graham , C R Harvey
+The theory and practice of corporate finance: Evidence from the field
+Journal of Financial Economics , volume 60 , p. 187 - 243 Posted: 2001
+Crossref
+J R Graham , M T Leary , M R Roberts
+A century of capital structure: The leveraging of corporate America
+Journal of Financial Economics , volume 118 , p. 658 - 683 Posted: 2015
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+5,106
+ABSTRACT VIEWS
+15,187
+RANK
+4,098
+9 Citations
+122 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

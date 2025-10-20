@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Cost of Capital When Dividends are Deductible (Costo de Capital con Dividendos Deducibles) (Spanish)
+
+20 Pages Posted: 24 Dec 2009 Last revised: 26 Dec 2009
+
+Ignacio Velez-Pareja
+
+Grupo Consultor CAV Capital Advisory & Valuation
+
+Julián Benavides Franco
+
+Universidad ICESI - Finance; Universidad ICESI - Economics & Management
+
+Date Written: December 24, 2009
+
+Abstract
+
+When calculating Tax Savings, TS we are confronted with a strange mix of accounting accrual and market value when involving TS in the calculation of the Weighted Average Cost of Capital, WACC or the Cost of Equity, Ke. Firms earn the right to TS once they accrue the interest expense and they actually earn the TS when taxes are paid.
+
+Tax savings and the discount rate we use to calculate their value are involved in the calculation of WACC and Ke. Textbook WACC formulation is a very special and unique case that is not typical. Based on previous findings, we derive a general approach to those formulas that take into account any kind of TS related to the financing decision of a firm and any date when the TS is earned. These formulations can be used to introduce any type of externality that creates value through tax savings not captured by neither the cost of debt nor the cost of equity.
+
+In this paper we develop the formulations for Ke, the cost of levered equity and the average cost of capital when dividends, interest on equity or monetary correction of equity are deductible. This is the case of Brazil.
+
+We show that using the proper formulation the most known valuation methods, i) Firm value with Free Cash Flow and WACC for the FCF; ii) value with the Capital Cash Flow and WACC for the FCC; iii) equity value with the Cash Flow to Equity and Ke, the levered cost of equity plus debt; iv) Adjusted Present Value, APV are consistent and give identical results.
+
+Note: Downloadable document is in Spanish.
+
+Keywords: WACC, interest on equity, tax savings, tax shields, cost of equity, deducible dividends, deducible interest on equity, discount rate for tax savings
+
+JEL Classification: D61, G31, H43
+
+Suggested Citation:
+
+Velez-Pareja, Ignacio and Benavides Franco, Julián, Cost of Capital When Dividends are Deductible (Costo de Capital con Dividendos Deducibles) (Spanish) (December 24, 2009). Available at SSRN: https://ssrn.com/abstract=1527857 or http://dx.doi.org/10.2139/ssrn.1527857
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+263
+ABSTRACT VIEWS
+2,943
+RANK
+265,571
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+Return to Basics: Are You Properly Calculating Tax Shields?
+
+By Ignacio Velez-pareja
+
+Cost of Capital When Dividends are Deductible
+
+By Ignacio Velez-pareja and Julián Benavides Franco
+
+Constructing Consistent Financial Planning Models for Valuation
+
+By Ignacio Velez-pareja
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

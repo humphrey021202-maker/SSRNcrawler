@@ -1,0 +1,102 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Aggregate Information in Different Anomalies: International Evidence
+
+47 Pages Posted: 14 Aug 2018
+
+Qingjie Du
+
+University of Birmingham - Birmingham Business School
+
+Date Written: July 30, 2018
+
+Abstract
+
+This paper conducts a comprehensive empirical test of 20 prominent anomalies using the data from 32 countries/regions during the period 1999 to 2017. My results show that most of the anomalies become weaker or even diminish using data in recent years, both in the US and in other markets. This paper also compares five different information aggregation approaches to evaluate their performance of anomaly returns. The results show that although different aggregation methods may perform better in a specific country, on average the latent variable based approach and the Fama-MacBeth regression based approach outperform other approaches in capturing the return-related information. Moreover, results based on equal-weighted returns provide much more significant anomalies than those based on value-weighted returns.
+
+Keywords: Anomalies, Information Aggregation, Cross-sectional returns, International equity markets
+
+JEL Classification: G12,C58
+
+Suggested Citation:
+
+Du, Qingjie, Aggregate Information in Different Anomalies: International Evidence (July 30, 2018). Available at SSRN: https://ssrn.com/abstract=3222682 or http://dx.doi.org/10.2139/ssrn.3222682
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+112
+ABSTRACT VIEWS
+1,160
+RANK
+568,179
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

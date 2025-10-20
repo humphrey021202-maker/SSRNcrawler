@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Beyond P<0.05: Scientific Inference in Accounting Research
+
+Studies in Accounting Research #34, American Accounting Association
+
+Indian School of Business WP Forthcoming
+
+162 Pages Posted: 19 Apr 2023
+
+Sanjay Kallapur
+
+Indian School of Business
+
+There are 2 versions of this paper
+
+Date Written: December 7, 2022
+
+Abstract
+
+Although the limitations of p-values are well known, researchers continue to (mis)use them for lack of awareness of the alternatives. This monograph comprehensively explains the process of scientific inference, of which the p-value is just one component. The inference process is broader, consisting of research topic choice, assessing plausibility of the tested theory, choosing research designs having high diagnostic ability, and interpreting the results. The best researchers have always followed this process, and the monograph shows how it follows the Bayesian scheme of inference, although not quantified numerically.
+
+Aimed at Ph.D. students and rising scholars, the monograph presents the issues in a non-technical language, with plenty of examples from accounting and other disciplines. It helps scholars to choose and motivate their research topic, identify better research designs, and communicate their findings.
+
+Technical topics covered include well-known ones such as confidence intervals, as well as less-well-known ones such as Bayesianized p-values, false discovery rates, and hierarchical Bayesian models. They are presented in a non-technical manner, with applications. All computer code used is available online.
+
+Qualitative topics covered include how to choose research topics and designs, and write the paper like a story. The monograph urges researchers to choose settings with a high signal-to-noise ratio, rather than get statistical power through large samples.
+
+Overall, the monograph makes a compelling case for using the broader approach to scientific inference as a way of going beyond the limitations of p-values, and offers practical advice with plenty of examples on how to do so. It is written in an engaging and accessible style, making it a valuable resource for both novice and experienced researchers in accounting and related fields.
+
+Keywords: p-values, replication crisis, registered reports, research design, scientific inference
+
+JEL Classification: B40, C10, M40
+
+Suggested Citation:
+
+Kallapur, Sanjay, Beyond P<0.05: Scientific Inference in Accounting Research (December 7, 2022). Studies in Accounting Research #34, American Accounting Association, Indian School of Business WP Forthcoming, Available at SSRN: https://ssrn.com/abstract=4413565 or http://dx.doi.org/10.2139/ssrn.4413565
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+469
+ABSTRACT VIEWS
+2,515
+RANK
+140,123
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

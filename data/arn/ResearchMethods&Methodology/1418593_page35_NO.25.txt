@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Forecasting Stock Returns: Does Switching Between Models Help?
+
+31 Pages Posted: 14 Jun 2009
+
+David G. McMillan
+
+University of Stirling
+
+Date Written: June 12, 2009
+
+Abstract
+
+Research examining the usefulness of non-linear models for stock market returns has almost reached an impasse. While there is general recognition of the superior ability of non-linear models to describe the data, there is less certainty about their ability to forecast the data. As such simple linear models often dominate in forecasting exercises due to their simplicity and any loss with respect to non-linear models is not economically significant. This paper primarily examines not whether a non-linear model can beat a linear model in a straight horse race but whether allowing for the forecast to be given by either the non-linear or linear model depending upon some in-sample criteria provides for improved forecasts. Using a sample of eight international stock markets over the period 1990-2007 our results suggest that on the basis of a trading rule simulation then this model switching approach may provide for forecast improvement although general results based on forecast error metrics are mixed. Nonetheless, the results support the view that this model switching approach is certainly an avenue whereby the value of non-linear forecasts can be realised and is worthy of further exploration.
+
+Keywords: stock market returns, STAR, switching models, forecasting
+
+JEL Classification: C22, G12
+
+Suggested Citation:
+
+McMillan, David G., Forecasting Stock Returns: Does Switching Between Models Help? (June 12, 2009). Available at SSRN: https://ssrn.com/abstract=1418593 or http://dx.doi.org/10.2139/ssrn.1418593
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+Bohl , P L Siklos
+The present value model of US stock prices redux: A new testing strategy and some evidence
+Quarterly Review of Economics and Finance , volume 44 , p. 208 - 223 Posted: 2004
+Crossref
+Bradley , D W Jansen
+Forecasting with a nonlinear dynamic model of stock returns and industrial production
+International Journal of Forecasting , volume 20 , p. 321 - 342 Posted: 2004
+Crossref
+Bredin , S Hyde
+Regime changes in the relationship between stock returns and the macroeconomy Posted: 2005
+Bredin , S Hyde
+Regime change and the role of international markets on the stock returns of small open economies', forthcoming in European Financial Management Posted: 2007
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+280
+ABSTRACT VIEWS
+2,100
+RANK
+248,977
+37 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Forecasting Stock Indices: A Comparison of Classification and Level Estimation Models
+
+By Mark T. Leung, Hazem Daouk, ...
+
+Are the Dynamic Linkages between the Macroeconomy and Asset Prices Time-Varying?
+
+By Sadayuki Ono and Massimo Guidolin
+
+Non-Linear Predictability in Stock and Bond Returns: When and Where is it Exploitable?
+
+By Massimo Guidolin, Stuart Hyde, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

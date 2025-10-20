@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Gap between Theory and Practice of Firm Valuation: Survey of European Valuation Experts
+
+30 Pages Posted: 5 Apr 2014
+
+Franck Bancel
+
+ESCP Business School
+
+Usha R. Mittoo
+
+University of Manitoba - Department of Accounting and Finance
+
+Date Written: March 27, 2014
+
+Abstract
+
+We survey 356 valuation experts across 10 European countries with CFA or equivalent designation to gain some insights into their valuation practices. We find that while most experts use both Discounted Cash Flow (DCF) and Relative Valuation (RV) models, their assumptions and estimation methods for almost all inputs in models vary widely. For example, 65% (35%) use less (more) than three-year historical data for beta estimation; 58% (42%) use ex-post (ex-ante) market risk premium with subjective size or liquidity risk adjustments; 40% (29%) use market (book) value weights for WACC, and about 50% estimate Terminal Value by discounting a normative cash flow until infinity whereas others employ a decreasing cash flow or a multiple approach. In RV application, Firm Value/EBITDA is the most popular multiple used by 83% of experts, followed by PE (68%), Price-to-Book (45%), Firm Value/EBIT (45%), and Firm Value/Sales (45%). About half of respondents have also modified their discount rate, country risk, or liquidity risk estimation in the wake of the 2008 financial crisis. These wide disparities indicate that two valuation experts could arrive at substantially different valuation estimates, despite using the same model. While most disparities arise because theory provides little guidance on estimation, some are also a result of practitioners not following theoretical guidelines, such as using book value weights or not adjusting historical betas to make them forward looking. Our findings suggest that a serious debate is needed between academics and practitioners to make the valuation framework more “practical”.
+
+Keywords: Valuation methods, Firm value, Asset value, Discounted cash flow, Terminal value, CAPM, cost of capital, Relative valuation, Financial crisis, European countries.
+
+JEL Classification: G12, G31, G32
+
+Suggested Citation:
+
+Bancel, Franck and Mittoo, Usha R., The Gap between Theory and Practice of Firm Valuation: Survey of European Valuation Experts (March 27, 2014). Available at SSRN: https://ssrn.com/abstract=2420380 or http://dx.doi.org/10.2139/ssrn.2420380
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+Yakov Amihud , Haim Mendelson
+Liquidity, the value of the Firm, and Corporate Finance
+Journal of Applied Corporate Finance , volume 20 , issue 2 , p. 32 - 45 Posted: 2008
+Crossref
+Franck Bancel , Usha R Mittoo
+Survey evidence on financing decisions and cost of capital
+Capital Structure and Corporate Financing Decisions: Theory, Evidence, and Practice , p. 229 - 248 Posted: 2011
+Crossref
+Franck Bancel , Usha R Mitoo
+Financial flexibility and the impact of global financial crisis: evidence from France
+International Journal of Managerial Finance , volume 7 , issue 2 , p. 179 - 216 Posted: 2011
+Crossref
+Franck Bancel , Usha R Mitoo
+Analyse Financière , volume 48 , p. 80 - 83 Posted: 2013
+Crossref
+Load more
+6 Citations
+Wolfgang Breuer , Karsten Kohn , Klaus Mark
+A note on corporate valuation using imprecise cost of capital
+Journal of Business Economics , volume 87 , issue 6 , p. 709 Posted: 2017
+Crossref
+Welc Jacek
+EBITDA vs. Cash Flows in Bankruptcy Prediction on the Polish Capital Market
+European Financial and Accounting Journal , volume 12 , issue 2 , p. 91 Posted: 2017
+Crossref
+Guillermo L. Dumrauf
+Capital Structure on Valuation
+22 Pages · Posted: 10 Feb 2016 · Downloads: 1,374
+Download PDF  Add Paper to My Library
+М. V. Lychagin , A. V. Novikov
+Valuation of Company, Firm and Other Objects through the Prism of Bibliometric Analysis
+Vestnik NSUEM , issue 3 , p. 132 Posted: 2019
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,793
+ABSTRACT VIEWS
+5,792
+RANK
+22,116
+6 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+European Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

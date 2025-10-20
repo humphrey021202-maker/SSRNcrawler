@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of International Financial Reporting Standards (IFRS) Adoption on the Accounting Quality of Listed Companies in Kenya
+
+43 Pages Posted: 23 Dec 2011 Last revised: 14 Dec 2014
+
+Erick Rading Outa
+
+Charles Darwin University
+
+Date Written: September 30, 2011
+
+Abstract
+
+This study seeks to establish if the adoption of International Financial Reporting Standards (IFRS) in Kenya has been associated with higher accounting quality for listed companies based on the theory that IFRS adoption has benefits such as transparency, accounting quality and reduced cost of capital. By applying quantitative techniques and responding to suggestions on country specific studies, accounting quality measures of earnings management, timely loss recognition and value relevance were analyzed. There was increased variability in earnings in the post adoption period as analyzed by Levenes test for variances with f and p values of 0.000 (<.05). While the variability of change in earnings to variability of change in cash flows showed insignificant decline, analysis based on rank sum tests indicated u=0.0 and p=0.317 implying insignificant difference between the pre and post cash flow and earnings ratio variance. The Spearman correlation between cash flow and accruals as analyzed by Cramer’s test reported a p =.157, that is p>5. The rest of the measures showed insignificant variations. Previous research examined the effects of IFRS adoption mainly in the EU on the impact of IFRS adoption using quantitative techniques with literature citing gaps and conflicting conclusions on accounting quality changes. In contrast, the current research in a common law developing country has shown that IFRS insignificantly improves accounting quality under different circumstances which can be generalized in developing countries. This contribution matters as it implies more debates and better methods to be researched on while adopters to be assured that insignificant improvements appear to be related to compliance and adoption strategies most of which are continuously addressed by the Standard setters and regulators.
+
+Keywords: IFRS, IAS, accounting quality, earnings management, timely loss recognition , Value Relevance
+
+JEL Classification: G14, G15, G30, K22, M41, M42
+
+Suggested Citation:
+
+Outa, Erick Rading, The Impact of International Financial Reporting Standards (IFRS) Adoption on the Accounting Quality of Listed Companies in Kenya (September 30, 2011). Available at SSRN: https://ssrn.com/abstract=1976146 or http://dx.doi.org/10.2139/ssrn.1976146
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+Acca
+Corporate Reporting P2 International Posted: 2008
+Berkshire
+Accountant
+ICPAK Celebrating 30 years of Accounting Excellence
+Journal of the Institute of Certified Public Accountants of Kenya , p. 32 - 36 Posted: 2008
+H Ashbaugh , M Pincus
+Domestic Accounting Standards, International Accounting Standards and Predictability of Earnings
+Journal of Accounting Research , volume 39 , issue 3 , p. 417 - 434 Posted: 2001
+Crossref
+Load more
+7 Citations
+Erick R. Outa
+Economics and Political Implications of International Financial Reporting Standards
+, p. 47 Posted: 2016
+Crossref
+Adel Sobhi Al-Basha , Fatima Muhsen Abdul Amir
+Digital Transformation in Achieving Sustainable Development of Management, Economic, and Applied Sciences
+, volume 2614 , p. 175 Posted: 2026
+Crossref
+In Tae Hwang , Kang Sung Hur , Sun Min Kang
+Does the IFRS Effect Continue? An International Comparison
+Sustainability , volume 10 , issue 12 , p. 4818 Posted: 2018
+Crossref
+Ali Murtadha Shaheen
+The Impact of International Financial Reporting and its Role in Improving the Economic Development of Public Companies: An Analytical Study
+Journal of Law and Sustainable Development , volume 11 , issue 6 , p. e1224 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,622
+ABSTRACT VIEWS
+9,315
+RANK
+12,011
+7 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+International Accounting Standards and Accounting Quality
+
+By Mary E. Barth, Wayne R. Landsman, ...
+
+Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences
+
+By Holger Daske, Luzi Hail, ...
+
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors
+
+By Ray Ball
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

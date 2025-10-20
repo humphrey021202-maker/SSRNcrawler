@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting-Based Risk and the Valuation of R&D Intensive Firms
+
+48 Pages Posted: 23 Jul 2018 Last revised: 13 Sep 2019
+
+Dimos Andronoudis
+
+Fathom Financial Consulting; University of Bristol - Department of Finance and Accounting
+
+Christina Dargenidou
+
+University of Exeter Business School - XFI Centre for Finance and Investment
+
+Eirini Konstantinidi
+
+The University of Manchester - Manchester Business School
+
+Date Written: June 30, 2019
+
+Abstract
+
+We demonstrate that the uncertainty communicated by US R&D accounting is also risk relevant. First, we quantify the information on the uncertainty of future benefits through revisions of expectations regarding future cash flows. R&D significantly influences the market’s revisions of expectations regarding future cash flows (cash flow news) and, slightly, discount rates (discount rate news). This emphasizes that the uncertainty of future R&D-related benefits drives stock return variance. We then examine the risk relevance of this information through its influence on the sensitivities of firm-level cash flow and discount rate news to market return news. Specifically, we gauge whether the stock market beta of R&D active firms is determined by fundamental information or investor sentiment. R&D drives the variation in the sensitivity of firm-level cash flow news to market return news, which supports the view that R&D accounting is risk relevant. There is no pattern on the sensitivity of firm-level discount rate news to market return news, which addresses concerns about the role of R&D-induced sentiment in the stock market beta of R&D active firms.
+
+Keywords: R&D, Risk Relevance, Cash Flows, Variance Decomposition
+
+JEL Classification: G12, G14, M40, M41
+
+Suggested Citation:
+
+Andronoudis, Dimos and Dargenidou, Christina and Konstantinidi, Eirini, Accounting-Based Risk and the Valuation of R&D Intensive Firms (June 30, 2019). Available at SSRN: https://ssrn.com/abstract=3218353 or http://dx.doi.org/10.2139/ssrn.3218353
+Download This Paper
+ 
+Open PDF in Browser
+23 References
+D Li
+Financial constraints, R&D investment, and stock returns
+Review of Financial Studies , volume 24 , issue 9 , p. 2974 - 3007 Posted: 2011
+M R Lyle , C C Y Wang
+The cross section of expected holding period returns and their dynamics: A present value approach
+Journal of Financial Economics , volume 116 , issue 3 , p. 505 - 525 Posted: 2015
+E Mohd
+Accounting for software development costs and information asymmetry
+The Accounting Review , volume 80 , issue 4 , p. 1211 - 1231 Posted: 2005
+L Nakamura
+Investing in intangibles: Is a trillion dollars missing from the GDP?
+Business Review , issue Q4 , p. 27 - 36 Posted: 2001
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+207
+ABSTRACT VIEWS
+2,135
+RANK
+336,300
+23 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

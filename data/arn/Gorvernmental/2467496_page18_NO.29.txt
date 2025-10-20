@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Governance in Not-for-Profit Hospitals: Effects on CEO Compensation and Performance
+
+23 Pages Posted: 17 Jul 2014
+
+Frans Schaepkens
+
+Nyenrode Business University
+
+Roland F. Spekle
+
+Nyenrode Business University
+
+Date Written: July 17, 2014
+
+Abstract
+
+We examine the effect of corporate governance on both CEO compensation and several financial performance indicators in a sample of Dutch hospitals. In a series of pooled regressions, we find evidence that supports earlier findings in the literature. For instance, our results indicate that the size of the supervisory board is associated with lower CEO compensation and higher profitability, suggesting that in the hospital sector, larger boards are more effective from a governance point of view (Aggerwal et al., 2012). We also find a positive association between supervisory board compensation and CEO recompense, which may imply that better paid supervisors are less effective in disciplining CEO rent extraction (Cardinaels, 2009). However, these governance factors add little to the explanation of the variance in CEO compensation and financial performance. Moreover, if we simultaneously correct for both serial and cross-sectional dependence, we no longer find any significant effects for the governance variables included in our study. These results demonstrate the importance of controlling for firm- and year-fixed effects, and suggest that not doing so may lead one to overstate or misinterpret the effects of governance choice.
+
+Keywords: Governance, Hospitals, CEO Compensation, Performance
+
+JEL Classification: I10, G34, L31
+
+Suggested Citation:
+
+Schaepkens, Frans and Spekle, Roland F., Governance in Not-for-Profit Hospitals: Effects on CEO Compensation and Performance (July 17, 2014). Available at SSRN: https://ssrn.com/abstract=2467496 or http://dx.doi.org/10.2139/ssrn.2467496
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+M A Abernethy , E Vagnoni
+Power, organization design and managerial behaviour
+Accounting, Organizations and Society , volume 29 , p. 207 - 225 Posted: 2004
+Crossref
+R K Aggarwal , M E Evans , D Nanda
+Nonprofit boards: size, performance and managerial incentives
+Journal of Accounting and Economics , volume 53 , p. 466 - 487 Posted: 2012
+Crossref
+J A Alexander , B J Weiner , R J Bogue
+Changes in the structure, composition, and activity of hospital governing boards, 1989-1997: evidence from two national surveys
+The Milbank Quarterly , volume 79 , p. 253 - 279 Posted: 2001
+Crossref
+J A Alexander , S D Lee
+Does governance matter? Board configuration and performance in non-for-profit hospitals
+The Milbank Quarterly , volume 84 , p. 733 - 758 Posted: 2006
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+204
+ABSTRACT VIEWS
+2,240
+RANK
+340,955
+37 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

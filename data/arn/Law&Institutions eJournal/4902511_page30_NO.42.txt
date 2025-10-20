@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can the Fight Against Tax Avoidance Be One Click Away?
+
+36 Pages Posted: 23 Jul 2024
+
+Andreia Magalhaes
+
+affiliation not provided to SSRN
+
+Rogério Serrasqueiro
+
+affiliation not provided to SSRN
+
+Paulo Dias
+
+affiliation not provided to SSRN
+
+Abstract
+
+This paper examines the impact of SAF-T (Standard Audit File for Tax Purposes) on tax avoidance activities in Portugal. The sample comprises 299,062 observations from 85,247 non-financial companies from 2012 to 2018, estimated through an ordinary least square panel data regression with firm fixed effects.The study reveals that the implementation of SAF-T measures had a detrimental effect on companies that previously engaged in high levels of tax avoidance, despite the reduction in statutory tax rates. These findings indicate that intensified tax enforcement played a significant role in combating tax evasion and curbing tax avoidance activities.This paper delves into Portugal’s pioneering adoption of SAF-T, establishing the country as a reference in its implementation. The introduction of SAF-T brought about profound societal changes on several fronts. It fostered technological advancements within companies and increased public awareness regarding the importance of tax compliance. The goal of this article is to make a valuable contribution to the literature by offering a practical example of how SAF-T can effectively reduce tax avoidance through strengthened tax enforcement.
+
+Keywords: Tax Avoidance, tax planning, tax aggressiveness, tax enforcement, tax
+
+Suggested Citation:
+
+Magalhaes, Andreia and Serrasqueiro, Rogério and Dias, Paulo, Can the Fight Against Tax Avoidance Be One Click Away?. Available at SSRN: https://ssrn.com/abstract=4902511 or http://dx.doi.org/10.2139/ssrn.4902511
+Download This Paper
+ 
+Open PDF in Browser
+76 References
+A Agarwal , S Chen , L F Mills
+Entity structure and taxes: An analysis of embedded pass-through entities
+Accounting Review , volume 96 , issue 6 , p. 1 - 27 Posted: 2022
+A Al-Hadi , G Taylor , G Richardson
+Are corruption and corporate tax avoidance in the United States related?
+Review of Accounting Studies , volume 27 , issue 1 , p. 344 - 389 Posted: 2022
+M Amidu , W Coffie , P Acquah
+Transfer pricing, earnings management and tax avoidance of firms in Ghana
+Journal of Financial Crime , volume 26 , issue 1 , p. 235 - 259 Posted: 2019
+A Antón , F Hernández-Trillo , D Ventosa-Santaulària
+Effective tax enforcement and demand for cash
+Journal of Macroeconomics Posted: 2021
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+44
+ABSTRACT VIEWS
+212
+76 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information Design with Risk-Dominant Equilibrium Selection and Possibly Heterogeneous Players
+
+TRR 266 Accounting for Transparency Working Paper Series No. 23
+
+24 Pages Posted: 24 Apr 2020 Last revised: 17 Jul 2025
+
+Michael Ebert
+
+University of Paderborn
+
+Joseph (Jay) B. Kadane
+
+Carngeie Mellon University; Carnegie Mellon University - David A. Tepper School of Business
+
+Dirk Simons
+
+University of Mannheim - Accounting and Taxation
+
+Jack Douglas Stecher
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+Date Written: July 15, 2025
+
+Abstract
+
+We study an information design problem in a 2x2 coordination game of imperfect information with heterogeneous players. In particular, we are interested in how large a designer can make the probability of implementing the uniquely Pareto-dominant equilibrium, given that the players will select her recommended equilibrium only if it is risk dominant. A technical challenge is that, in general, risk dominance makes the designer's problem an indefinite quadratic program. To address this challenge, we characterize the designer's risk-dominance constraint as a matrix of low rank, then use this characterization to establish that the value the designer can achieve is continuous in the players' beliefs and payoffs. We further show sufficient conditions under which the standard linear programming techniques apply.
+
+Keywords: Information Design, Risk Dominance, Indefinite quadratic programming, Binary action supermodular games
+
+JEL Classification: C70, C72, D82
+
+Suggested Citation:
+
+Ebert, Michael and Kadane, Joseph (Jay) B. and Kadane, Joseph (Jay) B. and Simons, Dirk and Stecher, Jack Douglas, Information Design with Risk-Dominant Equilibrium Selection and Possibly Heterogeneous Players (July 15, 2025). TRR 266 Accounting for Transparency Working Paper Series No. 23, Available at SSRN: https://ssrn.com/abstract=3564451 or http://dx.doi.org/10.2139/ssrn.3564451
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+A Bardhi , Y Guo
+Modes of persuasion toward unanimous consent
+Theoretical Economics , volume 13 , issue 3 , p. 1111 - 1149 Posted: 2018
+R Battalio , L Samuelson , J Van Huyck
+Optimization incentives and coordination failure in laboratory stag hunt games
+Econometrica , volume 69 , issue 3 , p. 749 - 764 Posted: 2001
+D Bergemann , B Brooks , S Morris
+First-price auctions with general information structures: implications for bidding and revenue
+Econometrica , volume 85 , issue 1 , p. 107 - 143 Posted: 2017
+D Bergemann , S Morris
+Bayes correlated equilibrium and the comparison of information structures in games
+Theoretical Economics , volume 11 , issue 2 , p. 487 - 522 Posted: 2016
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+226
+ABSTRACT VIEWS
+1,337
+RANK
+308,851
+29 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

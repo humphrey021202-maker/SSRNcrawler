@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Estimation of Operational Risks Using Non-Parametric Approaches with an Application to US Business Losses
+
+24th Australasian Finance and Banking Conference 2011 Paper
+
+47 Pages Posted: 25 Aug 2011
+
+Param Silvapulle
+
+Monash University - Department of Econometrics & Business Statistics
+
+Ainura Tursunalieva
+
+Monash University; Monash University - Department of Econometrics & Business Statistics
+
+Date Written: August 18, 2011
+
+Abstract
+
+Following the recent global financial crisis, many banks and other businesses in the industrialized countries incurred notably heavy losses. As a consequence, reliable estimation of operational risk (OR) is becoming increasingly important to all internationally active banks and other financial institutions. The OR is the unexpected loss, which is the difference between the 99:9 per cent quantile and the mean of the loss distribution. This paper adapts non-parametric methods based on heavy-tailed distributions and constructs point and 95 per cent confidence interval (CI) estimates for ORs. The main advantage of these nonparametric methods is that there are no assumptions made about the shape of loss distributions and that data determines their shapes, providing robust estimates for ORs. Employing these methods, we construct point as well as interval estimates for ORs for US businesses. The noteworthy observation is that the CIs are asymmetric with huge upper bounds, highlighting the extent of uncertainties associated with the point estimates of ORs. The estimates of expected shortfalls lie within these intervals. The nonparametric methods introduced in this paper will have much wider applications, for example, in estimating another popular measure of risk, credit risk.
+
+Suggested Citation:
+
+Silvapulle, Param and Tursunalieva, Ainura and Tursunalieva, Ainura, Estimation of Operational Risks Using Non-Parametric Approaches with an Application to US Business Losses (August 18, 2011). 24th Australasian Finance and Banking Conference 2011 Paper, Available at SSRN: https://ssrn.com/abstract=1911752 or http://dx.doi.org/10.2139/ssrn.1911752
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+OR -Operational Risk, ES -Expected Shortfall, NA CI -Normal approximation based confidence interval estimate , volume 501
+C Acerbi , D Tasche
+Expected shortfall: a natural coherent alternative to value at risk Posted: 2001
+Crossref
+J Beirlant , J L Teugels
+Extreme Value Theory, chapter Asymptotic Normality of Hill's estimator Posted: 1987
+J Beirlant , Y Goegebeur , J Segers , J Teugels
+Statistics of Extremes Posted: 2004
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+159
+ABSTRACT VIEWS
+1,771
+RANK
+427,290
+26 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Capital and Risk: New Evidence on Implications of Large Operational Losses
+
+By Patrick De Fontnouvelle, Virginia De Jesus-rueff, ...
+
+Implications of Alternative Operational Risk Modeling Techniques
+
+By Patrick De Fontnouvelle, Eric S. Rosengren, ...
+
+Implications of Alternative Operational Risk Modeling Techniques
+
+By Patrick De Fontnouvelle, John S. Jordan, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

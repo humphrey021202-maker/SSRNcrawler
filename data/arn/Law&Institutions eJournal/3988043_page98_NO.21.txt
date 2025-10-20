@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Banking Sector of Pakistan: Impact of Board of Directors’ Size on Performance
+
+KASBIT Business Journal, 2021
+
+22 Pages Posted: 18 Feb 2022
+
+Ghalib Ayub Hassan
+
+Bahria University
+
+Mubashir Ali Khan
+
+Bahria University
+
+Date Written: September 17, 2021
+
+Abstract
+
+The main objective of this study is to examine the relationship between the Board of Directors’ size and the bank’s performance. Independent variables like Board ownership, Board size, Yearly Board Meetings, Yearly Audit Committee meetings, CEO Ownership, CEO Tenure, Executive Ownership, and Role Duality whereas Return on Assets as a dependent variable are used to measure this relationship. This study uses the data of 32 banks listed in the Pakistan Stock Exchange between the period 2002-2018. To examine the impact statistically, PLS Regression Random Effect Model is used due to higher significance and t-statistics values after exploring both Fixed and random effect models through the Housman test. Results show that board meetings and shares held by the CEO have a negative but significant association with banks’ performance. Audit committee meetings and a total number of board of directors have a significant and positive association with the performance of the bank. CEO Tenure, duality, shares held by the executive director, and shares held by the board of directors have a positive but non-significant association with banks' performance. Study variables explain variation in performance by 55.34%.
+
+Keywords: Pakistan Stock Exchange, Board of Directors’ Size, Performance, Executive Factors, Random Effect Model, ROA
+
+Suggested Citation:
+
+Hassan, Ghalib Ayub and Khan, Mubashir Ali, Banking Sector of Pakistan: Impact of Board of Directors’ Size on Performance (September 17, 2021). KASBIT Business Journal, 2021, Available at SSRN: https://ssrn.com/abstract=3988043
+Download This Paper
+ 
+Open PDF in Browser
+91 References
+R Adams , H Mehran
+Is corporate governance different for bank holding companies
+Economic Policy Review , volume 9 , issue 1 , p. 123 - 142 Posted: 2003
+R Adams , H Mehran
+Bank board structure and performance: evidence for large bank holding companies
+Journal of Financial Intermediation , volume 21 , issue 2 , p. 243 - 267 Posted: 2012
+R B Adams , H Almeida , D Ferreira
+Powerful CEOs and their impact on corporate performance
+Review of Financial Studies , volume 18 , issue 4 , p. 1403 - 1432 Posted: 2005
+A Ahmad , K Rehman , M I Saif
+Islamic Banking Experience of Pakistan: Comparison of Islamic and Conventional Banks
+International Journal of Business and Management , volume 5 , issue 2 , p. 137 - 144 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+74
+ABSTRACT VIEWS
+514
+RANK
+747,544
+91 References
+PlumX Metrics
+Related eJournals
+
+Emerging Markets: Finance eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

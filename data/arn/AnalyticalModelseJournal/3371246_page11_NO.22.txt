@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Entropy and Accounting
+
+35 Pages Posted: 13 May 2019
+
+John C. Fellingham
+
+Ohio State University (OSU) - Department of Accounting & Management Information Systems
+
+Haijin Lin
+
+University of Houston
+
+Douglas Schroeder
+
+Ohio State University (OSU) - Department of Accounting & Management Information Systems
+
+Date Written: April 12, 2019
+
+Abstract
+
+In this paper we establish an equivalence between accounting numbers and information. The information numbers are denominated in entropy which is a measure of uncertainty and is a function of probabilities only. Mutual information is defined as the reduction of entropy when an information source X is available. We state that the log of one plus the accounting rate equals to the sum of the risk free rate and mutual information. Three conditions are sufficient: (i) long run decision frame; (ii) arbitrage free prices; and (iii) accounting valuation approximating discounted cash flows while the discount rate is the sum of risk free rate and mutual information.
+
+We derive two versions of the equivalence; they differ only in the measure of mutual information. One version is for when states of the world are observable and mutual information is the reduction of classical or Shannon entropy. If all possible states of the world are observable (and contractible), then all transactions can be consummated in the marketplace. Hence, firms, and the accounting for firms, might not arise. We extend the results by modeling state unobservability using quantum measurement techniques. The equivalence relation remains the same with quantum measurement probabilities substituted for classical probabilities and mutual information is the reduction of quantum entropy. The classical state observable case is seen to be a special case of the quantum equivalence.
+
+Keywords: information, accounting rate of return, Shannon entropy, quantum entropy, mutual information
+
+JEL Classification: C61, D81
+
+Suggested Citation:
+
+Fellingham, John C. and Lin, Haijin and Schroeder, Douglas, Entropy and Accounting (April 12, 2019). Available at SSRN: https://ssrn.com/abstract=3371246 or http://dx.doi.org/10.2139/ssrn.3371246
+Download This Paper
+ 
+Open PDF in Browser
+8 References
+Thomas M Cover , Joy A Thomas
+Elements of Information Theory Posted: 1991
+Crossref
+Joel S Demski
+Managerial Uses of Accounting Information. Springer series in accounting scholarship Posted: 2008
+John Fellingham , Haijin Lin
+Is accounting an information science
+Accounting, Economics, and Law: A Convivium. Forthcoming Posted: 2019
+Crossref
+E T Jaynes
+Probability Theory: The Logic of Science Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+239
+ABSTRACT VIEWS
+1,774
+RANK
+292,443
+8 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

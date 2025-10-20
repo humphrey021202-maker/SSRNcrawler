@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+'Let’s Have a Chat': Principles for the Effective Application of ChatGPT and Large Language Models in the Practice of Forensic Accounting
+
+Journal of Forensic and Investigative Accounting, July to December 2023 issue, forthcoming.
+
+57 Pages Posted: 10 Feb 2023 Last revised: 5 Apr 2023
+
+Daniel Street
+
+Bucknell University
+
+Joseph Wilck
+
+Bucknell University
+
+Date Written: March 18, 2023
+
+Abstract
+
+ChatGPT has captured the popular imagination because of its conversational voice, its wide scope of ‘knowledge’, and far-ranging abilities. In this paper, we use an innovative interview method to introduce CPAs to ChatGPT, its development, and the current state of its capabilities. We then draw upon our own expertise to discuss the evolution of large language models, suggest applications of large language models (LLMs) in the field of accounting, critically evaluate LLMs’ current strengths and weaknesses, and propose five principles to effectively and safely leverage LLMs in the accounting domain.
+
+Keywords: ChatGPT, Large Language Models, Chatbots, AI
+
+Suggested Citation:
+
+Street, Daniel and Wilck, Joseph, 'Let’s Have a Chat': Principles for the Effective Application of ChatGPT and Large Language Models in the Practice of Forensic Accounting (March 18, 2023). Journal of Forensic and Investigative Accounting, July to December 2023 issue, forthcoming., Available at SSRN: https://ssrn.com/abstract=4351817 or http://dx.doi.org/10.2139/ssrn.4351817
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+References AGI Safety Fundamentals Posted: 2022-01-30
+S Altman
+StrictlyVC in conversation with Sam Altman (OpenAI) [Interview]. Strictly VC Posted: 2023-01-17
+ARCHIVED: 2022 Alignment Fundamentals curriculum Posted: 2022-01-30
+T Brown , B Mann , N Ryder , M Subbiah , J D Kaplan , P Dhariwal , A Neelakantan , P Shyam , G Sastry , A Askell
+Language models are few-shot learners
+Advances in neural information processing systems , volume 33 , p. 1877 - 1901 Posted: 2020
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,614
+ABSTRACT VIEWS
+4,085
+RANK
+25,972
+3 Citations
+16 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

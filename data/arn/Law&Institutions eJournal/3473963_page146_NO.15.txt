@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CEO-CFO Compatibility and Audit Risk
+
+51 Pages Posted: 1 Nov 2019 Last revised: 6 Sep 2022
+
+Robert M. Bowen
+
+Chapman University - The George L. Argyros School of Business & Economics; University of Washington - Foster School of Business
+
+S. Jane (Kennedy) Jollineau
+
+Chapman University - The George L. Argyros School of Business & Economics; University of Washington - Foster School of Business
+
+Sarah C Lyon
+
+University of San Diego
+
+Shavin Malhotra
+
+University of Waterloo
+
+Pengcheng Zhu
+
+University of San Diego - School of Business Administration
+
+Date Written: August 30, 2024
+
+Abstract
+
+This study examines the influence of CEO-CFO compatibility (proxied by the similarity of their personalities) on audit risk (proxied by audit fees). Relying on similarity-attraction theory, we posit that the alignment of the CEO and CFO’s personalities—specifically their “Big Five” traits—enhances internal communication, information sharing, and decision-making processes within the organization, thereby reducing audit risk associated with a firm’s financial reporting. We test our theory using firm fixed effects and find that greater CEO-CFO personality similarity is associated with reduced audit fees. Further, we find that the tenure of the CEO-CFO relationship partially explains the relation between their personality similarity and audit fees. Finally, we find that the effect of CEO-CFO personality similarity on audit fees is stronger when corporate governance allows greater managerial autonomy, i.e., CEO-CFO compatibility is more important for reducing audit risk when corporate governance is weak. Our results are robust after controlling for many other characteristics of the CEO and CFO, and potential endogeneity related to CEO turnover.
+
+Keywords: top management team (TMT); audit fees; engagement risk; CEO-CFO harmony and compatibility; personality similarities and differences; auditor tenure
+
+JEL Classification: D81, D83, D91, G41, M12, M42
+
+Suggested Citation:
+
+Bowen, Robert M. and Kennedy Jollineau, S. Jane and Lyon, Sarah C and Malhotra, Shavin and Zhu, Pengcheng, CEO-CFO Compatibility and Audit Risk (August 30, 2024). Available at SSRN: https://ssrn.com/abstract=3473963 or http://dx.doi.org/10.2139/ssrn.3473963
+Download This Paper
+ 
+Open PDF in Browser
+72 References
+B Adebambo , R M Bowen , S Malhotra , P Zhu
+CEO extraversion and firm risk Posted: 2021
+S Abraham , M Bamber
+The Q&A: Under surveillance. Accounting, Organizations, and Society , volume 58 , p. 15 - 31 Posted: 2017
+AU-C Section 315. Understanding the entity and its environment and assessing the risks of material misstatement Posted: 2018
+S Bandyopadhyay , J Kao
+Market Structure and Audit Fees: A Local Analysis
+Contemporary Accounting Research , volume 21 , issue 3 , p. 529 - 561 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+762
+ABSTRACT VIEWS
+3,712
+RANK
+75,826
+1 Citations
+72 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

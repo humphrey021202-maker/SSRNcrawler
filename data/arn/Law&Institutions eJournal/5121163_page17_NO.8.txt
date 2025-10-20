@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Revenue Recognition of Islamic Financial Institutions: The Curious Choice of Applying IFRS 9 Over IFRS 15 in Accounting for Trade-Based Contracts
+
+8 Pages Posted: 3 Feb 2025
+
+Zulkarnain Muhamad Sori
+
+INCEIF UNIVERSITY; INCEIF, The Global University of Islamic Finance
+
+Date Written: February 02, 2025
+
+Abstract
+
+As opposed to conventional interest-based lending, Islamic financial institutions (IFIs) are guided by the Shariah principles that emphasize trade, asset backed transactions and risk sharing. Instead, contrary to IFRS 9 (Financial instruments), Islamic contracts i.e. Sales-based, Equity-based, Rental-based contracts are only treated as mere financial instruments under current accounting standards, which are inappropriate for Islamic financial transactions. Such a misalignment has implications for the transparency of financial reporting, the accuracy of reporting and Shariah compliance of such financial reporting. The primary purpose of this study is to analyze the appropriateness of IFRS 9 in Islamic finance, and to provide an argument that IFRS 15 (Revenue from Contracts with Customers) is the most suitable standard for revenue recognition in IFIs. This work highlights a number of important points: (1) IFRS 9 classifies Islamic contracts as Murabaha, Ijarah, and Sukuk as financial assets, not trade transactions causing financial statements to not conform to the real meaning of Islamic contracts; (2) The Expected Credit Loss (ECL) model as defined by IFRS 9 as transferring risk when Islamic finance is commonly known as risk-sharing; (3) Revenue generated in Islamic contracts are from selling or leasing assets, not accruing interest and thus IFRS 15 is more appropriate. (5) IFIs face regulatory pressure to adopt IFRS 9 which conflicts with their trade-based institutional identity; (6) IFIs applying IFRS 9 makes them resemble conventional banks through complex transactions around conventional loan practices that damages their credibility as Islamic financial institutions. (7) By adopting IFRS 15, IFIs would achieve better transparency and fair revenue recognition while reinforcing compliance with Shariah principles. In conclusion, Islamic financial institutions should apply IFRS 15 over IFRS 9 because IFRS 15 accurately reflects the true nature of Islamic financial transactions. Islamic financial institutions need to transition away from financial instrument-based accounting towards revenue recognition standards that align with trade and asset-backed transactions to preserve authenticity and comply with Shariah principles.
+
+Keywords: IFRS 9, IFRS 15, Shariah principles, Islamic Finance, Revenue Recognition
+
+Declaration of Interest
+
+NA
+
+Ethics Approval
+
+NA
+
+Funder Statement
+
+NA
+
+Suggested Citation:
+
+Muhamad Sori, Zulkarnain, Revenue Recognition of Islamic Financial Institutions: The Curious Choice of Applying IFRS 9 Over IFRS 15 in Accounting for Trade-Based Contracts (February 02, 2025). Available at SSRN: https://ssrn.com/abstract=5121163 or http://dx.doi.org/10.2139/ssrn.5121163
+Download This Paper
+ 
+Open PDF in Browser
+15 References
+Aaoifi
+Statement on Sukuk. Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI) Posted: 2008
+Aossg
+Agenda Paper 7.1: Islamic Finance : Work done in 2014 Posted: 2014
+A W Dusuki , N I Abdullah
+Maqasid al-Shariah, Maslahah, and Corporate Social Responsibility
+The American Journal of Islamic Social Sciences Posted: 2007
+M El-Gamal
+Islamic Finance: Law, Economics, and Practice Posted: 2006
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+165
+ABSTRACT VIEWS
+1,533
+RANK
+413,842
+15 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

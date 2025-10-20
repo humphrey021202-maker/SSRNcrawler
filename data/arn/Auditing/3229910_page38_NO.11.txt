@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Auditors Charge a Client Business Risk Premium? Evidence from Audit Fees and Derivative Hedging in the U.S. Oil and Gas Industry
+
+Forthcoming, Review of Accounting Studies
+
+54 Pages Posted: 23 Aug 2018 Last revised: 20 Oct 2021
+
+Tharindra Ranasinghe
+
+American University
+
+Lin Yi
+
+University of Houston, Clear Lake
+
+Ling Zhou
+
+University of New Mexico
+
+Date Written: October 1, 2021
+
+Abstract
+
+Prior literature finds that auditors charge higher fees for riskier clients. One reason for this is that auditors expend greater audit effort on riskier clients. However, it is unclear whether they also charge an additional client business risk premium. We investigate this issue employing a detailed, hand-collected dataset of hedging derivative usage by U.S. oil and gas exploration and production firms. Even though the auditing of derivative instruments requires greater auditor effort, hedging significantly reduces client business risk. Consistent with the presence of a client business risk premium in audit fees that gets attenuated when clients reduce their risks by employing derivative hedging, we find a negative association between audit fees and the extent of derivative hedging by clients. Further underscoring the role of risk reduction in this relationship, we find the above negative association to be weaker when the risk management efficacy of derivative instruments is comparatively lower. This negative association is also weaker when effort expended in auditing derivatives is likely to be especially high. We contribute to the literature by providing strong evidence for the presence of a client business risk premium in audit fees.
+
+Keywords: Audit fees, economics of auditing, client business risk, derivatives, hedging, risk management
+
+JEL Classification: G32, L71, L84, M41, M42
+
+Suggested Citation:
+
+Ranasinghe, Tharindra and Yi, Lin and Zhou, Ling, Do Auditors Charge a Client Business Risk Premium? Evidence from Audit Fees and Derivative Hedging in the U.S. Oil and Gas Industry (October 1, 2021). Forthcoming, Review of Accounting Studies, Available at SSRN: https://ssrn.com/abstract=3229910 or http://dx.doi.org/10.2139/ssrn.3229910
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+E Altman
+Corporate Financial Distress: A Complete Guide to Predicting, Avoiding, and Dealing with Bankruptcy Posted: 1983
+Audit Risk and Conducting an Audit. Statement on Auditing Standards No. 47
+AICPA American Institute of Certified Public Accountants (AICPA). 2000. Auditing Derivative Instrument, Hedging Activities, and Investments in Securities , volume 332 Posted: 1983
+D Aobdia
+Do practitioner assessments agree with academic proxies for audit quality? Evidence from PCAOB and internal inspections
+Journal of Accounting and Economics , volume 67 , issue 1 , p. 144 - 174 Posted: 2019
+G Bae , S Choi , P Lamoreaux , J Lee
+Auditors' Fee Premiums and Low-Quality Internal Controls
+Contemporary Accounting Research , volume 38 , issue 1 , p. 586 - 620 Posted: 2021
+Load more
+6 Citations
+Merve ACAR
+Bağımsız Denetim Ücretlerini Etkileyen Faktörlere Yönelik Bir Araştırma: Şeffaflık Raporlarında Yer Alan Denetim Gelirleri Çerçevesinde BIST 100 Örneği
+Sosyoekonomi , volume 30 , issue 51 , p. 365 Posted: 2022
+Crossref
+Tianpei Li , Stephanie Walton
+Is There a Dark Side of Competition? Product Market Competition and Auditor-Client Contracting
+ADIAC-D-22-00056 · 52 Pages · Posted: 28 Jul 2022 · Downloads: 127
+Download PDF  Add Paper to My Library
+Hafiz Hoque , Saadia Irfan
+The role of Big 4 auditors in mitigating climate risk: evidence from earnings conference call-based climate risk
+80 Pages · Posted: 10 Jun 2024 · Last revised: 10 Jun 2024 · Downloads: 80
+Download PDF  Add Paper to My Library
+Hafiz Hoque , Saadia Irfan
+The role of Big 4 auditors in mitigating climate risk: evidence from earnings conference call-based climate risk
+80 Pages · Posted: 4 Jun 2024 · Downloads: 177
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+418
+ABSTRACT VIEWS
+2,451
+RANK
+160,317
+6 Citations
+52 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

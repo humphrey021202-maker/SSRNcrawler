@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The First Real-Time Blockchain VAT - GCC Solves MTIC Fraud
+
+Boston Univ. School of Law, Law and Economics Research Paper No. 17-23
+
+37 Pages Posted: 26 Jul 2017
+
+Richard Thompson Ainsworth
+
+NYU - Graduate Tax Program; Boston University - School of Law
+
+Musaad Alwohaibi
+
+University of Florida Levin College of Law
+
+Date Written: July 24, 2017
+
+Abstract
+
+Following years of study the Gulf Cooperation Council (GCC) appears ready to adopt the recommendations of the International Monetary Fund (IMF) and put in place a tax system that will stabilize revenue. A value added tax (VAT) and corporate income tax (CIT) are considered. A VAT Framework Agreement, that functions like the VAT Directive in the EU, has been agreed.
+
+Although new, the GCC VAT is very worthy of attention. From a tax policy perspective, it is making notable improvements to EU VAT design. The GCC VAT is (potentially) the world’s first real-time, blockchain-secured, multi-jurisdictional VAT. This is a remarkable accomplishment, and it indicates that the GCC has learned and applied a number of global VAT and technology lessons.
+
+One of the most visible flaws in the EU VAT is its openness to cross-border frauds – both intra-community and extra-community frauds. Missing traders are the problem. This is what the GCC has corrected.
+
+The perpetrators of tax fraud are not at all concerned about the specific tax law that they are abusing; they are looking solely at revenue streams, and the probability that they will get caught. As a result, when a fraudster finds a single activity that attacks multiple tax systems, it becomes a favored vector, and we find a nexus of frauds clustered around a unitary fraud operation.
+
+The government’s perspective is just the opposite of the fraudster’s. A focus on one kind of tax fraud may well resolve many more kinds of fraud. This appears to be what will happen as the GCC VAT is rolled out after January 1, 2018. The example considered in this paper involves the illicit cigarette trade. By resolving missing trader frauds, the GCC may (unintentionally) make a serious dent in the illicit cigarette trade and the theft of cigarette tax revenues (a manufacturer’s tax), precisely because the operation of the GCC VAT will increase the cigarette fraudster’s probability of detection.
+
+A “tax fraud nexus” that could easily be replicated in the GCC (if an unmodified EU-style VAT were to be adopted) can be seen in the Danish chocolate frauds. These frauds were examined in the first program of the three part Danish documentary, How Fraudulent Denmark (Sådan Svindles Danmark). The documentary appeared on DR TV January 12 and 25, and February 1, 2016. The fraud vehicle was candy that was re-sold by traders who purchased expired chocolate from the Mars Denmark Company. The primary fraud, re-packaging and then re-selling expired chocolate was carried out in a manner that attacked two tax regimes – the chocolate tax (a manufacturer’s tax) and the VAT (a consumption tax). This scheme funded organized crime; a different scheme examined in the second program of the documentary funded Islamic terrorists. The GCC seems to be very aware of the missing trader fraud discussed in the documentary. Technology innovations that will suppress it are set out in Article 71 of the GCC Framework Agreement. No other VAT Framework or VAT Directive has such a provision.
+
+One of the tax-related side benefits from resolving missing trader fraud in the GCC VAT will likely be the suppression of cigarette smuggling, and the recovery of important revenues from the cigarette tax, which has been raised to a 200% levy. If Denmark had a VAT provision similar to Article 71 it would likely solve the VAT and Chocolate Tax frauds considered in the documentary.
+
+Keywords: GCC, VAT, MTIC, MTEC, Article 71, Cigarette fraud, Chocolate Tax fraud, Blockchain, Missing traders, Sådan Svindles Danmark, DR TV, Terrorist funding, Denmark, Saudi Arabia, UAE
+
+JEL Classification: F10, K10, K14, K34, K39
+
+Suggested Citation:
+
+Ainsworth, Richard Thompson and Alwohaibi, Musaad, The First Real-Time Blockchain VAT - GCC Solves MTIC Fraud (July 24, 2017). Boston Univ. School of Law, Law and Economics Research Paper No. 17-23, Available at SSRN: https://ssrn.com/abstract=3007753 or http://dx.doi.org/10.2139/ssrn.3007753
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+Compared to decentralized proof-of-work and proof-of-stake schemes SCP has modest computing and financial requirements
+The Promise of Blockchain: The Trust Machine
+THE ECONOMIST Posted: 2015-10-31
+Sinclair Davidson , Primavera De Filippi , Jason Potts
+Economics of Blockchain
+Pages: 23 Posted: 9 Mar 2016
+Download PDF  Add Paper to My Library
+Gordon E Moore
+Cramming More Components onto Integrated Circuits
+) reprinting the same title from Electronics , volume 86 , p. 114 - 117 Posted: 1965-04-19
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+805
+ABSTRACT VIEWS
+4,318
+RANK
+70,438
+2 Citations
+19 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public International Law: Courts & Adjudication eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

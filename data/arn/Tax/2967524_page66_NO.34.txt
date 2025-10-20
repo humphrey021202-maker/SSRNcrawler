@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Stability of Tax Elasticities Over the Business Cycle in European Countries
+
+44 Pages Posted: 12 May 2017
+
+Melisso Boschi
+
+Centre for Applied Macroeconomic Analysis (CAMA); Senate of the Republic of Italy
+
+Stefano d'Addona
+
+University of Roma Tre
+
+There are 2 versions of this paper
+
+Date Written: May 11, 2017
+
+Abstract
+
+The change of national income brings about tax revenue change. This relationship is embodied in the tax elasticity and usefully estimated both for the long-run and the short-run. In this paper we show that the short-run tax elasticity - the percent change in the tax revenue in response to a one percent change in national income - changes itself according to the business cycle. Using a novel dataset of tax policy reforms on 15 European countries from 1980 to 2013, we estimate a two state Markov-switching regression model to account for possible differences in tax elasticities during different phases of the economy. The estimated difference between elasticities during booms and recessions turns out to be always statistically significant and often even economically so. Results show a clear tendency for short-run elasticities of (i) indirect taxes, (ii) social contributions, and to a lesser extent, (iii) corporate income taxes to increase in recessions. Differences in tax elasticities for personal income taxes are somehow less pronounced. Across countries, results show a tendency for larger elasticities in recessions to prevail.
+
+Keywords: Tax elasticity, Tax policy discretionary change, Business cycle, European economy, Markov-switching regimes
+
+JEL Classification: C24, C29, E32, E62, H20, H30
+
+Suggested Citation:
+
+Boschi, Melisso and Boschi, Melisso and d'Addona, Stefano, The Stability of Tax Elasticities Over the Business Cycle in European Countries (May 11, 2017). Available at SSRN: https://ssrn.com/abstract=2967524 or http://dx.doi.org/10.2139/ssrn.2967524
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+Salvador Barrios , Raffaele Fargnoli
+European Economy Economic Papers 419, Directorate-General for Economic and Financial Affairs (DG ECFIN), European Commission Posted: 2010-07
+Leon Bettendorf , Duncan Van Limbergen
+The stability of tax elasticities in the Netherlands Posted: 2013-09
+Melisso Boschi , Stefano Addona , Aditya Goenka , ; , Maria Rosaria Marino
+CAMA Working Paper 20/2012, Centre for Applied Macroeconomic Analysis
+The stability of tax elasticities over the business cycle in Italy Posted: 2012
+Carine Bouthevillain , Philippine Cour-Thimann , Gerrit Van De Dool
+Geert Langenus
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+73
+ABSTRACT VIEWS
+1,406
+RANK
+388,855
+1 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Macroeconomics: Monetary & Fiscal Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

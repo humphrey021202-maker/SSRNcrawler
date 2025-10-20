@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Effect of Economic Nexus on Sales Tax Avoidance and Retail Purchases
+
+49 Pages Posted: 11 Oct 2023 Last revised: 24 Dec 2024
+
+Zackery D. Fox
+
+Brigham Young University
+
+John R. Robinson
+
+Texas A&M University - Department of Accounting
+
+Stephen A. Stewart
+
+Trinity University - Department of Accounting
+
+Date Written: September 15, 2023
+
+Abstract
+
+We investigate the impact of adopting economic nexus laws on local consumer consumption patterns. To do so, we focus on a natural experiment involving Washington State, which enacted economic nexus in October of 2018, and its neighboring state Oregon, which has no sales tax. Utilizing data from the Nielsen Consumer Panel survey, we estimate a difference-in-differences regression to test whether the imposition of sales tax on internet purchases in Washington led to an increase in brick and mortar (B&M) retail purchases relative to those in Oregon. We report evidence that consumers in Washington increased purchases at B&M retailers relative to consumers in Oregon, and that this effect is especially prominent in counties surrounding the Washington-Oregon border. We test for whether economic nexus is associated with sales tax avoidance by examining vehicle trips by Washington consumers to five Oregon shopping centers along the Oregon-Washington border. We find that vehicle trips by Washington residents to nearby Oregon shopping centers are also positively associated with Washington’s adoption of economic nexus. These results further confirm the mechanism of sales tax incidence on online sales leading to an increase in cross-border retail B&M shopping trips and offer tangible real-world insight into consumer consumption and sales tax avoidance behavior in our setting.
+
+Keywords: sales taxes, e-commerce, retail sales, South Dakota v. Wayfair
+
+JEL Classification: D12, H25, H26, H73, K34
+
+Suggested Citation:
+
+Fox, Zackery D. and Robinson, John R. and Stewart, Stephen A., The Effect of Economic Nexus on Sales Tax Avoidance and Retail Purchases (September 15, 2023). Available at SSRN: https://ssrn.com/abstract=4573279 or http://dx.doi.org/10.2139/ssrn.4573279
+Download This Paper
+ 
+Open PDF in Browser
+48 References
+D Agrawal
+The internet as a tax haven? The effect of the internet on tax competition
+American Economic Journal: Economic Policy , volume 13 , issue 4 , p. 1 - 35 Posted: 2021
+D Agrawal , W Fox
+Taxes in an e-commerce generation
+International Tax Public Finance , volume 24 , p. 903 - 926 Posted: 2017
+J Alm , M Melnik
+Sales Taxes and the Decision to Purchase Online
+Public Finance Review , volume 33 , issue 2 , p. 184 - 212 Posted: 2005
+A Arya , B Mittendorf
+Bricks-and-mortar entry by online retailers in the presence of consumer sales taxes
+Management Science , volume 64 , issue 11 , p. 5220 - 5233 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+174
+ABSTRACT VIEWS
+975
+RANK
+394,952
+48 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

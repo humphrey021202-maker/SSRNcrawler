@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does the Presence of an Internal Control Audit affect Firm Operational Efficiency?
+
+Contemporary Accounting Research, forthcoming.
+
+45 Pages Posted: 14 Nov 2021 Last revised: 28 Oct 2022
+
+Andy Imdieke
+
+University of Notre Dame - Mendoza College of Business
+
+Chan Li
+
+University of Kansas
+
+Shan Zhou
+
+The University of Sydney
+
+There are 2 versions of this paper
+
+Date Written: October 23, 2022
+
+Abstract
+
+This study examines whether auditors’ evaluation and report of firms’ internal control over financial reporting (ICFR) affects firm operational efficiency. Prior research indicates that the strength of internal controls is positively associated with economic benefits. However, notwithstanding the underlying strength of controls, whether the mere presence of an ICFR audit provides similar economic benefits is unclear. We find that small firms with ICFR audits have significantly higher overall operational efficiency than small firms with only management ICFR reports, even after controlling for underlying internal control strength. We find this effect manifests through improvements in inventory turnover and innovation, and through increased relative product market share. Separately, we find ICFR audits are associated with lower efficiency in SG&A expenses. Cross-sectional analyses indicate that the mechanism by which ICFR audits affect overall operational efficiency is through auditor detection of internal control problems and through knowledge spillover from auditing other highly efficient firms in the audit office’s metropolitan statistical area (MSA). These results provide additional evidence on the ongoing cost and benefit debate of ICFR audits for small firms.
+
+Keywords: operational efficiency; SOX 404(b); ICFR audits
+
+Suggested Citation:
+
+Imdieke, Andrew and Li, Chan and Zhou, Shan, Does the Presence of an Internal Control Audit affect Firm Operational Efficiency? (October 23, 2022). Contemporary Accounting Research, forthcoming., Available at SSRN: https://ssrn.com/abstract=3961921 or http://dx.doi.org/10.2139/ssrn.3961921
+Download This Paper
+ 
+Open PDF in Browser
+65 References
+C Alexander , S Bauguess , G Bernile , Y.-H Lee , J Marietta-Westberg
+Economic effects of SOX Section 404 compliance: A corporate insider perspective
+Journal of Accounting and Economics , volume 56 , p. 267 - 290 Posted: 2013
+D Anantharaman , N Wans
+Audit office experience with SOX 404(b) filers and SOX 404 audit quality
+The Accounting Review , volume 94 , issue 4 , p. 1 - 43 Posted: 2019
+H Ashbaugh-Skaife , D Collins , W Kinney
+The discovery and reporting of internal control deficiencies prior to SOX-mandated audits
+Journal of Accounting and Economics , volume 44 , issue 1-2 , p. 166 - 192 Posted: 2007
+H Ashbaugh-Skaife , D Collins , W Kinney , R Lafond
+The effect of SOX internal control deficiencies and their remediation on accruals quality
+The Accounting Review , volume 83 , issue 1 , p. 217 - 250 Posted: 2008
+Load more
+6 Citations
+Tyler J. Kleppe
+Do companies realize operational benefits from engaging a competitor’s former auditor?
+Review of Accounting Studies, Forthcoming · 60 Pages · Posted: 21 Aug 2020 · Last revised: 2 Apr 2025 · Downloads: 288
+Download PDF  Add Paper to My Library
+Ping Gong , Chan Li , Yanting Shi , Yuan Xie
+Internal Control Processes and Employee Satisfaction
+46 Pages · Posted: 7 Jun 2023 · Last revised: 12 Dec 2023 · Downloads: 217
+Download PDF  Add Paper to My Library
+Zejiang Zhou , Shun Wang , Ming Liu , Ting Zhang
+Weathering the Storm? Supply Chain Climate Risk and Firm Inventory Management
+JBF-D-23-01204 · 59 Pages · Posted: 25 Nov 2023 · Downloads: 93
+Download PDF  Add Paper to My Library
+Michael Iselin , Jacob Ott , Youli Zou
+<span>Is investing in accountants an efficient decision?</span>
+52 Pages · Posted: 20 Dec 2023 · Last revised: 25 Apr 2025 · Downloads: 445
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+461
+ABSTRACT VIEWS
+2,033
+RANK
+143,013
+6 Citations
+65 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

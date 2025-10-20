@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Establishment of the Credit Risk Database: Concrete Use to Evaluate the Creditworthiness of SMEs
+
+ADBI Working Paper 924
+
+27 Pages Posted: 19 Apr 2019
+
+Satoshi Kuwahara
+
+CRD Credit Risk Database
+
+Naoyuki Yoshino
+
+Asian Development Bank Institute
+
+Megumi Sagara
+
+CRD Credit Risk Database
+
+Farhad Taghizadeh-Hesary
+
+Tokai University; Waseda University
+
+Date Written: February 21, 2019
+
+Abstract
+
+The credit risk database (CRD) makes it possible to mitigate the problem of information asymmetry between small and medium-sized enterprises (SMEs) and financial institutions and contributes to improving SMEs’ access to finance by collecting a large number of financial statements through the mechanism of SME finances and establishing a robust statistical model. We use the CRD in Japan, confirm the situation in Japan, and highlight the CRD’s contribution to evaluating the creditworthiness of SMEs. We also explain how to establish the CRD as a financial infrastructure, while indicating that the CRD and the scoring model based on it have maintained their quality owing to their operating system. We hope our experience contributes to the introduction of a statistical credit risk database composed of a large number of anonymous financial statement data in other countries and that the CRD helps to improve SMEs’ access to finance as a financial infrastructure.
+
+Keywords: credit risk database, CRD creditworthiness, SMEs in Japan
+
+JEL Classification: G21, G28, G32
+
+Suggested Citation:
+
+Kuwahara, Satoshi and Yoshino, Naoyuki and Sagara, Megumi and Taghizadeh-Hesary, Farhad, Establishment of the Credit Risk Database: Concrete Use to Evaluate the Creditworthiness of SMEs (February 21, 2019). ADBI Working Paper 924, Available at SSRN: https://ssrn.com/abstract=3374751 or http://dx.doi.org/10.2139/ssrn.3374751
+Download This Paper
+ 
+Open PDF in Browser
+10 References
+Asian Development Bank (ADB). 2015. Asia SME Finance Monitor Posted: 2014
+Studies on the Validation of Internal Rating Systems Posted: 2015
+Crd Association
+Report on the actual status of SMEs based on analysis of the CRD data Posted: 2003
+Satoshi Kuwahara , Naoyuki Yoshino , Megumi Sagara , Farhad Taghizadeh Hesary
+Role of the Credit Risk Database in Developing SMEs in Japan: Lessons for the Rest of Asia
+ADBI Working Paper 547 Pages: 25 Posted: 20 Nov 2015
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+120
+ABSTRACT VIEWS
+1,253
+RANK
+538,134
+10 References
+PlumX Metrics
+Related eJournals
+
+Asian Development Bank Institute Publications
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

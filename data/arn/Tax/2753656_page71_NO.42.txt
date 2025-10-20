@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Taxation and Location of Intangible Assets: Patents vs. Trademarks
+
+ZEW - Centre for European Economic Research Discussion Paper No. 16-015
+
+33 Pages Posted: 24 Mar 2016
+
+Olena Dudar
+
+ZEW – Leibniz Centre for European Economic Research
+
+Johannes Voget
+
+University of Mannheim
+
+Date Written: March 23, 2016
+
+Abstract
+
+Numerous empirical studies have analysed the influence of corporate taxation on the location of intangible assets within a company group. However, the previous literature has rather focused on studying the impact of taxation on patent location choices assuming that these assets represent the rest of intangibles as well. This paper complements previous studies by estimating and comparing the tax elasticities of two different types of intangibles – patents and trademarks. We employ data on European and US patent and trademark applications in the period of 1996-2012 and estimate a multinomial logit model that incorporates various observed and unobserved factors of the intangible’s location choice. According to our main findings, trademarks are more sensitive to changes in taxation as compared to patents. This implies that firms use trademarks more eagerly for tax planning purposes than patents.
+
+Keywords: intangible assets; patent; trademark; tax planning; corporate taxation
+
+JEL Classification: H25, F23, H26, H3
+
+Suggested Citation:
+
+Dudar, Olena and Voget, Johannes, Corporate Taxation and Location of Intangible Assets: Patents vs. Trademarks (March 23, 2016). ZEW - Centre for European Economic Research Discussion Paper No. 16-015, Available at SSRN: https://ssrn.com/abstract=2753656 or http://dx.doi.org/10.2139/ssrn.2753656
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+A Alstadsaeter , S Barrios , G Nicodeme , A Skonieczna , A Vezzani
+Patent Boxes Design, Patents Location and Local R&D
+European Commission Working Paper , issue 57 Posted: 2015
+Crossref
+T Böhm , T Karkinsky , B Knoll , N Riedel
+Corporate Taxes and Strategic Patent Location within Multinational Firms
+CESifo Area Conference on Public Sector Economics 04 Posted: 2015
+J H Collins , D A Shackelford
+Global Organizations and Taxes: An Analysis of the Dividend, Interest, Royalty, and Management Fee Payments between U.S. Multinationals Foreign Affiliates
+Journal of Accounting and Economics , volume 24 , p. 151 - 173 Posted: 1998
+Crossref
+Dirk Crass
+Which Firms Use Trademarks – And Why? Representative Firm-Level Evidence from Germany
+ZEW - Centre for European Economic Research Discussion Paper No. 14-118 Pages: 32 Posted: 10 Feb 2015
+Download PDF  Add Paper to My Library
+Load more
+2 Citations
+Dominika Langenmayr , Franz Reiter
+Trading Offshore: Evidence on Banks' Tax Avoidance
+44 Pages · Posted: 13 Sep 2017 · Last revised: 22 May 2020 · Downloads: 218
+Download PDF  Add Paper to My Library
+Sebastian Beer , Ruud Mooij , Li Liu
+INTERNATIONAL CORPORATE TAX AVOIDANCE: A REVIEW OF THE CHANNELS, MAGNITUDES, AND BLIND SPOTS
+Journal of Economic Surveys , volume 34 , issue 3 , p. 660 Posted: 2020
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+345
+ABSTRACT VIEWS
+2,796
+RANK
+198,930
+2 Citations
+22 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Did the Adoption of IFRS Affect Corporate Tax Avoidance?
+
+Canadian Tax Journal/Revue fiscale canadienne, 2019, Vol. 67, No. 4, p. 947-979
+
+34 Pages Posted: 17 Jan 2020
+
+Oliver Nnamdi Okafor
+
+Toronto Metropolitan University
+
+Akinloye Akindayomi
+
+University of Texas Rio Grande Valley (UTRGV) (Formerly University of Texas-Pan American)
+
+Hussein A. Warsame
+
+University of Calgary
+
+Date Written: December 27, 2019
+
+Abstract
+
+This article investigates whether the adoption of international financial reporting standards (IFRS) affected corporate tax avoidance in Canada. Based on a 3,200 firm-year data set of 400 publicly listed Canadian firms that adopted IFRS and 400 listed US firms, matched one-to-one using propensity score matching, the authors' regression results show that IFRS adoption was followed by a decrease in corporate tax avoidance in Canada, at least in the short run. The study finds a significant increase in cash tax paid in the post-adoption period by Canadian firms that adopted IFRS compared to US firms that used US generally accepted accounting principles. Additional regression results based on a small control sample of Canadian firms that did not adopt IFRS present collaborative evidence. The authors further test specific taxpayer attributes and accounting issues identified in Canada Revenue Agency internal memorandums — in particular, concerns that the adoption of IFRS may increase the risk of tax avoidance. While the authors find evidence that the IFRS firms that engaged in accrual management paid more taxes in the post-adoption period, their analysis provides no evidence of statistically significant relationships between IFRS adoption and tax avoidance associated with revenue management, ownership of foreign operations, industry membership, profitability, or impairment losses or writeoffs. Taken together, the authors' findings present preliminary but strong empirical evidence that IFRS adoption is associated with a decrease in corporate tax avoidance, at least in the short run.
+
+Keywords: IFRS, International Financial Reporting Standards, tax avoidance, corporate taxes, Canada Revenue Agency
+
+Suggested Citation:
+
+Okafor, Oliver Nnamdi and Akindayomi, Akinloye and Warsame, Hussein A., Did the Adoption of IFRS Affect Corporate Tax Avoidance? (December 27, 2019). Canadian Tax Journal/Revue fiscale canadienne, 2019, Vol. 67, No. 4, p. 947-979, Available at SSRN: https://ssrn.com/abstract=3510246
+Download This Paper
+ 
+Open PDF in Browser
+7 References
+. . Nol
+Crossref
+. . Capex
+. . Inventory
+Crossref
+. . Foreign
+Load more
+2 Citations
+Ruiyuan Chen , Sadok El Ghoul , Omrane Guedhami , He Wang , Yang Yang
+Corporate Governance and Tax Avoidance: Evidence from U.S. Cross-listing
+The Accounting Review · 50 Pages · Posted: 25 Jun 2019 · Last revised: 10 Mar 2023 · Downloads: 1,209
+Download PDF  Add Paper to My Library
+Ruiyuan Chen , Sadok El Ghoul , Omrane Guedhami , Robert C. Nash , Yang Yang , Yang Yang
+Do as I Say, Not as I Do: Tax Avoidance by State-Owned Firms
+59 Pages · Posted: 17 Jan 2024 · Downloads: 239
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+245
+ABSTRACT VIEWS
+1,484
+RANK
+285,369
+2 Citations
+7 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

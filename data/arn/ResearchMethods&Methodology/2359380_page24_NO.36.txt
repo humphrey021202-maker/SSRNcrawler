@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Option-Implied Correlations and the Price of Correlation Risk
+
+Netspar Discussion Paper No. 07/2013-061
+
+48 Pages Posted: 26 Nov 2013
+
+Joost Driessen
+
+Tilburg University - Tilburg University School of Economics and Management; Tilburg University - Center for Economic Research (CentER)
+
+Pascal J. Maenhout
+
+INSEAD - Finance
+
+Grigory Vilkov
+
+Frankfurt School of Finance & Management
+
+There are 2 versions of this paper
+
+Date Written: July 26, 2013
+
+Abstract
+
+Motivated by extensive evidence that stock-return correlations are stochastic, we analyze whether the risk of correlation changes (affecting diversification benefits) may be priced. We propose a direct and intuitive test by comparing option-implied correlations between stock returns (obtained by combining index option prices with prices of options on all index components) with realized correlations. Our parsimonious model shows that the substantial gap between average implied (39.5% for S&P500 and 46.0% for DJ30) and realized correlations (32.5% and 35.5%, respectively) is direct evidence of a large negative correlation risk premium. Empirical implementation of our model also indicates that the index variance risk premium can be attributed to the high price of correlation risk. Finally, we provide evidence that option-implied correlations have remarkable predictive power for future stock market returns, which also stays significant after controlling for a number of fundamental market return predictors.
+
+Suggested Citation:
+
+Driessen, Joost and Maenhout, Pascal J. and Vilkov, Grigory, Option-Implied Correlations and the Price of Correlation Risk (July 26, 2013). Netspar Discussion Paper No. 07/2013-061, Available at SSRN: https://ssrn.com/abstract=2359380 or http://dx.doi.org/10.2139/ssrn.2359380
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,755
+ABSTRACT VIEWS
+5,871
+RANK
+5,692
+31 Citations
+45 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

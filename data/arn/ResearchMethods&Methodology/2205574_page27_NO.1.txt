@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting and the Formation of Share Market Prices Over Time: A Mathematical Institutional Economic Analysis Through Simulation and Experiment
+
+Eastern Economic Association (EEA), 39th Annual Conference, NYC Computational Economics and Complexity Workshop, New York, 9-11 May 2013
+
+8th Annual Workshop on the Economic Science with Heterogeneous Interacting Agents (WEHIA 2013), June 20-22, 2013, Reykjavik University, Iceland
+
+Applied Economics, 2015
+
+24 Pages Posted: 23 Jan 2013 Last revised: 17 Mar 2015
+
+Yuri Biondi
+
+Université Paris-Dauphine, PSL Research University - National Center for Scientific Research
+
+Date Written: January 20, 2013
+
+Abstract
+
+This paper develops an agent-based model to examine the emergent dynamic properties of share market price formation over time, with a view on financial market stability under alternative accounting regimes. In the model, individual heterogeneous investors interact with each other and with institutional devices which are an accounting system (related to the business firm) and a price system (related to the Share Exchange). These interactions provide mechanisms for transmission through which firm-specific (accounting signal) and market-driven (aggregate price) drivers can act. A baseline simulation analysis assesses the financial market stability under three alternative accounting designs, namely two kinds of historical cost accounting regime and one kind of fair value (mark-to-market) accounting regime. The former prove to better stabilize the financial system for market volatility and exuberance in perfectly balanced conditions between speculative and fundamentalist beliefs and intentions. An evolutionary analysis is then developed by varying the relative degree of speculative attitudes. Historical cost accounting regimes further prove to make the financial system more resilient to speculative waves occurring at inter-individual level. Baseline findings are further corroborated through experimental analysis in ten artificial financial systems. This mathematical institutional economic analysis has general implications for both designing accounting systems aimed at enhancing financial market stability and preventing procyclicality, and the study of accounting information process in the formation of share market prices over time.
+
+Keywords: financial stability, financial resilience, accounting model, fair value, international accounting, market efficiency, market exuberance, market volatility, accounting procyclicality
+
+JEL Classification: M40, D40, D47, G38, L22, C63, C99
+
+Suggested Citation:
+
+Biondi, Yuri, Accounting and the Formation of Share Market Prices Over Time: A Mathematical Institutional Economic Analysis Through Simulation and Experiment (January 20, 2013). Eastern Economic Association (EEA), 39th Annual Conference, NYC Computational Economics and Complexity Workshop, New York, 9-11 May 2013, 8th Annual Workshop on the Economic Science with Heterogeneous Interacting Agents (WEHIA 2013), June 20-22, 2013, Reykjavik University, Iceland, Applied Economics, 2015, Available at SSRN: https://ssrn.com/abstract=2205574 or http://dx.doi.org/10.2139/ssrn.2205574
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+Robert N Anthony
+Rethinking the rules of financial accounting. Examining the rules for proper reporting Posted: 2004
+M Aoki , H Yoshikawa
+Reconstructing Macroeconomics Posted: 2006
+Crossref
+Arnold Patricia , J
+Global financial crisis: The challenge to accounting research
+Accounting, Organizations and Society , volume 34 , issue 6-7 , p. 803 - 809 Posted: 2009-08
+Mary E Barth , Wayne R Landsman
+How Did Financial Reporting Contribute to the Financial Crisis
+European Accounting Review Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+305
+ABSTRACT VIEWS
+2,785
+RANK
+227,558
+4 Citations
+43 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+An Economic Analysis of Fair Value: Accounting as a Vector of Crisis
+
+By Vincent Bignon, Yuri Biondi, ...
+
+Mathematical Institutional Economics
+
+By Martin Shubik
+
+Share Price Formation, Financial Instability and Accounting Design
+
+By Yuri Biondi and Pierpaolo Giannoccolo
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

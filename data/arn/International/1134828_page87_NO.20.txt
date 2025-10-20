@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Deriving a Holistic Performance Measurement System for the European Clearing Industry
+
+14th Americas Conference in Information Systems, Toronto, Canada
+
+14 Pages Posted: 21 May 2008 Last revised: 16 Mar 2011
+
+Michael Chlistalla
+
+Goethe University Frankfurt Faculty of Economics and Business Administration
+
+Torsten Schaper
+
+Deutsche Börse Group; Goethe University Frankfurt Faculty of Economics and Business Administration
+
+Date Written: 2008
+
+Abstract
+
+European clearing houses are facing competition on their home markets for the first time. In order to meet this new challenge, the management of a clearing house needs to identify its stakeholders and their interests and must define a strategy including financial and non-financial aims. We introduce the Balanced Scorecard as a funded and holistic approach for the management of a clearing house. To meet the specifics of the clearing industry, we present an adjustment and extension of Kaplan and Norton's original concept. Particularly risk management requires detailed consideration. We therefore add risk management as a separate perspective and integrate competition and IT into the modified Balanced Scorecard. Furthermore, we outline our research model for the validation of the modifications.
+
+Keywords: Network Industries, Financial Infrastructures, Management Information Systems, Balanced Scorecard, Stakeholder Value
+
+JEL Classification: M40, M41, M46, M47, G21, G34
+
+Suggested Citation:
+
+Chlistalla, Michael and Schaper, Torsten, Deriving a Holistic Performance Measurement System for the European Clearing Industry (2008). 14th Americas Conference in Information Systems, Toronto, Canada, Available at SSRN: https://ssrn.com/abstract=1134828
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+H Ahn
+How to Individualise Your Balanced Scorecard
+Measuring Business Excellence , volume 9 , p. 5 - 12 Posted: 2005
+Crossref
+S Blumenberg , D Hinz
+Enhancing the Prognostic Power of IT Balanced Scorecards
+39th Hawaii International Conference on System Sciences Posted: 2006
+A Borchardt , S E Göthlich
+Erkenntnissgewinnung durch Fallstudien
+Methodik der empirischen Forschung , p. 33 - 48 Posted: 2007
+Crossref
+Recommendation for securities settlement systems, Bank for International Settlements
+CPSS Posted: 2001-11
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+71
+ABSTRACT VIEWS
+1,575
+RANK
+766,148
+42 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Trends in European Clearing and Settlement Industry - The European Code of Conduct and Target2-Securities
+
+By Torsten Schaper
+
+Competitive Clearing in Europe: Development of a Performance Measurement System in a Changing Environment
+
+By Torsten Schaper and Michael Chlistalla
+
+Managing Performance with the Balanced Scorecard - The Case of the European Clearing Industry
+
+By Torsten Schaper and Michael Chlistalla
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

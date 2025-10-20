@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Credit Rating Inflation Influence Loan Contract Design?
+
+50 Pages Posted: 8 Nov 2024
+
+Edward Owens
+
+University of Utah - David Eccles School of Business
+
+Peter R. Demerjian
+
+School of Accountancy, J. Mack Robinson College of Business, Georgia State University
+
+Matias Sokolowski
+
+University of New Mexico - Robert O. Anderson Schools of Management
+
+Ling Zhou
+
+University of New Mexico
+
+Date Written: September 26, 2024
+
+Abstract
+
+The issuer-pay model of major credit rating agencies has long been criticized for its potential to create conflicts of interest and inflated ratings. We provide evidence that rating inflation affects the design of private loan contracts. We find that lenders are less likely to grant performance-sensitive debt indexed to credit ratings (rating-based PSD) when issuer-paid ratings are inflated. Furthermore, difference-in-differences analysis indicates that rating-based PSD is more likely after an exogenous shock that decreases the inflation of issuer-paid ratings. In response to rating inflation, the lender increases monitoring efforts by relying on performance covenants. Consistent with increased monitoring and renegotiation costs, interest spreads are higher for borrowers with inflated ratings. We further document an effect on other important contract terms. Our evidence is consistent with lenders adjusting different contract terms to compensate for monitoring deficiencies associated with inflated credit ratings.
+
+Keywords: debt contracts, credit rating inflation, issuer-pay model, performance-sensitive debt, performance-pricing provisions, financial covenants
+
+JEL Classification: G21, M40, M41
+
+Suggested Citation:
+
+Owens, Edward and Demerjian, Peter R. and Sokolowski, Matias and Zhou, Ling, Does Credit Rating Inflation Influence Loan Contract Design? (September 26, 2024). Available at SSRN: https://ssrn.com/abstract=4968844 or http://dx.doi.org/10.2139/ssrn.4968844
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+T R Adam , D Streitz
+Hold-up and the use of performance-sensitive debt
+Journal of Financial Intermediation , volume 26 , p. 47 - 67 Posted: 2016
+T Adam , V Burg , T Scheinert , D Streitz
+Managerial biases and debt contract design: the case of syndicated loans
+Management Science , volume 66 , p. 352 - 375 Posted: 2020
+P Asquith , A Beatty , J Weber
+Performance pricing in bank debt contracts
+Journal of Accounting and Economics , volume 40 , p. 101 - 128 Posted: 2005
+D C Badoer , C Demiroglu , C James
+Ratings quality and borrowing choice
+The Journal of Finance , volume 74 , p. 2619 - 2665 Posted: 2019
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+128
+ABSTRACT VIEWS
+640
+RANK
+511,510
+49 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

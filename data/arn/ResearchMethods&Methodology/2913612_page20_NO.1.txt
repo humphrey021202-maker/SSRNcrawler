@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Using the EDGAR Log File Data Set
+
+36 Pages Posted: 8 Feb 2017 Last revised: 17 Feb 2017
+
+James Ryans
+
+London Business School
+
+Date Written: February 8, 2017
+
+Abstract
+
+The SEC's EDGAR log file data set is a collection of web server log files that allow researchers to study the demand for SEC filings. This multiple terabyte data set provides researchers with a direct measure of demand for financial reports, but the log files must be filtered to remove downloads by computer programs (or robots), and the sheer size of the files presents big data challenges. This paper compares three methods for counting human views in the EDGAR log files and aggregates the data on a filing-day basis so that it is accessible to desktop hardware and statistical analysis software. Overall, the three methods agree on the robot-human classification for 96 percent of users, but for sample 10-K filings, they can disagree by up to 27 percent. Download counts may be biased by up to 36 percent if multiple views by the same user are counted. Ryans's 2017 method eliminates multiple download counting and appears to effectively classify robots in cases of disagreement among the measures. The choice of measure may be particularly important when studying demand for Forms 10-K, 10-Q, 4, 13F-HR, as well as SEC comment letters. The aggregated data and sample code are available from the author.
+
+Keywords: EDGAR downloads, SEC filings, demand for financial information, investor attention, big data
+
+JEL Classification: M41, G14, G18
+
+Suggested Citation:
+
+Ryans, James, Using the EDGAR Log File Data Set (February 8, 2017). Available at SSRN: https://ssrn.com/abstract=2913612 or http://dx.doi.org/10.2139/ssrn.2913612
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+Alastair Lawrence , James Ryans , Estelle Yuan Sun , Nikolay Laptev
+Yahoo Finance Search and Earnings Announcements
+Pages: 47 Posted: 9 Jul 2016
+Download PDF  Add Paper to My Library
+Alastair Lawrence , James Ryans , Estelle Yuan Sun
+Investor Demand for Sell-Side Research
+Accounting Review, Vol. 92. No. 2, 2017 Pages: 57 Posted: 11 Nov 2012 Last revised: 30 Mar 2017
+Download PDF  Add Paper to My Library
+C M Lee , P Ma , C C Wang
+Search-based peer firms: Aggregating investor perceptions through internet co-searches
+Journal of Financial Economics , volume 116 , issue 2 , p. 410 - 431 Posted: 2015
+Crossref
+R Lehavy , R G Sloan
+Investor recognition and stock returns
+Review of Accounting Studies , volume 13 , issue jou_issue[1].xmlText , p. 327 - 361 Posted: 2008
+Crossref
+Load more
+34 Citations
+Charles Cao , David Gempesaw , Timothy T Simin , Stijn Van Nieuwerburgh
+Information Choice, Uncertainty, and Expected Returns
+The Review of Financial Studies , volume 34 , issue 12 , p. 5977 Posted: 2021
+Crossref
+Daniel Andrei , Henry Friedman , N. Bugra Ozel
+Economic uncertainty and investor attention
+Journal of Financial Economics , volume 149 , issue 2 , p. 179 Posted: 2023
+Crossref
+Charles M.C. Lee , Edward Watts
+Tick Size Tolls: Can a Trading Slowdown Improve Earnings News Discovery?
+Stanford University Graduate School of Business Research Paper No. 19-1, The Accounting Review, Forthcoming · 59 Pages · Posted: 11 Nov 2018 · Last revised: 7 Jul 2020 · Downloads: 1,278
+Download PDF  Add Paper to My Library
+Jeong‐Bon Kim , Edward Lee , Zhenmei (Judy) Zhu
+Do Firm‐Specific Stock Price Crashes Lead to a Stimulation or Distortion of Market Information Efficiency?*
+Contemporary Accounting Research , volume 39 , issue 3 , p. 2175 Posted: 2022
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,860
+ABSTRACT VIEWS
+10,076
+RANK
+10,422
+34 Citations
+9 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

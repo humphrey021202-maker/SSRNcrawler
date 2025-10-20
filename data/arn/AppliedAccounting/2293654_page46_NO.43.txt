@@ -1,0 +1,148 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting and the Macroeconomy: The Case of Aggregate Price-Level Effects on Individual Stocks
+
+Financial Analysts Journal, Year 2013, Volume 69, Number 6 (November/December), Pages 40-54
+
+32 Pages Posted: 16 Jul 2013 Last revised: 5 Apr 2016
+
+Yaniv Konchitchki
+
+University of California, Berkeley - Haas School of Business
+
+Date Written: November 1, 2013
+
+Abstract
+
+This study sheds new light on the cross-sectional effects of inflation, which have substantial implications for stock valuation. I use financial statement analysis to examine systematic stock-valuation effects of aggregate price-level changes on individual companies, focusing on the implications for both researchers and investment practitioners. I develop inflation-adjustment procedures that are straightforward for investors to implement in real time for extracting the inflation effect on individual companies. I find that inflation-based investment strategies conditioned on information available to investors as of the initial investment and rebalancing dates result in significant risk-adjusted returns. I also investigate the sources of abnormal returns to inflation-based investment strategies. Specifically, I estimate two separate components of the inflation effect on individual companies, one based on only monetary holdings (using the net position of monetary holdings) and the other based on only nonmonetary holdings. Investigating the stock-valuation implications of extracting the components-based inflation effect reveals striking evidence. In particular, investing based on the inflation effect on companies’ net monetary holdings results in insignificant abnormal hedge returns. In contrast, investing based on the inflation effect on companies’ nonmonetary holdings consistently yields economically and statistically significant abnormal hedge returns. These findings indicate that inflation-based abnormal hedge returns are driven not by the exposure of companies’ net monetary holdings to inflation but, rather, by the exposure of their nonmonetary holdings to inflation. These results are consistent with the fact that companies’ nonmonetary holdings are usually held for several years and thus accumulate inflationary effects over time whereas their monetary holdings are, on average, naturally hedged because the exposure of monetary assets cancels the exposure of monetary liabilities for the average company. In addition, I examine the direction of the stock returns to real-time investment strategies.
+
+Keywords: Accounting, Aggregate Price Levels, Capital Markets, Financial Statement Analysis, Forecasting, Hedge, Inflation, Investment, Macroeconomics, Returns, Stock Valuation
+
+JEL Classification: E01, E02, E31, G23, M21, M41
+
+Suggested Citation:
+
+Konchitchki, Yaniv, Accounting and the Macroeconomy: The Case of Aggregate Price-Level Effects on Individual Stocks (November 1, 2013). Financial Analysts Journal, Year 2013, Volume 69, Number 6 (November/December), Pages 40-54, Available at SSRN: https://ssrn.com/abstract=2293654
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+J Abarbanell
+Do Analysts' Earnings Forecasts Incorporate Information in Prior Stock Price Changes?
+Journal of Accounting and Economics , volume 14 , issue 2 , p. 147 - 165 Posted: 1991-06
+Crossref
+Jeffery S. Abarbanell , Brian J. Bushee
+Abnormal Returns to a Fundamental Analysis Strategy
+Pages: 40 Posted: 2 Dec 1996
+Download PDF  Add Paper to My Library
+D Aboody , M E Barth , R Kasznik
+Revaluations of Fixed Assets and Future Firm Performance: Evidence from the UK
+Journal of Accounting and Economics , volume 26 , issue jou_issue[1].xmlText , p. 149 - 178 Posted: 1999-01
+Crossref
+A Ang , M Brier , O Signori
+Inflation and Individual Equities
+Financial Analysts Journal , volume 68 , issue 4 , p. 36 - 55 Posted: 2012-07
+Crossref
+Load more
+2 Citations
+Neil L. Fargher , Lijuan Zhang
+Investor Protection, Aggregate Changes in Profit Margins and Forecasts of Growth in GDP: International Evidence
+50 Pages · Posted: 18 Aug 2020 · Last revised: 17 Apr 2023 · Downloads: 1,043
+Download PDF  Add Paper to My Library
+Gil Sadka , Ronnie Sadka , Ayung Tseng
+The Rising Importance of Aggregate Earnings for Asset Prices
+Georgetown McDonough School of Business Research Paper No. 4068891 · 54 Pages · Posted: 8 Apr 2022 · Last revised: 13 Sep 2022 · Downloads: 434
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+511
+ABSTRACT VIEWS
+5,194
+RANK
+126,330
+2 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+Arbitrage Risk and Post-Earnings-Announcement Drift
+
+By Richard R. Mendenhall
+
+Liquidity and the Post-Earnings-Announcement Drift
+
+By Tarun Chordia, Ronnie Sadka, ...
+
+Liquidity and the Post-Earnings-Announcement Drift
+
+By Tarun Chordia, Amit Goyal, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Econometrics of the Basu Asymmetric Timeliness Coefficient and Accounting Conservatism
+
+Journal of Accounting Research, Forthcoming
+
+Chicago Booth Research Paper No. 13-65
+
+37 Pages Posted: 2 Aug 2013
+
+Ray Ball
+
+University of Chicago - Booth School of Business
+
+S.P. Kothari
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Valeri V. Nikolaev
+
+University of Chicago Booth School of Business
+
+There are 3 versions of this paper
+
+Date Written: August 1, 2013
+
+Abstract
+
+A substantial literature investigates conditional conservatism, defined as asymmetric accounting recognition of economic shocks (“news”), and how it depends on various market, political and institutional variables. Studies typically assume the Basu (1997) asymmetric timeliness coefficient (the incremental slope on negative returns in a piecewise-linear regression of accounting income on stock returns) is a valid conditional conservatism measure. We analyze the measure’s validity, in the context of a model with accounting income incorporating different types of information with different lags, and with noise. We demonstrate that the asymmetric timeliness coefficient varies with firm characteristics affecting their information environments, such as the length of the firm’s operating and investment cycles, and its degree of diversification. We particularly examine one characteristic, the extent to which “unbooked” information (such as revised expectations about rents and growth options) is independent of other information, and discuss the conditions under which a proxy for this characteristic is the market-to-book ratio. We also conclude that much criticism of the Basu regression misconstrues researchers’ objectives.
+
+Keywords: Conditional conservatism, Timely loss recognition, Basu model, Returns-earnings regressions, Earning respnse coefficients, Market-to-book ratio
+
+Suggested Citation:
+
+Ball, Ray and Kothari, S.P. and Nikolaev, Valeri V., Econometrics of the Basu Asymmetric Timeliness Coefficient and Accounting Conservatism (August 1, 2013). Journal of Accounting Research, Forthcoming, Chicago Booth Research Paper No. 13-65, Available at SSRN: https://ssrn.com/abstract=2304913
+Download This Paper
+ 
+Open PDF in Browser
+42 References
+A Ali , L Hwang , M Trombley
+Arbitrage risk and the book-to-market anomaly
+Journal of Financial Economics , volume 69 , p. 355 - 373 Posted: 2003
+Crossref
+L Bachelier
+Théorie de la spéculation
+Annales Scientifiques de l'École Normale Supérieure , volume 3 , p. 21 - 86 Posted: 1900
+Crossref
+R Ball , P Brown
+An empirical evaluation of accounting income numbers
+Journal of Accounting Research , volume 6 , p. 159 - 177 Posted: 1968
+Crossref
+R Ball , S Kothari , V Nikolaev
+On estimating conditional conservatism
+The Accounting Review , volume 88 , p. 755 - 787 Posted: 2013
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+627
+ABSTRACT VIEWS
+6,263
+RANK
+2,892
+9 Citations
+42 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Sample Statistics as Convincing Evidence: A Tax Fraud Case
+
+NHH Dept. of Business and Management Science Discussion Paper No. 2018/12
+
+32 Pages Posted: 25 Oct 2018
+
+Jostein Lillestol
+
+NHH Norwegian School of Economics - Department of Business and Management Science
+
+Date Written: September 25, 2018
+
+Abstract
+
+This report deals with the analysis of data used by tax officers to support their claim of tax fraud at a pizzeria. The possibilities of embezzlement under study are overreporting of take-away sales and underreporting of cash payments. Several modelling approaches are explored, ranging from simple well-known methods to presumably more precise tools. More specifically, we contrast common methods based on normal assumptions and models based on Gamma-assumptions. For the latter, both maximum likelihood and Bayesian approaches are covered. Several criteria for the choice of method in practice are discussed, among them, how easy the method is to understand, justify and communicate to the parties. Some dilemmas present itself: the choice of statistical method, its role in building the evidence, the choice of risk factor, the application of legal principles like “clear and convincing evidence” and “beyond reasonable doubt”. The insights gained may be useful for both tax officers and defenders of the taxpayer, as well as for expert witnesses.
+
+Keywords: Gamma-Beta analysis, Bayesian Gamma-analysis, Risk analysis
+
+JEL Classification: C00, C10, C11, C13
+
+Suggested Citation:
+
+Lillestol, Jostein, Sample Statistics as Convincing Evidence: A Tax Fraud Case (September 25, 2018). NHH Dept. of Business and Management Science Discussion Paper No. 2018/12, Available at SSRN: https://ssrn.com/abstract=3272185 or http://dx.doi.org/10.2139/ssrn.3272185
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+C Aitken , P Roberts , G Jackson
+Fundamentals of Probability and Statistical Evidence in Criminal Proceedings. Guidance for Judges, Lawyers, Forensic Scientists and Expert Witnesses, Practitioners Guide No 1. Prepared under the auspices of Royal Statistical Society's Working Group on Statistics and the Law Posted: 2010
+Crossref
+J C Bright , J B Kadane , D S Nagin
+Statistical Sampling in Tax Audits , volume 13 , p. 305 - 333 Posted: 1988
+Crossref
+Coic &amp; Rss
+Statistics and Probability for Advocates: Understanding the Use of Statistical Evidence in Courts and Tribunals. The Council of Inns of Court (COIC) in cooperation with Posted: 2017
+M H Degroot , S E Fienberg , Kadane
+Statistics and the Law Posted: 1986
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+69
+ABSTRACT VIEWS
+1,263
+RANK
+778,997
+19 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

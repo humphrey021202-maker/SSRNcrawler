@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Exploring Irregular Time Series Through Non-Uniform Fast Fourier Transform
+
+Proceedings of the International Conference for High Performance Computating, IEEE, 2014.
+
+26 Pages Posted: 30 Aug 2014 Last revised: 8 Oct 2014
+
+Jung Heon Song
+
+University of California, Berkeley - Lawrence Berkeley National Laboratory (Berkeley Lab)
+
+Marcos Lopez de Prado
+
+Abu Dhabi Investment Authority; Cornell University - Operations Research & Industrial Engineering; ADIA Lab; True Positive Technologies
+
+Horst Simon
+
+University of California, Berkeley - Lawrence Berkeley National Laboratory (Berkeley Lab)
+
+Kesheng Wu
+
+University of California, Berkeley - Lawrence Berkeley National Laboratory (Berkeley Lab)
+
+Date Written: August 26, 2014
+
+Abstract
+
+One of the fundamental shortcoming of the popular analysis tools for time series is that they require the data to be taken at uniform time intervals. However, the real-world time series, such as those from financial markets, are mostly from irregular time intervals. It is a common practice to resample the irregular time series into a regular one, but, there are significant limitations on this practice. For example, if one is to resample the trading activities on a stock into hourly series, then the time series can only last through the trading day because there usually is no trading in the night. In this work, we directly explore the dynamics of irregular time series through a tool known as Non-Uniform Fast Fourier Transform (NUFFT). To illustrate its effectiveness, we apply NUFFT on the trading records of natural gas futures contracts for the last seven years. Results accurately capture well-known structural features in the trading records, such as weekly and daily cycles, and at the same time also reveal unknown or unexplored features, such as the presence of multiple power laws. In particular, we observe a new power law in the Fourier spectra in recent years.
+
+Keywords: In-homogeneous Time Series, Non-Uniform Fourier Transform, High Frequency Trading, Sampling Frequency, Volume Time
+
+JEL Classification: C02, D52, D53, G14
+
+Suggested Citation:
+
+Song, Jung Heon and López de Prado, Marcos and Simon, Horst and Wu, Kesheng, Exploring Irregular Time Series Through Non-Uniform Fast Fourier Transform (August 26, 2014). Proceedings of the International Conference for High Performance Computating, IEEE, 2014., Available at SSRN: https://ssrn.com/abstract=2487656 or http://dx.doi.org/10.2139/ssrn.2487656
+Download This Paper
+ 
+Open PDF in Browser
+65 References
+P Babu , P Stoica
+Spectral analysis of nonuniformly sampled data -a review
+Digital Signal Processing , volume 20 , issue 2 , p. 359 - 378 Posted: 2010
+Crossref
+Matthew Baron , Jonathan Brogaard , Björn Hagströmer , Andrei A. Kirilenko
+Risk and Return in High-Frequency Trading
+Journal of Financial and Quantitative Analysis (JFQA), Forthcoming Pages: 82 Posted: 6 May 2014 Last revised: 29 May 2024
+Download PDF  Add Paper to My Library
+L Bauwens , D Veredas
+The stochastic conditional duration model: a latent variable model for the analysis of financial durations
+Journal of econometrics , volume 119 , issue 2 , p. 381 - 412 Posted: 2004
+Crossref
+P Bloomfield
+Fourier analysis of time series: an introduction Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,647
+ABSTRACT VIEWS
+6,952
+RANK
+25,180
+1 Citations
+65 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

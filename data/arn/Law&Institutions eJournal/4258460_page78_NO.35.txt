@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Designing For Comparability: A Foundational Principle of Analysis Missing In Carbon Reporting Systems
+
+70 Pages Posted: 29 Oct 2022 Last revised: 27 Jul 2023
+
+Jimmy Jia
+
+Smith School for Enterprise and the Environment, Oxford University; Energy and Environmental Management Institute, George Washington University; UK Centre for Greening Finance and Investment
+
+Nicola Ranger
+
+London School of Economics, Grantham Research Institute on Climate Change and the Environment
+
+Abrar Chaudhury
+
+University of Oxford
+
+Date Written: October 25, 2022
+
+Abstract
+
+Market participants require comparability to make decisions, and policies aimed at using market mechanisms to address climate change relies on this ability. However, this paper shows that the commonly used GHG emission metrics are suitable for trend analysis, continuous improvement, and target setting, but not fit-for-purpose in making comparative assertions between multiple entities. Therefore, relying on contemporary greenhouse gas (GHG) emission metrics could limit policymaker’s efficacy in using market forces in climate change interventions. We propose three conditions for a metric system to make comparative assertions taken from three fields, accounting, engineering, and social science. As the scientific community continues to develop additional metric systems for biodiversity, nature, water, land use, and other environmental indicators, policy makers, regulators, and standard setters can use these necessary conditions to ensure that the new metric systems are fit-for-purpose for the financial sector.
+
+Keywords: ESG accounting, GHG Protocol, comparability, classification systems, life cycle assessment
+
+JEL Classification: Q57, M48, Q51
+
+Suggested Citation:
+
+Jia, Jimmy and Ranger, Nicola and Chaudhury, Abrar, Designing For Comparability: A Foundational Principle of Analysis Missing In Carbon Reporting Systems (October 25, 2022). Available at SSRN: https://ssrn.com/abstract=4258460 or http://dx.doi.org/10.2139/ssrn.4258460
+Download This Paper
+ 
+Open PDF in Browser
+88 References
+References
+S Alvarez , A Carballo-Penela , I Mateo-Mantecón , A Rubio
+Strengths-Weaknesses-Opportunities-Threats analysis of carbon footprint indicator and derived recommendations
+Journal of Cleaner Production , volume 121 , p. 238 - 247 Posted: 2016
+J Andrew , C Cortese
+Carbon Disclosures: Comparability, the Carbon Disclosure Project and the Greenhouse Gas Protocol
+&sid =c383ca10-3 , volume 5 Posted: 2011
+M Balouktsi , T Lützkendorf
+Energy Efficiency of Buildings: The Aspect of Embodied Energy. Energy Technology , volume 4 , issue 1 , p. 31 - 43 Posted: 2016
+Load more
+1 Citations
+Ivan Ruiz Manuel , Kornelis Blok
+Quantitative evaluation of large corporate climate action initiatives shows mixed progress in their first half-decade
+Nature Communications , volume 14 , issue 1 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+994
+ABSTRACT VIEWS
+4,096
+RANK
+52,766
+1 Citations
+88 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

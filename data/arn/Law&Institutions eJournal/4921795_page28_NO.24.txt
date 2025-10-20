@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Blockchain-Induced Supply Chain Transparency and Firm Performance: The Role of Capacity Utilization
+
+35 Pages Posted: 6 Sep 2024 Last revised: 16 Oct 2025
+
+ShinWoo Lee
+
+Hong Kong Baptist University (HKBU) – Department of Accountancy and Law
+
+Jedson Pinto
+
+University of Texas at Dallas
+
+Daniel Rabetti
+
+National University of Singapore (NUS); Harvard Business School
+
+Gil Sadka
+
+University of Texas at Dallas
+
+Date Written: August 02, 2024
+
+Abstract
+
+This study empirically investigates how blockchain adoption affects firm profitability. Employing a quasi-experimental design triggered by regulatory changes across the United States, we provide novel empirical evidence to recent theory, proposing that blockchain adoption increases profitability when capacity utilization is low and reduces profitability when capacity utilization is high. Pinpointing the economic channel, we further demonstrate that blockchain-enabled transparency affects firms’ profitability by reducing costs, with no significant effect on firms’ sales. Finally, we expand the discussion on the effects of blockchain adoption by moving beyond theory to highlight that competition between manufacturers and buyers is a key factor in understanding the impact of blockchain on firms. Collectively, our study is one of remarkably few large sample empirical papers examining the implications of blockchain adoption for firm performance, therefore, providing timely insights into the impact of emerging supply-chain technologies in companies.
+
+Keywords: Supply Chain, Smart Contracts, Capacity Utilization, Blockchain
+
+JEL Classification: G15, G18, G29, K29, K42, O16
+
+Suggested Citation:
+
+Lee, Shin Woo and Pinto, Jedson and Rabetti, Daniel and Sadka, Gil, Blockchain-Induced Supply Chain Transparency and Firm Performance: The Role of Capacity Utilization (August 02, 2024). Available at SSRN: https://ssrn.com/abstract=4921795 or http://dx.doi.org/10.2139/ssrn.4921795
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+D Amiram , B N Jørgensen , D Rabetti
+Coins for bombs: The predictability of on-chain transfers for terrorist attacks
+Journal of Accounting Research , volume 60 , issue 2 , p. 427 - 466 Posted: 2022
+K S Anand , M Goyal
+Strategic information management under leakage in a supply chain
+Management Science , volume 55 , issue 3 , p. 438 - 452 Posted: 2009
+D Aobdia
+Employee mobility, noncompete agreements, product-market competition, and company disclosure
+Review of Accounting Studies , volume 23 , p. 296 - 346 Posted: 2018
+A Arya , B Mittendorf
+Supply chains and segment profitability: How input pricing creates a latent cross-segment subsidy
+The Accounting Review , volume 86 , issue 3 , p. 805 - 824 Posted: 2011
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+434
+ABSTRACT VIEWS
+1,602
+RANK
+153,527
+57 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

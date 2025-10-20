@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Is VAT Administration System Efficient? The case of the Czech Republic
+
+Central European Public Administration Review, 18(2), 2020
+
+14 Pages Posted: 22 Mar 2021
+
+Hana Zídková
+
+Prague University of Economics and Business
+
+Tomáš Vrána
+
+Prague University of Economics and Business
+
+Date Written: July 13, 2020
+
+Abstract
+
+This paper is focused on the efficiency of VAT collection under the standard credit invoice method. It discusses several approaches on how to evaluate the efficiency of the VAT system. The authors create their own indicator called the C-Coefficient that determines how many times must one unit of currency be checked by the financial authority to collect it into public budgets. The C-Coefficient is calculated from the data on VAT revenues and total VAT paid on all taxable supplies performed in the economy. The concrete results are shown for the Czech Republic for the period 2005 to 2018. The C-Coefficient reaches the values between 7.92 and 11.56, meaning that in the most efficient year (2018) the tax authorities had to inspect each collected CZK more than 7 times, whereas in the least efficient year (2008) they had to audit each collected CZK more than 11 times. Authors also discuss what influences the C-Coefficient. Among important factors are measures against VAT fraud, especially the specific reverse charge, as well as the number of VAT payers in the pro-duction and distribution chain and the difference between the average VAT rates applicable on final and intermediate consumption.
+
+Keywords: C-Coefficient, definitive VAT system, final consumption, intermediate consumption, reverse charge, VAT efficiency, collection efficiency, Czech Republic
+
+JEL Classification: H21, H26
+
+Suggested Citation:
+
+Zídková, Hana and Vrána, Tomáš, Is VAT Administration System Efficient? The case of the Czech Republic (July 13, 2020). Central European Public Administration Review, 18(2), 2020, Available at SSRN: https://ssrn.com/abstract=3797707
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+R T Ainsworth
+VAT Fraud as a Policy Stimulus -Is the US Watching? VAT Withholding, RTvat, and the Mittler Model
+Boston University School of Law Working Paper , issue 8 Posted: 2011-11
+Crossref
+J Aizenman , Y Jinjarak
+The Collection Efficiency of the Value Added Tax: Theory and International Evidence
+The Journal of International Trade and Economic Development , volume 17 , issue 3 , p. 391 - 410 Posted: 2008
+Crossref
+J Alm , D Duncan
+Estimating Tax Agency Efficiency: Estimating Tax Agency Efficiency
+Public Budgeting & Finance , volume 34 , issue 3 , p. 92 - 110 Posted: 2014
+Crossref
+Luca Barbone , Richard Miller Bird , Jaime Vázquez Caro
+The Costs of VAT: A Review of the Literature
+Case Network Reports No. 106/2012 Pages: 66 Posted: 16 Mar 2012 Last revised: 4 May 2012
+Download PDF  Add Paper to My Library
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+69
+ABSTRACT VIEWS
+574
+RANK
+778,997
+21 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

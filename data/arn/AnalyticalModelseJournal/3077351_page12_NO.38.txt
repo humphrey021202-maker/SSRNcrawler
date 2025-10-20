@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Managing Project Selection Through Contract Design
+
+Rotman School of Management Working Paper No. 3077351
+
+50 Pages Posted: 29 Nov 2017
+
+Ying Bao
+
+University of Illinois at Urbana-Champaign - Department of Business Administration
+
+Mengze Shi
+
+Hong Kong University of Science & Technology (HKUST) - Department of Marketing; University of Toronto - Rotman School of Management
+
+Ajay Kalra
+
+Carnegie Mellon University
+
+Date Written: November 25, 2017
+
+Abstract
+
+A common decision that organizations make is to prioritize and allocate resources to managers of competing new product projects. On successful completion of the projects, organizations often reward their project managers using a standardized incentive plan; that is, they reward the success of all managers equivalently disregarding the differential amount of resources invested in the projects. We develop a theoretical model to explain this puzzling practice. We model the phenomena where the project managers have private information about the quality of their own projects, and can manipulate the signals of project quality that the organization receives during the identification and resource-allocation stage. We show that when the managers have private information about their project types, a standardized incentive plan encourages the manager of a high-quality project to manipulate more and stand out. We argue that a standardized incentive plan is preferred because such a plan leads to more accurate resource allocation, even though a customized incentive plan is more efficient in inducing the implementation effort. We extend the model to consider alternative project evaluation and selection procedures and find the optimality of the standardized incentive plan to be robust.
+
+Keywords: New Product Development, Incentive Mechanisms, Moral Hazard, Managerial Manipulation
+
+Suggested Citation:
+
+Bao, Ying and Shi, Mengze and Kalra, Ajay, Managing Project Selection Through Contract Design (November 25, 2017). Rotman School of Management Working Paper No. 3077351, Available at SSRN: https://ssrn.com/abstract=3077351 or http://dx.doi.org/10.2139/ssrn.3077351
+Download This Paper
+ 
+Open PDF in Browser
+11 References
+A Arya , J Glover , B Mittendorf , Ye , L
+On the use of customized versus standardized performance measures
+Journal of Management Accounting Research , p. 7 - 21 Posted: 2005
+Crossref
+Ramji Balakrishnan , Haijin Lin , Shiva Sivaramakrishnan
+Task Assignment, Relative and Absolute Performance Evaluation
+AAA 2015 Management Accounting Section (MAS) Meeting Pages: 44 Posted: 19 Aug 2014
+Download PDF  Add Paper to My Library
+C G Begley , L M Ellis
+Drug development: Raise standards for preclinical cancer research
+Nature , p. 531 - 533 Posted: 2012
+Crossref
+A Bernardo , H Cai , J Luo
+Capital budgeting and compensation with asymmetric information and moral hazard
+Journal of Financial Economics , p. 311 - 344 Posted: 2001
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+162
+ABSTRACT VIEWS
+1,805
+RANK
+420,501
+11 References
+PlumX Metrics
+Related eJournals
+
+University of Toronto - Rotman School of Management Research Paper Series
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

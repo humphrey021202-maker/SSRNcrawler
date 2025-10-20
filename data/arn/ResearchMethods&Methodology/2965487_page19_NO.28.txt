@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Modeling the Dependence of Conditional Correlations on Market Volatility
+
+Journal of Business and Economic Statistics, 34/2, 254-268, 2016
+
+38 Pages Posted: 9 May 2017
+
+Luc Bauwens
+
+Université catholique de Louvain
+
+Edoardo Otranto
+
+University of Messina; Universita di Cagliari - Centre for North South Economic Research (CRENOS)
+
+Date Written: March 19, 2015
+
+Abstract
+
+Several models have been developed to capture the dynamics of the conditional correlations between time series of financial returns and several studies have shown that the market volatility is a major determinant of the correlations. We extend some models to include explicitly the dependence of the correlations on the market volatility. The models differ by the way – linear or nonlinear, direct or indirect – in which the volatility influences the correlations. Using a wide set of models with two measures of market volatility on two data sets, we find that for some models, the empirical results support to some extent the statistical significance and the economic significance of the volatility effect on the correlations, but the presence of the volatility effect does not improve the forecasting performance of the extended models.
+
+Appendix is available at: https://ssrn.com/abstract=2965503
+
+Keywords: Dynamic conditional correlations, Markov switching, Minimum variance portfolio, Model confidence set, Forecasting
+
+JEL Classification: C22, C51, C53, C58
+
+Suggested Citation:
+
+Bauwens, Luc and Otranto, Edoardo, Modeling the Dependence of Conditional Correlations on Market Volatility (March 19, 2015). Journal of Business and Economic Statistics, 34/2, 254-268, 2016, Available at SSRN: https://ssrn.com/abstract=2965487
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+G P Aielli
+Dynamic conditional correlations: On properties and estimation
+Journal of Business and Economic Statistics , volume 31 , p. 282 - 299 Posted: 2013
+Crossref
+A Ang , G Bekaert
+International asset allocation with regime shifts
+Review of Financial Studies , volume 15 , issue 4 , p. 1137 - 1187 Posted: 2002
+Crossref
+L Bauwens , C Hafner , D Pierret
+Multivariate volatility modeling of electricity futures
+Journal of Applied Econometrics , volume 28 , p. 743 - 761 Posted: 2013
+Crossref
+L Bauwens , A Preminger , J Rombouts
+Theory and inference for a Markovswitching GARCH models
+The Econometrics Journal , volume 13 , p. 218 - 244 Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+89
+ABSTRACT VIEWS
+995
+RANK
+667,795
+1 Citations
+30 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

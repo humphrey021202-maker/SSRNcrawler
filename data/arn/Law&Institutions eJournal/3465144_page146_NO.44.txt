@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Insider Trading and the Market Abuse Directive: Are Voluntary and Mandatory Takeover Bids Different?
+
+Italian Economic Journal (2021), Vol. 7, No. 3, pp. 461–85
+
+36 Pages Posted: 16 Oct 2019 Last revised: 2 Nov 2021
+
+Riccardo Ferretti
+
+Università di Modena e Reggio Emilia - Dipartimento di Comunicazione e Economia
+
+Pierpaolo Pattitoni
+
+University of Bologna, Department of Statistical Sciences; University of Bologna - Rimini Center for Economic Analysis (RCEA)
+
+Roberto Patuelli
+
+University of Bologna - Department of Economics
+
+Date Written: October 14, 2019
+
+Abstract
+
+This study analyzes the effectiveness of the Market Abuse Directive (MAD) in reducing possible profits from insider trading during takeover bids. Exploiting the quasi-experimental setting provided by the introduction of the MAD, our event-study analysis on the Italian market suggests that the new regulation did produce effects, for mandatory offers, on the magnitude of abnormal returns and volumes noted before their announcement. Instead, we find no effect for voluntary offers, which prove to be intrinsically different from the latter ones. Multivariate econometric analyses based on regression and matching methods confirm this result. We interpret our results in light of the choice problem of the optimal amount of insider trading, based on the comparison of marginal costs and benefits of the illegal activity, after considering the differences between voluntary and mandatory offers.
+
+Keywords: Market Abuse Directive, Takeover bids, Event study
+
+JEL Classification: K2, K4, G34, G14
+
+Suggested Citation:
+
+Ferretti, Riccardo and Pattitoni, Pierpaolo and Patuelli, Roberto, Insider Trading and the Market Abuse Directive: Are Voluntary and Mandatory Takeover Bids Different? (October 14, 2019). Italian Economic Journal (2021), Vol. 7, No. 3, pp. 461–85, Available at SSRN: https://ssrn.com/abstract=3465144
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+G Alexandridis , K P Fuller , L Terhaar , N G Travlos
+Deal size, acquisition premia and shareholder gains
+Journal of Corporate Finance , volume 20 , p. 1 - 13 Posted: 2013
+M G Allingham , A Sandmo
+Income tax evasion: A theoretical analysis
+Journal of Public Economics , volume 1 , p. 323 - 338 Posted: 1972
+B B Ajinkya , P C Jain
+The behaviour of daily stock market trading volume
+Journal of Accounting and Economics , volume 11 , p. 331 - 359 Posted: 1989
+J D Angrist , J S Pischke
+Mostly harmless econometrics: An empiricist's companion Posted: 2008
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+66
+ABSTRACT VIEWS
+1,086
+RANK
+798,750
+59 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Board interlock networks and informed short sales
+
+Journal of Banking and Finance, Vol. 98, 2019
+
+47 Pages Posted: 10 Jan 2022
+
+Shijun Cheng
+
+Shanghai Advanced Institute of Finance (SAIF), Shanghai Jiao Tong University
+
+Robert Felix
+
+Catholic University of America (CUA) - Busch School of Business and Economics
+
+Yijiang Zhao
+
+American University - Kogod School of Business
+
+Date Written: November 6, 2018
+
+Abstract
+
+This study examines the association between informed short selling and a firm’s position in the board interlock network formed by shared directors. We find that better-connected firms experience higher levels of informed short selling and that this association is driven by both eigenvector centrality (a measure that accounts for both the quantity and quality of firms’ ties) and betweenness centrality (a measure of the extent to which firms serve as information intermediaries), not by degree centrality (a measure that only counts the quantity of their ties) in interlock networks. In addition, the positive association between interlock centrality and informed trading is more pronounced for firms whose directors have more opportunities to interact with directors of external firms in the network, consistent with director information leakage serving as a plausible underlying channel. Our further tests do not support an alternative interpretation based on short sellers’ superior processing of public information. Our findings have policy implications for regulators and professional director associations.
+
+Keywords: board interlock networks, centrality, director information leakage, short sales
+
+JEL Classification: G14, G18, G30, M41
+
+Suggested Citation:
+
+Cheng, Shijun and Felix, Robert and Zhao, Yijiang, Board interlock networks and informed short sales (November 6, 2018). Journal of Banking and Finance, Vol. 98, 2019, Available at SSRN: https://ssrn.com/abstract=4002719
+Download This Paper
+ 
+Open PDF in Browser
+57 References
+F Akbas , F Meschke , M B Wintoki
+Director networks and informed traders
+Journal of Accounting and Economics , volume 62 , issue 1 , p. 1 - 23 Posted: 2016
+N Ambady , M Weisbuch , S T Fiske , D T Gilbert , ; , G Lindzey
+Nonverbal behavior
+Handbook of Social Psychology , volume 1 Posted: 2010
+R C Anderson , D M Reeb , W Zhao
+Family controlled firms and informed trading: Evidence from Short Sales
+Journal of Finance , volume 67 , issue 1 , p. 351 - 385 Posted: 2012
+C S Armstrong , D F Larcker
+Discussion of 'The Impact of the Options Backdating Scandal on Shareholders' and 'Taxes and the backdating of stock option exercise date
+Journal of Accounting and Economics , volume 47 , p. 50 - 58 Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+70
+ABSTRACT VIEWS
+503
+RANK
+772,295
+5 Citations
+57 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

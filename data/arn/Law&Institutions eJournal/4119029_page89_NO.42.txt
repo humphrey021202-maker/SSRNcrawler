@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Real Effects of Hedge Accounting Standards: Evidence from ASU 2017-12
+
+INSEAD Working Paper No. 2023/61/ACC
+
+71 Pages Posted: 1 Jun 2022 Last revised: 31 Oct 2023
+
+Waqar Ali
+
+HEC Paris - Accounting and Management Control Department; INSEAD - Accounting and Control Area
+
+Daniel A. Bens
+
+University of New Hampshire, Peter T. Paul College of Business and Economics, Students
+
+Gavin Cassar
+
+INSEAD
+
+Date Written: April 16, 2024
+
+Abstract
+
+Complexity in applying financial accounting standards can have real operational effects if firms alter their actions in response to increased reporting costs. We examine whether the introduction of ASU 2017-12, designed to reduce compliance burden and better align hedge accounting rules with risk management practices, led to more effective hedging. Using detailed hedging disclosures, we show firms that adopt the ASU expand the use of hedge-accounted derivatives and reduce exposures to interest rate and foreign currency risks. ASU-adopting firms also reduce cash flow volatility, increase their use of debt, invest more, and reduce information asymmetry in the equity market. Our analyses reveal that easing hedge effectiveness tests and reliefs targeting ‘cash flow hedges’ and ‘net investment hedges of foreign operations’ were the most influential of the ASU’s reforms. Our study is the first to integrate the effects of hedge accounting frictions on firms’ risk management activities and resulting spillovers to debt financing and investments.
+
+Keywords: Hedge accounting, Risk management, Derivatives, Reporting complexity, SFAS 133, SFAS 161, ASU 2017-12, Real effects
+
+JEL Classification: M41, G32
+
+Suggested Citation:
+
+Ali, Waqar and Bens, Daniel A. and Cassar, Gavin, Real Effects of Hedge Accounting Standards: Evidence from ASU 2017-12 (April 16, 2024). INSEAD Working Paper No. 2023/61/ACC, Available at SSRN: https://ssrn.com/abstract=4119029 or http://dx.doi.org/10.2139/ssrn.4119029
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+W Ali
+The Differential Impact of Financial Reporting Complexity on Public and Private Debt Contracting: Evidence from ASU 2017-12 Posted: 2024
+A C Baker , D F Larcker , C C Wang
+How much should we trust staggered difference-in-differences estimates?
+Journal of Economics , volume 144 , issue 2 , p. 370 - 395 Posted: 2022
+J M Barrios
+Staggeringly problematic: A primer on staggered DiD for accounting researchers Posted: 2021
+A Beatty , J Weber
+The effects of debt contracting on voluntary accounting method changes
+The Accounting Review , volume 78 , issue 1 , p. 119 - 142 Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+480
+ABSTRACT VIEWS
+2,473
+RANK
+136,170
+3 Citations
+66 References
+PlumX Metrics
+Related eJournals
+
+INSEAD Working Paper Series
+
+Follow
+
+Risk Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Out-of-Sample Forecast Evaluation under Stationarity
+
+CERGE-EI Working Paper Series No. 712
+
+44 Pages Posted: 30 Dec 2021
+
+Filip Staněk
+
+Charles University in Prague - CERGE-EI, a joint workplace of Charles University and the Economics Institute of the Czech Academy of Sciences
+
+Date Written: December 1, 2021
+
+Abstract
+
+It is common practice to split time-series into in-sample and pseudo out-of-sample segments and to estimate the out-of-sample loss of a given statistical model by evaluating forecasting performance over the pseudo out-of-sample segment. We propose an alternative estimator of the out-of-sample loss which, contrary to conventional wisdom, utilizes both measured in-sample and out-of-sample performance via a carefully constructed system of affine weights. We prove that, provided that the time-series is stationary, the proposed estimator is the best linear unbiased estimator of the out-of-sample loss and outperforms the conventional estimator in terms of sampling variance. Applying the optimal estimator to Diebold-Mariano type tests of predictive ability leads to a substantial power gain without worsening finite sample level distortions. An extensive evaluation on real world time-series from the M4 forecasting competition confirms the superiority of the proposed estimator and also demonstrates a substantial robustness to the violation of the underlying assumption of stationarity.
+
+Keywords: Loss Estimation, Forecast Evaluation, Cross-Validation, Model Selection
+
+JEL Classification: C22, C52, C53
+
+Suggested Citation:
+
+Staněk, Filip, Optimal Out-of-Sample Forecast Evaluation under Stationarity (December 1, 2021). CERGE-EI Working Paper Series No. 712, Available at SSRN: https://ssrn.com/abstract=3996166 or http://dx.doi.org/10.2139/ssrn.3996166
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+H Akaike , E Parzen , K Tanabe , G Kitagawa
+Information Theory and an Extension of the Maximum Likelihood Principle
+Selected Papers of Hirotugu Akaike , p. 199 - 213 Posted: 1998
+S Arlot , A Celisse
+A survey of cross-validation procedures for model selection
+Statistics surveys , volume 4 , p. 40 - 79 Posted: 2010
+C Bergmeir , J M Benítez
+On the use of cross-validation for time series predictor evaluation
+Information Sciences , volume 191 , p. 192 - 213 Posted: 2012
+C Bergmeir , M Costantini , J M Benítez
+On the usefulness of cross-validation for directional forecast evaluation
+Computational Statistics & Data Analysis , volume 76 , p. 132 - 143 Posted: 2014
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+104
+ABSTRACT VIEWS
+922
+RANK
+601,090
+1 Citations
+38 References
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

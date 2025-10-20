@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Capital Tax Uncertainty Delay Irreversible Risky Investment?
+
+CESifo Working Paper Series No. 6046
+
+39 Pages Posted: 10 Oct 2016
+
+Rainer Niemann
+
+University of Graz, Center for Accounting Research; CESifo (Center for Economic Studies and Ifo Institute for Economic Research)
+
+Caren Sureth-Sloane
+
+Paderborn University; Vienna University of Economics and Business; TRR 266 Accounting for Transparency
+
+There are 2 versions of this paper
+
+Date Written: August 17, 2016
+
+Abstract
+
+Tax uncertainty is often claimed to be harmful for investments. Capital taxes, such as property and wealth taxes, are particularly exposed to tax uncertainty. Capital tax uncertainty emerges from expected tax reforms, the unclear outcome of future tax audits, and simplified estimates of capital tax bases in investment models. Uncertain returns on investment as well as stochastic taxation contribute to overall uncertainty and may significantly affect investment decisions. Hitherto, it is unknown how capital tax uncertainty affects investment timing. However, it is well known that both uncertainty and capital tax may be harmful for investment and decelerate investment activities. We are the first to study the investment timing effects of stochastic capital taxes in a real options setting with risky investment opportunities. Our results indicate that even risk neutral investors are sensitive with respect to capital tax risk and may react in a surprising manner to a newly introduced stochastic capital tax. As an apparently paradoxical investment effect, we find that increased capital tax uncertainty can accelerate risky investment if such uncertainty is sufficiently low compared to cash flow uncertainty. In contrast, high capital tax risk delays high-risk innovative investment projects. To reduce unintended consequences of uncertain tax policy, tax legislators and tax authorities should avoid high levels of capital tax uncertainty. Broadening the capital tax base or increasing the capital tax rate induces ambiguous timing effects. Furthermore, high-growth investments are likely to be postponed if they experience a capital tax cut. Since investment reactions upon tax reforms are well-known to affect income and wealth distribution, reliable estimations of the impact of taxes on economic decisions are necessary.
+
+Keywords: property tax, capital tax, investment decisions, real options, timing, flexibility, uncertainty
+
+JEL Classification: H210, H250
+
+Suggested Citation:
+
+Niemann, Rainer and Sureth-Sloane, Caren, Does Capital Tax Uncertainty Delay Irreversible Risky Investment? (August 17, 2016). CESifo Working Paper Series No. 6046, Available at SSRN: https://ssrn.com/abstract=2850366 or http://dx.doi.org/10.2139/ssrn.2850366
+Download This Paper
+ 
+Open PDF in Browser
+70 References
+E Agliardi
+Taxation and Investment Decisions: A Real Options Approach
+Australian Economic Papers , volume 40 , issue 1 , p. 44 - 55 Posted: 2001
+Crossref
+K D Allee , D P Lynch , K R Petroni , J H Schroeder
+Do Property Taxes A¤ect Real Operating Decisions and Market Prices for Crude Oil?
+Contemporary Accounting Research , volume 32 , p. 736 - 762 Posted: 2015
+Crossref
+J Alm
+Uncertain tax policies. Individual behavior and welfare
+American Economic Review , volume 78 , issue 1 , p. 237 - 245 Posted: 1988
+L H R Alvarez , E Koskela
+Progressive Taxation, Tax Exemption, and Irreversible Investment under Uncertainty
+Journal of Public Economic Theory , volume 10 , issue 1 , p. 149 - 169 Posted: 2008
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+76
+ABSTRACT VIEWS
+1,407
+RANK
+187,425
+1 Citations
+70 References
+PlumX Metrics
+Related eJournals
+
+CESifo Working Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

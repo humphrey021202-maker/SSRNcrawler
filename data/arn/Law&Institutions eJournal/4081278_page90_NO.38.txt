@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Consequences of Fund-level Liquidity Requirements
+
+51 Pages Posted: 20 May 2022 Last revised: 11 Feb 2025
+
+Indraneel Chakraborty
+
+University of Miami - Department of Finance
+
+Elia Ferracuti
+
+Duke University - Fuqua School of Business
+
+John C. Heater
+
+University of Minnesota - Twin Cities - Department of Accounting
+
+Matthew Phillips
+
+Northwestern University - Department of Accounting Information & Management
+
+Date Written: February 11, 2024
+
+Abstract
+
+We investigate the effects of mandatory mutual fund liquidity requirements on fund fragility. After the implementation of SEC Rule 22e-4, as required, bond mutual funds hold more liquid securities. However, we find that additional liquidity does not ameliorate fragility. Post-rule, funds with illiquid securities face greater outflows conditional on past underperformance, and fund exits increase. At the holdings level, funds exhibit a higher likelihood of selling illiquid securities post-rule. In turn, such sales increase fund underperformance, thus completing the vicious cycle of fragility. These results are consistent with the theory that fund-level liquidity does not necessarily reduce fund-run incentives. 
+
+Keywords: liquidity requirements, open-end mutual fund, market fragility
+
+JEL Classification: G23, G32, G33, G38
+
+Suggested Citation:
+
+Chakraborty, Indraneel and Ferracuti, Elia and Heater, John C. and Phillips, Matthew, The Consequences of Fund-level Liquidity Requirements (February 11, 2024). Available at SSRN: https://ssrn.com/abstract=4081278 or http://dx.doi.org/10.2139/ssrn.4081278
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+F Allen , D Gale
+From cash-in-the-market pricing to financial fragility
+Journal of the European Economic Association , volume 3 , p. 535 - 546 Posted: 2005
+Y Amihud
+Illiquidity and stock returns: Cross-section and time-series effects
+Journal of Financial Markets , volume 5 , p. 31 - 56 Posted: 2002
+J D Angrist , J.-S Pischke
+Mostly Harmless Econometrics: An Empiricist's Companion Posted: 2009
+J B Berk , R C Green
+Mutual fund flows and performance in rational markets
+Journal of Political Economy , volume 112 , p. 1269 - 1295 Posted: 2004
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+280
+ABSTRACT VIEWS
+2,489
+RANK
+248,977
+40 References
+PlumX Metrics
+Related eJournals
+
+University of Miami Herbert Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does CEO Age Matter for Auditor Choice and Audit Pricing? The Role of CEO Dominance 
+
+Journal of Accounting Literature, 2024[10.1108/JAL-09-2023-0169]
+
+51 Pages Posted: 3 Jan 2025 Last revised: 31 Oct 2024
+
+Lutfa Tilat Ferdous
+
+University of Leicester
+
+Sudipta Bose
+
+Discipline of Accounting and Finance, Newcastle Business School, The University of Newcastle, Australia
+
+Syed Shams
+
+University of Southern Queensland
+
+Masoud Azizkhani
+
+Tasmanian Audit Office
+
+Date Written: October 31, 2024
+
+Abstract
+
+Purpose-This study examines the impact of the age of the Chief Executive Officer (CEO) on the demand for audit quality, as reflected in auditor choice and audit fees. Furthermore, the study investigates whether CEO dominance moderates the association between CEO age, auditor choice and audit fees. 
+
+
+
+Design/methodology/approach-Using a sample of 14,066 firm-year observations from 2000-2017, the study employs logistic regression and ordinary least squares (OLS) regressions to estimate the research models. The study also employs various techniques to address the endogeneity issue in the findings. Findings-Using industry specialist auditors and brand name (Big 4) auditors as proxies, the study finds that firms with older CEOs are more likely to appoint higher-quality auditors. The study also finds that firms with older CEOs pay higher audit fees than firms with younger CEOs, which is likely to be due to increased demand for higher-quality audits and to risk aversion among older CEOs. In addition, the study finds that CEO dominance attenuates the positive association of CEO age with auditor choice and audit fees. The findings are found to be robust in our analyses which address the endogeneity issue with firm fixed effects, two-stage least squares (2SLS) regression and entropy balancing. In addition, the study provides evidence that the positive association between CEO age and audit pricing persists when firms replace younger CEOs with older CEOs. 
+
+
+Research limitations/implications-The study's findings suggest that the United States (US) Securities and Exchange Commission (SEC) and the Public Company Accounting Oversight Board (PCAOB) may need to be more cautious when monitoring financial statements from firms with younger CEOs. 
+
+
+Originality/value-This study contributes to a growing stream of research investigating the links between managers' idiosyncratic age differences and the quality of financial reporting and corporate decisions.
+
+Keywords: Auditor choice, Audit pricing, Audit risk, CEO age, CEO dominance
+
+Suggested Citation:
+
+Ferdous, Lutfa Tilat and Bose, Sudipta and Shams, Syed and Azizkhani, Masoud, Does CEO Age Matter for Auditor Choice and Audit Pricing? The Role of CEO Dominance  (October 31, 2024). Journal of Accounting Literature, 2024[10.1108/JAL-09-2023-0169], Available at SSRN: https://ssrn.com/abstract=5005491 or http://dx.doi.org/10.1108/JAL-09-2023-0169
+Download This Paper
+ 
+Open PDF in Browser
+107 References
+Tone at the top: How management can prevent fraud in the workplace Posted: 2006-09-30
+R B Adams , H Almeida , D Ferreira
+Powerful CEOs and their impact on corporate performance
+The Review of Financial Studies , volume 18 , issue 4 , p. 1403 - 1432 Posted: 2005
+S Balsam , J Krishnan , J S Yang
+Auditor industry specialisation and earnings quality
+Auditing: A Journal of Practice & Theory , volume 22 , issue 2 , p. 71 - 97 Posted: 2003
+L S Bamber , J Jiang , I Y Wang
+What's my style? The influence of top managers on voluntary corporate financial disclosure
+The Accounting Review , volume 85 , issue 4 , p. 1131 - 1162 Posted: 2010
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+62
+ABSTRACT VIEWS
+689
+RANK
+826,408
+107 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

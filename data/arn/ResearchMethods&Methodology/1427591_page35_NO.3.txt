@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Pricing and Hedging of Asian Options: Quasi-Explicit Solutions via Malliavin Calculus
+
+Mathematical Methods of Operations Research, Volume 74, Number 1, pp. 93-120, 2011
+
+39 Pages Posted: 30 Jun 2009 Last revised: 16 Sep 2013
+
+Zhaojun Yang
+
+Southern University of Science and Technology - Department of Finance
+
+Christian Oliver Ewald
+
+University of Glasgow; Høgskole i Innlandet; Umeå University - Department of Mathematics and Mathematical Statistics
+
+Olaf Menkens
+
+Dublin City University - School of Mathematical Sciences
+
+Date Written: March 14, 2011
+
+Abstract
+
+We use Malliavin calculus and the Clark-Ocone formula to derive the hedging strategy of an arithmetic Asian Call option in general terms. Furthermore we derive an expression for the density of the integral over time of a geometric Brownian motion, which allows us to express hedging strategy and price of the Asian option as an analytic, that is closed form, expression. Numerical computations which are based on this expression are provided.
+
+Keywords: Asian options, option pricing, hedging, Malliavin calculus
+
+JEL Classification: G11, G12, G13, C40, C61, C63
+
+Suggested Citation:
+
+Yang, Zhaojun and Ewald, Christian Oliver and Menkens, Olaf, Pricing and Hedging of Asian Options: Quasi-Explicit Solutions via Malliavin Calculus (March 14, 2011). Mathematical Methods of Operations Research, Volume 74, Number 1, pp. 93-120, 2011, Available at SSRN: https://ssrn.com/abstract=1427591 or http://dx.doi.org/10.2139/ssrn.1427591
+Download This Paper
+ 
+Open PDF in Browser
+23 References
+He also wishes to express his thanks to Peter Carr and Marc Yor for useful discussions on the topic of Asian options
+Eugene O Downes , Jason &apos;riordan
+Quinn for helpful discussions and suggestions on solving partial differential equations numerically. Support from the Science Foundation Ireland (SFI) via the Edgeworth Centre is gratefully acknowledged. All authors acknowledge useful suggestions and comments from two anonymous referees
+Hansjörg Albrecher , Jan Dhane , Marc Goovaerts , Wim Schoutens
+Static hedging of Asian options under Levy models
+The Journal of Derivatives , volume 12 , issue 3 , p. 63 - 73 Posted: 2005
+Crossref
+Phelim Boyle , Alexander Potapchik
+Prices and sensitivities of Asian options: A survey
+Insurance: Mathematics and Economics , volume 42 , issue 1 , p. 189 - 211 Posted: 2008
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+408
+ABSTRACT VIEWS
+2,739
+RANK
+164,752
+1 Citations
+23 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Recommended Papers
+
+New Measures for Performance Evaluation
+
+By Alexander S. Cherny and Dilip B. Madan
+
+Options on Realized Variance and Convex Orders
+
+By Peter Carr, Hélyette Geman, ...
+
+Sato Processes and the Valuation of Structured Products
+
+By Dilip B. Madan and Ernst Eberlein
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

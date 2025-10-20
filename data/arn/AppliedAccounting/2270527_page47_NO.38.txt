@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Fiduciary Accountability for Managing Funding Ratios in Florida's Local Government Pension Plans or 'You've Got to be Very Careful if You Don't Know Where You're Going, Because You Might Not Get There' - Yogi Berra
+
+33 Pages Posted: 27 May 2013 Last revised: 2 Jun 2013
+
+Herbert A. Whitehouse
+
+Independent
+
+Date Written: May 27, 2013
+
+Abstract
+
+Fundamental fiduciary investment practice standards require the development of an investment policy in order to further a plan’s funding policy objectives.
+
+Until now, local government pension plans used almost the opposite approach. Under this old paradigm, local government plans used “long-term” investment policies regardless of the plan’s financial and cash flow needs; and then used the “expected return” from that policy as the dominant element of a faux funding policy; namely, the actuarial valuation.
+
+On October 1, 2000, the City of Fort Myers had fully funded the accrued liabilities of its general employee pension plan. By October of 2010, plan assets were insufficient to cover any liabilities for either the accrued benefits of its covered active employees, or for the contributions that employees themselves had made to the plan. Moreover, only 83.2% of obligations for existing retirees were covered by assets, even at the high 7.75% discount rate used to value liabilities.
+
+This decline to 0% coverage also occurred in the large general employee pension plans of nine other Florida cities. The thesis here is that, at least in Florida, where a local government is required to make its ARC (actuarially required contribution) that this kind of decline is a result of funding policy discipline failures. The paper reviews the performance of a range of standard asset allocation portfolios to confirm that the market over this period was generally consistent with 7% expected returns, if not the above average actuarial expected return assumptions returns used by each of these 10 general employee pension plans. A changing public pension paradigm, best illustrated by the Robert Novy-Marx burning money hypothetical, is at the core of this discipline failure. This hypothetical showed how a public pension plan could improve its apparent funded status by actually burning bonds in order to get rid of stable, but relatively low expected return investments. The objective of the burning was so that the remaining assets would be invested – for the long-term – in high volatility / high expected return equity assets. Under the old “long-term” only paradigm, the actuary would then discount liabilities by this higher equity expected return rate rather than a blended portfolio rate, showing an actuarially better funded plan.
+
+GASB (Government Accounting Standards Board) principles for liability accounting and disclosure have changed such that a “long-term” liability discount rate can, for future disclosures, only be used to the extent that an investment policy with that expected return will be used on real assets. This paper helps to show how many of the conclusions of recent LeRoy Collins Institute research on Florida’s underfunded municipal pension plans relate to a plan’s funding ratio objective. One of the most significant of these conclusions is that the cash flow out of many local government plans are now very significant; and can be much larger than the monies being contributed for the plan’s unfunded accrued liability.
+
+The GASB change is very significant, not just because of its new standards, but also because these standards reinforce fundamental fiduciary practice standards. These practice standards require that investment policies further a plan’s funding policy objectives rather than the other way around. The GASB change will also help to remove the moral hazard in public sector pension governance that had restricted both investment consultants and actuaries from helping plans achieve a plan’s funding ratio objectives.
+
+Local government pension trustees should be setting and managing to plan funding ratio objectives; and they now should have additional valuable resources for helping them in this role; namely, the actuary and the investment consultant.
+
+Keywords: Florida, Local Government Pension Plans, Funding Policy, Funding Ratio
+
+JEL Classification: H55, H70
+
+Suggested Citation:
+
+Whitehouse, Herbert A., Fiduciary Accountability for Managing Funding Ratios in Florida's Local Government Pension Plans or 'You've Got to be Very Careful if You Don't Know Where You're Going, Because You Might Not Get There' - Yogi Berra (May 27, 2013). Available at SSRN: https://ssrn.com/abstract=2270527 or http://dx.doi.org/10.2139/ssrn.2270527
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+Xxvi Cf
+For each future period, if the amount of the pension plan's fiduciary net position is projected to be made in that period and pension plan assets up to that point are expected to be invested using a strategy to achieve the long-term expected rate of return, the the employer and (b) the at which all benefits to provide service to the employee have been paid
+Examples of such factors [include]: "d. Investment Volatility -Plans investing heavily in those asset classes characterized by high variability of returns may be required to liquidate those assets at depressed values to meet benefit obligations , p. 31 - 68 Posted: 2012-06
+Leroy Collins Institute , Ibid
+Figure 4. Mature employee populations and increasing retiree populations shorten the duration of pension liabilities. It is also important to point out that as local government pension plans increase employee contribution that the duration of the plan's liabilities will shorten. Most employees do not work a full career for any one employer; and the obligation to return employee contributions to terminated employees must be a factor in developing an investment policy
+Leroy Collins Institute , Ibid
+All accrued liabilities were calculated using a 7.75% discount rate; and the variations in salary assumptions that affect GASB and contribution calculations were taken out of the picture by using an accrued benefit measure. xxxii Consider the rule of 72, when looking at the extent of back-loading that results from a level percent of pay assumption over 30 years that is applied in connection with a high salary increase assumption, xxxiii McCaulay
+The financial crisis is certainly associated with a drop in funding levels after Posted: 2007
+Section 3.15, Volatility. xxxvi This will happen to a greater extent in plans with high and increasing retirement age populations, and where more of those who do retire are living longer and receiving pensions for a longer time. xxxvii Compare the SECTION IV. New GASB LIABILITY DISCLOSURE RULES FOR PUBLIC PENSION PLANS and SECTION V. THE INVESTMENT POLICY. The new GASB requirements will not control actuarial contribution calculations, but the principles of GASB requirements will affect these valuation techniques. The new GASB restrictions on the unthinking and mechanical application of "long-term" investment assumptions will help public employees, taxpayers, and local government pension trustees to demand rational connections between a plan's investment policies and a plan's cash flow needs and funding ratio objectives
+xxxv Compare the discussion in Section III, including the citation to Actuarial Standard of Practice
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+122
+ABSTRACT VIEWS
+1,294
+RANK
+531,414
+4 References
+PlumX Metrics
+Related eJournals
+
+Public Economics: Miscellaneous Issues eJournal
+
+Follow
+
+Political Economy: Government Expenditures & Related Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

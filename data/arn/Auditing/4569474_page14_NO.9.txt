@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Differences in Key Audit Matter and Critical Audit Matter Disclosures for the Same Client
+
+41 Pages Posted: 14 Sep 2023
+
+Jessica Nylen
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Daniel Wangerin
+
+Wisconsin School of Business
+
+Karla M. Zehms
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Date Written: August 19, 2024
+
+Abstract
+
+The IAASB and the PCAOB issued new and somewhat differing expanded auditor reporting standards that resulted in Key Audit Matter (KAM) and Critical Audit Matter (CAM) disclosures, both of which regulators intended to enhance transparency around judgmental matters in the audit. We reveal differences in KAMs and CAMs, employing a research design whereby we compare audit reports of cross-listed companies for which the same auditor provides both disclosures for the same company in the same period. We find that KAMs are greater in number than CAMs, and while both usually address similar core topics, KAMs cover a wider array. KAM disclosures also tend to be longer, convey a greater sense of uncertainty, and describe more audit procedures that the engagement team used to address the matter(s). Multi-variate analyses reveal that these differential features of KAMs provide more value-relevant information compared to CAMs as reflected in investors' equity valuations and ability to predict future earnings.
+
+Keywords: auditor reporting, critical audit matters (CAMs), disclosure, earnings persistence, key audit matters (KAMs), value relevance
+
+JEL Classification: M41, M42, M48
+
+Suggested Citation:
+
+Nylen, Jessica and Wangerin, Daniel D. and Zehms, Karla M., Differences in Key Audit Matter and Critical Audit Matter Disclosures for the Same Client (August 19, 2024). Available at SSRN: https://ssrn.com/abstract=4569474 or http://dx.doi.org/10.2139/ssrn.4569474
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+I Andreicovici , A Jeny , D Lui
+Do firms respond to auditors' red flags? Evidence from the expanded audit report
+Frankfurt School of Finance & Management Posted: 2024
+M E Barth , W H Beaver , W R Landsman
+The relevance of the value relevance literature for financial accounting standard setting: Another view
+Journal of Accounting and Economics , volume 31 , issue 1-3 , p. 77 - 104 Posted: 2001
+J Bédard , N Gonthier-Besacier , A Schatt
+Consequences of expanded audit reports: Evidence from the justifications of assessments in France
+Auditing: A Journal of Practice & Theory , volume 38 , issue 3 , p. 23 - 45 Posted: 2019
+S V Brown , J W Tucker
+Large-sample evidence on firms' year-over-year MD&A modifications
+Journal of Accounting Research , volume 49 , issue 2 , p. 309 - 346 Posted: 2011
+Load more
+2 Citations
+Florian Federsel , Sven Hörner
+Do Country Differences Matter? Key Audit Matter Disclosure and the Role of Country Attributes
+<div>European Accounting Review, Forthcoming</div> [<a href="https://doi.org/10.1080/09638180.2025.2500442" rel="nofollow">10.1080/09638180.2025.2500442</a>] · 42 Pages · Posted: 29 Jul 2023 · Last revised: 12 May 2025 · Downloads: 199
+Download PDF  Add Paper to My Library
+Jessica Filosa , Jing Huang , Lijun Lei , Sarah E. Stein
+Does Tax Enforcement Inform Auditors’ Risk Assessment? Evidence from Key Audit Matters
+Contemporary Accounting Research, volume 42, issue 2, 2025[<a href="https://doi.org/10.1111/1911-3846.13042" rel="nofollow">10.1111/1911-3846.13042</a>] · 60 Pages · Posted: 12 Jan 2023 · Last revised: 13 Aug 2025 · Downloads: 235
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+537
+ABSTRACT VIEWS
+2,525
+RANK
+118,920
+2 Citations
+36 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

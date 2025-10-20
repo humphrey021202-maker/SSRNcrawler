@@ -1,0 +1,149 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Shrinking the Cross Section
+
+69 Pages Posted: 18 Aug 2018
+
+Serhiy Kozak
+
+University of Maryland - Robert H. Smith School of Business
+
+Stefan Nagel
+
+University of Chicago - Booth School of Business; National Bureau of Economic Research (NBER); Centre for Economic Policy Research; CESifo (Center for Economic Studies and Ifo Institute)
+
+Shrihari Santosh
+
+University of Maryland - Department of Finance
+
+There are 4 versions of this paper
+
+Date Written: July 22, 2018
+
+Abstract
+
+We construct a robust stochastic discount factor (SDF) that summarizes the joint explanatory power of a large number of cross-sectional stock return predictors. Our method achieves robust out-of-sample performance in this high-dimensional setting by imposing an economically motivated prior on SDF coefficients that shrinks the contributions of low-variance principal components of the candidate factors. While empirical asset pricing research has focused on SDFs with a small number of characteristics-based factors — e.g., the four- or five-factor models discussed in the recent literature — we find that such a characteristics-sparse SDF cannot adequately summarize the cross-section of expected stock returns. However, a relatively small number of principal components of the universe of potential characteristics-based factors can approximate the SDF quite well.
+
+Keywords: Factor Models, SDF, Cross Section, Shrinkage, Machine Learning
+
+JEL Classification: G12, G11
+
+Suggested Citation:
+
+Kozak, Serhiy and Nagel, Stefan and Santosh, Shrihari, Shrinking the Cross Section (July 22, 2018). Available at SSRN: https://ssrn.com/abstract=3233905 or http://dx.doi.org/10.2139/ssrn.3233905
+Download This Paper
+ 
+Open PDF in Browser
+94 References
+A Ang , R J Hodrick , Y Xing , X Zhang
+The cross-section of volatility and expected returns
+Journal of Finance , volume 61 , p. 259 - 299 Posted: 2006
+Crossref
+C Asness , A Frazzini
+The devil in hml's details
+Journal of Portfolio Management , volume 39 , issue 4 Posted: 2013
+Crossref
+Cliff S. Asness , Andrea Frazzini , Lasse Heje Pedersen
+Quality Minus Junk
+Pages: 80 Posted: 19 Aug 2013 Last revised: 10 Jun 2017
+Download PDF  Add Paper to My Library
+C S Asness , T J Moskowitz , L H Pedersen
+Value and momentum everywhere
+Journal of Finance , p. 929 - 985 Posted: 2013
+Crossref
+Load more
+53 Citations
+Solène Collot , Tobias Hemauer
+A literature review of new methods in empirical asset pricing: omitted-variable and errors-in-variable bias
+Financial Markets and Portfolio Management , volume 35 , issue 1 , p. 77 Posted: 2021
+Crossref
+Alois Weigand
+Machine learning in empirical asset pricing
+Financial Markets and Portfolio Management , volume 33 , issue 1 , p. 93 Posted: 2019
+Crossref
+Daniel Borup
+Asset pricing model uncertainty
+Journal of Empirical Finance , volume 54 , p. 166 Posted: 2019
+Crossref
+Caio Almeida , Gustavo Freire , Rafael Azevedo , Kym Ardison
+Nonparametric Option Pricing with Generalized Entropic Estimators
+<a href="https://doi.org/10.1080/07350015.2022.2115499" rel="nofollow">Journal of Business &amp; Economic Statistics, volume 41, issue 4, 2023</a> [10.1080/07350015.2022.2115499] · 35 Pages · Posted: 10 Dec 2014 · Last revised: 27 Jul 2024 · Downloads: 417
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+186
+ABSTRACT VIEWS
+2,283
+RANK
+4,601
+53 Citations
+94 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

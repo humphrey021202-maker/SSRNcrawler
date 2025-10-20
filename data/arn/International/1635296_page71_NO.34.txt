@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Transfer Pricing of Intangibles: A Comparison between the Netherlands and the United States
+
+84 Pages Posted: 7 Jul 2010
+
+Frederik Boulogne
+
+VU University Amsterdam; VU University Amsterdam - Faculty of Law
+
+Date Written: December 20, 2008
+
+Abstract
+
+This thesis discussed the complex matter of determining an arm’s length consideration for intercompany transactions involving intangibles. It is not unlikely that this discussion provided more questions than answers. In a transfer pricing analysis, one should not refrain from posing questions: What has really happened? Why did parties act as they did? Would third parties in similar circumstances have done the same? Perhaps searching for clear-cut answers should not be the goal when the Guidelines acknowledge that “transfer pricing is not an exact science.”368 This conclusion will first address the general observations when determining an arm’s length consideration. It will then specifically discuss the comparison between the United States and the Netherlands. Finally, it will provide two general conclusions based on a comparison how the Courts reached their decisions.
+
+General observations: The first chapter commenced with defining intangibles. It is remarkable that in spite of the growing importance of intangibles, the staggering amounts that are at stake and the increased focus by tax authorities, there is no common definition of intangibles. For instance, how should we consider a software program? Is it a product, an intangible, or both? The lack of a common definition may result in tax authorities seeing a transfer of intangibles where taxpayers are unaware of such a transfer. For instance, the engineer that provides an offshore oil rig with highly valuable technical advice in the form of a booklet that he prepared may be considered to transfer an intangible. The first chapter subsequently provided an introduction to transfer pricing and international taxation. It offered the reader insight to terms such as the arm’s length principle and double taxation. In essence, it stated that transfer pricing is about comparing a controlled transaction to ‘what third parties would have done.’
+
+The second chapter introduced a three-step method for the determination of an arm’s length consideration. The first step involved determining the owner of an intangible. Whereas the determination of ownership of a tangible asset is often a straightforward process, it is a major source of controversy for intangibles. Ownership in the context of transfer pricing answers a very important question: who is entitled to the income of an intangible? It is not surprising that many high-stake transfer pricing disputes evolve around the determination of ownership: taxpayers seek to assign ownership of valuable intangibles to group companies in tax-havens, something tax authorities zealously contend. The two standards of ownership were discussed: legal and economic ownership. Legal ownership is easy to determine and may therefore seem a good candidate to be decisive for transfer pricing purposes. However, it is generally perceived that allocating all of the intangible’s income to the legal owner would too easily open up the way to tax avoidance: merely holding legal ownership in a tax-haven would be sufficient in that respect. Economic ownership, which essentially identifies as owner the company that developed the intangibles, is more difficult to determine than legal ownership. However, economic ownership, rather than legal ownership, is best capable of compensating the parties that develop the intangible. The second step identified the arrangements made between the parties. Key in the second chapter was that, although contractual terms agreed upon by parties should be taken into account, one should always adhere to the arm’s length principle; observing every aspect of the transaction from the notion: what would uncontrolled parties in comparable circumstances have done? From this perspective, the second step discussed several controversial issues. The arm’s length principle might, for instance, require adjusting the contractual arrangement when parties transfer an intangible asset with an uncertain value, for instance through imputing a price-adjustment clause or short-term agreements. It subsequently discussed the ‘roundtrip’ arrangements. Tax authorities contend these arrangements through the ‘economic substance’ (‘Have things really changed?’) or the ‘valid business purposes’ (‘Would an independent company do this?’) arguments. The arm’s length principle is clearly reflected in the ‘valid business purposes’ argument, as it refers to what other parties would have done. The ‘economic substance’ argument is used to determine whether the arrangement does not merely exist ‘on paper.’ The second chapter finally discussed ‘package deals,’ where services, intangible goods, and intangibles are intertwined. Sometimes segregation of the package is required: either because the methods for determining a transfer price vary or because treatment under tax treaties (withholding taxes) varies for each of the ‘ingredients’ of the ‘package deal’. As the third and final step, this thesis discussed which transfer pricing methods are suitable for determining an arm’s length consideration. In general, finding comparable uncontrolled transactions is difficult due to the often unique characteristics of intangibles and the lack of data available. The methods that are not transaction-based, but instead rely on more widely available gross margins, are therefore becoming increasingly popular, especially the profit split methods.
+
+The U.S. and the Netherlands – a comparison: Since the Transfer Pricing Decree declared the OECD Guidelines applicable in the Netherlands and transfer pricing guidance on intangibles is rather limited, for purposes of this comparison, the focus from the Dutch perspective will be on the Guidelines. Table 2, below, provides a brief overview of the eight major topics that this thesis used as basis for the comparison. When comparing the Guidelines to the U.S. regulations, two conclusions arise: There are indeed differences between the Guidelines and the U.S. Regulations. However, these differences are insignificant and can be attributed to the Regulations being more detailed and more explicit. For instance, where the Guidelines only provide examples of intangibles, the Regulations provide an extensive general characterization of intangibles. Or where the Guidelines, in respect of intangibles that have an uncertain value, speak of “referring to what others would have done” and come with three options, the Regulations explicitly require periodical adjustments when the market value of the intangible exceeds twenty percent of expected value. The level of detail in the U.S. Regulations stems from the U.S. legal culture, which is ‘rule-based’ rather than ‘principle-based’ and which seeks to record as many situations as possible in its legislation. In the author’s opinion, this lack of significant differences between the Guidelines and the Regulations should be explained in light of the arm’s length principle. Both the OECD countries and the U.S. adhere to this principle. It may therefore be expected that results reached under the Guidelines and Regulations do not deviate from arm’s length evidence. It is therefore illustrative, in the light of actual arm’s length evidence, to consider two U.S.- related topics that caused a fuss in the OECD countries: the ‘commensurate with income’ standard and the Glaxo case. Since the ‘commensurate with income’ standard was made subordinate to the arm’s length principle, it should not be considered to conflict with the arm’s length principle. For arm’s length evidence shows that tying a royalty rate to a company’s profits is exceptionally rare, fears that the ‘commensurate with income’ standard will do so, thereby allocating all of the intangible’s income to the licensor/transferor, are not realistic. Besides, arm’s length evidence indicates that parties do indeed renegotiate when the intangible’s market value deviates from the expected value. In the author’s opinion, the reactions against Glaxo were aimed at two features of the case: the incredible amount of double taxation and the IRS’s view that Glaxo U.S. had created a valuable marketing intangible. The double taxation is, in the author’s view, not necessarily a transfer pricing issue. It is very likely that it is the result of the noncommittal mutual agreement procedure. Regarding the marketing activities; evidence from actual arm’s length cases indicates that a licensee generally captures a large share of the intangible’s income. The IRS’s position should not be considered to conflict with the arm’s length principle. The OECD countries can always hold this view against the U.S., by stating that highly valuable marketing intangibles were created in the hands of OECD distributors. Now that it has been determined that U.S. views are in accordance with actual arm’s length evidence, it is useful to reconsider the other example mentioned in the introduction to this thesis, the Rolling Stones and their holding companies. Every Dutch lawyer knows why Dutch holding companies are very useful in a tax-planning strategy: royalties that flow in or out of the holding companies are exempt of taxes and the Netherlands has a wide network of tax treaties. According to the author, these characteristics, rather than a lenient transfer pricing regime, are the main reason for the perception of the Netherlands as a tax haven for royalties. Summarizing, the author concludes that differences between the Netherlands and the United States as regards the transfer pricing of intangibles are insignificant. The reason is that both countries adhere to the arm’s length principle. If both countries continue to do so, and make a strong commitment to use economic analyses to determine arm’s length consideration, the author expects no significant disputes between these countries. After all, observing what unrelated parties under similar circumstances would have done, will always provide the right answers. It is now up to the international tax lawyers to create a mutual agreement procedure that does have effect.
+
+Analysis of the Courts’ decisions: Below is an overview of the transfer pricing cases discussed in this thesis. Especially in the United States, a ‘common-law’ country, case law creates precedents and often provides useful insights. In the Netherlands, unfortunately, transfer pricing cases involving intangibles have been exceptional. Since this thesis provides insight in how a transfer pricing analysis should be structured, it is illustrative to see how the Courts performed this analysis. The cases were therefore compared on five issues: 1 What was the issue at stake? 2 Which transfer pricing standards were applied (e.g. 1994 Regulations or OECD Guidelines)? 3 Did the Court perform a functional analysis? 4 Did the Court perform a comparability analysis? 5 Who won?
+
+JEL Classification: K34
+
+Suggested Citation:
+
+Boulogne, Frederik and Boulogne, Frederik, Transfer Pricing of Intangibles: A Comparison between the Netherlands and the United States (December 20, 2008). Available at SSRN: https://ssrn.com/abstract=1635296 or http://dx.doi.org/10.2139/ssrn.1635296
+Download This Paper
+ 
+Open PDF in Browser
+102 References
+The other forms are the interpretative MA (art , volume 25
+Par. 26, commentary art. 2 OECD Model Tax Convention
+referring to G. Groen, 'Arbitration in Bilateral Tax Treaties
+Burgers Posted: 2001
+Improving the resolution of tax treaty disputes , volume 70 Posted: 2006
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,480
+ABSTRACT VIEWS
+8,655
+RANK
+29,658
+1 Citations
+102 References
+PlumX Metrics
+Related eJournals
+
+Corporate & Financial Law: Interdisciplinary Approaches eJournal
+
+Follow
+
+Contracts & Commercial Law eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

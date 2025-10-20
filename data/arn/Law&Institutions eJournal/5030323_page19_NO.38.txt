@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Blockchain Adoption and Corporate Financial Reporting Quality
+
+Journal of Accounting and Public Policy 49 (2025): 107265.
+
+59 Pages Posted: 13 Dec 2024 Last revised: 9 Jan 2025
+
+Ke LIAO
+
+University of Electronic Science and Technology of China (UESTC) - School of Economics and Management
+
+Le Lin
+
+Capital University of Economics and Business
+
+Yukun Sun
+
+Zhongnan University of Economics and Law
+
+Date Written: September 10, 2024
+
+Abstract
+
+We study the impact of blockchain technology on corporate financial reporting quality based on the staggered implementation of blockchain-based e-invoice systems by provincial and municipal governments in China since 2018. Using a difference-indifferences approach with a sample of listed firms in China from 2016 to 2022, we find that the accrual quality and earnings informativeness improve postadoption. This treatment effect is more pronounced for firms with more complex operations and those located in technologically advanced and market-oriented environments, but is similar across firms with varying earnings management incentives. Blockchain adoption is associated with fewer error-related accounting restatements, but not with non-error-related restatements or corporate tax avoidance. Furthermore, blockchain adoption is associated with increased stock liquidity, improved analyst forecast consensus, and lower cost of equity. Overall, our results suggest that the blockchain adoption improves corporate financial reporting quality by enhancing accounting function efficiency rather than deterring potential manipulations.
+
+Keywords: Blockchain, E-Invoice, Earnings Management, Financial Reporting Quality
+
+Funder Statement
+
+This study is financially supported by the National Natural Science Foundation of China (71902149 and 72172098), the National Social Science Foundation (22FJYB055, 24AGL011), the Project of Cultivation for Young Top-notch Talents of Beijing Municipal Institutions (BPHR202203186), and the Humanity and Social Science Youth Foundation of the Ministry of Education of China (19YJC630096)
+
+Suggested Citation:
+
+LIAO, Ke and Lin, Le and Sun, Yukun, Blockchain Adoption and Corporate Financial Reporting Quality (September 10, 2024). Journal of Accounting and Public Policy 49 (2025): 107265., Available at SSRN: https://ssrn.com/abstract=5030323 or http://dx.doi.org/10.2139/ssrn.5030323
+Download This Paper
+ 
+Open PDF in Browser
+88 References
+A S Ahmed , Y Li , N Xu
+Tick Size and Financial Reporting Quality in Small-Cap Firms: Evidence from a Natural Experiment
+Journal of Accounting Research , volume 58 , p. 869 - 914 Posted: 2020
+R T Ainsworth , A Shact
+Blockchain (Distributed Ledger Technology) Solves VAT Fraud
+Social Science Research Network Posted: 2016
+Y Amihud
+Illiquidity and stock returns: cross-section and time-series effects
+Journal of Financial Markets , volume 5 , p. 31 - 56 Posted: 2002
+A A Austin , L T Williams
+Evaluating company adoptions of blockchain technology: How do management and auditor communications affect nonprofessional investor judgments
+Journal of Accounting and Public Policy , volume 40 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+405
+ABSTRACT VIEWS
+2,297
+RANK
+166,169
+88 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

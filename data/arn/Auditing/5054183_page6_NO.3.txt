@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Model Averaging Prediction in the Financial Markets with Economic Policy Uncertainty
+
+This paper has appeared on the Conference Proceedings (Abstract Book). ISBN: 978-605-71739-1-1
+
+Posted: 4 Feb 2025
+
+Sibel Dinç Aydemir
+
+Gebze Technical University
+
+Yusuf Sinan Akgul
+
+Gebze Technical University
+
+Mine H. Aksu
+
+Sabanci University
+
+Date Written: October 01, 2022
+
+Abstract
+
+This study examines the communicative value of transparency reports (TRs) and explores their audit firm (AF)-related determinants. Our motivation is to shed light on whether TRs are powerful instruments in communicating audit processes and governance characteristics of AFs, signaling to stakeholders their audit quality as envisioned by regulators, or are just boilerplate public disclosures used by AFs for impression management. We base our hypotheses on mainly agency, signaling and stakeholder theories and prior research.
+
+We form a panel dataset using 612 TR-year observations between 2013, the first year of promulgation by the regulator, and 2020. AF characteristics are obtained manually rom either AFs’ websites or TRs, while TR characteristics are identified from TRs, either manually or by computerized textual analysis. Our independent variables are the AF characteristics expected to affect communicative value of TRs, namely, size, age, location, foreign network membership, ownership structure, non-audit services revenue and female partner ratios, sanctions, and report lag, some used for the first time in TR literature.
+
+We analyze TRs by using various computerized textual analysis techniques including Machine Learning (ML), Natural Language Processing (NLP), Data Mining (DM), Pattern Recognition (PR), Optical Character Recognition (OCR), artificial intelligence (AI), and web scraping. The proxies used to measure communicative value are readability, complexity, file size, visual aids, content similarity and emphasis on auditing principles, some of which are again used for the first time in TR literature.
+
+The results indicate that TRs are hard-to-read documents and all proxies used for AF size and female partner ratio significantly impact readability in almost all readability measures used. On the other hand, emphasis on principles is significantly affected by not only size and female partner ratio, but also ownership type and report lag. The study has several contributions. First, computerized textual analysis hasn’t been used to this extent on financial reports.  Second, some communicative value proxies and their AF-based determinants are used for the first time in TR literature. Our results will be of interest to AFs themselves in their internal control and competitive efforts, client companies in their AF selection, and standard setters and regulators that monitor information dissemination in the markets. Third, it brings to literature a new FOG index tailored to Turkish. Finally, having observed the effectiveness of the advanced ML and NLP based techniques on TR data, we expect to see more interest from the artificial intelligence research community on the computerized financial text analysis.
+
+Keywords: Transparency Reports, Readability, Audit Firms, Fog Index, Artificial Intelligence, Natural Language Processing, Optical Character Recognition
+
+Funder Statement
+
+This research project, titled “ Do Audit Firms Disclose Enough: A Computer-Based Content Analysis of Turkish Audit Firms’ Transparency Reports?” has received support from The Scientific and Technological Research Council of Türkiye (TUBITAK) through the 1001 funding program (Grant Number TUBITAK 121K325) during the period from November 1, 2021, to February 1, 2023.
+
+Suggested Citation:
+
+Dinç Aydemir, Sibel and Akgul, Yusuf Sinan and Aksu, Mine H., Model Averaging Prediction in the Financial Markets with Economic Policy Uncertainty (October 01, 2022). This paper has appeared on the Conference Proceedings (Abstract Book). ISBN: 978-605-71739-1-1, Available at SSRN: https://ssrn.com/abstract=5054183
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+136
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Applied Computing eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

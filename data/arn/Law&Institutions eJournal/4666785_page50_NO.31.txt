@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Unintended Consequences of Enforcement: Assessing the Impact of Internal Control Weakness Reporting on Audit Quality in G20 Countries
+
+27 Pages Posted: 20 Dec 2023
+
+Patrícia Pain
+
+Universidade Federal do Espírito Santo
+
+Vagner Marques
+
+Accounting Department - Federal University of Espírito Santo
+
+Date Written: December 16, 2023
+
+Abstract
+
+This study aimed to examine the impact of the enforcement environment and reporting of Internal Control Weaknesses (ICW) on audit quality. Employing a differences-in-differences (DiD) approach, we analyzed a comprehensive dataset comprising 27,457 listed companies in the G20 group from 2000 to 2022. Our findings revealed notable improvements in audit quality following the adoption of ICW standards, as evidenced by metrics such as earnings management through small profits and the accuracy of analysts' earnings forecasts. A robust enforcement environment plays a significant role in enhancing audit quality. However, it also uncovered unintended consequences, whereby the stringent enforcement environment led to increased earnings management through discretionary accruals and reduced the accuracy of analysts' forecasts after the adoption of ICW standards. These findings underscore the importance of effective supervision and the formulation of appropriate norms to continuously enhance governance indicators and ensure transparency.
+
+Keywords: Audit quality, Internal Control Weaknesses, accounting enforcement, legal system.
+
+JEL Classification: M42, G15, M48
+
+Suggested Citation:
+
+Pain, Patrícia and Marques, Vagner, Unintended Consequences of Enforcement: Assessing the Impact of Internal Control Weakness Reporting on Audit Quality in G20 Countries (December 16, 2023). Available at SSRN: https://ssrn.com/abstract=4666785 or http://dx.doi.org/10.2139/ssrn.4666785
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+M Abdullatif , A S Al-Rahahleh
+Applying a new audit regulation: Reporting Key Audit Matters in Jordan
+International Journal of Auditing , volume 24 , issue 2 , p. 268 - 291 Posted: 2020
+A Asghar , S Sajjad , A Shahzad , B T Matemilola
+Role of discretionary earning management in corporate governance-value and corporate governance-risk relationships
+Corporate Governance: The International Journal of Business in Society , volume 20 , issue 4 , p. 561 - 581 Posted: 2020
+M E Barth , W R Landsman , M Lang , C Williams
+Are IFRS-based and US GAAP-based accounting amounts comparable?
+Journal of Accounting and Economics , volume 54 , issue 1 , p. 68 - 93 Posted: 2012
+J Bédard , N Gonthier-Besacier , A Schatt
+Consequences of expanded audit reports: Evidence from the justifications of assessments in France
+Auditing: A Journal of Practice & Theory , volume 38 , issue 3 Posted: 2019
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+62
+ABSTRACT VIEWS
+575
+RANK
+833,930
+37 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

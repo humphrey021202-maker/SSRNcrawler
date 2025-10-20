@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Information in Disclosing Emerging Technologies: Evidence from AI Disclosure
+
+63 Pages Posted: 4 Dec 2024 Last revised: 20 Dec 2024
+
+Yang Cao
+
+Hong Kong Polytechnic University
+
+Miao Liu
+
+Boston College - Carroll School of Management
+
+Jiaping Qiu
+
+Shanghai University of Finance and Economics; McMaster University - Michael G. DeGroote School of Business
+
+Ran Zhao
+
+San Diego State University
+
+Date Written: October 03, 2024
+
+Abstract
+
+We examine the information content of voluntary artificial intelligence (AI) disclosures in corporate annual reports. Utilizing a novel approach that integrates traditional keyword-based textual analysis with large language models, we classify AI-related disclosures into categories such as revenue generation, cost reduction, and various AI-related risks. Our analysis reveals that AI disclosure has significantly increased across all industry sectors since 2010 and strongly correlates with a firm’s actual AI activities, as indicated by AI-related job postings. We also find that AI revenue and cost disclosures provide additional predictive information beyond a firm's current AI activities, offering insights into future growth, investment, and operational efficiency. Furthermore, AI risk disclosures are associated with higher tail risk for firms. Our findings suggest that voluntary AI disclosures reflect a firm’s current engagement in AI and offer valuable forward-looking information about the risks and opportunities linked to AI, useful for external stakeholders in assessing a firm’s AI involvement.
+
+Keywords: Artificial intelligence, 10-K disclosure, firm growth, risk
+
+JEL Classification: D22, M41, E22, G14, G32
+
+Suggested Citation:
+
+Cao, Yang and Liu, Miao and Qiu, Jiaping and Zhao, Ran, Information in Disclosing Emerging Technologies: Evidence from AI Disclosure (October 03, 2024). Available at SSRN: https://ssrn.com/abstract=4987085 or http://dx.doi.org/10.2139/ssrn.4987085
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+C Aghamolla , B J An
+Voluntary disclosure with evolving news
+Journal of Financial Economics , volume 140 , issue 1 , p. 21 - 53 Posted: 2021
+T Babina , A Fedyk , A He , J Hodson
+Artificial intelligence, firm growth, and product innovation
+Journal of Financial Economics , volume 151 Posted: 2024
+G Bakshi , N Kapadia , D Madan
+Stock return characteristics, skew laws, and the differential pricing of individual equity options
+Review of Financial Studies , volume 16 , issue 1 , p. 101 - 143 Posted: 2003
+T Bourveau , M Chowdhury , A Le , E Rouen
+Human capital disclosures Posted: 2022
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+787
+ABSTRACT VIEWS
+3,842
+RANK
+73,031
+19 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

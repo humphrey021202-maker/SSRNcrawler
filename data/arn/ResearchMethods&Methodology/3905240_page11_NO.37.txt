@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Investigating determinants of disclosure quality using Artificial Neural Network
+
+11 Pages Posted: 16 Aug 2021
+
+Mehdi Sarikhani
+
+Department of Accounting, Safashahr Branch, Islamic Azad University, Safashahr, Iran.
+
+Date Written: August 14, 2021
+
+Abstract
+
+The purpose of this research is to propose a model for predicting disclosure quality using artificial neural network. Toward this end, this research has used the variables related to liquidity, profitability, leverage, company size, corporate governance and other effective variables by using the artificial neural network. Minimal-Redundancy-Maximal-Relevance criterion and sequential feature selection as two Feature selection methods are used to preprocess the data that could improve the accuracy of model. Results show that in the model where all variables are applied, the linear regression correlation between network output and scope data is% 87. 8 while in the model where the seven variables of Ownership concentration, Assets-in-place, Age, Profit margin, Percentage of non-executive board members, Institutional ownership ratio, and Number of employees are used, this correlation stands at% 92. 26. Also, these results show the significant effect of the corporate governance variables on disclosure quality.
+
+Keywords: Disclosure Quality; Artificial Neural Network; feature selection
+
+Suggested Citation:
+
+Sarikhani, Mehdi, Investigating determinants of disclosure quality using Artificial Neural Network (August 14, 2021). Available at SSRN: https://ssrn.com/abstract=3905240 or http://dx.doi.org/10.2139/ssrn.3905240
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+I Adelopo
+Voluntary disclosure practices amongst listed companies in Nigeria
+Advances in Accounting, incorporating Advances in International Accounting , volume 27 , p. 338 - 345 Posted: 2011
+M Akhtaruddin
+Corporate mandatory disclosure practices in Bangladesh
+The International Journal of Accounting , volume 40 , p. 399 - 422 Posted: 2005
+K Alsaeed
+The Association between firm characteristics and disclosure
+Journal of American Academy of Business , volume 7 , issue 1 , p. 310 - 321 Posted: 2005
+D G Barako , P Hancock , H Y Izan
+Factors influencing voluntary corporate disclosure by Kenyan companies
+Corporate Governance , volume 14 , issue 2 , p. 107 - 125 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+66
+ABSTRACT VIEWS
+377
+RANK
+798,750
+31 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

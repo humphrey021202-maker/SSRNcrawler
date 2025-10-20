@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditing Corporate Disclosures with the Assistance of Task-Specific Artificial Intelligence – A Survey-Based Analysis of its Effectiveness and Efficiency
+
+52 Pages Posted: 7 May 2025 Last revised: 7 May 2025
+
+Jette Fabian
+
+University of Hamburg
+
+Nicole V.S. Ratzinger-Sakel
+
+University of Hamburg
+
+Date Written: April 27, 2025
+
+Abstract
+
+This study empirically examines auditors' perceptions of the impact of task-specific artificial intelligence (AI) on the effectiveness and efficiency of the audit of corporate disclosures. We conduct a survey-based analysis, gathering insights from employees of a Big 4 audit firm in Germany. The Big 4 audit firm introduced an AI tool designed to assist in detecting material misstatements in management reports, e.g., by automatically identifying and matching disclosure requirements with the disclosures prepared by the client. Our results indicate that the AI tool enhances audit effectiveness and efficiency although this result is less pronounced in supporting the detection of more complex qualitative issues (e.g., misleading presentation). This study highlights that perceptions of audit effectiveness and efficiency improvements are not solely driven by technological features but are also moderated by auditors' roles, expertise, and engagement with digital transformation. Trust in the tool and its perceived educational value similarly vary along these lines, emphasizing the relevance of implementation strategies, training, and transparent communication when integrating AI into audit workflows.
+
+Keywords: Artificial intelligence, audit quality, audit efficiency, audit effectiveness
+
+Ethics Approval
+
+1. Subject recruitment and subject payment, as needed The contacted participants are potential users of the artificial intelligence tool under investigation, and the selection of participants was coordinated with the collaborating Big 4 audit firm. Participation in the online survey is completely voluntary and no compensation is paid out. However, participants have the chance to win one of three €50 Amazon vouchers. The prize drawing and the questionnaire are separate from each other. 2. Possible risks or side effects for subjects Data protection is guaranteed at all times. There are no known risks to the participants. 3. Biometry Participants only participate in the online survey after giving their individual informed consent regarding the use of their data. The data is processed and used in a pseudonymized form that complies with data protection regulations. All the data that we receive is strictly confidential and in accordance with the statutory data protection regulations. The subsequently published results will not allow for any conclusions to be drawn about single individuals. The only personal data that will be collected pseudonymized and as a voluntary disclosure are age, sex, the duration of employment and career level. 4. Filing and privacy The project has been conducted in accordance with strict data protection regulations. Participants in the study will be thoroughly informed about this at the beginning of the survey, and they can access the privacy policy for this survey from any point within the survey. Formal review and subsequent approval by the Dean's Office of the University of Hamburg have been successfully completed prior to the study.
+
+JEL Classification: D83, O33, M42
+
+Suggested Citation:
+
+Fabian, Jette and Ratzinger-Sakel, Nicole V.S., Auditing Corporate Disclosures with the Assistance of Task-Specific Artificial Intelligence – A Survey-Based Analysis of its Effectiveness and Efficiency (April 27, 2025). Available at SSRN: https://ssrn.com/abstract=5232779 or http://dx.doi.org/10.2139/ssrn.5232779
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+G Almufadda , N A Almezeini
+Artificial intelligence applications in the auditing profession: A literature review
+Journal of Emerging Technologies , volume 19 , issue 2 , p. 29 - 42 Posted: 2022
+B Alter , C Gimbar , J G Jenkins , G Saucedo , N S Wright
+Audit roles and the review process: workpaper preparers' and reviewers' differing perspectives
+Managerial Auditing Journal , volume 34 , issue 4 , p. 438 - 461 Posted: 2019
+C R Boddy
+Sample Size for qualitative research
+Qualitative Market Research: An International Journal , volume 19 , issue 4 , p. 426 - 432 Posted: 2016
+L A Cooper , D K Holderness , T L Sorensen , D A Wood
+Perceptions of robotic process automation in big 4 public accounting firms: do firm leaders and lower-level employees agree
+Journal of Emerging Technologies , volume 19 , issue 1 , p. 33 - 51 Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+104
+ABSTRACT VIEWS
+379
+RANK
+601,250
+37 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

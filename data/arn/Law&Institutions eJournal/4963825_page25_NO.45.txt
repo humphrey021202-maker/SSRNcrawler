@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Bank Loan Loss Provisions Determinants in Non-Crisis Years: Evidence From African, European, and Asian Countries
+
+Ozili, P. K. (2024). Bank Loan Loss Provision Determinants in Non-Crisis Years: Evidence from African, European, and Asian Countries. Journal of Risk and Financial Management, 17(3), 115.
+
+23 Pages Posted: 1 Nov 2024
+
+Peterson K Ozili
+
+Central Bank of Nigeria
+
+Date Written: March 05, 2024
+
+Abstract
+
+Loan loss provision is an important accounting number in the banking sector. This study investigates the determinants of loan loss provisions in non-crisis years in 28 countries from 2011 to 2018. The countries consist of African, European, and Asian countries. Using the generalized linear model regression and the quantile regression methodology, the results show that institutional quality is a significant determinant of bank loan loss provisions, indicating that the presence of strong institutions decrease the size of bank loan loss provisions. In the regional analyses, it was found that economic growth is a significant determinant of bank loan loss provisions in African and Asian countries. Loan loss provisions are higher in times of economic prosperity in African and Asian countries. This might be due to counter-cyclical provisioning which require African and Asian banks to keep higher loan loss provisions in good economic times so that the high provisions that was set aside in good times could be used as a safety buffer during times of economic downturns in African countries. Bank overhead cost is also a significant determinant of bank loan loss provisions only in Asian countries. 
+
+Keywords: loan loss provisions, financial reporting, banks, accrual, earnings management, income smoothing, africa, asia, europe, determinants
+
+Suggested Citation:
+
+Ozili, Peterson K, Bank Loan Loss Provisions Determinants in Non-Crisis Years: Evidence From African, European, and Asian Countries (March 05, 2024). Ozili, P. K. (2024). Bank Loan Loss Provision Determinants in Non-Crisis Years: Evidence from African, European, and Asian Countries. Journal of Risk and Financial Management, 17(3), 115., Available at SSRN: https://ssrn.com/abstract=4963825 or http://dx.doi.org/10.2139/ssrn.4963825
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+S Basu , J Vitanza , W Wang
+Asymmetric loan loss provision models
+Journal of Accounting and Economics , volume 70 , issue 2-3 Posted: 2020
+S Biswas , S N Bhattacharya , J Y Jin , M Bhattacharya , P H Sadarangani
+Loan loss provisions and income smoothing in banks: the role of trade openness and IFRS in BRICS
+China Accounting and Finance Review Posted: 2024
+R M Bushman , C D Williams
+Accounting discretion, loan loss provisioning, and discipline of banks' risk-taking
+Journal of accounting and economics , volume 54 , issue 1 , p. 1 - 18 Posted: 2012
+A M Conti , A Nobili , F M Signoretti
+Bank capital requirement shocks: A narrative perspective
+European Economic Review , volume 151 Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+47
+ABSTRACT VIEWS
+547
+20 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

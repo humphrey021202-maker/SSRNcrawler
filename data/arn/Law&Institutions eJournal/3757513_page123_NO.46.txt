@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Disclosure, Materiality Thresholds, and the Cost of Capital: Evidence from FOMC Announcements
+
+Management Science, 0 [10.1287/mnsc.2021.01896]
+
+56 Pages Posted: 27 Feb 2021 Last revised: 30 May 2023
+
+Michael Dambra
+
+University at Buffalo (SUNY) - School of Management
+
+Mihail Velikov
+
+Pennsylvania State University - Smeal College of Business; Pennsylvania State University
+
+Joseph Weber
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Date Written: May 20, 2023
+
+Abstract
+
+We examine how managers’ disclosure decisions vary in response to monetary policy shocks. Specifically, we examine the extent to which firms issue Form 8-Ks, press releases, and management forecasts following unexpected changes to the target Fed funds rate. We find consistent evidence that unexpected decreases (increases) in the FOMC target rate lead to larger increases (decreases) in disclosure by firms that are more sensitive to monetary policy shocks. Furthermore, the disclosure response to target rate surprises is concentrated in Form 8-K items that require a materiality-based decision and hold when we examine a sample of M&A-participating firms. Extended tests show that our results are not attributable to changes in the cost-of-capital leading to increased disclosure because firms are simultaneously raising capital or hyping their stock. Overall, our results are consistent with arguments raised in recent research papers that changes in cost-of-capital influence firms’ materiality thresholds, which can affect their decision to disclose.
+
+Keywords: Disclosure, Materiality, Cost of Capital, Monetary Policy
+
+JEL Classification: M41, M41, E52
+
+Suggested Citation:
+
+Dambra, Michael and Velikov, Mihail and Weber, Joseph Peter, Disclosure, Materiality Thresholds, and the Cost of Capital: Evidence from FOMC Announcements (May 20, 2023). Management Science, 0 [10.1287/mnsc.2021.01896], Available at SSRN: https://ssrn.com/abstract=3757513 or http://dx.doi.org/10.1287/mnsc.2021.01896
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+A A Acito , J J Burks , W B Johnson
+Materiality decisions and the correction of accounting errors
+The Accounting Review , volume 84 , issue 3 , p. 659 - 688 Posted: 2009
+C S Armstrong , S Glaeser , J D Kepler
+Accounting Quality and the Transmission of Monetary Policy
+Journal of Accounting and Economics , volume 68 , issue 2-3 Posted: 2019
+M D Bauer , A Lakdawala , P Mueller
+Market-based monetary policy uncertainty
+The Economic Journal , volume 132 , issue 644 , p. 1290 - 1308 Posted: 2022
+B Bernanke , K Kuttner
+What Explains the Stock Market's Reaction to Federal Reserve Policy
+Journal of Finance , volume 60 , issue 3 , p. 1221 - 1257 Posted: 2005
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+387
+ABSTRACT VIEWS
+1,910
+RANK
+175,011
+53 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

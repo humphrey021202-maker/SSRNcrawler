@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Topics and Trends in Finance Research: What Is Published, Who Publishes It and What Gets Cited?
+
+46 Pages Posted: 28 Jul 2017 Last revised: 28 Jan 2018
+
+Chris Brooks
+
+University of Reading - ICMA Centre
+
+Lisa Schopohl
+
+ICMA Centre, Henley Business School, University of Reading
+
+Date Written: January 1, 2018
+
+Abstract
+
+In this study we provide a detailed examination of the subject matter of finance research and its institutional features as it has evolved over the past two decades. Drawing on novel approaches from data science, we examine the content of more than 30,000 published papers. Overall, we find a striking lack of diversity in the topics investigated and the methodological approaches used. Almost all finance research is conducted using techniques from economics and mathematics, with virtually no use made of qualitative methods or interdisciplinary approaches. Looking at the developments of the discipline over time, we document an increase in the volume of corporate finance research and a variation in the topics covered following the financial crisis, although these changes appear to be reactive and trivial rather than paradigm shifts. We also provide a cartography of research in finance and its citation-based impact by the location of authors. Leading finance research is concentrated in elite US institutions, and has a disproportionately strong citation-based impact. Compared with other business and management sub-fields, citations in finance are heavily skewed towards the top journals as the latter generate almost twice as much impact as the lower rated outlets.
+
+Keywords: research topics in finance; citation analysis; journal ratings lists; ABS list; critical finance
+
+JEL Classification: A11, B41, O30
+
+Suggested Citation:
+
+Brooks, Chris and Schopohl, Lisa, Topics and Trends in Finance Research: What Is Published, Who Publishes It and What Gets Cited? (January 1, 2018). Available at SSRN: https://ssrn.com/abstract=3009336 or http://dx.doi.org/10.2139/ssrn.3009336
+Download This Paper
+ 
+Open PDF in Browser
+69 References
+G Agyemang , J Broadbent
+Management control systems and research management in universities: An empirical and conceptual exploration
+Accounting, Auditing & Accountability Journal , volume 28 , issue 7 , p. 1018 - 1046 Posted: 2015
+J C Alexander , R H Mabry
+Relative significance of journals, authors and articles cited in financial research
+Journal of Finance , volume 49 , issue 2 , p. 697 - 712 Posted: 1994
+Crossref
+K Ardalan
+Theories and controversies in finance: a paradigmatic overview
+International Journal of Social Economics , volume 30 , issue jou_issue[1].xmlText , p. 199 - 209 Posted: 2003
+Crossref
+K Ardalan
+The academic field of finance and paradigm diversity Southern
+Business Review , volume 26 , issue 1 , p. 21 - 31 Posted: 2000
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+782
+ABSTRACT VIEWS
+3,123
+RANK
+73,283
+1 Citations
+69 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

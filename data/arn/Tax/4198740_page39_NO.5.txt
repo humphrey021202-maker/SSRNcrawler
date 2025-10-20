@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Income Taxes, Gross Hourly Wages, and the Anatomy of Behavioral Responses: Evidence from a Danish Tax Reform
+
+IZA Discussion Paper No. 15502
+
+47 Pages Posted: 24 Aug 2022 Last revised: 6 May 2025
+
+Kazuhiko Sumiya
+
+Research Institute of Economy, Trade and Industry (RIETI)
+
+Jesper Bagger
+
+University of London - Royal Holloway College
+
+Abstract
+
+This paper provides quasi-experimental evidence on the effects of income taxes on gross hourly wages by utilizing administrative data and a tax reform in Denmark. The reform introduced joint taxation to a middle tax bracket, bringing large changes to the tax system facing married couples. Using variation in spousal income for identification, we present non-parametric graphical evidence based on a difference-in-differences design among working married males. First, we find hetero- geneous effects across income levels. For low-income workers, taxes have negative and dynamic effects on wages. Their elasticity of wages (with respect to net-of-marginal-tax rates) is close to one. For higher-income workers, the effects are small and static, with an elasticity of approximately 0.2. Second, wages respond to taxes through human capital accumulation and job changes. Finally, with smaller magnitudes than wages, daily hours worked also respond negatively to taxes, which contrasts with the prediction from a standard labor supply-and-demand model.
+
+Keywords: income taxation, administrative data, tax reforms, difference-in-differences, gross hourly wages, labor supply, human capital accumulation, job changes
+
+JEL Classification: H22, H24, J22, J24, J30, J62
+
+Suggested Citation:
+
+Sumiya, Kazuhiko and Bagger, Jesper, Income Taxes, Gross Hourly Wages, and the Anatomy of Behavioral Responses: Evidence from a Danish Tax Reform. IZA Discussion Paper No. 15502, Available at SSRN: https://ssrn.com/abstract=4198740
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+Alberto Abadie , Alexis Diamond , Jens Hainmueller
+Comparative Politics and the Synthetic Control Method
+American Journal of Political Science , volume 59 , issue 2 , p. 495 - 510 Posted: 2015
+Ghazala Azmat
+Incidence, salience, and spillovers: The direct and indirect effects of tax credits on wages
+Quantitative Economics , volume 10 , issue 1 , p. 239 - 273 Posted: 2019
+Jesper Bagger , Mads Hejlesen , Kazuhiko Sumiya , Rune Vejlin
+Income Taxation and the Equilibrium Allocation of Labor Posted: 2018-06
+Marianne Bertrand , Esther Duflo , Sendhil Mullainathan
+How Much Should We Trust Differences-In-Differences Estimates?
+Quarterly Journal of Economics , volume 119 , issue 1 , p. 249 - 275 Posted: 2004
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+63
+ABSTRACT VIEWS
+649
+RANK
+819,727
+43 References
+PlumX Metrics
+Related eJournals
+
+IZA Institute of Labor Economics Discussion Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

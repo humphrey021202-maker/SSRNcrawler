@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Pricing of Firms with Expected Losses/Profits: The Role of January
+
+The Journal of Business Finance & Accounting
+
+55 Pages Posted: 1 Oct 2013 Last revised: 24 May 2018
+
+Peng-Chia Chiu
+
+The Chinese University of Hong Kong, Shenzhen
+
+Alex Nekrasov
+
+University of Illinois Chicago
+
+Terry J. Shevlin
+
+University of California-Irvine; University of California-Irvine
+
+Date Written: September 2017
+
+Abstract
+
+We examine the role of January in the relation between expected losses/profits and future stock returns. We predict and find that the relation between expected losses/profits and future returns reverses from the usual positive relation in non-January months to a negative one in January. The reverse January relation is consistent across sample years, is observed in the United States and international markets, and is incremental to other variables associated with January returns. At least part of the reverse January relation is explained by tax-loss selling. Further analysis shows that the reverse January relation results in a temporary price drift away from fundamental value. In other words, we find that abnormal positive (negative) future returns do not always indicate past under(over)valuation. Overall, our results illustrate the importance of controlling for the effect of January when examining how investors price expected losses/profits.
+
+Keywords: expected losses/profits, return predictability, January effect, tax-loss selling
+
+JEL Classification: G12, G14, G29, M41
+
+Suggested Citation:
+
+Chiu, Peng-Chia and Nekrasov, Alexander and Shevlin, Terry J. and Shevlin, Terry J., The Pricing of Firms with Expected Losses/Profits: The Role of January (September 2017). The Journal of Business Finance & Accounting, Available at SSRN: https://ssrn.com/abstract=2333212 or http://dx.doi.org/10.2139/ssrn.2333212
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+C Asness , T J Moskowitz , L H Pedersen
+Value and momentum everywhere
+The Journal of Finance , volume 68 , p. 929 - 985 Posted: 2013
+Crossref
+S G Badrinath , W G Lewellen
+Evidence on tax-motivated securities trading behavior
+The Journal of Finance , volume 46 , p. 369 - 382 Posted: 1991
+Crossref
+K Balakrishnan , E Bartov , L Faurel
+Post loss/profit announcement drift
+Journal of Accounting and Economics , volume 50 , p. 20 - 41 Posted: 2010
+Crossref
+H Balkrishna , J Coulton , S Taylor
+Accounting losses and earnings conservatism: Evidence from generally accepted accounting principles
+Accounting & Finance , volume 47 , p. 381 - 400 Posted: 2007
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+462
+ABSTRACT VIEWS
+4,926
+RANK
+142,640
+49 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

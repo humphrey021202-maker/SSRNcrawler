@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Better Measure of Institutional Informed Trading
+
+Contemporary Accounting Research, Forthcoming
+
+57 Pages Posted: 14 Dec 2012 Last revised: 18 Jul 2014
+
+Hui Guo
+
+University of Cincinnati - Department of Finance - Real Estate
+
+Buhui Qiu
+
+The University of Sydney - Discipline of Finance; Financial Research Network (FIRN)
+
+Date Written: June 2014
+
+Abstract
+
+Although many studies show that the presence of institutional investors facilitates the incorporation of accounting information into financial markets, the evidence of informed trading by institutions is rather limited in the extant literature. We address these inconsistent findings by proposing PC_NII, percentage changes in the number of a stock’s institutional investors, as a novel informed trading measure. PC_NII is better able to detect informed trading than are changes in institutional ownership (∆IO) — the measure commonly used in previous studies — because (1) entries and exits are usually triggered by substantive private information and (2) only a small fraction of institutions have superior information. As conjectured, PC_NII subsumes the information content of ∆IO and other institutional trading and herding measures in the forecast of stock returns, and its strong predictive power for stock returns reflects mainly its close correlation with future earnings surprises. We also show that PC_NII helps address empirical issues that require a reliable measure of institutional informed trading.
+
+Keywords: PC_NII, Informed Trading, Earnings Surprises, Stock Returns
+
+JEL Classification: M40, M41, G14, G18
+
+Suggested Citation:
+
+Guo, Hui and Qiu, Buhui, A Better Measure of Institutional Informed Trading (June 2014). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2080462 or http://dx.doi.org/10.2139/ssrn.2080462
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+J Abarbanell , B Bushee
+Fundamental analysis, future earnings, and stock prices
+Journal of Accounting Research , volume 35 , p. 1 - 24 Posted: 1997
+Crossref
+Jeffery S. Abarbanell , Brian J. Bushee
+Abnormal Returns to a Fundamental Analysis Strategy
+Pages: 40 Posted: 2 Dec 1996
+Download PDF  Add Paper to My Library
+A Ahmed , R Schneible
+The impact of regulation fair disclosure on investors' prior information quality: Evidence from an analysis of changes in trading volume and stock price reactions to earnings announcements
+Journal of Corporate Finance , volume 13 , p. 282 - 299 Posted: 2007
+Crossref
+A Ali , C Durtschi , B Lev , M Trombley
+Changes in institutional ownership and subsequent earnings announcement abnormal returns
+Journal of Accounting, Auditing, and Finance , volume 3 , p. 221 - 248 Posted: 2004
+Crossref
+Load more
+1 Citations
+Thanh Son Luong , Buhui Qiu , Ava Wu
+Does It Pay to be Socially Connected with Wall Street Brokerages? Evidence from Cost of Equity
+Journal of Corporate Finance, Forthcoming · 85 Pages · Posted: 24 Mar 2021 · Downloads: 95
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+289
+ABSTRACT VIEWS
+6,781
+RANK
+241,038
+1 Citations
+77 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

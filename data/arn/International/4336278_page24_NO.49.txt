@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Double-Entry Bookkeeping For Non-Financial Performance, A Framework To Apply Lessons From Financial Accounting To Non-Financial Domains
+
+42 Pages Posted: 25 Jan 2023 Last revised: 1 Jul 2024
+
+Sander Renes
+
+Delft University of Technology, Faculty of Technology Policy and Management
+
+Jilde Garst
+
+Wageningen University and Research (WUR) - School of Social Sciences
+
+Date Written: June 28, 2024
+
+Abstract
+
+To address both the marginalization of social and environmental data in accounting practice and the separation between the academic discourses on financial accounting and Social and Environmental Accounting, this paper analyses the underlying assumptions of the double-entry bookkeeping system and their relation to Social and Environmental Impact data. Our analysis identifies five axioms that shape double-entry bookkeeping and shows that the common valuation assumption in financial accounting is not required for double-entry bookkeeping. Adjusting this assumption allows the integration of Social and Environmental information in double-entry. This common framework bridges the divide between financial and non-financial information. It provides a common technical frame to better integrate existing knowledge in developing new accounting methods. We provide a proof of concept by applying our framework to company-level data on greenhouse gas emissions to show how the evaluation of performance changes for companies if we combine multiple performance dimensions into a single, consistent bottom-line number that generalizes net income.
+
+Keywords: Bookkeeping system design, double-entry bookkeeping, ESG accounting, non-financial reporting, performance measurement
+
+JEL Classification: Q56, M10, M41, A13, Q51
+
+Suggested Citation:
+
+Renes, Sander and Garst, Jilde, Double-Entry Bookkeeping For Non-Financial Performance, A Framework To Apply Lessons From Financial Accounting To Non-Financial Domains (June 28, 2024). Available at SSRN: https://ssrn.com/abstract=4336278
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+D Arias , X Barriola , C R Loza Adaui
+Corporate purpose and early disaster response: Providing evidence of dynamic materiality?
+Business Strategy and the Environment Posted: 2024
+D Astley , A Beanland , L Blower , J Tahtinen , J Guthrie
+Creating alignment and harmonization in the ESG reporting landscape: 30+10 places to start
+EMAN Conference on Biodiversity and Natural Capital Accounting Posted: 2019
+R Ball , P Brown
+An Empirical Evaluation of Accounting Income Numbers
+Journal of Accounting Research , volume 6 , issue 2 Posted: 1968
+R Ball , P R Brown
+Ball and Brown (1968): A Retrospective
+The Accounting Review , volume 89 , issue 1 , p. 1 - 26 Posted: 2014
+Load more
+1 Citations
+Jilde Garst , Jeroen Suijs , Karen Maas
+The Reality of Materiality - Empirical evidence on the implementation of materiality assessments
+54 Pages · Posted: 20 Mar 2024 · Downloads: 270
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+255
+ABSTRACT VIEWS
+1,002
+RANK
+274,135
+1 Citations
+77 References
+PlumX Metrics
+Related eJournals
+
+Corporate Governance & Accounting eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

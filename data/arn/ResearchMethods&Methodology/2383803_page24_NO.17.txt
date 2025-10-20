@@ -1,0 +1,100 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Treating Unobserved Heterogeneity in PLS Path Modelling: A Comparison of FIMIX-PLS with Different Data Analysis Strategies
+
+Journal of Applied Statistics, Vol. 37, No. 8, pp. 1299-1318, 2010
+
+Posted: 24 Jan 2014
+
+Marko Sarstedt
+
+Otto-von-Guericke-Universität Magdeburg; University of Newcastle (Australia)
+
+Christian M. Ringle
+
+Hamburg University of Technology (TUHH)
+
+Date Written: 2010
+
+Abstract
+
+In the social science disciplines, the assumption that the data stem from a single homogeneous population is often unrealistic in respect of empirical research. When applying a causal modelling approach, such as partial least squares path modelling, segmentation is a key issue in coping with the problem of heterogeneity in the estimated cause-effect relationships. This article uses the novel finite-mixture partial least squares (FIMIX-PLS) method to uncover unobserved heterogeneity in a complex path modelling example in the field of marketing. An evaluation of the results includes a comparison with the outcomes of several data analysis strategies based on a priori information or k-means cluster analysis. The results of this article underpin the effectiveness and the advantageous capabilities of FIMIX-PLS in general PLS path model set-ups by means of empirical data and formative as well as reflective measurement models. Consequently, this research substantiates the general applicability of FIMIX-PLS to path modelling as a standard means of evaluating PLS results by addressing the problem of unobserved heterogeneity.
+
+Keywords: partial least square (PLS); path modelling; heterogeneity; latent class; finite mixture; market segmentation; corporate reputation
+
+JEL Classification: A00
+
+Suggested Citation:
+
+Sarstedt, Marko and Ringle, Christian M., Treating Unobserved Heterogeneity in PLS Path Modelling: A Comparison of FIMIX-PLS with Different Data Analysis Strategies (2010). Journal of Applied Statistics, Vol. 37, No. 8, pp. 1299-1318, 2010, Available at SSRN: https://ssrn.com/abstract=2383803
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,041
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric Model Construction, Estimation & Selection eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

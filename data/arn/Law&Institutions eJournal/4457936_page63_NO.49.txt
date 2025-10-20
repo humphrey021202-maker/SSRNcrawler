@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Decentralized Finance (DeFi) Assurance: Early Evidence
+
+Review of Accounting Studies, forthcoming.
+
+59 Pages Posted: 25 May 2023 Last revised: 2 Dec 2023
+
+Thomas Bourveau
+
+Columbia University - Columbia Business School, Accounting, Business Law & Taxation
+
+Janja Brendel
+
+The Chinese University of Hong Kong (CUHK)
+
+Jordan Schoenfeld
+
+Ohio State University (OSU)
+
+Date Written: November 15, 2023
+
+Abstract
+
+Decentralized finance (DeFi) transactions are typically executed using a special digital
+class of contracts called smart contracts. These contracts are self-executing and hardcoded
+directly on a blockchain. We observe the emergence of a new class of voluntary
+audits that evaluate the integrity of these contracts. Using a hand-coded sample of
+about 8,500 smart contract audit reports, we provide some of the first evidence showing
+that (1) these audits are pervasive, (2) the audit firm market is predominantly
+composed of new technical audit firms, (3) the scope of these audits can span a variety
+of contract features, (4) the audit inputs and outputs differ substantively from those
+of conventional financial audits, and (5) the market reacts positively to the release of
+these audit reports, suggesting that these reports are value-relevant. These findings
+highlight the demand for novel assurance services driven by blockchain technology.
+
+Keywords: Auditing, Decentralized Finance, Smart Contracts
+
+JEL Classification: G14, G19, G29
+
+Suggested Citation:
+
+Bourveau, Thomas and Brendel, Janja and Schoenfeld, Jordan, Decentralized Finance (DeFi) Assurance: Early Evidence (November 15, 2023). Review of Accounting Studies, forthcoming., Available at SSRN: https://ssrn.com/abstract=4457936 or http://dx.doi.org/10.2139/ssrn.4457936
+Download This Paper
+ 
+Open PDF in Browser
+66 References
+A Admati , P Pfleiderer
+Direct and indirect sale of information
+Econometrica , volume 58 , p. 901 - 928 Posted: 1990
+K Allee , T Yohn
+The Demand for Financial Statements in an Unregulated Environment: An Examination of the Production and Use of Financial Statements by Privately Held Small Businesses
+The Accounting Review , volume 84 , p. 1 - 25 Posted: 2009
+C Anderson , V Fang , J Moon , J Shipman
+Accounting for cryptocurrencies Working Paper Posted: 2022
+D Aobdia , V Castellani , P Richardson
+Do investors care who led the audit in the U.S.? Evidence from announcements of accounting restatements Working Paper Posted: 2023
+Load more
+2 Citations
+Brandon Gipper , Samantha Ross , Shawn Shi
+ESG Assurance in the United States
+Stanford University Graduate School of Business Research Paper No. 4263085, UC San Francisco Research Paper No. Forthcoming, Review of Accounting Studies, Forthcoming [<a href="https://doi.org/10.1007/s11142-024-09856-2" rel="nofollow">10.1007/s11142-024-09856-2</a>] · 100 Pages · Posted: 21 Nov 2022 · Last revised: 22 Feb 2025 · Downloads: 2,726
+Download PDF  Add Paper to My Library
+Wei Jiang , Tao Li
+Corporate Governance Meets Data and Technology
+European Corporate Governance Institute – Finance Working Paper No. 970/2024, Foundations and Trends in Finance, Forthcoming, · 88 Pages · Posted: 5 Mar 2024 · Last revised: 9 Jul 2024 · Downloads: 957
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+682
+ABSTRACT VIEWS
+3,702
+RANK
+87,490
+2 Citations
+66 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

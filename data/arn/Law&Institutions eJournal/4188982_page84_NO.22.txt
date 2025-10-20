@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax-Sensitive Institutional Investors and the Design of CEO Compensation Packages
+
+42 Pages Posted: 19 Aug 2022 Last revised: 26 Mar 2024
+
+Ariela Caglio
+
+SDA Bocconi; Bocconi University - Department of Accounting
+
+Claudia Imperatore
+
+Bocconi University - Department of Accounting
+
+Cinthia Valle Ruiz
+
+Catholic University of Lille - IESEG School of Management
+
+Date Written: March 17, 2024
+
+Abstract
+
+This paper investigates how firms balance the heterogeneous tax preferences of institutional investors through the design of executive compensation. Specifically, we analyze how the weight of stock options in CEO compensation packages varies with the presence of tax-sensitive institutional investors (TSII) in the firms’ institutional ownership base. TSII have a tax-driven aversion to dividend payouts, which contrasts with demand for dividends from other institutional owners. As a result, when TSII are present in the institutional ownership base, conflicts among institutional owners can arise, weakening their monitoring of managers. We contend, and find, that the co-existence of TSII’s tax-related payout preferences and conflicts among institutional owners leads to a non-monotonic relationship between the relative ownership of TSII and the weight of stock options. When TSII are not the prevailing institutional owners, firms include fewer stock options that incentivize managers to distribute dividends, thus reducing potential agency problems. As TSIIs become the prevailing type of institutional investor, the weight of stock options in CEO compensation is higher to discourage dividend payouts and satisfy TSII’s tax-related payout preferences. We document that this relationship is stronger when CEOs have stronger incentives to distribute dividends and the need for aligning the interests of managers and shareholders is higher. Above all, we find that the increased weight of stock options in CEO compensation when TSII are the prevailing institutional investors is associated with a lower dividend payouts, but it does not lead to sub-optimal investment choices. Our findings underscore the importance of shareholders’ tax preferences in corporate decisions and executive compensation.
+
+Keywords: Tax sensitive institutional investors, shareholder taxes, executives’ compensation packages, stock options, dividend payout
+
+JEL Classification: G35, H24.
+
+Suggested Citation:
+
+Caglio, Ariela and Caglio, Ariela and Imperatore, Claudia and Valle Ruiz, Cinthia, Tax-Sensitive Institutional Investors and the Design of CEO Compensation Packages (March 17, 2024). Available at SSRN: https://ssrn.com/abstract=4188982 or http://dx.doi.org/10.2139/ssrn.4188982
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+D Aboody , R Kasznik
+Executive stock-based compensation and firms' cash payout: The role of shareholders' tax-related payout preferences
+Review of Accounting Studies , volume 13 , p. 216 - 251 Posted: 2008
+R Aggarwal , S Dahiya , N R Prabhala
+The power of shareholder votes: Evidence from uncontested director elections
+Journal of Financial Economics , volume 133 , issue 1 , p. 134 - 153 Posted: 2019
+D Amiram , A M Bauer , M M Frank
+Tax avoidance at public corporations driven by shareholder taxes: Evidence from changes in dividend tax policy
+The Accounting Review , volume 94 , issue 5 , p. 27 - 55 Posted: 2019
+C S Armstrong , J L Blouin , D F Larcker
+The incentives for tax planning
+Journal of Accounting and Economics , volume 53 , issue 1-2 , p. 391 - 411 Posted: 2012
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+128
+ABSTRACT VIEWS
+737
+RANK
+511,510
+52 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

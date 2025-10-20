@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Who Benefits from Government Tax-Subsidies for Corporate Charitable Food Donations?
+
+27 Pages Posted: 15 Dec 2022 Last revised: 6 Jun 2025
+
+Armagan Ozbilge
+
+Dalhousie University - Faculty of Management
+
+Saif Benjaafar
+
+University of Michigan at Ann Arbor
+
+Elkafi Hassini
+
+McMaster University
+
+Mahmut Parlar
+
+McMaster University - Michael G. DeGroote School of Business
+
+Date Written: February 04, 2025
+
+Abstract
+
+Leveraging government tax incentives to prompt corporate social responsibility (CSR) has gained considerable popularity over the last decade. However, the consequences of such incentives on retailers and society may be subtle. This paper sheds light on the effectiveness of government tax deductions for charitable donations in enhancing society's welfare. We incorporate the U.S. government tax deduction policy for food donations into the retailer's after-tax profit function and analyze the impact of the tax subsidy parameters on the retailer's optimal decisions, corporate charitable giving, and total welfare. The market demand is assumed to be both price- and quality-dependent, and the length of the selling season is characterized by the shelf-life of the goods. The retailer plans not only for the purchase of the goods but also for donating them as a part of her CSR activity. Our study reveals that both donations and (expected) total welfare have a non-monotone relationship with quality and the enhanced tax deduction. For instance, when retailer's inventory is categorized as medium or high quality, increasing tax-subsidy may diminish charitable donations, underscoring the importance of maintaining the delicate balance in the retail market.
+
+Keywords: Charitable giving, food donations, tax-subsidies, consumer surplus, social welfare
+
+Suggested Citation:
+
+Ozbilge, Armagan and Benjaafar, Saif and Hassini, Elkafi and Parlar, Mahmut, Who Benefits from Government Tax-Subsidies for Corporate Charitable Food Donations? (February 04, 2025). Available at SSRN: https://ssrn.com/abstract=4288815 or http://dx.doi.org/10.2139/ssrn.4288815
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+A Akkaş , V Gaur
+Om forum-reducing food waste: An operations management research agenda
+Manufacturing & Service Operations Management , volume 24 , issue 3 , p. 1261 - 1275 Posted: 2022
+A Akkaş , D Honhon
+Shipment policies for products with fixed shelf lives: Impact on profits and waste
+Manufacturing & Service Operations Management , volume 24 , issue 3 , p. 1611 - 1629 Posted: 2022
+A Akkaş , N Sahoo
+Reducing product expiration by aligning salesforce incentives: A data-driven approach , volume 29 , p. 1992 - 2009 Posted: 2020
+A Arya , B Mittendorf
+Supply chain consequences of subsidies for corporate social responsibility , volume 24 , p. 1346 - 1357 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+193
+ABSTRACT VIEWS
+745
+RANK
+359,301
+30 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

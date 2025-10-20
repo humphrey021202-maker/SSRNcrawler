@@ -1,0 +1,167 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Predicting Material Accounting Misstatements
+
+Contemporary Accounting Research, Forthcoming
+
+AAA 2008 Financial Accounting and Reporting Section (FARS) Paper
+
+72 Pages Posted: 30 Jun 2007 Last revised: 24 May 2010
+
+Patricia Dechow
+
+USC Marshall School of Business
+
+Weili Ge
+
+University of Washington - Michael G. Foster School of Business
+
+Chad R. Larson
+
+University of Houston - Department of Accountancy & Taxation
+
+Richard G. Sloan
+
+University of Southern California - Leventhal School of Accounting
+
+Date Written: April 21, 2010
+
+Abstract
+
+We examine 2,190 SEC Accounting and Auditing Enforcement Releases (AAERs) issued between 1982 and 2005. We obtain a comprehensive sample of firms that are alleged to have misstated their financial statements. We examine the characteristics of misstating firms along five dimensions: accrual quality, financial performance, non-financial measures, off-balance sheet activities, and market-based measures. We compare misstating firms to themselves during non-misstatement years and misstating firms to the broader population of all publicly listed firms. We find that managers appear to be hiding diminishing performance during misstatement years. We find that accruals are high and that misstating firms have a greater proportion of assets with valuations that are more subject to managerial discretion. In addition, the extent of leasing is increasing and there are abnormal reductions in the number of employees. Misstating firms are raising more financing, have higher price-to-fundamental ratios, and have strong prior stock price performance. We develop a model to predict accounting misstatements. The output of this model is a scaled logistic probability that we term the F-Score, where values greater than one suggest a greater likelihood of a misstatement.
+
+Keywords: earnings quality, accounting misstatement, fraud prediction, accrual quality, F-Score
+
+JEL Classification: G34, M41
+
+Suggested Citation:
+
+Dechow, Patricia and Ge, Weili and Larson, Chad Russell and Sloan, Richard G., Predicting Material Accounting Misstatements (April 21, 2010). Contemporary Accounting Research, Forthcoming, AAA 2008 Financial Accounting and Reporting Section (FARS) Paper, Available at SSRN: https://ssrn.com/abstract=997483
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+Eric J. Allen , Chad Russell Larson , Richard G. Sloan
+Accrual Reversals, Earnings and Stock Returns
+Pages: 47 Posted: 29 Sep 2009 Last revised: 11 Nov 2015
+Download PDF  Add Paper to My Library
+E I Altman
+Financial ratios, discriminant analysis and the prediction of corporate bankruptcy
+The Journal of Finance , volume 23 , p. 589 - 609 Posted: 1968
+Crossref
+J Barton , P Simko
+The balance sheet as an earnings management constraint
+The Accounting Review , volume 77 , p. 1 - 27 Posted: 2002
+Crossref
+L Bayley , S Taylor
+Identifying earnings overstatements: A practical test. Working paper Posted: 2007
+Load more
+74 Citations
+Mei Feng , Weili Ge , Shuqing Luo , Terry J. Shevlin
+Why do CFOs Become Involved in Material Accounting Manipulations?
+AAA 2009 Financial Accounting and Reporting Section (FARS) Paper · 43 Pages · Posted: 1 Sep 2008 · Last revised: 29 Jan 2013 · Downloads: 3,212
+Download PDF  Add Paper to My Library
+Jeffrey Ng , Tjomme O. Rusticus
+Banks' Survival during the Financial Crisis: The Role of Regulatory Reporting Quality
+Singapore Management University School of Accountancy Research Paper No. 2 · 57 Pages · Posted: 22 Jul 2011 · Last revised: 14 Jul 2020 · Downloads: 916
+Download PDF  Add Paper to My Library
+Xia Chen , Qiang Cheng , Alvis K. Lo
+Is the Decline in the Information Content of Earnings Following Restatements Short-Lived?
+Singapore Management University School of Accountancy Research Paper · 55 Pages · Posted: 2 May 2013 · Last revised: 28 May 2013 · Downloads: 448
+Download PDF  Add Paper to My Library
+Sanjay Bissessur , David Veenman
+Analyst Information Precision and Small Earnings Surprises
+Review of Accounting Studies, Vol. 21, No. 4, 2016 · 46 Pages · Posted: 28 Sep 2013 · Last revised: 26 Jul 2017 · Downloads: 475
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+16,214
+ABSTRACT VIEWS
+64,497
+RANK
+566
+74 Citations
+36 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+Detecting Earnings Management: A New Approach
+
+By Patricia Dechow, Amy P. Hutton, ...
+
+A Review of the Earnings Management Literature and its Implications for Standard Setting
+
+By Paul M. Healy and James Michael Wahlen
+
+Errors in Estimating Accruals: Implications for Empirical Research
+
+By Daniel W. Collins and Paul Hribar
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

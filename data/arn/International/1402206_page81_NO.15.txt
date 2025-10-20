@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+What Drives the Comparability Effect of Mandatory IFRS Adoption?
+
+Review of Accounting Studies 20(1): 242-282, March 2015
+
+61 Pages Posted: 14 May 2009 Last revised: 21 Feb 2015
+
+Stefano Cascino
+
+London School of Economics
+
+Joachim Gassen
+
+Humboldt University of Berlin - School of Business and Economics; TRR 266 Accounting for Transparency
+
+Date Written: March 24, 2014
+
+Abstract
+
+We investigate the effects of mandatory IFRS adoption on the comparability of financial accounting information. Using two comparability proxies based on De Franco et al. [2011] and a comparability proxy based on the degree of information transfer, our results suggest that the overall comparability effect of mandatory IFRS adoption is marginal. We hypothesize that firm-level heterogeneity in IFRS compliance explains the limited comparability effect. To test this conjecture, we first hand-collect data on IFRS compliance for a sample of German and Italian firms and find that firm-, region-, and country-level incentives systematically shape IFRS compliance. We then use the identified compliance determinants to explain the variance in the comparability effect of mandatory IFRS adoption and find it to vary systematically with firm-level compliance determinants, suggesting that only firms with high compliance incentives experience substantial increases in comparability. Moreover, we document that firms from countries with tighter reporting enforcement experience larger IFRS comparability effects, and that public firms adopting IFRS become less comparable to local GAAP private firms from the same country.
+
+Keywords: international accounting, IFRS, comparability, compliance, reporting incentives
+
+JEL Classification: M41, G14, F42
+
+Suggested Citation:
+
+Cascino, Stefano and Gassen, Joachim, What Drives the Comparability Effect of Mandatory IFRS Adoption? (March 24, 2014). Review of Accounting Studies 20(1): 242-282, March 2015, Available at SSRN: https://ssrn.com/abstract=1402206 or http://dx.doi.org/10.2139/ssrn.1402206
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+P Alves , P Pope , S Young
+International information transfers: An analysis of European companies Posted: 2007
+A S Ahmed , M J Neel , D D Wang
+Does mandatory adoption of IFRS improve accounting quality? Preliminary evidence
+Contemporary Accounting Research , volume 30 , p. 1344 - 1372 Posted: 2013
+Crossref
+H Ashbaugh
+Non-US Firms' Accounting Standard Choices
+Journal of Accounting and Public Policy , volume 20 , p. 129 - 153 Posted: 2001
+Crossref
+H Ashbaugh , T Warfield
+Audits as a corporate governance mechanism: Evidence from the German market
+Journal of International Accounting Research , volume 2 , p. 1 - 21 Posted: 2003
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+3,442
+ABSTRACT VIEWS
+12,759
+RANK
+7,804
+14 Citations
+52 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+International Accounting Standards and Accounting Quality
+
+By Mary E. Barth, Wayne R. Landsman, ...
+
+Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences
+
+By Holger Daske, Luzi Hail, ...
+
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors
+
+By Ray Ball
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

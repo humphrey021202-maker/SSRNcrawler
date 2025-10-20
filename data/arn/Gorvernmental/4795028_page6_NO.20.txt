@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dataset on the Questionnaire-Based Survey of the Readiness of Government Accountants to Implement International Public Sector Accounting Standards (Ipsas)
+
+9 Pages Posted: 15 Apr 2024
+
+Moawiah Awad Alghizzawi
+
+University of Buraimi
+
+Abstract
+
+This article presents a data set concerning the effect of human resource and information technology on the readiness of government accountants to implement IPSAS. The data was collected by a face-to-face survey with a questionnaire using five point Likert scale. The survey sample involved 331 government accountants in Jordan. The questionnaire consists of three sections. Section A addresses the demographic attributesof the respondents. Section B contains 2 parts; part (1) measures human resource, part (2) measures information technology. Section C measures the readiness of government accountants to implement IPSAS. Each section contains seven to eight statements with a 1-5 Likert scale in order to assess respondents’ level of agreement or disagreement. The detailed data set is accompanied by the original questionnaire in English and Arabic. The data set is providing a valuable tool to understand the contributions of human resource and information technology in achieving the readiness to implement IPSAS, develop hypotheses and design a questionnaire survey.
+
+Keywords: Questionnaire Survey, IPSAS, Human Resource, Information Technology, ‎Public Sector.‎
+
+Suggested Citation:
+
+Alghizzawi, Moawiah Awad, Dataset on the Questionnaire-Based Survey of the Readiness of Government Accountants to Implement International Public Sector Accounting Standards (Ipsas). Available at SSRN: https://ssrn.com/abstract=4795028 or http://dx.doi.org/10.2139/ssrn.4795028
+Download This Paper
+ 
+Open PDF in Browser
+19 References
+Supplementary Data: readiness of government accountants to implement IPSAS
+Mendeley Data , issue 2 Posted: 2024
+E Babakus , W G Mangold
+Adapting the SERVQUAL Scale to Hospital Services: an Empirical Investigation , volume 26 , p. 767 - 786 Posted: 1992
+Anick Bosmans , Rik Pieters , Hans Baumgartner
+The Get Ready Mind-Set: How Gearing Up for Later Impacts Effort Allocation Now
+Journal of Consumer Research , volume 37 , p. 98 - 107 Posted: 2010
+C E Brown
+Applied multivariate statistics in geohydrology and related sciences Posted: 2012
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+69
+ABSTRACT VIEWS
+180
+RANK
+778,745
+19 References
+PlumX Metrics
+Related eJournals
+
+Governmental & Nonprofit Accounting eJournal
+
+Follow
+
+Other Accounting Research eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

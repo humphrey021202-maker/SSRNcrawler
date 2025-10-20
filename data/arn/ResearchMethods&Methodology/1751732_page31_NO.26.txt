@@ -1,0 +1,158 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Event Study Methodologies in Information Systems Research
+
+International Journal of Accounting Information Systems, Forthcoming
+
+26 Pages Posted: 31 Jan 2011 Last revised: 3 Feb 2011
+
+Yaniv Konchitchki
+
+University of California, Berkeley - Haas School of Business
+
+Daniel E. O'Leary
+
+University of Southern California - Marshall School of Business; University of Southern California - Leventhal School of Accounting
+
+Date Written: January 30, 2011
+
+Abstract
+
+Event studies are based on the theoretical framework of efficient capital markets and the notion that security prices include all information available to the market. As a result, announcements made by firms provide to market participants information that can be impounded into the market price. This paper investigates the use of event studies in accounting information systems research using a three pronged approach. First, this paper provides a comprehensive survey of research that uses event study methodologies, where the events are announcements made by firms about issues related to accounting information systems, e.g., announcements of the adoption of enterprise resource planning systems and of the effect of security breaches in firms’ information systems. Second, this paper summarizes event study methodologies used in prior research, along with some of the key parameters and concerns associated with their implementation. Third, this paper provides remarks on key event study modeling issues, and it offers recommendations to researchers.
+
+Keywords: Information Systems, Event Study, Market Efficiency, Capital Markets, Future Performance, Accounting Information Systems
+
+JEL Classification: G14, L86
+
+Suggested Citation:
+
+Konchitchki, Yaniv and O'Leary, Daniel E., Event Study Methodologies in Information Systems Research (January 30, 2011). International Journal of Accounting Information Systems, Forthcoming, Available at SSRN: https://ssrn.com/abstract=1751732
+Download This Paper
+ 
+Open PDF in Browser
+149 References
+A Acquisti , A Friedman , R Telang
+Is there a cost to Privacy Breeches? An Event Study
+Twenty Seventh International Conference on Information Systems Posted: 2006
+N Aggarwal , Q Dai , E A Walden
+Do Markets Prefer Open or Proprietary Standards for XML Standardization?
+International Journal of Electronic Commerce , volume 11 , p. 117 - 136 Posted: 2006
+Crossref
+F K Andoh-Baidoo , K.-M Osei-Bryson
+Exploring the characteristics of Internet security breaches that impact the market value of breached firms
+Expert Systems with Applications , volume 32 , p. 703 - 725 Posted: 2007
+Crossref
+J H Anthony , W Choi , S Grabski
+Market reaction to e-commerce impairments evidenced by website outages
+International Journal of Accounting Information Systems , volume 7 , issue 2 , p. 60 - 78 Posted: 2006
+Crossref
+Load more
+4 Citations
+Andreas Andreas , Tatang Ary Gumanti , Uliya Nurjannah , Intan Nurul Awwaliyah
+‘The Effect of Announcement As the Host of XVIII Asian Games on the Indonesian Stock Market’
+Andreas, Tatang Ary Gumanti, Uliya Nurjannah and Intan Nurul Awwaliyah. The effect of announcement as the host of XVIII Asian Games on the Indonesian stock market. Investment Management and Financial Innovations, 17(1), 109-118, 2020, DOI: 10.21511/imfi.17(1).2020.10 · 11 Pages · Posted: 1 Apr 2020 · Downloads: 131
+Download PDF  Add Paper to My Library
+Christos Mavrovitis (Mavis) , Ansgar Richter , Christian Landau , Sascha L. Schmidt , Tony Simons , Kai Steinbock
+What Happens When Companies (Don’t) Do What They Said They Would? Stock Market Reactions to Strategic Integrity
+European Management Review, Vol. 16, Issue 3, pp. 815-831, 2019 · 17 Pages · Posted: 19 May 2020 · Downloads: 1
+Download PDF  Add Paper to My Library
+Elena Ochirova
+Literature Review of Mergers and Acquisitions with the Aim to Obtain Technology and Knowledge
+Journal of Corporate Finance Research, Vol. 13, No. 4, pp. 87-94 (2019) · 8 Pages · Posted: 22 Jul 2020 · Downloads: 1,086
+Download PDF  Add Paper to My Library
+Nicolas Pröllochs , Stefan Feuerriegel , Bernhard Lutz , Dirk Neumann
+Negation Scope Detection for Sentiment Analysis: A Reinforcement Learning Framework for Replicating Human Interpretations
+38 Pages · Posted: 17 Dec 2020 · Downloads: 90
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+432
+ABSTRACT VIEWS
+2,679
+RANK
+154,352
+4 Citations
+149 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Impact of E-Commerce Announcements on the Market Value of Firms
+
+By Mani Subramani and Eric Walden
+
+The Economic Worth of Celebrity Endorsers: An Event Study Analysis
+
+By Jagdish Agrawal and Wagner A. Kamakura
+
+Returns on Investments in Information Technology: A Research Synthesis
+
+By Bruce Dehning and Vernon J. Richardson
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

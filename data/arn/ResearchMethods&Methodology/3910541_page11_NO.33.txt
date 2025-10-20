@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Convergence of Big Data and Accounting: Innovative Research Opportunities
+
+Technological Forecasting & Social Change
+
+37 Pages Posted: 27 Aug 2021
+
+Awad Ibrahim
+
+University of Portsmouth - Portsmouth Business School, Students
+
+Ahmed A. Elamer
+
+Brunel University London - Brunel Business School; Department of Accounting, Faculty of Commerce, Mansoura University
+
+Amr Nazieh Ezat
+
+Imam Abdulrahman Bin Faisal University
+
+Date Written: August 24, 2021
+
+Abstract
+
+This study aims to develop accounting standards, curriculums, and research to cope with the rapid development of big data. The study presents several potential convergence points between big data and different accounting techniques and theories. The study discusses how big data can overcome the data limitations of six accounting issues: financial reporting, performance measurement, audit evidence, risk management, corporate budgeting and activity-based techniques. It presents six exciting research questions for future research. Then, the study explains the potential convergence between big data and agency theory, stakeholders theory, and legitimacy theory. This theoretical study develops new convergence points between big data and accounting by reviewing the literature and proposing new ideas and research questions. The conclusion indicates a significant convergence between big data and accounting on the premise that data is the heart of accounting. Big data and advanced analytics have the potential to overcome the data limitations of accounting techniques that require estimations and predictions. A remarkable convergence is argued between big data and three accounting theories. Overall, the study presents helpful insights to members of the accounting and auditing community on the potential of big data.
+
+Keywords: Big data; Analytics; Accounting; Data Science; Business Intelligence.
+
+Suggested Citation:
+
+Ibrahim, Awad and Elamer, Ahmed Ahmed and Ezat, Amr Nazieh, The Convergence of Big Data and Accounting: Innovative Research Opportunities (August 24, 2021). Technological Forecasting & Social Change, Available at SSRN: https://ssrn.com/abstract=3910541
+Download This Paper
+ 
+Open PDF in Browser
+76 References
+A Aboud , B Robinson
+Fraudulent financial reporting and data analytics: an explanatory study from Ireland
+Accounting Research Journal Posted: 2021
+S Abraham , P Cox
+Analysing the determinants of narrative risk information in the UK FTSE 100 annual reports
+The British Accounting Review , volume 39 , issue 3 , p. 227 - 248 Posted: 2007
+K Al-Htaybat , L V Alberti-Alhtaybat
+Big data and corporate reporting: impacts and paradoxes
+Accounting, Auditing & Accountability Journal , volume 30 , issue 4 , p. 850 - 873 Posted: 2017
+M G Alles
+Drivers of the Use and Facilitators and Obstacles of the Evolution of Big data by the Audit Profession
+Accounting Horizons , volume 29 , issue 2 , p. 439 - 449 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+514
+ABSTRACT VIEWS
+1,844
+RANK
+125,376
+5 Citations
+76 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

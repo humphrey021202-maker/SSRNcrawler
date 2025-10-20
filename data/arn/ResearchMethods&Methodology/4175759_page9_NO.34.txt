@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Practical Issues to Consider When Working with Big Data
+
+Review of Accounting Studies, Forthcoming
+
+12 Pages Posted: 4 Aug 2022 Last revised: 24 Aug 2022
+
+Lorien Stice-Lawrence
+
+University of Southern California - Marshall School of Business
+
+Date Written: June 1, 2022
+
+Abstract
+
+Increasing access to alternative or “big data” sources has given rise to an explosion in the use of these data in economics-based research. However, in our enthusiasm to use the newest and greatest data, we as researchers may jump to use big data sources before thoroughly considering the costs and benefits of a particular dataset. This article highlights four practical issues that researchers should consider before working with a given source of big data. First, big data may not be conceptually different from traditional data. Second, big data may only be available for a limited sample of individuals, especially when aggregated to the unit of interest. Third, the sheer volume of data coupled with high levels of noise can make big data costly to process while still producing measures with low construct validity. Last, papers using big data may focus on the novelty of the data at the expense of the research question. I urge researchers, in particular PhD students, to carefully consider these issues before investing time and resources into acquiring and using big data.
+
+Keywords: Big data, Alternative data, Emerging technologies, Research design
+
+JEL Classification: A1, B4, C55, G00, M00, M4
+
+Suggested Citation:
+
+Stice-Lawrence, Lorien, Practical Issues to Consider When Working with Big Data (June 1, 2022). Review of Accounting Studies, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4175759 or http://dx.doi.org/10.2139/ssrn.4175759
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+E Blankespoor , B E Hendricks , J D Piotroski , C Synn
+Real-time revenue and firm disclosure
+Review of Accounting Studies , issue 3 Posted: 2022
+M J Denny , A Spirling
+Text preprocessing for unsupervised learning: Why it matters, when it misleads, and what to do about it
+Political Analysis , volume 26 , issue 2 , p. 168 - 189 Posted: 2018
+L W Cong , B Li , Q T Zhang , M Pompella , R Matousek
+Alternative data in fintech and business intelligence
+The Palgrave Handbook of FinTech and Blockchain , p. 217 - 242 Posted: 2021
+K Froot , N Kang , G Ozik , R Sadka
+What do measures of real-time corporate sales say about earnings surprises and post-announcement returns
+Journal of Financial Economics , volume 125 , issue 1 , p. 143 - 162 Posted: 2017
+Load more
+3 Citations
+Tim Loughran , Bill McDonald
+Measuring Firm Complexity
+Journal of Financial and Quantitative Analysis, Forthcoming · 55 Pages · Posted: 15 Jul 2020 · Last revised: 25 Oct 2023 · Downloads: 4,380
+Download PDF  Add Paper to My Library
+Brian J. Clark , Sai Palepu , Akhtar R. Siddique
+Firm Complexity and Information Asymmetry: Evidence from ML-based Complexity to Measure Information Processing Costs
+50 Pages · Posted: 25 Mar 2024 · Downloads: 192
+Download PDF  Add Paper to My Library
+Adam Booker , Asher Curtis , Bin Ke
+Social media as a setting for accounting research
+65 Pages · Posted: 21 Feb 2025 · Downloads: 280
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+190
+ABSTRACT VIEWS
+952
+RANK
+364,455
+3 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Trading Offshore: Evidence on Banks' Tax Avoidance
+
+44 Pages Posted: 13 Sep 2017 Last revised: 22 May 2020
+
+Dominika Langenmayr
+
+Catholic University of Eichstaett-Ingolstadt; CESifo (Center for Economic Studies and Ifo Institute); WU Vienna University of Economics and Business
+
+Franz Reiter
+
+Ludwig Maximilian University of Munich (LMU)
+
+There are 2 versions of this paper
+
+Date Written: March 26, 2020
+
+Abstract
+
+Little is known about how banks shift profits to low-tax countries. Because of their specific business model, banks use other profit shifting channels than non-financial firms. We propose a novel and bank-specific method of profit shifting: the strategic relocation of proprietary trading to low-tax jurisdictions. Using regulatory data from the German central bank, we show that a one percentage point lower corporate tax rate increases banks' fixed-income trading assets by 4\% and trading derivatives by 9\%. Suggestively, this increase does not arise from a relocation of real activities (i.e. traders); instead, it stems from the relocation of book profits.
+
+Keywords: Tax Avoidance, Profit Shifting, Multinational Banks
+
+JEL Classification: H25, G21, F21
+
+Suggested Citation:
+
+Langenmayr, Dominika and Langenmayr, Dominika and Reiter, Franz, Trading Offshore: Evidence on Banks' Tax Avoidance (March 26, 2020). Available at SSRN: https://ssrn.com/abstract=3035335 or http://dx.doi.org/10.2139/ssrn.3035335
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+A Abadie , A Diamond , J Hainmueller
+Synthetic control methods for comparative case studies: Estimating the effect of California's tobacco control program
+Journal of the American Statistical Association , volume 105 , p. 493 - 505 Posted: 2010
+Crossref
+V Acharya , I Drechsler , P Schnabl
+A pyrrhic victory? Banking bailouts and sovereign credit risk
+The Journal of Finance , volume 69 , p. 2689 - 2739 Posted: 2014
+Crossref
+K Andries , J Gallemore , M Jacob
+The effect of corporate taxation on bank transparency: Evidence from loan loss provisions
+Journal of Accounting and Economics , volume 63 , p. 307 - 328 Posted: 2017
+Crossref
+P Antras , S R Yeaple
+Multinational firms and the structure of international trade
+Handbook of International Economics 4 , p. 55 - 130 Posted: 2014
+Crossref
+Load more
+7 Citations
+Michael Overesch , Hubertus Wolff
+Financial Transparency to the Rescue: Effects of Public Country‐by‐Country Reporting in the European Union Banking Sector on Tax Avoidance*
+Contemporary Accounting Research , volume 38 , issue 3 , p. 1616 Posted: 2021
+Crossref
+Richard S Collier
+Banking on Failure
+Posted: 2020
+Crossref
+Franz Reiter , Dominika Langenmayr , Svea Holtmann
+Avoiding taxes: banks’ use of internal debt
+International Tax and Public Finance , volume 28 , issue 3 , p. 717 Posted: 2021
+Crossref
+Verena K. Dutt , Christopher A. Ludwig , Katharina Nicolay , Heiko Vay , Johannes Voget
+Increasing tax transparency: investor reactions to the country-by-country reporting requirement for EU financial institutions
+International Tax and Public Finance , volume 26 , issue 6 , p. 1259 Posted: 2019
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+218
+ABSTRACT VIEWS
+1,789
+RANK
+130,957
+7 Citations
+67 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

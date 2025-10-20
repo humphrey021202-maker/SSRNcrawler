@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Pathway Model to Five Lines of Accountability in Cybersecurity Governance
+
+54 Pages Posted: 4 Aug 2022 Last revised: 4 Oct 2023
+
+Sergeja Slapničar
+
+University of Queensland
+
+Micheal Axelsen
+
+University of Queensland
+
+Ivano Bongiovanni
+
+University of Queensland
+
+David Stockdale
+
+University of Queensland
+
+Date Written: July 29, 2022
+
+Abstract
+
+In an in-depth field study, we investigate cyber security governance configurations vis-à-vis the five lines of accountability (5 LoA) - that is, the Three Lines Model extended by the accountability of executive management and the board of directors (IIA, 2020). The aim is to explore the configurations adopted by organizations in governing cybersecurity, and why it would matter for cyber security whether the five lines of accountability are adopted. We define the type of the 5 LoA adoption by: (i) the segregation of the lines that spans from blended to segregated and (ii) the level of engagement of those in line roles that ranges from low to high. In this way, we identify four types of adoption of the 5 LoA: ‘no adoption, ‘ostensible’, ‘implicit’, and ‘explicit’ adoption. We theorize how the type of adoption of the 5 LoA is affected by the interplay of institutional forces and organizations’ need for efficiency and effectiveness, and develop a pathway model for organizations’ adoption of the 5 LoA. We find that organizations that adopt the 5 LoA with clear segregation between these lines (‘ostensible’ and ‘explicit’ adoption) are those subject to prudential regulation (coercive forces), whereas efficiency motives and mimetic forces drive organizations to seek fluidity and flexibility by ‘blending’ the segregated lines (‘implicit’ adoption) to ensure fast reactions to changing environment. Regardless of the segregation between lines and whether they are blended or not, we found that all organizations see scope to improve the level of engagement in the 5 LoA to improve the effectiveness of cyber security governance.
+
+Keywords: cyber risk management, cybersecurity governance, five lines of accountability, institutional theory, constrained-efficiency framework
+
+JEL Classification: M15, M42, M48
+
+Suggested Citation:
+
+Slapničar, Sergeja and Axelsen, Micheal and Bongiovanni, Ivano and Stockdale, David, A Pathway Model to Five Lines of Accountability in Cybersecurity Governance (July 29, 2022). Available at SSRN: https://ssrn.com/abstract=4176559 or http://dx.doi.org/10.2139/ssrn.4176559
+Download This Paper
+ 
+Open PDF in Browser
+83 References
+Acca , Caanz
+Cyber and the CFO Posted: 2019
+P Aghion , J Tirole
+Formal and real authority in organizations
+Journal of political economy , volume 105 , issue 1 , p. 1 - 29 Posted: 1997
+Cyber Security Governance Principles Posted: 2022
+Reporting on an entity's cybersecurity risk management program and controls
+Cyber Security Governance Principles Posted: 2017
+Load more
+8 Citations
+Christopher Calvin , Marc Eulerich , Matthew Holt
+Characteristics of cybersecurity and IT involvement by the IA activity
+International Journal of Accounting Information Systems , volume 56 , p. 100726 Posted: 2025
+Crossref
+Bert Valkenburg , Ivano Bongiovanni
+Unravelling the Three Lines Model in Cybersecurity: A Systematic Literature Review
+COSE-D-23-02940 · 49 Pages · Posted: 21 Dec 2023 · Downloads: 74
+Download PDF  Add Paper to My Library
+Sergeja Slapničar , Tim Vidmar , Elinor Tsen
+Process Theory of Supplier Cyber Risk Assessment
+COSE-D-24-00096 · 43 Pages · Posted: 16 Jan 2024 · Downloads: 55
+Download PDF  Add Paper to My Library
+Ivano Bongiovanni , David M. Herold , Simon J. Wilde
+Protecting the Play: An Integrative Review of Cybersecurity in and for Sports Events
+COSE-D-24-00788 · 20 Pages · Posted: 18 Apr 2024 · Downloads: 71
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+178
+ABSTRACT VIEWS
+1,000
+RANK
+386,825
+8 Citations
+83 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Digital Rights Management in Finance: Evidence from M&A
+
+65 Pages Posted: 1 Feb 2022 Last revised: 7 Jan 2025
+
+Narmin Nahidi
+
+University of Exeter
+
+Stefan Hirth
+
+Aarhus University; Danish Finance Institute
+
+Arman Eshraghi
+
+Cardiff Business School
+
+Date Written: August 15, 2022
+
+Abstract
+
+This study explores the role of Digital Rights Management (DRM) systems in mergers and acquisitions (M&A), focusing on their impact during due diligence. While DRM is widely recognized for intellectual property protection, its influence on governance and information asymmetry in M&A transactions has been underexplored. Using agency theory, we examine DRM’s role in reducing risks of information leakage and enhancing decision-making. Our findings show that DRM positively influences financial and legal due diligence, enhancing performance indicators such as return on assets and the thoroughness of legal assessments. However, DRM also negatively impacts business and high-tech performance, especially in patent M&A, by limiting technological flexibility and innovation. This suggests that while DRM strengthens data security, it may hinder the use of patented technologies, particularly in patent-related M&A transactions. These insights underscore DRM’s dual role in enhancing security and governance while posing challenges for technological flexibility, with important implications for M&A practitioners and policymakers.
+
+Keywords: Mergers and acquisitions; due diligence; digital Right Management; digital M&A; intellectual Property, Due Diligence in M&A, Digital Rights Management (DRM), Information Asymmetry, Intellectual Property Protection
+
+JEL Classification: G34, O34, K11, K22
+
+Suggested Citation:
+
+Nahidi, Narmin and Hirth, Stefan and Eshraghi, Arman, Digital Rights Management in Finance: Evidence from M&A (August 15, 2022). Available at SSRN: https://ssrn.com/abstract=3981463 or http://dx.doi.org/10.2139/ssrn.3981463
+Download This Paper
+ 
+Open PDF in Browser
+98 References
+A Abadie , G W Imbens
+Large sample properties of matching estimators for average treatment effects
+Econometrica , volume 74 , issue 1 , p. 235 - 267 Posted: 2006
+M Al Guindy
+Corporate Twitter use and cost of equity capital
+Journal of Corporate Finance , volume 68 Posted: 2021-03
+D Angwin
+Mergers and Acquisitions across European Borders : Preacquisition Due Diligence and the Use of Professional
+Journal of World Business , volume 36 , issue 1 Posted: 2001
+B Balsmeier , L Fleming , G Manso
+Independent boards and innovation
+Journal of Financial Economics , volume 123 , issue 3 , p. 536 - 557 Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+153
+ABSTRACT VIEWS
+1,364
+RANK
+441,693
+98 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

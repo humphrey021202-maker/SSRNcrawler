@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Reverse Termination Fees in M&A
+
+46 Pages Posted: 14 Aug 2017 Last revised: 28 Jan 2018
+
+John C. Coates, IV
+
+Harvard Law School; European Corporate Governance Institute (ECGI)
+
+Darius Palia
+
+Rutgers University, Newark, School of Business-Newark, Department of Finance & Economics; Columbia University - Law School
+
+Ge Wu
+
+University of Richmond
+
+Date Written: January 26, 2018
+
+Abstract
+
+Reverse termination fees (RTFs) are required payments by bidders when they “walk away” from a merger or acquisition, and vary significantly in size and design. In a large sample of manually collected U.S. deal contracts involving publicly traded bidders and targets, we examine the relationship between announcement returns and different types of RTFs, including those with features theorized by others to reflect inefficient design, and also RTFs that we theorize may send a negative value signal from managers seeking to “eat” rather than “be eaten” in consolidating industries. We find inefficient RTFs correlate with lower bidder returns, even in a subsample where disclosure of RTF terms lags deal announcements by more than two days. We also find inclusion of certain RTFs in consolidating industries reveals private information to the market, resulting in negative abnormal returns. Our results are robust to alternative event windows and control groups, and carry over to combined bidder and target abnormal returns, inconsistent with inefficient RTFs reflecting transfers from buyers to targets. Finally, we find an insignificant relationship between the probability of deal completion and inefficient RTFs, and a negative significant relationship between the probability of deal completion and negative signal RTFs, consistent with the fact that deals with such RTFs are adopted in consolidating industries where both deal competition and antitrust issues are higher than in other deal settings.
+
+Keywords: Merger, Acquisition, Break Fee, Reverse Break Fee, Reverse Termination Fee, Contract
+
+JEL Classification: D23, D82, G34, K12, K22
+
+Suggested Citation:
+
+Coates, John C. and Palia, Darius and Wu, Ge, Reverse Termination Fees in M&A (January 26, 2018). Available at SSRN: https://ssrn.com/abstract=3016785 or http://dx.doi.org/10.2139/ssrn.3016785
+Download This Paper
+ 
+Open PDF in Browser
+5 References
+J G Matsusaka , A Shleifer , R W Vishny
+Takeover motives during the conglomerate merger wave
+Journal of Financial Economics , volume 70 , issue 3 , p. 295 - 311 Posted: 1993
+C W Smith , R L Watts
+The investment opportunity set and corporate financing, dividend, and compensation policies
+Journal of financial Economics , volume 32 , issue 3 , p. 263 - 292 Posted: 1992
+Crossref
+Charles K Whitehead
+Sandbagging: Default Rules and Acquisition Agreements
+. J Del , Corp
+Posted: 2011
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+723
+ABSTRACT VIEWS
+5,123
+RANK
+81,142
+5 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Microeconomics: Asymmetric & Private Information eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

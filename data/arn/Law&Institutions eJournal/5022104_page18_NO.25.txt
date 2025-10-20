@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Mandatory CSR Disclosures and Real Asset Regulatory Leakage
+
+60 Pages Posted: 8 Jan 2025 Last revised: 19 May 2025
+
+Hans Bonde Christensen
+
+University of Chicago - Booth School of Business
+
+Lisa Yao Liu
+
+Columbia University - Columbia Business School
+
+Mark G. Maffett
+
+University of Miami - Department of Accounting
+
+Wendy Wen
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Date Written: May 06, 2025
+
+Abstract
+
+How concerning is real-asset regulatory leakage after corporate social responsibility (CSR) disclosure mandates? To address this question, we decompose reported safety improvements following the 2010 Dodd-Frank Section 1503 (DF1503) requirement to disclose mine-safety records in SEC filings into genuine safety improvements and those stemming from real-asset regulatory leakage. Using data on publicly owned (regulated) and privately owned (unregulated) mines from 2000 to 2021, we find that, after DF1503, the share of the least-safe US mines owned by public firms decreases by 36%. We estimate that 74% of this reduction reflects genuine mine-level safety improvements, while the remaining 26% is attributable to real-asset regulatory leakage—that is, ownership transfers and the avoidance of new investments in high-safety-risk mines. Most of the reported safety gains attributable to leakage (90%) stem from transferring inherently high-risk mines to unregulated firms, rather than from subsequent declines in safety under private ownership, which are relatively minor (10%). Overall, our findings suggest that, while roughly one-quarter of the observed safety improvement following DF1503 results from the reallocation of high-CSR-risk assets, the modest declines in CSR performance of the leaked assets were more than offset by safety improvements in the retained assets, consistent with an economy-wide CSR improvement. Nonetheless, overlooking the nontrivial shift of high-risk assets to the private sector could overstate the benefits of CSR disclosure mandates.  
+
+Keywords: Real effects, leakage, greenwashing, social washing, Dodd-Frank Act, mine safety, ESG, corporate social responsibility
+
+JEL Classification: D03, G14, G18, G38, I18, J28, K22, K32, L71, L72, M41, M48
+
+Suggested Citation:
+
+Christensen, Hans Bonde and Liu, Lisa Yao and Maffett, Mark G. and Wen, Wendy, Mandatory CSR Disclosures and Real Asset Regulatory Leakage (May 06, 2025). Available at SSRN: https://ssrn.com/abstract=5022104 or http://dx.doi.org/10.2139/ssrn.5022104
+Download This Paper
+ 
+Open PDF in Browser
+27 References
+Söhnke M Bartram , Kewei Hou , Sehoon Kim
+Real effects of climate policy: Financial constraints and spillovers
+Journal of Financial Economics , volume 143 , issue 2 , p. 668 - 696 Posted: 2022
+Lori S Bennear , Sheila M Olmstead
+The impacts of the "right to know": Information disclosure and the violation of drinking water standards
+Journal of Environmental Economics and Management , volume 56 , issue 2 , p. 117 - 130 Posted: 2008
+Daniel A Bens , Peter R Cai Chen , Joos
+Mandated environmental liability recognition and the voluntary disclosure of ESG Information Posted: 2024
+Pietro Bonetti , Christian Leuz , Giovanna Michelon
+Internalizing externalities: Disclosure regulation for hydraulic fracturing, drilling activity and water quality Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+297
+ABSTRACT VIEWS
+1,579
+RANK
+234,143
+27 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

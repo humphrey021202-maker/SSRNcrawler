@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Stock Price Informativeness, Managerial Horizon, and Dynamic Incentive Provision
+
+54 Pages Posted: 24 Jul 2025
+
+Qintao Fan
+
+University of Oregon, Lundquist School of Business
+
+Date Written: July 01, 2025
+
+Abstract
+
+This paper examines how stock price informativeness affects the effectiveness of price-based managerial compensation. Stock prices fluctuate with publicly observed macroeconomic shocks and impound private signals of managerial performance through information-based trading. Because sequentially optimal contracts overly exploit prices as forward-looking performance benchmarks, greater price informativeness can discourage long-tenure managers from pursuing long-term value creation. For managers bound to long-term employment, renegotiable contracts based solely on terminal cash flows can tie pay to internal interim forecasts, potentially outperforming rigid contracts based on both stock prices and cash flows. The study also finds that, depending on the composition of uncertainty in long-term firm fundamentals, managerial incentives can strengthen with firm-specific risk, and a strictly intermediate level of stock-price informativeness can be optimal.
+
+Keywords: Noise Trading, Incentives, Dynamic Contracting, Limited Commitment
+
+JEL Classification: D86, G30, J30, M12
+
+Suggested Citation:
+
+Fan, Qintao, Stock Price Informativeness, Managerial Horizon, and Dynamic Incentive Provision (July 01, 2025). Available at SSRN: https://ssrn.com/abstract=5364226 or http://dx.doi.org/10.2139/ssrn.5364226
+Download This Paper
+ 
+Open PDF in Browser
+43 References
+A Arya , B Mittendorf , R Ramanan
+Synergy between accounting disclosures and forward-looking information in stock prices
+The Accounting Review , volume 92 , issue 2 , p. 1 - 17 Posted: 2017
+S Baiman , R E Verrecchia
+Earnings and price-based compensation contracts in the presence of discretionary trading and incomplete contracting
+Journal of Accounting and Economics , volume 20 , p. 93 - 121 Posted: 1995
+B Bennett , R M Stulz , Z Wang
+Does the stock market make …rms more productive
+Journal of Financial Economics , volume 136 , issue 2 , p. 281 - 306 Posted: 2020
+P Bolton , J Scheinkman , W Xiong
+Executive compensation and shorttermist behavior in speculative markets
+Review of Economic Studies , volume 73 , p. 577 - 610 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+85
+ABSTRACT VIEWS
+335
+RANK
+687,436
+43 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

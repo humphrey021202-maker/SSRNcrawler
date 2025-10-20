@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Automating the Process of Taxonomy Creation and Comparison of Taxonomy Structures
+
+18 Pages Posted: 5 Dec 2010
+
+Vasundhara Chakraborty
+
+Rutgers University
+
+Miklos A. Vasarhelyi
+
+Rutgers Business School
+
+Date Written: October 10, 2010
+
+Abstract
+
+The ability to automatically extract information from the footnotes of financial statements simplifies access to critical information concerning public companies. However, extraction can be particularly challenging due to great variations in the filing structure and terminologies used. Hierarchical formalization of text becomes a necessity in such circumstances. This is facilitated by the creation of a valid taxonomy. The objectives of this paper are threefold: (1) to develop a semiautomatic method of taxonomy creation; (2) to compare the structure of the taxonomy created with the XBRL US GAAP taxonomy and (3) to demonstrate how the tool developed as a part of this process can be used for more exploratory research. Pension plan footnotes of 10K statements have been used to demonstrate the use of this method. To create a taxonomy, we first collected 10K statements from SEC EDGAR (Electronic Data Gathering, Analysis and Retrieval) then extracted pension footnotes, and restructured the data. We then applied the Hierarchical clustering algorithm to this data to create the taxonomy structure. Comparison of the taxonomy developed with the XBRL taxonomy reveals some differences. In general the reporting trends of companies reveal a greater level of aggregation. Pension footnote structures of forty five randomly selected companies were compared across ten years. Several instances were found where the company has added new terms or a completely new section to the footnote or a term is missing.
+
+The contribution of this paper are: (i) a method to formalize and partially automate the complex and time consuming process of taxonomy creation using historical data has been proposed; (ii) a generic parsing tool as a part of the taxonomy creation process is developed; (iii) structural differences between the official XBRL US GAAP taxonomy and taxonomy using historical data are demonstrated (iv) potential use of the parsing and matching tool for other exploratory research in accounting is shown.
+
+Keywords: Taxonomy, Pension disclosure, XBRL
+
+JEL Classification: M4, M41
+
+Suggested Citation:
+
+Chakraborty, Vasundhara and Vasarhelyi, Miklos A., Automating the Process of Taxonomy Creation and Comparison of Taxonomy Structures (October 10, 2010). Available at SSRN: https://ssrn.com/abstract=1719611 or http://dx.doi.org/10.2139/ssrn.1719611
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+M J Bates
+Subject access in online catalogs: a design model
+Remarks by Governor Susan Schmidt Bies, At the Conference on Market Discipline , volume 37 , p. 357 - 376 Posted: 1986-11
+Crossref
+M Bovee , A Kogan , R P Srivastava , M A Vasarhelyi , K M Nelson
+Financial Reporting and Auditing Agent with Net Knowledge (FRAANK) and eXtensible Business Reporting Language (XBRL)
+Journal of Information Systems , volume 19 , issue 1 , p. 19 - 41 Posted: 2005
+Crossref
+M Bovee , M Ettredge , R P Srivastava , M A Vasarhelyi
+Does the Year 2000 XBRL Taxonomy Accommodate Current Business Financial Reporting Practice?
+Journal of Information Systems , volume 16 , issue 2 , p. 165 - 182 Posted: 2002
+Crossref
+H Chen , K J Lynch
+Automatic Construction of Networks of Concepts Characterizing Document Databases
+IEEE Transactions on Systems, Man, and Cybernetics , volume 22 , issue 5 , p. 885 - 902 Posted: 1992
+Crossref
+Load more
+5 Citations
+Lanxin Jiang , Yu Gu , Jun Dai
+Environmental, Social, and Governance Taxonomy Simplification: A Hybrid Text Mining Approach
+Journal of Emerging Technologies in Accounting , volume 20 , issue 1 , p. 305 Posted: 2023
+Crossref
+Ingrid E. Fisher , Margaret R. Garnsey , Mark E. Hughes
+Natural Language Processing in Accounting, Auditing and Finance: A Synthesis of the Literature with a Roadmap for Future Research
+Intelligent Systems in Accounting, Finance and Management , volume 23 , issue 3 , p. 157 Posted: 2016
+Crossref
+Miklos A. Vasarhelyi , David Y. Chan , J. P. Krahel
+Consequences of XBRL Standardization on Financial Statement Data
+Journal of Information Systems , volume 26 , issue 1 , p. 155 Posted: 2012
+Crossref
+Yingmin Zhang , Yujing Chen , Wenquan Luo , Jing Zhang , Dong Wang
+Game analysis of XBRL taxonomy extension
+Cluster Computing , volume 22 , issue S5 , p. 12529 Posted: 2019
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+284
+ABSTRACT VIEWS
+1,946
+RANK
+245,493
+5 Citations
+32 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Microeconomics: Search; Learning; Information Costs & Specific Knowledge; Expectation & Speculation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

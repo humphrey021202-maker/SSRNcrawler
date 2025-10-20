@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Priest, the Sex Worker, and the CEO: Measuring Motivation by Job Type
+
+Arnulf, J. K., et al. (2020). "The Priest, the Sex Worker, and the CEO: Measuring Motivation by Job Type." Frontiers in Psychology 11: 1321.
+
+22 Pages Posted: 4 Nov 2020
+
+Jan Ketil Arnulf
+
+BI Norwegian Business School
+
+Kim Nimon
+
+University of North Texas
+
+Kai R. Larsen
+
+Leeds School of Business; Information Systems Group; Gallup
+
+Christiane V. Hovland
+
+BI Norwegian Business School
+
+Merethe Arnesen
+
+BI Norwegian Business School
+
+Date Written: 2020
+
+Abstract
+
+This study uses latent semantic analysis (LSA) to explore how prevalent measures of motivation are interpreted across very diverse job types. Building on the Semantic Theory of Survey Response (STSR), we calculate “semantic compliance” as the degree to which an individual’s responses follow a semantically predictable pattern. This allows us to examine how context, in the form of job type, influences respondent interpretations of items. In total, 399 respondents from 18 widely different job types (from CEOs through lawyers, priests and artists to sex workers and professional soldiers) self-rated their work motivation on eight commonly applied scales from research on motivation. A second sample served as an external evaluation panel (n = 30) and rated the 18 job types across eight job characteristics. Independent measures of the job types’ salary levels were obtained from national statistics. The findings indicate that while job type predicts motivational score levels significantly, semantic compliance as moderated by job type job also predicts motivational score levels usually at a lesser but significant magnitude. Combined, semantic compliance and job type explained up to 41% of the differences in motional score levels. The variation in semantic compliance was also significantly related to job characteristics as rated by an external panel, and to national income levels. Our findings indicate that people in different contexts interpret items differently to a degree that substantially affects their score levels. We discuss how future measurements of motivation may improve by taking semantic compliance and the STSR perspective into consideration.
+
+Keywords: Motivation, Job Types, Latent Semantic Analysis, Semantic Theory of Survey Response, Intrinsic Motivation, Measurement, Payment Level, Likert Scales
+
+Suggested Citation:
+
+Arnulf, Jan Ketil and Nimon, Kim and Larsen, Kai R. and Hovland, Christiane V. and Arnesen, Merethe, The Priest, the Sex Worker, and the CEO: Measuring Motivation by Job Type (2020). Arnulf, J. K., et al. (2020). "The Priest, the Sex Worker, and the CEO: Measuring Motivation by Job Type." Frontiers in Psychology 11: 1321., Available at SSRN: https://ssrn.com/abstract=3716162
+Download This Paper
+ 
+Open PDF in Browser
+99 References
+N J Allen , J P Meyer
+The measurement and antecedents of affective, continuance, and normative commitments to organization
+J. Occup. Psychol , volume 63 , p. 1 - 8 Posted: 1990
+Crossref
+M Anandarajan , C Hill , Nolan , T
+Latent semantic analysis (LSA) in python
+Practical Text Analytics: Maximizing the Value of Text Data , p. 221 - 242 Posted: 2019
+Crossref
+D Andrich
+A hyperbolic cosine latent trait model for unfolding polytomous responses: reconciling Thurstone and Likert methodologies
+Br. J. Math. Stat. Psychol , volume 49 , p. 347 - 365 Posted: 1996
+Crossref
+J Antonakis , S Bendahan , P Jacquart , R Lalive
+On making causal claims: a review and recommendations
+Leadersh. Q , volume 21 , p. 1086 - 1120 Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+111
+ABSTRACT VIEWS
+945
+RANK
+572,087
+99 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

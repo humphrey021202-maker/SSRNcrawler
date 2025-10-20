@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Test of Income Smoothing Using Pseudo Fiscal Years
+
+50 Pages Posted: 29 Aug 2017 Last revised: 26 Jul 2021
+
+Dirk E. Black
+
+Iowa State University - College of Business
+
+Spencer Pierce
+
+Florida State University - College of Business
+
+Wayne B. Thomas
+
+University of Oklahoma
+
+Date Written: June 10, 2021
+
+Abstract
+
+The purpose of our study is to further understand managerial incentives that affect the volatility of reported earnings. Prior research suggests that the volatility of fourth-quarter earnings may be affected by the integral approach to accounting (i.e., “settling up” of accrual estimation errors in the first three quarters of the fiscal year) or earnings management to meet certain reporting objectives (e.g., analyst forecasts). We suggest that another factor affecting fourth-quarter earnings is managers’ intentional smoothing of fiscal-year earnings. For each firm, we create pseudo-year earnings using four consecutive quarters other than the four quarters of the reported fiscal year. We then compare the earnings volatility of pseudo years to the earnings volatility of the firm’s own reported fiscal year. We find evidence consistent with fourth-quarter accruals reflecting managerial incentives to smooth fiscal-year earnings. This conclusion is validated by several cross-sectional tests, the pattern in quarterly cash flows and accruals, and several robustness tests. Overall, we contribute to the literature exploring alternative explanations for the differential volatility of fiscal year and fourth-quarter earnings.
+
+Keywords: income smoothing, earnings management, earnings volatility, accruals
+
+JEL Classification: M40, M41, M48
+
+Suggested Citation:
+
+Black, Dirk E. and Pierce, Spencer and Thomas, Wayne B., A Test of Income Smoothing Using Pseudo Fiscal Years (June 10, 2021). Available at SSRN: https://ssrn.com/abstract=3026235 or http://dx.doi.org/10.2139/ssrn.3026235
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+A Ahmed , M Neel , D Wang
+Does mandatory adoption of IFRS improve accounting quality? Preliminary evidence
+Contemporary Accounting Research , volume 30 , issue 4 , p. 1344 - 1372 Posted: 2013
+Crossref
+K Allee , B Badertscher , T Yohn
+Private versus public corporate ownership: Implications for future changes in profitability
+Journal of Management Accounting Research , volume 32 , issue 2 , p. 27 - 55 Posted: 2020
+Crossref
+E Allen , C Larson , R Sloan
+Accrual reversals, earnings and stock returns
+Journal of Accounting and Economics , volume 56 , issue 1 , p. 113 - 129 Posted: 2013
+Crossref
+A N Berger , G F Udell
+The economics of small business finance: The roles of private equity and debt markets in the financial growth cycle
+Journal of Banking and Finance , volume 22 , issue 6-8 , p. 613 - 673 Posted: 1998
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+475
+ABSTRACT VIEWS
+2,569
+RANK
+137,964
+30 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

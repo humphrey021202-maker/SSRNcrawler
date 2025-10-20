@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A Supervised Machine Learning Procedure to Detect Electoral Fraud Using Digital Analysis
+
+42 Pages Posted: 23 Apr 2010
+
+Francisco Cantu
+
+University of California, San Diego - Department of Political Science
+
+Sebastian M. Saiegh
+
+University of California, San Diego (UCSD) - Department of Political Science
+
+Date Written: April 22, 2010
+
+Abstract
+
+This paper introduces a naive Bayes classifier to detect electoral fraud using digit patterns in vote counts with authentic and synthetic data. The procedure is the following: (1) we create 10,000 simulated electoral contests between two parties using Monte Carlo methods. This training set is composed of two disjoint subsets: one containing electoral returns that follow a Benford distribution, and another where the vote counts are purposively "manipulated" by electoral tampering – a percentage of votes are taken away from one party and given to the other; (2) we calibrate membership values of the simulated elections (i.e. clean or fraudulent) using logistic regression; (3) we recover class-conditional densities using the relative frequencies from the training set; (4) we apply Bayes' rule to class-conditional probabilities and class priors to establish the membership probabilities of authentic observations. To illustrate our technique, we examine elections in the province of Buenos Aires (Argentina) between 1932 and 1942, a period with a checkered history of fraud. Our analysis allows us to successfully classify electoral contests according to their degree of fraud. More generally, our findings indicate that Benford's Law is an effective tool for identifying fraud, even when minimal information (i.e. electoral returns) is available.
+
+Keywords: Electoral Fraud, Benford Law, Monte Carlo, Synthetic Data, Bayesian Analysis, Argentina
+
+JEL Classification: C11, C15, C45, N46
+
+Suggested Citation:
+
+Cantu, Francisco and Saiegh, Sebastian M., A Supervised Machine Learning Procedure to Detect Electoral Fraud Using Digital Analysis (April 22, 2010). Available at SSRN: https://ssrn.com/abstract=1594406 or http://dx.doi.org/10.2139/ssrn.1594406
+Download This Paper
+ 
+Open PDF in Browser
+60 References
+Ministerio del Interior. Memoria del ministerio del interior presentada al honorable congreso de la nación , p. 1931 - 1942 Posted: 1932
+Lee J Alston , A Andres , Gallo
+Electoral fraud, the rise of Peron and demise of checks and balances in Argentina
+Explorations in Economic History , volume 47 , p. 179 - 197 Posted: 2010
+Crossref
+Hakan Altinçay
+On naive Bayesian fusion of dependent classifiers
+Pattern Recognition Letters , volume 26 , issue 15 , p. 2463 - 2473 Posted: 2005
+Crossref
+R Alvarez , Thad E Michael , Susan D Hall , Hyde
+Election Fraud: Detecting and Deterring Electoral Manipulation Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+262
+ABSTRACT VIEWS
+2,780
+RANK
+266,546
+2 Citations
+60 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Public Choice: Analysis of Collective Decision-Making eJournal
+
+Follow
+ 
+Recommended Papers
+
+Three Phases of Argentine Economic Growth
+
+By Alan M. Taylor
+
+Electoral Fraud, the Rise of Peron and Demise of Checks and Balances in Argentina
+
+By Andres A. Gallo and Lee J. Alston
+
+Electoral Fraud, the Rise of Peron and Demise of Checks and Balances in Argentina
+
+By Lee J. Alston and Andres A. Gallo
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

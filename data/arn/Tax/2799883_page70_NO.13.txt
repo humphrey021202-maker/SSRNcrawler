@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Depreciation-Related Capital Gains, Differential Tax Rates, and the Market Value of Real Estate Investment Trusts
+
+Journal of Real Estate Finance and Economics, Forthcoming
+
+31 Pages Posted: 26 Jun 2016
+
+Dan W. French
+
+Lamar University; University of Missouri at Columbia
+
+S. McKay Price
+
+Lehigh University - Perella Department of Finance
+
+There are 2 versions of this paper
+
+Date Written: June 22, 2016
+
+Abstract
+
+We develop a model for valuing U.S. real estate investment trusts (REITs) that considers the tax liability impounded in REITs’ property portfolios. This liability is a function of the portfolio’s accumulated depreciation and is driven by different tax rates applied to individual components of the total gain from property sales. These two components are the capital gain resulting from the sale of property at a price higher than its cost and the gain due to the recapture of depreciation taken during the use of the property. Our measure of value is the REIT’s net asset liquidation value (NALV). The metric of REIT value currently used by analysts is a REIT’s net asset value (NAV), but a REIT’s NAV will always be greater than the NALV and therefore overestimate market value, all else equal. Finally, using observed market prices for REITs, we provide evidence that NALVs give superior estimates of REIT market prices than do NAVs.
+
+Keywords: depreciation, valuation, real estate investment trusts, REITs
+
+JEL Classification: G12, G14, G18, G20, M40
+
+Suggested Citation:
+
+French, Dan W. and Price, S. McKay, Depreciation-Related Capital Gains, Differential Tax Rates, and the Market Value of Real Estate Investment Trusts (June 22, 2016). Journal of Real Estate Finance and Economics, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2799883
+Download This Paper
+ 
+Open PDF in Browser
+36 References
+A Auerbach
+Share valuation and corporate equity policy
+Journal of Public Economics , volume 11 , issue 3 , p. 291 - 305 Posted: 1979
+Crossref
+A J Auerbach , K A Hassett
+On the marginal source of investment funds
+Journal of Public Economics , volume 87 , issue 1 , p. 205 - 232 Posted: 2002
+Crossref
+R Barkham , D Geltner
+Price discovery in American and British property markets
+Real Estate Economics , volume 23 , issue 1 , p. 21 - 44 Posted: 1995
+Crossref
+L Benveniste , D R Capozza , P J Seguin
+The value of liquidity
+Real Estate Economics , volume 29 , issue 4 , p. 633 - 660 Posted: 2001
+Crossref
+Load more
+3 Citations
+Spenser J. Robinson , Arjun Singh
+The Impact of Green Labels on U.S. Hotel Net Operating Income: Operating Statements Analyses
+Journal of Sustainable Real Estate, Forthcoming · 23 Pages · Posted: 20 Sep 2019 · Downloads: 100
+Download PDF  Add Paper to My Library
+Ryan Chacon , Dan W. French , Kuntara Pukthuanthong
+The Information Content of NAV Estimates
+Forthcoming, Journal of Real Estate Finance and Economics · 50 Pages · Posted: 1 Jun 2020 · Downloads: 139
+Download PDF  Add Paper to My Library
+David C. Ling , Sugata Ray , Alan Tidwell , Luqi Xu
+Value Implications of REITing and De-REITing
+The Journal of Real Estate Finance and Economics, Forthcoming · 41 Pages · Posted: 17 Aug 2020 · Downloads: 367
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+176
+ABSTRACT VIEWS
+1,870
+RANK
+390,908
+3 Citations
+36 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

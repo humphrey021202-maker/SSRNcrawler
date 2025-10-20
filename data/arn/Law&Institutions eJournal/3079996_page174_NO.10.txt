@@ -1,0 +1,149 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Shocks to Lenders and the Composition of Financial Covenants
+
+Journal of Accounting & Economics (JAE), Forthcoming
+
+57 Pages Posted: 5 Dec 2017 Last revised: 10 Jun 2021
+
+Hans Bonde Christensen
+
+University of Chicago - Booth School of Business
+
+Daniele Macciocchi
+
+University of Miami Herbert Business School
+
+Arthur Morris
+
+Hong Kong University of Science & Technology (HKUST) - Department of Accounting
+
+Valeri V. Nikolaev
+
+University of Chicago Booth School of Business
+
+Date Written: November 29, 2017
+
+Abstract
+
+We provide evidence that financial shocks to lenders influence the composition of financial covenants in debt contracts. Using two distinct measures of lender-specific shocks—defaults in a lender’s corporate loan portfolio that occur outside the borrower’s region and industry, and non-corporate loan delinquencies—we show that lenders respond to financial shocks by increasing the number and strictness of performance-based but not of capital-based covenants in debt contracts. We examine two possible channels for this result. We find evidence consistent with lenders using stricter control rights because of concerns about capital depletion (a capital channel) and because of new information about lenders’ own screening ability (a learning channel). Our results indicate that lender preferences influence how accounting information is used in debt contracts.
+
+Keywords: accounting-based covenants, debt contracting, financial market frictions
+
+JEL Classification: M4, G32
+
+Suggested Citation:
+
+Christensen, Hans Bonde and Macciocchi, Daniele and Morris, Arthur and Nikolaev, Valeri V., Financial Shocks to Lenders and the Composition of Financial Covenants (November 29, 2017). Journal of Accounting & Economics (JAE), Forthcoming, Available at SSRN: https://ssrn.com/abstract=3079996 or http://dx.doi.org/10.2139/ssrn.3079996
+Download This Paper
+ 
+Open PDF in Browser
+47 References
+P Aghion , P Bolton
+An incomplete contracts approach to financial contracting
+The Review of Economic Studies , volume 59 , p. 473 - 494 Posted: 1992
+Crossref
+E Altman
+In: Financial crises: Institutions and markets in a fragile environment , p. 89 - 129 Posted: 1977
+C Armstrong , C Gallimberti , D Tsui
+The screening role of covenant heterogeneity Posted: 2019
+P Asquith , A Beatty , J Weber
+Performance pricing in bank debt contracts
+Journal of Accounting and Economics , volume 40 , p. 101 - 128 Posted: 2005
+Crossref
+Load more
+13 Citations
+Scott Dyreng , Elia Ferracuti , Arthur Morris
+Renegotiation Costs and Debt Contract Design
+28th Annual Conference on Financial Economics and Accounting, Paris December 2017 Finance Meeting EUROFIDAI - AFFI · 65 Pages · Posted: 7 Jun 2017 · Last revised: 9 Jun 2025 · Downloads: 576
+Download PDF  Add Paper to My Library
+Peter R. Demerjian , Edward Owens , Matias Sokolowski
+Lender Capital Management and Financial Covenant Strictness
+49 Pages · Posted: 11 Sep 2018 · Last revised: 6 Feb 2023 · Downloads: 576
+Download PDF  Add Paper to My Library
+Shunji Mei , Srinivasan Selvam , Kelvin Jui Keng Tan
+Chained Innovation: Response to Customer Covenant Violations
+60 Pages · Posted: 2 Sep 2020 · Last revised: 21 May 2025 · Downloads: 165
+Download PDF  Add Paper to My Library
+Lynn Linghuan Wang
+Transmission Effects of ESG Disclosure Regulations through Bank Lending Networks
+<a href="https://doi.org/10.1111/1475-679X.12478" rel="nofollow">Journal of Accounting Research, volume 61, issue 3, 2023</a> [10.1111/1475-679X.12478] · 54 Pages · Posted: 19 May 2022 · Last revised: 11 Aug 2024 · Downloads: 1,608
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+833
+ABSTRACT VIEWS
+4,889
+RANK
+67,322
+13 Citations
+47 References
+PlumX Metrics
+Related eJournals
+
+HKUST Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

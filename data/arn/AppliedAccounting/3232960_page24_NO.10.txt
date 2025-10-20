@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Section 355 Revisited: Time for a Major Overhaul?
+
+Tax Lawyer, Forthcoming
+
+Northwestern Law & Econ Research Paper No. 18-17
+
+88 Pages Posted: 17 Aug 2018
+
+Herbert N. Beller
+
+Northwestern University - Pritzker School of Law; Sutherland Asbill & Brennan LLP
+
+Date Written: August 16, 2018
+
+Abstract
+
+Section 355 of the Internal Revenue Code permits a corporation that conducts multiple active businesses to distribute controlling stock ownership interests in one or more of such businesses to all or some of its shareholders on a tax-free basis, provided that various statutory and non-statutory requirements are met. Commonly known as “spin-offs”, “split-offs” and “split-ups”, qualifying section 355 distributions are often preceded by a transfer of assets (and sometimes liabilities) into the distributed controlled corporation, as part of an overall type “D” divisive “reorganization” described in section 368(a)(1)(D). Non-recognition treatment for at least some forms of corporate separations dates back to the Revenue Act of 1918. The 1954 Code iteration of section 355, which continues to provide the basic statutory framework for tax-free treatment, has been amended several times in order to tighten various qualification requirements and, in certain instances, to impose a corporate level tax on the distributing corporation (via sections 355(d) and (e)) even through the transaction still generates tax –free treatment at the shareholder level. In general, however, the primary distinguishing tax feature of section 355 transactions is that they permit tax-free treatment at both the shareholder and corporate levels, thus constituting the principal exception to the statutory repeal of the so-called General Utilities doctrine during the mid-1980s. The main premise of this article is that section 355 is due for a major overhaul. Following an Introduction in Part I, Part II of the article discusses the core principles that commonly underlie non-recognition treatment for both acquisitive and divisive reorganizations. Part III traces the evolution of section 355 and its statutory predecessors, including (i) the impact of the seminal Supreme Court decision in Gregory v. Helvering; (ii) the several sets of Treasury regulations under section 355 that have been promulgated, amended and proposed over the years; and (iii) the frequently changing and critically important IRS ruling policies with respect to section 355 transactions. Part IV suggests possible reform measures (summarized in Part IV.A) that would streamline and better objectify the statutory and non-statutory requirements of section 355 by (i) eliminating certain overlaps and discontinuities between such requirements; (ii) imposing specific restrictions and limitations regarding post-distribution stock and asset dispositions; and (iii) repealing or combining existing sections 355(d) and (e). Part V, the Conclusion of the article, capsulizes the main thrust of any ultimate section 355 overhaul -- namely, to implement changes that (i) limit the application of section 355 to corporate separation transactions in which primarily active business assets of the distributing corporation are shifted into stand-alone corporations that continue to be owned primarily by the distributing corporation’s shareholders; (ii) deny nonrecognition treatment where substantial amounts of nonbusiness assets change hands and a substantial complement of new shareholders enters the picture; and (iii) preserve the integrity of General Utilities repeal.
+
+Keywords: tax-free spin-offs, section 355 transactions
+
+JEL Classification: K10, K30
+
+Suggested Citation:
+
+Beller, Herbert N., Section 355 Revisited: Time for a Major Overhaul? (August 16, 2018). Tax Lawyer, Forthcoming, Northwestern Law & Econ Research Paper No. 18-17, Available at SSRN: https://ssrn.com/abstract=3232960 or http://dx.doi.org/10.2139/ssrn.3232960
+Download This Paper
+ 
+Open PDF in Browser
+20 References
+Treas , Reg
+Crossref
+and the IRS continue to study whether permitting tax-free separations of large amounts of nonbusiness assets from business assets, especially when the gain in the non-business assets is expected to be eliminated, is consistent with General Utilities repeal in all circumstances
+Although the existing device regulations focus on "facilitating the avoidance of the dividend provisions of the Code" by enabling post-spin stock sales at capital gain rates
+Circumstances in which section 355 transactions might properly be viewed as contravening the spirit of General Utilities repeal -notwithstanding the explicit statutory exceptions provided by sections 355(c) and 361(c) -are by no means clear. The principal doubts in this regard stem from the fact that distributions of Controlled stock do not remove Controlled's underlying appreciated (or depreciated) assets from the corporate tax base; rather, they simply shift the underlying beneficial ownership of such assets among the existing shareholders. Moreover, unlike taxable distributions of appreciated assets that generate a fair market value basis in the hands of the shareholder, the basis of the Controlled stock received in a section 355 distribution is either an allocated portion of the shareholder's historic basis in her Distributing stock
+Irc § §358
+See generally, Alexander & Wood, supra n. 140, 96 Taxes at 37 et seq
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+488
+ABSTRACT VIEWS
+4,178
+RANK
+133,571
+20 References
+PlumX Metrics
+Related eJournals
+
+Northwestern University Pritzker School of Law, Law & Economics Research Paper Series
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

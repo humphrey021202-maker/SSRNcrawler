@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Stock Options and Managers' Incentives to Cheat
+
+46 Pages Posted: 20 Jan 2005
+
+Marc Chesney
+
+University of Zurich - Department of Banking and Finance
+
+Rajna Gibson
+
+University of Geneva - Geneva Finance Research Institute (GFRI); European Corporate Governance Institute (ECGI)
+
+Date Written: January 11, 2005
+
+Abstract
+
+In this paper, we use a continuous-time contingent claims framework to study managers' incentives to cheat in the presence of equity-based compensation policies. When we consider a fully predictable legal process, we observe that managers will always have incentives to engage in illicit activities. The exercise of the option to cheat will be postponed if the corruption costs or if the manager's reputational loss increases. We further show that managers incentives to cheat are delayed and can even be eliminated when the legal settlement date is non-predictable. An important result is that managers will always cheat sooner with stock options than with a cash equivalent remuneration consisting of stocks. Finally, we propose a new remuneration package that consists of both long calls and short puts written on the firm's stocks in order to reduce managers incentives to cheat.
+
+Keywords: Executive compensation, fraud, incentives, stock options
+
+JEL Classification: G13, G30
+
+Suggested Citation:
+
+Chesney, Marc and Gibson, Rajna, Stock Options and Managers' Incentives to Cheat (January 11, 2005). Available at SSRN: https://ssrn.com/abstract=651207 or http://dx.doi.org/10.2139/ssrn.651207
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+Black Fisher , Myron Scholes
+The Pricing of Options and Corporate Liabilities
+Journal of Political Economy , volume 31 , p. 637 - 654
+Jennifer Carpenter
+Does Option Compensation Increase Managerial Risk Appetite?
+The Journal of Finance , volume 55 , issue 5 , p. 2311 - 2332 Posted: 2000
+Crossref
+Jennifer Carpenter
+The Exercise and Valuation of Executive Stock Options
+Journal of Financial Economics , volume 48 , p. 127 - 158 Posted: 1998
+Core John , E , Wayne R Guay , David F Larcker
+Executive Equity Compensation and Incentives : A Survey
+Federal Reserve Bank of New York Economic Policy Review , p. 27 - 50
+Load more
+3 Citations
+Langnan Chen , Weibin Lin
+Corporate governance and fraud: Evidence from China
+Corporate Ownership and Control , volume 4 , issue 3 , p. 139 Posted: 2007
+Crossref
+Shane A. Johnson , Harley E. Ryan , Yisong Sam Tian
+Managerial Incentives and Corporate Fraud: The Sources of Incentives Matter
+EFA 2006 Zurich Meetings · 40 Pages · Posted: 2 Jun 2006 · Last revised: 18 Oct 2011 · Downloads: 3,805
+Download PDF  Add Paper to My Library
+Rasha Kassem
+Exploring external auditors’ perceptions of the motivations behind management fraud in Egypt – a mixed methods approach
+Managerial Auditing Journal , volume 33 , issue 1 , p. 16 Posted: 2018
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+210
+ABSTRACT VIEWS
+2,496
+RANK
+331,544
+3 Citations
+16 References
+PlumX Metrics
+Related eJournals
+
+Leadership Selection & Compensation eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Executive Compensation
+
+By Kevin J. Murphy
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

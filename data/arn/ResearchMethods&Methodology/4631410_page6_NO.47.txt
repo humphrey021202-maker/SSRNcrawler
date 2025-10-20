@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Measuring Cash Flows: A Guide for Researchers
+
+60 Pages Posted: 30 Nov 2023 Last revised: 29 May 2025
+
+Ciao-Wei Chen
+
+University of Illinois at Urbana-Champaign - Department of Accountancy
+
+Samuel Melessa
+
+affiliation not provided to SSRN
+
+Richard Mergenthaler
+
+Penn State University
+
+Heejin Ohn
+
+University of Oklahoma
+
+Date Written: May 29, 2025
+
+Abstract
+
+Cash flows play an important role in the accounting and finance literature. They are a major component of earnings, serve as a benchmark for earnings and accruals, and are an input to firm valuation. Although accrual measurement has been extensively studied, research on cash flow measurement remains limited. We review cash flow proxies researchers use in prior literature and highlight the importance of (i) identifying and defining the cash flow construct of interest based on the underlying research question and other constructs of interest and (ii) selecting a cash flow proxy that minimizes measurement error and maps well into its construct. We also examine the challenges researchers face in measuring cash flows and demonstrate how measurement choices can affect the magnitude of coefficient estimates and statistical inferences. Finally, our study provides a framework researchers can follow to strengthen the construct validity of cash flow proxies.  
+
+Keywords: Measurement Error, Construct Validity, Cash Flow Proxies
+
+JEL Classification: M41, G30, C01
+
+Suggested Citation:
+
+Chen, Ciao-Wei and Melessa, Samuel and Mergenthaler, Richard Dean and Ohn, Heejin, Measuring Cash Flows: A Guide for Researchers (May 29, 2025). Available at SSRN: https://ssrn.com/abstract=4631410 or http://dx.doi.org/10.2139/ssrn.4631410
+Download This Paper
+ 
+Open PDF in Browser
+75 References
+J Almamy , J Aston , L N Ngwa
+An evaluation of Altman's Z-score using cash flow ratio to predict corporate failure amid the recent financial crisis: Evidence from the UK
+Journal of Corporate Finance , volume 36 , p. 278 - 285 Posted: 2016
+Y Amihud
+Illiquidity and stock returns: Cross-section and time-series effects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+T J Atwood , M S Drake , L A Myers
+Book-tax conformity, earnings persistence and the association between earnings and future cash flows
+Journal of Accounting and Economics , volume 50 , issue 1 , p. 111 - 125 Posted: 2010
+P R Bahnson , P B W Miller , B P Budge
+Nonarticulation in cash flow statements and implications for education
+research and practice. Accounting Horizons , volume 10 , issue 4 , p. 1 - 15 Posted: 1996
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+423
+ABSTRACT VIEWS
+1,878
+RANK
+158,049
+75 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

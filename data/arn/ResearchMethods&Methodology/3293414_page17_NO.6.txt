@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Strategic Withholding and Imprecision in Asset Measurement
+
+HEC Paris Research Paper No. ACC-2018-1324
+
+69 Pages Posted: 18 Dec 2018 Last revised: 24 Jan 2019
+
+Jeremy Bertomeu
+
+Washington University in St. Louis - John M. Olin Business School
+
+Edwige Cheynel
+
+Washington University in St. Louis - John M. Olin Business School
+
+Davide Cianciaruso
+
+New Economic School (NES)
+
+There are 2 versions of this paper
+
+Date Written: November 30, 2018
+
+Abstract
+
+How precise should accounting measurements be, if management has discretion to strategically withhold? We examine this question by nesting an optimal persuasion mechanism, which controls what measurements are conducted, within a voluntary disclosure framework a la Dye (85) and Jung and Kwon (1988). In our setting, information has real effects because the firm uses it to make a continuous operating decision, increasing in the market's belief. Absent frictions other than uncertainty about information endowment, we show that imprecision can reduce strategic withholding but always decreases firm value. We then examine plausible environments under which, by contrast, there is an optimal level of imprecision featuring coarseness at the marginal discloser. We offer additional implications in the contexts of enforcement against strategic withholding and financing with collateralized assets.
+
+Keywords: real effects, imprecision, voluntary disclosure, accounting standards
+
+JEL Classification: G3, M4
+
+Suggested Citation:
+
+Bertomeu, Jeremy and Cheynel, Edwige and Cianciaruso, Davide, Strategic Withholding and Imprecision in Asset Measurement (November 30, 2018). HEC Paris Research Paper No. ACC-2018-1324, Available at SSRN: https://ssrn.com/abstract=3293414 or http://dx.doi.org/10.2139/ssrn.3293414
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+Accounting Information, Renegotiation, and Debt Contracts Posted: 2018
+Matthew Gentzkow , Emir Kamenica
+A Rothschild-Stiglitz Approach to Bayesian Persuasion
+American Economic Review , volume 106 , issue 5 , p. 597 - 601 Posted: 2016-05
+Crossref
+Frank Gigler , Chandra Kanodia , Haresh Sapra , Raghu Venugopalan
+How frequent financial reporting can cause managerial short-termism: An analysis of the costs and benefits of increasing reporting frequency
+Journal of accounting research , volume 47 , issue 3 , p. 357 - 387 Posted: 2009
+Crossref
+Vincent Glode , C Christian , Xingtan Opp , Zhang
+Voluntary disclosure in bilateral transactions
+Journal of Economic Theory , volume 175 , p. 652 - 688 Posted: 2018
+Crossref
+Load more
+17 Citations
+Henry L. Friedman , John S. Hughes , Beatrice Michaeli
+Optimal Reporting When Additional Information Might Arrive
+Journal of Accounting & Economics (JAE), Volume 69(2-3) · 52 Pages · Posted: 30 Sep 2015 · Last revised: 2 Nov 2020 · Downloads: 566
+Download PDF  Add Paper to My Library
+Henry L. Friedman , John S. Hughes , Beatrice Michaeli
+A Rationale for Imperfect Reporting Standards
+Management Science, forthcoming · 56 Pages · Posted: 6 Jun 2018 · Last revised: 22 Dec 2020 · Downloads: 379
+Download PDF  Add Paper to My Library
+Edwige Cheynel , Amir Ziv
+On Market Concentration and Disclosure
+35 Pages · Posted: 5 May 2020 · Downloads: 273
+Download PDF  Add Paper to My Library
+Henry L. Friedman , John S. Hughes , Beatrice Michaeli
+A Rationale for Imperfect Reporting Standards
+Management Science, forthcoming · 56 Pages · Posted: 22 Jul 2020 · Last revised: 21 Dec 2020 · Downloads: 181
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+292
+ABSTRACT VIEWS
+2,769
+RANK
+238,367
+17 Citations
+17 References
+PlumX Metrics
+Related eJournals
+
+HEC Paris Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Newspaper Closures and Trading in Local Stocks
+
+67 Pages Posted: 19 Nov 2024 Last revised: 1 Sep 2025
+
+Peter Cziraki
+
+Texas A&M University - Department of Finance; European Corporate Governance Institute (ECGI); Tilburg Law and Economics Center (TILEC)
+
+Jasmin Gider
+
+Tilburg University - Tilburg University School of Economics and Management
+
+Date Written: August 31, 2025
+
+Abstract
+
+There is increasing awareness of how local media affects financial markets, but also of the endogeneity of media coverage. We separate the causal impact of local media on financial markets from selection effects using a new, hand-collected database of newspaper closures. We find that at least 29% of local newspaper closures are driven by distress, and thus, likely endogenous to local economic conditions. Return volatility and idiosyncratic risk decrease significantly after non-distress-driven newspaper closures, but increase after distress-driven closures, suggesting the presence of substantial selection effects. We find similar patterns for liquidity and trading. Once we account for selection, the estimated impact of local newspapers on volatility increases by over 40%. The reduction in volatility after non-distress-driven newspaper closures is larger for stocks subject to greater information frictions, lower national media coverage, firms located in remote areas, firms with a more concentrated geographic presence, and during recessions. All these tests suggest that investor information processing is the main channel that drives our results. Our findings highlight that the effect of media on financial markets may be larger than previously documented.
+
+Keywords: media coverage, information processing, financial markets, return volatility, trading
+
+JEL Classification: G14, G33, L82
+
+Suggested Citation:
+
+Cziraki, Peter and Gider, Jasmin, Newspaper Closures and Trading in Local Stocks (August 31, 2025). Available at SSRN: https://ssrn.com/abstract=5024959 or http://dx.doi.org/10.2139/ssrn.5024959
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+Penny Abernathy
+The State of Local News Report Posted: 2022
+Kristian D Allee , Ryan Cating , Caleb Rawson
+No news is bad news: local news intensity and firms' information environments
+Review of Accounting Studies , volume 30 , p. 1 - 32 Posted: 2025
+Yakov Amihud
+Illiquidity and Stock Returns: Cross-Section and Time-Series Effects
+Journal of Financial Markets , volume 5 , p. 31 - 56 Posted: 2002
+Daniel Andrei , Michael Hasler
+Investor Attention and Stock Market Volatility
+The Review of Financial Studies , volume 28 , p. 33 - 72 Posted: 2015
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+337
+ABSTRACT VIEWS
+1,504
+RANK
+204,108
+67 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

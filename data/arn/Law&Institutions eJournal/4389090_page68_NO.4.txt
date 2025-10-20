@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does Context Matter for Information Transfer?
+
+45 Pages Posted: 20 Mar 2023
+
+Andrew Bird
+
+Chapman University - The George L. Argyros College of Business and Economics
+
+Stephen A. Karolyi
+
+Donald G. Costello College of Business at George Mason University
+
+Thomas Ruchti
+
+Virginia Tech - Department of Accounting and Information Systems
+
+Phong Truong
+
+Pennsylvania State University
+
+Date Written: March 15, 2023
+
+Abstract
+
+We exploit the SEC's staggered introduction of the EDGAR platform, which reduced the cost of acquiring historical financial reports, to study whether context affects news diffusion across stocks. We find that information transfer from a peer stock's earnings announcement increases by 70-100% after that peer adopts EDGAR, suggesting that the supply of context promotes cross-learning by investors. We find no evidence that this effect reverses, consistent with an improvement in information processing.
+
+Keywords: context, information processing, EDGAR, market efficiency
+
+JEL Classification: M41, G14, G18
+
+Suggested Citation:
+
+Bird, Andrew and Karolyi, Stephen A. and Ruchti, Thomas and Truong, Phong, Does Context Matter for Information Transfer? (March 15, 2023). Available at SSRN: https://ssrn.com/abstract=4389090 or http://dx.doi.org/10.2139/ssrn.4389090
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+291
+ABSTRACT VIEWS
+1,607
+RANK
+239,255
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+What Stakeholders Expect from Corporations When it Comes to Paying Tax: Corporate Reputation and Optimal Tax Planning
+
+120 Pages Posted: 17 Mar 2015
+
+Chris Brooks
+
+University of Reading - ICMA Centre
+
+Carola Hillenbrand
+
+University of Reading - Henley Business School
+
+Kevin Money
+
+University of Reading - Henley Business School
+
+Date Written: March 16, 2015
+
+Abstract
+
+This study presents the findings of an extensive research project that sought to determine stakeholder expectations regarding companies’ corporation tax practices in the UK, combining both qualitative and quantitative approaches.
+
+The qualitative aspect employed a detailed survey of 61 representatives of four stakeholder groups: industry representatives, consumer bodies, non-governmental organisations (NGOs), and business decision-makers from FTSE 100 & 250 companies. In general, there was broad agreement on the majority of issues between business decision-makers and industry representatives (‘the business community’); there was also considerable agreement between NGOs and consumer bodies (‘the public body’). The structured survey asked respondents in 30–60 minute telephone interviews a range of questions concerning their views on the fairness of the tax system, whether large UK-based companies pay an appropriate amount of tax, whether they believe there to be a link between corporate tax rates and competition, how they consider big business is perceived in society, what could be done to build trust, who should be involved in designing a firm’s planning process and what should such a process look like. There was an overwhelmingly positive response to participate in the study by all stakeholder groups, which demonstrates the relevance of the debate and the keen interest by all players to have their views heard.
+
+1 - Perceptions of fairness of the UK tax system overall - Overall, the UK tax system is perceived as reasonably fair, with the industry representatives being the most positive, followed by business decision-makers, then NGOs and consumer bodies last. Respondents from all stakeholder groups are almost unanimous that government and politicians are predominantly responsible for issues of fairness regarding tax. Voters, the tax office and large multinational companies are perceived to be responsible to a much lesser degree.
+
+2 - Views of large UK companies - The business community holds a much more positive view than the public body on the question of whether large UK companies pay an appropriate amount of tax. Many respondents believe that there is not a level playing field between large UK companies and multinationals and that the international tax system introduces complexity and distorts competition between companies across countries. Representatives from both the business community and the public bodies recognise a number of steps that have begun to be taken in the UK and internationally to change the tax system, e.g. GAAR (General Anti-Abuse Rule) and BEPS (Base Erosion and Profit Shifting), but comments regarding the impact of such efforts are inconclusive at present.
+
+3 - Contribution to society - While most respondents agree that large firms operate within the law, the public body view again rates big companies lower than the business community on whether they contribute their fair share to society and operate in the best interest of society. Respondents indicate that they believe the UK public to be concerned about the extent of corporate contributions to society and trust in companies is perceived to be relatively low, particularly regarding multinationals operating in the UK but not domiciled here. The business community thinks that a general climate of negativity is based on a lack of understanding and bad press coverage, while the public body view is that companies have yet to engage in the tax debate in a meaningful way, need to listen more closely to stakeholder views and adopt more transparent communication about tax.
+
+4 - Guiding approaches for companies on tax issues - In terms of guiding approaches that companies could adopt in respect of tax, the top choice among business decision-makers and industry representatives is for companies to engage with industry bodies and politicians to develop new tax legislation. In contrast, consumer bodies would prefer companies to engage proactively with the general public in the UK to deliver on societal expectations regarding company tax, and NGOs favour companies making an effort to operate within the spirit and letter of the law as their top choice. While some changes in corporate behaviour are emerging, such as the closure of banks’ tax structured products divisions and public tax statements by some business leaders, the majority of respondents in this survey agree that businesses should work further on creating a greater degree of transparency and improving clarity in communication about what they are paying and their profits.
+
+5 - A way forward - Key differences exist in respondents’ views on who companies should engage with on tax issues and how future communication should be motivated and disseminated. While the business community looks towards government and policy makers as communication partners, viewing the public as recipients of information in need of education, NGOs and consumer bodies hope there will be a multi-stakeholder debate on corporate tax including a process of listening and informing by businesses, resulting in credible, simple and transparent communication, distributed by companies but verified by independent bodies. For companies concerned about the effects of corporate tax on reputation and stakeholder relationships, this report outlines a process that includes internal and external dialogue to encourage tax strategies that are values congruent, stakeholder relevant and evidence based.
+
+Turning now to the quantitative part of the study, this focused on investors as stakeholders and applied various empirical econometric models to a sample comprising all firms that were part of the FTSE All-Share Index, spanning the 1991 to 2014 period. We find that over the past 20 years, typical effective corporation tax rates in the UK have been at comparable levels to those in the US despite the statutory rates in the former having been lower and falling. We observe that post 2006, typical cash effective tax rates in the UK collapsed from above 25% to around 6%; however, total (current plus deferred) tax rates remained close to statutory levels throughout the period investigated. Therefore, it can be argued that historically, UK firms have paid their taxes to a much greater degree than their US counterparts and the widespread populist view of mass tax avoidance among UK firms cannot be substantiated.
+
+We find no discernible link between tax rates and stock returns for the UK, no matter how tax payment/tax avoidance is measured. This is true throughout the sample period and for both customer-facing and non-customer-facing companies. However, allowing for industry norms and a host of firm characteristics, companies with lower effective tax rates have significantly higher levels of stock market risk. Firms that are reported in the newspapers in a negative way in relation to their level of corporation tax payment experience very small negative stock returns, which are fully reversed within a month. The initial negative effects and subsequent rebound are both more pronounced for smaller companies. News announcements of the involvement of a firm in a potentially unacceptable tax-related activity, according to the authorities, result in steeper and much longer-lasting falls in share prices, whereas news stories of a more general nature relating to a firm’s tax avoidance or tax payments have no noticeable effect at all.
+
+Keywords: stakeholder expectations, corporation tax, tax avoidance, stock returns, tax news stories
+
+JEL Classification: G12, G28, H25, H26
+
+Suggested Citation:
+
+Brooks, Chris and Hillenbrand, Carola and Money, Kevin, What Stakeholders Expect from Corporations When it Comes to Paying Tax: Corporate Reputation and Optimal Tax Planning (March 16, 2015). Available at SSRN: https://ssrn.com/abstract=2578969 or http://dx.doi.org/10.2139/ssrn.2578969
+Download This Paper
+ 
+Open PDF in Browser
+99 References
+Years All Industry
+Years All Industry Posted: 1999
+Notes: absolute values of t-ratios in parentheses
+* , ** , ***
+denote significance at the 10%, 5% and 1% levels respectively. All of the same control variables are employed as in Tables 13 to 18, including industry dummies
+V Agarwal , R Taffler
+Does financial distress risk drive the momentum anomaly? Financial Management , volume 37 , p. 461 - 84 Posted: 2008
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+410
+ABSTRACT VIEWS
+4,466
+RANK
+163,928
+6 Citations
+99 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

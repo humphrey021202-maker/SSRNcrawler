@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+POLÍTICA DE DIVIDENDOS E O CICLO DE VIDA ORGANIZACIONAL: EVIDÊNCIAS DAS COMPANHIAS LISTADAS NA B3
+(Dividend Policy And The Organizational Life Cycle: Evidence From Companies Listed In B3)
+
+Revista de Administração de Roraima - RARR, volume 10, 2021[10.18227/2237-8057rarr.v10i0.6044]
+
+27 Pages Posted: 30 Dec 2024 Last revised: 13 May 2025
+
+Carolina Carvalho
+
+Universidade Federal do Rio Grande (FURG)
+
+Ismael Heissler
+
+Universidade Federal do Rio Grande (FURG)
+
+Fernanda Gomes Victor
+
+Universidade Federal do Rio Grande (FURG)
+
+Arthur Frederico Lerner
+
+Federal University of Santa Catarina (UFSC)
+
+Date Written: May 12, 2021
+
+Abstract
+
+Portuguese Abstract: A política de dividendos abrange as decisões das companhias sobre a remuneração aos seus acionistas, o quanto será distribuído e o quanto irá ser reinvestido de seus rendimentos. Diversas pesquisas buscam determinar os principais fatores que levam as empresas a pagar ou deixar de pagar dividendos. O objetivo deste estudo é avaliar a relação entre a política de dividendos e o ciclo de vida organizacional, mapeados conforme os diferentes comportamentos (sinais positivos ou negativos) dos componentes dos fluxos de caixa das atividades operacionais, de financiamento e de investimento, segundo o modelo de Dickinson (2011). A amostra totalizou 145 companhias com ações negociadas na B3 e compreendeu o período de 2008 a 2016. As análises foram efetuadas por meio de regressão modelo tobit, com dados em painel não balanceados, para duas variáveis dependentes distintas: dividend payout e dividend yield. Os resultados demonstram indícios de relação da política de dividendos com as três etapas iniciais do ciclo de vida, nascimento, crescimento e maturidade. As etapas de nascimento e crescimento apresentaram significância negativa para o yield, corroborando com o estudo de Mueller (1972). A terceira etapa, maturidade, apresentou relação positiva para os testes com as duas variáveis de interesse, o que reafirma os estudos de Miller e Modigliani (1963) e Anthony e Ramesh (1992), de que empresas no estágio de maturidade tendem a ter um acréscimo no pagamento de dividendos em relação àquelas em fases iniciais; por outro lado, refutam o estudo de Miller e Frisen (1984) que demonstra que os estágios de maturidade, assim como declínio, indicam características mais conservadoras das companhias, e pagam menos dividendos. As demais significâncias encontradas reafirmaram os resultados esperados para tais variáveis.
+
+
+
+English Abstract: The  dividend  policy  covers  companies'  decisions  about  the  remuneration  of  their shareholders, how  much  will be distributed  and  how  much  will be reinvested in their income.  Several  surveys  seek  to  determine  the  main  factors  that  lead  companies  to pay or fail to pay dividends. The objective of this study is to evaluate the relationship between  the  dividend  policy  and  the  organizational  life  cycle,  mapped  according  to the  different  behaviors  (positive  or  negative  signs)  of  the  cash  flow  components  of operating,  financing  and  investment  activities,  according  to  the  model.  by  Dickinson (2011).  The  sample  comprised  145  companies  with  shares  traded  on  B3  and comprised  the  period  from  2008  to  2016.  The  analyzes  were  performed  using  tobit model  regression,  with  unbalanced  panel  data,  for  two  distinct  dependent  variables: dividend  payout  and  dividend  yield.  The  results  show  evidence  of  the  relation between  dividend  policy  and  the  three  initial  stages  of  life  cycle,  birth,  growth  and maturity.   The   birth   and   growth   stages   were   negatively   significant   for   yield, corroborating  the  study  by  Mueller  (1972).  The  third  stage,  maturity,  showed  a positive relationship for the tests with the two variables of interest, which reaffirms the studies  by  Miller  and  Modigliani  (1963)  and  Anthony  and  Ramesh  (1992),  that companies at the maturity stage tend to have increase in the payment of dividends in relation  to  those  in  early  stages; On  the  other  hand,  they  refute  the  study  by  Miller and Frisen (1984) which shows that maturity stages, as well as decline, indicate more conservative   characteristics   of   companies,   and   pay   less   dividends.   The   other significance found reaffirmed the expectedresults for such variables.
+
+Note: Downloadable document is in Portuguese.
+
+Keywords: política de dividendos, ciclo de vida organizacional, fluxo de caixa, companhias brasileiras de capital aberto
+
+Suggested Citation:
+
+Carvalho, Carolina and Heissler, Ismael and Victor, Fernanda Gomes and Lerner, Arthur Frederico, POLÍTICA DE DIVIDENDOS E O CICLO DE VIDA ORGANIZACIONAL: EVIDÊNCIAS DAS COMPANHIAS LISTADAS NA B3
+(Dividend Policy And The Organizational Life Cycle: Evidence From Companies Listed In B3) (May 12, 2021). Revista de Administração de Roraima - RARR, volume 10, 2021[10.18227/2237-8057rarr.v10i0.6044], Available at SSRN: https://ssrn.com/abstract=4999715
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+Dumpj -126
+LnAtivo , volume 1
+Log Ver , volume 3866 , p. 726 - 726
+Variável dependente: Dividend Payout. Modelo: regressão Tobit. Painel não balanceado , volume 5106 Posted: 2069
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+30
+ABSTRACT VIEWS
+236
+50 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

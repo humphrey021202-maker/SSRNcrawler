@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Data Analytic Visualizations Informing the Audit Risk Assessment: The Impact of Default Visualization Form and Documentation Focus
+
+42 Pages Posted: 12 Aug 2024
+
+Becca N. Baaske
+
+The University of Tampa
+
+Uday Murthy
+
+University of South Florida
+
+Date Written: May 31, 2024
+
+Abstract
+
+Data visualization tools commonly default to specific visualizations, which may not always align optimally with client contexts or audit cues. Relying solely on default visualizations without adequate interaction can potentially impede auditors' anomaly detection and risk assessment, impairing audit effectiveness. In a 2x2 experiment, we examine the impact of default visualization (optimal or less-than-optimal) and documentation focus (supporting or balanced focus) on anomaly identification and risk assessment judgments. Our findings indicate that auditors often anchor on default visualizations, even if less-than-optimal, resulting in diminished anomaly detection and lower risk assessments. A documentation focus aimed at supporting one's judgments prompts auditors to search for and document more high-risk evidence, spend more time engaging with visualizations, and accurately identify true anomalies when faced with less-than-optimal default visualizations. This study should be of interest to accounting firms and standard setters striving to enhance audit quality with data visualizations during risk assessment. 
+
+Keywords: Data visualizations, anomalies, documentation focus, risk assessment, default effect
+
+Suggested Citation:
+
+Baaske, Becca and Murthy, Uday, Data Analytic Visualizations Informing the Audit Risk Assessment: The Impact of Default Visualization Form and Documentation Focus (May 31, 2024). Available at SSRN: https://ssrn.com/abstract=4904870 or http://dx.doi.org/10.2139/ssrn.4904870
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+Andrew Abela
+Choosing a good chart. The Extreme Presentation ™ Method Posted: 2006
+C P Agoglia , C Beaudoin , G T Tsakumis
+The effect of documentation structure and task specific experience on auditors' ability to identify control weaknesses
+Behavioral Research in Accounting , volume 21 , issue 1 , p. 1 - 17 Posted: 2009
+C P Agoglia , T Kida , D M Hanno
+The effects of alternative justification memos on the judgments of audit reviewees and reviewers
+Journal of Accounting Research , volume 41 , issue 1 , p. 33 - 46 Posted: 2003
+Audit Data Analytics (ADAs) Can Transform Audits; New AICPA Guide Will Help Auditors Apply ADA Techniques Posted: 2017
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+66
+ABSTRACT VIEWS
+403
+RANK
+799,009
+34 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

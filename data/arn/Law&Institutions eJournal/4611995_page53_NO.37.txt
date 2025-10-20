@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+External Assurance of Carbon Disclosures Indicates Possible Underestimates in Reported European Corporate Emissions Data
+
+JRC Working Papers in Economics and Finance 2023/9
+
+40 Pages Posted: 21 Nov 2023
+
+Georgios Papadopoulos
+
+Bank of Greece
+
+Date Written: August 25, 2023
+
+Abstract
+
+Company carbon disclosures are crucial in assessing a firm's impact on the environment, and many policy actions are associated with this information. As a response to the increasing demand for transparency, many firms disclose carbon emissions through sustainability reports and voluntarily engage with external assurance of the reported information. However, the possible existence of systematic differences in reported emissions with respect to their assurance status is still under-explored. This study investigates the causal effect of third-party assurance on carbon disclosures in a sample of European companies. Findings suggest that non-assuring firms may be under-reporting their direct GHG emissions by up to a magnitude comparable to the largest annual reduction of EU emissions in history. On the contrary, the effect of assurance is much weaker to almost absent in indirect, Scope 2, emissions possibly due to their clear and easily verifiable estimation nature. The findings demonstrate that third-party assurance can provide more reliable and certainly more prudent estimates of corporate GHG emissions which are relevant to corporate sustainability strategy, policymaking and, ultimately, climate change mitigation.
+
+Keywords: external assurance, corporate carbon disclosure, company GHG emissions, climate change
+
+JEL Classification: M42, Q54, Q56
+
+Suggested Citation:
+
+Papadopoulos, Georgios, External Assurance of Carbon Disclosures Indicates Possible Underestimates in Reported European Corporate Emissions Data (August 25, 2023). JRC Working Papers in Economics and Finance 2023/9, Available at SSRN: https://ssrn.com/abstract=4611995 or http://dx.doi.org/10.2139/ssrn.4611995
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+89
+ABSTRACT VIEWS
+417
+RANK
+667,795
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

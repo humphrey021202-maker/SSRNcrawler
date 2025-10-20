@@ -1,0 +1,149 @@
+Skip to main content
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Big Data, Accounting Information, and Valuation
+KeAi
+
+41 Pages Posted: 4 Apr 2022 Last revised: 13 Apr 2022 Publication Status: Published
+
+Doron Nissim
+
+Columbia University - Columbia Business School
+
+Abstract
+
+This paper reviews research that uses big data and/or machine learning methods to provide insight relevant for equity valuation. Given the huge volume of research in this area, the review focuses on studies that either use or inform on accounting variables. The article concludes by providing recommendations for future research and practice.
+
+Keywords: Big data; Machine learning; Valuation; Financial misstatements; Earnings forecasts; Stock return predictability; XBRL; Survey
+
+JEL Classification: C53, G11, G12, G14, G17, G32, M41
+
+Suggested Citation:
+
+Nissim, Doron, Big Data, Accounting Information, and Valuation. Available at SSRN: https://ssrn.com/abstract=4075171 or http://dx.doi.org/10.2139/ssrn.4075171
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+793
+ABSTRACT VIEWS
+2,467
+PlumX Metrics
+KeAi First Look
+All Journals (2567)
+Advanced Agrochem (0)
+Advanced Powder Materials (21)
+Advances in Biomarker Sciences and Technology (3)
+Advances in Climate Change Research (85)
+AI Open (47)
+Animal Nutrition (196)
+Artificial Intelligence in Agriculture (51)
+Artificial Intelligence in Geosciences (56)
+Asian Journal of Sport and Exercise Psychology (0)
+Bioactive Materials (185)
+Biotechnology Notes (3)
+Carbon Resources Conversion (41)
+China Economic Quarterly International (30)
+Clinical eHealth (25)
+Cognitive Robotics (41)
+Cyber Security and Applications (50)
+Earthquake Science (90)
+Emerging Contaminants (78)
+Energetic Materials Frontiers (64)
+Energy and Built Environment (77)
+Engineered Regeneration (11)
+Environmental Chemistry and Ecotoxicology (62)
+Environmental Functional Materials (5)
+FirePhysChem (49)
+Global Transitions (20)
+Global Transitions Proceedings (0)
+Grain & Oil Science and Technology (31)
+Green Chemical Engineering (0)
+Green Energy & Environment (0)
+Green Synthesis and Catalysis (99)
+HydroResearch (45)
+Infectious Disease Modelling (63)
+International Journal of Cognitive Computing in Engineering (33)
+International Journal of Geoheritage & Parks (77)
+International Journal of Innovation Studies (2)
+International Journal of Intelligent Networks (60)
+International Journal of Lightweight Materials and Manufacture (55)
+Internet of Things and Cyber-Physical Systems (19)
+Journal of Biosafety and Biosecurity (11)
+Journal of Digital Economy (53)
+Journal of Economy and Technology (7)
+Journal of Management Science & Engineering (2)
+Journal of Pipeline Science and Engineering (80)
+Laparoscopic, Endoscopic and Robotic Surgery (25)
+Liver Research (12)
+Materials Science for Energy Technologies (21)
+Natural Hazards Research (71)
+Non-coding RNA Research (27)
+Reproduction and Breeding (38)
+Resources Chemicals and Materials (4)
+Sensors International (20)
+Smart Materials in Manufacturing (15)
+Smart Materials in Medicine (13)
+Supramolecular Materials (12)
+Sustainable Operations and Computers (21)
+Synthetic and Systems Biotechnology (95)
+The Journal of Finance & Data Science (44)
+Translational Medicine of Aging (6)
+Translational Metabolic Syndrome Research (0)
+Urine (2)
+Virtual Reality & Intelligent Hardware (32)
+Water Cycle (57)
+Water-Energy Nexus (20)
+Watershed Ecology and the Environment (45)
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

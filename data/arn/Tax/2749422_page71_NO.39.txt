@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How to Tax Capital
+
+Tax Law Review, Forthcoming
+
+UC Berkeley Public Law Research Paper No. 2749422
+
+56 Pages Posted: 27 Mar 2016
+
+Mark P. Gergen
+
+University of California, Berkeley - School of Law
+
+Date Written: February 13, 2016
+
+Abstract
+
+This paper proposes a new system for taxing capital that can collect the same amount of revenue as the existing system with much lower administrative and compliance costs, and with somewhat lower distortionary impact. Its pillar is a flat annual tax assessed on the market value of publicly traded securities paid by an issuer. Wealth represented by a string of publicly traded securities is taxed once by giving an issuer a credit for amounts remitted with respect to publicly traded securities it owns. The securities tax will cover around 75 to 80 percent of income producing capital that is presently subject to the individual and corporate income taxes.
+
+Income producing capital held by households and nonprofits that is not subject to the securities tax, e.g. interests in closely held businesses and real estate held for investment, is covered by a complementary tax. The complementary tax is paid on the estimated value of an asset assuming an investment yields a normal return in cash or appreciation. An entity is required to estimate value and remit the tax on an interest in the entity. If an interest is of a class, such as a unit in a private equity fund, then an entity is required to revalue all interests in a class when there is a redemption or trade of any interest in the class. This brings the incidence of the complementary tax roughly into line with the incidence of the securities tax with respect to relatively liquid assets, like interests in hedge funds, through periodic revaluations.
+
+The securities tax and the complementary tax are intended to replace the entire existing patchwork system for taxing capital income. With an annual rate of .8 percent (.008) the securities tax and the complementary tax will impose a tax burden on capital roughly comparable to the burden imposed by the existing patchwork system for taxing capital that the two taxes are intended to replace. If the average real rate of return on capital is 4 percent, then the tax is equivalent to an income tax with a rate of 20 percent on the average real rate of return. From the perspective of a firm the tax raises the cost of capital by .8 percent or 80 basis points. A companion article will address the taxation of global capital under the two taxes.
+
+Keywords: tax, corporate tax, income tax, partnership tax
+
+Suggested Citation:
+
+Gergen, Mark P., How to Tax Capital (February 13, 2016). Tax Law Review, Forthcoming, UC Berkeley Public Law Research Paper No. 2749422, Available at SSRN: https://ssrn.com/abstract=2749422
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+Leandra Lederman
+Statutory Speed Bumps: The Roles Third Parties Play in Tax Compliance, 60 Stan
+L. Rev , volume 695 Posted: 2007
+Susan C Morse , Stewart Karlinsky , Joseph Bankman
+report that underreporting compensation often goes hand in hand with underreporting income
+Stanford Law & Policy Review , volume 37 Posted: 2008
+When a publicly traded security is given as compensation by an issuer the security is subject to the securities tax on transfer, when the employee becomes owner of the security
+Load more
+1 Citations
+Zachary D. Liscow , Edward G. Fox
+The Psychology of Taxing Capital Income: Evidence from a Survey Experiment on the Realization Rule
+JPUBE-D-21-01379 · 95 Pages · Posted: 10 Nov 2021 · Last revised: 29 Oct 2023 · Downloads: 81
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+327
+ABSTRACT VIEWS
+2,827
+RANK
+210,914
+1 Citations
+4 References
+PlumX Metrics
+Related eJournals
+
+University of California, Berkeley School of Law, Public Law & Legal Theory Research Paper Series
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

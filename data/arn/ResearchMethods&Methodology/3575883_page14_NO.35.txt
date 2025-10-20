@@ -1,0 +1,133 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A New Method for Assessing the Construct Validity of Accounting Measures: Looking Where the Action is
+
+48 Pages Posted: 12 May 2020 Last revised: 23 Nov 2020
+
+Cristi A. Gleason
+
+University of Iowa - Department of Accounting
+
+Bradford Hepfer
+
+Texas A&M University - Department of Accounting
+
+W. Bruce Johnson
+
+University of Iowa - Department of Accounting
+
+Sam Melessa
+
+University of Iowa - Department of Accounting
+
+Date Written: November 2020
+
+Abstract
+
+We propose and demonstrate a new method for validating proxies for accounting constructs. Our method consists of first identifying high-value observations, which are those statistically most responsible for generating a coefficient of interest, and second determining whether those observations exhibit accounting attributes consistent with theory. This method allows researchers to validate proxies for key theoretical constructs by testing whether high-value observations contain the accounting attributes implied by the theory and lack attributes that run counter to the theory. The method also allows researchers to identify potentially confounding factors and to address alternative explanations for primary results. We demonstrate the method by assessing the validity of two measures for conditional accounting conservatism. However, the method applies generally to large-sample settings and is flexible in its application to key coefficients. We also demonstrate how researchers can compare alternative measures of the same construct to select the best measure for their research context.
+
+Keywords: construct validity, high-value observations, measurement
+
+JEL Classification: M40, M41, C20
+
+Suggested Citation:
+
+Gleason, Cristi A. and Hepfer, Bradford and Johnson, W. Bruce and Melessa, Sam, A New Method for Assessing the Construct Validity of Accounting Measures: Looking Where the Action is (November 2020). Available at SSRN: https://ssrn.com/abstract=3575883 or http://dx.doi.org/10.2139/ssrn.3575883
+Download This Paper
+ 
+Open PDF in Browser
+56 References
+V A Atanasov , B S Black
+Shock-based causal inference in corporate finance and accounting research
+Critical Finance Review , volume 5 , issue 2 , p. 207 - 8304 Posted: 2016
+Crossref
+R Ball , S P Kothari , V V Nikolaev
+On estimating conditional conservatism
+The Accounting Review , volume 88 , issue 3 , p. 755 - 787 Posted: 2012
+Crossref
+R Ball , S P Kothari , V V Nikolaev
+Econometrics of the Basu asymmetric timeliness coefficient and accounting conservatism
+Journal of Accounting Research , volume 51 , issue 5 , p. 1071 - 1097 Posted: 2013
+Crossref
+R Ball , L Shivakumar
+The role of accruals in asymmetrically timely gain and loss recognition
+Journal of Accounting Research , volume 44 , issue 2 , p. 207 - 242 Posted: 2006
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+252
+ABSTRACT VIEWS
+1,699
+RANK
+277,353
+56 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

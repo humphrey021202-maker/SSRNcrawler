@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Classifying and Evaluating Large Language Models in External Audits
+
+46 Pages Posted: 26 Jun 2025
+
+Fotoh Elad
+
+Karlstad University Business School, Student
+
+Tatenda Mugwira
+
+University of Agder - University of Agder, School of Busines and Law, Students
+
+Abstract
+
+The study aims to define and develop a taxonomy that categorises LLMs into internal, semi-internal, and external LLMs, and to explore the potential of internal and semi-internal LLMs over external LLMs. A scoping literature review and survey was conducted to realise this objective. The findings reveal that these models are likely to offer enhanced benefits across the entire audit process and may help address —though not entirely eliminate—several challenges associated with external LLMs, such as confidentiality, security, client data privacy, reliability of information sources, hallucinations, inaccuracies, and data misinterpretation, while also enhancing quicker updates of new information, accountability and transparency. However, there are challenges that are likely to persist even when audit firms transition from external to internal and semi-internal LLMs, including the lack of ethical reasoning, risks of data breaches and cyber-attacks, the echo chamber effect, poor prompt quality, and anthropomorphism. From a Technology Acceptance Model, the benefits of internal and semi-internal LLMs may enhance their perceived usefulness and ease of use. Conversely, perceived challenges may diminish these perceptions, potentially slowing adoption. This study provides researchers with a structured foundation for categorising LLMs. It also supports audit firms make informed, responsible decisions on integrating LLMs into audits.
+
+Keywords: Large Language Models, internal LLMs, semi-internal LLMs, external LLMs, external audits
+
+Suggested Citation:
+
+Elad, Fotoh and Mugwira, Tatenda, Classifying and Evaluating Large Language Models in External Audits. Available at SSRN: https://ssrn.com/abstract=5325170 or http://dx.doi.org/10.2139/ssrn.5325170
+Download This Paper
+ 
+Open PDF in Browser
+72 References
+Aicpa References
+Code of Professional Conduct Posted: 1993
+AU Section 200: Overall objectives of the independent auditor and the conduct of an audit in accordance with international standards on auditing Posted: 2012
+H Arksey , L O'malley
+Scoping studies: towards a methodological framework
+International journal of social research methodology , volume 8 , issue 1 , p. 19 - 32 Posted: 2005
+A A Austin , T D Carpenter , M H Christ , C S Nielson
+The data analytics journey: Interactions among auditors, managers, regulation, and technology
+Contemporary Accounting Research , volume 38 , issue 3 , p. 1888 - 1924 Posted: 2021
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+79
+ABSTRACT VIEWS
+417
+RANK
+719,188
+72 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

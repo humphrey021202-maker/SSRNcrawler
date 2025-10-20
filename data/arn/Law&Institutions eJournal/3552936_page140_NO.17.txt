@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Director Networks and Firm Value
+
+61 Pages Posted: 6 Apr 2020 Last revised: 18 Jan 2024
+
+Tor-Erik Bakke
+
+University of Illinois at Chicago - Department of Finance
+
+Jeff Black
+
+University of Memphis
+
+Hamed Mahmudi
+
+University of Delaware - Department of Finance
+
+Scott C. Linn
+
+University of Oklahoma - Michael F. Price College of Business
+
+Date Written: December 7, 2020
+
+Abstract
+
+Are the professional networks of directors valuable? To separate the effect of director networks on firm value from the effect of other value-relevant director attributes, we use the unexpected deaths of directors as a shock to the director networks of interlocked directors. By studying the announcement returns and using a difference-in-differences methodology, we find the negative shock to director networks reduces the value of interlocked firms – a result that is stronger for firms that are more likely to benefit from access to information from board connections. This evidence is consistent with director networks being valuable and improving access to information.
+
+Keywords: Board of Directors, Network Centrality, Quasi-natural Experiment, Firm Value
+
+JEL Classification: G3, G32, D85, L14
+
+Suggested Citation:
+
+Bakke, Tor-Erik and Black, Jeffrey R. and Mahmudi, Hamed and Linn, Scott C., Director Networks and Firm Value (December 7, 2020). Available at SSRN: https://ssrn.com/abstract=3552936 or http://dx.doi.org/10.2139/ssrn.3552936
+Download This Paper
+ 
+Open PDF in Browser
+49 References
+C Armstrong , D Larcker
+The impact of the options backdating scandal on shareholders" and "Taxes and the backdating of stock option exercise dates
+Journal of Accounting and Economics , volume 47 , p. 50 - 58 Posted: 2009
+V Atanasov , B Black
+Shock-Based Causal Inference in Corporate Finance and Accounting Research
+Critical Finance Review , volume 5 , issue 2 , p. 207 - 304 Posted: 2016
+A Barnea , I
+Director networks and firm governance Posted: 2008
+A Banerjee , A G Chandrasekhar , E Duflo , M O Jackson
+The Diffusion of Microfinance
+Science , volume 341 Posted: 2013
+Load more
+4 Citations
+Radhakrishnan Gopalan , Renping Li , Alminas Zaldokas
+Board Connections, Firm Profitability, and Product Market Actions
+European Corporate Governance Institute – Finance Working Paper No. 996/2024 , · 99 Pages · Posted: 13 Apr 2022 · Last revised: 7 Jul 2024 · Downloads: 847
+Download PDF  Add Paper to My Library
+Chenhao Guo , Rui Zhong
+Proximity Peril: The Effects of Neighbouring Firms’ Biodiversity Risk on Firm Value
+54 Pages · Posted: 13 Nov 2024 · Last revised: 27 Mar 2025 · Downloads: 513
+Download PDF  Add Paper to My Library
+Pratik Kothari , Stephen P. Ferris , Reza Houston , Narayanan Jayaraman
+Board Quality and the Public Purse: A Study of Government Subsidies and Corporate Governance
+CORFIN-D-24-01062, Georgia Tech Scheller College of Business Research Paper No. 5018198 · 62 Pages · Posted: 12 Nov 2024 · Downloads: 45
+Download PDF  Add Paper to My Library
+Pratik Gupta
+<span><span>Birds of a feather: Do institutional investors flock together to reduce carbon emissions?</span></span>
+84 Pages · Posted: 24 Feb 2025 · Last revised: 24 Aug 2025 · Downloads: 91
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+313
+ABSTRACT VIEWS
+2,060
+RANK
+221,251
+4 Citations
+49 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

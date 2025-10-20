@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article. A final peer reviewed article has now been published. Click here to view.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+A 50-Year History of 'Zombie Firms' in Japan: How Banks and Shareholders Have Been Involved in Corporate Bailouts?
+
+34 Pages Posted: 12 Sep 2022
+
+Jun-ichi Nakamura
+
+Toyo University
+
+Abstract
+
+This study quantitatively and qualitatively reviews long-term changes in “zombie firms” in Japan over a half-century from the early 1970s to the end of the 2010s. We use a unified framework in which the concept of “zombie firms” includes possible efficient bailouts. Moreover, using regression analysis, we show how banks and shareholders have been involved in corporate bailouts and uncover the reality of Japanese firm governance to challenge popular beliefs. We find three major waves in the ratio of “zombie firms” Over the last 50 years. The first occurred during the period of main banks (hereinafter MBs). The wave was small, and the impact of rescuing distressed companies on banks’ health was almost insignificant, allowing them to intervene proactively and boldly. During the second and largest wave of the lost decade, attention was solely focused on the problem of “zombie firms” in the non-manufacturing sector, which had a huge impact on banks’ health due to their large amount of borrowings. However, we find that the problem in the manufacturing sector was just as serious in terms of firm count. The structural problems of the manufacturing sector became clear in the third wave following the global financial crisis. Surprisingly, for the manufacturing sector, the wave was comparable in size to the lost decade. However, it was underestimated due to the aggressive monetary easing implemented in response to the financial crisis and the reduced concentration of risk in the banking sector compared to previous periods. Based on these observations, we ran a regression analysis to explain the likelihood of distressed firm bailouts after avoiding selection bias, to clarify how banks and shareholders were involved in the bailout. Findings reveal that the presence of the MB with a loan ratio above a certain threshold increased the probability of a bailout in the 1970s. However, commonly held beliefs about MBs’ monitoring power and the role of corporate groups and long-term credit banks were not supported. We discovered that during the lost decade, the pathological phenomena of problem procrastination and unwilling concentration of loans to the MB were more common in the manufacturing sector, and that foreign investor discipline was only effective in the non-manufacturing sector. Soft budget constraints may have occurred in the manufacturing sector since the mid-2000s, in the sense that over-indebted firms that are no longer competitive with declining sales receive financial support because of their net assets as a legacy of the past.
+
+Keywords: Zombie firm, Bailout, Main bank, Corporate Governance
+
+Suggested Citation:
+
+Nakamura, Jun-ichi, A 50-Year History of 'Zombie Firms' in Japan: How Banks and Shareholders Have Been Involved in Corporate Bailouts?. Available at SSRN: https://ssrn.com/abstract=4204241 or http://dx.doi.org/10.2139/ssrn.4204241
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+232
+ABSTRACT VIEWS
+1,082
+RANK
+301,058
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

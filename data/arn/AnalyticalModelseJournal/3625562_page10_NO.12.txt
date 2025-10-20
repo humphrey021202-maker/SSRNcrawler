@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+When Debit=Credit. The Balance Constraint in Bookkeeping, its Causes and Consequences for Accounting
+
+42 Pages Posted: 16 Jun 2020
+
+Sander Renes
+
+Erasmus University Rotterdam (EUR) - Erasmus School of Economics (ESE)
+
+Date Written: June 12, 2020
+
+Abstract
+
+This paper studies the balance constraint (debit=credit) in bookkeeping, its causes and its consequences for accounting. Balance in the ledger is shown to: 1) imply balance in journal entries and vice versa; 2) link the value definitions in the earnings statement and balance sheet; 3) have direct implications for valuation puzzles encountered in accounting, like accounting for OCI or stock-based compensation, and the difference between earnings or balance-sheet approaches to valuation. These system-wide effects on accounting highlight a design question: why do we have the balance constraint in bookkeeping? Backward-engineering shows 6 axioms that logically lead to double-entry bookkeeping. The balance constraint follows from the existence of a residual account: owner’s equity. A class of equivalently powerful record keeping systems is shown to exist. These systems use double-entry bookkeeping without the monetary-unit assumption and can be used to record other outputs of the organization, like societal impact. These systems can be implemented in relational databases, a blockchain, or a different technology all together. The discussion covers links with other mathematical descriptions of bookkeeping and potential avenues for future research in the mathematics of bookkeeping.
+
+Keywords: Axioms for bookkeeping, duality, bookkeeping system design, mathematics of record keeping.
+
+Suggested Citation:
+
+Renes, Sander, When Debit=Credit. The Balance Constraint in Bookkeeping, its Causes and Consequences for Accounting (June 12, 2020). Available at SSRN: https://ssrn.com/abstract=3625562 or http://dx.doi.org/10.2139/ssrn.3625562
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+Nicolai Andersen
+Blockchain technology a game-changer in accounting? , p. 2019 - 2023 Posted: 2016
+Rick Antle , Joel S Demski
+The controllability principle in responsibility accounting
+Accounting Review , p. 700 - 718 Posted: 1988
+Andrew Arnold
+Blockchain is not a threat to accounting, it's an opportunity , p. 2019 - 2023 Posted: 2018
+Anil Arya , John C Fellingham , Jonathan C Glover , Douglas A Schroeder , Gilbert Strang
+Inferring transactions from financial statements*
+Contemporary Accounting Research , volume 17 , issue 3 , p. 366 - 385 Posted: 2000
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+86
+ABSTRACT VIEWS
+925
+RANK
+682,509
+46 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Developing an ESG Disclosure Index for Islamic Financial Institutions: Enhancing Transparency and Accountability
+
+18 Pages Posted: 30 Jan 2025
+
+ZULKARNAIN BIN MUHAMAD SORI
+
+INCEIF UNIVERSITY
+
+Syaryanti Hussin
+
+affiliation not provided to SSRN
+
+A. H. Baharom
+
+University Putra Malaysia
+
+Date Written: January 29, 2025
+
+Abstract
+
+Islamic Financial Institutions (IFIs) lag behind conventional banks in ESG disclosure due to the lack of a structured framework aligned with Shariah principles. Existing ESG indices, such as DJSI and FTSE4Good, fail to capture IFIs' unique governance and ethical considerations. This study develops and validates an ESG Disclosure Index tailored to IFIs, enhancing transparency, comparability, and accountability. By integrating Shariah governance with global ESG standards, the study provides a standardized framework that bridges the gap between Islamic finance and sustainability practices, ensuring IFIs can effectively communicate their ESG commitments to stakeholders. The evolution of ESG disclosure began with the 2004 UN Global Compact Initiative and expanded with the 2015 Paris Agreement. While ESG reporting is widely recognized, its adoption in Islamic finance remains inconsistent due to unclear regulations. IFIs incorporate zakat, ethical financing, and community welfare, but the lack of structured reporting limits transparency. Environmental disclosures are particularly weak, with minimal data on green finance, renewable energy, and carbon footprint reduction, despite Islamic finance's emphasis on resource stewardship. This study employs a quantitative content analysis of annual reports from 16 IFIs in Malaysia over a six-year period (2012–2017). A weighted scoring approach is used to measure ESG disclosures across three dimensions: Environmental (E), Social (S), and Governance (G). The ESG Disclosure Index is developed based on Global Reporting Initiative (GRI) indicators, AAOIFI’s Standard No. 7 on CSR Conduct and Disclosure, and the ICD-Thomson Reuters Islamic Finance Development Indicator. Statistical analyses are conducted to examine trends, variations, and correlations in ESG reporting practices among IFIs.
+The study reveals significant variability in ESG disclosure among Islamic Financial Institutions (IFIs), with governance (G) disclosures being the most developed at 22.3%, driven by Shariah governance, corporate transparency, and risk management requirements. The presence of Shariah Supervisory Boards (SSB) and compliance with AAOIFI and national regulations contributed to stronger governance reporting. Social (S) disclosures averaged 13%, focusing on zakat, financial inclusion, and employee welfare, yet lacked detailed reporting on community impact and social investment. Environmental (E) disclosures were the weakest at 2.4%, showing minimal focus on green finance, climate risk disclosures, or environmental impact assessments. While some IFIs have improved ESG reporting, most remain below global benchmarks, with only three institutions scoring above 50%, while the majority disclosed less than 30%. The study calls for a structured ESG Disclosure Index to enhance transparency, comparability, and accountability. Regulatory bodies should strengthen ESG requirements within Shariah governance frameworks, while IFIs must set clear sustainability targets on carbon footprint reduction, sustainable investment, and social impact reporting. Increased regulatory oversight and stakeholder engagement are crucial for better ESG integration in Islamic finance.
+This study contributes to the broader discourse on sustainable Islamic finance by providing a structured ESG Disclosure Index that aligns global best practices with Shariah-compliant finance principles. By adopting this framework, IFIs can enhance their sustainability performance, improve stakeholder trust, and position themselves as key players in the growing market for ethical and responsible investments.
+
+Keywords: ESG Disclosure Index, Environment, Social, Governance, Ethical Investment
+
+Suggested Citation:
+
+MUHAMAD SORI, ZULKARNAIN BIN and Hussin, Syaryanti and Baharom, A. H., Developing an ESG Disclosure Index for Islamic Financial Institutions: Enhancing Transparency and Accountability (January 29, 2025). Available at SSRN: https://ssrn.com/abstract=5115926 or http://dx.doi.org/10.2139/ssrn.5115926
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+207
+ABSTRACT VIEWS
+1,623
+RANK
+336,212
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

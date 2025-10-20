@@ -1,0 +1,166 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Missing Links In The Chains? Mutual Distributed Ledger (aka Blockchain) Standards
+
+Mutual Distributed Ledger (aka Blockchain) Standards - Long Finance, 2016
+
+75 Pages Posted: 7 Oct 2020
+
+Michael Mainelli
+
+Gresham College; Z/Yen Group
+
+Simon Mills
+
+Z/Yen Group Limited
+
+Date Written: November 01, 2016
+
+Abstract
+
+Commissioned by the States of Alderney, PwC, and the Cardano Foundation, Z/Yen engaged with over seventy people representing developers, regulators, standards bodies, lawyers, financiers, business-people, accountants, and potential users, to answer a number of questions:
+
+What are the potential risks associated with future widespread use of mutual distributed ledgers (MDLs), and what are their implications?
+
+How do distributed ledgers fit within existing regulatory frameworks? Are existing laws sufficient to cover the activities supported by distributed ledgers, or is new legislation is needed?
+
+Would MDLs benefit from the development of standards? Which sectors and services might need MDLs most?
+
+What different paths could be taken to create standards?
+
+MDLs hold immense promise, although the spectrum of opinion regarding their future varied widely. Developers, naturally, saw a host of opportunities to transform business practices and offer new services. The financial services sector held the most nuanced views, perhaps due to their sensitivities about disruption in payments. The prevailing view was that firms would inevitably use MDLs, though with understandable caution about governance and compliance issues. Public sector bodies were less aware of the potential that MDLs held, but there was some quiet enthusiasm. Amongst professional and financial services, views were mixed. There was extreme skepticism contrasting with extreme enthusiasm in legal services. The pessimism was anticipation of less future business when things go right. The optimism prompted by a hope that smart contracts were rather likely to generate commercial conflicts.
+
+So how should regulators view distributed ledger technology? Regulators carry out three primary roles: promoting competition, maintaining the integrity of markets, and interpreting jurisdictional policy. MDLs have the potential both to support and hinder these functions.
+
+In terms of competition, the key feature of MDLs is their challenge to the natural monopolies created by central third parties.
+
+In terms of market integrity the transparent nature of MDLs greatly reduces the opportunities for theft and fraud, though encryption could make establishing the identities of buyers and sellers more difficult.
+
+In terms of enforcement, the transparency of MDLs and the permanence of transactions logged on the chain should make regulatory tasks easier, though, as MDLs are more likely to operate across jurisdictions they could provoke regulatory conflict.
+
+All new technology carries risk, but what exactly does this mean in the context of MDLs?
+
+We can categorize the risks associated with MDLs into a number of areas, but three occupied the thoughts of the majority of the practitioners we spoke with.
+
+Governance: organisations will need to put in place many inter-organisational structures to manage MDLs. How will errors be corrected? Who will have authority to write to the ledger? Will there be a central authority who can make changes to the records, or change the entire system to help it evolve?
+
+Liability and Responsibility: How should high risk activities such as AML and KYC be handled? Who will ‘carry the can’ if things go wrong? What systems are in place to manage and resolve disputes?
+
+Taxonomies: What exactly is any specific MDL in front of a regulator, permissioned-unpermissioned, public-private, opaque-transparent, proof-of-work, proof-of-stake, voting, woven broadcasting? What are the tolerances and performance capabilities? These questions are of pressing concern to users but, as this is a rapidly developing field, a common language has not yet been developed.
+
+MDLs will realize their potential to contribute to economic growth when the technology is widely diffused and used. Diffusion itself results from a series of individual decisions to begin using the new technology, decisions which are often the result of a comparison of the uncertain benefits of the technology with the uncertain costs of adopting it. It is diffusion, rather than invention or innovation, that ultimately determines the pace of economic growth and the rate of change of productivity, and until many users adopt MDL technology it may contribute little to our well-being.
+
+The key to ensuring widespread diffusion is ensuring that distributed ledgers are viewed as a safe, reliable technology, but how can regulators assist with this?
+
+Regulators have two primary levers they can use, regulation and standards:
+
+Regulation is sometimes a knee-jerk response by policy makers to perceived risk. While it can be speedy and authoritative, the process to create regulations can be distanced from the participants, resulting in unnecessary burdens or unforeseen consequences. Standards, if implemented as part of a voluntary standards market with strict certification and accreditation can be highly effective. However, adoption can be slower and piecemeal. Voluntary standards without certification and accreditation are little more than guidance notes. They have no sanction for non-compliance and they are not an effective tool for regulators. Without certification, there is no independent verification that a standard has been met. A strong voluntary standards market requires verifiers to be accredited, as this ensures quality and indemnity behind certification. This triple-lock; standards, certification and accreditation, is the bedrock of a voluntary standards market.
+
+It is important to remember that in the majority of cases MDLs will support existing services that have existing processes and support technologies. There will be a rich standards and regulation landscape that they must negotiate in order to be fit for purpose. Simpler, less regulated domains are more likely to adopt MDL approaches earlier, particularly where MDLs can solve an unaddressed problem, e.g. know-your-customer/anti-money-laundering/ultimate-beneficial-ownership in financial services, and offer a difference to traditional central third party approaches, e.g. meeting EU General Data Protection Regulation for the “right to be forgotten” surrounding identity documentation.
+
+Are new regulations needed for MDLs? MDLs will, in the majority of cases, be deployed into existing regulatory environments. Unless regulations specifically stipulate the use of third party intermediaries, they are likely to be sufficient to cover the activities supported by MDLs.
+
+There was considerable interest amongst participants in the area of so called “smart contracts”, this is dealt with in detail in the report, but in summary, stating that “the code is law” is not a sufficient response, and the real world legal agreements that connect organizations to smart contracts will need to be very carefully constructed.
+
+This diagram represents the standards environment. At its core are technical standards that determine how technologies perform. At its periphery are thematic standards dealing with the generic issues every organisation must deal with. Sandwiched between these two are sector specific standards which deal with activities and processes.
+
+From our discussions with participants we conclude that it is probably too early to begin developing performance standards for MDLs. The technology is still evolving and technical standards would stifle innovation, though there is scope to consider carbon standards for proof-of-work cryptocurrency applications. Participants felt that existing thematic standards, such as ISO9000 for quality management or ISO 31000 for risk management, were probably flexible enough to cover the use of MDLs. Most participants felt most benefits lay in sectoral standards, with three salient points:
+
+There is a need to develop a common language to categorize and typify MDLs; There is a need to consider the way MDLs are managed and permissioned, how data is managed, who has access to it, how it can be changed or corrected, who pays for mistakes; There is a need to carefully consider liability and indemnity, particularly with respect to identity, and more widely helping to develop ‘trust structures’ that provide the multi-organisational, non-technical, cooperating framework. So what might standards in these areas look like?
+
+Taxonomies & performance standards need to be outcome-focused sets of definitions and characteristics, so that regulators and potential purchasers can assess MDLs based on their outputs, rather than the mechanics of how they operate; Data governance & liability standards need to pay fundamental attention to the civil liberty implications of data aggregation, sharing and mining; Commercial governance & liability standards need to structure how organisations link legally and contractually with MDLs. So how could a voluntary standards market be established? Three potential routes present themselves;
+
+ISO standards developed at a global level with national standards institutions and wider stakeholders. Standards Australia are considering this route on technical standards for block-chains. ISO standards carry immense credibility because of their well-established model for certification and accreditation, but the ISO path can be a long one;
+
+Publically Available Specifications (PASs) created with a national standards institution, perhaps later rolled-out as an ISO standard. This route has the advantage of creating standards which are close to the industries they are intended for, resulting in cost-effective and streamlined solutions.
+
+Open process standards work up from industry participants, but can suffer from a tendency to certification and accreditation procedures, the end result can lack credibility.
+
+In conclusion, “The Missing Links in the Chains” confirms that the establishment of a voluntary standards market may be beneficial in promoting the uptake of MDLs by providing certainty to both users and developers, while assisting regulators in fulfilling their duties. Further consideration is needed on the scope of ‘taxonomies & performance’, ‘data governance & liability’, and ‘commercial governance & liability’. And of course, a big question mark about what group is prepared to pay to take standards forward?
+
+Keywords: Mutual Distributed Ledger Standards, MDLs, Standards
+
+JEL Classification: F01, F00
+
+Suggested Citation:
+
+Mainelli, Michael and Mainelli, Michael and Mills, Simon, The Missing Links In The Chains? Mutual Distributed Ledger (aka Blockchain) Standards (November 01, 2016). Mutual Distributed Ledger (aka Blockchain) Standards - Long Finance, 2016, Available at SSRN: https://ssrn.com/abstract=3676283
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+154
+ABSTRACT VIEWS
+951
+RANK
+439,313
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Foreign Institutional Investors and Information Asymmetry: Evidence from Corporate Taxes
+
+NYU Stern School of Business
+
+57 Pages Posted: 17 Jun 2019 Last revised: 26 May 2023
+
+April Klein
+
+New York University (NYU); European Corporate Governance Institute (ECGI)
+
+Simone Traini
+
+NHH Norwegian School of Economics - Department of Accounting, Auditing and Law
+
+Georgios Voulgaris
+
+The University of Manchester - Alliance Manchester Business School
+
+Date Written: May 26, 2023
+
+Abstract
+
+We use firms’ tax policies as a setting to identify a mechanism through which foreign institutional investors decrease their informational disadvantage compared to domestic investors. Using a comprehensive sample of international publicly listed firms, and theoretically motivated by the equity home bias puzzle, we find that foreign investors decrease information asymmetry by influencing their portfolio firms to adjust their effective tax rates, upwards or downwards, consistent with the average tax position of their country and industry peers. We also find that this effect of foreign investors is less pronounced in corporate environments with lower information asymmetries, where the advantages to constraining management’s tax planning strategies are fewer. We address endogeneity concerns by exploiting multiple sources of exogenous variation in foreign institutional ownership. Our results provide a partial solution to the equity home bias puzzle and highlight the importance of transparency for firms’ tax policies.
+
+Keywords: Corporate tax planning; Foreign institutional ownership; Equity home bias; Shareholder monitoring
+
+JEL Classification: M41, H26, G11, G34
+
+Suggested Citation:
+
+Klein, April and Traini, Simone and Voulgaris, Georgios, Foreign Institutional Investors and Information Asymmetry: Evidence from Corporate Taxes (May 26, 2023). NYU Stern School of Business, Available at SSRN: https://ssrn.com/abstract=3400881 or http://dx.doi.org/10.2139/ssrn.3400881
+Download This Paper
+ 
+Open PDF in Browser
+84 References
+we drop firm-year observations with extreme (0 or 1) ETRs or Cash ETRs before computing peer groups, and our results remain unchanged. In Panel B, we use alternative proxies for corporate tax policies. First, we split the tax rate distribution into terciles instead of quintiles and find that the probability of being in the central (i.e., second) tercile increases with foreign institutional ownership Posted: 2018
+Columns
+) and (4) present the results for this adjustment in our sample of profitable firms, while Columns (5) and (6) show the results for a sample that also includes non-profitable and loss firms. Evidence from these tests is still consistent with our main analysis
+Tsang
+To construct our variables on voluntary disclosure, we collect data on management forecasts from the Standard and Poor's Key Development (KD) dataset, part of the Compustat-Capital IQ (CIQ) database. KD provides information on the date as well the text of the management forecast under the "Corporate Guidance" event type. Columns (1) and (2) present our findings after constructing a dummy variable controlling for the issuance of at least one management forecast at a firm-year level
+Columns (3) and (4), we follow Balakrishnan et al. (2019) and construct an indicator variable on whether management issues a forecast, including words related to tax-related issues Posted: 2019
+We also find similar results when we use absolute values for ETR (Cash ETR) Diff as a dependent variable
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+384
+ABSTRACT VIEWS
+2,615
+RANK
+176,588
+84 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

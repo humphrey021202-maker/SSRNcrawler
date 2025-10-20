@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Financial Reporting Regulation and Management Control Systems
+
+77 Pages Posted: 15 Apr 2024
+
+Beatriz Garcia Osma
+
+Universidad Carlos III de Madrid ; European Corporate Governance Institute (ECGI)
+
+Jacobo Gomez-Conde
+
+Universidad Autónoma de Madrid - Accounting Department
+
+Araceli Mora
+
+University of Valencia - Department of Accounting
+
+Date Written: August 05, 2024
+
+Abstract
+
+We argue that the adoption of financial reporting standards leads to changes in information technology (IT) and management control systems (MCS). We further predict that such regulatory-driven exogenous variation in IT and MCS affects internal information production, and therefore, firm outcomes. We examine this unexplored consequence of accounting regulation by studying the adoption of International Financial Reporting Standards (IFRS). Our evidence, collected from interviews with key stakeholders as well as survey data, provides granular descriptive evidence confirming that the implementation of new IFRS leads to changes in IT and MCS. Using a difference-in-differences methodology, we document consequences of these changes over accounting and control procedures, managers internal information sets and their decision making, with effects on firm performance. Matching our survey data to archival public data, we confirm that these results generalize to a larger sample of companies worldwide. Our results uncover novel consequences of accounting standards implementation, via their impact on IT and MCS. This adds to our understanding of post-implementation reviews and cost-benefit analyses.
+
+Keywords: Externalities of financial reporting, MCS change, Post-implementation review, Regulatory cost-benefit analysis
+
+JEL Classification: M41, M15, M48
+
+Suggested Citation:
+
+Garcia Osma, Beatriz and Gomez-Conde, Jacobo and Mora, Araceli, Financial Reporting Regulation and Management Control Systems (August 05, 2024). Available at SSRN: https://ssrn.com/abstract=4781741 or http://dx.doi.org/10.2139/ssrn.4781741
+Download This Paper
+ 
+Open PDF in Browser
+76 References
+Agriculture
+Manufacturing (except Engineering & industrials and Life sci
+000 Financial and insurance activities
+Electricity, gas, steam and air conditioning supply
+Load more
+1 Citations
+Elisabetta Barone , Stephani Mason , Araceli Mora , David Procházka
+Changing the paradigm for revenue recognition: literature review on intended and unintended effects of IFRS 15 and ASC 606
+Accounting in Europe , p. 1 Posted: 2025
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+186
+ABSTRACT VIEWS
+930
+RANK
+371,877
+1 Citations
+76 References
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

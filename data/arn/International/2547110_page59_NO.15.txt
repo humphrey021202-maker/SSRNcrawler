@@ -1,0 +1,94 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Improving Profitability Forecasts with Information on Earnings Quality
+
+Posted: 11 Jan 2015
+
+Matthias Demmer
+
+Free University of Berlin (FUB) - Department of Business and Economics
+
+Date Written: January 8, 2015
+
+Abstract
+
+Prior literature documents the usefulness of DuPont disaggregation for many applications such as predicting firms’ future profitability, operating income, analysts’ forecast errors, and stock market returns. At the same token, researchers also emphasize the impact of earnings quality for economic decision models and the allocation of capital. However, there is a lack of understanding how earnings quality affects profitability forecast models. This paper comprehensively explores whether and to what extent different earnings quality factors moderate the accuracy of profitability forecasts that solely use financial statement information. I contribute to the existing literature along three dimensions. First, I reject findings from previous financial statement analysis literature that changes in firms’ profit margin do not provide incremental usefulness for predicting changes of future return on assets. After controlling for such influences, the incremental usefulness of this accounting signal increases significantly. Second, this paper contributes to the strand of earnings quality literature by suggesting an approach to include this set of information into forecasts. Hereto, I disentangle the two main drivers of earnings quality, fundamental performance and influences of the accounting system. Last, the paper adds to the literature on the perception of capital markets towards accounting information. By examining the awareness of financial analysts and investors of earnings quality information, I document that both sets of market participants seem to efficiently impound this information in their investment decisions.
+
+Keywords: Financial Statement Analysis, Forecasting Profitability, DuPont Analysis, Earnings Quality
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Demmer, Matthias, Improving Profitability Forecasts with Information on Earnings Quality (January 8, 2015). Available at SSRN: https://ssrn.com/abstract=2547110 or http://dx.doi.org/10.2139/ssrn.2547110
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,009
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

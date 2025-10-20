@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Deterrent Disclosure
+
+The Accounting Review, Forthcoming
+
+51 Pages Posted: 8 Apr 2019 Last revised: 14 Jul 2021
+
+Stephen Glaeser
+
+University of North Carolina (UNC) at Chapel Hill
+
+Wayne R. Landsman
+
+University of North Carolina Kenan-Flagler Business School
+
+Date Written: July 19, 2019
+
+Abstract
+
+We examine how product market competition affects the disclosure of innovation. Theory posits that product market competition can cause firms to increase their disclosure of innovation to deter product market competitors. Consistent with this reasoning, we find that patent applicants in more competitive industries voluntarily accelerate their patent disclosures, which are credibly disclosed via the United States Patent and Trademark Office. Our inferences are robust to using changes in industry-level import tariffs as sources of plausibly exogenous variation in product market competition in differences-in-differences designs. Consistent with patent disclosure deterring product market competitors, we find that timelier patent disclosures are more strongly associated with declines in the similarity of competitors’ products than are less timely patent disclosures. In total, our results suggest that product market competition increases patent disclosure timeliness, which is consistent with firms using the disclosure of innovation to deter product market competition.
+
+Keywords: voluntary disclosure, innovation, patents, competition
+
+JEL Classification: D23, G38, O30, O31, O33, O34, O38
+
+Suggested Citation:
+
+Glaeser, Stephen and Landsman, Wayne R., Deterrent Disclosure (July 19, 2019). The Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3342691 or http://dx.doi.org/10.2139/ssrn.3342691
+Download This Paper
+ 
+Open PDF in Browser
+75 References
+D Aboody , B Lev
+Information asymmetry, R&D, and insider gains
+The journal of Finance , volume 55 , issue 6 , p. 2747 - 2766 Posted: 2000
+Crossref
+A Ali , S Klasa , E Yeung
+Industry concentration and corporate disclosure policy
+J. Account. Econ , volume 58 , p. 240 - 264 Posted: 2014
+Crossref
+S Altman , H C Brown , R F Curl , G Elion , J Friedman , M Friedman , J C Harsanyi , H Hauptman , D Herschbach , R Hoffman , H Kendall , H G Khorana , D M Lee , M Miller , F Modigliani , M Molina , D Nathans , D North , P Samuelson , W Sharpe , C Shull , H A Simon , R Smalley , R Solow , J Tobin
+Posted: 1999
+J J Anton , D A Yao
+Little Patents and Big Secrets: Managing Intellectual Property
+RAND J. Econ , volume 35 Posted: 2004
+Crossref
+Load more
+42 Citations
+Stephen Glaeser , Jeremy Michels , Robert E. Verrecchia
+Discretionary Disclosure and Manager Horizon: Evidence from Patenting
+Review of Accounting Studies, Forthcoming · 60 Pages · Posted: 24 Mar 2017 · Last revised: 30 Dec 2019 · Downloads: 921
+Download PDF  Add Paper to My Library
+Matthew J. Bloomfield
+Compensation disclosures and strategic commitment: Evidence from revenue-based pay
+Journal of Financial Economics , volume 141 , issue 2 , p. 620 Posted: 2021
+Crossref
+Todd D. Kravet , Frank Murphy , Sarah Parsons
+Determinants and Consequences of Nonproprietary Voluntary Disclosure
+University of Connecticut School of Business Research Paper No. 19-13 · 57 Pages · Posted: 6 Jun 2019 · Last revised: 4 Nov 2019 · Downloads: 173
+Download PDF  Add Paper to My Library
+Sterling Huang , Jeffrey Ng , Tharindra Ranasinghe , Mingyue Zhang
+Do Innovative Firms Communicate More? Evidence from the Relation between Patenting and Management Guidance
+The Accounting Review , volume 96 , issue 1 , p. 273 Posted: 2021
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,389
+ABSTRACT VIEWS
+5,030
+RANK
+32,553
+42 Citations
+75 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

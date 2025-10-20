@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Culture Risk: An Exploratory Study of the Influence of Culture on Auditors’ Evaluation of Internal Control and Assessment of Control Risk
+
+77 Pages Posted: 25 Mar 2015
+
+Wm. Dennis Huber
+
+Barry University
+
+Date Written: January 1, 2012
+
+Abstract
+
+Generally Accepted Auditing Standards (GAAS) require auditors to evaluate internal control and assess control risk when performing an audit. Among the factors to be considered are the control environment, control activities, management's attitude's toward internal control, and culture. Research on how, or whether, culture influences auditors' evaluation of internal control and assessment of control risk is lacking in the literature. The purpose of this study is to serve as a first step in determining whether culture influences auditors' evaluation of internal control and assessment of control risk and if so, how. An analysis of variance (ANOVA) was performed on a non-random sample of 200 CPAs in the U.S. to determine whether there are differences in auditors' evaluation of internal control and assessment of control risk in different cultures. Using Hofstede's cultural dimensions (individualism, power distance, uncertainty avoidance and masculinity), the results of the study indicate that auditors evaluate internal control and assess control risk significantly different for companies that operate in countries that are on opposite ends of the cultural continuum as measured by Hofstede's dimensions. The results of the test suggest that for internal control there is a "culture risk" at work, that can be defined as the risk that an entity's internal control maybe be less (more) effective, with a higher (lower) degree of control risk, purely as a function of the culture in which the entity operates. Auditors assess control risk higher for companies operating in countries with a low individualism score, a high power distance score, and a low uncertainty avoidance score. They also evaluate total internal control as less effective in countries with a low individualism score, a high power distance score, a low masculinity score and a low uncertainty avoidance score. Areas for future research are suggested.
+
+Keywords: culture risk, auditing, Hofstede, control risk, internal control
+
+Suggested Citation:
+
+Huber, Wm. Dennis, Culture Risk: An Exploratory Study of the Influence of Culture on Auditors’ Evaluation of Internal Control and Assessment of Control Risk (January 1, 2012). Available at SSRN: https://ssrn.com/abstract=2583964 or http://dx.doi.org/10.2139/ssrn.2583964
+Download This Paper
+ 
+Open PDF in Browser
+38 References
+Statements on Auditing Standards
+American Institute of Certified Public Accountants Posted: 1998
+G M Agacer
+Perceptions of the auditor's independence: A cross-cultural study. Dissertation Posted: 1987
+G M Agacer , T S Doupnik
+Perceptions of auditor independence: A crosscultural study
+The International Journal of Accounting , volume 26 , p. 230 - 267 Posted: 1991
+G R Barrett
+Is accounting becoming the first truly international profession
+Journal of Accountancy , volume 174 , issue 4 , p. 110 - 123 Posted: 1992
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+282
+ABSTRACT VIEWS
+1,927
+RANK
+247,257
+38 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

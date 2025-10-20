@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Satyam versus Wirecard - A Case Study Research on Two Accounting Corporate Scandals
+
+19 Pages Posted: 12 Apr 2021 Last revised: 3 May 2021
+
+Dirk Beerbaum
+
+Aalto University - Department of Accounting and Finance
+
+Jignesh Jani
+
+affiliation not provided to SSRN
+
+Date Written: April 11, 2021
+
+Abstract
+
+Many of the most well-known accounting scandals were associated to related party transactions (RPT) such as Enron, Wordcom or Parmalat. In general there are two contrasting views on RPT: they represent either conflicts of interest as they can violate against management’s agency responsibility to shareholders or supervisory board purpose of monitoring. This view is the conflict of interest hypothesis and can be derived from agency theory by Berle and Means (1932) and Jensen and Meckling (1976). The alternative view is the efficient transactions hypothesis, which assumes that RPT efficiently fulfill underlying economic needs of the company, as they represent possibilities to achieve lower refinancing costs. This article will apply case study research on two recent accounting scandals Satyam also known as the Indian Enron and Wirecard a German electronic payments giant involving RPT (Beerbaum et al., 2018). It is common requirement within international accounting standards with IFRS or US GAAP that RPT have to be adequately disclosed in the financial statements of the reporting entity. This should mitigate the conflict of interest hypothesis, as transparency improves oversight. Although IAS 24 is endorsed over two decades, a general observation in the literature is that these transactions are not properly disclosed in all instances (Mackenzie et al., 2014). IAS 1 demands to fully comply with all IFRS, which also relates to materiality. Related party transactions are very often prescribed by local requirements and listing. The conclusion on the cases is. While Satyam is very obviously reporting RPT with large increase, Wirecard is not transparent as RPT such as key related party loans from Wirecard to Management have not been disclosed in the annual statements, which is not in line with IAS 32. However, this is for an outside investor difficult to see, as those RPT are missing in the notes or in the Corporate Governance Report, which should have been raised as a finding from the auditor.
+
+Keywords: Accounting fraud, Related Party transactions, Principal-agent
+
+JEL Classification: A00
+
+Suggested Citation:
+
+Beerbaum Dr., Dirk and Jani, Jignesh, Satyam versus Wirecard - A Case Study Research on Two Accounting Corporate Scandals (April 11, 2021). Available at SSRN: https://ssrn.com/abstract=3824281 or http://dx.doi.org/10.2139/ssrn.3824281
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+D Beerbaum , R Symmank , P Spethmann
+Management Research by Practitioners: DBA Handbook Posted: 2018
+M Bhasin
+Corporate accounting scandal at Satyam: A case study of India's enron
+European Journal of Business and Social Sciences , volume 1 , p. 25 - 47 Posted: 2013
+M L Bhasin
+The Untimely Demise of Satyam Computers Limited: A Revisit to the India's Enron
+International Journal of Management and Social Sciences Research , volume 5 , p. 6 - 24 Posted: 2016
+V L Brown , B E Daugherty , J S Persellin
+Satyam fraud: A case study of India's Enron
+Issues in Accounting Education , volume 29 , p. 419 - 442 Posted: 2014
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,059
+ABSTRACT VIEWS
+3,321
+RANK
+48,269
+2 Citations
+67 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

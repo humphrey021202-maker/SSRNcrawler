@@ -1,0 +1,155 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Evidence of Conditional Conservatism: Fact or Artifact?
+
+42 Pages Posted: 25 Oct 2009
+
+Panos N. Patatoukas
+
+University of California, Berkeley - Haas School of Business
+
+Jacob K. Thomas
+
+Yale School of Management
+
+Date Written: October 5, 2009
+
+Abstract
+
+The differential timeliness measure proposed in Basu (1997), which estimates the fraction of observed bad news reported in contemporaneous earnings minus the corresponding fraction for good news, has been used widely to study conditional accounting conservatism. Timeliness is measured as the slope from a regression of earnings, scaled by lagged price, on returns. We find that differential timeliness estimates are biased by two empirical regularities related to lagged price, the deflator in the timeliness regressions: it is negatively related to a) the variance of returns, and b) the probability of a loss, and the magnitude of price-deflated losses. Even though these regularities are unrelated to conditional conservatism, their effects are substantial and pervasive. Also, prior findings regarding time-series and cross-sectional variation in differential timeliness are confounded by corresponding variation in these regularities.
+
+Keywords: conservatism, asymmetric timeliness, losses, scaling by share price
+
+JEL Classification: M41, G10
+
+Suggested Citation:
+
+Patatoukas, Panos N. and Thomas, Jacob, Evidence of Conditional Conservatism: Fact or Artifact? (October 5, 2009). Available at SSRN: https://ssrn.com/abstract=1492120 or http://dx.doi.org/10.2139/ssrn.1492120
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+Ray Ball , S.P. Kothari , Valeri V. Nikolaev
+Econometrics of the Basu Asymmetric Timeliness Coefficient and Accounting Conservatism
+Chicago Booth Research Paper No. 09-16 Pages: 36 Posted: 13 Jul 2007 Last revised: 19 Feb 2013
+Download PDF  Add Paper to My Library
+R Ball , S P Kothari , A Robin
+The effect of international institutional factors on properties of accounting earnings
+Journal of Accounting and Economics , volume 29 , p. 1 - 52 Posted: 2000
+Crossref
+R Ball , L Shivakumar
+The role of accruals in asymmetrically timely gain and loss recognition
+Journal of Accounting Research , volume 44 , p. 207 - 242 Posted: 2006
+Crossref
+S Basu
+Conservatism and the asymmetric timeliness of earnings Posted: 1995
+Load more
+8 Citations
+Jeffrey L. Callen , Dan Segal
+An Analytical and Empirical Measure of the Degree of Conditional Conservatism
+44 Pages · Posted: 27 Aug 2009 · Downloads: 184
+Download PDF  Add Paper to My Library
+Dan Givoly , Carla K. Hayn , Sharon P. Katz
+Does Public Ownership of Equity Improve Earnings Quality?
+The Accounting Review , volume 85 , issue 1 , p. 195 Posted: 2010
+Crossref
+Jorge A. Romero , Martin Freedman , Neale G. O'Connor
+The impact of Environmental Protection Agency penalties on financial performance
+Business Strategy and the Environment , volume 27 , issue 8 , p. 1733 Posted: 2018
+Crossref
+Patricia Dechow , Weili Ge , Catherine Schrand
+Understanding earnings quality: A review of the proxies, their determinants and their consequences
+Journal of Accounting and Economics , volume 50 , issue 2-3 , p. 344 Posted: 2010
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+447
+ABSTRACT VIEWS
+2,651
+RANK
+148,252
+8 Citations
+32 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Commissions and Interactions: How Client Relationships Shape Analyst Research
+
+Georgetown McDonough School of Business Research Paper No. 4655102
+
+61 Pages Posted: 27 Dec 2023 Last revised: 11 Jul 2025
+
+Zachary Kaplan
+
+Washington University in St. Louis - John M. Olin Business School
+
+Yifang Xie
+
+Georgetown University - Department of Accounting and Business Law
+
+Jenny Li Zhang
+
+University of British Columbia - Sauder School of Business
+
+Date Written: December 5, 2023
+
+Abstract
+
+Sell-side analysts generate revenue through personalized interactions with client funds. We utilize a novel dataset identifying each brokerage's commission-paying fund clients to examine how these client relationships shape analyst research. We first show that brokerages initiate coverage when clients own a stock, suggesting that brokerages respond to client funds' information needs. Regarding forecast properties, we find that client ownership leads to greater optimism and improved accuracy, accompanied by more frequent revisions and increased information acquisition. Three additional analyses support the view that client relationships lead to enhanced forecast quality rather than catering. First, forecast quality increases with client funds' information acquisition. Second, forecast accuracy leads to higher future commissions, while optimism does not. Third, client holdings increase the information content of recommendations. Collectively, our evidence suggests that client relationships stimulate the production of informative research.
+
+Keywords: analyst incentives, sell-side analysts, earnings forecasts, forecast bias
+
+Suggested Citation:
+
+Kaplan, Zachary and Xie, Yifang and Zhang, Jenny Li, Commissions and Interactions: How Client Relationships Shape Analyst Research (December 5, 2023). Georgetown McDonough School of Business Research Paper No. 4655102, Available at SSRN: https://ssrn.com/abstract=4655102 or http://dx.doi.org/10.2139/ssrn.4655102
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+M Bagnoli , M B Clement , M J Crawley , S G Watts
+The profitability of analysts' stock recommendations: What role does investor sentiment play? Available at SSRN 1430617 Posted: 2009
+P G Berger , C G Ham , Z R Kaplan
+Do analysts say anything about earnings without revising their earnings forecasts?
+The Accounting Review , volume 94 , issue 2 , p. 29 - 52 Posted: 2019
+R Bhushan
+Firm characteristics and analyst following
+Journal of Accounting and Economics , volume 11 , issue 2-3 , p. 255 - 274 Posted: 1989
+Bloomberg
+Scandal-plagued analyst contest halted as China cracks down Posted: 2018
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+186
+ABSTRACT VIEWS
+883
+RANK
+371,780
+41 References
+PlumX Metrics
+Related eJournals
+
+Georgetown University McDonough School of Business Research Paper Series
+
+Follow
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

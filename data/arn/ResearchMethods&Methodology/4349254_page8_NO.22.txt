@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Startups' Demand for Accounting Expertise: Evidence from a Randomized Field Experiment
+
+Review of Accounting Studies, Forthcoming
+
+50 Pages Posted: 9 Feb 2023 Last revised: 17 May 2023
+
+Ofir Gefen
+
+National University of Singapore (NUS) - NUS Business School
+
+David M. Reeb
+
+National University of Singapore - Dept of Accounting
+
+Johan Sulaeman
+
+National University of Singapore (NUS) - Sustainable & Green Finance Institute (SGFIN); European Corporate Governance Institute (ECGI); Asian Bureau of Finance and Economic Research (ABFER)
+
+Date Written: February 5, 2023
+
+Abstract
+
+We conduct a randomized field experiment (RFE) to assess whether startup firms perceive accounting expertise as an important investor credential. We send 13,358 unsolicited and unique emails to active startup firms across the US, showing an interest in them with a proposition to meet a bogus investor. The experiment has high response rates, with 4,535 (33.94%) opened emails and 828 (6.19%) website visits, reflecting investors’ proliferating practice of outbound origination to contact new startups. Our RFE compares startup reactions to fictitious investors with certified public accountant (CPA) designations versus two control groups: investors without credentials and those with other professional licenses.
+
+Startup firms are 48% likelier to read unsolicited emails from CPA-bearing investors and 47% likelier to visit their websites, relative to investors with a medical license. We document an analogous preference for CPA-bearing investors even when we separately analyze startups in medical-related industries. This gap persists when investors pose as angels, venture capitalists (VCs), or without professional licenses. The relatively low percentage (2.5%) of email bounces and spam reports makes it unlikely that spam algorithms drive the findings. Further tests reveal that the response rates differ by firm age, which is inconsistent with spam filter explanations but congruent with startup firms’ demand for accounting expertise. Finally, we undertake a follow-up experiment with 3,443 new startups to distinguish between accounting and general business expertise using a master’s in business administration (MBA). Startups are 13.8% likelier to read emails from a CPA-bearing investor than from an MBA-credentialed investor and 22.6% more likely to visit the CPA-bearing investor’s website.
+
+Keywords: accountants, auditors, accounting demand, auditing, investor expertise
+
+JEL Classification: M41, M42, G24, M13
+
+Suggested Citation:
+
+Gefen, Ofir and Reeb, David M. and Sulaeman, Johan, Startups' Demand for Accounting Expertise: Evidence from a Randomized Field Experiment (February 5, 2023). Review of Accounting Studies, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4349254 or http://dx.doi.org/10.2139/ssrn.4349254
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+138
+ABSTRACT VIEWS
+1,034
+RANK
+481,162
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Social Sciences Education eJournal
+
+Follow
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

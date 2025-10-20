@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Managerial Responses to Changes in Fair Value Accounting for Equity Securities
+
+Contemporary Accounting Research, forthcoming
+
+72 Pages Posted: 9 Feb 2022 Last revised: 28 Jul 2025
+
+Sehwa Kim
+
+Columbia University - Columbia Business School
+
+Seil Kim
+
+Baruch College, City University of New York
+
+Carol A. Marquardt
+
+City University of New York (CUNY) – Baruch College
+
+Dongoh Shin
+
+Wayne State University
+
+Date Written: July 28, 2025
+
+Abstract
+
+Accounting Standards Update (ASU) 2016-01 requires that unrealized gains and losses on equity investments (equity-URGL) previously recognized in other comprehensive income now be included in net income. Using a sample of public insurers, we examine how this accounting standard change influences managerial investment decisions, with a particular focus on the moderating effects of compensation contracting and financial reporting practices. We find that prior to ASU 2016-01, equity-URGL was positively associated with CEO compensation, but this association dissipates in the post-adoption period, when equity-URGL is more frequently excluded from CEO performance metrics. Despite purported concerns about increased earnings volatility due to the new reporting requirements, highly affected insurers do not significantly reduce the size or risk of their equity investment portfolios following ASU 2016-01, particularly when compensation metrics exclude equity-URGL. We also find that equity-URGL is more frequently excluded from non-GAAP earnings post-adoption, suggesting that managers adjust financial reporting practices as a response to the change. Moreover, highly affected insurers maintain the size and risk of their equity portfolios when equity-URGL is excluded from non-GAAP earnings. These findings suggest that managerial responses to ASU 2016-01 are influenced by a balance between incentive structures and the costs associated with adjusting investment strategies.
+
+Keywords: fair value accounting; ASU 2016-01; executive compensation; equity investment; non-GAAP reporting
+
+JEL Classification: M41, M48, G22, G23
+
+Suggested Citation:
+
+Kim, Sehwa and Kim, Seil and Marquardt, Carol and Shin, Dongoh, Managerial Responses to Changes in Fair Value Accounting for Equity Securities (July 28, 2025). Contemporary Accounting Research, forthcoming, Available at SSRN: https://ssrn.com/abstract=4030099 or http://dx.doi.org/10.2139/ssrn.4030099
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+A S Ahmed , E Kilic , G J Lobo
+Does recognition versus disclosure matter? Evidence from value-relevance of banks' recognized and disclosed derivative financial instruments
+The Accounting Review , volume 81 , issue 3 , p. 567 - 588 Posted: 2006
+A Albuquerque , B Chen , Q F Dong , E J Riedl
+Ex post settling up in cash compensation: New evidence
+Contemporary Accounting Research , volume 36 , issue 4 , p. 2283 - 2318 Posted: 2019
+A M Best
+US accounting change may lead to more volatility in GAAP results
+Best's Special Report Posted: 2018-11-07
+N Amornsiripanitch , B Goldman , Z Huang , D Kwon , K Lin
+Net income aggregation, investor inattention, and portfolio holding decisions: Evidence from the insurance industry
+Review of Corporate Finance Studies, forthcoming Posted: 2025
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+513
+ABSTRACT VIEWS
+2,044
+RANK
+125,691
+59 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

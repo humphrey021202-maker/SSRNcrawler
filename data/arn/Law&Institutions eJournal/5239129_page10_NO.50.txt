@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The AI-Induced Disclosure Pressure Model and Empirical Evidence from Management Discussion and Analysis (MD&A) Reporting
+
+30 Pages Posted: 7 May 2025 Last revised: 7 May 2025
+
+Keren Bar-Hava
+
+Hebrew University of Jerusalem - Jerusalem School of Business Administration
+
+Date Written: May 02, 2025
+
+Abstract
+
+This study introduces a new theoretical framework proposing that artificial intelligence (AI) is fundamentally transforming how MD&A disclosures are written. Our AI-Induced Disclosure Pressure Model is supported by two empirical components. First, comparing our AI-based analysis of 108 MD&A reports from 27 S&P 100 firms (2021-2024) with Li's (2008) foundational work, we find similar relationships between tone and performance: negative and uncertainty tones are associated with lower profitability. However, unlike Li, we also find a negative relationship between positive tone and performance, suggesting that markets have adapted to strategic tone management. Second, fixed-effects regressions reveal that, once firm and year effects are controlled for, only uncertainty tone remains significantly associated with weaker fundamentals. This pattern indicates that firms have internalized the presence of algorithmic readers, maintaining upbeat language while inadvertently signaling poor performance through elevated uncertainty markers. The theoretical implication is critical: AI is no longer merely parsing disclosures post hoc, but actively reshaping how corporate narratives are crafted ex ante. This marks a shift from the overt obfuscation of the past to a subtler equilibrium, where firms write for both humans and algorithms, knowing that tone itself may now carry regulatory, reputational, and financial consequences.
+
+Keywords: Artificial Intelligence, Narrative Tone, Disclosure Pressure, Textual Analysis, Financial Performance, Loughran-McDonald, FinBERT
+
+Suggested Citation:
+
+Bar-Hava, Keren, The AI-Induced Disclosure Pressure Model and Empirical Evidence from Management Discussion and Analysis (MD&A) Reporting (May 02, 2025). Available at SSRN: https://ssrn.com/abstract=5239129 or http://dx.doi.org/10.2139/ssrn.5239129
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+G A Akerlof
+The Market for "Lemons": Quality Uncertainty and the Mechanism
+Quarterly Journal of Economics , volume 84 , issue 3 , p. 488 - 500 Posted: 1970
+D Araci
+FinBERT: Financial sentiment analysis with pre-trained language models Posted: 2019
+R Ball , P Brown
+An Empirical Evaluation of Accounting Income Numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+K Bar-Hava , S Huang , B Segal , D Segal
+Do independent directors tell the truth, the whole truth, and nothing but the truth when they resign
+Journal of Accounting, Auditing & Finance , volume 36 , issue 1 , p. 3 - 29 Posted: 2021
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+132
+ABSTRACT VIEWS
+400
+RANK
+505,214
+21 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Corporate Governance & Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

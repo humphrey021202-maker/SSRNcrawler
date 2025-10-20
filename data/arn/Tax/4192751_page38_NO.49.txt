@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+State-Dependent Effects of Tax Changes in Germany and the United Kingdom
+
+45 Pages Posted: 30 Aug 2022
+
+Bernd Hayo
+
+University of Marburg - School of Business & Economics
+
+Sascha Mierzwa
+
+University of Marburg - School of Business & Economics
+
+Date Written: August 17, 2022
+
+Abstract
+
+We study state-dependent effects of narratively identified tax shocks in Germany and the UK over the period 1974Q1–2018Q4 using local projections. In addition, we distinguish between aggregated and disaggregated tax types (direct and indirect taxes) as well as look for possible asymmetries between tax hikes and tax cuts. We find a number of differences across the business cycle, and between sample countries, tax types, and direction of tax changes. For instance, aggregated tax cuts initially have a larger effect during times of nonrecession in Germany, whereas we find no state-dependent effects for the UK. When disaggregating tax types, German indirect tax cuts only appear expansionary during downturns, whereas the effect is positive throughout the business cycle in the UK. Furthermore, we find different reactions when considering tax cuts and hikes individually: tax hikes can be expansionary in Germany (UK) when implemented during non-recessionary (recessionary) periods whereas they are contractionary during recessions (non-recessions). When considering tax cuts, German GDP rises only when cuts are enacted in times of non-recession, whereas in the UK, the reactions is positive in either case and mostly symmetric. All these findings are robust to various changes in the econometric setup.
+
+Keywords: Fiscal policy, tax policy, legislated tax changes, state dependence, direct taxes, indirect taxes, asymmetric effects, Germany, United Kingdom, local projections, narrative approach
+
+JEL Classification: E62, E63, H20, H30, K34
+
+Suggested Citation:
+
+Hayo, Bernd and Mierzwa, Sascha, State-Dependent Effects of Tax Changes in Germany and the United Kingdom (August 17, 2022). Available at SSRN: https://ssrn.com/abstract=4192751 or http://dx.doi.org/10.2139/ssrn.4192751
+Download This Paper
+ 
+Open PDF in Browser
+24 References
+A Alesina , C Favero , F Giavazzi
+The Output Effect of Fiscal Consolidation Plans
+Journal of International Economics , volume 96 , p. S19 - S42 Posted: 2015
+M Alloza
+Is Fiscal Policy More Effective in Uncertain Times or During Recessions? Banco de Espana Working Paper Posted: 1730
+S Ardagna
+Fiscal Stabilizations: When do they work and why
+European Economic Review , volume 48 , issue 5 , p. 1047 - 1074 Posted: 2004
+A J Auerbach , Y Gorodnichenko
+Measuring the Ouput Responses to Fiscal Policy
+American Economic Journal: Economic Policy , volume 4 , issue 2 , p. 1 - 27 Posted: 2012
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+115
+ABSTRACT VIEWS
+732
+RANK
+556,623
+2 Citations
+24 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Macroeconomics: Monetary & Fiscal Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

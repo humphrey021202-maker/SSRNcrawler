@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Impaired Asset Management and the Optimal Timing of Write-Down Decisions
+
+17 Pages Posted: 30 Oct 2017
+
+Avi Messica
+
+The College of Management
+
+Gali Ingber-Krauthgamer
+
+The Graduate School of Business and Administration - The College of Management
+
+Date Written: October 29, 2017
+
+Abstract
+
+Asset write-down refers to a reduction of an impaired asset’s value on a firm’s balance sheet. Impaired asset management has attracted much attention since the 2008 credit crunch crisis with respect to regulation, corporate and managerial ethics, capital market response and more. The common approach in past studies of write-downs based the decision-making process on agency-related reasoning. This paper presents a quantitative financial analysis of the optimal write-down timing of an impaired asset under different settings as well different managerial attitudes. We applied a conditional time-averaged value of a firm's stock price to model the manager’s decision-making process and analyzed the optimal timing of write-down with respect to the capital market as well as management’s expectations. Different exogenous settings of the optimal write-down timing such as impairment recovery rate and stock price return were analyzed. Moreover, a rational-type and a behavioral-type models of managers were also studied. Under most settings, our findings indicate that the common practice among managers, of write-down aversion, is optimal. However, counter-intuitively, we found that under specific setting the optimal action is, on the contrary, to write down. Moreover, write-down decision is also dependent on the firm’s stock price daily volatility. Managers of firms having stocks of high price volatility are in a favored position, decision-making wise, in comparison against manager of low volatility stocks.
+
+Keywords: financial management, decision making, optimal timing, write-down
+
+JEL Classification: C20, C41, M10, M41
+
+Suggested Citation:
+
+Messica, Avi and Ingber-Krauthgamer, Gali, Impaired Asset Management and the Optimal Timing of Write-Down Decisions (October 29, 2017). Available at SSRN: https://ssrn.com/abstract=3061376 or http://dx.doi.org/10.2139/ssrn.3061376
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+D Aboody
+Recognition versus disclosure in the oil and gas industry
+Journal of Accounting Research , volume 34 , p. 21 - 32 Posted: 1996
+Crossref
+A Arratia
+Computational Finance
+Statistics of Financial Time Series , volume 2 , p. 37 - 70 Posted: 2014
+E Bartov , F W Lindahl , W E Ricksstock
+Price behavior around announcements of write-offs
+Review of Accounting Studies , volume 3 , p. 327 - 346 Posted: 1998
+K Chen
+The timing of asset write-downs in the oil and gas industry: 1985-1986
+Petroleum Accounting and Financial Management Journal , volume 10 , p. 157 - 169 Posted: 1991
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+135
+ABSTRACT VIEWS
+1,448
+RANK
+490,025
+17 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

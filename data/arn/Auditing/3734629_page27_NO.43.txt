@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Can Artificial Intelligence Reduce the Effect of Independence Conflicts on Audit Firm Liability?
+
+51 Pages Posted: 9 Dec 2020 Last revised: 8 Jan 2024
+
+Robert Libby
+
+Cornell University - Samuel Curtis Johnson Graduate School of Management; Cornell SC Johnson College of Business
+
+Patrick Witz
+
+University of Wyoming
+
+Date Written: November 20, 2020
+
+Abstract
+
+In this study, we examine whether the use of artificial intelligence can reduce the effect of independence conflicts on audit firm liability. In two experiments, we manipulate (1) whether procedures are performed by a human auditor or with artificial intelligence and (2) whether the audit firm was careful in maintaining the appearance of independence from the audit client. Results of both experiments indicate that the use of artificial intelligence significantly reduces the impact of the appearance of independence conflicts on jurors’ judgments of audit firm liability. When concerns relating to the appearance of independence conflicts are present, the use of AI helps maintain the perceived objectivity of the auditor which results in jurors maintaining higher overall trust in the audit process. Our study contributes to literature on determinants of auditor litigation risk and how technological change that is likely to grow in prominence might affect audit firm liability.
+
+Keywords: Audit firm legal liability, artificial intelligence, objectivity, independence, analytical procedures, trust
+
+JEL Classification: M40, M41, K41, C91
+
+Suggested Citation:
+
+Libby, Robert and Witz, Patrick, Can Artificial Intelligence Reduce the Effect of Independence Conflicts on Audit Firm Liability? (November 20, 2020). Available at SSRN: https://ssrn.com/abstract=3734629 or http://dx.doi.org/10.2139/ssrn.3734629
+Download This Paper
+ 
+Open PDF in Browser
+67 References
+J C Anderson , M M Jennings , S E Kaplan , P M J Reckers
+The effect of diagnostic decision aids for analytical procedures on judges' liability judgments
+Journal of Accounting and Public Policy , volume 14 , p. 33 - 62 Posted: 1995
+B Arel , M M Jennings , K Pany , P J M Reckers
+Auditor liability: A comparison of judge and juror verdicts
+Journal of Accounting and Public Policy , volume 31 , issue 5 , p. 516 - 532 Posted: 2012
+Plain English guide to independence Posted: 2021
+A G Backof
+The impact of audit evidence documentation on jurors' negligence verdicts and damage awards
+The Accounting Review , volume 90 , issue 6 , p. 2177 - 2204 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+818
+ABSTRACT VIEWS
+2,696
+RANK
+69,213
+3 Citations
+67 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

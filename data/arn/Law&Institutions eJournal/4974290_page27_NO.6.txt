@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The German Business Panel: Firm-Level Data for Accounting and Taxation Research 
+
+European Accounting Review,  (forthcoming) [10.1080/09638180.2024.2403467]
+
+49 Pages Posted: 3 Oct 2024
+
+Jannis Bischof
+
+University of Mannheim - Accounting and Taxation
+
+Philipp Dörrenberg
+
+University of Mannheim; IZA Institute of Labor Economics; CESifo (Center for Economic Studies and Ifo Institute); ZEW – Leibniz Centre for European Economic Research
+
+Davud Rostam‐Afschar
+
+University of Mannheim; IZA Institute of Labor Economics; Global Labor Organization; TRR 266 Accounting for Transparency
+
+Dirk Simons
+
+University of Mannheim - Accounting and Taxation
+
+Johannes Voget
+
+University of Mannheim
+
+There are 2 versions of this paper
+
+Date Written: August 22, 2024
+
+Abstract
+
+The German Business Panel (GBP) periodically surveys key decision-makers via a large sample of companies in Germany. The survey questions investigate managers' accounting and taxation choices as well as the expected and perceived outcomes of those decisions. To obtain causal evidence, the survey supports the use of randomized survey experiments. The evidence from the GBP can meaningfully advance our understanding of issues that require data on internal processes as well as expectations, perceptions, and objectives behind ex-post reported accounting figures. The target population comprises the universe of legal entities included in the official German Statistical Business Register. We show that the dominance of small and medium-sized entities is a feature that Germany shares with many European countries, implying that GBP findings will be reasonably generalizable to European settings. We illustrate the usefulness of GBP data by presenting evidence from the initial waves of the GBP during the COVID-19 pandemic. The findings show how government aid programs contributed unevenly to the solvency of the most negatively affected companies, and how companies, rather than consumers, benefited from a temporary reduction of VAT rates. The paper also demonstrates how the scientific community can use the GBP data.
+
+Keywords: Firm survey data, German Business Panel, Survey design, Tax Expectations, VAT, Covid-19
+
+Ethics Approval
+
+Ethics approval was given by the University of Mannheim's Ethics Committee.
+
+Funder Statement
+
+All authors gratefully acknowledge the financial support from the German Research Foundation (DFG) for the project ‘Accounting for Transparency’ (Grant No.: SFB/TRR 403041268).
+
+JEL Classification: C81, D22, D25, D80, H00, H12, H32, H20, H25, M40, R38
+
+Suggested Citation:
+
+Bischof, Jannis and Dörrenberg, Philipp and Rostam-Afschar, Davud and Simons, Dirk and Voget, Johannes, The German Business Panel: Firm-Level Data for Accounting and Taxation Research  (August 22, 2024). European Accounting Review,  (forthcoming) [10.1080/09638180.2024.2403467], Available at SSRN: https://ssrn.com/abstract=4974290
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+G Alekseev , S Amer , M Gopal , T Kuchler , J W Schneider , J Stroebel , N Wernerfelt
+The Effects of COVID-19 on U.S. Small Businesses: Evidence from Owners, Managers, and Employees , volume 69 , p. 7 - 24 Posted: 2023
+P Angelini , A Generale
+On the evolution of firm size distributions
+American Economic Review , volume 98 , issue 1 , p. 426 - 438 Posted: 2008
+L Arnemann , F Eble , J Bischof , P Dörrenberg , D Rostam-Afschar , D Simons , J Voget
+A Guide on How Survey Weights of the GBP are Used (and Constructed)
+GBP Posted: 2022
+R Ball
+Accounting Informs Investors and Earnings Management is Rife: Two Questionable Beliefs. Accounting Horizons , volume 27 , p. 847 - 853 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+78
+ABSTRACT VIEWS
+557
+RANK
+68,309
+53 References
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

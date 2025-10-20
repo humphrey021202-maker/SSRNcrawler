@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Discharge of Late Tax Return Debt in Bankruptcy: Fixing BAPCPA's Draconian Hanging Paragraph
+
+American Bankruptcy Institute Law Review , Vol. 24, 2016
+
+39 Pages Posted: 11 Jul 2016 Last revised: 2 Dec 2019
+
+Timothy M. Todd
+
+Liberty University - School of Law
+
+Date Written: 2016
+
+Abstract
+
+The current majority rule for handling the discharge of tax debt related to a tardily filed tax return is severely distorted and antithetical to sound bankruptcy and taxation policy. For years, it was established law that bankruptcy could discharge stale tax debts. Indeed, the Bankruptcy Code provided a clear and workable standard that delicately balanced the interest of the government as creditor, the debtor's need for a fresh start, and the interest of the general unsecured creditor. This system used a series of timing rules that allowed stale tax debts to be discharged and allowed the government to collect "fresh" tax debts post-bankruptcy.
+
+The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 ushered in many consumer bankruptcy reforms. One of those changes regarded how courts were to treat substitute returns prepared by the Internal Revenue Service ("IRS") when a taxpayer failed to file any tax return. However, that targeted legislative patch has been incorrectly applied to any and all late tax returns — even if the tax return is filed only one day late — to preclude forever a discharge for that tax debt. This result is a radical sea change in bankruptcy law that is wrong and needs to be remedied.
+
+This Article demonstrates four problems with the majority rule. First, the majority rule violates principles of statutory construction. Second, the effects of the rule are exacerbated in state jurisdictions that do not have substitute return provisions. Third, the majority rule violates the principle that courts do not effect major bankruptcy changes without clear legislative command. Fourth — and perhaps most troubling — is that the majority rule now decouples tax priority and discharge.
+
+This Article therefore provides both legislative and judicial solutions to solve these problems. In particular, this Article advances a better, more workable judicial test — the indispensable element test — to determine whether a late tax return complies with the current statutory elements for bankruptcy discharge.
+
+Keywords: late tax return debt, bankruptcy, BAPCPA, hanging paragraph, discharge, tax priority
+
+JEL Classification: K00, K10, K19, K20, K29, K30, K34, K35
+
+Suggested Citation:
+
+Todd, Timothy M., Discharge of Late Tax Return Debt in Bankruptcy: Fixing BAPCPA's Draconian Hanging Paragraph (2016). American Bankruptcy Institute Law Review , Vol. 24, 2016, Available at SSRN: https://ssrn.com/abstract=2807247
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+See 6 COLLIER ON BANKRUPTCY, supra note 36 , p. 700 - 702
+Todd
+Crossref
+Collier , Bankruptcy
+, p. 1322 - 61 Posted: 1322-08-10
+Crossref
+U S
+§ 727 (providing discharge granted unless debtor falls in one of enumerated categories)
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+185
+ABSTRACT VIEWS
+2,043
+RANK
+373,668
+62 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Bankruptcy, Reorganization & Creditors eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

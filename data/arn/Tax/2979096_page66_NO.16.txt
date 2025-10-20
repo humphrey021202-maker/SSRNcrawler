@@ -1,0 +1,135 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax Audits as Scarecrows: Evidence from a Large-Scale Field Experiment
+
+109 Pages Posted: 3 Jun 2017 Last revised: 9 Sep 2021
+
+Marcelo Bergolo
+
+Universidad de la Republica - Instituto de Economía; IZA Institute of Labor Economics
+
+Rodrigo Ceni
+
+Universidad de la Republica
+
+Guillermo Cruces
+
+Universidad Nacional de La Plata (UNLP) - Centro de Estudios Distributivos, Laborales y Sociales (CEDLAS); IZA
+
+Matias Giaccobasso
+
+VATT Institute for Economic Research
+
+Ricardo Perez-Truglia
+
+University of California, Los Angeles (UCLA); National Bureau of Economic Research (NBER)
+
+There are 3 versions of this paper
+
+Date Written: May 1, 2019
+
+Abstract
+
+The canonical model of Allingham and Sandmo (1972) predicts that firms evade taxes by optimally trading off the costs and benefits of evasion. However, there is no direct evidence that firms react to audits in this way. We conducted a large-scale field experiment in collaboration with Uruguay’s tax authority to address this question. We sent letters to 20,440 small and medium-sized firms that collectively paid more than two hundred million U.S. dollars in taxes per year. Our letters provided exogenous yet nondeceptive signals on key inputs for their evasion decisions such as audit probabilities and penalty rates. Using survey data, we measured the effect of these signals on firms' subsequent perceptions of the auditing process. Using administrative data, we measured their effect on actual taxes paid. We find that providing information on audits had a significant effect on tax compliance, but in a manner inconsistent with Allingham and Sandmo (1972). Our findings are consistent with an alternative model of risk-as-feeling, in which messages about audits generate fear and induce probability neglect. According to this model, audits may deter tax evasion in the same way scarecrows scare birds away.
+
+Keywords: tax, evasion, audits, penalties, frictions
+
+JEL Classification: C93, H26, K34, K42, Z13
+
+Suggested Citation:
+
+Bergolo, Marcelo and Ceni, Rodrigo and Cruces, Guillermo and Giaccobasso, Matias and Perez-Truglia, Ricardo, Tax Audits as Scarecrows: Evidence from a Large-Scale Field Experiment (May 1, 2019). Available at SSRN: https://ssrn.com/abstract=2979096 or http://dx.doi.org/10.2139/ssrn.2979096
+Download This Paper
+ 
+Open PDF in Browser
+51 References
+D Acemoglu , M O Jackson
+Social Norms and the Enforcement of Laws
+Journal of the European Economic Association , volume 15 , issue 2 , p. 245 - 295 Posted: 2017
+M G Allingham , A Sandmo
+Income Tax Evasion: A Theoretical Analysis
+Journal of Public Economics , volume 1 , p. 323 - 338 Posted: 1972
+J Alm
+What motivates tax compliance
+Journal of Economic Surveys , volume 33 , issue 2 , p. 353 - 388 Posted: 2019
+J Alm , B Jackson , M Mckee
+Estimating the Determinants of Taxpayer Compliance with Experimental Data
+National Tax Journal , volume 45 , issue 1 , p. 107 - 114 Posted: 1992
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+367
+ABSTRACT VIEWS
+4,049
+RANK
+134,537
+51 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Behavioral & Experimental Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

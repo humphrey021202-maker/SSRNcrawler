@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+MULTIPAY: Multi-User Payment Interface -A Secure and Scalable Payment Solution
+
+5 Pages Posted: 4 Sep 2025
+
+Vagicherla Pavan Kalyan
+
+Malla Reddy University
+
+Vakkantham Sree Harshitha
+
+Malla Reddy University
+
+Vailla Bhargav
+
+Malla Reddy University
+
+Date Written: May 02, 2024
+
+Abstract
+
+In today's rapidly evolving digital economy, the demand for secure, seamless, and scalable financial solutions is increasing significantly. Traditional payment systems primarily process single-recipient transactions, making bulk payments inefficient and error-prone. This study introduces MULTIPAYa MultiUser Payment Interface, a lightweight yet powerful system that allows users to send payments to multiple recipients in a single operation. Developed using Vite + React for rapid prototyping and Tailwind CSS for responsive design, the interface emphasizes usability, security, and scalability. Unlike existing solutions that require complex backend setups, MULTIPAY offers a frontend-first approach with integration-ready architecture for gateways such as Stripe and PayPal. Initial testing demonstrated improved transaction efficiency, reduced error rates, and positive user reception. With strong potential in freelance platforms, NGOs, startups, and enterprise applications, MULTIPAY bridges the gap between simplicity and functionality in digital financial systems.
+
+Suggested Citation:
+
+Pavan Kalyan, Vagicherla and Sree Harshitha, Vakkantham and Bhargav, Vailla, MULTIPAY: Multi-User Payment Interface -A Secure and Scalable Payment Solution (May 02, 2024). Available at SSRN: https://ssrn.com/abstract=5402042 or http://dx.doi.org/10.2139/ssrn.5402042
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+12
+ABSTRACT VIEWS
+66
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

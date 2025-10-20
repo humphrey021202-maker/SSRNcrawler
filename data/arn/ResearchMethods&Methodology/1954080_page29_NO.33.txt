@@ -1,0 +1,100 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+A New Measure of Earnings Forecast Uncertainty
+
+Journal of Accounting & Economics (JAE), 53(1-2), 21-33
+
+Posted: 4 Nov 2011 Last revised: 23 Oct 2012
+
+Xuguang Simon Sheng
+
+American University - Department of Economics
+
+Maya Thevenot
+
+Florida Atlantic University
+
+Date Written: 2012
+
+Abstract
+
+Relying on the well-established theoretical result that uncertainty has a common and an idiosyncratic component, we propose a new measure of earnings forecast uncertainty as the sum of dispersion among analysts and the variance of mean forecast errors estimated by a GARCH model. The new measure is based on both common and private information available to analysts at the time they make their forecasts. Hence, it alleviates some of the limitations of other commonly used proxies for forecast uncertainty in the literature. Using analysts’ earnings forecasts, we find direct evidence of the new measure’s superior performance.
+
+Keywords: Uncertainty, analyst dispersion, common information, private information, BKLS, GARCH
+
+JEL Classification: M41, C01
+
+Suggested Citation:
+
+Sheng, Xuguang Simon and Thevenot, Maya, A New Measure of Earnings Forecast Uncertainty (2012). Journal of Accounting & Economics (JAE), 53(1-2), 21-33, Available at SSRN: https://ssrn.com/abstract=1954080
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,360
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

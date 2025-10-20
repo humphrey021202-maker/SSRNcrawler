@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting for Cryptocurrency Value
+
+66 Pages Posted: 2 Nov 2021 Last revised: 20 Mar 2023
+
+Yukun Liu
+
+University of Rochester - Simon Business School
+
+Aleh Tsyvinski
+
+Yale University; Yale University - Cowles Foundation
+
+Xi Wu
+
+University of California, Berkeley - Haas School of Business
+
+Date Written: October 27, 2021
+
+Abstract
+
+This paper examines the role of the information disclosed on blockchains in the cryptocurrency market. We find that blockchain disclosure on user adoption, measured as the number of new addresses, is highly value-relevant in the cryptocurrency market. Surprises in the disclosed number of new addresses explain 8% of the variation in cryptocurrency returns. The disclosed information is more value-relevant if the quality of the disclosure is higher and the cryptocurrency is larger in size. Unlike traditional markets, we do not find pre- or post-drift around the disclosure of new address information. The presence of strong market reactions at the disclosure and the absence of drifts around it highlight the distinct features of the information environment in this market, and provide a benchmark case where information is disclosed publicly and (almost) continuously. Lastly, we construct the price-to-new address ratios and find that they negatively predict future returns–a cryptocurrency value effect.
+
+Keywords: Cryptocurrency, New Address, Value-Relevance, Return Predictability
+
+JEL Classification: G12, M41
+
+Suggested Citation:
+
+Liu, Yukun and Tsyvinski, Aleh and Tsyvinski, Aleh and Wu, Xi, Accounting for Cryptocurrency Value (October 27, 2021). Available at SSRN: https://ssrn.com/abstract=3951514 or http://dx.doi.org/10.2139/ssrn.3951514
+Download This Paper
+ 
+Open PDF in Browser
+95 References
+D Abreu , P Milgrom , D Pearce
+Information and timing in repeated partnerships
+Econometrica: Journal of the Econometric Society , p. 1713 - 1733 Posted: 1991
+S Adhami , G Giudici , S Martinazzi
+Why do businesses go crypto? an empirical analysis of initial coin offerings
+Journal of Economics and Business , volume 100 , p. 64 - 75 Posted: 2018
+E Amir , Lev B
+Value-relevance of nonfinancial information: The wireless communications industry
+Journal of Accounting and Economics , volume 22 , p. 3 - 30 Posted: 1996
+D Amiram , B N Jørgensen , D Rabetti
+Coins for bombs: The predictive ability of on-chain transfers for terrorist attacks
+Journal of Accounting Research , volume 60 , p. 427 - 466 Posted: 2022
+Load more
+4 Citations
+Volodymyr Muravskyi , Nataliia Pochynok , Oleh Reveha , Liu Chengyu
+Accounting and control of foreign economic electronic transactions using cryptocurrencies
+Herald of Economics , issue 4 , p. 44 Posted: 2023
+Crossref
+İsa KILIÇ , Ahmet ALATAŞ
+Kripto Varlıkların Muhasebeleştirilmesi Üzerine Bir İçerik Analizi
+Muhasebe ve Vergi Uygulamaları Dergisi , volume 16 , issue 1 , p. 157 Posted: 2023
+Crossref
+Weihao Han , David Newton , Emmanouil Platanakis , Charles Sutcliffe , Xiaoxia Ye
+On the (almost) stochastic dominance of cryptocurrency factor portfolios and implications for cryptocurrency asset pricing
+European Financial Management Posted: 2023
+Crossref
+Kseniia Lakovich , Igor Lyukevich , Olesya Lakovich
+Digital Transformation on Manufacturing, Infrastructure & Service
+, volume 684 , p. 673 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,805
+ABSTRACT VIEWS
+11,607
+RANK
+10,799
+4 Citations
+95 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

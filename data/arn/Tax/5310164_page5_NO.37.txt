@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Developing a Novel Conceptual Tax Regulatory Framework for Crypto Tokens
+
+58 Akron L. Rev. 105 (2025)
+
+45 Pages Posted: 19 Jun 2025
+
+Tamir Shanan
+
+College of Management
+
+Doron Narotzki
+
+University of Akron - The George W. Daverio School of Accountancy
+
+Lior Zaks
+
+Hebrew University Jerusalem
+
+Date Written: July 01, 2024
+
+Abstract
+
+This article challenges the informal and uncoordinated attempts by governments worldwide to hinder technological innovations that could potentially disrupt established monetary systems and undermine the significance of banks, stock exchanges, and financial institutions. The authors argue that the outcome, which effectively sacrifices governments' ability to tax crypto capital appreciation, impedes the widespread adoption of decentralized tokens and is more detrimental than beneficial. Instead of applying outdated tax rules developed a century ago, the article proposes the development of a new regulatory tax framework that takes into account the unique characteristics of decentralized virtual tokens. These characteristics include their pseudo-anonymity, tradability, liquidity for certain tokens, minimal administrative costs, decentralized nature, government non-intervention, high price volatility, and virtual nature.
+
+The article also criticizes the favorable "realization principle" granted by many tax authorities worldwide, deeming it unjustified and unnecessary. It argues that such a tax deferral suppresses the daily use of tokens, discouraging owners from exchanging or disposing of them as a means of payment. The article suggests that governments may be using these measures to protect their fiat currencies and invest in the development of their own digital currencies. However, it asserts that blockchain technology and crypto tokens do not jeopardize nationalism, and governments should welcome them instead of resisting them, as resistance would be futile and against their own interests.
+
+To address these issues, the article proposes taxing the capital appreciation of crypto tokens, regardless of whether it has been realized or not, using a formulaic tax regime based on a risk-free interest rate and the investment in the token. Additionally, the article discusses income tax considerations related to the creation, disposal, and exchange of digital tokens, suggesting a revision of the existing tax regulatory framework to better align with the unique characteristics of crypto tokens and the principles underlying good tax policy.
+
+Keywords: Tax, Crypto Tokens, Digital Assets, Token Classification, Cryptocurrency Regulation, Tokenomics, Tax Policy, Realization Principle, Virtual Currencies, Security Tokens, Utility Tokens, Stablecoins, International Tax Coordination
+
+JEL Classification: K34
+
+Suggested Citation:
+
+Shanan, Tamir and Narotzki, Doron and Zaks, Lior, Developing a Novel Conceptual Tax Regulatory Framework for Crypto Tokens (July 01, 2024). 58 Akron L. Rev. 105 (2025), Available at SSRN: https://ssrn.com/abstract=5310164 or http://dx.doi.org/10.2139/ssrn.5310164
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+69
+ABSTRACT VIEWS
+407
+RANK
+778,997
+PlumX Metrics
+Related eJournals
+
+Cryptocurrency Research eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

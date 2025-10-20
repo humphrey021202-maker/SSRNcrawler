@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Are Intangible Asset Valuations in Financial Reports Useful? Historical Evidence from the Illinois Blue Sky Law
+
+85 Pages Posted: 8 Oct 2025 Last revised: 2 Oct 2025
+
+Huseyin Akkoyun
+
+Northwestern University
+
+Michael Andrews
+
+University of Maryland Baltimore County
+
+Kirti Sinha
+
+Naveen Jindal School of Management, UT Dallas
+
+Rajkamal Vasu
+
+Temple University
+
+Date Written: September 30, 2025
+
+Abstract
+
+Under current accounting standards, internally generated intangible assets (IGIs) are excluded from balance sheets, and for acquired intangibles only aggregate values are reported. Scholars argue that this lack of IGI reporting limits investors’ ability to assess a firm’s true value, yet standard setters remain uncertain whether such assets should be included in financial statements. Moreover, even if such assets were recognized, questions remain as to whether IGIs should be reported individually or in aggregate, and which valuation approach should be used. We contribute to this debate by analyzing a historical case: Illinois’s 1919 “blue sky law,” which required firms issuing securities to disclose itemized valuations of all intangible assets—without distinguishing between acquired and internally generated ones. Although our dataset spans various intangible types, we focus on patents—the only category with measurable future value—to assess whether reported valuations were informative. The data also allows us to distinguish among valuation methods, including historical research and development (R&D) costs, purchase prices, appraised values, and instances in which nominal valuations are listed. We find that reported patent valuations are uncorrelated with independent measures of long-term patent value. Moreover, there is no difference in correlation between acquired and IG patents, or itemized and non-itemized patents; all methods of valuation are likewise uncorrelated with long-term values, with the exception of appraised valuations, which are negatively correlated. To understand the plausible reasons behind these results, we draw on digit testing tools from forensic accounting. We find that in most cases, there is no evidence of manipulation of intangible asset values. Instead, we find that owners of intangible assets struggle to precisely value them. Overall, these results suggest that it is possible to expand disclosure of intangible asset valuations without leading to manipulation by asset owners, but uncertainty in the values of these assets make those valuations unpredictive of future value.
+
+Keywords: Intangibles, Financial Disclosure, FASB, Blue Sky Laws, Patents
+
+Declaration of Interest
+
+NA
+
+Ethics Approval
+
+NA
+
+Funder Statement
+
+NA
+
+JEL Classification: G10, M41, M48
+
+Suggested Citation:
+
+Akkoyun, Huseyin and Andrews, Michael and Sinha, Kirti and Vasu, Rajkamal,
+Are Intangible Asset Valuations in Financial Reports Useful? Historical Evidence from the Illinois Blue Sky Law
+(September 30, 2025). Available at SSRN: https://ssrn.com/abstract=5553421 or http://dx.doi.org/10.2139/ssrn.5553421
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+57
+ABSTRACT VIEWS
+202
+RANK
+864,457
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Forensic Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

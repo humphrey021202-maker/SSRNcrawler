@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditing the Mark-to-Model: Evidence from Revisions of Standards in Fixed-Income Mutual Funds
+
+55 Pages Posted: 6 May 2025
+
+Brian Bratten
+
+University of Kentucky - Von Allmen School of Accountancy
+
+Wenyin Li
+
+University of North Carolina (UNC) at Charlotte - Department of Accounting
+
+Quan Qi
+
+Middle Tennessee State University - Department of Economics and Finance
+
+Date Written: March 27, 2025
+
+Abstract
+
+This paper examines the impact of standardized audit guidance on subjectivity in fair value reporting. We focus on the fixed-income mutual fund sector, where fair value reporting is particularly critical due to the prevalence of these funds holding illiquid fixed-income assets, which often lack sufficient market quotations as valuation benchmarks. Using two difference-in-differences research designs, we document a significant improvement in the precision of reported fair values following revisions to two PCAOB auditing standards, which introduced detailed guidance on auditing fair value estimates and auditors’ use of the work of specialists. The effects are especially pronounced for securities characterized by high estimation uncertainty and for funds with strong manipulation incentives, suggesting that the revised auditing standards alleviate management bias in fair value reporting. We also document an increase in audit fees following the revisions, suggesting enhanced auditors’ effort as a likely mechanism for the improvement in fair value reporting. Our findings highlight the effectiveness of auditing standard-setting in promoting financial reporting integrity within the asset management industry.
+
+Keywords: AS 2501, AS 1210, fair value precision, specialists, fixed-income mutual fund
+
+JEL Classification: M42, G23, M41
+
+Suggested Citation:
+
+Bratten, Brian and Li, Wenyin and Qi, Quan, Auditing the Mark-to-Model: Evidence from Revisions of Standards in Fixed-Income Mutual Funds (March 27, 2025). Available at SSRN: https://ssrn.com/abstract=5208000 or http://dx.doi.org/10.2139/ssrn.5208000
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+A S Ahmed , C Takeda
+Stock market valuation of gains and losses on commercial banks' investment securities: An empirical analysis
+Journal of Accounting and Economics , volume 20 , issue 2 , p. 207 - 225 Posted: 1995
+J Ahn , R Hoitash , U Hoitash
+Auditor task-specific expertise: The case of fair value accounting
+The Accounting Review , volume 95 , issue 3 , p. 1 - 32 Posted: 2020
+V Agarwal , B Barber , S Cheng , A Hameed , A Yasuda
+Private company valuations by mutual funds
+Review of Finance , volume 27 , issue 2 , p. 693 - 738 Posted: 2023
+Aicpa
+Posted: 2023
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+69
+ABSTRACT VIEWS
+342
+RANK
+778,997
+63 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Mutual Funds, Hedge Funds & Investment Industry eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

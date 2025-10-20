@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Earnings Management and Dynamic Incentives
+
+AAA 2015 Management Accounting Section (MAS) Meeting
+
+41 Pages Posted: 18 Aug 2014 Last revised: 1 Apr 2015
+
+Sunil Dutta
+
+University of California, Berkeley - Haas School of Business
+
+Qintao Fan
+
+University of Oregon, Lundquist School of Business
+
+Date Written: November 1, 2015
+
+Abstract
+
+This paper investigates the impact of earnings management on incentives and welfare in a two-period agency setting. Managerial performance measures are positively correlated because of a time-invariant productivity component that affects earnings in both periods. The firm and the manager learn about this permanent earnings component over time and cannot commit not to revise the contract terms in light of updated information. While learning over time reduces uncertainty, its strengthening effect on the second period incentive rate is oset by the need to mitigate earnings inflation. We find that when the uncertainty about permanent earnings is large enough, allowing some earnings management can enhance welfare because the efficiency gain from the manager's reduced risk exposure can outweigh the deadweight cost of earnings management. We also consider a career concern setting in which the permanent component of earnings relates to managerial ability. Contrary to Gibbons and Murphy (1992), we find that incentive rates and productive efforts can decline over the manager's tenure.
+
+Keywords: Earnings Management; Renegotiation; Permanent Earnings; Career Concerns
+
+Suggested Citation:
+
+Dutta, Sunil and Fan, Qintao, Earnings Management and Dynamic Incentives (November 1, 2015). AAA 2015 Management Accounting Section (MAS) Meeting, Available at SSRN: https://ssrn.com/abstract=2482133 or http://dx.doi.org/10.2139/ssrn.2482133
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+A Arya , J Glover , S Sunder
+Earnings Management and the Revelation Principle
+Review of Accounting Studies , volume 3 , issue jou_issue[1].xmlText , p. 7 - 34 Posted: 1998
+D Bergstresser , T Philippon
+CEO Incentives and Earnings Management
+Journal of Financial Economics , volume 80 , p. 511 - 529 Posted: 2006
+Crossref
+N Burns , S Kedia
+The Impact of Performance-Based Compensation on Misreporting
+Journal of Financial Economics , volume 79 , p. 35 - 67 Posted: 2006
+Crossref
+P Christensen , G Feltham , F Sabac
+A Contracting Perspective on Earnings Quality
+Journal of Accounting and Economics , volume 39 , p. 265 - 294 Posted: 2005
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+312
+ABSTRACT VIEWS
+2,855
+RANK
+222,024
+2 Citations
+33 References
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

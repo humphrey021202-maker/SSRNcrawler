@@ -1,0 +1,111 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Do Big Inequalities in Executive Pay Hurt Firm Performance?
+
+IZA Discussion Paper No. 17346
+
+93 Pages Posted: 8 Oct 2024 Last revised: 7 May 2025
+
+Richard Yiu-Ming Chung
+
+affiliation not provided to SSRN
+
+Jed DeVaro
+
+California State University, East Bay
+
+Scott Fung
+
+California State University
+
+Abstract
+
+Research Question/Issue: Do large, within-firm executive pay differences hurt firm performance? Prior literature shows mixed results concerning the sign of the relationship between executive pay disparity and firm performance. This study evaluates that literature, clarifies what tournament theory predicts about the relationship, identifies methodological pitfalls and how to address them, and guides future scholarship in this area of considerable importance to firms and policy makers. Research Findings/Insights: We estimate the relationship using improved methodology and find evidence of an inverted-U shaped relationship between the executive pay spread and firm performance. However, the peak of this inverted U occurs at such a high level of the executive pay spread that it is practically irrelevant in most firms. The inverted U is found using a market-based measure of firm performance, but not a returns-based measure (i.e., ROA). Theoretical/Academic Implications: This study addresses the theoretical and empirical limitations of the prior literature, thereby providing more credible estimates of the relationship between pay disparity and firm performance. Tournament theory offers a unified framework that can explain an inverted-U-shaped relationship between the executive pay spread and firm performance. Practitioner/Policy Implications: Our results should reduce public concerns that CEOs increase their own compensation to exorbitant levels, to the detriment of firm performance.
+
+Keywords: executive compensation, vertical pay disparity, firm performance, tournament theory, market structure
+
+JEL Classification: G32, G39, J31, M12
+
+Suggested Citation:
+
+Chung, Richard Yiu-Ming and DeVaro, Jed and Fung, Scott, Do Big Inequalities in Executive Pay Hurt Firm Performance?. IZA Discussion Paper No. 17346, Available at SSRN: https://ssrn.com/abstract=4979604
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+68
+ABSTRACT VIEWS
+558
+RANK
+785,077
+PlumX Metrics
+Related eJournals
+
+IZA Institute of Labor Economics Discussion Paper Series
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+SEC Comment Letters on Form S-4 and M&A Accounting Quality
+
+Review of Accounting Studies 28 (2): 862-909.
+
+65 Pages Posted: 21 Feb 2019 Last revised: 31 May 2023
+
+Bret A. Johnson
+
+Donald G. Costello College of Business at George Mason University
+
+Ling Lei Lisic
+
+Virginia Tech - Pamplin College of Business
+
+Joon Seok Moon
+
+California State University, Northridge
+
+Mengmeng Wang
+
+University of North Carolina (UNC) at Greensboro
+
+Date Written: November 2021
+
+Abstract
+
+Prior research on SEC comment letters has almost exclusively focused on reviews of periodic filings, such as 10-Ks. Transactional filing reviews, such as those related to mergers and acquisitions (M&A), are a fundamental priority of the SEC and to which it dedicates significant resources. We help fill the void in the literature by examining the influence of SEC comment letters on one type of transactional filing, Form S-4, on the accounting quality of the newly merged entity. We find that S-4s that receive an SEC comment letter are less likely to have a restatement or a goodwill impairment after the M&A deal is completed. Our inferences remain the same using either an entropy-balanced sample or a propensity-score-matched sample based on firm and deal characteristics. These results are stronger for S-4 comment letters with higher intensity and M&A- specific comments. Finally, to explore plausible mechanisms and provide further context, we examine specific disclosure changes in S-4 amendments filed during the filing review process and find evidence that the improved M&A accounting quality is related to revisions to the pro forma financial statements, the total purchase price, and goodwill allocations. Overall, our findings provide evidence on the effectiveness of the SEC’s comment letter process related to M&A deals.
+
+
+
+Keywords: SEC, Comment Letter, M&A, S-4, Accounting Quality
+
+JEL Classification: G34, M41, M48
+
+Suggested Citation:
+
+Johnson, Bret A. and Lisic, Ling Lei and Moon, Joon Seok and Wang, Mengmeng, SEC Comment Letters on Form S-4 and M&A Accounting Quality (November 2021). Review of Accounting Studies 28 (2): 862-909., Available at SSRN: https://ssrn.com/abstract=3335390 or http://dx.doi.org/10.2139/ssrn.3335390
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+A Amel-Zadeh , Y Zhang
+The economic consequences of financial restatements: Evidence from the market for corporate control
+The Accounting Review , volume 90 , issue 1 , p. 1 - 29 Posted: 2015
+E Anderson , E Ghysels , J Juergens
+The impact of risk and uncertainty on expected returns
+Journal of Financial Economics , volume 94 , issue 2 , p. 233 - 263 Posted: 2009
+G Andrade , M Mitchell , E Stafford
+New evidence and perspectives on mergers
+Journal of Economic Perspectives , volume 15 , issue 2 , p. 103 - 120 Posted: 2001
+T Bates , M Lemmon
+Breaking up is hard to do? An analysis of termination fee provisions and merger outcomes
+Journal of Financial Economics , volume 69 , issue 3 , p. 469 - 504 Posted: 2003
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+661
+ABSTRACT VIEWS
+4,942
+RANK
+91,111
+3 Citations
+58 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Inference on Non-Stationary Time Series with Moving Mean
+
+32 Pages Posted: 30 Jul 2013
+
+Jiti Gao
+
+Monash University - Department of Econometrics & Business Statistics
+
+Peter M. Robinson
+
+London School of Economics & Political Science (LSE) - Department of Economics; National Bureau of Economic Research (NBER)
+
+Date Written: July 23, 2013
+
+Abstract
+
+A semi-parametric model is proposed in which a parametric filtering of a non-stationary time series, incorporating fractionally differencing with short memory correction, removes correlation but leaves a non-parametric deterministic trend. Estimates of the memory parameter and other dependence parameters are proposed, and shown to be consistent and asymptotically normally distributed with parametric rate. Unit root tests with standard asymptotic distributions are thereby justified. Estimation of the trend function is also considered. We include a Monte Carlo study of nite-sample performance.
+
+Keywords: fractional time series, fixed design non-parametric regression, non-stationary time series, unit root tests
+
+JEL Classification: C14, C22
+
+Suggested Citation:
+
+Gao, Jiti and Robinson, Peter M., Inference on Non-Stationary Time Series with Moving Mean (July 23, 2013). Available at SSRN: https://ssrn.com/abstract=2302894 or http://dx.doi.org/10.2139/ssrn.2302894
+Download This Paper
+ 
+Open PDF in Browser
+18 References
+J K Benedetti
+On the nonparametric estimation of regression functions
+Journal of the Royal Statistical Society, Series B , volume 39 , p. 248 - 253 Posted: 1977
+Crossref
+J Beran , Y Feng
+Local polynomial …tting with long memory, short memory and antipersistent errors
+Annals of the Institute of Statisitical Mathematics , volume 54 , p. 291 - 311 Posted: 2002
+S Csorgo , J Mielniczuk
+Nonparametric regression under long-range dependent normal errors
+Annals of Statistics , volume 23 , p. 1000 - 1014 Posted: 1995
+Crossref
+R Deo
+Nonparametric regression with long-memory errors
+Statistics and Probability Letters , volume 33 , p. 89 - 94 Posted: 1997
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+63
+ABSTRACT VIEWS
+1,030
+RANK
+819,493
+18 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

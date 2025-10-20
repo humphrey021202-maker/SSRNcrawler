@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Identifying Sources of Business Cycle Fluctuations in Germany 1975-1998
+
+Ruhr Economic Paper No. 68
+
+20 Pages Posted: 8 Oct 2008
+
+Oliver Holtemöller
+
+Halle Institute for Economic Research; Martin Luther University Halle-Wittenberg
+
+Torsten Schmidt
+
+Rhine-Westphalia Institute for Economic Research (RWI)
+
+Date Written: September 1, 2008
+
+Abstract
+
+In this paper, we estimate a small New Keynesian dynamic stochastic general equilibrium (DSGE) model for Germany for the period from 1975 to 1998 and use it to identify the structural shocks, which have driven the business cycle. For this purpose we apply indirect inference methods, that is we specify the parameters of the theoretical model such that simulated data mimics observed data as closely as possible. In addition to the identification of structural shocks, we uncover the unobservable output gap, which is a prominent indicator in business cycle analysis. Furthermore, we show to which extent each identified shock has contributed to the business cycle fluctuations.
+
+Keywords: Business cycle accounting, dynamic stochastic general equilibrium models, Germany, indirect inference, New Keynesian macroeconomics
+
+JEL Classification: C32, C51, E32
+
+Suggested Citation:
+
+Holtemöller, Oliver and Schmidt, Torsten, Identifying Sources of Business Cycle Fluctuations in Germany 1975-1998 (September 1, 2008). Ruhr Economic Paper No. 68, Available at SSRN: https://ssrn.com/abstract=1280926 or http://dx.doi.org/10.2139/ssrn.1280926
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+M C Burda
+Factor reallocation in eastern Germany after reunification
+American Economic Review , volume 96 , issue 2 , p. 368 - 374 Posted: 2006
+Crossref
+F Canova , J Pina
+What VAR tell us about DSGE models
+New trends in macroeconomics , p. 89 - 123 Posted: 2005
+Crossref
+V V Chari , P J Kehoe , E R Mcgrattan
+A critique of structural VARS using business cycle theory, Working Paper 631 Posted: 2005
+V V Chari , P J Kehoe , E R Mcgrattan
+Business cycle accounting
+Econometrica , volume 75 , issue 3 , p. 781 - 836 Posted: 2007
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+83
+ABSTRACT VIEWS
+1,340
+RANK
+697,815
+25 References
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+
+Macroeconomics: Prices, Business Fluctuations, & Cycles eJournal
+
+Follow
+ 
+Recommended Papers
+
+Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy
+
+By Lawrence J. Christiano, Martin Eichenbaum, ...
+
+Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy
+
+By Lawrence J. Christiano, Martin Eichenbaum, ...
+
+An Estimated Stochastic Dynamic General Equilibrium Model of the Euro Area
+
+By Frank Smets and Rafael Wouters
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

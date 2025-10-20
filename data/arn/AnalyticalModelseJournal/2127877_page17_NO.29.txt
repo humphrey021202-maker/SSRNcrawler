@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Information Censorship
+
+19 Pages Posted: 22 Aug 2012 Last revised: 28 Mar 2019
+
+Boris Ginzburg
+
+Charles III University of Madrid
+
+Date Written: March 23, 2019
+
+Abstract
+
+This paper analyses Bayesian persuasion of a privately informed receiver in a linear framework. The sender is restricted to censorship, that is, to strategies in which each state is either perfectly revealed or hidden. I develop a new approach to finding optimal censorship strategies based on direct optimisation. I also show how this approach can be used to restrict the set of optimal censorship schemes, and to analyse optimal censorship under certain classes of distributions of the receiver's type.
+
+Keywords: Bayesian persuasion; censorship
+
+JEL Classification: D82, D83
+
+Suggested Citation:
+
+Ginzburg, Boris, Optimal Information Censorship (March 23, 2019). Available at SSRN: https://ssrn.com/abstract=2127877 or http://dx.doi.org/10.2139/ssrn.2127877
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+9 Citations
+Anton Kolotilin , Tymofiy Mylovanov , Andriy Zapechelnyuk
+Censorship as Optimal Persuasion
+32 Pages · Posted: 10 Dec 2019 · Downloads: 123
+Download PDF  Add Paper to My Library
+Philipp Denter , Martin Dumav , Boris Ginzburg
+Social Connectivity, Media Bias, and Correlation Neglect
+30 Pages · Posted: 1 Jan 2020 · Last revised: 15 Jan 2020 · Downloads: 142
+Download PDF  Add Paper to My Library
+Ju Hu , Zhen Zhou
+Disclosure in Epidemics
+PBCSF-NIFR Research Paper · 53 Pages · Posted: 29 Oct 2020 · Last revised: 24 Jan 2022 · Downloads: 170
+Download PDF  Add Paper to My Library
+Anton Kolotilin , Tymofiy Mylovanov , Andriy Zapechelnyuk
+Censorship as Optimal Persuasion
+33 Pages · Posted: 22 Mar 2021 · Downloads: 66
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+185
+ABSTRACT VIEWS
+2,154
+RANK
+373,551
+9 Citations
+PlumX Metrics
+Related eJournals
+
+Public Choice: Analysis of Collective Decision-Making eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

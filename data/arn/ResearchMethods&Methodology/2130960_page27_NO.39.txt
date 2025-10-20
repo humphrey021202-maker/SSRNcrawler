@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Predictive Regression: An Improved Augmented Regression Method
+
+25th Australasian Finance and Banking Conference 2012
+
+31 Pages Posted: 17 Aug 2012
+
+Jae H. Kim
+
+affiliation not provided to SSRN
+
+Date Written: August 16, 2012
+
+Abstract
+
+This paper proposes three modifications to the augmented regression method (ARM) for bias-reduced estimation and statistical inference in the predictive regression. They are related to improved bias-correction, stationarity-correction, and matrix formulae for bias-correction and covariance matrix estimation. The improved ARM provides predictive coefficient estimators unbiased to the order of n-1; and overcomes the difficulty which arises when bias-correction renders the model non-stationary. By using the matrix formulae, the improved ARM can easily be implemented for a high order or multivariate predictive regression. From a Monte Carlo experiment, it is found that these modifications deliver substantial gain in small samples, in terms of smaller bias in the estimation of predictive coefficients and improved size properties of the associated statistical tests. As an application, the improved ARM is applied to monthly US stock return data to evaluate the predictive power of dividend yield in univariate and bivariate predictive regressions. It is found that the dividend yield shows statistically significant predictability for stock return from 1946 to 1994. However, it shows little predictive power if the data from 1995 to 2009 is used. These results are evident when the lag order of predictive regression is set to 1 or 4.
+
+Keywords: Bias-correction, Financial ratios, Return predictability, Stationarity-correction
+
+JEL Classification: C32, G12, G14
+
+Suggested Citation:
+
+Kim, Jae H., Predictive Regression: An Improved Augmented Regression Method (August 16, 2012). 25th Australasian Finance and Banking Conference 2012, Available at SSRN: https://ssrn.com/abstract=2130960 or http://dx.doi.org/10.2139/ssrn.2130960
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+Y Amihud , C M Hurvich
+Predictive regression: a reduced-bias estimation method
+Journal of Financial and Quantitative Analysis , volume 39 , p. 813 - 841 Posted: 2004
+Crossref
+Y Amihud , C M Hurvich , Y Wang
+Multiple-predictor regressions: hypothesis Testing
+Review of Financial Studies , volume 22 , p. 413 - 434 Posted: 2008
+Crossref
+Y Amihud , C M Hurvich , Y Wang
+Predictive Regression with order-p autoregressive predictors
+Journal of Empirical Finance , volume 17 , p. 513 - 525 Posted: 2010
+Crossref
+A Ang , G Bekaert
+Stock return predictability: is it there?
+Review of Financial Studies , volume 20 , p. 651 - 707 Posted: 2007
+Crossref
+Load more
+1 Citations
+Amelie Charles , Olivier Darné , Jae H. Kim
+International Stock Return Predictability: Evidence from New Statistical Tests
+33 Pages · Posted: 28 Mar 2015 · Downloads: 305
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+250
+ABSTRACT VIEWS
+1,815
+RANK
+279,521
+1 Citations
+22 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Calculating Equity Risk Premium for Russian Market: An Empirical Analysis
+
+Global Academic Society Journal: Social Science Insight, Vol. 1, No. 5, pp. 4-15, 2008
+
+12 Pages Posted: 14 Feb 2009 Last revised: 11 Mar 2012
+
+Teimuraz Vashakmadze
+
+Russian Presidential Academy of National Economy and Public Administration - Institute of Business Studies
+
+Date Written: November 14, 2008
+
+Abstract
+
+If we look at equity researchers' analytical reports in Russia we will see that Weighted Average Cost of Capital (WACC) for Russian companies is between 9% and 11%. It might be supposed that these figures are relatively low and are not showing all the risks of Russian companies.
+
+In the paper, cost of equity (COE) for the Russian market is calculated using empirical data. For COE calculation, modified Capital Asset Pricing Model (CAPM) with country risk premium (CRP) involved is used. For CRP calculation, 3 approaches are used: default spread, relative equity market standard deviations, and default spread plus relative standard deviations.
+
+In the research, 2 hypotheses are set and proved:
+
+1. Equity researchers were trying to give proof of high prices of Russian companies before financial crisis by calculating lower WACC than it was in reality;
+
+2. Risks of investing in Russian companies have not declined in spite of pushed up ratings of sovereign Eurobonds of Russia.
+
+Keywords: country risk premium, equity risk premium, cost of equity, cost of equity for Russia, CAPM, WACC
+
+JEL Classification: G12, G15
+
+Suggested Citation:
+
+Vashakmadze, Teimuraz, Calculating Equity Risk Premium for Russian Market: An Empirical Analysis (November 14, 2008). Global Academic Society Journal: Social Science Insight, Vol. 1, No. 5, pp. 4-15, 2008, Available at SSRN: https://ssrn.com/abstract=1343007
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+Aswath Damodaran
+Equity Risk Premiums (ERP): Determinants, Estimation and Implications
+Pages: 77 Posted: 1 Oct 2008 Last revised: 17 Oct 2008
+Download PDF  Add Paper to My Library
+Indexarb
+Index Insights and Market Timing Tools: Futures, Equities, Options Posted: 2008
+J R Hitchner
+Cost of Capital. Maroseika Posted: 2008
+Yahoo! Finance
+Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+495
+ABSTRACT VIEWS
+4,396
+RANK
+131,274
+4 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,150 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Audit committee features and earnings management
+
+Heliyon, e20825. DOI:10.1016/j.heliyon.2023.e20825.
+
+The University of Auckland Business School Research Paper Series
+
+14 Pages Posted: 30 Oct 2023 Last revised: 1 Nov 2023
+
+Farzaneh Nassir Zadeh
+
+Ferdowsi University of Mashhad (FUM)
+
+Davood Askarany
+
+University of Auckland Business School
+
+Ali Shirzad
+
+Ferdowsi University of Mashhad (FUM)
+
+Mahdi Faghani
+
+University Of Sistan and Baluchestan
+
+Date Written: 2023
+
+Abstract
+
+Purpose: Past studies have investigated the relationship between audit committee features and
+earnings management and reported mixed and inconclusive results. Some studies have found a
+significant relationship, while others have not. This study aims to explain these mixed results in
+the literature by dividing earning management into two groups: accrual and real earnings management (at three levels of sales, general and administrative costs, production costs and cash
+flows operation) and re-examining the relationship.
+
+Design/methodology/approach: The statistical model used in this study is a multivariate regression
+model; further, the statistical technique used to test the hypotheses is panel data.
+
+Findings: The findings show that both the audit committee members’ financial expertise and the
+audit committee’s size affect the accrual earnings management. However, the results show no
+meaningful relationship between the audit committee features and real-based earnings management at any levels of sales, general and administrative costs, production costs and cash flow operation. In addition, the findings suggest no meaningful relationship between the independence of the audit committee’s members and accrual earnings management. In other words, not separating the earning management into ‘accrual’ and ‘real’ could be the critical factor for the reported mixed and inconsistent results in the literature.
+
+Practical implications: The findings of the current study provide an important guideline for investors and stakeholders to separate ‘accrual’ from ‘real’ earning management and pay more
+attention to the importance of audit committee features to limit the opportunities of earnings
+management. Indeed, by understanding the relationship between audit committee features and
+earnings management, investors and stockholders can make appropriate decisions regarding the
+optimal choice of funds.
+
+Originality/value: Dividing the earning management into two groups (accrual versus real) and re-examining its relationship with the audit committee features is new in this paper. Identifying one
+of the possible reasons for the past mixed and inconsistent results in the literature is also an
+incremental contribution provided by this study. Full paper available at https://doi.org/10.1016/j.heliyon.2023.e20825
+
+Keywords: Audit committee features, Audit committee size, Audit committee expertise, Audit Committee’s independence, Earnings management
+
+Suggested Citation:
+
+Nassir Zadeh, Farzaneh and Askarany, Davood and Shirzad, Ali and Faghani, Mahdi, Audit committee features and earnings management ( 2023). Heliyon, e20825. DOI:10.1016/j.heliyon.2023.e20825., The University of Auckland Business School Research Paper Series, Available at SSRN: https://ssrn.com/abstract=4616817
+Download This Paper
+ 
+Open PDF in Browser
+52 References
+Z Inaam , H Khamoussi
+Audit committee effectiveness, audit quality and earnings management: a meta-analysis
+International Journal of Law and Management , volume 58 , p. 179 - 196 Posted: 2016
+M S M Al-Absy , K N I K Ismail , S Chandren
+Accounting expertise in the audit committee and earnings management
+Bus. Econ. Horiz , volume 14 , p. 451 - 476 Posted: 2018
+M S M Al-Absy , K N I Ku Ismail , S Chandren
+Audit committee chairman characteristics and earnings management: the influence of family chairman
+Asia-Pac. J. Bus. Adm , volume 11 , p. 339 - 370 Posted: 2019
+M S M Al-Absy
+Impactful women directors and earnings management , volume 9 Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+153
+ABSTRACT VIEWS
+925
+RANK
+441,693
+52 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

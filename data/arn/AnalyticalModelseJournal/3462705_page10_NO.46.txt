@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Behavioral Elasticity of Tax Revenue
+
+Journal of Legal Analysis (forthcoming)
+
+72 Pages Posted: 14 Oct 2019 Last revised: 4 Dec 2024
+
+Daniel J. Hemel
+
+New York University School of Law
+
+David A. Weisbach
+
+University of Chicago - Law School
+
+Date Written: October 1, 2019
+
+Abstract
+
+This article presents a refined measure of the efficiency consequences of tax policies and explains how this measure sheds light on a wide range of tax law debates. We build upon the “elasticity of taxable income” approach pioneered by public finance scholars over the last quarter century and a number of extensions of that approach developed in recent years. The resulting measure—the behavioral elasticity of tax revenue, or BETR—captures the change in real resources available to society caused by any marginal change in tax rates, the tax base, or tax enforcement. We illustrate the BETR’s utility by applying it to questions such as the proper treatment of mixed personal/business expenses and the optimal mix of audits, reporting requirements, and penalties. We also consider the relationship between the BETR and the distributional aims of tax law. While the BETR is a measure of efficiency and not distribution, the BETR can aid policymakers in deciding both how much to redistribute and how to accomplish distributional objectives most efficiently. We end with reflections on the implications of the BETR for the design of non-tax legal rules.
+
+Keywords: tax law, tax policy, elasticity of taxable income, behavioral elasticity of tax revenue, optimal taxation
+
+JEL Classification: K34, H20, H21, H24, H25, H26
+
+Suggested Citation:
+
+Hemel, Daniel J. and Weisbach, David, The Behavioral Elasticity of Tax Revenue (October 1, 2019). Journal of Legal Analysis (forthcoming), Available at SSRN: https://ssrn.com/abstract=3462705 or http://dx.doi.org/10.2139/ssrn.3462705
+Download This Paper
+ 
+Open PDF in Browser
+108 References
+Matthew Adler
+Benefit-Cost Analysis and Distributional Weights: An Overview
+Review of Environmental Economics and Policy , volume 10 , p. 264 - 285 Posted: 2016
+Michael Allingham , Agnar Sandmo
+Income Tax Evasion: A Theorectical Analysis
+Journal of Public Economics , p. 323 - 338 Posted: 1972
+Annette Alstadsaeter , Niels Johannesen , Gabriel Zucman
+Federal Income Tax Project: Integration of the Individual and Corporate Income Taxes, Reporter's Study of Corporate Tax Integration. Andrews, William. 1974. A Consumption-Type or Cash Flow Personal Income Tax
+Journal of Public Economics , volume 162 , p. 89 - 100 Posted: 1993
+Harvard Law Review , p. 1113 - 1189
+Load more
+5 Citations
+Daniel J. Hemel
+Redistributive Regulations and Deadweight Loss
+Journal of Benefit-Cost Analysis, vol. 15 (forthcoming 2024), NYU Law and Economics Research Paper No. 24-14 , NYU School of Law, Public Law Research Paper No. 24-18 · 31 Pages · Posted: 16 Dec 2023 · Last revised: 29 May 2024 · Downloads: 270
+Download PDF  Add Paper to My Library
+Jacob Goldin , Sebastian Köhne , Nicholas Lawson
+Optimal Income Tax Deductions for Mixed Business and Personal Expenditures
+University of Chicago, Becker Friedman Institute for Economics Working Paper No. 2024-156 · 31 Pages · Posted: 10 Dec 2024 · Downloads: 33
+Download PDF  Add Paper to My Library
+Jacob Goldin , Sebastian Köhne , Nicholas Lawson
+Optimal Income Tax Deductions for Mixed Business and Personal Expenditures
+JPUBE-D-24-01455 · 31 Pages · Posted: 18 Dec 2024 · Downloads: 11
+Download PDF  Add Paper to My Library
+Jacob Goldin , Sebastian Köhne , Nicholas Lawson
+Optimal Income Tax Deductions for Mixed Business and Personal Expenditures
+CESifo Working Paper Series No. 11561 · 32 Pages · Posted: 23 Dec 2024 · Downloads: 20
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+295
+ABSTRACT VIEWS
+2,579
+RANK
+235,846
+5 Citations
+108 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

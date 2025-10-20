@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Compensation in Competitive Labor Markets with Heterogeneous Employers and Workers
+
+IZA Discussion Paper No. 17449
+
+39 Pages Posted: 19 Nov 2024 Last revised: 7 May 2025
+
+Samuel Häfner
+
+University of St. Gallen
+
+Niklas Haeusle
+
+University of Leipzig
+
+Winfried Koeniger
+
+University of St. Gallen; CESifo (Center for Economic Studies and Ifo Institute); Center for Financial Studies (CFS); IZA Institute of Labor Economics; Swiss Finance Institute
+
+Alexander Braun
+
+University of St. Gallen
+
+There are 2 versions of this paper
+
+Abstract
+
+We develop a model in which large risk-neutral firms and individual risk-averse consumers compete to employ heterogeneous workers by posting compensation menus. Production takes time, and we analyze how screening motives interact with the desire to smooth consumption. There is a unique symmetric separating equilibrium that is also efficient. In equilibrium, the extent to which the compensation scheme delays payment until the production quality becomes known depends on whether, and to which extent, the consumers are financially constrained. We discuss how our model relates to the design of compensation schemes in current online peer-to-peer markets.
+
+Keywords: adverse selection, self selection, peer-to-peer markets, labor markets, capital market imperfections
+
+JEL Classification: D15, D82, D86, E24, J33, M52
+
+Suggested Citation:
+
+Häfner, Samuel and Haeusle, Niklas and Koeniger, Winfried and Braun, Alexander, Optimal Compensation in Competitive Labor Markets with Heterogeneous Employers and Workers. IZA Discussion Paper No. 17449, Available at SSRN: https://ssrn.com/abstract=5025526
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+D Autor
+Wiring the labor market
+Journal of Economic Perspectives , volume 15 , issue 1 , p. 25 - 40 Posted: 2001
+G S Becker , G J Stigler
+Law enforcement, malfeasance, and the compensation of enforcers
+Journal of Legal Studies , volume 3 , p. 1 - 18 Posted: 1974
+G Bertola , S Hochguertel , W Koeniger
+Dealer pricing of consumer credit
+International Economic Review , volume 46 , issue 4 , p. 1103 - 1142 Posted: 2005
+A Blinder , A B Krueger
+Alternative measures of offshorability: a survey approach
+Journal of Labor Economics , volume 31 , issue 2 , p. 97 - S128 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+57
+ABSTRACT VIEWS
+417
+RANK
+713,291
+40 References
+PlumX Metrics
+Related eJournals
+
+IZA Institute of Labor Economics Discussion Paper Series
+
+Follow
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

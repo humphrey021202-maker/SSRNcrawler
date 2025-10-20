@@ -1,0 +1,117 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Leveraging Predictive Analytics to Strengthen Financial Oversight in Government Expenditure: A Case for Public Sector Reform
+
+17 Pages Posted: 30 Sep 2025 Last revised: 8 Oct 2025
+
+Herbert Otim
+
+American University
+
+Mercy Elizabeth Arinda
+
+American University
+
+Frank Appiah-Oware
+
+American University
+
+Date Written: September 29, 2025
+
+Abstract
+
+Governments increasingly seek to strengthen transparency and accountability in public financial management, yet traditional, retrospective audits struggle to surface irregularities at the speed and scale of modern procurement. This study develops and applies a practical analytics framework to U.S. Department of Commerce (DOC) procurement transactions for FY2025, demonstrating how unsupervised learning can triage large award corpora into tractable, audit-salient subsets. Using 16,581 transactions from the USAspending Award Data Archive, we engineer features aligned to established risk theories: approval lag (solicitation-to-action timing), vendor history (prior awards and concentration), award magnitude (obligations, base-and-options, potential ceilings), and award structure/competition (IDV relationships, pricing type, and extent competed)—and apply Isolation Forest (contamination = 1%). The model flags 166 atypical transactions (≈1%) characterized by (i) extreme potential award ceilings (median ≈ $8B), (ii) order-dependent pricing under Indefinite Delivery Vehicles (IDVs), and (iii) competition pathways reported as “full and open after exclusion of sources.” Sensitivity analysis shows anomalies are highly threshold-dependent (0–2% contamination yields 0–≈330 flags), underscoring the need to calibrate cutoffs to investigative capacity. While findings are not determinations of non-compliance, they delineate priority cases for follow-up testing (e.g., ceiling-to-obligation reconciliation, order-level pricing documentation, justification memos for exclusions). The framework translates directly to oversight practice via score-band triage, dashboarding, and model governance (documentation, fairness checks, periodic recalibration). Limitations include the absence of ground-truth labels and potential measurement error in administrative data; future work should integrate supervised models (e.g., logistic/ensemble learners) using adjudicated outcomes and employ explainability techniques to attribute anomaly drivers. Overall, results illustrate that predictive analytics can complement audits, reduce detection lag, and inform evidence-based policy within public procurement systems.
+
+Keywords: Predictive analytics, anomaly detection, procurement oversight, government expenditure, financial accountability, public sector reform
+
+Suggested Citation:
+
+Otim, Herbert and Otim, Herbert and Arinda, Mercy Elizabeth and Appiah-Oware, Frank, Leveraging Predictive Analytics to Strengthen Financial Oversight in Government Expenditure: A Case for Public Sector Reform (September 29, 2025). Available at SSRN: https://ssrn.com/abstract=5548702 or http://dx.doi.org/10.2139/ssrn.5548702
+Download This Paper
+ 
+Open PDF in Browser
+26 References
+M Jans , M Alles , M A Vasarhelyi
+A field study on the use of process mining of event logs as an analytical procedure in auditing
+The Accounting Review , volume 89 , issue 5 , p. 1751 - 1773 Posted: 2014
+M J Kranacher , R A Riley , J T Wells
+Forensic Accounting and Fraud Examination Posted: 2019
+H R Rao , S Sridhar
+Exploring the role of analytics in government accountability
+Journal of Public Administration Research and Theory , volume 28 , issue 1 , p. 1 - 14 Posted: 2018
+Posted: 2022
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+21
+ABSTRACT VIEWS
+97
+26 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

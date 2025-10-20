@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Mist Over a Meadow: Tax Designation Effects on Compliance
+
+CERGE-EI Working Paper Series No. 725
+
+43 Pages Posted: 8 Apr 2022
+
+Lubomír Cingl
+
+University of Economics, Prague
+
+Tomas Lichard
+
+Charles University in Prague - CERGE-EI, a joint workplace of Charles University and the Economics Institute of the Czech Academy of Sciences; Prague University of Economics and Business
+
+Tomáš Miklánek
+
+Prague University of Economics and Business
+
+Date Written: March 1, 2022
+
+Abstract
+
+Tax designation has been a popular attribute of the tax plans in a rising number of countries, yet evidence of its effects on tax compliance remains scarce. We conduct an online experiment with 830 Czech taxpayers who are self-employed or regular employees. Our approach mimics the actual tax designation mechanism: it allows subjects to express their preferences for how a part of their taxes is used by redirecting some of the money to a non-governmental organization (NGO). We exogenously vary the presence of the tax designation mechanism, the possibility to choose the recipient NGO from a list, the tax rate, and the use of tax revenues. We find no consistent significant effects of the tax designation mechanism on overall compliance, though for employees, we do find a small effect on the probability of them being fully compliant. This result complements previous findings of experiments with students, who, like employees, also do not personally file their tax returns. Our results imply that the tax designation mechanism does not encourage higher compliance among taxpayers with the greatest opportunities for tax evasion.
+
+Keywords: tax-enforcement, tax compliance, online tax experiment, tax designation
+
+JEL Classification: C91, C93, D02
+
+Suggested Citation:
+
+Cingl, Lubomír and Lichard, Tomas and Miklánek, Tomáš, Mist Over a Meadow: Tax Designation Effects on Compliance (March 1, 2022). CERGE-EI Working Paper Series No. 725, Available at SSRN: https://ssrn.com/abstract=4068830 or http://dx.doi.org/10.2139/ssrn.4068830
+Download This Paper
+ 
+Open PDF in Browser
+41 References
+L Abbiati , A Antinyan , L Corazzini
+Are taxes beautiful? A survey experiment on information, tax choice and perceived adequacy of the tax burden (Discussion Paper Posted: 2014
+M G Allingham , A Sandmo
+Income tax evasion: A theoretical analysis
+Journal of Public Economics , volume 1 , issue 3-4 , p. 323 - 338 Posted: 1972
+J Alm
+What motivates tax compliance
+Journal of Economic Surveys , volume 33 , issue 2 , p. 353 - 388 Posted: 2019
+J Alm , K M Bloomquist , M Mckee
+On the external validity of laboratory tax compliance experiments
+Economic Inquiry , volume 53 , issue 2 , p. 1170 - 1186 Posted: 2015
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+68
+ABSTRACT VIEWS
+512
+RANK
+785,592
+41 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

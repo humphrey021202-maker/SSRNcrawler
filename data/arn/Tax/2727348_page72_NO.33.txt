@@ -1,0 +1,107 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analysts’ Earnings Surprise Components and Future Earnings Performance
+
+41 Pages Posted: 6 Feb 2016 Last revised: 12 Mar 2016
+
+Michael Calegari
+
+Santa Clara University - Accounting
+
+Michael Eames
+
+Santa Clara University - Accounting
+
+Date Written: February 2016
+
+Abstract
+
+Our paper examines the association between components of analysts’ earnings surprises and future earnings. We decompose the analysts’ earnings surprise into its revenue, pretax margin, pretax income, and tax components. After controlling for current period earnings and discretionary accruals, we find that each component is positively associated with future earnings. When we form portfolios based on the sign of the earnings surprise and its components, we find that the future earnings of firms that meet revenue, pretax income, and net income expectations is significantly greater than firms that only meet net income expectations. Supplemental analysis shows that the significant association between future earnings and the revenue and pretax income components of the earnings surprise persists for at least three years. However, the association between the tax surprise and future earnings dissipates after one year. Overall, our evidence shows that decomposing earnings surprises into its components can assist investors in identifying firms that are associated with better future performance.
+
+Keywords: Earnings Surprise, Analyst Forecast Errors, Earnings Persistence, Taxes, Revenue Surprises, Earnings Management
+
+JEL Classification: H25, M41, M43
+
+Suggested Citation:
+
+Calegari, Michael and Eames, Michael, Analysts’ Earnings Surprise Components and Future Earnings Performance (February 2016). Available at SSRN: https://ssrn.com/abstract=2727348 or http://dx.doi.org/10.2139/ssrn.2727348
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+266
+ABSTRACT VIEWS
+1,759
+RANK
+262,460
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

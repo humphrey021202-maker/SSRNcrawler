@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Earnings Announcements in China: Overnight-Intraday Disparity
+
+Journal of Corporate Finance, Forthcoming
+
+59 Pages Posted: 25 Sep 2023
+
+Junhao Liu
+
+University of Melbourne - Faculty of Business and Economics
+
+Ole-Kristian Hope
+
+University of Toronto - Rotman School of Management
+
+Danqi Hu
+
+Peking University - Guanghua School of Management
+
+There are 2 versions of this paper
+
+Date Written: September 3, 2023
+
+Abstract
+
+Based on a unique arrangement of trading and disclosure times around earnings announcements in the Chinese stock market, we provide evidence of a striking overnight-intraday disparity in terms of the reaction to earnings news. Specifically, we find that the overnight period exhibits a strong and consistent reaction to earnings announcements, whereas the intraday period trades against both the earnings news and the prior market reaction during the overnight period. In addition, we show that abnormal overnight returns on earnings announcement days exhibit strong predictability for future stock returns, consistent with the overnight returns containing value-relevant signals. In contrast, we observe no return predictability for abnormal intraday returns on earnings announcement days, which as a result, also undermines the return predictability of abnormal daily returns. We propose possible explanations for the overnight-intraday disparity. We conclude that the differences in trading mechanisms between the two periods as well as in investor composition likely drive the phenomenon.
+
+Keywords: Earnings News, Earnings Announcements, Overnight Returns, Intraday Returns, China
+
+JEL Classification: G10, G30, G31, G32, G34, G38, M10, M40, M41, M48
+
+Suggested Citation:
+
+Liu, Junhao and Hope, Ole-Kristian and Hu, Danqi, Earnings Announcements in China: Overnight-Intraday Disparity (September 3, 2023). Journal of Corporate Finance, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4560482
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+Y Amihud , H Mendelson
+Trading mechanisms and stock returns: An empirical investigation
+The Journal of Finance , volume 42 , issue 3 , p. 533 - 553 Posted: 1987
+A Ang , R J Hodrick , Y Xing , X Zhang
+High idiosyncratic volatility and low returns: International and further US evidence
+Journal of Financial Economics , volume 91 , issue 1 , p. 1 - 23 Posted: 2009
+T G Bali , D Hirshleifer , L Peng , Y Tang
+Attention, social interaction, and investor attraction to lottery stocks Posted: 2021
+R Ball , P Brown
+An empirical evaluation of accounting income numbers
+Journal of Accounting Research , volume 6 , issue 2 , p. 159 - 178 Posted: 1968
+Load more
+2 Citations
+Jiaqi Guo , Xing Han , Kai Li , Youwei Li
+The Nexus of Overnight Trend and Asset Prices in China
+73 Pages · Posted: 19 Feb 2021 · Last revised: 25 Nov 2024 · Downloads: 39
+Download PDF  Add Paper to My Library
+Ming Gu , Yi Hu , Zhitao Xiong
+Dissecting the Lottery-Like Anomaly: Evidence from China
+49 Pages · Posted: 1 May 2023 · Last revised: 28 Sep 2023 · Downloads: 299
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+152
+ABSTRACT VIEWS
+809
+RANK
+140,484
+2 Citations
+46 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

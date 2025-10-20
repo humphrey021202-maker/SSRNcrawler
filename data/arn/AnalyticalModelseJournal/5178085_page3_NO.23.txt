@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Disclosure Volume
+
+41 Pages Posted: 1 Apr 2025
+
+Ke Feng
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+Jack Douglas Stecher
+
+University of Alberta - Department of Accounting, Operations & Information Systems
+
+Date Written: February 05, 2025
+
+Abstract
+
+We show that a manager can manipulate shareholder voting purely through the choice of disclosure volume, without needing any informational advantage or ability to design or bias her disclosures. If shareholders costlessly process signals, the manager's task becomes a straightforward sample-theoretic problem. With costly information processing, the manager takes advantage of the fact that shareholders cannot pool their information in equilibrium. Instead, shareholders condition their beliefs on their votes being pivotal. This conditioning requires each shareholder to make assumptions about the other shareholders' signals, which in turn depends on the amount of publicly available information that the manager provides.
+
+Keywords: Disclosure, Disclosure Volume, Information Design, Voting, Bayesian Persuasion
+
+JEL Classification: D72, D82, D83, G34, M41
+
+Suggested Citation:
+
+Feng, Ke and Stecher, Jack Douglas, Disclosure Volume (February 05, 2025). Available at SSRN: https://ssrn.com/abstract=5178085 or http://dx.doi.org/10.2139/ssrn.5178085
+Download This Paper
+ 
+Open PDF in Browser
+25 References
+M Alvo , P Cabilio
+Calculation of hypergeometric probabilities using Chebyshev polynomials
+The American Statistician , volume 54 , issue 2 , p. 141 - 144 Posted: 2000
+S Baiman , R E Verrecchia
+The relation among capital markets, financial disclosure, production efficiency, and insider trading
+Journal of Accounting Research , volume 34 , issue 1 , p. 1 - 22 Posted: 1996
+D Bergemann , S Morris
+Information design: A unified perspective
+Journal of Economic Literature , volume 57 , issue 1 , p. 44 - 95 Posted: 2019
+A Beyer , D A Cohen , T Z Lys , B R Walther
+The financial reporting environment: Review of the recent literature
+Journal of Accounting and Economics , volume 50 , issue 2-3 , p. 293 - 343 Posted: 2010
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+87
+ABSTRACT VIEWS
+502
+RANK
+677,550
+25 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,134 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Temporary Filing Extensions, Reporting Quality and the Allocation of Public Resources during a Crisis
+
+59 Pages Posted: 28 Jun 2023 Last revised: 24 May 2025
+
+Bruno Buchetti
+
+University of Padua - Department of Economics and Management ; European Central Bank (ECB)
+
+Emmanuel T. De George
+
+University of Miami - Department of Accounting
+
+Mircea Epure
+
+Universitat Pompeu Fabra (UPF) - Department of Economics and Business; Barcelona School of Economics; UPF Barcelona School of Management
+
+Amedeo Pugliese
+
+University of Padova - Department of Economics and Management
+
+Date Written: June 23, 2023
+
+Abstract
+
+This study examines how extending financial reporting deadlines during economic crises affects corporate transparency and the allocation of public resources. We exploit an unexpected regulatory extension granted by the Italian government for FY2019 filings at the onset of the COVID-19 pandemic. Leveraging a novel and comprehensive dataset covering a large and representative sample of privately held Italian SMEs, we provide analyses of how delayed filings influenced firms' access to public guaranteed loans (PGLs) and subsidies. Our findings suggest that firms taking advantage of the extended filing deadline (“late filers”) secured more PGLs and subsidies by strategically managing their FY2019 financial statements to meet subsidy eligibility criteria. This behavior is particularly pronounced among late filers in industries heavily reliant on government relief, and late filers whose pre-COVID-19 cost structures incentivized accounting manipulation. Additionally, we observe that firms exploiting the filing extension displayed similar or even weaker subsequent growth relative to early filers and firms that did not utilize the extension. Our results suggest that crisis-induced reporting deadline extensions can compromise financial transparency and potentially result in suboptimal allocation of public resources.
+
+Keywords: timeliness, accounting policy, government subsidies, crisis, guaranteed loans
+
+JEL Classification: M48, G21, G38
+
+Suggested Citation:
+
+Buchetti, Bruno and De George, Emmanuel T. and Epure, Mircea and Pugliese, Amedeo, Temporary Filing Extensions, Reporting Quality and the Allocation of Public Resources during a Crisis (June 23, 2023). Available at SSRN: https://ssrn.com/abstract=4489498 or http://dx.doi.org/10.2139/ssrn.4489498
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+V V Acharya , S Steffen
+The risk of being a fallen angel and the corporate dash for cash in the midst of COVID
+The Review of Corporate Finance Studies , volume 9 , issue 3 , p. 430 - 471 Posted: 2020
+F Allen , E Carletti
+The role of liquidity in financial crises
+Jackson Hole Economic Policy Symposium Posted: 2008
+D M Armstrong , S Glaeser , J L Hoopes
+Measuring firm exposure to government agencies
+Journal of Accounting and Economics Posted: 2024
+U Atz , M Bonacchi , I Guttman
+Going Dark: Incentives for Private Firms' Strategic Nondisclosure
+SSRN 4325834 Posted: 2023
+Load more
+1 Citations
+Massimiliano Bonacchi , Christine A. Botosan , Dhananjay Nanda , Amedeo Pugliese
+Governance mechanisms, accounting regulation, and corporate disclosure in the aftermath of Covid‐19: Novel research questions and methodological opportunities
+Corporate Governance: An International Review , volume 31 , issue 5 , p. 786 Posted: 2023
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+218
+ABSTRACT VIEWS
+1,837
+RANK
+319,999
+1 Citations
+45 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

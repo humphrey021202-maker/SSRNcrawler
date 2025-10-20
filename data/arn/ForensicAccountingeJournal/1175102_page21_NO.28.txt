@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Financial and Market Effects of the SEC's Accounting and Auditing Enforcement Releases
+
+Journal of Accounting Research Vol. 29, pp. 107-142, Supplement 1991
+
+Abstracted in the Journal of Economic Literature, September 1992
+
+36 Pages Posted: 31 Jul 2008 Last revised: 28 Nov 2018
+
+Ehsan H. Feroz
+
+University of Washington Tacoma, Milgard School of Business-Accounting ; University of Illinois at Urbana-Champaign; Government of the United States of America - US GAO Advisory Council; University of Minnesota Duluth, Labovitz School of Business-Department of Accounting; University of Minnesota, Carlson School of Management-Department of Accounting; Baruch College, City University of New York; The State University of New York at Buffalo
+
+Kyung Joo Park
+
+Ajou University - Department of Business Administration
+
+Victor Pastena
+
+State University of New York at Buffalo (deceased)
+
+Date Written: 1991
+
+Abstract
+
+This paper was nominated for the American Accounting Association's Seminal Contributions to the Accounting Literature Award. As the first published precursor to the Sarbanes-Oxley Act of 2002, Section 704: Study of Enforcement Actions, it explores three questions related to the SEC's accounting enforcement program: (1) what types of accounting and auditing problems motivate enforcement actions, (2) what are the consequences of investigations on targets' financial statements, managers, and auditors, and (3) how do investors and other market agents view the SEC's actions? The SEC enforcement program, which consists of investigations and subsequent injunctive actions or administrative proceedings against offending registrants and auditors, is designed "to concentrate on particular problem areas and to anticipate emerging problems" (SEC, 1989, p.1). The potential for SEC enforcement action provides incentives for corporate officers and independent CPAs to avoid unacceptable practices whose "effective prosecution is essential to preserving the integrity of the disclosure system" (SEC, 1989, p.81).
+
+The SEC summarizes its accounting-based enforcement actions in the Accounting and Auditing Enforcement Releases (AAERs). We examined 224 AAERs, issued between April 1982 and April 1989, describing the results of investigations against 188 firms. In the sample period, the SEC most often pursued overstatements of accounts receivable and inventories resulting from premature revenue recognition and delayed write-off, respectively. These two accounts make up 70% of the investigations. The income effects of these financial disclosure violations average more than 50% of reported income. We find that the disclosure of these reporting violations changed expectations of targets' future earnings as reflected in financial analysts' reduced earnings estimated after the disclosures.
+
+Disclosures and investigations of reporting violations have other consequences. Typically, targets' managers settle enforcement actions by consenting to an injunction that prohibits future violations of securities laws. Subsequently, more than 72% of the enforcement targets fired or forced the resignations of top managers and 81% were sued by their shareholders. In 42% of our sample, the SEC also censured the target's auditor; criticisms and penalties were more likely for smaller audit firms.
+
+In exploring how market agents react to the enforcement process, we focus on market returns around disclosures of alleged reporting violations, investigations, and final settlements. Disclosures of reporting violations are associated with average two-day abnormal returns of -13%; the magnitude of these returns is highly correlated with the earnings impact of the disputed accounting. We also observe abnormal returns of -6% at disclosures of investigations, even when the accounting errors were announced earlier. These negative returns imply substantial incentives for managers to avoid these investigation. We do not observe any changes in targets, share values at the investigations' final settlement.
+
+Section 2 describes the SEC enforcement process. Section 3 documents the effects of the SEC investigations and settlements on firms' financial statement, managers, and auditors. Section 4 addresses the stock market's reactions to the disclosure of reporting violations, investigations, and settlements. Section 5 provides conclusions and policy implications.
+
+Keywords: SEC; Financial Accounting; Forensics; SOX2002; Deception; Finance; Audit; Capital Markets; Market Efficiency, Market Microstructure, Financial Economics; Political Economy; Economics of Regulation; Earnings Management; Fraud; Accounting and Economics; Corporate Governance; Law, Financial Maleficence
+
+JEL Classification: G10, G14,G15, G18, G28, G32, G30, G38, L51, M49, M40, M41, M49, K1, K22, K23, L51, N20, P16
+
+Suggested Citation:
+
+Feroz, Ehsan H. and Park, Kyung Joo and Pastena, Victor, The Financial and Market Effects of the SEC's Accounting and Auditing Enforcement Releases (1991). Journal of Accounting Research Vol. 29, pp. 107-142, Supplement 1991, Abstracted in the Journal of Economic Literature, September 1992, Available at SSRN: https://ssrn.com/abstract=1175102
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+2,072
+ABSTRACT VIEWS
+11,294
+RANK
+17,597
+95 Citations
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+ 
+Recommended Papers
+
+Detecting Earnings Management: A New Approach
+
+By Patricia Dechow, Amy P. Hutton, ...
+
+A Review of the Earnings Management Literature and its Implications for Standard Setting
+
+By Paul M. Healy and James Michael Wahlen
+
+Errors in Estimating Accruals: Implications for Empirical Research
+
+By Daniel W. Collins and Paul Hribar
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

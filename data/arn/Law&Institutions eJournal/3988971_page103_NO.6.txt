@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Institutional Dual Holdings and Expected Crash Risk: Evidence from Mergers between Lenders and Equity Holders
+
+Posted: 20 Dec 2021 Last revised: 21 Dec 2021
+
+Bing Li
+
+City University of Hong Kong (CityU)
+
+Zhenbin Liu
+
+Hong Kong Baptist University
+
+Jeffrey Pittman
+
+Memorial University ; Virginia Tech
+
+Shijie Yang
+
+Southern University of Science and Technology
+
+Date Written: December 19, 2021
+
+Abstract
+
+Exploiting mergers between lenders and shareholders of the same firm as an exogenous shock to dual ownership, we examine the role that dual holdings (i.e., simultaneous equity and debt holding) play in shaping firms’ ex ante expected stock price crash risk evident in the options implied volatility smirk. Given their privileged access to information as lenders and their double stakes, dual holders have both an information advantage and stronger monitoring incentives relative to other investors. We find that firms’ ex ante expected crash risk subsides after the shareholder-creditor merger. Consistent with expectations, we find strong, robust evidence that the negative impact of mergers on firms’ expected crash risk rises when the stakes that the institutional investors or lenders hold in the treatment firms are larger. We also find that expected crash risk decreases more subsequent to mergers in firms suffering worse asymmetry evident in fewer corporate disclosures (e.g., management earnings forecasts and 8-K filings) and more diverse analyst earnings forecasts. The impact is also generally concentrated in firms with lax internal or external monitoring mechanisms (evident in less independent boards and audit committees, poor internal controls, the absence of specialist auditors, less extensive analyst coverage, a lower takeover threat, and lower institutional ownership). Additionally, we show that our main finding is unlikely to be driven by indirect effects through shifts in financing or payout policies documented in prior research. Our results suggest that option market participants perceive the dual holding as a strong indication of the low expected crash risk of the underlying stock.
+
+Keywords: Shareholder-creditor conflicts; Dual holding; Expected crash risk; Bad news hoarding; Monitoring.
+
+JEL Classification: G12; G21; G23; G32; G34
+
+Suggested Citation:
+
+Li, Bing and Liu, Zhenbin and Pittman, Jeffrey A. and Yang, Shijie, Institutional Dual Holdings and Expected Crash Risk: Evidence from Mergers between Lenders and Equity Holders (December 19, 2021). Available at SSRN: https://ssrn.com/abstract=3988971
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,168
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Corporate Finance: Capital Structure & Payout Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

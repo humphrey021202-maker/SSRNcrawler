@@ -1,0 +1,101 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Strategic Informed Trades, Diversification, and Expected Returns
+
+Accounting Review, Forthcoming
+
+Posted: 27 Feb 2012 Last revised: 7 Jan 2015
+
+Judson Caskey
+
+Purdue University - Daniels School of Business
+
+John S. Hughes
+
+University of California at Los Angeles
+
+Jun Liu
+
+University of California, San Diego (UCSD) - Rady School of Management
+
+Date Written: December 7, 2014
+
+Abstract
+
+We examine how strategic trade affects expected returns in a large economy. In our model, both a monopolist (strategic) informed trader and uninformed traders consider the impact of their demands on prices. In contrast to settings with price-taking traders, private information never eliminates a priced risk, and can lead to higher risk premiums. Also unlike settings with price-taking informed traders, risk premiums decrease in response to an increase in liquidity-motivated trades in diversified portfolios. These differing effects arise because a privately informed strategic trader conceals her trades by taking small positions relative to the magnitude of noise trades. Although prices partially reveal her information and reduce uncertainty, a concomitant decrease in her risk absorption dominates and leads to higher risk premiums. Similar to settings with price-taking traders, private information affects expected returns only via factor loadings and risk premiums on existing payoff risks – it introduces no new priced risks and factor loadings (betas) explain all cross-sectional differences in expected returns.
+
+Suggested Citation:
+
+Caskey, Judson and Hughes, John S. and Liu, Jun, Strategic Informed Trades, Diversification, and Expected Returns (December 7, 2014). Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=2011895 or http://dx.doi.org/10.2139/ssrn.2011895
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+2,498
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

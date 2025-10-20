@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax risk detection for gig platform enterprises: Integration of event knowledge graph and interpretable ensemble models
+
+29 Pages Posted: 6 Oct 2025
+
+Fuwei Zhang
+
+Hefei University of Technology
+
+Wei Cao
+
+Hefei University of Technology
+
+Weidong Zhu
+
+Hefei University of Technology
+
+Chao Zhang
+
+Hefei University of Technology - School of Management
+
+Abstract
+
+This research aims to builds an appropriate model for assessing tax risk in gig platform enterprises in China. A novel “TR-EKG-ML-IT” modeling framework, which integrates event knowledge graph and ensemble models, is developed to achieve this goal based on the newly constructed tax risk indicator system. A tax risk event knowledge graph (TR-EKG) is initially created to investigate the intricate and hidden relationships among diverse attributes and their consequences. Then the 10 most relevant features from TR-EKG are utilized in diverse ensemble learning techniques. Furthermore, two methods for addressing data imbalance are employed. An examination of a real tax dataset from H and X cities demonstrates that graph reasoning attributes significantly enhance the efficiency of tax risk detection, particularly by substantially decreasing Type I error. The TR-EKG-Staking-ADASYN model exhibits superior performance from both technical and statistical perspectives. Moreover, SHAP-based interpretability analysis indicates that invoice-related factors, such as the percentage of invoices issued at night and the timing of the initial tax payment, significantly improve risk identification. The case study corroborates these conclusions. Our findings provide tax regulatory authorities with critical insights into the tax risk detection of gig platform enterprises by identifying the important features derived from graph reasoning.
+
+Keywords: Tax risk detection, Chinese gig platform enterprise, Event knowledge graph, Graph reasoning, Ensemble Learning, SHAP Analysis
+
+Suggested Citation:
+
+Zhang, Fuwei and Cao, Wei and Zhu, Weidong and Zhang, Chao, Tax risk detection for gig platform enterprises: Integration of event knowledge graph and interpretable ensemble models. Available at SSRN: https://ssrn.com/abstract=5571113 or http://dx.doi.org/10.2139/ssrn.5571113
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+G Burtch , S Carnahan , B N Greenwood
+Can You Gig It? An Empirical Examination of the Gig Economy and Entrepreneurial Activity
+Management Science , volume 64 , p. 5497 - 5520 Posted: 2018
+S Chen , Z Liu , W Cai
+Digital transformation and tax compliance in chinese industrial sector
+International Review of Financial Analysis , volume 102 Posted: 2025
+S Vallas , J B Schor
+What do platforms do? understanding the gig economy
+Annual Review of Sociology , volume 46 , p. 273 - 294 Posted: 2020
+A J Wood , M Graham , V Lehdonvirta , I Hjorth
+Good gig, bad gig: autonomy and algorithmic control in the global gig economy
+Work, employment and society , volume 33 , p. 56 - 75 Posted: 2019
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+10
+ABSTRACT VIEWS
+43
+37 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Political Economy: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

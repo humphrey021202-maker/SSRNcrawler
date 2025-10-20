@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Deferred tax asset revaluations, costly information processing, and bank deposits: Evidence from the Tax Cuts and Jobs Act
+
+Management Science (forthcoming)
+
+61 Pages Posted: 6 Nov 2023 Last revised: 22 Dec 2023
+
+Ulf Mohrmann
+
+NHH Norwegian School of Economics - Department of Accounting, Auditing and Law
+
+Jan Riepe
+
+Universität Paderborn
+
+Date Written: October 9, 2023
+
+Abstract
+
+We examine how information processing costs affect the extent to which depositors use the details in banks’ income statements. Depositors have a unique cost-benefit structure because they are non-professional users of financial information and have high information processing costs. At the same time, they benefit from acting quickly because failing banks make payments on a first-come, first-serve basis. This makes it likely that they will react to a prominent summary measure like the reported net income without adjusting for any risk-irrelevant information included in the line items. In our empirical analysis, we investigate depositors’ behavior as driven by the mechanical revaluations of deferred tax assets due to the 2017 Tax Cuts and Jobs Act. Using a difference-in-difference design, we find deposit withdrawals because of this risk-irrelevant information. In cross-sectional tests, we show that the withdrawals are stronger if the information acquisition costs are low, and the information integration costs are high. Overall, our results show that information processing costs are important for understanding depositors’ reactions to accounting information and can lead to deposit flows that cannot be explained by new risk-relevant information.
+
+Keywords: financial accounting in banks, tax accruals, information processing costs, retail depositors
+
+JEL Classification: G21, G28, M41
+
+Suggested Citation:
+
+Mohrmann, Ulf and Riepe, Jan, Deferred tax asset revaluations, costly information processing, and bank deposits: Evidence from the Tax Cuts and Jobs Act (October 9, 2023). Management Science (forthcoming), Available at SSRN: https://ssrn.com/abstract=4596392
+Download This Paper
+ 
+Open PDF in Browser
+83 References
+V V Acharya , N Mora
+A Crisis of Banks as Liquidity Providers
+The Journal of Finance , volume 70 , issue 1 , p. 1 - 43 Posted: 2015
+V V Acharya , S G Ryan
+Banks' Financial Reporting and Financial System Stability
+Journal of Accounting Research , volume 54 , issue 2 , p. 277 - 340 Posted: 2016
+B A Badertscher , J J Burks , P D Easton
+The market reaction to bank regulatory reports
+Review Accounting Studies , volume 23 , issue 2 , p. 686 - 731 Posted: 2018
+H Baer , E Brewer
+Uninsured deposits as a source of market discipline. Some new evidence , p. 23 - 31 Posted: 1986
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+254
+ABSTRACT VIEWS
+967
+RANK
+275,235
+2 Citations
+83 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

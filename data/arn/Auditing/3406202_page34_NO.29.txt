@@ -1,0 +1,103 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Accrual Anomaly: Accrual Originations, Accrual Reversals, and Resolution of Uncertainty
+
+Contemporary Accounting Research, Forthcoming
+
+Posted: 24 Jun 2019
+
+Tatiana Fedyk
+
+University of San Francisco
+
+Zvi Singer
+
+HEC Montreal
+
+Theodore Sougiannis
+
+University of Illinois at Urbana-Champaign - Department of Accountancy
+
+Date Written: May 14, 2019
+
+Abstract
+
+We combine a fundamental property of accruals and a behavioral phenomenon to provide an explanation for the accrual anomaly. The fundamental property is: accruals that originate must subsequently reverse. The behavioral phenomenon is: individuals tend to underestimate the variance of noisy signals in various domains of decision-making. We argue that originating accruals represent a noisier signal than reversing accruals because the uncertainty of whether originating accruals will eventually convert into cash is high, while there is no uncertainty regarding reversing accruals. If investors underestimate the variance of originating accruals but understand reversing accruals, then originating accruals will be mispriced while reversing accruals will not. To test this prediction, we first develop and empirically validate a novel method for ex-ante detecting accrual originations and their reversals. Then we document that investors face increased uncertainty when accruals originate and decreased uncertainty when accruals reverse, and we provide evidence that only originating accruals are mispriced. We further demonstrate that our findings can be useful for improving the accrual-based trading strategy by ex-ante detecting and removing accrual reversals from extreme accrual portfolios. Overall, we provide a behavioral explanation for the accrual anomaly that is consistent with the mispricing of originating accruals only.
+
+Keywords: Accrual Originations, Accrual Reversals, Investor Biases, Uncertainty Resolution
+
+Suggested Citation:
+
+Fedyk, Tatiana and Singer, Zvi and Sougiannis, Theodore, The Accrual Anomaly: Accrual Originations, Accrual Reversals, and Resolution of Uncertainty (May 14, 2019). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=3406202
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+991
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

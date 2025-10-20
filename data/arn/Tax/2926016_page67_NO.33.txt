@@ -1,0 +1,106 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Does the Income Tax Cause Parents to Spend Too Much Time with Their Children?: Rethinking Mirrlees
+
+Loyola Law School, Los Angeles Legal Studies Research Paper No. 2017-11
+
+21 Pages Posted: 2 Mar 2017
+
+Theodore P. Seto
+
+Loyola Law School Los Angeles
+
+Date Written: March 1, 2017
+
+Abstract
+
+In 1971, James Mirrlees published “An Exploration in the Theory of Optimum Income Taxation,” one of the most influential tax papers ever written. Unpacked, Mirrlees’ claim can be restated as follows: Assume that our undistorted decisions about how to allocate our time between paid and unpaid activities are welfare-maximizing. If so, any distortion of those decisions by the tax system is welfare-reducing. Unless the supply of labor is inelastic or income effects predominate, taxing income from labor will cause taxpayers to spend less time engaged in paid activities and more time in unpaid activities than would be welfare-maximizing. Because of the declining marginal utility of money, redistribution from high-income to low-income individuals is generally welfare-enhancing. Nevertheless, at some point the welfare losses from taxing labor income to effect redistribution outweigh the welfare gains produced by redistribution. This, in turn, (1) limits the overall amount of welfare-enhancing redistribution we can effect by taxing income from labor and (2) requires flat or declining marginal tax rates on such income.
+
+Stated in the abstract, the claim is plausible enough to have persuaded important segments of the tax and tax economic academy. In the intervening 40 years, however, empirical evidence has come to suggest that the claim is strongest when applied to parents, especially mothers, with young children – the one economically significant group that consistently demonstrates elastic responses to labor taxation. Survey data establishes that a very large portion of the unpaid time spent by American parents of children age 12 or younger – both fathers and mothers – is spent on the care of their own children. If taxes cause parents to spend more time on unpaid activities, therefore, they almost certainly cause parents to spend more time with their children. Any such behavioral distortion is, by hypothesis, welfare-reducing. As to parents, therefore, optimal tax theory’s claim is that progressive taxation causes parents to spend too much time with their children. At the very least, optimal tax theorists must be comfortable with the possibility that this is effectively their claim.
+
+But is the claim true? This paper approaches the question from within the standard preference-satisfaction utilitarian paradigm, using standard tax economic arguments – the perspective most sympathetic to the claim. Specifically, it focuses on two of the many assumptions Mirrlees used to make his mathematics tractable. First, he assumed that utility is absolute, not relative – that our utility curves do not depend on how much anyone else has. Second, he assumed that supply curves for consumption goods are similarly fixed and exogenous. In the case of parents, especially mothers, with young children, both assumptions are probably false. But if this is so, insufficiently progressive taxes may cause parents to spend too little time with their children. And if so, Mirrlees’ computations cannot be taken to be even provisionally correct, even within the welfarist paradigm. The paper then turns to the problem of GDP maximization – a goal regularly confused with that of welfare maximization. GDP maximizers rely heavily on the empirical literature Mirrlees’ paper triggered to argue that high top marginal rates trigger labor-leisure substitution. They then assume, generally without further evidence, that the substitution of leisure for labor by high-income taxpayers reduces GDP growth. Happily, the Reagan tax cuts tested this assumption nicely – advocates promised that those cuts would boost GDP growth. Contrary to predictions, however, average U.S. GDP growth declined in the decades after the Reagan cuts. The reasons are unclear. What this does mean, however, is that the Mirrlees literature cannot by itself be read to support the proposition that high marginal rates reduce GDP growth. And this, in turn, means that the constraints it imposes on real-world policymaking are much less significant than is commonly assumed.
+
+JEL Classification: D31, D63, H21, K34
+
+Suggested Citation:
+
+Seto, Theodore P., Does the Income Tax Cause Parents to Spend Too Much Time with Their Children?: Rethinking Mirrlees (March 1, 2017). Loyola Law School, Los Angeles Legal Studies Research Paper No. 2017-11, Available at SSRN: https://ssrn.com/abstract=2926016 or http://dx.doi.org/10.2139/ssrn.2926016
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+168
+ABSTRACT VIEWS
+2,252
+RANK
+407,466
+PlumX Metrics
+Related eJournals
+
+Loyola Law School Los Angeles Legal Studies Research Paper Series
+
+Follow
+
+History of Economics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

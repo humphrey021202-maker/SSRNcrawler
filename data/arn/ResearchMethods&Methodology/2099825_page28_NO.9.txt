@@ -1,0 +1,124 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Information Environment and Cost of Capital
+
+36 Pages Posted: 3 Jul 2012 Last revised: 24 Jul 2012
+
+Orie E. Barron
+
+Pennsylvania State University
+
+Xuguang Simon Sheng
+
+American University - Department of Economics
+
+Maya Thevenot
+
+Florida Atlantic University
+
+Date Written: July 23, 2012
+
+Abstract
+
+In empirical tests guided by recent theory (e.g., Hughes, Liu and Liu 2007; and Lambert, Leuz and Verrecchia 2011), we examine the joint effects of information precision, information asymmetry and the level of market competition on firms’ cost of equity capital. Consistent with theory, we find that average information precision and the level of market competition reduce the positive effect of information asymmetry but do not eliminate it. Besides examining various aspects of the environment jointly, our study is also unique in that we follow the suggestions of Sheng and Thevenot (2012) for modifying the Barron, Kim, Lim and Stevens (1998) measures of information asymmetry and precision. We find that cost of equity capital varies greatly with the modified measures of information asymmetry and average information precision. For example, our regression estimates suggest that information asymmetry and average information precision are more important than equity beta and firm size in determining firms’ cost of capital, and that such a substantial effect from information asymmetry and information precision is not apparent using unmodified BKLS measures.
+
+Keywords: cost of capital, information quality, information asymmetry, ST uncertainty, BKLS
+
+JEL Classification: M41, G14, G12, D82
+
+Suggested Citation:
+
+Barron, Orie E. and Sheng, Xuguang Simon and Thevenot, Maya, The Information Environment and Cost of Capital (July 23, 2012). Available at SSRN: https://ssrn.com/abstract=2099825 or http://dx.doi.org/10.2139/ssrn.2099825
+Download This Paper
+ 
+Open PDF in Browser
+22 References
+B ; J Akins , R S Ng; , Verdi
+Investor Competition over Information and the Pricing of Information Asymmetry
+The Accounting Review , volume 87 , p. 35 - 58 Posted: 2011
+Crossref
+C S.; J E Armstrong , Core
+Crossref
+D J Taylor; , R E Verrecchia
+When Does Information Asymmetry Affect the Cost of Capital?
+Journal of Accounting Research , volume 49 , p. 1 - 39 Posted: 2011
+O E.; O Barron , C Kim; S , D E Lim; , Stevens
+Using analysts' forecasts to measure properties of analysts' information environment
+The Accounting Review , volume 73 , p. 421 - 433 Posted: 1998
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+353
+ABSTRACT VIEWS
+2,334
+RANK
+193,883
+22 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

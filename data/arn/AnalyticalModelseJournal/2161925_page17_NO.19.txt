@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Optimal Transfer Pricing: Competition Mode, Demand and Strategic Characteristics, and Production Technology
+
+Forthcoming in the Global Journal of Economics, March 2013, Vol. 02, No. 01, (doi: 10.1142/S2251361213500031)
+
+26 Pages Posted: 17 Oct 2012 Last revised: 10 Sep 2016
+
+Winston W. Chang
+
+University at Buffalo - Department of Economics
+
+Han Eol Ryu
+
+Korea Institute for Industrial Economics and Trade
+
+Date Written: September 14, 2013
+
+Abstract
+
+The objective of this paper is to find the key factors that affect a firm's optimal transfer pricing policy. It examines two minimalist vertical models -- one consisting of a vertically integrated firm monopolizing an intermediate input for its own and rival's downstream division, and the other comprising two vertically integrated firms competing in a final goods market. Four modes of competition are considered -- Cournot, Bertrand, Stackelberg quantity and price. The paper shows that, in addition to the usual tax considerations, the optimal transfer pricing policy depends on competition mode, demand and strategic characteristics, vertical structure, and production technology. For example, under the same demand structure and competition mode, the two models can yield diametrically opposite outcomes; within a given vertical model, different competition modes may yield different optimal strategies; and within a given competition mode, the four pairings of ordinary substitutes/complements and strategic substitutes/complements can also produce quite different results. The general structure analyzed in this paper can be applied to other transfer pricing models involving uncertainty, cost sharing, asymmetric information, etc. that have been mainly studied in the literature under specific competition modes and demand and strategic characteristics.
+
+Keywords: optimal transfer pricing, vertically related models, multinational firms, international taxation, strategic competition, demand characteristics
+
+JEL Classification: D43, D49, L13, L22, M21
+
+Suggested Citation:
+
+Chang, Winston W. and Ryu, Han Eol, Optimal Transfer Pricing: Competition Mode, Demand and Strategic Characteristics, and Production Technology (September 14, 2013). Forthcoming in the Global Journal of Economics, March 2013, Vol. 02, No. 01, (doi: 10.1142/S2251361213500031), Available at SSRN: https://ssrn.com/abstract=2161925 or http://dx.doi.org/10.2139/ssrn.2161925
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+Michael Alles , Srikant Datar
+Strategic transfer pricing
+Management Science , volume 44 , issue 4 , p. 451 - 461 Posted: 1998
+Crossref
+Tim Baldenius , Nahum D Melumad , Stefan Reichelstein
+Integrating managerial and tax objectives in transfer pricing
+The Accounting Review , volume 79 , issue 3 , p. 591 - 615
+Crossref
+Giacomo Bonanno , John Vickers
+Vertical separation
+Journal of Industrial Economics , volume 36 , issue 3 , p. 257 - 265 Posted: 1988
+Crossref
+Eric Bond
+Optimal transfer pricing when tax rates differ
+Southern Economic Journal , volume 47 , issue 1 , p. 191 - 200 Posted: 1980
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+285
+ABSTRACT VIEWS
+2,849
+RANK
+244,478
+31 References
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

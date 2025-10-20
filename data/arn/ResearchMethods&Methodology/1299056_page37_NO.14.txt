@@ -1,0 +1,145 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Aggregate Economy Risk and Company Failure: An Examination of UK Quoted Firms
+
+35 Pages Posted: 14 Nov 2008 Last revised: 15 Jul 2012
+
+John Hunter
+
+Brunel University London - Department of Economics and Finance
+
+Natalia Isachenkova
+
+Kingston Business School
+
+Date Written: March 17, 2006
+
+Abstract
+
+Considerable attention has been directed in the recent finance and economics literature to issues concerning the effects on company failure risk of changes in the macroeconomic environment. This paper examines the accounting ratio-based and macroeconomic determinants of insolvency exit of UK large industrials during the early 1990s with a view to improve understanding of company failure risk. Failure determinants are revealed from estimates based on a cross-section of 369 quoted firms, which is followed by an assessment of predictive performance based on a series of time-to-failure-specific logit functions, as is typical in the literature. Within the traditional for cross-sectional data studies framework, a more complete model of failure risk is developed by adding to a set of traditional financial statement-based inputs, the two variables capturing aggregate economy risk - one-year lagged, unanticipated changes in the nominal interest rate and in the real exchange rate. Alternative estimates of prediction error are obtained, first, by analytically adjusting the apparent error rate for the downward bias and, second, by generating holdout predictions. More complete, augmented with the two macroeconomic variables models demonstrate improved out of estimation sample classificatory accuracy at risk horizons ranging from one to four years prior to failure, with the results being quite robust across a wide range of cut-off probability values, for both failing and non-failed firms.
+
+Although in terms of the individual ratio significance and overall predictive accuracy, the findings of the present study may not be directly comparable with the evidence from prior research due to differing data sets and model specifications, the results are intuitively appealing. First, the results affirm the important explanatory role of liquidity, gearing, and profitability in the company failure process. Second, the findings for the failure probability appear to demonstrate that shocks from unanticipated changes in interest and exchange rates may matter as much as the underlying changes in firm-specific characteristics of liquidity, gearing, and profitability. Obtained empirical determinants suggest that during the 1990s recession, shifts in the real exchange rate and rises in the nominal interest rate, were associated with a higher propensity of industrial company to exit via insolvency, thus indicating links to a loss in competitiveness and to the effects of high gearing. The results provide policy implications for reducing the company sector vulnerability to financial distress and failure while highlighting that changes in macroeconomic conditions should be an important ingredient of possible extensions of company failure prediction models.
+
+Keywords: Company Failure, Aggregate Economy Risk, Unexpected Changes in Interest and Exchange
+
+JEL Classification: G33
+
+Suggested Citation:
+
+Hunter, John and Isachenkova, Natalia, Aggregate Economy Risk and Company Failure: An Examination of UK Quoted Firms (March 17, 2006). Available at SSRN: https://ssrn.com/abstract=1299056 or http://dx.doi.org/10.2139/ssrn.1299056
+Download This Paper
+ 
+Open PDF in Browser
+56 References
+P Aghion , P Bolton
+An 'Incomplete Contracts' Approach to Financial Contracting
+Review of Economic Studies , volume 59 , p. 473 - 94 Posted: 1992
+Crossref
+Y Alici
+Neural Networks in Corporate Failure Prediction: The UK Experience Posted: 1995
+E I Altman
+Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy
+Journal of Finance , volume 23 , issue 4 , p. 589 - 610 Posted: 1968
+Crossref
+E I Altman , R Haldeman , P Narayanan
+ZETA Analysis: A New Model to Identify Bankruptcy Risk of Corporations
+Journal of Banking and Finance , p. 29 - 54 Posted: 1977-06
+Crossref
+Load more
+1 Citations
+John Hunter , Natalia Isachenkova
+Aggregate economy risk and company failure: An examination of UK quoted firms in the early 1990s
+Journal of Policy Modeling , volume 28 , issue 8 , p. 911 Posted: 2006
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+159
+ABSTRACT VIEWS
+2,027
+RANK
+427,290
+1 Citations
+56 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Macroeconomics: Monetary & Fiscal Policies eJournal
+
+Follow
+ 
+Recommended Papers
+
+Company Accounts-Based Modelling of Business Failures and the Implications for Financial Stability
+
+By Philip Bunn and Victoria Redwood
+
+Macro Economic Instability and Business Exit: Determinants of Failures and Acquisitions of Large UK Firms
+
+By Arnab Bhattacharjee, Chris Higson, ...
+
+The Cross Sectional Dynamics of the Us Business Cycle: 1950-1999
+
+By Chris Higson, Sean Holly, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

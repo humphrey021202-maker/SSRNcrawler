@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Hierarchical Bayesian Models in Accounting Research
+
+Indian School of Business WP
+
+28 Pages Posted: 12 May 2023
+
+Bullipe Chintha
+
+Singapore Institute of Technology
+
+Sanjay Kallapur
+
+Indian School of Business
+
+Date Written: May 10, 2023
+
+Abstract
+
+Accounting parameters such as earnings response coefficients (ERC) are generally heterogeneous across firms. When panel data is available, the parameters are typically estimated using OLS with either pooled data which ignores parameter heterogeneity, or using firm-specific observations which tends to give noisy estimates. An alternative is to use Bayesian hierarchical models which preserve parameter heterogeneity but have the advantage of being less noisy than firm-specific OLS. Their advantage stems from the use of data about all other firms to form an informative prior about each firm’s parameter. In this paper, using a sample of 301 firms we compare the results from three Bayesian hierarchical models to OLS-based firm-specific ERCs. Our results show that the Bayesian models produce ERCs that reduce the number of negative ERCs from 48 to 6 and lower mean squared error in a hold-out sample by more than 90%. By enabling the estimation of less noisy firm-specific parameters, these models allow researchers to gain deeper insights into firm-level differences and their determinants. We show the formulation and estimation of these models step by step, with a discussion of the Stata commands involved. The Stata as well as R code is available online. We conclude by discussing the potential for such models to be applied to other contexts in accounting research.
+
+Keywords: Hierarchical Bayesian models, Earnings Response Coefficients, Empirical priors
+
+JEL Classification: M41, C11
+
+Suggested Citation:
+
+Chintha, Bullipe R. and Kallapur, Sanjay, Hierarchical Bayesian Models in Accounting Research (May 10, 2023). Indian School of Business WP, Available at SSRN: https://ssrn.com/abstract=4444627 or http://dx.doi.org/10.2139/ssrn.4444627
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+120
+ABSTRACT VIEWS
+817
+RANK
+538,134
+1 Citations
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

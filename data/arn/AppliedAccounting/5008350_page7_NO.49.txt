@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Trust in Artificial Intelligence - the Role of Occupation and Explanations
+
+54 Pages Posted: 3 Jan 2025
+
+Sonja Gabriele Prinz
+
+Heinrich-Heine-University Düsseldorf
+
+Barbara E. Weißenberger
+
+Bucerius Law School; Heinrich Heine University Duesseldorf
+
+Peter Kotzian
+
+Heinrich Heine University Dusseldorf; Technical University of Darmstadt
+
+Date Written: February 28, 2024
+
+Abstract
+
+The utilization of artificial intelligence (AI) varies considerably across domains. This is due to the differing technical conditions for AI application within each domain, as well as the characteristics of the individuals working within them. Among these features are personal experience with AI, situational background and occupational logics. The argument put forth is that different occupational logics, which are linked to but not identical with being trained for and active in particular occupations, account for the usage of AIbased tools in different economic and societal domains. The domains differ significantly in the necessity for justification and explanation of decisions made, the reliance on and reliability of information, and their logic of efficiency. For instance, considerations of performance and efficiency are irrelevant for lawyers, as all that matters are arguments supporting a certain position. The validity of available information is questionable. In contrast, for managers leading a firm, the information may be uncertain but not deliberately falsified, and the performance of a tool is sufficient for its acceptance. The present study operationalizes occupational logics and investigates their effect on trust and the usage of AI-based advice. Our findings indicate that occupational groups do not influence trust behavior.
+
+Keywords: Trust in Artificial Intelligence, Occupational Effects, Professional Setting of AI Usage, Decision-making, Origin, Performance, Explanations
+
+Suggested Citation:
+
+Prinz, Sonja Gabriele and Weißenberger, Barbara E. and Kotzian, Peter, Trust in Artificial Intelligence - the Role of Occupation and Explanations (February 28, 2024). Available at SSRN: https://ssrn.com/abstract=5008350 or http://dx.doi.org/10.2139/ssrn.5008350
+Download This Paper
+ 
+Open PDF in Browser
+76 References
+A Adadi , M Berrada
+Peeking inside the black-box: a survey on explainable artificial intelligence (XAI)
+IEEE Access , volume 6 , p. 52138 - 52160 Posted: 2018
+A Agrawal , J S Gans , A Goldfarb
+Artificial intelligence: the ambiguous labor market impact of automating prediction
+Journal of Economic Perspectives , volume 33 , issue 2 , p. 31 - 50 Posted: 2019
+V Alexander , C Blinder , P J Zak
+Why trust an algorithm? Performance, cognition, and neurophysiology
+Computers in Human Behavior , volume 89 , p. 279 - 288 Posted: 2018
+K Ashley , K Branting , H Margolis , C R Sunstein
+Legal Reasoning and Artificial Intelligence: How Computers" Think
+Like Lawyers. University of Chicago Law School Roundtable , volume 8 , issue 1 , p. 1 - 28 Posted: 2001
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+78
+ABSTRACT VIEWS
+548
+RANK
+724,701
+76 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

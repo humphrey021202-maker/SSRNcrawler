@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Outliers and Robust Inference in Archival Accounting Research
+
+82 Pages Posted: 14 Jul 2021 Last revised: 3 May 2023
+
+Joachim Gassen
+
+Humboldt University of Berlin - School of Business and Economics; TRR 266 Accounting for Transparency
+
+David Veenman
+
+University of Amsterdam - Amsterdam Business School (ABS)
+
+Date Written: May 1, 2023
+
+Abstract
+
+Note: a new version of this paper is available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975569 ("Estimation Precision and Robust Inference in Archival Research").
+
+
+
+Archival variable distributions are frequently skewed or heavy-tailed as a result of the scaling of variables and the use of heterogeneous samples of firms. We illustrate that even in large samples, such non-normality in commonly used variables makes linear regression estimates based on OLS imprecise (i.e., inefficient) and results in low statistical power. We next show that "robust regression" estimators can limit this efficiency loss, but that their performance varies substantially across estimator type and the choice of "normal efficiency." We also find that robust regression estimators often materially reduce sample size, similar to variable-by-variable truncation, and that the non-random downweighting of observations identified as outliers can materially change coefficient estimates and their interpretation. Lastly, we show that a common approach to cluster standard errors with robust estimators leads to inflated t-statistics and potentially incorrect inferences. We provide guidance on how researchers can improve their understanding of the effects of non-normal variable distributions and how to improve the inferences drawn from robust regression estimators.
+
+Keywords: Skewness, non-normality, OLS, efficiency, outliers, robust regression, MM-estimation, scaling, leverage
+
+JEL Classification: C13, C15, C18, M41
+
+Suggested Citation:
+
+Gassen, Joachim and Veenman, David, Outliers and Robust Inference in Archival Accounting Research (May 1, 2023). Available at SSRN: https://ssrn.com/abstract=3880942 or http://dx.doi.org/10.2139/ssrn.3880942
+Download This Paper
+ 
+Open PDF in Browser
+86 References
+J Adams , D Hayunga , S Mansi , D Reeb , V Verardi
+Identifying and Treating Outliers in Finance
+Financial Management , volume 48 , issue 2 , p. 345 - 384 Posted: 2019
+R Andersen
+Modern Methods for Robust Regression Posted: 2008
+F J Anscombe
+Graphs in Statistical Analysis
+The American Statistician , volume 27 , issue 1 , p. 17 - 21 Posted: 1973
+M Aquaro , P Čížek
+One-Step Robust Estimation of Fixed-Effects Panel Data Models
+Computational Statistics & Data Analysis , volume 57 , issue 1 , p. 536 - 548 Posted: 2013
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+808
+ABSTRACT VIEWS
+4,163
+RANK
+70,075
+4 Citations
+86 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

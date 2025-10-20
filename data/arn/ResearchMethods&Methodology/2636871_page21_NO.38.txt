@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Expected Loss and Impact of Risk: Backtesting Parameter-Based Expected Loss in a Basel II Framework
+
+Journal of Risk Model Validation 7(3), 59-84, Fall 2013, Incisive Media
+
+28 Pages Posted: 29 Jul 2015 Last revised: 13 Aug 2015
+
+Wolfgang Reitgruber
+
+Erste Group Bank AG
+
+Date Written: September 30, 2013
+
+Abstract
+
+The dependency structure of credit risk parameters is a key driver for capital consumption and receives regulatory and scientific attention. The impact of parameter imperfections on the quality of expected loss (EL) in the sense of a fair, unbiased estimate of risk expenses, however, is barely covered. So far there are no established backtesting procedures for EL that quantify its impact with regards to pricing or risk-adjusted profitability measures. In this paper, a practically oriented, top-down approach to assessing the quality of EL by backtesting with a properly defined risk measure is introduced. In a first step, the concept of risk expenses ("Cost of Risk") has to be extended beyond the classical provisioning view, toward a more adequate capital consumption approach ("Impact of Risk"). On this basis, the difference between parameter-based EL and actually reported Impact of Risk is decomposed into its key components. The proposed method will deepen the understanding of the practical properties of EL, reconcile the EL with a clearly defined and observable risk measure and provide a link between upcoming IFRS 9 accounting standards for loan loss provisioning and the regulatory capital requirements under the internal ratings-based approach (IRBA). The method is robust irrespective of whether parameters are simple, expert-based values or highly predictive and perfectly calibrated IRBA-compliant methods, as long as the parameters and default identification procedures are stable.
+
+The attached pdf is aligned with respect to numbering of formulas, lemmas etc to the published version to simplify referencing. The terminology got slightly updated to provide a more consistent basis for further empirical research: PL/NPL Backtest is replaced by PL/NPL Dashboard.
+
+Note: The final version is available only through the journal, a final draft is uploaded on SSRN.
+
+Keywords: Credit risk, PD, EAD, LGD, Expected Loss, Backtesting, Basel II, IRBA, Impairment, Shortfall, Loan Loss Provisions, Validation, Impact of Risk(c), IoR(c), PL Backtest, NPL Backtest, IFRS 9
+
+JEL Classification: M40, M41, C10, C60
+
+Suggested Citation:
+
+Reitgruber, Wolfgang, Expected Loss and Impact of Risk: Backtesting Parameter-Based Expected Loss in a Basel II Framework (September 30, 2013). Journal of Risk Model Validation 7(3), 59-84, Fall 2013, Incisive Media, Available at SSRN: https://ssrn.com/abstract=2636871
+Download This Paper
+ 
+Open PDF in Browser
+30 References
+E I Altman , B Brady , A Resti , A Sironi
+The link between default and recovery rates: theory, empirical evidence, and implications
+Journal of Business , volume 78 , issue 6 , p. 2203 - 2228 Posted: 2005
+Crossref
+E I Altman
+Default Recovery Rates and LGD in Credit Risk Modeling and Practice: An Updated Review of the Literature and Empirical Evidence Posted: 2006
+Crossref
+Basel Committee
+Exposure Draft (ED/2013/3) on Financial Instruments: Expected Credit Losses Posted: 2013
+T Benzschawel
+Credit Risk Modelling. Facts, Theory and Applications. Risk Books, a Division of Incisive Media Investments Ltd Posted: 2012
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+734
+ABSTRACT VIEWS
+2,752
+RANK
+79,630
+30 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometric Modeling: Capital Markets - Risk eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

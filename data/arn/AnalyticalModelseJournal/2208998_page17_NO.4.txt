@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Relation between Forecast Precision and Trading Profitability of Financial Analysts
+
+Journal of Financial Markets, 2014, 20, 39-60
+
+26 Pages Posted: 31 Jan 2013 Last revised: 1 Jul 2017
+
+Carlo Marinelli
+
+University of Bonn - Institut fuer Angewandte Mathematik
+
+Alex Weissensteiner
+
+Free University of Bolzano Bozen
+
+Date Written: May 16, 2013
+
+Abstract
+
+We analyze the relation between earning forecast accuracy and expected profitability of financial analysts. Modeling forecast errors with a multivariate Gaussian distribution, a complete characterization of the payoff of each analyst is provided. In particular, closed-form expressions for the probability density function, for the expectation, and, more generally, for moments of all orders are obtained. Our analysis shows that the relationship between forecast precision and trading profitability need not to be monotonic, and that, for any analyst, the impact on his expected payoff of the correlation between his forecasts and those of the other market participants depends on the accuracy of his signals. Furthermore, our model accommodates a unique full-communication equilibrium.
+
+Keywords: financial analyst, forecast accuracy, recommendation profitability, full communication equilibrium
+
+JEL Classification: M4, G14
+
+Suggested Citation:
+
+Marinelli, Carlo and Weissensteiner, Alex, On the Relation between Forecast Precision and Trading Profitability of Financial Analysts (May 16, 2013). Journal of Financial Markets, 2014, 20, 39-60, Available at SSRN: https://ssrn.com/abstract=2208998 or http://dx.doi.org/10.2139/ssrn.2208998
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+B Barber , R Lehavy , M Mcnichols , B Trueman
+Can Investors Profit from the Prophets? Security Analyst Recommendations and Stock Returns
+Journal of Finance , volume 56 , issue 2 , p. 531 - 563 Posted: 2001
+Crossref
+O E Barron , O Kim , S C Lim , D E Stevens
+Using Analysts' Forecasts to Measure Properties of Analysts' Information Environment
+The Accounting Review , volume 73 , issue 4 , p. 421 - 433 Posted: 1998
+F Black , R Litterman
+Global Portfolio Optimization
+Financial Analysts Journal , volume 48 , issue 5 , p. 28 - 43 Posted: 1992
+Crossref
+M T Bradshaw
+How Do Analysts Use Their Earnings Forecasts in Generating Stock Recommendations?
+The Accounting Review , volume 79 , issue 1 , p. 25 - 50 Posted: 2004
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+187
+ABSTRACT VIEWS
+1,448
+RANK
+369,949
+1 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

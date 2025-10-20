@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Institutional Ownership and Tail Risk Comovement in Banks
+
+Management Science, 0[10.1287/mnsc.2023.02522]
+
+Rotman School of Management Working Paper No. 3420516
+
+University of Miami Business School Research Paper No. 3420516
+
+62 Pages Posted: 16 Jul 2019 Last revised: 7 Aug 2025
+
+Emmanuel T. De George
+
+University of Miami - Department of Accounting
+
+Nayana Reiter
+
+University of Toronto - Rotman School of Management
+
+Christina Synn
+
+American University
+
+Christopher D. Williams
+
+University of Michigan, Stephen M. Ross School of Business
+
+Date Written: December 13, 2024
+
+Abstract
+
+Recent regulatory discussions concentrate on the role institutional investors play in the financial
+sector. We investigate the determinants and consequences of institutional ownership (IO) in banks.
+Our findings suggest that institutional owners invest more in banks that have a lower proportion of
+consumer and real estate loans, are less opaque, have a lower level of insider control, are larger, older,
+more capitalized and have lower stock return volatility. In contrast, banks’ funding characteristics,
+loan risk appetite and connectedness with other banks do not seem to be relevant factors in
+institutional investors’ decisions to hold a bank. We further investigate whether IO is related to tail
+risk comovement and changes in bank operations. We find robust evidence suggesting that IO is
+positively associated with a bank’s future tail risk and that the association between IO and tail risk is
+significantly higher for banks than it is for non-financial firms. We also find this relationship is
+stronger for banks during economic downturns. Correspondingly, we find that there is a greater
+reduction in lending growth and greater increases in opacity and risk taking during recessionary
+periods for banks with higher levels of IO. Our results suggest that institutions with low monitoring
+incentives in particular play a role in increasing tail risk comovement and in the deleterious real
+effects of IO. Lastly, we find evidence suggesting that disclosure may play a role in mitigating the
+relationship between IO and tail risk comovement.
+
+Keywords: Institutional Ownership, Tail-Risk Comovement, Banks, Disclosure
+
+Suggested Citation:
+
+De George, Emmanuel T. and Reiter, Nayana and Synn, Christina and Williams, Christopher D., Institutional Ownership and Tail Risk Comovement in Banks (December 13, 2024). Management Science, 0[10.1287/mnsc.2023.02522], Rotman School of Management Working Paper No. 3420516, University of Miami Business School Research Paper No. 3420516, Available at SSRN: https://ssrn.com/abstract=3420516 or http://dx.doi.org/10.1287/mnsc.2023.02522
+Download This Paper
+ 
+Open PDF in Browser
+77 References
+V V Acharya , L H Pedersen , T Philippon , M Richardson
+Measuring systemic risk
+Review of Financial Studies , volume 30 , p. 2 - 47 Posted: 2017
+T Adrian , M Brunnermeier
+CoVaR
+American Economic Review , volume 106 , p. 1705 - 1741 Posted: 2016
+A Almazan , J C Hartzell , L T Starks
+Active institutional shareholders and costs of monitoring: Evidence from executive compensation
+Financial Management , volume 34 , p. 5 - 34 Posted: 2008
+K Anadu , M Kruttli , P Mccabe , E Osambela
+The shift from active to passive investing: Potential risks to financial stability? Working paper, Federal Reserve Board Posted: 2020
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+327
+ABSTRACT VIEWS
+2,924
+RANK
+210,853
+77 References
+PlumX Metrics
+Related eJournals
+
+University of Miami Herbert Business School Research Paper Series
+
+Follow
+
+University of Toronto - Rotman School of Management Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

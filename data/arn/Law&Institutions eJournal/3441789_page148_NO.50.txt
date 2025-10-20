@@ -1,0 +1,146 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact of Audit Committee Information Technology Expertise on the Reliability and Timeliness of Financial Reporting
+
+59 Pages Posted: 30 Aug 2019
+
+Musaib Ashraf
+
+Michigan State University - Eli Broad College of Business
+
+Paul N. Michas
+
+University of Arizona - Eller College of Management
+
+Dan Russomanno
+
+Russomanno Research
+
+There are 2 versions of this paper
+
+Date Written: August 22, 2019
+
+Abstract
+
+We examine whether information technology expertise on audit committees impacts the reliability and timeliness of financial reporting. We find a reduction in the likelihood of material restatements and information technology-related material weaknesses (which account for 55 percent of all reported material weaknesses), and more timely earnings announcements at firms with audit committee information technology expertise. These findings are robust to controlling for a firm’s other information technology attributes as well as when using entropy balanced samples, and we mitigate endogeneity concerns with evidence that our findings hold in a sub-sample of firms that all possess overall high-quality information technology. Finally, a difference-in-differences analysis, inclusion of firm fixed effects, and a falsification test largely support our assertion that the quality of financial reporting is significantly improved by the presence of an audit committee information technology expert.
+
+Keywords: audit committee, board of directors, corporate governance, information technology, financial reporting reliability, financial reporting timeliness
+
+JEL Classification: M41, M15
+
+Suggested Citation:
+
+Ashraf, Musaib and Michas, Paul N. and Russomanno, Dan, The Impact of Audit Committee Information Technology Expertise on the Reliability and Timeliness of Financial Reporting (August 22, 2019). Available at SSRN: https://ssrn.com/abstract=3441789 or http://dx.doi.org/10.2139/ssrn.3441789
+Download This Paper
+ 
+Open PDF in Browser
+90 References
+L J Abbott , Y Park , S Parker
+The effects of audit committee activity and independence on corporate fraud
+Managerial Finance , volume 26 , issue 11 , p. 55 - 68 Posted: 2000
+Crossref
+L Abbott , S Parker , G F Peters
+Audit Committee Characteristics and Restatements. Auditing: A Journal of Practice & Theory , volume 23 , issue 1 , p. 69 - 87 Posted: 2004
+J L Abernathy , B Beyer , A Masli , C Stefaniak
+The association between characteristics of audit committee accounting experts, audit committee chairs, and financial reporting timeliness
+Advances in Accounting , volume 30 , issue 2 , p. 283 - 297 Posted: 2014
+Crossref
+A Albrecht , E Mauldin , N Newton
+Do Auditors Recognize the Potential Dark Side of Executives' Accounting Competence?
+The Accounting Review: Forthcoming Posted: 2018
+Crossref
+Load more
+40 Citations
+Adrienne Rhodes , Dan Russomanno
+Executive Accountants and the Reliability of Financial Reporting
+Management Science, forthcoming · 56 Pages · Posted: 19 Aug 2017 · Last revised: 28 Apr 2020 · Downloads: 307
+Download PDF  Add Paper to My Library
+Musaib Ashraf , Preeti Choudhary , Jacob Jaggi
+Are Audit Committees Overloaded? Evidence From The Effect Of Financial Risk Management Oversight On Financial Reporting Quality
+Management Science, Forthcoming; doi: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.00360 · 60 Pages · Posted: 13 Aug 2019 · Last revised: 24 Feb 2024 · Downloads: 639
+Download PDF  Add Paper to My Library
+Dain C. Donelson , Elizabeth Tori , Christopher Yust
+The Effects of Independent Director Litigation Risk
+Contemporary Accounting Research, Vol. 39 (2), pp. 982-1022, Summer 2022 · 61 Pages · Posted: 12 Nov 2019 · Last revised: 12 Aug 2022 · Downloads: 288
+Download PDF  Add Paper to My Library
+Joel Behrend , Marc Eulerich , David A. Wood
+The Intellectual Structure of Audit Committee Research: A Bibliometric Analysis (1969 – 2020)
+71 Pages · Posted: 29 Jan 2020 · Last revised: 15 Aug 2022 · Downloads: 463
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,547
+ABSTRACT VIEWS
+3,700
+RANK
+27,711
+40 Citations
+90 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

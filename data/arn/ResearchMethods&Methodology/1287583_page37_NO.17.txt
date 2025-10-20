@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Dynamic Tax Depreciation Strategies
+
+CentER Discussion Paper Series No. 2008-87
+
+29 Pages Posted: 21 Oct 2008
+
+Anja De Waegenaere
+
+Tilburg University - Department of Econometrics & OR, Netspar, and CentER
+
+Jacco L. Wielhouwer
+
+Vrije Universiteit Amsterdam
+
+Date Written: October 13, 2008
+
+Abstract
+
+The tax depreciation decision potentially has significant impact on the profitability of firms and projects. Indeed, the depreciation method chosen for tax purposes affects the timing of tax payments, and, as a consequence, it also affects the after-tax net present value of investment projects. Previous research focusses on the optimal choice of depreciation method under the assumption that the depreciation method has to be set ex ante and cannot be changed during the useful life of the asset. In reality however, changes are allowed under certain circumstances. This paper develops a dynamic programming approach to determine the firm's optimal choice with regard to the initial depreciation method, and whether changes of method are proposed in later periods.
+
+Keywords: Tax depreciation, net present value, dynamic programming
+
+JEL Classification: C61, M41, G31, H25
+
+Suggested Citation:
+
+De Waegenaere, Anja M.B. and Wielhouwer, Jacco L., Dynamic Tax Depreciation Strategies (October 13, 2008). CentER Discussion Paper Series No. 2008-87, Available at SSRN: https://ssrn.com/abstract=1287583 or http://dx.doi.org/10.2139/ssrn.1287583
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+V I Arkin , A D Slastnikov
+The effect of depreciation allowances on the timing of investment and government tax revenue
+Annals of Operations Research , volume 151 , p. 307 - 323 Posted: 2007
+Crossref
+M Berg , A De Waegenaere , J L Wielhouwer
+Optimal Tax Depreciation with Uncertain Future Cash-Flows
+European Journal of Operational Research , volume 132 , p. 185 - 197 Posted: 2001
+Crossref
+M Berg , G Moore
+The Choice of Depreciation Methods Under Uncertainty
+Decision Sciences , volume 20 , p. 643 - 654 Posted: 1989
+Crossref
+S Davidson , D Drake
+Capital Budgeting and the 'Best' Tax Depreciation Method
+Journal of Business , volume 34 , p. 442 - 452 Posted: 1961
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+138
+ABSTRACT VIEWS
+1,914
+RANK
+481,162
+13 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

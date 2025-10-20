@@ -1,0 +1,112 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Audit Fee Implications of Mandatory CSR
+
+Posted: 17 Apr 2025 Last revised: 22 Mar 2025
+
+Anup Nandialath
+
+University of Wisconsin - La Crosse - Department of Management
+
+Partha S. Mohapatra
+
+California State University, Sacramento - Department of Accounting
+
+GS Raina
+
+University of Texas of Permian Basin
+
+Date Written: January 06, 2025
+
+Abstract
+
+We examine the implications of mandatory corporate social responsibility (CSR) regulations on audit fees, using the implementation of Section 135 of India's Companies Act, 2013, as a quasi-natural experiment. The regulation, which mandated firms meeting specific financial thresholds to allocate 2% of their average net profits to CSR activities, provides a unique opportunity to examine the compliance-driven costs of CSR. Employing Differencein-Differences (DiD), Instrumental Variable (IV), and Regression Discontinuity (RD) designs, this study identifies a significant audit fee premium for firms impacted by the regulatory change. A key contribution of this study is the differentiation between the effects of mandatory and voluntary CSR on audit outcomes. While voluntary CSR often signals governance strength and reduces audit risk, mandatory CSR imposes external compliance obligations that heighten audit complexity and engagement risk. Firms already engaged in CSR before the regulation experienced no significant fee changes, suggesting the audit fee premium is driven by newly compliant firms potentially facing greater compliance and agency costs. This study extends the literature by integrating stakeholder and agency theory perspectives and offering critical insights for policymakers and auditors navigating the challenges of regulatory mandates.
+
+Keywords: Audit fees, mandatory CSR, CSR Regulation, Compliance Costs
+
+Suggested Citation:
+
+Nandialath, Anup and Mohapatra, Partha S. and Raina, GS, Audit Fee Implications of Mandatory CSR (January 06, 2025). Available at SSRN: https://ssrn.com/abstract=5189499
+ Not Available for Download
+41 References
+J Aswani , N K Chidambaran , I Hasan
+Who benefits from mandatory CSR? Evidence from the Indian Companies Act , volume 46 Posted: 2013
+V Atanasov , B Black
+Shock-Based Causal Inference in Corporate Finance and Accounting Research
+Critical Finance Review , volume 5 , issue 2 , p. 207 - 304 Posted: 2016
+V Atanasov , B Black
+The Trouble with Instruments: The Need for Pretreatment Balance in Shock-Based Instrumental Variable Designs
+Management Science , volume 67 , issue 2 , p. 1270 - 1302 Posted: 2021
+Bamea , A A; Rubin
+Corporate Social Responsibility as a Conflict between Shareholders
+Journal of Business ethics , volume 97 , p. 71 - 86 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+318
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

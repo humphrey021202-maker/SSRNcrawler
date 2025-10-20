@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Magnitude of Adversarial Bias in Experts’ Estimates and the Nature of Judges’ Valuation Decisions
+
+35 Pages Posted: 18 Feb 2024
+
+Aasmund Eilifsen
+
+NHH Norwegian School of Economics
+
+Finn Kinserdal
+
+NHH Norwegian School of Economics - Department of Accounting, Auditing and Law
+
+Kjell Henry Knivsflå
+
+NHH Norwegian School of Economics - Department of Accounting, Auditing and Law
+
+William F. Messier, Jr.
+
+NHH Norwegian School of Economics
+
+Date Written: February 1, 2024
+
+Abstract
+
+This paper provides evidence on the magnitude of valuation experts’ adversarial bias of fair value estimates in a court setting and the judge(s) valuation decisions. The study examines a unique set of 67 court cases in Norway where each party to the lawsuit presents an expert’s opinion on the value of an asset (real estate or company stock) and a judge(s) issues an opinion on the value of the asset. Using these data two research questions are investigated. First, we investigate the magnitude of the party-engaged valuation experts’ adversarial bias. Second, we examine how the judges’ valuation decisions map to the party-engaged experts’ valuations. The results show that the valuation differences between the party-engaged experts are substantial. On average, the experts’ high valuations are four times greater than the experts’ low valuations. The results also indicate that the judges’ valuation decisions tend to rely more on the experts’ low valuations than the experts’ high valuations and increasingly so when the spread of the experts’ valuations increases. These findings have important implications for situations where parties (e.g., judges, juries, banks, tax authorities, management, auditors, and users of financial information) rely on experts’ objective valuations for decision-making.
+
+Keywords: adversarial bias; fair value estimates; experts’ valuations; court decisions
+
+JEL Classification: M21, M40, M41,
+
+Suggested Citation:
+
+Eilifsen, Aasmund and Kinserdal, Finn and Knivsflå, Kjell Henry and Messier Jr, William F., The Magnitude of Adversarial Bias in Experts’ Estimates and the Nature of Judges’ Valuation Decisions (February 1, 2024). Available at SSRN: https://ssrn.com/abstract=4713809 or http://dx.doi.org/10.2139/ssrn.4713809
+Download This Paper
+ 
+Open PDF in Browser
+55 References
+K D Allee , D Erickson , A M Esplin , T L Yohn
+The characteristics, valuation methods, and information use of valuation specialists
+Accounting Horizons , volume 34 , issue 3 , p. 23 - 38 Posted: 2020-09
+A H Ashton , R H Ashton
+Aggregating subjective forecasts: Some empirical results
+Management Science , volume 31 , issue 12 , p. 1499 - 1508 Posted: 1985
+D Barr-Pulliam , J R Joe , S A Mason , K-A Sanderson
+How valuation specialists influence fair value measurements Posted: 2023
+M E Barth , G Clinch
+Revalued financial, tangible, and intangible assets: Associations with share prices and non-market-based value estimates
+Journal of Accounting Research , volume 36 , issue sup , p. 199 - 233 Posted: 1998
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+69
+ABSTRACT VIEWS
+569
+RANK
+778,745
+55 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

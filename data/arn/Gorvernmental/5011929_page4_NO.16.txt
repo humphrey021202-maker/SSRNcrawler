@@ -1,0 +1,122 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+United States Greenhouse Gas Reporting Framework for CCS
+
+Proceedings of the 17th Greenhouse Gas Control Technologies Conference (GHGT-17) 20-24 October 2024
+
+22 Pages Posted: 7 Nov 2024
+
+Melinda Miller
+
+Government of the United States of America - U.S. Environmental Protection Agency (EPA)
+
+Clark Talkington
+
+Advanced Resources International
+
+Owen Hadden
+
+Advanced Resources International
+
+Nicholas Konovalchik
+
+Advanced Resources International
+
+Date Written: November 5, 2024
+
+Abstract
+
+The United States Environmental Protection Agency’s (EPA) Greenhouse Gas Reporting Program (GHGRP) establishes an accounting framework for quantifying and reporting greenhouse gas (GHG) data and other relevant information from large GHG emission sources, fuel and industrial gas suppliers, and CO2 injection sites in the United States. Covered facilities report annually to the GHGRP, and EPA publishes non-confidential GHGRP data in publicly available databases at the sector and facility level. Certain aspects of the carbon capture and storage (CCS) process are among the sectors covered by the GHGRP. Each sector has regulatory data reporting requirements outlined in different subparts of the reporting rule. Specifically, facilities and/or suppliers that must report data to the GHGRP include suppliers of carbon dioxide, geologic sequestration of carbon dioxide, and injection of carbon dioxide In addition, EPA finalized regulatory amendments in 2024, adding reporting requirements for facilities that use CSA/ANSI ISO Standard 27916:2019, “Carbon Dioxide Capture, Transportation and Geological Storage—Carbon Dioxide Storage Using Enhanced Oil Recovery (CO2-EOR)” to quantify CO2 sequestered through enhanced oil recovery (EOR). In 2024, EPA also finalized new requirements for Direct Air Capture (DAC) facilities to report additional data under as suppliers of CO2 including energy source and consumption information. This paper provides a brief overview of the GHGRP, explains the CCS-specific framework in the GHGRP, outlines the monitoring, reporting and verification (MRV) plans required for facilities sequestering CO2, and presents a summary of reported data for the CCS sectors including numbers and types of reporters as well as quantities of CO2 supplied, injected and stored.
+
+Keywords: CCS, MRV, GHGRP, EPA, Accounting
+
+Suggested Citation:
+
+Miller, Melinda and Talkington, Clark and Hadden, Owen and Konovalchik, Nicholas, United States Greenhouse Gas Reporting Framework for CCS (November 5, 2024). Proceedings of the 17th Greenhouse Gas Control Technologies Conference (GHGT-17) 20-24 October 2024, Available at SSRN: https://ssrn.com/abstract=5011929 or http://dx.doi.org/10.2139/ssrn.5011929
+Download This Paper
+ 
+Open PDF in Browser
+32 References
+H R
+Public Law 110-161. The Appropriations Act required U.S. EPA to ''develop and publish rules to require mandatory reporting of Greenhouse Gas (GHG) emissions above appropriate thresholds in all sectors of the economy of the United States Posted: 2024
+Environmental Protection Agency (EPA) 2024a. GHGRP and the U.S. Inventory of Greenhouse Gas Emissions and Sinks Posted: 2024-07
+Environmental Protection Agency (EPA) 2023a. GHGRP Overview Fact Sheet Posted: 2024-07-15
+Revisions and Confidentiality Determinations for Data Elements Under the Greenhouse Gas Reporting Rule
+89 Federal Register Posted: 2024-04-25
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+93
+ABSTRACT VIEWS
+831
+RANK
+653,768
+32 References
+PlumX Metrics
+Related eJournals
+
+Corporate Governance & Economics eJournal
+
+Follow
+
+Corporate Governance: Disclosure, Internal Control & Risk-Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

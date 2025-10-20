@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Improving Economics and Finance in Sub-Saharan Africa using Deep Learning and Machine Learning Models: A Systematic Review
+
+26 Pages Posted: 8 Oct 2025
+
+Emmanuel Osei-Dwomoh
+
+Ministry of Finance and Economic Planning; Controller and Accountant General's Department; Christian Service University College; Association of International Accountants (AIA); International Institute of Certified Forensic Investigation Professionals Inc. (IICFIP)
+
+Gabriel Osei Forkuo
+
+Transilvania University of Brasov
+
+Date Written: September 14, 2025
+
+Abstract
+
+Purpose of review: This systematic review aims to map the current landscape of Artificial Intelligence (AI) and Machine Learning (ML) applications within economics and finance in sub-Saharan Africa. It seeks to identify dominant research trends, key application domains, model performance, emerging opportunities, and the significant socioeconomic implications of these technologies for the region. Recent findings: Current research demonstrates a significant surge in AI and ML adoption in African economics and finance, particularly since 2017. Key applications include: (1) poverty and economic wellbeing prediction using satellite imagery and alternative data sources, with models explaining over 70% of the variation in village-level wealth; (2) real-time economic nowcasting to track the impacts of major events like the COVID-19 pandemic; and (3) enhancing financial inclusion and risk management through AI-driven credit scoring and fraud detection, where models achieve F1-scores exceeding 0.80. Deep learning (DL) models, especially Convolutional Neural Networks (CNNs) for geospatial data and Recurrent Neural Networks (RNNs) for time-series forecasting, are pivotal. Summary: AI and ML are transforming economics and finance in sub-Saharan Africa by providing scalable, high-frequency, and granular data that bypasses traditional data gaps. These technologies offer transformative potential for evidence-based policymaking, financial stability, and inclusive growth. However, significant challenges persist, including data sparsity, infrastructural limitations, and the risk of algorithmic bias. Future advancements depend on developing localized, context-aware models, investing in data infrastructure, and establishing robust ethical governance frameworks to ensure equitable outcomes.
+
+Keywords: Artificial Intelligence, Economic Forecasting, Financial Inclusion, Governance, Nowcasting, Poverty Mapping, Satellite Imagery
+
+Declaration of Interest
+
+The authors declare no conflict of interest.
+
+Funder Statement
+
+This research received no external funding.
+
+Suggested Citation:
+
+Osei-Dwomoh, Emmanuel and Forkuo, Gabriel Osei, Improving Economics and Finance in Sub-Saharan Africa using Deep Learning and Machine Learning Models: A Systematic Review (September 14, 2025). Available at SSRN: https://ssrn.com/abstract=5487346 or http://dx.doi.org/10.2139/ssrn.5487346
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+27
+ABSTRACT VIEWS
+127
+PlumX Metrics
+Related eJournals
+
+Risk Management eJournal
+
+Follow
+
+Corporate Finance: Valuation, Capital Budgeting & Investment Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

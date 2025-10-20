@@ -1,0 +1,138 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Belief in Mean Reversion and the Disposition Effect: An Experimental Test
+
+52 Pages Posted: 6 Mar 2015 Last revised: 27 May 2016
+
+Peiran Jiao
+
+Maastricht University - Department of Finance
+
+Date Written: April 2015
+
+Abstract
+
+The disposition effect refers to the investors’ tendency to disproportionately sell more winning than losing assets. This experiment evaluates its two competing behavioral mechanisms: belief in mean reversion and prospect theory. The participants were endowed with some hypothetical assets, observed their price sequences and made selling decisions. Sixty-one percent of them exhibited significant disposition effect. I elicited the participants’ prospect theory parameters and beliefs about price movements, and found that beliefs especially in the loss domain, not prospect theory, significantly contribute to the between-subject variation in the disposition effect. The results from a goodness-of-fit test also favor the belief mechanism.
+
+Keywords: disposition effect, belief in mean reversion, prospect theory, experiment
+
+JEL Classification: C91, D03, G02
+
+Suggested Citation:
+
+Jiao, Peiran, Belief in Mean Reversion and the Disposition Effect: An Experimental Test (April 2015). Available at SSRN: https://ssrn.com/abstract=2574189 or http://dx.doi.org/10.2139/ssrn.2574189
+Download This Paper
+ 
+Open PDF in Browser
+9 References
+Mohammed Abdellaoui , Han Bleichrodt , Olivier I&apos; Haridon
+A Tractable Method to Measure Utility and Loss Aversion under Prospect Theory
+Journal of Risk and Uncertainty , volume 36 , issue 3 , p. 245 - 66 Posted: 2008
+Crossref
+Elena Asparouhova , Michael Hetzel , Michael Lemmon
+Inference from Streaks in Random Outcomes: Experiment Evidence on Beliefs in Regime Shifting and the Law of Small Numbers
+Management Science , volume 55 , issue 11 , p. 1766 - 82 Posted: 2009
+Crossref
+Nicholas Barberis , Wei Xiong
+What Drives the Disposition Effect? An Analysis of a Long-Standing Preference-Based Explanation
+Journal of Finance , volume 64 , issue 2 , p. 751 - 84 Posted: 2009
+Crossref
+Nicholas Barberis , Wei Xiong
+Realization Utility
+Journal of Financial Economics , volume 104 , issue 2 , p. 251 - 71 Posted: 2012
+Crossref
+Load more
+8 Citations
+Kelley Bergsma Lovelace , Andy Fodor , Emily Tedford
+A Closer Look at the Disposition Effect in U.S. Equity Option Markets
+Journal of Behavioral Finance, Vol. 21, 66-77. · 31 Pages · Posted: 21 Jun 2016 · Last revised: 27 Mar 2020 · Downloads: 298
+Download PDF  Add Paper to My Library
+Marc Wierzbitzki , Sebastian Seidens , Markus Rudolf
+Financial Attitudes, Behaviours, and the Disposition Effect
+54 Pages · Posted: 13 Mar 2019 · Downloads: 385
+Download PDF  Add Paper to My Library
+Steve Heinke , Kevin Trutmann , Celine Rudin
+Hire Someone to Blame: Degree of Involvement in Decisions and the Likelihood that Professionals Will Stop Investing after Experiencing Losses
+31 Pages · Posted: 26 Jul 2021 · Downloads: 64
+Download PDF  Add Paper to My Library
+Steve Heinke , Kevin Trutmann , Jörg Rieskamp
+Belief Updating and Investment Decisions: The Impact of Good or Bad News Varies With Prior Returns
+93 Pages · Posted: 11 Oct 2021 · Last revised: 18 Aug 2023 · Downloads: 339
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+285
+ABSTRACT VIEWS
+1,643
+RANK
+244,478
+8 Citations
+9 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

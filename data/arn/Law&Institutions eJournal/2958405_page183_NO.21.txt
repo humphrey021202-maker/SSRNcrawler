@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditors’ Quantitative Materiality Judgments: Properties and Implications for Financial Reporting Reliability
+
+28th Annual Conference on Financial Economics and Accounting
+
+65 Pages Posted: 26 Apr 2017 Last revised: 30 Jun 2019
+
+Preeti Choudhary
+
+University of Arizona, Eller College of Management
+
+Kenneth J. Merkley
+
+Indiana University - Kelley School of Business
+
+Katherine Schipper
+
+Duke University - Fuqua School of Business
+
+There are 2 versions of this paper
+
+Date Written: June 28, 2019
+
+Abstract
+
+We analyze data made available through the PCAOB (Public Company Accounting Oversight Board) to provide descriptive evidence on the properties of auditors’ actual quantitative materiality judgments and the implications of those judgments for financial reporting. Auditors’ quantitative materiality judgments do not appear to result simply from applying conventional rules-of-thumb, (e.g., 5% of pre-tax income), but instead are associated with size-related financial statement outcomes (income, revenues and assets), where the relative importance of the size-related outcomes varies with client characteristics such as financial performance. Using the distribution of actual materiality amounts reported by auditors to the PCAOB as part of the audit-inspection process, we construct a materiality-judgment measure that locates a specific materiality amount within a normal range that is both comparable across varying client characteristics and supported by guidance in audit firm internal policy manuals. We find that looser materiality (an amount closer to the high end of a normal materiality range) is associated with fewer audit hours and lower audit fees, supporting the construct validity of this measure. We also find that looser materiality is associated with lower amounts of proposed audit adjustments and, in extreme cases, with a greater incidence of restatements, highlighting the importance of auditor materiality assessments for financial reporting reliability.
+
+Keywords: Financial Reporting, Materiality, Auditing, Reporting Quality
+
+JEL Classification: M41, M42, M48, C80
+
+Suggested Citation:
+
+Choudhary, Preeti and Merkley, Kenneth J. and Schipper, Katherine, Auditors’ Quantitative Materiality Judgments: Properties and Implications for Financial Reporting Reliability (June 28, 2019). 28th Annual Conference on Financial Economics and Accounting, Available at SSRN: https://ssrn.com/abstract=2958405 or http://dx.doi.org/10.2139/ssrn.2958405
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,437
+ABSTRACT VIEWS
+7,033
+RANK
+30,930
+9 Citations
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

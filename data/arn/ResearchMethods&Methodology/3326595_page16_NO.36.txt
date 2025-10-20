@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Auditors are Known by the Companies They Keep
+
+72 Pages Posted: 19 Feb 2019 Last revised: 4 Feb 2020
+
+Jonathan A Cook
+
+U.S. Securities and Exchange Commission; affiliation not provided to SSRN
+
+Zachary T Kowaleski
+
+University of Texas at Austin
+
+Michael Minnis
+
+University of Chicago - Booth School of Business
+
+Andrew Sutherland
+
+Massachusetts Institute of Technology (MIT) - Sloan School of Management
+
+Karla M. Zehms
+
+University of Wisconsin-Madison - Department of Accounting and Information Systems
+
+Date Written: January 31, 2020
+
+Abstract
+
+We study the role of reputation in auditor-client matching. Using 1.2 million employment records from US broker-dealers, we find that broker-dealer clients of the same auditor have similar financial adviser misconduct profiles. Our estimates indicate that variation in client misconduct behavior is nearly half as important as variation in client size in explaining matches. Auditors adjust their portfolios when presented with new information about client behavior, and those with the most significant reputation concerns are least likely to deal with high misconduct clients. Finally, we find that an auditor’s reputation for accepting high misconduct clients predicts their new clients’ future misconduct. Together, our results present new evidence on how reputation affects audit relationships, and the consequences of auditors’ reputation concerns for client behavior. Our results also indicate an unintended consequence of audit mandates: non-discerning auditors emerge to serve clients with low endogenous demand for auditing.
+
+Keywords: auditing, audit market structure, broker-dealers, financial advisers, financial intermediation, financial misconduct, reputation
+
+JEL Classification: M21, M41, M42, G24, G28, D14, D18
+
+Suggested Citation:
+
+Cook, Jonathan A and Kowaleski, Zach and Minnis, Michael and Sutherland, Andrew and Zehms, Karla M., Auditors are Known by the Companies They Keep (January 31, 2020). Available at SSRN: https://ssrn.com/abstract=3326595 or http://dx.doi.org/10.2139/ssrn.3326595
+Download This Paper
+ 
+Open PDF in Browser
+72 References
+A Abdulkadiroğlu , P A Pathak , A E Roth
+The New York City high school match
+American Economic Review , volume 95 , issue 2 , p. 364 - 367 Posted: 2005
+Crossref
+A Abdulkadiroğlu , P A Pathak , A E Roth
+Strategy-proofness versus efficiency in matching with indifferences: Redesigning the NYC high school match
+American Economic Review , volume 99 , issue 5 , p. 1954 - 78 Posted: 2009
+Crossref
+O Akkus , J A Cookson , A Hortacsu
+The determinants of bank mergers: A revealed preference analysis
+Management Science , volume 62 , issue 8 , p. 2241 - 2258 Posted: 2015
+Crossref
+E M Azevedo , J D Leshno
+A supply and demand framework for two-sided matching markets
+Journal of Political Economy , volume 124 , issue 5 , p. 1235 - 1268 Posted: 2016
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+816
+ABSTRACT VIEWS
+5,979
+RANK
+69,192
+8 Citations
+72 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

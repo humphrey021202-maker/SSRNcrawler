@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Man Versus Machine: Complex Estimates and Auditor Reliance on Artificial Intelligence
+
+Journal of Accounting Research, Volume 60, Issue 1
+
+Posted: 3 Apr 2022
+
+Benjamin P. Commerford
+
+University of Kentucky, Gatton
+
+Sean A. Dennis
+
+University of Central Florida - Kenneth G. Dixon School of Accounting
+
+Jennifer R. Joe
+
+Virginia Tech - Department of Accounting and Information Systems; University of Delaware - Accounting & MIS
+
+Jenny W. Ulla
+
+Univerity of Nevada - Las Vegas, Lee School of Business
+
+Date Written: March 1, 2022
+
+Abstract
+
+Audit firms are investing billions of dollars to develop artificial intelligence (AI) systems that will help auditors execute challenging tasks (e.g., evaluating complex estimates). Although firms assume AI will enhance audit quality, a growing body of research documents that individuals often exhibit “algorithm aversion”—the tendency to discount computer-based advice more heavily than human advice, although the advice is identical otherwise. Therefore, we conduct an experiment to examine how algorithm aversion manifests in auditor judgments. Consistent with theory, we find that auditors receiving contradictory evidence from their firm's AI system (instead of a human specialist) propose smaller adjustments to management's complex estimates, particularly when management develops their estimates using relatively objective (vs. subjective) inputs. Our findings suggest auditor susceptibility to algorithm aversion could prove costly for the profession and financial statements users.
+
+Keywords: accounting estimates; auditing; artificial intelligence; algorithm aversion; subjectivity; competing information
+
+JEL Classification: M40, M41, M42, O30, O33
+
+Suggested Citation:
+
+Commerford, Benjamin P. and Dennis, Sean A. and Joe, Jennifer R. and Ulla, Jennifer, Man Versus Machine: Complex Estimates and Auditor Reliance on Artificial Intelligence (March 1, 2022). Journal of Accounting Research, Volume 60, Issue 1, Available at SSRN: https://ssrn.com/abstract=4072876
+ Not Available for Download
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+861
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

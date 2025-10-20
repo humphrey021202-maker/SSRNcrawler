@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+How Significant are the Differences in Financial Data Provided by Key Data Sources? A Comparison of XBRL, Compustat, Yahoo! Finance, and Google Finance
+
+Journal of Information Systems (2020) 34 (3): 47–75 https://doi.org/10.2308/isys-52618
+
+Posted: 19 Apr 2013 Last revised: 2 Dec 2021
+
+J. Efrim Boritz
+
+University of Waterloo - School of Accounting and Finance
+
+Won Gyun No
+
+Rutgers, The State University of New Jersey - Accounting & Information Systems
+
+Date Written: October 16, 2019
+
+Abstract
+
+We compare the financial statement data (excluding footnotes) reported by 105 randomly selected firms in their 10-K filings with data contained in XBRL filings and data reported by three data aggregators/distributors: Compustat, Google Finance, and Yahoo! Finance. We find that 48 percent to 63.2 percent of the 10-K financial statement items available in XBRL filings are not available from the aggregators/distributors. However, aggregator/ distributor-provided data contain many financial items that are not in the official 10-K or XBRL filings but could be useful to users. For items included both in XBRL and by aggregators/distributors, all but 0.01 percent of the XBRL data amounts agree with the 10-K filings, whereas 6.5 percent to 7.7 percent of the amounts provided by aggregators/ distributors do not, depending on the aggregator/distributor. Most differences are material, and the differences in items used in bankruptcy prediction and earnings quality models result in significant differences in the model results.
+
+Keywords: XBRL, Interactive data quality, data aggregators, Compustat, Google Finance, Yahoo! Finance
+
+Suggested Citation:
+
+Boritz, Efrim and No, Won Gyun, How Significant are the Differences in Financial Data Provided by Key Data Sources? A Comparison of XBRL, Compustat, Yahoo! Finance, and Google Finance (October 16, 2019). Journal of Information Systems (2020) 34 (3): 47–75 https://doi.org/10.2308/isys-52618, Available at SSRN: https://ssrn.com/abstract=2253638 or http://dx.doi.org/10.2139/ssrn.2253638
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+6,743
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Recommended Papers
+
+SEC's XBRL Voluntary Program on Edgar: The Case for Quality Assurance
+
+By J. Efrim Boritz and Won Gyun No
+
+A Comparison of XBRL Filings to Corporate 10-Ks - Evidence from the Voluntary Filing Program
+
+By Jon W. Bartley, Y. Al Chen, ...
+
+Quality of Data Standards: Empirical Findings from XBRL
+
+By Hongwei (harry) Zhu and Liuliu Fu
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

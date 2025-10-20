@@ -1,0 +1,141 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Private Communication between Managers and Financial Analysts: Evidence from Taxi-Ride Patterns in New York City
+
+Rotman School of Management Working Paper No. 3920680
+
+62 Pages Posted: 13 Sep 2021 Last revised: 6 Sep 2025
+
+Stacey Choy
+
+University of Illinois at Urbana-Champaign - Gies College of Business
+
+Ole-Kristian Hope
+
+University of Toronto - Rotman School of Management
+
+Date Written: April 27, 2025
+
+Abstract
+
+This study constructs a measure of face-to-face private communication between managers and sell-side analysts by mapping New York City (NYC) taxi trip records to company headquarters and brokerage locations of NYC analysts. We show that taxi trips increase around earnings announcement dates (EAD), reflecting heightened demand for private communication. The increase in post-EAD rides is associated with both analyst- and firm-level consequences. At the analyst-level, post-EAD ride increases are associated with more accurate and timely earnings forecasts, more profitable stock recommendations, and forecast revisions that elicit stronger market reactions without subsequent drift. At the firm level, companies with greater post-EAD taxi activity by forecast-issuing analysts exhibit stock prices more reflective of future earnings and larger reductions in forecast dispersion and bid-ask spreads. Overall, the findings suggest that post-EAD private communications help analysts to produce timely and precise public signals about firms’ future earnings that markets price efficiently.
+
+Keywords: Private Communications, Sell-Side Analysts, Taxis, Earnings Forecasts, Stock Recommendations, Reg FD
+
+JEL Classification: G00, G14, G18, G24, G28, G30, G38, M10, M40, M41, M48
+
+Suggested Citation:
+
+Choy, Stacey and Hope, Ole-Kristian, Private Communication between Managers and Financial Analysts: Evidence from Taxi-Ride Patterns in New York City (April 27, 2025). Rotman School of Management Working Paper No. 3920680, Available at SSRN: https://ssrn.com/abstract=3920680 or http://dx.doi.org/10.2139/ssrn.3920680
+Download This Paper
+ 
+Open PDF in Browser
+58 References
+Y Amihud
+Illiquidity and stock returns: Cross-section and time-series effects
+Journal of Financial Markets , volume 5 , issue 1 , p. 31 - 56 Posted: 2002
+O Ashenfelter , T Hannan
+Sex discrimination and product market competition: The case of the banking industry
+The Quarterly Journal of Economics , volume 101 , issue 1 , p. 149 - 173 Posted: 1986
+P C Austin , E A Stuart
+Moving towards best practice when using inverse probability of treatment weighting (IPTW) using the propensity score to estimate causal treatment effects in observational studies
+Statistics in Medicine , volume 34 , issue 28 , p. 3661 - 3679 Posted: 2015
+K.-H Bae , R M Stulz , H Tan
+Do local analysts know more? A cross-country study of the performance of local analysts and foreign analysts
+Journal of Financial Economics , volume 88 , issue 3 , p. 581 - 606 Posted: 2008
+Load more
+6 Citations
+David C. Cicero , Andy Puckett , Albert Y. Wang , Shen Zhang
+TAXI! Do Mutual Funds Pursue and Exploit Information on Local Companies?
+Journal of Financial and Quantitative Analysis , volume 59 , issue 7 , p. 3340 Posted: 2024
+Crossref
+Matthias D. Mahlendorf , Melissa A. Martin , David Smith
+Innovative Data – Use-cases in Management Accounting Research and Practice
+European Accounting Review , volume 32 , issue 3 , p. 547 Posted: 2023
+Crossref
+Lewis H.K. Tam , Shaohua Tian
+Language barriers, corporate site visit, and analyst forecast accuracy
+The Quarterly Review of Economics and Finance , volume 91 , p. 68 Posted: 2023
+Crossref
+Sandra G. Schafhäutle
+Why Disclose Privately? Shareholder Litigation Risk and Managers' Private Disclosure of Bad News
+55 Pages · Posted: 14 Dec 2021 · Last revised: 22 Aug 2025 · Downloads: 611
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,162
+ABSTRACT VIEWS
+5,131
+RANK
+42,319
+6 Citations
+58 References
+PlumX Metrics
+Related eJournals
+
+University of Toronto - Rotman School of Management Research Paper Series
+
+Follow
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

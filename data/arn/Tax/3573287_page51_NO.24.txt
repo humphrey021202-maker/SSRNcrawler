@@ -1,0 +1,137 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Unemployment-Insurance Taxes and Labor Demand: Quasi-Experimental Evidence from Administrative Data
+
+IZA Discussion Paper No. 13117
+
+44 Pages Posted: 13 Apr 2020 Last revised: 6 May 2025
+
+Andrew C. Johnston
+
+University of Texas at Austin - College of Liberal Arts; University of California, Merced - Department of Economics
+
+There are 2 versions of this paper
+
+Abstract
+
+To finance unemployment insurance, states raise payroll tax rates on employers who engage in layoffs. Tax rates are, therefore, highest for firms after downturns, potentially hampering labor-market recovery. Using full-population, administrative records from Florida, I estimate the effect of these tax increases on firm behavior leveraging a regression kink design in the tax schedule. Tax hikes reduce hiring and employment substantially, with no effect on layoffs or wages. The results imply unanticipated costs of the financing regime which reduce the optimal benefit by a quarter and account for twelve percent of the unemployment in the wake of the Great Recession.
+
+Keywords: payroll taxes, unemployment insurance, recession
+
+JEL Classification: D22, H22, H25, H71, J23, J32, J38, J65
+
+Suggested Citation:
+
+Johnston, Andrew C., Unemployment-Insurance Taxes and Labor Demand: Quasi-Experimental Evidence from Administrative Data. IZA Discussion Paper No. 13117, Available at SSRN: https://ssrn.com/abstract=3573287
+Download This Paper
+ 
+Open PDF in Browser
+74 References
+Daron Acemoglu , Robert Shimer
+Efficient Unemployment Insurance
+Journal of Political Economy , volume 107 , p. 893 - 928 Posted: 1999
+Martin Feldstein , Daniel Altman
+Unemployment insurance savings accounts
+Tax Policy and the Economy , volume 21 , p. 35 - 63 Posted: 2007
+Patricia M Anderson
+Linear Adjustment Costs and Seasonal Labor Demand: Evidence from Retail Trade Firms
+The Quarterly Journal of Economics , volume 108 , p. 1015 - 1042 Posted: 1993
+Patricia M Anderson , Bruce D Meyer
+The Effects of Firm Specific Taxes and Government Mandates with an Application to the US Unemployment Insurance Program
+Journal of Public Economics , volume 65 , issue 2 , p. 119 - 145 Posted: 1997
+Load more
+15 Citations
+Audrey Guo , Andrew C. Johnston
+The Finance of Unemployment Compensation and its Consequence
+47 Pages · Posted: 25 Jun 2020 · Last revised: 14 Sep 2022 · Downloads: 133
+Download PDF  Add Paper to My Library
+Daniel Keum , Stephan Meier
+License to Fire? Unemployment Insurance and the Moral Cost of Layoffs
+73 Pages · Posted: 7 Aug 2020 · Last revised: 8 Apr 2023 · Downloads: 177
+Download PDF  Add Paper to My Library
+Martin Jacob , Robert Vossebürger
+The Role of Personal Income Taxes in Corporate Investment Decisions
+TRR 266 Accounting for Transparency Working Paper Series No. 44 · 77 Pages · Posted: 28 Jan 2021 · Last revised: 29 Sep 2021 · Downloads: 514
+Download PDF  Add Paper to My Library
+Mark Duggan , Audrey Guo , Andrew C. Johnston
+Would Broadening the UI Tax Base Help Low-Income Workers?
+12 Pages · Posted: 4 Mar 2022 · Downloads: 109
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+67
+ABSTRACT VIEWS
+642
+RANK
+169,120
+15 Citations
+74 References
+PlumX Metrics
+Related eJournals
+
+IZA Institute of Labor Economics Discussion Paper Series
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

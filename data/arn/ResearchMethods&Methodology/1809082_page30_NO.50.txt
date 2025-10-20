@@ -1,0 +1,104 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+The Relation Between Expected Returns, Realized Returns, and Firm Risk Characteristics
+
+Contemporary Accounting Research, Forthcoming
+
+Posted: 17 Apr 2011
+
+Christine Botosan
+
+Financial Accounting Standards Board
+
+Marlene Plumlee
+
+University of Utah - School of Accounting
+
+Jennifer Chen
+
+University of Missouri-St. Louis
+
+Date Written: March 16, 2011
+
+Abstract
+
+Existing literature employs two approaches to assess the validity of alternative proxies for firm-specific cost of equity capital. One approach relies on the theoretical link between future realized returns and cost of equity capital, while the second approach relies on the theoretical link between cost of equity capital and priced risk. The results of these two streams of literature are conflicting. The first approach provides no support for the construct validity of any of the cost of equity capital proxies examined, while the second approach provides strong support for certain proxies. In this paper, we assess the construct validity of twelve alternative proxies, and realized returns before and after controlling for news. Using both approaches, we find support for the construct validity of two proxies (rDIV and rPEG), and show that prior research fails to demonstrate the theoretical link between several of the proxies and future realized returns due to empirical misspecification. Based on our evidence, we recommend that researchers requiring a valid proxy for cost of equity capital employ either rDIV or rPEG, and we caution against the use of realized returns to proxy for cost of equity capital before or after controlling for cash flow news.
+
+Keywords: implied cost of capital, expected returns, realized returns, cash flow news
+
+JEL Classification: M41, G12, G31
+
+Suggested Citation:
+
+Botosan, Christine and Plumlee, Marlene A. and Chen, Jennifer, The Relation Between Expected Returns, Realized Returns, and Firm Risk Characteristics (March 16, 2011). Contemporary Accounting Research, Forthcoming, Available at SSRN: https://ssrn.com/abstract=1809082
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,863
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Microeconomics: Intertemporal Firm Choice & Growth, Investment, Financing, & Capacity eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

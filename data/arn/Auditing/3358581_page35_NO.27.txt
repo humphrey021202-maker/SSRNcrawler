@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Importance of Quantifying Uncertainty: Examining the Effects of Sensitivity Analysis and Audit Materiality Disclosures on Investors’ Judgments and Decisions
+
+42 Pages Posted: 25 Apr 2019
+
+Aasmund Eilifsen
+
+NHH Norwegian School of Economics
+
+Erin Hamilton
+
+University of Nevada, Las Vegas
+
+William F. Messier, Jr.
+
+NHH Norwegian School of Economics
+
+There are 2 versions of this paper
+
+Date Written: March 22, 2019
+
+Abstract
+
+The amount of estimation uncertainty contained in financial statement items may be obscured from investors, given that all estimates, regardless of their imprecision, are reported as precise figures on the face of the financial statements. Our study examines two disclosures expected to help investors evaluate the reliability of subjective fair value estimates: a quantitative sensitivity analysis (QSA) and the auditor’s quantitative materiality threshold. Using an experiment, we predict and find that investors judge the reliability of a reported estimate to be higher and are more willing to invest in the company when a QSA disclosure is indicative of low sensitivity (i.e., greater precision) compared to high sensitivity (i.e., greater imprecision), but only if the auditor’s materiality threshold is also disclosed. When materiality is not disclosed, investors fail to recognize differences in reliability between the two levels of sensitivity, even though the amount of imprecision in the low sensitivity condition represents a fraction of materiality, while in the high sensitivity condition, this amount exceeds materiality multiple times over. Furthermore, when both disclosures are absent and only a qualitative description of sensitivity is provided — as required by current standards — investors respond to the ambiguous disclosure by decreasing their willingness to invest. The results of our study should be informative to accounting and auditing standard setters as they continue to consider the types of disclosures that may help investors understand the most complex and subjective aspects of financial reporting.
+
+Keywords: audit reporting; disclosures; estimation uncertainty; fair value estimates; materiality; sensitivity analysis.
+
+JEL Classification: M40
+
+Suggested Citation:
+
+Eilifsen, Aasmund and Hamilton, Erin and Messier Jr, William F., The Importance of Quantifying Uncertainty: Examining the Effects of Sensitivity Analysis and Audit Materiality Disclosures on Investors’ Judgments and Decisions (March 22, 2019). Available at SSRN: https://ssrn.com/abstract=3358581 or http://dx.doi.org/10.2139/ssrn.3358581
+Download This Paper
+ 
+Open PDF in Browser
+63 References
+Auditing Accounting Estimates, Including Fair Value Accounting Estimates and Related Disclosures. AU-C Section 540 Posted: 2011
+Crossref
+M Allen , R W Preiss
+Comparing the persuasiveness of narrative and statistical evidence using meta-analysis
+Communication Research Reports , volume 14 , issue 2 , p. 125 - 131 Posted: 1997
+Crossref
+T B Bell , J B Griffin
+Commentary on auditing high-uncertainty fair value estimates
+Auditing: A Journal of Practice & Theory , volume 31 , issue 1 , p. 147 - 155 Posted: 2012
+Crossref
+T L Boles , D M Messick
+A reverse outcome bias: The influence of multiple reference points on the evaluation of outcomes and decisions
+Organizational Behavior and Human Decision Processes , volume 61 , issue 3 , p. 262 - 275 Posted: 1995
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+280
+ABSTRACT VIEWS
+2,111
+RANK
+97,514
+2 Citations
+63 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

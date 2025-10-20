@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Use of Loose Monitoring and Lavish Pay in Agency
+
+37 Pages Posted: 21 Feb 2008
+
+Qi Chen
+
+Duke University - Fuqua School of Business
+
+Thomas Hemmer
+
+Rice University - Jesse H. Jones Graduate School of Business
+
+Yun Zhang
+
+George Washington University
+
+Date Written: February 2008
+
+Abstract
+
+In this paper, we study a setting where a firm (principal) is privately informed of the firm's potential and contracts with an agent to supply unobservable effort. We show it can be optimal for the firm to have loose monitoring in the sense that the monitoring system is less perfect than what is implied by a standard agency model a la Holmstrom (1979) and to provide lavish pay in the sense that the optimal contract provides the agent with higher expected utility than his reservation level. These two tools are used to achieve separation among different types of firms such that firms with low potential do not have incentives to mimic contracts offered by high potential firms. Our findings imply that although loose monitoring and lavish compensation offered to employees may be symptoms of firms squandering scarce resources provided by investors, they can also arise as an optimal contracting arrangement.
+
+Keywords: Performance measure, lavish pay, information system, loose monitoring, conservatism
+
+JEL Classification: M40, M41, M46, J33, G34, D82, B21
+
+Suggested Citation:
+
+Chen, Qi and Hemmer, Thomas and Zhang, Yun, On the Use of Loose Monitoring and Lavish Pay in Agency (February 2008). Available at SSRN: https://ssrn.com/abstract=1096245 or http://dx.doi.org/10.2139/ssrn.1096245
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+A Arya , J Glover , S Sunder
+Earnings management and the revelation principal
+Review of Accounting Studies , issue 3 , p. 7 - 34 Posted: 1998
+P Beaudry
+Why an informed principal may leave rents to an agent
+International Economic Review , issue 35 , p. 821 - 832 Posted: 1994
+Crossref
+H Chade , R Silvers
+Informed principal, moral hazard, and the value of a more informative technology
+Economic Letters , issue 74 , p. 291 - 300 Posted: 2002
+Crossref
+Q Chen , T Hemmer , Y Zhang
+On the relation between conservatism in accounting standards and incentives for earnings management
+Journal of Accounting Research , issue 45 , p. 541 - 565 Posted: 2007
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+220
+ABSTRACT VIEWS
+2,812
+RANK
+317,057
+3 Citations
+16 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Recommended Papers
+
+Geeksploitation: Optimism and Monitoring-Aversion in Agency Relationships
+
+By Michael J. Smith
+
+Economic Consequences of Equity Compensation Disclosure
+
+By Jeremy Bertomeu
+
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

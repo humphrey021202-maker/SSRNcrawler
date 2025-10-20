@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Impact Of Machine Learning On Prescriptive Analytics For Optimized Business Decision-Making
+
+12 Pages Posted: 3 Feb 2025
+
+MD Hasanujamman Bari
+
+Lamar University - College of Business
+
+Anjuman Ara
+
+College of Business, Beaumont
+
+Date Written: April 15, 2024
+
+Abstract
+
+This study investigates into the integration of Machine Learning (ML) with Prescriptive Analytics, showcasing the enhancement of decision-making processes in business through this combination. By analyzing contemporary methodologies and practical applications, it delves into how ML algorithms significantly improve the precision, efficiency, and forecasting capabilities of prescriptive analytics. Highlighting case studies across a variety of sectors, the research underscores the competitive edge businesses can gain by adopting these sophisticated analytical tools. Moreover, it addresses the array of technical and organizational hurdles that arise with the implementation of ML-enhanced prescriptive analytics, such as challenges in data handling, system integration, and the demand for specialized skills. Leveraging the latest advancements and insights from experts, the paper offers a compilation of best practices and strategic methodologies to effectively overcome these obstacles. Conclusively, it emphasizes the critical role of continuous innovation in ML and prescriptive analytics, encouraging firms to adopt these cutting-edge technologies to maintain a competitive stance in the fast-evolving, data-centric business landscape.
+
+Keywords: Machine Learning (ML), Prescriptive Analytics, Decision-Making, Business Operations, Competitive Advantage
+
+Suggested Citation:
+
+Bari, MD Hasanujamman and Ara, Anjuman, The Impact Of Machine Learning On Prescriptive Analytics For Optimized Business Decision-Making (April 15, 2024). Available at SSRN: https://ssrn.com/abstract=5050060 or http://dx.doi.org/10.2139/ssrn.5050060
+Download This Paper
+ 
+Open PDF in Browser
+37 References
+H Ahmed , M Al Bashar , M A Taher , M A Rahman
+Innovative Approaches To Sustainable Supply Chain Management In The Manufacturing Industry: A Systematic Literature Review
+Global Mainstream Journal of Innovation, Engineering & Emerging Technology , volume 3 , issue 2 , p. 1 - 13 Posted: 2024
+M Bappy
+Exploring the Integration of Informed Machine Learning in Engineering Applications: A Comprehensive Review
+American Journal of Science and Learning for Development , volume 3 , issue 2 , p. 11 - 21 Posted: 2024
+M H Bari , N U M Arif , M M Hasan , M A A Maraj
+Comparative Analysis Of Digital Payment Platforms And E-Commerce Giants: A Five-Year Performance And Strategic Development Study Of Visa
+Mastercard, Amazon, And Ebay. Global Mainstream Journal of Innovation, Engineering & Emerging Technology , volume 3 , issue 1 , p. 1 - 10 Posted: 2024
+N V Chawla
+The Data Mining and Knowledge Discovery Handbook -Data Mining for Imbalanced Datasets: An Overview Posted: 2009
+Load more
+1 Citations
+Samiul Alam Mazumder , Md Ashiqur Rhaman
+Patient Care and Financial Integrity in Healthcare Billing Through Advanced Fraud Detection Systems
+ACADEMIC JOURNAL ON BUSINESS ADMINISTRATION, INNOVATION & SUSTAINABILITY, volume 4, issue 2, 2024[<a href="https://doi.org/10.69593/ajbais.v4i2.74" rel="nofollow">10.69593/ajbais.v4i2.74</a>] · 12 Pages · Posted: 3 Feb 2025 · Downloads: 158
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+462
+ABSTRACT VIEWS
+1,338
+RANK
+142,697
+1 Citations
+37 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+
+Marketing Science eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,116 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+An Examination of the Effects of Component Auditor Disclosures on Audit Quality and Audit Fees
+
+Posted: 22 Nov 2024 Last revised: 10 Jul 2025
+
+Juan Mao
+
+University of Texas at San Antonio - Department of Accounting
+
+Mary S. Stone
+
+affiliation not provided to SSRN
+
+Gopal V. Krishnan
+
+Bentley University
+
+Jing Zhang
+
+university of Colorado Denver
+
+Date Written: May 10, 2021
+
+Abstract
+
+PCAOB Rule 3211 requires lead auditors to disclose the identity and extent of the use of component auditors in Form AP. While the PCAOB and investor groups anticipated that the requirement would increase audit quality, auditors and preparers anticipated little or no change in audit quality. We test for changes in audit quality and audit fees by performing difference-in-differences analyses using companies for which Form AP first required public disclosure of component auditors as a treatment group. Our control groups are companies for which component auditor identities and usage could be inferred from the PCAOB Form 2 filings available prior to Form AP, UK multinational companies whose auditors are not required to disclose their use of component auditors, and U.S. companies whose lead auditors did not use component auditors. Using multiple proxies for audit quality, we find an increase in audit quality for the treatment group following the mandated disclosure of component auditors but fail to find evidence of increases in audit fees. Our results will be useful to the PCAOB in assessing whether Form AP component auditor disclosures achieve the regulatory goals of the PCAOB.
+
+Keywords: component auditor, Disclosure, Form AP, Form 2, audit quality, audit fees.
+
+Suggested Citation:
+
+Mao, Juan and Stone, Mary S. and Krishnan, Gopal and Zhang, Jing, An Examination of the Effects of Component Auditor Disclosures on Audit Quality and Audit Fees (May 10, 2021). Available at SSRN: https://ssrn.com/abstract=5030834 or http://dx.doi.org/10.2139/ssrn.5030834
+ Not Available for Download
+63 References
+L J Abbott , R Barber , W L Buslepp , Pradeep
+Is audit partner identification useful? Evidence from the KPMG "steal the exam" scandal
+Auditing: A Journal of Practice & Theory , volume 42 , issue 2 , p. 1 - 22 Posted: 2023
+D Aobdia
+Do practitioner assessments agree with academic proxies for audit quality? Evidence from PCAOB and internal inspections
+Journal of Accounting and Economics , volume 67 , issue 1 , p. 144 - 174 Posted: 2019
+D Aobdia , V Castellani , P Richardson
+Do investors care who led the audit in the US? Evidence from the announcements of accounting restatements Posted: 2024-09-19
+R Barber , J Burke , K Gunny
+Are audit disclosures informative about future foreign earnings? Posted: 2024-09-19
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+590
+PlumX Metrics
+Related eJournals
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+
+Auditing eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Redefining the Risk Quotient: A Generalized Framework for Fragility Analysis Across Study Designs
+
+18 Pages Posted: 13 Oct 2025
+
+Thomas F. Heston
+
+University of Washington - School of Medicine; Elson S Floyd College of Medicine, Washington State University
+
+Date Written: September 25, 2025
+
+Abstract
+
+The Risk Quotient was introduced to normalize the Relative Risk Index, offering an interpretable alternative to fragility metrics tied to P values. However, the initial formulation defined the Risk Quotient as the Relative Risk Index divided by the total sample size, limiting interpretability and comparability. We propose a unified definition: the Relative Risk Index is the average absolute residual between the observed table and the neutrality table (expected counts under therapeutic neutrality), and the Risk Quotient is the Relative Risk Index normalized by the average cell count. This definition yields a Risk Quotient ranging from 0 (perfect neutrality) to 1 (maximum possible deviation), which makes it directly interpretable as the minimum percent of outcomes that must change to eliminate any observed treatment effect. We demonstrate its extension from 2×2 tables to contingency tables of any size, including continuous outcomes reframed as contingency tables. This refinement standardizes the Risk Quotient across study types, resolves definitional conflicts, and enables a common interpretive framework for evidence robustness.
+
+Declaration of Interest
+
+No competing interests declared. No personal or financial relationships that could influence this work.
+
+Ethics Approval
+
+Not applicable. This work presents statistical methodology without human subjects research.
+
+Funder Statement
+
+No specific funding received for this methodological work.
+
+Suggested Citation:
+
+Heston, Thomas F, Redefining the Risk Quotient: A Generalized Framework for Fragility Analysis Across Study Designs (September 25, 2025). Available at SSRN: https://ssrn.com/abstract=5531578 or http://dx.doi.org/10.2139/ssrn.5531578
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+13
+ABSTRACT VIEWS
+46
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

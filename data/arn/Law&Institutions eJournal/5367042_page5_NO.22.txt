@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+  This is a preprint article, it offers immediate access but has not been peer reviewed.
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Industrial Complexity and the Structural Limits of Industry-Based Accrual Models
+
+12 Pages Posted: 26 Jul 2025
+
+SEUNG YEON LIM
+
+Kookmin University
+
+Abstract
+
+This study investigates the structural validity of industry-based models for estimating discretionary accruals (DA) in firms with diversified industrial structures. Using Korea’s institutional setting, which requires disclosure of both consolidated and separate financial statements, we construct a proxy for industrial layering, defined as the ratio of the revenue difference between the two statements to consolidated revenue. We assess whether industry-based DA estimates deviate from pooled estimates that do not rely on industry classification. Our findings show that such deviations are not systematically related to industrial layering when consolidated statements are used, suggesting that industry-based models fail to capture relevant variation in industrial complex firms. In contrast, when separate financial statements are used, the deviation increases significantly with industrial layering, indicating greater sensitivity to structural heterogeneity. These findings underscore the limitations of traditional industry-based models in capturing accrual behavior in multi-industry firms and highlight the need for structurally aligned approaches in evaluating earnings quality amid rising corporate diversification.
+
+Keywords: Accrual models, Discretionary accruals, Industry complexity, Consolidated financial statements, Earnings quality
+
+Suggested Citation:
+
+LIM, SEUNG YEON, Industrial Complexity and the Structural Limits of Industry-Based Accrual Models. Available at SSRN: https://ssrn.com/abstract=5367042 or http://dx.doi.org/10.2139/ssrn.5367042
+Download This Paper
+ 
+Open PDF in Browser
+17 References
+P G Berger , R Hann
+The impact of SFAS No. 131 on information and monitoring
+J. Account. Res , volume 41 , issue 2 , p. 163 - 223 Posted: 2003
+S Bhojraj , C M C Lee , D K Oler
+What's my line? A comparison of industry classification schemes for capital market research
+J. Account. Res , volume 41 , issue 5 , p. 745 - 774 Posted: 2003
+D W Collins , P Hribar , X Tian
+The persistence and pricing of discretionary accruals
+Account. Rev , volume 86 , issue 1 , p. 157 - 193 Posted: 2011
+P M Dechow , I D Dichev
+The quality of accruals and earnings: The role of accrual estimation errors
+Account. Rev , volume 77 , issue S-1 , p. 35 - 59 Posted: 2002
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+11
+ABSTRACT VIEWS
+80
+17 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

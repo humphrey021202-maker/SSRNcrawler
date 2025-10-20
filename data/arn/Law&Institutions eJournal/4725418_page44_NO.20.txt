@@ -1,0 +1,115 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The intensity of bank-firm relationships and income smoothing: Evidence from Japan
+
+44 Pages Posted: 14 Mar 2024
+
+Yasuharu Aoki
+
+Hitotsubashi University
+
+Date Written: February 27, 2024
+
+Abstract
+
+Focusing on the Japanese bank-based financial system, this study examines how the intensity of bank-firm relationships (IBR) affects borrower firms’ income smoothing behavior. As a proxy for IBR, it uses the ratio of loans from relationship banking to total debt (LRB/TD), which is a product of the ratio of total bank loans to total debt (TBL/TD) and the ratio of loans from relationship banking to total bank loans (LRB/TBL). I measure income smoothing by combining three accrual-based smoothing indicators that are commonly used in the literature. The regression results show that LRB/TBL is not systematically associated with income smoothing, but LRB/TD and TBL/TD are positively associated with it. This finding supports the hold-up hypothesis that banks prompt borrowers to smooth earnings in order to avoid intense competition among suppliers of finance and indirect costs of financial distress, rather than the monitoring hypothesis that effective monitoring by banks reduces managerial incentives to convey private information to investors or extract private benefits through income smoothing. The results also suggest that the distinction between private and public debt is more important than the distinction between relationship and transaction banking as a determinant of income smoothing.
+
+Keywords: accrual-based smoothing, bank-firm relationship, debt structure, income smoothing, Japan, private debt, public debt, real smoothing, relationship banking, transaction banking
+
+JEL Classification: G21, G32, L14, M41
+
+Suggested Citation:
+
+Aoki, Yasuharu, The intensity of bank-firm relationships and income smoothing: Evidence from Japan (February 27, 2024). Available at SSRN: https://ssrn.com/abstract=4725418 or http://dx.doi.org/10.2139/ssrn.4725418
+Download This Paper
+ 
+Open PDF in Browser
+84 References
+V V Acharya , B M Lambrecht
+A theory of income smoothing when insiders know more than outsiders
+The Review of Financial Studies , volume 28 , issue 9 , p. 2534 - 2574 Posted: 2015
+S Ahn , W Choi
+The role of bank monitoring in corporate governance: Evidence from borrowers' earnings management behavior
+Journal of Banking & Finance , volume 33 , issue 2 , p. 425 - 434 Posted: 2009
+F Allen , E Carletti , X Gu , A Berger , P Molyneux , & J Wilson
+The roles of banks in financial systems
+The Oxford handbook of banking , p. 40 - 61 Posted: 2019
+L Allen , A Gottesman , A Saunders , Y Tang
+The role of banks in dividend policy , volume 41 , p. 591 - 613 Posted: 2012
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+79
+ABSTRACT VIEWS
+586
+RANK
+718,946
+84 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Designing Calibration Committees: Size, Standards, and Rater Bias
+
+54 Pages Posted: 11 Sep 2025
+
+Taichi Kimura
+
+Keio University - Graduate School of Business Administration
+
+Takahiro Morimitsu
+
+Meiji University
+
+Date Written: September 05, 2025
+
+Abstract
+
+We develop a design-based theory of calibration committees. Although committees are widely used to mitigate rater bias in subjective performance evaluation, guidance on how to choose their size and standard has been lacking. We model a firm that operates under a uniform (pooling) policy and chooses committee size and a firm-wide standard to manage evaluator favoritism. The model yields four results. First, the effect of committee size on the probability that high effort receives an adverse decision obeys simple shape restrictions: it moves monotonically or displays a single interior peak, but does not switch direction repeatedly. Second, the marginal benefit of adding members is larger under pooling than under type-specific contracts (separation), helping explain why committees are especially valuable where HR policies are uniform. Third, optimal size is finite and characterized by a transparent stopping rule that balances the marginal reduction in expected conflict cost per unit of incentive provision against per-member administrative cost. Fourth, disparities between employee types ultimately decline as committees expand, although they can temporarily widen at intermediate sizes. Taken together, these results add a design-based lens to the calibration literature and outline testable implications for future empirical work.
+
+Keywords: Subjective performance evaluation, Calibration committees, Organizational design, Pooling(uniform policy), Rater bias
+
+JEL Classification: M41, M52, D71, D82
+
+Suggested Citation:
+
+Kimura, Taichi and Morimitsu, Takahiro, Designing Calibration Committees: Size, Standards, and Rater Bias (September 05, 2025). Available at SSRN: https://ssrn.com/abstract=5443702 or http://dx.doi.org/10.2139/ssrn.5443702
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+44
+ABSTRACT VIEWS
+170
+PlumX Metrics
+Related eJournals
+
+Managerial Accounting eJournal
+
+Follow
+
+Accounting Theory - Analytical Models eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

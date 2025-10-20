@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Usefulness of Multi-Criteria Taxonomy in Corporate Bankruptcy Prediction - The Polish Experience
+
+The 11th International Days of Statistics and Economics Conference Proceedings, Prague, September 14-16, 2017
+
+9 Pages Posted: 21 Nov 2017
+
+Jacek Welc
+
+Wroclaw University of Economics
+
+Elzbieta Sobczak
+
+Uniwersytet Ekonomiczny we Wrocławiu
+
+Date Written: September 14, 2017
+
+Abstract
+
+One of the essential elements of company’s economic and financial evaluation is ratio analysis. It includes computation and interpretation of multiple bankruptcy risk ratios. When applying accounting ratios in a credit risk evaluation analysts typically either compute and interpret several individual ratios (a univariate approach) or apply some pre-estimated parametric multivariable econometric tools, such as the Altman model or discriminant function. The problem with the first approach is that it does not take into account the inter-relationships between the individual ratios. The latter approach, in turn, calls for statistical models, whose parameters may not be stable in time and in space. In this paper we empirically examine the usefulness of the alternative approach, that is simple taxonomic ranking, in corporate bankruptcy risk quantification (on the basis of data from the Polish stock market). We found that this simple non-parametric multivariate method outperforms all other tested approaches (including logit model) in discriminating between bankrupt and healthy firms.
+
+Keywords: Credit Risk Analysis, Bankruptcy Prediction, Taxonomy, Ratio Analysis
+
+JEL Classification: G11, C21
+
+Suggested Citation:
+
+Welc, Jacek and Sobczak, Elzbieta, Usefulness of Multi-Criteria Taxonomy in Corporate Bankruptcy Prediction - The Polish Experience (September 14, 2017). The 11th International Days of Statistics and Economics Conference Proceedings, Prague, September 14-16, 2017, Available at SSRN: https://ssrn.com/abstract=3073644
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+E I Altman
+Financial Ratios, Discriminant Analysis, and the Prediction of Corporate Bankruptcy
+Journal of Finance , p. 589 - 609 Posted: 1968
+Crossref
+E I Altman , R G Haldeman , P Narayanan
+ZETA Analysis: A New Model to Identify Bankruptcy Risk of Corporations
+Journal of Banking and Finance , p. 29 - 54 Posted: 1977
+Crossref
+E I Altman , G Sabato
+Modeling Credit Risk for SMEs: Evidence from the U
+S. Market. Abacus , p. 716 - 723 Posted: 2007
+Crossref
+W H Beaver
+Financial Ratios as Predictors of Failure
+Journal of Accounting Research , p. 71 - 111 Posted: 1966
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+58
+ABSTRACT VIEWS
+1,060
+RANK
+856,579
+16 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,120 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Subsidizing Social Welfare Programs: Contracted Slots or Vouchers?
+
+32 Pages Posted: 22 May 2025 Last revised: 31 Jul 2025
+
+Wei Wei
+
+University of New Hampshire - Peter T. Paul College of Business and Economics
+
+Priyank Arora
+
+University of South Carolina - Department of Management Science
+
+Senay Solak
+
+Isenberg School of Management, University of Massachusetts Amherst
+
+Date Written: May 21, 2025
+
+Abstract
+
+Subsidy welfare programs rely on the private service providers’ participation to offer essential services to beneficiaries and, in turn, generate societal outcomes. The voucher program is a widely used program wherein providers serve beneficiaries using their remaining capacity after serving private customers. However, overall service quality may be low due to limited restrictions on participating providers’ quality, and providers’ reimbursement payments are uncertain because beneficiaries often do not use the offered vouchers. Alternatively, the contracted slot program restricts participation to high-quality providers who must reserve some capacity to serve beneficiaries (for guaranteed reimbursements). In each program, since providers’ benefit of mitigating market demand uncertainty by serving beneficiaries differs, providers’ operational decisions and equilibrium outcomes could differ significantly. We develop a game-theoretic model to characterize the optimal participation strategy of providers in each program and identify conditions when one program outperforms the other from the beneficiaries' and providers' perspectives. We show that, under certain localized conditions, providers should make opposite participation decisions in each program, implying that providers should carefully reevaluate their decisions if the government switches program types. Further, we find that the contracted slot program outperforms the voucher program in generating more societal outcomes and a higher total providers’ profit under a wide range of values of contextual factors. However, the contracted slot program (even with a higher reimbursement rate) could be outperformed, e.g., when there are many high-quality providers and their capacity is small. While practitioner debates on these programs typically focus on the number of providers, our findings underscore the importance of considering other localized factors when evaluating program outcomes. Further, based on Massachusetts’ child care subsidy programs, our case study illustrates that the contracted slot (versus voucher) program can generate approximately 16% greater societal outcomes and 4% higher total providers’ profit.
+
+Keywords: subsidy programs, socially responsible operations, public sector operations, game theory
+
+Suggested Citation:
+
+Wei, Wei and Arora, Priyank and Solak, Senay, Subsidizing Social Welfare Programs: Contracted Slots or Vouchers? (May 21, 2025). Available at SSRN: https://ssrn.com/abstract=5263867 or http://dx.doi.org/10.2139/ssrn.5263867
+Download This Paper
+ 
+Open PDF in Browser
+59 References
+G Adams , K Snyder , J Sandfort
+Getting and retaining child care assistance: How policy and practice influence parents' experiences Posted: 2008-04-23
+W Airgood-Obrycki , S Wedeen
+Rental deserts perpetuate socioeconomic and racial segregation Posted: 2022-04-23
+D Akkaya , K Bimpikis , H Lee
+Government interventions to promote agricultural innovation
+Manufacturing & Service Operations Management , volume 23 , issue 2 , p. 437 - 452 Posted: 2021
+S Akshat , A Scheller-Wolf , J Galbraith , L Lacey
+Improving process flow in a child-welfare system: A data-driven approach Posted: 2025
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+62
+ABSTRACT VIEWS
+390
+RANK
+826,677
+59 References
+PlumX Metrics
+Related eJournals
+
+Public Economics: Taxation, Subsidies, & Revenue eJournal
+
+Follow
+
+Political Economy: Government Expenditures & Related Policies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

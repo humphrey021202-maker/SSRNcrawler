@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Disclosing green, acting gray: The effects of institutional investors on voluntary green disclosures and environmental performance
+
+52 Pages Posted: 2 Aug 2023 Last revised: 19 Dec 2023
+
+Yichuan Hu
+
+Tongji University
+
+Kenneth Kim
+
+Tongji University - School of Economics and Management; SUNY at Buffalo - School of Management
+
+Date Written: June 16, 2024
+
+Abstract
+
+We investigate whether a large presence of institutional investors motivates firms to voluntarily disclose their green policies and, if so, whether it also leads to better environmental performance. Our study focuses on the Chinese context, where regulatory policies on such disclosures are standardized. To address concerns about reverse causality and omitted variables, we employ a regression discontinuity design around CSI 300/500 stock index reconstitutions. Following these reconstitutions, firms at the top of the CSI 500 index experience an increased presence of institutional investors. These firms subsequently increase their voluntary green policy disclosures, which further leads to higher environmental ratings. However, this increase does not result in higher environmental expenses or improved environmental performance. Additional analysis suggests firms' reactions may be driven by concerns that investors may exit. Overall, our results show that institutional investors may have a limited role in motivating firms to improve their actual environmental performance.
+
+Keywords: voluntary green disclosures, environmental ratings and performance, institutional investors
+
+JEL Classification: G23, G32, Q56
+
+Suggested Citation:
+
+Hu, Yichuan and Kim, Kenneth A., Disclosing green, acting gray: The effects of institutional investors on voluntary green disclosures and environmental performance (June 16, 2024). Available at SSRN: https://ssrn.com/abstract=4528794 or http://dx.doi.org/10.2139/ssrn.4528794
+Download This Paper
+ 
+Open PDF in Browser
+31 References
+A R Admati , P Pfleiderer
+Wall Street Walk" and shareholder activism: Exit as a form of voice
+Review of Financial Studies , volume 22 , p. 2645 - 2685 Posted: 2009
+A Amel-Zadeh , G Serafeim
+Why and how investors use ESG information: Evidence from a global survey
+Financial Analysts Journal , p. 87 - 103 Posted: 2018
+M D Amore , M Bennedsen
+Corporate governance and green innovation
+Journal of Environmental Economics and Management , volume 75 , p. 54 - 72 Posted: 2016
+R Bénabou , J Tirole
+Individual and corporate social responsibility
+Economica , volume 77 , p. 1 - 19 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+97
+ABSTRACT VIEWS
+625
+RANK
+631,426
+31 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

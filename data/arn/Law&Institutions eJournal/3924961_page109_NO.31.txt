@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Using Machine Learning to Measure Conservatism
+
+38 Pages Posted: 21 Sep 2021 Last revised: 15 Mar 2023
+
+Jeremy Bertomeu
+
+Washington University in St. Louis - John M. Olin Business School
+
+Edwige Cheynel
+
+Washington University in St. Louis - John M. Olin Business School
+
+Yifei Liao
+
+University of California, Irvine - Paul Merage School of Business
+
+Mario Milone
+
+University of California, San Diego (UCSD) - Rady School of Management
+
+Date Written: September 16, 2021
+
+Abstract
+
+Machine learning can improve empirical proxies of conservatism by detecting patterns beyond linear regression techniques assumed in prior literature. Using a neural network approach, we show that measures based on machine-learning exhibit (a) better fit adjusted for degrees of freedom, (b) fewer economically anomalous observations, (c) less unexplained year-over-year instability, (d) a secular decline in conservatism, and (e) more robust associations with periods post restatements. In simulations, proxies based on machine learning methods are the most robust to specification error and reduce the incidence of false negatives. Our approach shows that, separate from their usefulness in predictive analytics, methods from machine learning can be used to capture more informative variation than existing measures.
+
+Keywords: machine learning, neural network, accounting, conservatism, measure, proxy
+
+JEL Classification: C1, D2, M4
+
+Suggested Citation:
+
+Bertomeu, Jeremy and Cheynel, Edwige and Liao, Yifei and Milone, Mario, Using Machine Learning to Measure Conservatism (September 16, 2021). Available at SSRN: https://ssrn.com/abstract=3924961 or http://dx.doi.org/10.2139/ssrn.3924961
+Download This Paper
+ 
+Open PDF in Browser
+65 References
+Ahmed , S Anwer , Scott Duellman
+Managerial overconfidence and accounting conservatism
+Journal of Accounting Research , volume 51 , issue 1 , p. 1 - 30 Posted: 2013
+Vic Anand , Robert Brunner , Kelechi Ikegwu , Theodore Sougiannis
+Predicting profitability using machine learning Posted: 2019
+Christopher Armstrong , George Foster , Daniel Taylor
+Abnormal accruals in newly public companies: opportunistic misreporting or economic activity?
+Management Science , volume 62 , issue 5 , p. 1316 - 1338 Posted: 2016
+Susan Athey
+The impact of machine learning on economics
+The economics of artificial intelligence: An agenda , p. 507 - 547 Posted: 2018
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+890
+ABSTRACT VIEWS
+2,698
+RANK
+61,482
+3 Citations
+65 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

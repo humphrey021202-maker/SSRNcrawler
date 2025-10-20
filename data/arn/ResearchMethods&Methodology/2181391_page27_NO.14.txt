@@ -1,0 +1,136 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+How Does Option Listing Affect Underlying Stock Efficiency? Evidence from a Duration Model
+
+39 Pages Posted: 29 Nov 2012
+
+Kaouther Jouaber-Snoussi
+
+Université Paris Dauphine
+
+Rim Tekaya
+
+Université Paris Dauphine
+
+Date Written: November 27, 2012
+
+Abstract
+
+We empirically investigate the effect of option listing on the underlying stock efficiency by examining the stock price duration dynamic and the informed trading activity around option listing. We use univariate tests and extended Log-ACD models that account for liquidity. Despite a significant increase in the price duration, option listing seems not to deteriorate the underlying stock efficiency. The results reject a permanent change in the informed trading activity but suggest a positive intraday seasonal impact. However, this result is not confirmed for low volume stocks. Furthermore, Euronext and Liffe merger in 2002 seems to have an impact on the duration process and the efficiency of underlying stocks.
+
+Keywords: Option listing, Efficiency, Price duration, Log-ACD model, Liquidity, Informed trading
+
+JEL Classification: C12, C13, C41, C51, G14
+
+Suggested Citation:
+
+Jouaber-Snoussi, Kaouther and Tekaya, Rim, How Does Option Listing Affect Underlying Stock Efficiency? Evidence from a Duration Model (November 27, 2012). Available at SSRN: https://ssrn.com/abstract=2181391 or http://dx.doi.org/10.2139/ssrn.2181391
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+Y Amihud , H Mendelson
+Trading mechanisms and stock returns : An empirical investigation
+The Journal of Finance , volume 42 , p. 533 - 553 Posted: 1987
+Crossref
+K J Arrow
+Le rôle des valeurs boursières pour la répartition la meilleure des risques
+Econométrie , volume 11 , p. 41 - 47 Posted: 1953
+P Artus
+Quand la création d'un marché à terme peut-elle déstabiliser le cours au comptant
+Revue Économique , volume 1 , p. 71 - 94 Posted: 1990
+Crossref
+A Aubier
+Comparaison empirique de modèles de durée: Étude sur une action du règlement mensuel. Revue Banque and Marchés , volume 48 , p. 23 - 30 Posted: 2000
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+154
+ABSTRACT VIEWS
+1,523
+RANK
+439,204
+50 References
+PlumX Metrics
+Related eJournals
+
+Universite Paris-Dauphine Research Papers Series
+
+Follow
+
+Derivatives eJournal
+
+Follow
+ 
+Recommended Papers
+
+The Econometrics of Ultra-High Frequency Data
+
+By Robert F. Engle
+
+Econometrics
+
+By Luc Bauwens and J. V. K. Rombouts
+
+Time-Varying Arrival Rates of Informed and Uninformed Trades
+
+By David Easley, Liuren Wu, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

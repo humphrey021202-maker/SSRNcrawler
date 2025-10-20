@@ -1,0 +1,155 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Tax Complexity Index – A Survey-Based Country Measure of Tax Code and Framework Complexity
+
+TRR 266 Accounting for Transparency Working Paper Series No. 5
+
+WU International Taxation Research Paper Series No. 2019-06
+
+84 Pages Posted: 16 Sep 2020 Last revised: 6 Jul 2021
+
+Thomas Hoppe
+
+Paderborn University
+
+Deborah Schanz
+
+Ludwig Maximilian University of Munich - Faculty of Business Administration (Munich School of Management)
+
+Susann Sturm
+
+Ludwig Maximilian University of Munich - Faculty of Business Administration (Munich School of Management)
+
+Caren Sureth-Sloane
+
+Paderborn University; Vienna University of Economics and Business; TRR 266 Accounting for Transparency
+
+Date Written: July 1, 2021
+
+Abstract
+
+This paper introduces the Tax Complexity Index (TCI). The TCI comprehensively measures the complexity of countries’ corporate income tax systems faced by multinational corporations. It builds on surveys of highly experienced tax consultants of the largest international tax services networks. The TCI is composed of a tax code subindex covering tax regulations and a tax framework subindex covering tax processes and features. For a sample of 100 countries, we find that tax complexity varies considerably across countries, and tax code and framework complexity also vary within countries. Among others, tax complexity is strongly driven by the complexity of transfer pricing regulations in the tax code and tax audits in the tax framework. When analyzing the associations with other country characteristics, we identify different patterns. For example, we find a positive association of GDP with tax code complexity and a negative association with tax framework complexity, suggesting that highly economically developed countries tend to have more complex tax codes and less complex frameworks. Overall, the tax complexity measures can serve as valuable proxies in future research and supportive tools for a variety of firm decisions and national and international tax policy discussions.
+
+Keywords: business taxation, cross-country survey, multinational corporations, tax complexity, tax complexity index, tax consultants
+
+JEL Classification: H20, H25, C83, O57
+
+Suggested Citation:
+
+Hoppe, Thomas and Schanz, Deborah and Sturm, Susann and Sureth-Sloane, Caren, The Tax Complexity Index – A Survey-Based Country Measure of Tax Code and Framework Complexity (July 1, 2021). TRR 266 Accounting for Transparency Working Paper Series No. 5, WU International Taxation Research Paper Series No. 2019-06, Available at SSRN: https://ssrn.com/abstract=3469663 or http://dx.doi.org/10.2139/ssrn.3469663
+Download This Paper
+ 
+Open PDF in Browser
+64 References
+J Abeler , S Jäger
+Complex Tax Incentives
+American Economic Journal: Economic Policy , volume 7 , issue 3 , p. 1 - 28 Posted: 2015
+Crossref
+B Akins , Y Dou , J Ng
+Corruption in Bank Lending: The Role of Timely Loan Loss Recognition
+Journal of Accounting and Economics , volume 63 , issue 2/3 , p. 454 - 478 Posted: 2017
+Crossref
+K Andries , J Gallemore , M Jacob
+The Effect of Corporate Taxation on Bank Transparency: Evidence from Loan Loss Provisions
+Journal of Accounting and Economics , volume 63 , issue 2/3 , p. 307 - 328 Posted: 2017
+Crossref
+V Athanasakou , F Eugster , T Schleicher , M Walker
+Annual Report Narratives and the Cost of Equity Capital: U.K. Evidence of a U-shaped Relation
+European Accounting Review , volume 29 , issue 1 , p. 27 - 54 Posted: 2020
+Crossref
+Load more
+26 Citations
+Kay Blaufus , Malte Chirvi , Hans-Peter Huber , Ralf Maiterth , Caren Sureth-Sloane
+Tax Misperception and Its Effects on Decision Making – Literature Review and Behavioral Taxpayer Response Model
+TRR 266 Accounting for Transparency Working Paper Series No. 39, WU International Taxation Research Paper Series No. 2020-13 · 85 Pages · Posted: 23 Sep 2020 · Last revised: 30 Apr 2021 · Downloads: 376
+Download PDF  Add Paper to My Library
+Tereza Zichová
+Visual Interface Design Innovation: Citizens' Perception of Financial Administration Applications
+Acta Informatica Pragensia , volume 11 , issue 1 , p. 1 Posted: 2022
+Crossref
+Thomas Hoppe , Deborah Schanz , Susann Sturm , Caren Sureth-Sloane , Johannes Voget
+The Relation between Tax Complexity and Foreign Direct Investments: Evidence Across Countries
+WU International Taxation Research Paper Series No. 2020-03, TRR 266 Accounting for Transparency Working Paper Series No. 13 · 60 Pages · Posted: 28 Jan 2020 · Last revised: 30 Apr 2021 · Downloads: 592
+Download PDF  Add Paper to My Library
+Sergio Pelaez , Bryan Hurtado , Javier Avila-Maecha
+Taxation and innovation: evidence from Colombia
+Economics of Innovation and New Technology , volume 33 , issue 1 , p. 166 Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,193
+ABSTRACT VIEWS
+7,556
+RANK
+40,711
+26 Citations
+64 References
+PlumX Metrics
+Related eJournals
+
+WU International Taxation Research Paper Series
+
+Follow
+
+Comparative Law & Trans-National Studies eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

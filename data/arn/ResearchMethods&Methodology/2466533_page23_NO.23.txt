@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting for Regressor-Error Dependencies in Educational Data: A Bayesian Mixture Approach
+
+Robert H. Smith School Research Paper No. RHS 2466533
+
+27 Pages Posted: 16 Jul 2014
+
+Peter Ebbes
+
+HEC Paris - Marketing
+
+Ulf Bockenholt
+
+Northwestern University
+
+Michel Wedel
+
+University of Maryland - Robert H. Smith School of Business
+
+Hyoryung Nam
+
+Erasmus University Rotterdam (EUR)
+
+Date Written: July 15, 2014
+
+Abstract
+
+Because frequently random assignment is not feasible in educational studies, our understanding of causal effects of student characteristics on academic performance has made little progress over the years. Omitted variables inducing correlations between regressors and error terms in multilevel data are a major hurdle. If the independence assumption of regressors and error components is not met, standard multilevel regression models yield biased and inconsistent results. This paper focusses on within-level regressor-error dependencies, caused by omitted variables, which are difficult to diagnose and remedy when additional data in the form of instrumental variables are not available. Specifically, we develop a multilevel mixture model that can account for correlations between regressor and error terms. The proposed approach allows for different specifications such as choice- or self-selection models. We present a flexible Bayesian estimation method that can be adapted easily to researchers' specific needs. Investigating the relationship between IQ and educational performance, we find empirical support for self-selection effects that distort substantially the observed relation between these measures.
+
+Keywords: endogeneity, mixture model, fixed-effects estimator, random-effects estimator, omitted variables, regressor-error dependencies
+
+Suggested Citation:
+
+Ebbes, Peter and Bockenholt, Ulf and Wedel, Michel and Nam, Hyoryung, Accounting for Regressor-Error Dependencies in Educational Data: A Bayesian Mixture Approach (July 15, 2014). Robert H. Smith School Research Paper No. RHS 2466533, Available at SSRN: https://ssrn.com/abstract=2466533 or http://dx.doi.org/10.2139/ssrn.2466533
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+J M Bernardo , F J Giron
+Chapter Robust Sequential Prediction from Nonrandom Samples: The Election Night Forecasting Case
+Bayesian Statistics , volume 4 , p. 61 - 77 Posted: 1992
+R J Bowden , D A Turkington
+Instrumental Variables Posted: 1984
+R J Carroll , K Roeder , L Wasserman
+Flexible parametric measurement error models
+Biometrics , volume 55 , p. 44 - 54 Posted: 1999
+Crossref
+P Congdon
+Bayesian Statistical Modelling Posted: 2006
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+147
+ABSTRACT VIEWS
+1,475
+RANK
+456,571
+16 References
+PlumX Metrics
+Related eJournals
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+
+Econometrics: Econometric & Statistical Methods - General eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

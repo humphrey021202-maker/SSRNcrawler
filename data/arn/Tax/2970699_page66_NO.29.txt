@@ -1,0 +1,123 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Payroll Tax & the Blockchain
+
+Tax Notes International, March 13, pp. 1007-1024, March 2017
+
+Boston Univ. School of Law, Law and Economics Research Paper No. 17-17
+
+32 Pages Posted: 18 May 2017
+
+Richard Thompson Ainsworth
+
+NYU - Graduate Tax Program; Boston University - School of Law
+
+Ville Viitasaari
+
+Finnish Tax Administration
+
+Date Written: March 13, 2017
+
+Abstract
+
+Bitcoin is an application that runs on blockchain technology. Blockchain is a foundational technology that is bringing in the second era of the Internet – the era where value can be transferred, rather than just information.
+
+Blockchain is developing along a four-stage path similar to that which TCP/IP took. Both are foundational technologies. TCP/IP brought the Internet, and eventually brought significant (transformational) technological changes in business like Amazon.com and Skype. These are changes that could not have been forecast at the beginning of the Internet age.
+
+Blockchain is an immutable distributed ledger. It replaces the inefficient use of multiple centralized ledgers. It will support smart contracts that automatically make payments, adjust accounts, and coordinate records among multiple organizations.
+
+A payroll application on blockchain’s distributed ledger will allow employees to be paid, and all related deductions and deposits to be made in real-time. It will allow multiple government agencies to immediately have audit-level access to all employee records, and all employer matching-payments. With a fiat crypto-currency a payroll application on the blockchain will allow immediate global payroll compliance at a fraction of the cost of current payroll compliance.
+
+Based on the trajectory of ITP/IP’s development it is reasonable to assume that a payroll application will be seen on a blockchain (most likely Quorum, a private/permissioned blockchain based on the Ethereum platform) by 2018-2021. The first one will be constructed either by a government (Finland or Estonia) or by a private company (in the USA). Costs will be so low that the industry will consolidate (picture the arrival of Amazon.com among the group of brick and mortar books stores that preceded it in the late 1990’s).
+
+A traditional payroll service provider today needs to prepare for this change by developing a pilot program internally that will educate its workforce to the advantages and operational intricacies of a service based in the blockchain.
+
+Keywords: Blockchain, Ethereum, Payroll, Tax, Foundational Technology, Smart Contracts, Payroll Service Provider, Futurice, Quorum
+
+JEL Classification: F10, K10, K14, K34, K39
+
+Suggested Citation:
+
+Ainsworth, Richard Thompson and Viitasaari, Ville, Payroll Tax & the Blockchain (March 13, 2017). Tax Notes International, March 13, pp. 1007-1024, March 2017, Boston Univ. School of Law, Law and Economics Research Paper No. 17-17, Available at SSRN: https://ssrn.com/abstract=2970699
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,338
+ABSTRACT VIEWS
+5,022
+RANK
+34,379
+31 References
+PlumX Metrics
+Related eJournals
+
+Tax eJournal
+
+Follow
+
+Tax Law & Policy eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

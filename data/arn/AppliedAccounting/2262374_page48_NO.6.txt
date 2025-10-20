@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Characteristics that Provide Independent Information about Average U.S. Monthly Stock Returns
+
+80 Pages Posted: 9 May 2013 Last revised: 16 Oct 2016
+
+Jeremiah Green
+
+Texas A&M University - Department of Accounting
+
+John R. M. Hand
+
+University of North Carolina Kenan-Flagler Business School
+
+Frank Zhang
+
+Yale School of Management
+
+Date Written: October 14, 2016
+
+Abstract
+
+We take up Cochrane’s (2011) challenge to identify the firm characteristics that provide independent information about average U.S. monthly stock returns by simultaneously including 94 characteristics in Fama-MacBeth regressions that avoid overweighting microcaps and adjust for data snooping bias. We find that while 12 characteristics are reliably independent determinants in non-microcap stocks during 1980-2014 as a whole, return predictability fell sharply in 2003 such that just two characteristics have been independent determinants since then. Outside of microcaps, the hedge returns to exploiting characteristics-based predictability have also been insignificantly different from zero since 2003.
+
+Keywords: Firm characteristics; anomalies; cross-section; average U.S. monthly returns
+
+JEL Classification: G1, M4
+
+Suggested Citation:
+
+Green, Jeremiah and Hand, John R. M. and Zhang, Frank, The Characteristics that Provide Independent Information about Average U.S. Monthly Stock Returns (October 14, 2016). Available at SSRN: https://ssrn.com/abstract=2262374 or http://dx.doi.org/10.2139/ssrn.2262374
+Download This Paper
+ 
+Open PDF in Browser
+28 References
+Jeffery S. Abarbanell , Brian J. Bushee
+Abnormal Returns to a Fundamental Analysis Strategy
+Pages: 40 Posted: 2 Dec 1996
+Download PDF  Add Paper to My Library
+J Francis , R Lafond , P M Olsson , K Schipper
+Costs of equity and earnings attributes
+The Accounting Review , volume 79 , issue 4 , p. 967 - 1010 Posted: 2004
+Crossref
+P M Fairfield , J S Whisenant , T L Yohn
+Accrued earnings and growth: Implications for future earnings performance and market mispricing
+The Accounting Review , volume 78 , issue 1 , p. 353 - 371 Posted: 2003
+Crossref
+K French
+The costs of active trading
+Journal of Finance , volume 63 , p. 1537 - 1573 Posted: 2008
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+8,199
+ABSTRACT VIEWS
+23,683
+RANK
+1,783
+245 Citations
+28 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

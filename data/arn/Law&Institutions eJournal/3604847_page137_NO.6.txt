@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Irrelevance of ESG Disclosure to Retail Investors
+
+44 Pages Posted: 12 Jun 2020 Last revised: 11 Oct 2024
+
+Austin Moss
+
+University of Colorado at Boulder
+
+James P. Naughton
+
+University of Virginia, Darden School of Business
+
+Clare Wang
+
+University of Colorado at Boulder - Leeds School of Business
+
+Date Written: May 19, 2020
+
+Abstract
+
+Using an hourly dataset on retail investor individual security positions from Robinhood Markets, we find no evidence that ESG disclosures inform retail investors’ buy and sell decisions. The response on ESG press release days by retail investors is indistinguishable from non-event days. In contrast, these same investors make economically meaningful changes to their portfolios in response to non-ESG press releases, especially those that pertain to earnings announcements. We use stock return tests to show that there is economic content in ESG press releases, and we conduct subsample analyses showing that retail investors do not respond to the most salient and economically transparent ESG disclosures. Collectively, these tests suggest that a lack of economic content, a lack of visibility, and difficulty with investment integration are unlikely to explain our findings.
+
+Keywords: ESG, Retail Investors, Corporate Social Responsibility
+
+JEL Classification: M41, D83, G14, G32, G34
+
+Suggested Citation:
+
+Moss, Austin and Naughton, James P. and Wang, Clare, The Irrelevance of ESG Disclosure to Retail Investors (May 19, 2020). Available at SSRN: https://ssrn.com/abstract=3604847 or http://dx.doi.org/10.2139/ssrn.3604847
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+Y Barardehi , D Bernhardt , Z Da , M Warachka
+Internalized retail order imbalances and institutional liquidity demand Posted: 2022
+J Barrot , R Kaniel , D Sraer
+Are retail traders compensated for providing liquidity
+Journal of Financial Economics , volume 120 , issue 1 , p. 146 - 168 Posted: 2016
+E Blankespoor , E Dehaan , C Zhu
+Capital market effects of media synthesis and dissemination: Evidence from robo-journalism
+Review of Accounting Studies , volume 23 , issue 1 , p. 1 - 36 Posted: 2018
+E Blankespoor , E Dehaan , J Wertz , C Zhu
+Why do individual investors disregard accounting information? The roles of information awareness and acquisition costs
+Journal of Accounting Research , volume 57 , issue 1 , p. 53 - 84 Posted: 2019
+Load more
+17 Citations
+Roman Kräussl , Tobi Oladiran , Denitsa Stefanova
+A review on ESG investing: Investors’ expectations, beliefs and perceptions
+Journal of Economic Surveys , volume 38 , issue 2 , p. 476 Posted: 2024
+Crossref
+Hyejin Park , Minki Kim , Doojin Ryu
+Heterogeneous investor attention to climate risk: Evidence from a unique dataset
+Investment Analysts Journal , volume 51 , issue 4 , p. 253 Posted: 2022
+Crossref
+Guillaume Coqueret
+Perspectives in ESG equity investing
+81 Pages · Posted: 13 Nov 2020 · Last revised: 10 Mar 2021 · Downloads: 4,013
+Download PDF  Add Paper to My Library
+A. Csordás , M. Al-Dalahmeh
+Developing Trust, Developing Economies: The Role of ESG Disclosure in Attracting Foreign Investment
+Finance: Theory and Practice Posted: 2024
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+3,915
+ABSTRACT VIEWS
+13,249
+RANK
+6,301
+17 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+S&P Global Market Intelligence Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

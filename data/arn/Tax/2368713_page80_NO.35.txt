@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Tax Attractiveness and the Location of German-Controlled Subsidiaries
+
+arqus, Quantitative Research in Taxation, Discussion Paper No. 142
+
+54 Pages Posted: 17 Dec 2013
+
+Sara Keller
+
+WHU - Otto Beisheim School of Management
+
+Deborah Schanz
+
+Ludwig Maximilian University of Munich - Faculty of Business Administration (Munich School of Management)
+
+There are 2 versions of this paper
+
+Date Written: April 2, 2013
+
+Abstract
+
+This paper analyzes whether taxation has an influence on the location decisions of multinational enterprises. As a tax measure, we employ the Tax Attractiveness Index (see Keller and Schanz 2013). This index covers 18 different tax factors, such as the taxation of dividends and capital gains, withholding taxes, the existence of a group taxation regime, and thin capitalization rules. Our count data regression analysis is based on a novel hand-collected data set consisting of the subsidiaries of German DAX30 companies. Controlling for non-tax effects, we find that a country’s tax environment as measured by the Tax Attractiveness Index has a significantly positive effect on the number of German controlled subsidiaries located there. Hence, our study implies that location decisions depend on a bundle of tax factors as captured by the index. In a second step, we show that the location decisions of German DAX30 companies cannot be explained by the statutory tax rate alone. In contrast, withholding taxes, double treaty networks, and special holding regimes seem to play a decisive role in location decisions. Previous studies examining only the influence of statutory tax rates may thus have underestimated the effects of taxation on the activities of multinational companies.
+
+Keywords: tax attractiveness, location decision, multinational enterprise, count data model
+
+JEL Classification: H25, H26, F23
+
+Suggested Citation:
+
+Keller, Sara and Schanz, Deborah, Tax Attractiveness and the Location of German-Controlled Subsidiaries (April 2, 2013). arqus, Quantitative Research in Taxation, Discussion Paper No. 142, Available at SSRN: https://ssrn.com/abstract=2368713 or http://dx.doi.org/10.2139/ssrn.2368713
+Download This Paper
+ 
+Open PDF in Browser
+21 References
+R Altshuler , H Grubert , T S Newlon , ; J R Hines , Chicago
+Has U.S. investment abroad become more sensitive to tax rates?
+International Taxation and Multinational Activity , p. 9 - 32 Posted: 2001
+Crossref
+S Barrios , H Huizinga , L Laeven , G Nicodème
+International taxation and multinational firm location decisions
+Journal of Public Economics , volume 96 , p. 946 - 958 Posted: 2012
+Crossref
+J Becker , C Fuest
+Internationalization and business tax revenue -evidence from Germany
+International Tax and Public Finance , volume 17 , issue 2 , p. 174 - 192 Posted: 2010
+Crossref
+S O Becker , P H Egger , V Merlo
+How low business tax rates attract MNE activity: municipality-level evidence from Germany
+Journal of Public Economics , volume 96 , issue 9 , p. 698 - 711 Posted: 2012
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+100
+ABSTRACT VIEWS
+1,762
+RANK
+285,369
+2 Citations
+21 References
+PlumX Metrics
+Related eJournals
+
+European Finance eJournal
+
+Follow
+
+Tax eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

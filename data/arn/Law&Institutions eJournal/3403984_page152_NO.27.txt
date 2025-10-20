@@ -1,0 +1,121 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Determinants of the Duration of the Voluntary Administration Process: An Unconditional Quantile Regression Analysis
+
+51 Pages Posted: 20 Jun 2019 Last revised: 22 May 2020
+
+John Goodwin
+
+Corvinus University
+
+James Routledge
+
+Hitotsubashi University
+
+Date Written: April 30, 2020
+
+Abstract
+
+This study explores determinants of voluntary administration (VA) and deed of company arrangement (DOCA) durations using unconditional quantile regression (UQR). There is heterogeneity in the strength of determinants across the VA and DOCA distributions. Determinants related to complexity and negotiation, including size, debt restructuring and firm age are more important at longer VA durations. Determinants related to scale and procedure, including size, capital provider existence and accounting quality are more important at longer DOCA durations. Few determinants explain short VA and DOCA durations. The UQR results uncovered other new empirical regularities.
+
+Keywords: voluntary administration, deed of company arrangement, duration
+
+JEL Classification: M41, G33
+
+Suggested Citation:
+
+Goodwin, John and Routledge, James, Determinants of the Duration of the Voluntary Administration Process: An Unconditional Quantile Regression Analysis (April 30, 2020). Available at SSRN: https://ssrn.com/abstract=3403984 or http://dx.doi.org/10.2139/ssrn.3403984
+Download This Paper
+ 
+Open PDF in Browser
+33 References
+B E Adler
+Bankruptcy and risk allocation
+Cornell Law Review , volume 77 , p. 439 - 489 Posted: 1992
+Crossref
+P A Aguiar Do Monte
+Wage cost of incidence and duration of unemployment in Brazil
+The Indian Journal of Labour Economics , volume 59 , p. 511 - 528 Posted: 2016
+M Gamboa-Cavasos , F Schneider
+Bankruptcy as a legal process, Working paper Posted: 2007-04-19
+X Gine , I Love
+Do reorganization costs matter for efficiency? Evidence from a bankruptcy reform in Colombia , volume 3970 Posted: 2006
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+79
+ABSTRACT VIEWS
+968
+RANK
+718,946
+33 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

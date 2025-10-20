@@ -1,0 +1,147 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Accounting Conservatism in Japan: Time Series Analysis of the Asymmetric Timeliness of Earnings
+
+52 Pages Posted: 30 Nov 2011
+
+Kazuyuki Suda
+
+Waseda University
+
+Tomomi Takada
+
+Kobe University - Graduate School of Business Administration
+
+Date Written: October 31, 2011
+
+Abstract
+
+We examine time-series variations in accounting conservatism in the Japanese market. Previous studies have found that the Japanese market has low accounting conservatism. Over the last 30 years, however, the Japanese market has experienced significant institutional changes. Thus, we examine whether accounting conservatism in the Japanese market varied over the period 1979-2007. To quantify accounting conservatism, we use the model developed by Basu (1997), known as “asymmetric timeliness”. Because the market-to-book (MTB) ratio is an alternative measure of accounting conservatism, and Roychowdhury and Watts (2007) find a cause-and-effect relationship between asymmetric timeliness and MTB, we also investigate whether institutional changes affect this relationship.
+
+To assess institutional changes in the Japanese market, we highlight the code law origin and corporate governance, litigation risk, GAAP rules, the boom and bust economic cycle, and ownership structure. These factors are interrelated and mutually influence the asymmetric timeliness of earnings. We divide our sample period into four (1979-1984, 1985-1990, 1991-1999, 2000-2007), based on variations in these factors.
+
+We find that Japanese firms exhibit asymmetric timeliness, regardless of the investigation period, and the fourth period exhibits the highest asymmetric timeliness. Our analysis reveals that GAAP rule amendments around 2000 had considerable effects on this variation in asymmetric timeliness, although it seems unlikely that it was the only factor. Further analysis demonstrates that the boom and bust economic cycle weakened the cause-and-effect relationship between asymmetric timeliness and MTB.
+
+Keywords: Japan, accounting conservatism, asymmetric timeliness, book-to-market
+
+JEL Classification: M41, G32, G34
+
+Suggested Citation:
+
+Suda, Kazuyuki and Takada, Tomomi, Accounting Conservatism in Japan: Time Series Analysis of the Asymmetric Timeliness of Earnings (October 31, 2011). Available at SSRN: https://ssrn.com/abstract=1965828 or http://dx.doi.org/10.2139/ssrn.1965828
+Download This Paper
+ 
+Open PDF in Browser
+64 References
+A S Ahmed , S Duellman
+Accounting conservatism and board of director characteristics: An empirical analysis
+Journal of Accounting and Economics , volume 43 , issue jou_issue[1].xmlText , p. 411 - 437 Posted: 2007
+Crossref
+M Aoki , G Jackson , H Miyajima
+Corporate governance in Japan Posted: 2007
+Crossref
+R Ball , S P Kothari , A Robin
+The effect of international institutional factors on properties of accounting earnings
+Journal of Accounting and Economics , volume 29 , issue 1 , p. 1 - 51 Posted: 2000
+Crossref
+R Ball , A Robin , J S Wu
+Incentives versus standards: Properties of accounting income in four East Asian countries
+Journal of Accounting and Economics , volume 36 , issue jou_issue[1].xmlText , p. 235 - 270 Posted: 2003
+Crossref
+Load more
+1 Citations
+Melissa Moy , Richard Heaney , Ann Tarca , Warrick van Zyl
+Conditional accounting conservatism: Exploring the impact of changes in institutional frameworks in four countries
+Journal of Contemporary Accounting & Economics , volume 16 , issue 3 , p. 100214 Posted: 2020
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+306
+ABSTRACT VIEWS
+2,233
+RANK
+226,842
+1 Citations
+64 References
+PlumX Metrics
+Related eJournals
+
+Econometrics: Single Equation Models eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+Recommended Papers
+
+The Effect of International Institutional Factors on Properties of Accounting Earnings
+
+By Ray Ball, S.p. Kothari, ...
+
+Conservatism in Accounting
+
+By Ross L. Watts
+
+The Relevance of the Value Relevance Literature for Financial Accounting Standard Setting
+
+By Robert W. Holthausen and Ross L. Watts
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,127 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+CEO Equity Incentive Duration and Expected Crash Risk
+
+British Accounting Review, Forthcoming
+
+60 Pages Posted: 14 Jun 2022 Last revised: 19 Dec 2024
+
+Zhenjiang Gu
+
+Grenoble École de Management
+
+Louise Yi Lu
+
+Australian National University
+
+Yangxin Yu
+
+City University of Hong Kong
+
+Date Written: April 1, 2019
+
+Abstract
+
+This study examines the effect of CEO equity incentive duration on firm-specific ex ante crash risk. Using a measure that explicitly accounts for the length of stock and option grant vesting terms (Gopalan et al., 2014), we find that longer CEO equity incentive duration reduces investors’ perceived crash risk, gauged by the steepness of option implied volatility smirk. This finding holds for alternative measures of duration that account for endogeneity, alternative regression specification with lagged independent variables and using an instrumental variable approach. We further find that this negative relation is more salient for firms whose CEOs have a higher level of career concerns and for firms with weaker external monitoring. Additional tests point to financial reporting obfuscation and over-investment as two possible channels through which the duration–crash risk relation operates. Overall, our results suggest that lengthening CEO equity incentive duration discourages managers from bad news hoarding and continuing negative NPV projects, which reduces a firm’s expected crash risk.
+
+Keywords: equity incentive duration, bad news withholding, expected crash risk
+
+JEL Classification: G12, G17, M12, M41, M52
+
+Suggested Citation:
+
+Gu, Zhenjiang and Lu, Louise Yi and Yu, Yangxin, CEO Equity Incentive Duration and Expected Crash Risk (April 1, 2019). British Accounting Review, Forthcoming, Available at SSRN: https://ssrn.com/abstract=4131454
+Download This Paper
+ 
+Open PDF in Browser
+95 References
+M Al Mamun , B Balachandran , H N Duong
+Powerful CEOs and stock price crash risk
+Journal of Corporate Finance , volume 62 Posted: 2020
+A Ali , W Zhang
+CEO tenure and earnings management
+Journal of Accounting and Economics , volume 59 , issue 1 , p. 60 - 79 Posted: 2015
+P Andreou , C Louca , A Petrou
+CEO age and stock price crash risk
+Review of Finance , volume 21 , issue 3 , p. 1287 - 1325 Posted: 2017
+C Armstrong , J Core , W Guay
+Why do CEOs hold so much equity? Working Paper Posted: 2015-08-13
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+93
+ABSTRACT VIEWS
+759
+RANK
+649,230
+1 Citations
+95 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

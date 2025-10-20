@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Price Jump Indicators: Stock Market Empirics During the Crisis
+
+William Davidson Institute Working Paper No. 1050
+
+35 Pages Posted: 1 Aug 2013
+
+Jan Novotny
+
+Charles University in Prague - CERGE-EI, a joint workplace of Charles University and the Economics Institute of the Czech Academy of Sciences; City University London - Faculty of Finance; City University London - Faculty of Finance
+
+Jan Hanousek
+
+Faculty of Business and Economics, Mendel University in Brno; Centre for Economic Policy Research (CEPR)
+
+Evžen Kočenda
+
+Charles University in Prague - Institute of Economic Studies; Institute of Information Theory and Automation (Czech Academy of Sciences) - Department of Econometrics; CESifo; University of Regensburg - Institute for East and Southeast European Studies
+
+Date Written: June 29, 2013
+
+Abstract
+
+We analyze the behavior and performance of multiple price jump indicators across markets and over time. By using high-frequency stock market data we identify clusters of price jump indicators that share similar properties in terms of their performance in that they minimize Type I and Type II errors. We show that clusters of price jump indicators formed over the observations do not exhibit equal size. Clusters are stable across stock market indices and accuracy across price jump indicators are both stable over time. There was no significant change in the composition of clusters associated with market activity and the detected numbers of price jumps are stable over time. The recent financial crisis does not seem to affect the overall jumpiness of mature or emerging stock markets. Our results support the stress testing approach of the Basel III Accords in that the jump component of the volatility process does not need to be treated separately for the purpose of stress testing.
+
+Keywords: stock markets, price jump indicators, non-parametric testing, clustering analysis, financial econometrics, Basel Accords
+
+JEL Classification: C14, C58, F37, G15, G17
+
+Suggested Citation:
+
+Novotny, Jan and Novotny, Jan and Novotny, Jan and Hanousek, Jan and Kocenda, Evzen, Price Jump Indicators: Stock Market Empirics During the Crisis (June 29, 2013). William Davidson Institute Working Paper No. 1050, Available at SSRN: https://ssrn.com/abstract=2302835 or http://dx.doi.org/10.2139/ssrn.2302835
+Download This Paper
+ 
+Open PDF in Browser
+45 References
+V Acharya , M Richardson
+Restoring Financial Stability: How to Repair a Failed System Posted: 2009
+Y Ait-Sahalia , J Cacho-Diaz , T Hurd
+Portfolio Choice with Jumps: A Closed Form Solution
+Annals of Applied Probability , volume 19 , p. 556 - 584 Posted: 2009
+Crossref
+Y Ait-Sahalia , J Jacod
+Testing for Jumps in a Discretely Observed Process
+Annals of Statistics , volume 37 , p. 184 - 222 Posted: 2009
+Crossref
+Y Ait-Sahalia , J Jacod
+Estimating the Degree of Activity of Jumps in High Frequency Data
+Annals of Statistics , volume 37 , p. 2202 - 2244 Posted: 2009
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+164
+ABSTRACT VIEWS
+1,656
+RANK
+416,013
+3 Citations
+45 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

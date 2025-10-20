@@ -1,0 +1,143 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Risk Aversion, Prudence, and Compensation
+
+Forthcoming, European Journal of Finance
+
+23 Pages Posted: 19 Jan 2012 Last revised: 8 Aug 2014
+
+Pierre Chaigneau
+
+Queen's University; Queen’s University; European Corporate Governance Institute (ECGI)
+
+Date Written: July 2014
+
+Abstract
+
+In a standard principal-agent setting, we use a comparative approach to study the incentives provided by different types of compensation contracts, and their valuation by managers with utility function u who are risk averse (u'' < 0) and prudent (u''' > 0). We show that concave contracts tend to provide more incentives to risk averse managers, while convex contracts tend to be more valued by prudent managers. This is because concave contracts concentrate incentives where the marginal utility of risk averse managers is highest, while convex contracts protect against downside risk. Thus, managerial prudence can contribute to explain the prevalence of stock-options in executive compensation. However, convex contracts are not optimal when the principal is sufficiently prudent relative to the manager.
+
+Keywords: downside risk, executive compensation, principal-agent model, prudence, risk preferences, stock options
+
+JEL Classification: D80, D86, J33
+
+Suggested Citation:
+
+Chaigneau, Pierre, Risk Aversion, Prudence, and Compensation (July 2014). Forthcoming, European Journal of Finance, Available at SSRN: https://ssrn.com/abstract=1988375 or http://dx.doi.org/10.2139/ssrn.1988375
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+A Ang , J Chen , Y Xing
+Review of Financial Studies , volume 19 , issue 4 , p. 1191 - 1239 Posted: 2006
+Crossref
+L Bebchuk , J Fried
+Pay Without Performance: the Unfulfilled Promise of Executive Compensation Posted: 2004
+M Browning , A Lusardi
+Household saving: micro theories and micro facts
+Journal of Economic Literature , volume 34 , issue 4 , p. 1797 - 1855 Posted: 1996
+P Chaigneau
+Explaining the structure of CEO incentive pay with decreasing relative risk aversion
+Journal of Economics and Business , volume 67 , p. 4 - 23 Posted: 2013
+Crossref
+Load more
+2 Citations
+Ana M. Albuquerque , Rui A. Albuquerque , Mary Ellen Carter , Qi (Flora) Dong
+How Large Is the Pay Premium From Executive Incentive Compensation?
+European Corporate Governance Institute – Finance Working Paper No. 697/2020, · 62 Pages · Posted: 13 Aug 2018 · Last revised: 11 Apr 2024 · Downloads: 6
+Download PDF  Add Paper to My Library
+Ana M. Albuquerque , Rui A. Albuquerque , Mary Ellen Carter , Qi (Flora) Dong
+Are CEOS Paid Extra for Riskier Pay Packages?
+CEPR Discussion Paper No. DP15243 · 64 Pages · Posted: 12 Sep 2020 · Last revised: 8 Nov 2023 · Downloads: 6
+ Add To Cart  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+284
+ABSTRACT VIEWS
+2,204
+RANK
+245,414
+2 Citations
+29 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Managerial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Executive Compensation
+
+By Kevin J. Murphy
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+Are CEOS Really Paid Like Bureaucrats?
+
+By Brian J. Hall and Jeffrey B. Liebman
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

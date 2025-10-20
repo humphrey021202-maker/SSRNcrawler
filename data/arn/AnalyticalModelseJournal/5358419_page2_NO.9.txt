@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+When Transparency Undermines Social Welfare: A Tale of ESG Disclosure and Product Market Catering
+
+81 Pages Posted: 24 Jul 2025 Last revised: 3 Aug 2025
+
+Ibrahima Sall
+
+Washington University in St. Louis
+
+Date Written: May 09, 2025
+
+Abstract
+
+This paper presents a theoretical model examining product market competition between two firms in an environment where buyers and investors exhibit heterogeneous sensitivities to Environmental, Social, and Governance (ESG) practices. I analyze two distinct regimes of corporate sustainability transparency: an opaque regime and a fully transparent regime. Increased transparency does not necessarily enhance social welfare, as total transparency can lead to strategic market segmentation and higher aggregate negative externalities. Further, the incremental profit and market value attributable to sustainability nay be lower for the "green" firm compared to the "brown" firm. Empirical tests using the 2017 Thomson Reuters Asset 4 ESG rating expansion confirm the theoretical prediction, highlighting implications for empirical studies evaluating the impact of ESG transparency on firm value. The analysis highlights how competitive effects can spill over to untreated or brown firms within the same industry, underscoring the need for caution when selecting control samples in difference-indifferences empirical designs.
+
+Keywords: ESG, Sustainability, Transparency, Welfare, Externality, Surplus, Competition, Product Market
+
+Suggested Citation:
+
+Sall, Ibrahima, When Transparency Undermines Social Welfare: A Tale of ESG Disclosure and Product Market Catering (May 09, 2025). Available at SSRN: https://ssrn.com/abstract=5358419 or http://dx.doi.org/10.2139/ssrn.5358419
+Download This Paper
+ 
+Open PDF in Browser
+50 References
+Cyrus Aghamolla , Byeong-Je An
+Mandatory vs. voluntary ESG disclosure, efficiency, and real effects Posted: 2023
+Axel Anderson , Luis Mb Cabral
+Go for broke or play it safe? dynamic competition with choice of variance
+The RAND Journal of Economics , volume 38 , issue 3 , p. 593 - 609 Posted: 2007
+Simon P Anderson , Stephen Coate
+Market provision of broadcasting: A welfare analysis
+The review of Economic studies , volume 72 , issue 4 , p. 947 - 972 Posted: 2005
+Mark Armstrong
+Competition in two-sided markets
+The RAND journal of economics , volume 37 , issue 3 , p. 668 - 691 Posted: 2006
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+74
+ABSTRACT VIEWS
+271
+RANK
+747,544
+50 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

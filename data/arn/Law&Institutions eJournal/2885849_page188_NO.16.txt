@@ -1,0 +1,108 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Estimating the Compliance Costs of Securities Regulation: A Bunching Analysis of Sarbanes-Oxley Section 404(b)
+
+CESifo Working Paper Series No. 6180
+
+57 Pages Posted: 15 Dec 2016
+
+Dhammika Dharmapala
+
+UC Berkeley School of Law; CESifo (Center for Economic Studies and Ifo Institute); European Corporate Governance Institute (ECGI)
+
+There are 3 versions of this paper
+
+Date Written: November 16, 2016
+
+Abstract
+
+An extensive literature has analyzed the Sarbanes-Oxley (SOX) legislation enacted in 2002, but its social welfare consequences remain controversial. One of the most significant provisions of SOX – auditor attestation of internal controls under Section 404(b) – has been applied only to firms that have a public float (i.e. the market value of shares held by non-insiders) of at least $75 million. Public float is not reported in standard databases; this paper “scrapes” public float data from 10-K filings, resulting in about 161,000 observations at the firm-year level for the universe of reporting entities for fiscal years 1993-2015. The analysis compares the number of public float observations immediately below the $75 million threshold to a smooth counterfactual density estimated using a flexible polynomial fitted to the observed density away from the threshold. In the pre-SOX period, there is no detectable divergence between the actual and counterfactual density around $75 million. Since the enactment of SOX, there is substantial and statistically significant “bunching” below the threshold, exhibiting a bimodal pattern. The magnitude of bunching implies that firms around the threshold reduce their public float by about $1.7 million. This estimate is consistent with SOX 404(b) imposing a net compliance cost of about $4-$6 million (in present value terms) on firms in the region of the threshold. The results are robust to considering various alternative explanations for bunching, including the possibility that firms’ insiders avoid crossing the threshold in order to continue extracting private benefits of control. The paper also explores potential financial and economic consequences of bunching, in particular on the debt financing and investment choices of firms close to threshold.
+
+Keywords: securities regulation, Sarbanes-Oxley, public float, compliance costs, bunching analysis
+
+JEL Classification: G380, K220
+
+Suggested Citation:
+
+Dharmapala, Dhammika, Estimating the Compliance Costs of Securities Regulation: A Bunching Analysis of Sarbanes-Oxley Section 404(b) (November 16, 2016). CESifo Working Paper Series No. 6180, Available at SSRN: https://ssrn.com/abstract=2885849 or http://dx.doi.org/10.2139/ssrn.2885849
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+177
+ABSTRACT VIEWS
+2,250
+RANK
+76,893
+PlumX Metrics
+Related eJournals
+
+CESifo Working Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

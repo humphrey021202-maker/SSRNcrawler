@@ -1,0 +1,109 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Financial Reporting Uniformity: Its Relation to Comparability and Its Impact on Financial Statement Users
+
+Journal of Business Finance & Accounting, Volume 49, Issue 9-10, Pages 1457-1488, October-November 2022
+
+Posted: 30 Jul 2018 Last revised: 30 Jun 2025
+
+Marcus L. Caylor
+
+Kennesaw State University
+
+Dennis J. Chambers
+
+Kennesaw State University; University of Kentucky - Von Allmen School of Accountancy
+
+Sunay Mutlu
+
+Kennesaw State University - Michael J. Coles College of Business
+
+Date Written: March 21, 2022
+
+Abstract
+
+We explore the relation between financial reporting uniformity and comparability. We also examine the effect of uniformity on analyst coverage, analyst forecast accuracy, and analyst forecast dispersion. We develop a Compustat-based financial statement account uniformity measure based on the presentation of common financial statement line items. We define uniformity using a Jaccard similarity index where a firm’s non-missing Compustat data items are compared to a prototypical firm for that industry-year. We emphasize the conceptual difference between uniformity and comparability, and our tests do not show a significant association between uniformity and output-based accounting comparability. However, we find that the association between account uniformity and comparability becomes positive in high R&D firms, while it becomes negative in firms with higher managerial discretion. We explore the association between uniformity and information processing efficiencies, and we show that our uniformity measure is positively associated with analyst coverage. Furthermore, we partition our uniformity measure into separate income statement and balance sheet components. We find that income statement uniformity is associated with higher forecast accuracy and lower forecast dispersion, while balance sheet uniformity is associated with greater analyst coverage. Finally, we provide further support for these findings using an XBRL-based uniformity measure.
+
+Keywords: Uniformity, Flexibility, Comparability, Analyst Forecasts, Analyst Coverage, Analyst Forecast Dispersion, Analyst Forecast Accuracy, XBRL
+
+JEL Classification: M41, G10, G14
+
+Suggested Citation:
+
+Caylor, Marcus L. and Chambers, Dennis J. and Mutlu, Sunay, Financial Reporting Uniformity: Its Relation to Comparability and Its Impact on Financial Statement Users (March 21, 2022). Journal of Business Finance & Accounting, Volume 49, Issue 9-10, Pages 1457-1488, October-November 2022, Available at SSRN: https://ssrn.com/abstract=3221183 or http://dx.doi.org/10.2139/ssrn.3221183
+ Not Available for Download
+0 References
+1 Citations
+Elaine Henry , Fang-Chun Liu , Steve Y. Yang , Xiaodi Zhu
+Does Financial Statement Line-item Comparability Affect Analysts’ Forecasts?
+Journal of Accounting, Auditing & Finance, Forthcoming · 56 Pages · Posted: 8 Mar 2018 · Last revised: 17 Apr 2023 · Downloads: 678
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+3,228
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

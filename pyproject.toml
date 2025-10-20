@@ -1,0 +1,19 @@
+[project]
+name = "ssrn-crawler"
+version = "0.1.0"
+description = "Async SSRN crawler with checkpoint resume"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "playwright>=1.47.0",
+  "aiofiles",
+]
+
+[project.scripts]
+ssrn-crawler = "ssrn_crawler.main:run"
+
+[tool.black]
+line-length = 100
+
+[tool.isort]
+profile = "black"

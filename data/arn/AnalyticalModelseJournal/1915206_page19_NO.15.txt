@@ -1,0 +1,130 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Noise Hedging and Executive Compensation
+
+35 Pages Posted: 23 Aug 2011 Last revised: 12 Jan 2022
+
+Neil A. Doherty
+
+University of Pennsylvania - Insurance & Risk Management Department; University of Pennsylvania - Business & Public Policy Department
+
+James R. Garven
+
+Baylor University - Department of Finance, Insurance & Real Estate
+
+Sven Sinclair
+
+Social Security Administration
+
+Date Written: April 15, 2013
+
+Abstract
+
+We address two apparent paradoxes of risk management: (1) managers hedge in order to avoid negative earnings surprises, yet they tend to hedge risks uninformative of the value of the company; and (2) the presence of options in managers’ compensation distorts their incentive to hedge, inducing them to expose the company to too much risk. Our model is based on informational asymmetry between insiders (managers) and outsiders (investors). Investors derive information about company value from net cash flows (earnings), but the information revealed through earnings depends on the risk management strategy pursued by managers. Fully revealing earnings information is in the investors’ interest, so they design a compensation package to induce managers to make the earnings fully informative. With appropriate assumptions, we show that managers will select the efficient hedge strategy if their compensation includes stock options. Our model also provides a rational explanation for the observed vigorous response of stock prices to modest earnings surprises. Results based upon the analysis of Compustat and Execucomp data provide empirical support for our model; other things equal, firms that offer their CEO’s proportionately higher options-related compensation exhibit stronger stock price responses to changes in earnings and tend to have higher Tobin’s q’s.
+
+Keywords: Employee stock options, Incentives, Executive compensation
+
+JEL Classification: G30, J33, M41
+
+Suggested Citation:
+
+Doherty, Neil A. and Garven, James R. and Sinclair, Sven, Noise Hedging and Executive Compensation (April 15, 2013). Available at SSRN: https://ssrn.com/abstract=1915206 or http://dx.doi.org/10.2139/ssrn.1915206
+Download This Paper
+ 
+Open PDF in Browser
+40 References
+References Bartov , Dan Eli , Carla Givoly , Hayn
+The rewards to meeting or beating earnings expectations
+Journal of Accounting and Economics , volume 33 , issue 2 , p. 173 - 204 Posted: 2002
+Lucian A Bebchuk , Alma Cohen
+The costs of entrenched boards
+Journal of Financial Economics , volume 78 , issue 2 , p. 409 - 433 Posted: 2005
+Ravi Bhushan
+Firm characteristics and analyst following
+Journal of Accounting and Economics , volume 11 , issue 2-3 , p. 255 - 274 Posted: 1989
+Douglas Breeden , S Viswanathan
+Why Do Firms Hedge? An Asymmetric Information Model Posted: 1998
+Load more
+1 Citations
+Marcel Boyer , M. Martin Boyer , René Garcia
+Alleviating Coordination Problems and Regulatory Constraints Through Financial Risk Management
+CIRANO - Scientific Publication No. 2011s-48 · 46 Pages · Posted: 30 Aug 2011 · Downloads: 78
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+264
+ABSTRACT VIEWS
+2,362
+RANK
+264,473
+1 Citations
+40 References
+PlumX Metrics
+Related eJournals
+
+The Wharton School, University of Pennsylvania Research Paper Series
+
+Follow
+
+Risk Management eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

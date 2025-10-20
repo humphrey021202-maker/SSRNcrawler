@@ -1,0 +1,125 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Analysing High Frequency Data Using ARCH and GARCH Methods
+
+44 Pages Posted: 21 May 2010 Last revised: 23 Jul 2010
+
+Rohit Krishnan
+
+London Business School; Singapore Management University; Nanyang Technological University
+
+Date Written: April 28, 2010
+
+Abstract
+
+High frequency data is a recent entrant to the world of statistics as they relate to the markets. With tick by tick data we get to see the microstructure of the markets and often are better able to see how they vary from the traditional portrayal. Traditional tools used to look at daily and weekly volatilities are not often very useful in timescales of seconds and minutes. In this paper we try to look at two of the most highly traded stocks in the Indian stock market. The large and small errors tend to cluster together, and thus autoregressive conditional heteroscedasticity models are introduced. First we look at ARCH models on tick by tick data of SBI. Then we look at the GARCH models – with two stocks SBI and TATA – and its variants such as PGARCH and EGARCH to try to see if we can predict the conditional variance. We also glance at the DCC GARCH model to see if a bivariate view gives us any new insights. Finally we try to sum up the various techniques by evaluating them according to their utility in estimating high frequency data.
+
+Keywords: High Frequency Data, Indian Markets, BSE, Tata, PGARCH, EGARCH, DCC GARCH, Tick by Tick
+
+JEL Classification: C22, C87, D40, G19
+
+Suggested Citation:
+
+Krishnan, Rohit, Analysing High Frequency Data Using ARCH and GARCH Methods (April 28, 2010). Available at SSRN: https://ssrn.com/abstract=1611531 or http://dx.doi.org/10.2139/ssrn.1611531
+Download This Paper
+ 
+Open PDF in Browser
+29 References
+using observations 6-2882 (T = 2877) Dependent variable: SBI_Returns Variable used as weight: 1/sigma coefficient std
+ARCH (4) Output Model 1: WLS (ARCH) , p. p - value
+Statistics based on the weighted data: Sum squared resid 2877.172 S.E. of regression 1
+F(4, 2873) 8.100883 P-value(F)
+P-value was highest for variable 9
+Crossref
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+683
+ABSTRACT VIEWS
+3,121
+RANK
+87,334
+29 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Market Microstructure eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Recommended Papers
+
+Modeling and Forecasting Realized Volatility
+
+By Torben G. Andersen, Tim Bollerslev, ...
+
+Modeling and Forecasting Realized Volatility
+
+By Torben G. Andersen, Tim Bollerslev, ...
+
+The Distribution of Realized Exchange Rate Volatility
+
+By Torben G. Andersen, Tim Bollerslev, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

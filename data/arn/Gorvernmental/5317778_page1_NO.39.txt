@@ -1,0 +1,114 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Government Expenditures and Human Development in Nigeria: A Disaggregated Approach
+
+30 Pages Posted: 1 Jul 2025
+
+AUWALU MUAZU
+
+Nasarawa State University, Keffi Nasarawa State Nigeria
+
+ABDULKARIM SHUIBU ALHASSAN
+
+Nasarawa State University, Keffi Nasarawa State Nigeria
+
+Ismaila Olotu Abdullahi
+
+Nasarawa State University, Keffi Nasarawa State Nigeria
+
+Date Written: June 21, 2025
+
+Abstract
+
+This study evaluates the effect of disaggregated government expenditure on human development in Nigeria from 1981 to 2019. The role of government expenditures impact on human development cannot be overemphasised. The study was motivated by the methodology approach used by the past studies and examined the relationship between government expenditure and human development, where an aggregated approach was adopted in most of these studies. However, this approach can overblow the efficacy, performance and impact of government expenditure policies. In order to have a more robust and accurate assessment of the efficacy, performance and effect of government expenditure on human development, a disaggregated approach was employed. Government expenditure was proxied by government capital and recurrent expenditure on education, health, and other social and community services, while human development is proxied by the human development index (HDI). Ex-post facto research design was adopted while the Augmented Dickey Fuller (ADF) test, Autoregressive Distributed Lag (ARDL) model was employed as the estimation and analysis technique. The findings revealed that government capital (β = 0.006335 with p-value of 0.7229 > 0.05) and recurrent (β =0.047668 with p-value of 0.1106 > 0.05) expenditure on health have a weak and insignificant effect on human development, respectively. The result further revealed that government capital (β = 0.119582 with p-value of 0.0000 ˂ 0.05) and recurrent (β = 0.048834 with p-value of 0.0519 within the range of 0.05) expenditure on education have a significant positive effect on human development in Nigeria. The findings also revealed that government capital (β = 0.021134 with p-value of 0.0466 ˂ 0.05) and recurrent (β = 0.034182 with p-value of 0.0270 ˂ 0.05) expenditure on other social and community services have a significant positive effect on human development New Advances in Business, Management and Economics Vol. 8 Government Expenditures and Human Development in Nigeria: A Disaggregated Approach 38 in Nigeria. The study concluded that government capital and recurrent expenditure invested in education and other social and community services had a positive effect on human capital development in Nigeria, while government capital and recurrent expenditure invested in health had no significant effect on human development in Nigeria. The study recommended, amongst others, that the Nigerian government should prioritise the increase of investment in the education sector by increasing education expenditure, as it has a significant positive impact on human development. It is also significant to improve the funding of other social and community services to further boost human capital outcomes.
+
+Keywords: Government Expenditure, Capital Expenditure, Recurrent Expenditure and Other Social Expenditure, Human Capital Development
+
+Declaration of Interest
+
+Authors have declared that no competing interests exist.
+
+Funder Statement
+
+There is no any funding motivation connected to this study. The authors funded their research study by themselves.
+
+Suggested Citation:
+
+MUAZU, AUWALU and ALHASSAN, ABDULKARIM SHUIBU and Abdullahi, Ismaila Olotu, Government Expenditures and Human Development in Nigeria: A Disaggregated Approach (June 21, 2025). Available at SSRN: https://ssrn.com/abstract=5317778 or http://dx.doi.org/10.2139/ssrn.5317778
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+38
+ABSTRACT VIEWS
+291
+PlumX Metrics
+Related eJournals
+
+Governmental & Nonprofit Accounting eJournal
+
+Follow
+
+Decision-Making in Economics & Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

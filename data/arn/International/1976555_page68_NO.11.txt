@@ -1,0 +1,142 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Insider Trading Restrictions and Insiders’ Supply of Information: Evidence from Earnings Smoothing
+
+Contemporary Accounting Research, Vol. 35, No. 2, 2018
+
+55 Pages Posted: 25 Dec 2011 Last revised: 16 Oct 2020
+
+Ivy Zhang
+
+University of California, Riverside
+
+Yong Zhang
+
+Hong Kong Polytechnic University
+
+Date Written: February 28, 2018
+
+Abstract
+
+We exploit the setting of first-time enforcement of insider trading laws to investigate the relationship between insider trading opportunities and insiders’ supply of information. Insider trading opportunities motivate insiders to reduce their supply of information by concealing firm performance, thereby increasing their information advantage over outsiders, resulting in higher insider trading profits. Using data from 40 countries over the 1988–2004 period, we find that reporting opacity, as captured by earnings smoothness, decreases significantly after the initial enforcement of insider trading laws in countries with strong legal institutions. The decrease in earnings smoothness is positively related to the strictness of insider trading laws. The decrease in earnings smoothness is also more pronounced for countries that have more persistent insider trading law enforcement and for countries that impose more severe penalties on insider trading cases. Further analyses show that the decrease in earnings smoothness following insider trading enforcement is concentrated among firms that are not closely held and among high-growth firms. In addition to uncovering a channel through which insider trading restrictions affect the information environment, our evidence highlights the importance of country- and firm-level governance structures in determining the consequences of insider trading restrictions.
+
+Keywords: Insider Trading, Informational Efficiency, Reporting Quality, Legal Infrastructure
+
+JEL Classification: G14, G18, M48
+
+Suggested Citation:
+
+Zhang, Ivy and Zhang, Yong, Insider Trading Restrictions and Insiders’ Supply of Information: Evidence from Earnings Smoothing (February 28, 2018). Contemporary Accounting Research, Vol. 35, No. 2, 2018, Available at SSRN: https://ssrn.com/abstract=1976555 or http://dx.doi.org/10.2139/ssrn.1976555
+Download This Paper
+ 
+Open PDF in Browser
+4 References
+D Aboody , B Lev
+Information asymmetry, R&D, and insider gains
+Journal of Finance , volume 55 , issue 6 , p. 2747 - 2766 Posted: 2000
+Crossref
+Anup Agrawal , Tommy Cooper
+Insider Trading Before Accounting Scandals
+Forthcoming, Journal of Corporate Finance, 2015 Pages: 57 Posted: 16 Apr 2008 Last revised: 2 Sep 2015
+Download PDF  Add Paper to My Library
+L Ausubel
+Insider trading in a rational expectations economy
+American Economic Review , volume 80 , issue 5 , p. 1022 - 1041 Posted: 1990
+Q Cheng , T Warfield
+Equity incentives and earnings management
+The Accounting Review , volume 80 , issue 2 Posted: 2005
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+434
+ABSTRACT VIEWS
+3,115
+RANK
+153,575
+7 Citations
+4 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Recommended Papers
+
+International Accounting Standards and Accounting Quality
+
+By Mary E. Barth, Wayne R. Landsman, ...
+
+Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences
+
+By Holger Daske, Luzi Hail, ...
+
+International Financial Reporting Standards (IFRS): Pros and Cons for Investors
+
+By Ray Ball
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

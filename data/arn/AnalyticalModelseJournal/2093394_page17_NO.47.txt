@@ -1,0 +1,152 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Simple Banking: Profitability and the Yield Curve
+
+Bank of England Working Paper No. 452
+
+55 Pages Posted: 26 Jun 2012
+
+Piergiorgio Alessandri
+
+Bank of England
+
+Benjamin Nelson
+
+Bank of England
+
+Date Written: June 21, 2012
+
+Abstract
+
+How does bank profitability vary with interest rates? We present a model of a monopolistically competitive bank subject to repricing frictions, and test the model’s predictions using a unique panel data set on UK banks. We find evidence that large banks retain a residual exposure to interest rates, even after accounting for hedging activity operating through the trading book. In the long run, both level and slope of the yield curve contribute positively to profitability. In the short run, however, increases in market rates compress interest margins, consistent with the presence of non negligible loan pricing frictions.
+
+JEL Classification: E4, G21
+
+Suggested Citation:
+
+Alessandri, Piergiorgio and Nelson, Benjamin, Simple Banking: Profitability and the Yield Curve (June 21, 2012). Bank of England Working Paper No. 452, Available at SSRN: https://ssrn.com/abstract=2093394 or http://dx.doi.org/10.2139/ssrn.2093394
+Download This Paper
+ 
+Open PDF in Browser
+46 References
+***
+Crossref
+Sample is major UK banks (MUK). ; ; denote signiicance at 1%, 5%, and 10% respectively Posted: 2012-06
+Adrian , H Shin
+Money, liquidity and monetary policy
+American Economic Review , volume 99 , issue 2 , p. 600 - 605 Posted: 2009
+Crossref
+David Aikman , Piergiorgio Alessandri , Bruno Eklund , Prasanna Gai , Sujit Kapadia , Sujit Kapadia , Elizabeth Martin , Nada Mora , Gabriel Sterne , Matthew Willison
+Funding Liquidity Risk in a Quantitative Model of Systemic Stability
+Bank of England Working Paper No. 372 Pages: 39 Posted: 17 Jun 2009
+Download PDF  Add Paper to My Library
+Load more
+7 Citations
+Sylwester Kozak
+Wpływ niskich stóp procentowych na dochody sektora bankowego w latach 2008-2014
+Zarządzanie Finansami i Rachunkowość , volume 4 , issue 1 , p. 5 Posted: 2016
+Crossref
+Michael Joyce , Marco Spaltro
+Quantitative Easing and Bank Lending: A Panel Data Approach
+Bank of England Working Paper No. 504 · 33 Pages · Posted: 28 Aug 2014 · Downloads: 868
+Download PDF  Add Paper to My Library
+Samuel Knott , Peter Richardson , Katie Rismanchi , Kallol Sen
+Understanding the Fair Value of Banks’ Loans
+Bank of England Financial Stability Paper No. 31 · 18 Pages · Posted: 7 Jan 2015 · Downloads: 523
+Download PDF  Add Paper to My Library
+Ramona Busch , Christoph Memmel
+Quantifying the components of the banks’ net interest margin
+Financial Markets and Portfolio Management , volume 30 , issue 4 , p. 371 Posted: 2016
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+275
+ABSTRACT VIEWS
+1,637
+RANK
+253,593
+7 Citations
+46 References
+PlumX Metrics
+Related eJournals
+
+Econometrics: Multiple Equation Models eJournal
+
+Follow
+
+European Economics: Macroeconomics & Monetary Economics eJournal
+
+Follow
+ 
+Recommended Papers
+
+Capital Regulation, Risk-Taking and Monetary Policy: A Missing Link in the Transmission Mechanism?
+
+By Claudio E. V. Borio and Haibin Zhu
+
+Hazardous Times for Monetary Policy: What Do Twenty-Three Million Bank Loans Say about the Effects of Monetary Policy on Credit Risk?
+
+By Gabriel Jiménez, Steven Ongena, ...
+
+Hazardous Times for Monetary Policy: What Do Twenty-Three Million Bank Loans Say about the Effects of Monetary Policy on Credit Risk-Taking?
+
+By Gabriel Jiménez, Steven Ongena, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

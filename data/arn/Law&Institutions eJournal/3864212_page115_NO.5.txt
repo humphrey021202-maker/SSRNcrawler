@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+
+Corporate investment and stock market listing: Why are US and EU results so different?
+
+NYU Stern School of Business Forthcoming
+
+48 Pages Posted: 11 Jun 2021 Last revised: 3 Oct 2025
+
+Olga Bogachek
+
+Free University of Bolzano - Faculty of Economics and Management
+
+Massimiliano Bonacchi
+
+Free University of Bolzano - Faculty of Economics and Management; Stern School of Business, New York University
+
+Paul Zarowin
+
+New York University (NYU) - Department of Accounting
+
+Date Written: September 24, 2025
+
+Abstract
+
+We investigate whether public capital markets facilitate or hinder investment, addressing conflicting findings between US and European studies. While some argue that stock market pressures induce short-termism, others contend that public firms invest more efficiently due to greater access to capital. Using a multi-country European dataset, we show that public firms invest more and are more sensitive to investment opportunities than private firms, and that prior US results suggesting investment myopia in public firms are likely driven by selection bias in private firm datasets. Our analysis shows that the source of the different US versus European results is that the Sageworks database of US private firms likely over-represents more successful firms that raise external capital to fund investment. Unlike the US, where private firm reporting is voluntary, European financial disclosure requirements present a sample of private firms that is less susceptible to self-selection. We demonstrate that imposing a Sageworks-style selection bias on European private firms reverses the results, replicating the patterns found in the US studies. Our findings underscore the critical role of selection bias in shaping conclusions on capital market effects and call for greater scrutiny in private firm data comparisons.
+
+Keywords: capital market short-termism, private firms
+
+JEL Classification: D22, G15, G31, G32, K22, M41
+
+Suggested Citation:
+
+Bogachek, Olga and Bonacchi, Massimiliano and Zarowin, Paul,
+
+Corporate investment and stock market listing: Why are US and EU results so different?
+
+(September 24, 2025). NYU Stern School of Business Forthcoming, Available at SSRN: https://ssrn.com/abstract=3864212 or http://dx.doi.org/10.2139/ssrn.3864212
+Download This Paper
+ 
+Open PDF in Browser
+68 References
+V V Acharya , R K Sundaram , K John
+Cross-country variations in capital structures: The role of bankruptcy codes
+Journal of Financial Intermediation , volume 20 , issue 1 , p. 25 - 54 Posted: 2011
+V V Acharya , Z Xu
+Financial dependence and innovation: The case of public versus private firms
+Journal of Financial Economics , volume 124 , issue 2 , p. 223 - 243 Posted: 2017
+V A Aggarwal , D H Hsu
+Entrepreneurial exits and innovation
+Management Science , volume 60 , issue 4 , p. 867 - 887 Posted: 2014
+R V Aguilera , C A Williams , J M Conley , D E Rupp
+Corporate governance and social responsibility: A comparative analysis of the UK and the US
+Corporate Governance: An International Review , volume 14 , issue 3 , p. 147 - 158 Posted: 2006
+Load more
+0 Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+373
+ABSTRACT VIEWS
+2,002
+RANK
+182,421
+68 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,105 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ Not Available for Download
+ Add Paper to My Library
+Share:    
+Shariah Non-Compliance Risk (SNCR) Reporting in Islamic Financial Institutions
+
+Posted: 9 Apr 2025
+
+Zulkarnain Muhamad Sori
+
+INCEIF UNIVERSITY; INCEIF, The Global University of Islamic Finance
+
+Noreena Mohd Yusoff
+
+INCEIF UNIVERSITY
+
+Shamsher Mohamad
+
+INCEIF UNIVERSITY
+
+Aishath Muneeza
+
+INCEIF UNIVERSITY
+
+Date Written: February 10, 2025
+
+Abstract
+
+Shariah Non-Compliance Risk (SNCR) presents a critical challenge for Islamic Financial Institutions (IFIs), impacting financial stability, regulatory compliance, and investor confidence. Despite the implementation of regulatory frameworks such as the Shariah Governance Policy Document (SGPD) 2019 and Operational Risk Reporting (ORR) 2023, SNCR reporting remains inconsistent across IFIs. This study examines SNCR reporting trends over the past nine years, analyzing 207 annual reports of Islamic banks, development financial institutions, and digital Islamic bank. Findings reveal significant inconsistencies in SNCR disclosures, with most IFIs relying on Shariah Committee Reports rather than integrating SNCR disclosures into financial statements, Pillar 3 risk disclosures, or corporate governance reports. Prior research attributes this fragmentation to weak regulatory enforcement, limited integration of SNCR within enterprise-wide financial risk management, and gaps in internal control mechanisms. Using a quantitative research approach, this study measures SNCR reporting based on disclosure quantity (SNCRQUAN) and disclosure quality (SNCRQUAL). Findings indicate that while SNCR reporting improved post-SGPD 2019, real-time compliance monitoring remains inadequate, particularly in financial risk reporting. The transition from ORION 2021 to ORR 2023 has introduced enhanced risk detection mechanisms, yet IFIs continue to treat SNCR as an isolated compliance issue rather than incorporating it into broader risk governance models. Institutions with high SNCRQUAL scores exhibit structured, transparent disclosures, while those with low disclosure levels demonstrate minimal reporting and potential underreporting of SNCR cases. Furthermore, IFIs that integrate Shariah compliance within Basel III capital adequacy and financial risk management frameworks report fewer instances of SNCR, supporting arguments that effective governance structures enhance compliance performance. Despite regulatory advancements, challenges persist in standardizing SNCR reporting. Many IFIs lack real-time compliance tracking systems, leading to reactive rather than proactive SNCR governance. The study recommends harmonized regulatory frameworks, mandatory integration of SNCR into financial and operational risk disclosures, and AI-driven compliance monitoring systems to enhance transparency, financial risk governance, and investor trust. Strengthening the role of Shariah Committees in enterprise-wide risk management, aligning SNCR reporting with global regulatory standards such as Basel III, and adopting technology-driven compliance solutions will be essential for ensuring financial resilience and regulatory integrity in the Islamic finance sector.
+
+Keywords: Shariah Non-Compliance Risk (SNCR), Islamic Financial Institutions (IFIs), Shariah Governance Policy Document (SGPD) 2019, Operational Risk Reporting (ORR) 2023, Regulatory Compliance
+
+Suggested Citation:
+
+Muhamad Sori, Zulkarnain and Mohd Yusoff, Noreena and Mohamad, Shamsher and Muneeza, Aishath, Shariah Non-Compliance Risk (SNCR) Reporting in Islamic Financial Institutions (February 10, 2025). Available at SSRN: https://ssrn.com/abstract=5130561
+ Not Available for Download
+0 References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+ABSTRACT VIEWS
+1,031
+PlumX Metrics
+Related eJournals
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+
+International Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

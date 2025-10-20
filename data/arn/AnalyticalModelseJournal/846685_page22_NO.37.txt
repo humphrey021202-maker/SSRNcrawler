@@ -1,0 +1,144 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Limited Investor Attention and Stock Market Misreactions to Accounting Information
+
+48 Pages Posted: 18 Nov 2005 Last revised: 7 Jul 2011
+
+David Hirshleifer
+
+University of Southern California - Marshall School of Business - Finance and Business Economics Department; National Bureau of Economic Research (NBER)
+
+Sonya S. Lim
+
+DePaul University - Department of Finance
+
+Siew Hong Teoh
+
+UCLA Anderson School of Management
+
+Date Written: November 17, 2010
+
+Abstract
+
+We provide a model in which a single psychological constraint, limited investor attention, explains both under- and over-reaction to different earnings components. Investor neglect of information in current-period earnings about future earnings induces post-earnings announcement drift and the profit anomaly. Neglect of earnings components causes accruals and cash flows to predict abnormal returns. We derive new untested empirical implications relating the strength of the drift, accruals, cash flows, and profit anomalies to the forecasting power of current earnings-related information for future earnings, the degree of investor attention to different types of information, and the volatilities of and correlation between accruals and cash flows. We also show that owing to costs of attention, in equilibrium some investors may decide not to attend to the implications of earnings or its components.
+
+Keywords: limited attention, behavioral finance, investor psychology, capital markets, accruals, market efficiency
+
+JEL Classification: G12, G14, M41, M43
+
+Suggested Citation:
+
+Hirshleifer, David and Lim, Sonya S. and Teoh, Siew Hong, Limited Investor Attention and Stock Market Misreactions to Accounting Information (November 17, 2010). Available at SSRN: https://ssrn.com/abstract=846685 or http://dx.doi.org/10.2139/ssrn.846685
+Download This Paper
+ 
+Open PDF in Browser
+73 References
+J S Abarbanell , V L Bernard
+Tests of analysts' overreaction/underreaction to earnings information as an explanation for anomalous stock price behavior
+Journal of Finance , volume 47 , p. 1181 - 1207 Posted: 1992
+Crossref
+R B Ash
+Real Analysis and ProbabilityProbability and Mathematical Statistics Series Posted: 1972
+Crossref
+Mark E. Bagnoli , Michael B. Clement , Susan G. Watts
+Around-the-Clock Media Coverage and the Timing of Earnings Announcements
+McCombs Research Paper Series No. ACC-02-06 Pages: 36 Posted: 30 Jul 2004
+Download PDF  Add Paper to My Library
+K Balakrishnan , E Bartov , L Faurel
+Post loss/profit announcement drift
+Journal of Accounting and Economics , volume 50 , p. 20 - 41 Posted: 2010
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1,658
+ABSTRACT VIEWS
+7,868
+RANK
+24,918
+149 Citations
+73 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Limited Attention, Information Disclosure, and Financial Reporting
+
+By David Hirshleifer and Siew Hong Teoh
+
+Investor Psychology in Capital Markets: Evidence and Policy Implications
+
+By Kent D. Daniel, David Hirshleifer, ...
+
+Market Frictions, Price Delay, and the Cross-Section of Expected Returns
+
+By Kewei Hou and Tobias J. Moskowitz
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

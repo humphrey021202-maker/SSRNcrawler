@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Corporate Scandal Spillovers: An Empirical Study of the Dieselgate Using Twitter Data
+
+51 Pages Posted: 10 Oct 2019
+
+Julien Jourdan
+
+HEC Paris
+
+Ju Qiu
+
+Université Paris Dauphine
+
+Svitlana Galeshchuk
+
+University Paris Dauphine
+
+Date Written: September 28, 2019
+
+Abstract
+
+We explore how the social media attention received by a firm implicated in a large corporate scandal affects the market value of its competitors. Existing work provides contrasted arguments and evidence regarding the spillover effects of scandals: rivals may suffer from contamination and at the same time benefit from substitution. Building on and extending prior work, we develop a stylized model to predict how contamination and substitution interact and jointly affect firms’ value in a non-linear way during the course of a scandal. We test our model using unique data, including 1.2m tweets, on the Dieselgate scandal that affected the global automobile industry in 2015. We find evidence of an inverted-U shape relationship between social media attention and rival firms’ value at the global scale, suggesting that substitution dominates on average. Yet the pattern is reversed for German and other European firms, primarily affected by contamination. We discuss how the study contributes to the literature on corporate scandal and disapproval, with implications for the understanding of the impact of social media on organizations.
+
+Keywords: corporate scandal, social media, market value, event analysis, competition
+
+Suggested Citation:
+
+Jourdan, Julien and Qiu, Ju and Galeshchuk, Svitlana, Corporate Scandal Spillovers: An Empirical Study of the Dieselgate Using Twitter Data (September 28, 2019). Available at SSRN: https://ssrn.com/abstract=3461615 or http://dx.doi.org/10.2139/ssrn.3461615
+Download This Paper
+ 
+Open PDF in Browser
+56 References
+D Acemoglu , T A Hassan , A Tahoun
+The power of the street: Evidence from egypt's arab spring
+The Review of Financial Studies , volume 31 , p. 1 - 42 Posted: 2018
+Crossref
+A Adut
+Crossref
+A theory of scandal: Victorians, homosexuality, and the fall of oscar wilde
+American Journal of Sociology , volume 111 , p. 213 - 248
+Crossref
+F Aggeri , J Saussois
+La puissance des grandes entreprises mondialisées à l'épreuve du judiciaire-de l'affaire volkswagen au dieselgate
+Revue Française de Gestion , volume 43 , p. 85 - 102 Posted: 2017
+Load more
+6 Citations
+Karim Ben-Slimane , Amira Laifi , Olivier Germain
+A relational power perspective on the positional shift of peripheral players in an organisational field: The case of Mediapart in the French press field
+Journal of Business Research , volume 173 , p. 114466 Posted: 2024
+Crossref
+Walter von Mettenheim , Klaus-Peter Wiedmann
+Influencer transgressions: The impacts on endorser and brand
+Journal of Media Economics , volume 35 , issue 1-2 , p. 28 Posted: 2023
+Crossref
+Kylie McMullan
+A checklist for managers to enhance influencer partnerships and avoid potential pitfalls
+Business Horizons , volume 66 , issue 4 , p. 443 Posted: 2023
+Crossref
+Belinda Kintu , Karim Ben-Slimane
+Companies responses to scandal backlash caused by social media influencers
+International Journal of Market Research , volume 62 , issue 6 , p. 666 Posted: 2020
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+512
+ABSTRACT VIEWS
+2,463
+RANK
+125,978
+6 Citations
+56 References
+PlumX Metrics
+Related eJournals
+
+Behavioral & Experimental Finance (Editor's Choice) eJournal
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

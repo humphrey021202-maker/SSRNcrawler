@@ -1,0 +1,126 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Compliance Costs and Book-Tax Conformity: Evidence from Audit Fees and Audit Quality
+
+50 Pages Posted: 11 Apr 2016
+
+Kathleen Bakarich
+
+Hofstra University - Department of Accounting, Taxation and Legal Studies in Business
+
+Jon N. Kerr
+
+Brigham Young University - School of Accountancy
+
+Date Written: April 8, 2016
+
+Abstract
+
+The decade-long debate on required book-tax conformity has centered on three areas: the information content of earnings, the incentive to engage in earnings management, and the costs of compliance. While the first two have been studied extensively, studies on the effect that conformity may have on compliance costs are limited to estimates of the effect that perfect conformity will have on tax-related compliance costs, a near tautology. This lack of research is perhaps attributable to the relative invariance in conformity within the United States and the relative unavailability of compliance-related data outside the United States. This study overcomes those limitations and fills the gap in the extant research by using an international sample of firms with manually collected audit fee data. We focus on audit fees as it is a more economically significant compliance cost with available data and where the effect of book-tax conformity has tension. Test results show that increased conformity is associated with greater audit fees. This provides evidence that the hypothesized decreases in tax-related compliance costs may be offset by increases in audit fees, implying that the actual reduction in compliance costs may be lower than previously thought. The results of a difference-in-differences test using the adoption of IFRS for consolidated purposes only as an exogenous shock to book-tax divergence shows consistent results and supports a causal prediction. We also find evidence that higher conformity is associated with higher fees paid for auditor-provided tax service, an increased likelihood the firm chooses its auditor to provide tax services, and higher audit quality.
+
+Keywords: book-tax conformity, audit fees, audit quality, APTS, IFRS adoption, international
+
+JEL Classification: M4, M40, M41
+
+Suggested Citation:
+
+Bakarich, Kathleen and Kerr, Jon N., Compliance Costs and Book-Tax Conformity: Evidence from Audit Fees and Audit Quality (April 8, 2016). Available at SSRN: https://ssrn.com/abstract=2761107 or http://dx.doi.org/10.2139/ssrn.2761107
+Download This Paper
+ 
+Open PDF in Browser
+44 References
+A Ali , L.-S Hwang
+Country-specic factors related to nancial reporting and the value relevance of accounting data
+Journal of Accounting Research Posted: 2000
+Crossref
+T Atwood , M S Drake , J N Myers , L A Myers
+Home country tax system characteristics and corporate tax avoidance: International evidence
+The Accounting Review , volume 87 Posted: 2012
+Crossref
+T Atwood , M S Drake , L A Myers
+Book-tax conformity, earnings persistence and the association between earnings and future cash ows
+Journal of Accounting and Economics , volume 50 Posted: 2010
+Crossref
+R Ball , L Shivakumar
+Earnings quality in UK private rms: Comparative loss recognition timeliness
+Journal of Accounting and Economics , volume 39 Posted: 2005
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+313
+ABSTRACT VIEWS
+2,248
+RANK
+221,315
+1 Citations
+44 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

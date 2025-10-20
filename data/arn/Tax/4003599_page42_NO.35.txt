@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Did FIN 48 Improve the Mapping between Tax Expense and Future Cash Taxes?
+
+Forthcoming, Review of Accounting Studies.
+
+51 Pages Posted: 10 Jan 2022 Last revised: 16 Jan 2023
+
+Cristi A. Gleason
+
+University of Iowa - Department of Accounting
+
+Kevin Markle
+
+Michigan State University
+
+Jane Z. Song
+
+University of Missouri - Trulaske College of Business
+
+Date Written: January 10, 2023
+
+Abstract
+
+The Financial Accounting Standards Board introduced FIN 48 (ASC 740-10) to increase relevance and comparability in the reporting of uncertain tax positions. The extant literature has found mixed results when examining the effects of FIN 48 using research designs that lack a counterfactual. Using a difference-in-differences design, we examine the effect of FIN 48 on the mapping between GAAP tax expense and future cash taxes paid over the next three years. We find that the mapping for US firms improved under FIN 48, and the improvements are strongest among domestic firms, which are less affected by the inability to offset positions under FIN 48. We find no difference in the change in mapping for firms that expect higher or lower ex ante audit and detection risk. We find no evidence that FIN 48 reduced the mapping for firms with a low likelihood of being audited or for multinational firms. Our results are robust to the use of multiple control groups. Our findings suggest that FIN 48 improved the relevance of tax expense for some US firms.
+
+Keywords: FIN 48, ASC 740, unrecognized tax benefits, value relevance, accrual-cash mapping, tax expense, taxes paid
+
+JEL Classification: G18, M41, M48
+
+Suggested Citation:
+
+Gleason, Cristi A. and Markle, Kevin and Song, Jane (Zhiyan), Did FIN 48 Improve the Mapping between Tax Expense and Future Cash Taxes? (January 10, 2023). Forthcoming, Review of Accounting Studies., Available at SSRN: https://ssrn.com/abstract=4003599 or http://dx.doi.org/10.2139/ssrn.4003599
+Download This Paper
+ 
+Open PDF in Browser
+34 References
+C R Austin
+The potential of tax surprises to affect measures of tax avoidance and researchers' inferences
+Journal of the American Taxation Association , volume 41 , issue 1 , p. 1 - 30 Posted: 2018
+B C Ayers , J K Seidman , E Towery
+Taxpayer behavior under audit certainty
+Contemporary Accounting Research , volume 36 , issue 1 , p. 326 - 358 Posted: 2019
+M E Barth , G Clinch
+International accounting differences and their relation to share prices: Evidence from U.K., Australian, and Canadian firms*
+Contemporary Accounting Research , volume 13 , issue 1 , p. 135 - 170 Posted: 1996
+P J Beck , P Lisowsky
+Tax uncertainty and voluntary real-time tax audits
+The Accounting Review , volume 89 , issue 3 , p. 867 - 901 Posted: 2014
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+211
+ABSTRACT VIEWS
+1,827
+RANK
+330,157
+3 Citations
+34 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

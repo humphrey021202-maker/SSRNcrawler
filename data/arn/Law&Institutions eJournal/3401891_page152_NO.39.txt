@@ -1,0 +1,129 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Shareholder Litigation Risk and Readability of Corporate Financial Disclosures: Evidence from Natural Experiments
+
+67 Pages Posted: 18 Jun 2019 Last revised: 30 Nov 2021
+
+Abhishek Ganguly
+
+University of Oklahoma
+
+Arup Ganguly
+
+University of Mississippi
+
+Lin Ge
+
+University of Mississippi
+
+Chad J. Zutter
+
+University of Pittsburgh
+
+Date Written: January 15, 2021
+
+Abstract
+
+We use a natural experiment to weigh conflicting theories on the impact of shareholder litigation risk on the readability of corporate financial disclosures. In response to a Ninth Circuit Court of Appeals ruling that unexpectedly reduced litigation risk, we find that firms in the Ninth Circuit significantly improved the readability of their financial disclosures relative to control firms. This supports the idea that litigation risk discourages firms from providing financial disclosures with greater readability. Our finding is robust to different linguistic complexity measures and matching techniques, fixed effects for both time-invariant and time-varying unobservable confounders, and an alternative natural experiment.
+
+Keywords: Shareholder litigation risk, Corporate financial disclosure, Textual analysis, Endogeneity
+
+JEL Classification: G32, G38, K22, K40
+
+Suggested Citation:
+
+Ganguly, Abhishek and Ganguly, Arup and Ge, Lin and Zutter, Chad J., Shareholder Litigation Risk and Readability of Corporate Financial Disclosures: Evidence from Natural Experiments (January 15, 2021). Available at SSRN: https://ssrn.com/abstract=3401891 or http://dx.doi.org/10.2139/ssrn.3401891
+Download This Paper
+ 
+Open PDF in Browser
+62 References
+A R Admati , P Pfleiderer
+Forcing firms to talk: Financial disclosure regulation and externalities. The Review of Financial Studies , volume 13 , p. 479 - 519 Posted: 2000
+V Atanasov , B Black
+Shock-based causal inference in corporate finance and accounting research
+Critical Finance Review , volume 5 , p. 207 - 304 Posted: 2016
+S Banerjee , M Humphery-Jenner , V K Nanda , T M Tham
+Executive overconfidence and securities class actions
+Journal of Financial and Quantitative Analysis , volume 53 , issue 6 , p. 2685 - 2719 Posted: 2018
+L L Bargeron , K M Lehn , C J Zutter
+Sarbanes-Oxley and corporate risk-taking
+Journal of Accounting and Economics , volume 49 , issue 1 , p. 34 - 52 Posted: 2010
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+504
+ABSTRACT VIEWS
+3,675
+RANK
+128,733
+1 Citations
+62 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

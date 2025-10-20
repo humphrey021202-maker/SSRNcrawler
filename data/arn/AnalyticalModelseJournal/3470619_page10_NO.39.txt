@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Implied Cost of Capital: Accounting for Growth
+
+Columbia Business School Research Paper Forthcoming
+
+44 Pages Posted: 25 Oct 2019 Last revised: 1 Mar 2021
+
+Stephen H. Penman
+
+Columbia University - Columbia Business School, Accounting, Business Law & Taxation; Bocconi University
+
+Julie Zhu
+
+Fanhai International School of Finance(FISF), Fudan University
+
+Haofei Wang
+
+Shanghai Jiao Tong University (SJTU) - Shanghai Advanced Institute of Finance (SAIF)
+
+Date Written: February 2021
+
+Abstract
+
+This paper provides a review and critique of research that estimates an Implied Cost of Capital (ICC) by reverse engineering accounting-based valuation models. The focus is on the estimated growth rate inserted into those models. The paper makes two points. First, the growth rate is determined by the accounting for other inputs in the calculation, namely book value and near-term earnings forecasts. Thus an accounting consistency condition must be satisfied. Second, the accounting principles for these inputs imply that the consequent growth rate informs about risk and this must be recognized in an ICC calculation that also conveys risk. Empirical tests indicate that ICC calculations fail to incorporate this information.
+
+Suggested Citation:
+
+Penman, Stephen H. and Zhu, Julie and Wang, Haofei, The Implied Cost of Capital: Accounting for Growth (February 2021). Columbia Business School Research Paper Forthcoming, Available at SSRN: https://ssrn.com/abstract=3470619 or http://dx.doi.org/10.2139/ssrn.3470619
+Download This Paper
+ 
+Open PDF in Browser
+16 References
+F Modigliani , M Miller
+The cost of capital, corporation finance and the theory of investment
+American Economic Review , volume 48 , p. 261 - 297 Posted: 1958
+P Mohanram , D Gode
+Removing Predictable Analyst Forecast Errors to Improve Implied Cost of Capital Estimates
+Review of Accounting Studies , volume 18 , p. 443 - 478 Posted: 2013
+Crossref
+S Monahan
+Using Earnings Forecasts to Simultaneously Estimate firmspecific cost of equity and long-term growth
+Review of Accounting Studies , volume 16 , p. 458 - 463 Posted: 2011
+Crossref
+A Nekrasov , M Ogneva
+Using Earnings Forecasts to Simultaneously Estimate FirmSpecific Cost of Equity and Long-term Growth
+Review of Accounting Studies , volume 16 , p. 414 - 457 Posted: 2011
+Crossref
+Load more
+3 Citations
+Umberto Sagliaschi , Roberto Savona
+Dynamical Corporate Finance
+, p. 19 Posted: 2021
+Crossref
+Marcel Rueenaufer
+Equity Valuation: to Bayes or not to Bayes?
+40 Pages · Posted: 28 Jun 2021 · Last revised: 13 Jan 2023 · Downloads: 218
+Download PDF  Add Paper to My Library
+Frederik Simon
+Model-Based Earnings Forecast Accuracy and Implied Cost of Capital Portfolio Returns
+54 Pages · Posted: 14 Mar 2024 · Last revised: 15 Oct 2024 · Downloads: 155
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+809
+ABSTRACT VIEWS
+3,362
+RANK
+69,962
+3 Citations
+16 References
+PlumX Metrics
+Related eJournals
+
+Columbia Business School Research Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

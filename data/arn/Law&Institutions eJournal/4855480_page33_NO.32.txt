@@ -1,0 +1,128 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Ensemble Learning for Corporate Internal Control
+
+60 Pages Posted: 7 Jun 2024
+
+Yong Ma
+
+Hunan University - School of Finance and Statistics
+
+Mingtao Zhou
+
+Hunan University, School of Finance and Statistics
+
+Tianyang Wang
+
+Colorado State University, Fort Collins - Department of Finance & Real Estate
+
+Michelle Draeger
+
+Colorado State University, Fort Collins - Department of Accounting
+
+Date Written: June 05, 2024
+
+Abstract
+
+This study aims to leverage advanced machine learning techniques to enhance the prediction performance of corporate internal control quality. By constructing a unique and comprehensive set of firm-specific characteristics from China and applying machine learning algorithms, we highlight the superiority of ensemble learning techniques, particularly gradient boosting trees. These techniques demonstrate exceptional predictive accuracy for internal control quality from both quantitative and statistical perspectives. This superior performance is robust across various forecasting horizons, applicable to different types of internal control subcomponents and subsamples, and consistently persists over time. Our findings reveal that financial profitability, growth rate, exposure risk, and firm size are the dominant predictive signal groups for internal control quality throughout our sample period. Moreover, firms with strong financial profitability, higher growth rates, lower exposure risk, and larger sizes typically exhibit superior internal control quality. These insights should be of significant interest to regulators, auditors, and investors focused on monitoring and improving firms' internal control quality.
+
+Keywords: Internal control quality, Internal control determinants, Machine learning, Ensemble learning JEL: C38, C52, C55, G1, G11
+
+Suggested Citation:
+
+Ma, Yong and Zhou, Mingtao and Wang, Tianyang and Draeger, Michelle, Ensemble Learning for Corporate Internal Control (June 05, 2024). Available at SSRN: https://ssrn.com/abstract=4855480 or http://dx.doi.org/10.2139/ssrn.4855480
+Download This Paper
+ 
+Open PDF in Browser
+74 References
+S Arping , Z Sautner
+Did SOX section 404 make firms less opaque? Evidence from cross-listed firms
+Contemporary Accounting Research , volume 30 , p. 1133 - 1165 Posted: 2013
+H Ashbaugh-Skaife , D W Collins , W R Kinney
+The discovery and reporting of internal control deficiencies prior to SOX-mandated audits
+Journal of Accounting and Economics , volume 44 , p. 166 - 192 Posted: 2007
+H Ashbaugh-Skaife , D W Collins , W R Kinney , R Lafond
+The effect of SOX internal control deficiencies and their remediation on accrual quality
+Accounting Review , volume 83 , p. 217 - 250 Posted: 2008
+H Ashbaugh-Skaife , D W Collins , W R Kinney , R Lafond
+The effect of SOX internal control deficiencies on firm risk and cost of equity
+Journal of Accounting Research , volume 47 , p. 1 - 43 Posted: 2009
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+54
+ABSTRACT VIEWS
+403
+RANK
+889,053
+1 Citations
+74 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Emerging Markets: Finance eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,139 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Remote Audit: A Research Framework
+
+25 Pages Posted: 29 Aug 2014
+
+Ryan Teeter
+
+Rutgers, The State University of New Jersey
+
+Michael Alles
+
+Rutgers Business School
+
+Miklos A. Vasarhelyi
+
+Rutgers Business School
+
+Date Written: September 4, 2010
+
+Abstract
+
+Audit practitioners have been progressively adopting communications and analytic technology to extend the scope, change the timing, and reduce the costs of audit processes. These efforts have been mainly ad hoc, lacking an integrative theoretical positioning. This paper redefines the concept of the “remote audit” as the process by which internal auditors couple information and communication technology (ICT) with analytical procedures to gather electronic evidence, interact with the auditee, and report on the accuracy of financial data and internal controls, independent of the physical location of the auditor. Building on research on virtual teams and an analysis of internal audit activities, we present a research framework identifying areas where ICT and automated audit analytics enable auditors to work remotely, reduce travel costs and latency, and increase efficiency and coverage.
+
+Keywords: audit innovation, remote audit, continuous auditing, internal auditing, communication, evidence, virtual teams
+
+Suggested Citation:
+
+Teeter, Ryan Anthony and Alles, Michael Gamini and Vasarhelyi, Miklos A., Remote Audit: A Research Framework (September 4, 2010). Available at SSRN: https://ssrn.com/abstract=2488732 or http://dx.doi.org/10.2139/ssrn.2488732
+Download This Paper
+ 
+Open PDF in Browser
+53 References
+M A Alles , G Brennan , A Kogan , M A Vasarhelyi ; - , A Kogan , M A Vasarhelyi ; - , A Kogan , M A Vasarhelyi ; - , A Kogan , M A Vasarhelyi
+Continuous monitoring of business process controls: a pilot implementation of a continuous auditing system at Siemens
+International Journal of Accounting Information Systems , volume 7 , issue 2 , p. 195 - 214 Posted: 2002
+Crossref
+Statement on Accounting Standards (SAS) No. 106. Audit Evidence Posted: 2006
+Crossref
+M Armbrust , A Fox , R Griffith , A Joseph , R Katz , A Konwinski
+Above the clouds: a Berkeley view of cloud computing , p. 7 - 013 Posted: 2009
+Jean C. Bedard , Michael L. Ettredge , Karla M. Zehms
+Using Electronic Audit Workpaper Systems in Audit Practice: Task Analysis, Learning, and Resistance
+Pages: 33 Posted: 4 Oct 2006
+Download PDF  Add Paper to My Library
+Load more
+8 Citations
+Rafael Accorsi
+A secure log architecture to support remote auditing
+Mathematical and Computer Modelling , volume 57 , issue 7-8 , p. 1578 Posted: 2013
+Crossref
+Jean Francois Kone Adama
+Gouvernance & innovation
+, p. 219 Posted: 2025
+Crossref
+Dereck Barr-Pulliam
+The Effect of Continuous Auditing and Role Duality on the Incidence and Likelihood of Reporting Management Opportunism
+Management Accounting Research, 44: 44-56 · 13 Pages · Posted: 28 Mar 2015 · Last revised: 28 Jun 2021 · Downloads: 532
+Download PDF  Add Paper to My Library
+Margaret H. Christ , Marc Eulerich , Ronja Krane , David A. Wood
+New Frontiers for Internal Audit Research
+42 Pages · Posted: 1 Jul 2020 · Downloads: 1,352
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+523
+ABSTRACT VIEWS
+3,272
+RANK
+19,031
+8 Citations
+53 References
+PlumX Metrics
+Related eJournals
+
+Auditing eJournal
+
+Follow
+
+Accounting Technology & Information Systems eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

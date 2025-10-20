@@ -1,0 +1,118 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Standing in the Shadow of Tax Exceptionalism: Expanding Access to Judicial Review of Federal Agency Rules
+
+66 Admin. L. Rev. 73 (2014)
+
+58 Pages Posted: 26 Oct 2013 Last revised: 21 Apr 2021
+
+Lynn Lu
+
+CUNY School of Law
+
+Date Written: 2014
+
+Abstract
+
+As the U.S. Supreme Court recently confirmed, regulation of behavior through the tax code is “nothing new.” Nat’l Fed’n of Indep. Bus. v. Sebelius, 132 S. Ct. 2566, 2596 (2012). From the individual mandate’s “shared responsibility payment” to the income-tax deduction for charitable donations, tax provisions raise or lower the cost of particular conduct. In doing so, tax rules, like all administrative rules, reflect normative values and protect important public interests. Yet the need for swift and certain collection of revenue has historically excused tax regulation from general administrative law principles that promote government accountability in the implementation of federal mandates.
+
+This Article explores one critical instance in which tax exceptionalism swallowed the rule of government accountability to insulate much federal agency rulemaking from judicial oversight in all administrative arenas: constitutional standing doctrine. Under current standing doctrine, a wide range of regulatory stakeholders lacks access to federal court review of agency rules that adversely affect their concrete interests. Where such stakeholders are members of historically or politically marginalized populations, the lack of access to judicial review exacerbates process defects that limit their participation in rulemaking decisions. The result is an imbalance in regulatory influence between entities subject to the burdens of regulation and those who stand to benefit from the enforcement of regulatory mandates.
+
+This Article reexamines two central cases that restricted standing in the context of tax-exemption for public charities under section 501(c)(3) of the Internal Revenue Code: Simon v. Eastern Kentucky Welfare Rights Organization, 426 U.S. 26 (1976), a poor people’s challenge to an IRS rule eliminating the requirement that tax-exempt hospitals provide charity care, and Allen v. Wright, 468 U.S. 737 (1984), a challenge by black families to an IRS rule facilitating white flight from desegregated public schools to segregated, tax exempt private schools. In both cases, the Supreme Court failed to treat tax administration as a full-fledged regulatory scheme that governs the behavior of regulated entities with consequences for a wide range of regulatory stakeholders. The Court’s implicit embrace of tax exceptionalism in both cases facilitated its explicit invocation of the separation of powers to restrict standing in Allen v. Wright — a rationale that now applies broadly to limit constitutional standing in all administrative contexts.
+
+Today, federal courts increasingly reject tax exceptionalism and recognize the need for judicial review in all administrative contexts to check arbitrary agency decisionmaking — albeit under deferential standards that respect agency expertise. See Mayo Found. for Med. Educ. & Research v. United States, 131 S. Ct. 704 (2011). This Article concludes that the erosion of tax exceptionalism exposes additional cracks in standing doctrine’s already flawed foundation and lends further support for the expansion of federal court access to a wider range of regulatory stakeholders to challenge agency rules.
+
+Keywords: Tax, Regulation, Provisions, Exception, Donations, Charity, Administrative Law, Agency, Courts, Federal
+
+Suggested Citation:
+
+Lu, Lynn, Standing in the Shadow of Tax Exceptionalism: Expanding Access to Judicial Review of Federal Agency Rules (2014). 66 Admin. L. Rev. 73 (2014), Available at SSRN: https://ssrn.com/abstract=2343793 or http://dx.doi.org/10.2139/ssrn.2343793
+Download This Paper
+ 
+Open PDF in Browser
+74 References
+Nichol, supra note 81, at 655-56; see also Sunstein, supra note 61 , p. 615 - 632
+asserting courts can address informational injuries resulting from Federal Election Commission's (FEC's) decisions) , volume 11 , p. 23 - 26 Posted: 1998
+Lujan V
+Defenders of Wildlife, 504 U.S. 555, 572 n.7 (1992) (plurality opinion) (finding no injury but allowing theoretical possibility of procedural injury under a lower standard)
+Kimberly N Brown
+suggesting that Akins be read as "expressly disavowing the causation and redressability prongs of the traditional test for administrative cases, where they have little content, and look primarily to whether Congress created a nonabstract 'injury'-by, for example, conferring a right to information")
+What's Left Standing? FECA Citizen Suits and the Battle for Judicial Review, 55 KAN. L. REV , volume 677 Posted: 2007
+Load more
+1 Citations
+Lynn Lu
+Standing in the Shadow of Tax Exceptionalism: Expanding Access to Judicial Review of Federal Agency Rules
+66 Admin. L. Rev. 73 (2014) · 58 Pages · Posted: 26 Oct 2013 · Last revised: 21 Apr 2021 · Downloads: 104
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+104
+ABSTRACT VIEWS
+1,005
+RANK
+601,250
+1 Citations
+74 References
+PlumX Metrics
+Related eJournals
+
+Applied Accounting - Practitioner eJournal
+
+Follow
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

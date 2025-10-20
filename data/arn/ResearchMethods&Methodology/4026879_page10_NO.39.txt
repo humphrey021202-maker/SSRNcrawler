@@ -1,0 +1,110 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Purchase - $8
+CEPR Subscribers Download
+ Add Paper to My Library
+Share:    
+Expectations Formation and Forward Information
+
+CEPR Discussion Paper No. DP16973
+
+75 Pages Posted: 4 Feb 2022
+
+Nathan Goldstein
+
+Bar-Ilan University - Department of Economics
+
+Yuriy Gorodnichenko
+
+University of California, Berkeley - Department of Economics; National Bureau of Economic Research (NBER); IZA Institute of Labor Economics
+
+There are 2 versions of this paper
+
+Date Written: January 2022
+
+Abstract
+
+We propose a model where forecasters have access to noisy signals about the future (forward information). In this setting, information varies not only across agents but also across horizons. As a result, estimated persistence of forecasts deviates from persistence of fundamentals and the ability of forecasts at shorter horizons to explain forecasts at longer horizons is limited. These properties tend to diminish as the forecast horizon increases. We document that this novel pattern is consistent with survey data for professional forecasters. We provide further evidence that time-series and cross-sectional variation in professional forecasts is driven by forward information. We propose a simple method for extracting the forward information component from survey and provide several applications of forward information.
+
+Keywords: Expectations, forward information, News, Survey Forecasts
+
+JEL Classification: C83, D84, E31
+
+Suggested Citation:
+
+Goldstein, Nathan and Gorodnichenko, Yuriy, Expectations Formation and Forward Information (January 2022). CEPR Discussion Paper No. DP16973, Available at SSRN: https://ssrn.com/abstract=4026879
+Purchase - $8
+CEPR Subscribers Download
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+1
+ABSTRACT VIEWS
+284
+PlumX Metrics
+Related eJournals
+
+CEPR Discussion Paper Series
+
+Follow
+
+Financial Accounting eJournal
+
+Follow
+ 
+Feedback 
+
+
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

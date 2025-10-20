@@ -1,0 +1,152 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+ESG Didn’t Immunize Stocks During the COVID-19 Crisis, But Investments in Intangible Assets Did
+
+Journal of Business Finance & Accounting, 48, 433-462. Open Access: http://dx.doi.org/10.1111/jbfa.12523
+
+46 Pages Posted: 18 Aug 2020 Last revised: 20 Apr 2021
+
+Elizabeth Demers
+
+University of Waterloo
+
+Jurian Hendrikse
+
+Catholic University of Lille - IESEG School of Management
+
+Philip Joos
+
+Tilburg University; TIAS School for Business and Society
+
+Baruch Lev
+
+New York University - Stern School of Business
+
+Date Written: March 1, 2021
+
+Abstract
+
+Environmental, social, and governance (“ESG”) scores have been widely touted as indicators of share price resilience during the COVID-19 crisis. Contrary to this conventional wisdom, we present robust evidence that, once industry affiliation, market-based measures of risk, and accounting-based measures of performance, financial position, and intangibles investments have been controlled for, ESG offers no such positive explanatory power for returns during the COVID crisis. Specifically, ESG is insignificant in fully specified returns regressions for each of the Q1 2020 COVID market crisis period, and for the full COVID year of 2020. By contrast, a measure of the firm’s stock of investments in internally generated intangible assets is an economically and statistically significant positive determinant of returns during each of the Q1 market implosion and full 2020 COVID year periods. Our results are robust to alternative measures of returns, as well as to using Refinitiv, Refinitiv II, and MSCI data to capture ESG performance. We conclude that ESG did not immunize stocks during the COVID-19 crisis, but that investments in intangible assets did.
+
+Keywords: ESG, COVID-19, CSR, Corporate Social Responsibility, Share Price Resilience, Crisis, Intangibles, Market Crash
+
+JEL Classification: G01, G32, M14, M41
+
+Suggested Citation:
+
+Demers, Elizabeth and Hendrikse, Jurian and Joos, Philip and Lev, Baruch Itamar, ESG Didn’t Immunize Stocks During the COVID-19 Crisis, But Investments in Intangible Assets Did (March 1, 2021). Journal of Business Finance & Accounting, 48, 433-462. Open Access: http://dx.doi.org/10.1111/jbfa.12523, Available at SSRN: https://ssrn.com/abstract=3675920 or http://dx.doi.org/10.2139/ssrn.3675920
+Download This Paper
+ 
+Open PDF in Browser
+39 References
+R Albuquerque , Y Koskinen , S Yang , C Zhang
+Resiliency of environmental and social stocks: An analysis of the exogenous COVID-19 market crash. Review of Corporate Finance Studies , volume 9 , p. 593 - 621 Posted: 2020
+Crossref
+A Amel-Zadeh , G Serafeim
+Why and how investors use ESG information: Evidence from a global survey
+Financial Analysts Journal , volume 74 , p. 87 - 103 Posted: 2018
+Crossref
+K.-H Bae , S El Ghoul , Z Gong , O Guedhami
+Does CSR matter in times of crisis? Evidence from the COVID-19 pandemic
+Journal of Corporate Finance , volume 67 , p. 1 - 18 Posted: 2021
+Crossref
+S Baker , N Bloom , S Davis , K Kost , M Sammon , T Viratyosin
+The unprecedented stock market reaction to COVID-19
+The Review of Asset Pricing Studies , volume 10 , p. 742 - 758 Posted: 2020
+Crossref
+Load more
+6 Citations
+Antonio Miceli , Birgit Hagen , Maria Pia Riccardi , Francesco Sotti , Davide Settembre-Blundo
+Thriving, Not Just Surviving in Changing Times: How Sustainability, Agility and Digitalization Intertwine with Organizational Resilience
+Sustainability , volume 13 , issue 4 , p. 2052 Posted: 2021
+Crossref
+Hedy Jiaying Huang , Ahsan Habib , Sophia Li Sun , Ying Liu , Huiting Guo
+Financial reporting and corporate innovation: a review of the international literature
+Accounting & Finance Posted: 2021
+Crossref
+Kai Li , Xing Liu , Feng Mai , Tengfei Zhang
+The Role of Corporate Culture in Bad Times: Evidence from the COVID-19 Pandemic
+Journal of Financial and Quantitative Analysis, Forthcoming, European Corporate Governance Institute – Finance Working Paper No. 726/2021, · 89 Pages · Posted: 24 Jun 2020 · Last revised: 28 Aug 2021 · Downloads: 3,961
+Download PDF  Add Paper to My Library
+Ioannis Tampakoudis , Athanasios Noulas , Nikolaos Kiosses , George Drogalas
+The effect of ESG on value creation from mergers and acquisitions. What changed during the COVID-19 pandemic?
+Corporate Governance: The International Journal of Business in Society , volume ahead-of-print , issue ahead-of-print Posted: 2021
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+5,735
+ABSTRACT VIEWS
+22,642
+RANK
+3,306
+6 Citations
+39 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

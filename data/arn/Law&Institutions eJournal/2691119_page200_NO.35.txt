@@ -1,0 +1,132 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Alternative Risk Premia, Complexity and Bankruptcy Prediction: Behavioral and Asset-Pricing Anomalies In DERs and ASRs
+
+22 Pages Posted: 17 Nov 2015 Last revised: 21 Jan 2018
+
+Michael C. I. Nwogugu
+
+Independent
+
+Date Written: 2015
+
+Abstract
+
+Since 1990, there has been substantial debate in both the popular press and academic materials about earnings management by multinational companies and the capital markets (ie. microstructure; raising capital) effects of their rampant uses of Dividend-Equivalent Rights (“DERs”) and Accelerated Stock Repurchases (“ASRs”). DERs and ASRs have become popular but inefficient corporate governance, financing and risk management instruments among large and medium companies globally and have significant implications for incentives, portfolio management, asset pricing and corporate financing. DERs and ASRs are regulated by national securities and accounting regulations (eg. IASB/IFRS), but the affected companies also operate in foreign countries. This article contributes to the literature in the following ways: i) explains why ASR programs and DERs are problematic/inefficient and why the generally accepted accounting methods for them are wrong – these issues represent both behavioral anomalies (by both investors and firm managers) and asset pricing anomalies; ii) two major implications are that DERs and ASRs may distort firms’ cost-of-capital, financing and opportunity sets, and that as noted in the academic and practitioner finance literature DERs and ASRs carry significant information content and can be exploited to generate alternative risk premia; iii) introduces new theories of Corporate Governance and Enterprise Risk Management; iv) explains how the existence and use of DERs and ARSs contravenes many finance theories.
+
+Keywords: Corporate Governance; Asset Pricing Anomalies; Alternative Risk Premia; Behavioral Finance; Algorithms; Enterprise Risk Management; Bankruptcy Prediction; Agents and Group Decisions
+
+Suggested Citation:
+
+Nwogugu, Michael C. I., Alternative Risk Premia, Complexity and Bankruptcy Prediction: Behavioral and Asset-Pricing Anomalies In DERs and ASRs (2015). Available at SSRN: https://ssrn.com/abstract=2691119 or http://dx.doi.org/10.2139/ssrn.2691119
+Download This Paper
+ 
+Open PDF in Browser
+118 References
+H Albrecher , R Kainhofer
+Risk theory with a nonlinear dividend barrier
+Computing , volume 68 , issue 4 , p. 289 - 311 Posted: 2002
+P Andreou , I Cooper , I De Olalla , C Louca
+Managerial Overconfidence And The Buyback Anomaly Posted: 2015-02
+Crossref
+Andrew Ainsworth , Maximilian Nicholson
+Can Dividend Schedules Predict Abnormal Returns? International Evidence
+2015 Financial Markets & Corporate Governance Conference Pages: 32 Posted: 29 Jan 2015
+Download PDF  Add Paper to My Library
+Inc Apple
+s annual/quarterly financial statements for Posted: 2010
+Load more
+7 Citations
+Michael C. I. Nwogugu
+The Case Of Apple, Inc., and Fintech: Managerial Psychology, Corporate Governance and Business Processes.
+49 Pages · Posted: 24 Jun 2015 · Last revised: 11 Jun 2017 · Downloads: 2,827
+Download PDF  Add Paper to My Library
+Michael C. I. Nwogugu
+The 'Popular-Index Ecosystems': Managerial Psychology, Corporate Governance and Risk.
+36 Pages · Posted: 20 Mar 2017 · Downloads: 68
+Download PDF  Add Paper to My Library
+Michael C. I. Nwogugu
+Complexity, Network-Decisions And Alternative Risk Premia: Some New Theories Of Structural Change And Portfolio Decisions.
+18 Pages · Posted: 23 Jun 2017 · Last revised: 6 Sep 2021 · Downloads: 298
+Download PDF  Add Paper to My Library
+Michael C. I. Nwogugu
+Complexity, Network-Decisions And Alternative Risk Premia: Some New Theories Of Structural Change And Portfolio Decisions.
+20 Pages · Posted: 28 Jun 2019 · Last revised: 6 Sep 2021 · Downloads: 85
+Download PDF  Add Paper to My Library
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+176
+ABSTRACT VIEWS
+1,150
+RANK
+390,788
+7 Citations
+118 References
+PlumX Metrics
+Related eJournals
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+
+Accounting, Corporate Governance, Law & Institutions eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

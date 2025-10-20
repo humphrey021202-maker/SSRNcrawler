@@ -1,0 +1,113 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+The Evolution of Risk Factor Disclosures through a Structural Topic Model
+
+69 Pages Posted: 30 Sep 2022 Last revised: 24 Jun 2025
+
+Carl-Erik Heyvaert
+
+Vlerick Business School; KU Leuven, Department Accounting, Finance and Insurance
+
+Kristof Stouthuysen
+
+Vlerick Business School; KU Leuven
+
+Tim Verdonck
+
+KU Leuven
+
+Date Written: September 2, 2022
+
+Abstract
+
+This study examines how risk factor disclosures (RFDs) in U.S. 10-K filings have evolved over time, focusing on two dimensions: the content of disclosed risks and the quality of the disclosure. Using a structural topic model on over 58,000 filings from 2006 to 2023, we capture temporal and industry-specific dynamics, allowing us to link shifts in risk factor prevalence to disclosure attributes such as boilerplate, readability, and peer imitation. We uncover a striking paradox: firms increasingly diversify their risk content, yet this diversification coincides with greater standardization and diminishing disclosure quality, marked by higher imitation and stickiness. Additionally, we show that these shifts have meaningful implications for capital markets: greater topic diversification is associated with lower stock price synchronicity, consistent with enhanced firm-specific information. In contrast, greater standardization in disclosure language attenuates this effect, limiting the informativeness of risk communication. Our findings contribute to the literatures on narrative disclosure, textual analysis, and capital market consequences of financial reporting. This study not only enriches the academic literature on the risk disclosure landscape but also provides empirical evidence that could guide future regulatory adjustments by the SEC.
+
+Keywords: Risk factor; Disclosure; Structural topic model; Industry; Prevalence; Informativeness
+
+JEL Classification: M41
+
+Suggested Citation:
+
+Heyvaert, Carl-Erik and Stouthuysen, Kristof and Verdonck, Tim, The Evolution of Risk Factor Disclosures through a Structural Topic Model (September 2, 2022). Available at SSRN: https://ssrn.com/abstract=4230847 or http://dx.doi.org/10.2139/ssrn.4230847
+Download This Paper
+ 
+Open PDF in Browser
+0 References
+Fetch References
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+278
+ABSTRACT VIEWS
+1,330
+RANK
+251,747
+57 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Corporate Finance: Governance, Corporate Control & Organization eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

@@ -1,0 +1,162 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Hidden Convexity in Partially Separable Optimization
+
+CentER Working Paper Series No. 2011-070
+
+25 Pages Posted: 15 Jun 2011
+
+Aharon Ben-Tal
+
+Technion-Israel Institute of Technology
+
+Dick den Hertog
+
+Tilburg University - Department of Econometrics & Operations Research
+
+Monique Laurent
+
+affiliation not provided to SSRN
+
+Date Written: June 10, 2011
+
+Abstract
+
+The paper identifies classes of nonconvex optimization problems whose convex relaxations have optimal solutions which at the same time are global optimal solutions of the original nonconvex problems. Such a hidden convexity property was so far limited to quadratically constrained quadratic problems with one or two constraints. We extend it here to problems with some partial separable structure. Among other things, the new hidden convexity results open up the possibility to solve multi-stage robust optimization problems using certain nonlinear decision rules.
+
+Keywords: convex relaxation of nonconvex problems, hidden convexity, partially separable functions, robust optimization
+
+JEL Classification: C61
+
+Suggested Citation:
+
+Ben-Tal, Aharon and den Hertog, Dick and Laurent, Monique, Hidden Convexity in Partially Separable Optimization (June 10, 2011). CentER Working Paper Series No. 2011-070, Available at SSRN: https://ssrn.com/abstract=1865208 or http://dx.doi.org/10.2139/ssrn.1865208
+Download This Paper
+ 
+Open PDF in Browser
+13 References
+A Ben-Tal , M Teboulle
+Hidden convexity in some nonconvex quadratically constrained quadratic programming
+Mathematical Programming , volume 72 , p. 51 - 63 Posted: 1995
+Crossref
+A Ben-Tal , L El-Ghaoui
+A. Nemirovski. Robust Optimization. Princeton Series in Applied Mathematics Posted: 2009
+Crossref
+Aharon Ben-Tal , Dick den Hertog
+Immunizing Conic Quadratic Optimization Problems Against Implementation Errors
+CentER Working Paper Series No. 2011-060 Pages: 25 Posted: 2 Jun 2011
+Download PDF  Add Paper to My Library
+Aharon Ben-Tal , Dick den Hertog , Anja M.B. De Waegenaere , Bertrand Melenberg , Gijs Rennen
+Robust Solutions of Optimization Problems Affected by Uncertain Probabilities
+CentER Working Paper Series No. 2011-061 Pages: 29 Posted: 31 May 2011
+Download PDF  Add Paper to My Library
+Load more
+6 Citations
+Marco Locatelli
+Convex envelopes of separable functions over regions defined by separable functions of the same type
+Optimization Letters , volume 12 , issue 8 , p. 1725 Posted: 2018
+Crossref
+İhsan Yanıkoğlu , Bram L. Gorissen , Dick den Hertog
+A survey of adjustable robust optimization
+European Journal of Operational Research , volume 277 , issue 3 , p. 799 Posted: 2019
+Crossref
+M. Locatelli
+A new technique to derive tight convex underestimators (sometimes envelopes)
+Computational Optimization and Applications , volume 87 , issue 2 , p. 475 Posted: 2024
+Crossref
+Aharon Ben-Tal , Dick den Hertog , Jean-Philippe Vial
+Deriving robust counterparts of nonlinear uncertain inequalities
+Mathematical Programming , volume 149 , issue 1-2 , p. 265 Posted: 2015
+Crossref
+Load more
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+228
+ABSTRACT VIEWS
+1,945
+RANK
+306,185
+6 Citations
+13 References
+PlumX Metrics
+Related eJournals
+
+Econometrics: Econometric & Statistical Methods - Special Topics eJournal
+
+Follow
+
+Research Methods & Methodology in Accounting eJournal
+
+Follow
+ 
+Recommended Papers
+
+Immunizing Conic Quadratic Optimization Problems Against Implementation Errors
+
+By Aharon Ben-tal and Dick Den Hertog
+
+Robust Solutions of Optimization Problems Affected by Uncertain Probabilities
+
+By Aharon Ben-tal, Dick Den Hertog, ...
+
+Deriving Robust Counterparts of Nonlinear Uncertain Inequalities
+
+By Aharon Ben-tal, Dick Den Hertog, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

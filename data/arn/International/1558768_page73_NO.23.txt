@@ -1,0 +1,140 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+On the Value Relevance of Finance's Cash Flow and Accounting's Accruals: Empirical Evidence from Egypt
+
+Ain Shams University's Journal of Economic Studies, Vol. 3, pp. 1-22, 2009
+
+22 Pages Posted: 1 Mar 2010
+
+Shamel Mohamed Elhamawy
+
+Ain Shams University
+
+Wesam Mohamed Habib
+
+King Faisal University
+
+Abstract
+
+We adhere to the value relevance approach to accounting capital markets research in order to investigate the accounting information environment in Egypt. Our main objective is to learn of the set of accounting information that can be considered value relevant in the Egyptian equity market. Particularly, we test the claim frequently encountered in the authoritative finance literature (e.g., Brealey and Myers, 2002; Copeland, Weston, and Shastri, 2005) that, accounting accruals are noisy and should not matter in equity valuation since the main concern is with expectations of future cash flows. However, unlike prior literature that investigates the same claim based exclusively on Ohlson's (1995) unbiased accounting model or one of its derivatives that allow for accounting conservatism such as (Ohlson, 1999) (e.g., Barth, Beaver, Hand, and Landsman, 1999), we design the tests based on Pope and Wang's (2005) residual income specification. Pope and Wang's basic equity value specification assumes mainly clean surplus accounting along with Modigliani and Miller's (1961) dividend policy irrelevance. Unlike Ohlson's, Pope and Wang's doesn't assume no-arbitrage pricing or specific linear abnormal earnings dynamics structure. Pope and Wang's specification also explicitly links the information role of accounting measures in valuation to their informational roles in forecasting abnormal earnings. Ultimately, the analysis based on Pope and Wang's specification allows us to [1] report on the explanatory power of a typical residual income valuation model in Egypt, [2] test the constraint that, both accounting accruals and cash flow aggregate in valuation (and in forecasting abnormal earnings), [3] test if the summary accounting measures in Egypt accurately replicate the economic characteristics of the underlying constructs they purport to be measuring, and [4] report a parameter representing the extent of accounting conservatism in the spirit of (Feltham and Ohlson, 1995). Our analysis in this fashion extends the value relevance literature by estimating Pope and Wang's specification employing data from the Egyptian stock market. As opposed to developed markets, it is far less obvious to what extent Egyptian accounting information is replicated in equity values. It is not also clear in Egypt what kind of accounting information should be employed for purposes of valuation and fundamental analysis.
+
+Keywords: value relevance, valuation, accounting accruals, cash flow
+
+JEL Classification: M41, M47
+
+Suggested Citation:
+
+Elhamawy, Shamel Mohamed and Habib, Wesam Mohamed, On the Value Relevance of Finance's Cash Flow and Accounting's Accruals: Empirical Evidence from Egypt. Ain Shams University's Journal of Economic Studies, Vol. 3, pp. 1-22, 2009, Available at SSRN: https://ssrn.com/abstract=1558768
+Download This Paper
+ 
+Open PDF in Browser
+110 References
+J Abarbanell , V Bernard
+Is the US stock market myopic?
+Journal of Accounting Research , volume 38 , p. 221 - 242 Posted: 2000
+Crossref
+A Abel , A Dixit , J Eberly , R Pindyck
+Options, the value of capital and investment
+Quarterly Journal of Economics , volume 111 , p. 753 - 777 Posted: 1996
+Crossref
+D Aboody , B Lev
+The value-relevance of intangibles: the case of software capitalization
+Journal of Accounting Research Supplement , volume 36 , p. 161 - 191 Posted: 1998
+Crossref
+D Aboody , J Hughes , J Liu
+Measuring relevance in a (possibly) inefficient market
+Journal of Accounting Research , volume 40 , p. 965 - 986 Posted: 2002
+Crossref
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+663
+ABSTRACT VIEWS
+3,332
+RANK
+90,776
+110 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+ 
+Recommended Papers
+
+Capital Markets Research in Accounting
+
+By S.p. Kothari
+
+What is the Intrinsic Value of the Dow?
+
+By Charles M.c. Lee, James N. Myers, ...
+
+Accruals and the Prediction of Future Cash Flows
+
+By Mary E. Barth, Donald P. Cram, ...
+
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

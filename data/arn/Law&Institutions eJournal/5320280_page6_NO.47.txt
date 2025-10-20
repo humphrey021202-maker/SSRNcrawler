@@ -1,0 +1,131 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+ 
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Who Labels and What's Priced? Evidence from Third-Party ESG Assessments in the Municipal Bond Market
+
+Jacobs Levy Equity Management Center for Quantitative Financial Research Paper
+
+78 Pages Posted: 25 Jun 2025 Last revised: 7 Oct 2025
+
+Daniel Garrett
+
+University of Pennsylvania - Finance Department
+
+Brian Gibbons
+
+Oregon State University College of Business
+
+Mahdi Shahrabi
+
+University of Pennsylvania - Department of Economics
+
+Date Written: June 25, 2025
+
+Abstract
+
+We study the supply and pricing dynamics for ESG labels using a novel and unexpected third-party assessment of environmental, social, and governance (ESG) characteristics for over $1 trillion in municipal bonds. We show that most eligible bonds are issued without ESG labels and that local beliefs and issuance terms discourage labeling. Using a difference-in-differences design in combination with these assessments, we provide within-bond evidence that reducing ESG-related uncertainty increases investors' willingness to pay. We find a 3-4 basis point premium for assessed bonds, even those with average ESG scores (i.e., ineligible for ESG labels), which we call an assessment effect. The greenium for higher environmental or transparency scores is smaller but significant. These pricing effects are consistent across local characteristics, but are much larger for revenue bonds with material credit risk. Our evidence highlights the general relevance of ESG information in assessing credit risk and a mismatch between its supply and investor demand.
+
+Keywords: Public Finance, Investments, Municipal Bonds, ESG Labels, Greenium, ESG, ESG Investing, Green Bond, Sustainability Bond, Social Bond, Credit Risk, Bloomberg, Kestrel
+
+Funder Statement
+
+Wharton ESG Initiative provided financial support for this project.
+
+JEL Classification: G12, G14, G23, H74, Q51, Q56
+
+Suggested Citation:
+
+Garrett, Daniel and Gibbons, Brian and Shahrabi, Mahdi, Who Labels and What's Priced? Evidence from Third-Party ESG Assessments in the Municipal Bond Market (June 25, 2025). Jacobs Levy Equity Management Center for Quantitative Financial Research Paper , Available at SSRN: https://ssrn.com/abstract=5320280 or http://dx.doi.org/10.2139/ssrn.5320280
+Download This Paper
+ 
+Open PDF in Browser
+96 References
+Acharya , V Viral , Timothy Johnson , Suresh Sundaresan , Tuomas Tomunen
+Is physical climate risk priced? Evidence from regional variation in exposure to heat stress
+National Bureau of Economic Research , volume 30445 Posted: 2022
+Manuel Adelino , Igor Cunha , Miguel A Ferreira
+The economic effects of public financing: Evidence from municipal bond ratings recalibration
+Review of Financial Studies , volume 30 , issue 9 , p. 3223 - 3268 Posted: 2017
+Amir Amel-Zadeh , George Serafeim
+Why and how investors use ESG information: Evidence from a global survey
+Financial analysts journal , volume 74 , issue 3 , p. 87 - 103 Posted: 2018
+Amel-Zadeh , Rik Amir , Mary Lustermans , David J Pieterse-Bloem , Dimitris Dekker , Christopoulos
+Posted: 2024
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+313
+ABSTRACT VIEWS
+1,271
+RANK
+221,251
+96 References
+PlumX Metrics
+Related eJournals
+
+Capital Markets: Asset Pricing & Valuation eJournal
+
+Follow
+
+Wharton Research Data Services (WRDS) Research Paper Series
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies

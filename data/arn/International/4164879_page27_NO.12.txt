@@ -1,0 +1,119 @@
+Skip to main content
+Product & Services
+Research Paper Series
+Site Subscriptions
+Sponsored Services
+Jobs & Announcements
+Conference Papers
+Partners in Publishing
+First Look
+Subscribe
+Submit a paper
+Browse
+Rankings
+Top Papers
+Top Authors
+Top Organizations
+Blog↗
+Contact
+Create account
+Sign in
+Download This Paper
+ 
+Open PDF in Browser
+ Add Paper to My Library
+Share:    
+Market Efficiency or Rational Investors? A Study on The Tehran Security Stock Exchange
+
+16 Pages Posted: 5 Aug 2022
+
+Ahmadreza Ghasemi
+
+Ashrafi Esfahani University
+
+Date Written: February 17, 2022
+
+Abstract
+
+We experienced many crashes in the stock markets around the world. Maybe the important one happened in 1929 in the US market, but how we should inhibit these weak points? There are many types of research related to the reasons for the market crashes that had been done, but in this research, I want to consider market efficiency and make a new model to improve research trends by recommending two market prices for each company's share. Retail price for the natural person's (ordinary) investors and wholesale price for the legal person's (rich) investors.
+
+I investigate the impact of natural person's investors, and legal person's investors on stock price crash risk to verify my new model and show how useful is to bring retail price into the stock market, The sample used in this study includes 144 companies for the period of April 2016 to March 2021 in the Tehran stock exchange, in this study I use Tehran stock exchange data about investors trading. I create a model to separate legal person's investors and natural person investors' effects on the market. Finally, I consider market efficiency and investigate the probable improvement in market efficiency by separating natural person's investor and legal person investor's transactions effects and examined whether this method helps to market efficiency or not?
+
+As a result, is seen that separating legal person's market and natural person's market, decreases stock price crash risk and systematic risk. There is no statistical evidence of improvement in market efficiency in these two forms of the market, but in some of the companies' shares, the improvement had been seen. So, I can say that using this article idea would be beneficial for whole the investors, and economic growth because of the efficient absorption of monetary sources.
+
+Keywords: Market efficiency, Stock Price Crash Risk, Natural person's Investor, Legal person's Investor
+
+JEL Classification: K49
+
+Suggested Citation:
+
+Ghasemi, Ahmadreza, Market Efficiency or Rational Investors? A Study on The Tehran Security Stock Exchange (February 17, 2022). Available at SSRN: https://ssrn.com/abstract=4164879 or http://dx.doi.org/10.2139/ssrn.4164879
+Download This Paper
+ 
+Open PDF in Browser
+6 References
+W Andrew , Craig Loa , Mackinlay
+Stock Market Prices do not Follow Random Walks: Evidence from a Simple Specification Test
+The influence of institutional investors on myopic R&D investment behavior, accounting review , volume 1 , p. 305 - 333 Posted: 1988
+J Chen , H Hong , J Stein , C
+Forecasting crashes, trading volume, past returns, and conditional skewness in stock prices
+Journal of Financial Economics , volume 383 , issue 3 , p. 1575 - 1617 Posted: 1970-05
+D Hirshleifer , K Hou , S H Teoh , Y Zhang
+PP 297-331. Jensen, M. C. (1978). some anomalous evidence regarding market efficiency
+Journal of Accounting and Economics , volume 38 , issue 2-3 , p. 95 - 101 Posted: 2004-12
+M C Jensen , W H Meckling
+Theory of the firm: Managerial behavior, agency costs and ownership structure
+Journal of Financial Economics , volume 3 , issue 4 , p. 305 - 360 Posted: 1976
+Load more
+0 Citations
+Fetch Citations
+Do you have a job opening that you would like to promote on SSRN?
+Place Job Opening
+Paper statistics
+DOWNLOADS
+50
+ABSTRACT VIEWS
+491
+6 References
+PlumX Metrics
+Related eJournals
+
+Financial Accounting eJournal
+
+Follow
+
+Capital Markets: Market Efficiency eJournal
+
+Follow
+ 
+Feedback 
+Submit a Paper 
+Section 508 Text Only Pages
+SSRN Quick Links
+SSRN Solutions
+Research Paper Series
+Conference Papers
+Partners in Publishing
+Jobs & Announcements
+Special Topic Hubs
+SSRN Rankings
+Top Papers
+Top Authors
+Top Organizations
+About SSRN
+Network Directors
+Announcements
+Contact us
+FAQs
+  
+Copyright Terms and Conditions Privacy Policy
+
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies to help provide and enhance our service and tailor content.
+
+To learn more, visit Cookie settings | Your Privacy Choices. 
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. For more information, see ourCookie Policy
+Cookie Settings
+Accept all cookies
