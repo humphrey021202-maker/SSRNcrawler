@@ -28,28 +28,22 @@ ENABLE_GLOBAL_DEDUP = True
 RETRY_PER_ARTICLE = 3
 # 期刊列表仍可手工配置起始页；end_page 将被忽略（自动到尾页）
 JOURNAL_IDS = {
-    "ResearchMethods&Methodology": 1155179,
-    "AnalyticalModelseJournal": 1766229,
-    "ForensicAccountingeJournal": 1155169,
-    "Law&Institutions eJournal":1155181,
-    "Gorvernmental":1155174,
-    "Tax":2370232,
-    "HistoryofAccounting":1155177,
-    "AppliedAccounting":1155182,
-    "Auditing":2370181,
-    "International":1155159
+    "Emerging Legal Issues in Information Systems eJournal": 4621655,
+    "Frontiers in Information Systems Research & Applications eJournal": 4621663,
+    "Information Systems & Economics eJournal": 1475407,
+    "Information Systems Education eJournal": 4621661,
+    "Behavioral & Social Methods eJournal": 1475411,
+    "Technology & Systems eJournal": 1475394
+
 }
 JOURNAL_PAGE_RANGE: Dict[str, Tuple[int, int]] = {
-    "ResearchMethods&Methodology": (1, 200),   # 结束页不再使用；仅保留起始页
-    "AnalyticalModelseJournal": (1, 200),
-    "ForensicAccountingeJournal":(1, 200),
-    "Law&Institutions eJournal":(1,200),
-    "Gorvernmental":(1,200),
-    "Tax":(1,200),
-    "HistoryofAccounting":(1,200),
-    "AppliedAccounting":(1,200),
-    "Auditing":(1,200),
-    "International":(1,200)
+    "Emerging Legal Issues in Information Systems eJournal": (1, 200),   # 结束页不再使用；仅保留起始页
+    "Frontiers in Information Systems Research & Applications eJournal": (1, 200),
+    "Information Systems & Economics eJournal":(1, 200),
+    "Information Systems Education eJournal": (1, 200),
+    "Behavioral & Social Methods eJournal": (1,86),
+    "Technology & Systems eJournal": (1,62)
+
 }
 
 JOURNAL_URL_TEMPLATE = (

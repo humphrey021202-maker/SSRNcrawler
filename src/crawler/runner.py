@@ -7,7 +7,7 @@ from collections import deque
 from .config import (
     DATA_DIR, JOURNAL_IDS, JOURNAL_PAGE_RANGE, JOURNAL_URL_TEMPLATE,
     GLOBAL_DETAIL_CONCURRENCY, ENABLE_GLOBAL_DEDUP,
-    BACKOFF_BASE, BACKOFF_MAX, CHECKPOINT_FILE,
+    BACKOFF_BASE, BACKOFF_MAX, CHECKPOINT_FILE, RETRY_PER_ARTICLE,   # ← 引入重试上限
 )
 from .checkpoint import save_checkpoint, load_checkpoint
 from .utils import (
@@ -30,12 +30,6 @@ LINK_SELECTORS = [
 
 def save_progress(journals: List[Dict], current_index: int, current_page: int,
                   current_link_idx: int, seen_ids: Set[str]) -> None:
-    """
-    journals: [{"name":..., "jid":..., "page":..., "link_idx":..., "save_dir":...}, ...]
-    current_index: 正在处理的期刊在 journals 列表中的下标
-    current_page:  正在处理的页码
-    current_link_idx: 当前页里已经处理到的链接序号（从 0 开始；如果刚处理完第 k 条，就传 k）
-    """
     snapshot = []
 
     # 1) 当前期刊的最新游标
@@ -44,10 +38,10 @@ def save_progress(journals: List[Dict], current_index: int, current_page: int,
         "name": cur["name"],
         "jid": cur["jid"],
         "page": int(current_page),
-        "end_page": 999999,          # 顺序模式下用不到，保留字段即可
+        "end_page": 999999,
         "link_idx": int(current_link_idx),
         "save_dir": cur["save_dir"],
-        "article_idx": 0,            # 顺序模式不再用编号写名，可占位
+        "article_idx": 0,
     })
 
     # 2) 其后的剩余期刊（保持原顺序）
@@ -63,7 +57,6 @@ def save_progress(journals: List[Dict], current_index: int, current_page: int,
             "article_idx": 0,
         })
 
-    # 写盘
     save_checkpoint(deque(snapshot), seen_ids)
 
 async def scrape_all_journals_rotating(context) -> None:
@@ -115,7 +108,7 @@ async def scrape_all_journals_rotating(context) -> None:
                 list_url = JOURNAL_URL_TEMPLATE.format(jid=jid, page=page_num)
                 print(f"\n🌍 [{name}] 第 {page_num} 页: {list_url}")
 
-                # 列表页：网络/超时错误 -> 不加页，原地退避重试
+                # 列表页：网络/超时错误 -> 不加页，原地退避重试（随机秒数）
                 try:
                     links = await load_links_on_page(list_page, list_url, LINK_SELECTORS)
                 except Exception as e:
@@ -132,7 +125,7 @@ async def scrape_all_journals_rotating(context) -> None:
                     except Exception:
                         body = ""
 
-                    # 验证页：不加页，原地退避重试
+                    # 验证页：不加页，原地退避重试（随机秒数）
                     if looks_like_challenge(body):
                         wait_s = random.uniform(BACKOFF_BASE, BACKOFF_MAX)
                         print(f"🧱 列表页疑似验证，冷却 {wait_s:.1f}s 后重试当前页 …")
@@ -144,18 +137,16 @@ async def scrape_all_journals_rotating(context) -> None:
                     empty_pages_in_a_row += 1
                     if empty_pages_in_a_row >= 2:
                         print(f"✅ [{name}] 连续两页无有效链接（到第 {page_num} 页），判定到尾页，结束该刊。")
-                        # 断点：写下一个期刊的起点（或保留当前快照也行）
                         save_progress(journals, i, page_num, cur.get("link_idx", 0), seen_ids)
                         break
                     else:
                         print(f"📭 [{name}] 第 {page_num} 页无有效链接，翻到下一页确认。")
-                        # 翻页前落盘（下一页从 0 开始）
                         save_progress(journals, i, page_num, 0, seen_ids)
                         cur["link_idx"] = 0
                         page_num += 1
                         continue
                 else:
-                    empty_pages_in_a_row = 0  # 有链接即清零
+                    empty_pages_in_a_row = 0
 
                 print(f"📑 [{name}] 第 {page_num} 页共 {len(links)} 条文章链接")
 
@@ -179,29 +170,44 @@ async def scrape_all_journals_rotating(context) -> None:
                                 save_progress(journals, i, page_num, ordinal, seen_ids)
                                 continue
 
-                    async with detail_sem:
-                        saved, hit_challenge, _ = await fetch_article_text(
-                            context=context,
-                            url=link,
-                            save_dir=cur["save_dir"],
-                            file_stem=file_stem,
-                        )
+                    # —— 这里开始：命中验证 → 冷却 → 原地重试同一篇 —— #
+                    attempts = 0
+                    while True:
+                        async with detail_sem:
+                            saved, hit_challenge, _ = await fetch_article_text(
+                                context=context,
+                                url=link,
+                                save_dir=cur["save_dir"],
+                                file_stem=file_stem,
+                            )
 
-                    # 去重集合写入
-                    if ENABLE_GLOBAL_DEDUP and saved and not abs_id.startswith("unk_"):
-                        async with seen_ids_lock:
-                            seen_ids.add(abs_id)
+                        if saved:
+                            # 保存成功：写入去重集合（若启用）
+                            if ENABLE_GLOBAL_DEDUP and not abs_id.startswith("unk_"):
+                                async with seen_ids_lock:
+                                    seen_ids.add(abs_id)
+                            # 进度前移并落盘
+                            cur["link_idx"] = ordinal
+                            save_progress(journals, i, page_num, ordinal, seen_ids)
+                            break  # 跳出“重试同一篇”的 while，进入下一个 ordinal
 
-                    # 进度前移：已处理到 ordinal
-                    cur["link_idx"] = ordinal
-                    save_progress(journals, i, page_num, ordinal, seen_ids)
+                        # 未保存成功：可能是挑战或超时/异常，按统一策略重试
+                        attempts += 1
+                        if attempts >= RETRY_PER_ARTICLE:
+                            print(f"⏭️ [{name}] 第 {page_num} 页 NO.{ordinal} 重试 {attempts} 次仍失败，放弃该条。")
+                            # 放弃该条：前移进度，避免死循环，继续下一条
+                            cur["link_idx"] = ordinal
+                            save_progress(journals, i, page_num, ordinal, seen_ids)
+                            break
 
-                    # 详情页命中挑战：随机退避，原地继续本页
-                    if hit_challenge:
+                        # 仍要重试：随机冷却后“原地重试同一篇”（不前移 link_idx）
                         wait_s = random.uniform(BACKOFF_BASE, BACKOFF_MAX)
-                        print(f"🧱 详情页疑似验证，冷却 {wait_s:.1f}s 后继续本页 …")
-                        save_progress(journals, i, page_num, ordinal, seen_ids)
+                        reason = "详情页疑似验证" if hit_challenge else "详情页失败/超时"
+                        print(f"🧱 {reason}，第 {attempts} 次重试前冷却 {wait_s:.1f}s …（仍将重试同一篇）")
+                        # 断点落盘：保持当前 ordinal（未前移）
+                        save_progress(journals, i, page_num, cur.get("link_idx", 0), seen_ids)
                         await asyncio.sleep(wait_s)
+                        # while True 继续；ordinal 不变 → “原地重试同一篇”
 
                 # 本页处理完 -> 翻页（页内位置归零）
                 cur["link_idx"] = 0
@@ -211,10 +217,7 @@ async def scrape_all_journals_rotating(context) -> None:
             print(f"🎯 期刊 {name} 完成。")
 
     except KeyboardInterrupt:
-        # Ctrl+C：尽力保存当前位置
         try:
-            # 找到一个尽可能安全的下标和位置保存
-            # 这里假设 i/page_num/cur["link_idx"] 仍在作用域内（若异常早于定义，可再做保护）
             if 'i' in locals() and 'page_num' in locals():
                 lk = 0
                 try:
