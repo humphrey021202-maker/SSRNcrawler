@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b377bd90-f10f-4d73-a7bb-48a99dae24aa" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/statistics/TurnIntoCSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statistics/readHTML.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/crawler/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawler/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crawler/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawler/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/crawler/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawler/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crawler/scraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawler/scraping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statistics/TurnIntoCSV.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statistics/eBusiness.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +43,8 @@
     "Python.TurnIntoCSV.executor": "Run",
     "Python.config.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.process_affiliations.executor": "Run",
+    "Python.readHTML.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",

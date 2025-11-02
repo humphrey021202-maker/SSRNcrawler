@@ -1,41 +1,35 @@
-import asyncio, random
+import os, random, asyncio
 from playwright.async_api import async_playwright
-from .config import USER_AGENTS, COOKIE_FILE
-from .runner import scrape_all_journals_rotating
+from .runner import scrape_journals_index_snapshot
+from .config import COOKIE_FILE, USER_AGENTS
 
-async def _main():
+async def main():
     async with async_playwright() as p:
-        browser = await p.chromium.launch(
-            headless=True,
-            args=[
-                "--disable-blink-features=AutomationControlled",
-                "--disable-dev-shm-usage",
-                "--no-sandbox",
-            ],
-        )
+        # 建议先 headless=False 跑一轮“培养”cookie；OK后再改 True
+        browser = await p.chromium.launch(headless=False, slow_mo=100,
+                                          args=["--disable-blink-features=AutomationControlled"])
+
+        storage_state = COOKIE_FILE if os.path.exists(COOKIE_FILE) else None
         ua = random.choice(USER_AGENTS)
-        vw = 1366; vh = 840
-        try:
-            context = await browser.new_context(
-                storage_state=COOKIE_FILE,
-                user_agent=ua,
-                locale="en-US",
-                viewport={"width": vw, "height": vh},
-            )
-        except Exception as e:
-            print(f"❌ 加载 {COOKIE_FILE} 失败，请重新登录并导出 cookies: {e}")
-            await browser.close()
-            return
+
+        context = await browser.new_context(
+            storage_state=storage_state,
+            user_agent=ua,
+            locale="en-US",
+            timezone_id="America/New_York",   # 任一常见时区即可
+            viewport={"width": 1366, "height": 768},
+            device_scale_factor=1.0,
+            java_script_enabled=True,
+        )
+        # 降低 webdriver 暴露
+        await context.add_init_script("""Object.defineProperty(navigator, 'webdriver', {get: () => undefined});""")
 
         try:
-            await scrape_all_journals_rotating(context)
-        except KeyboardInterrupt:
-            print("🛑 捕获到中断（Ctrl+C），断点已保存。")
+            await scrape_journals_index_snapshot(context)
+            await context.storage_state(path=COOKIE_FILE)
         finally:
+            await context.close()
             await browser.close()
-
-def run():
-    asyncio.run(_main())
 
 if __name__ == "__main__":
-    run()
+    asyncio.run(main())

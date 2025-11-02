@@ -1,53 +1,72 @@
-# src/<你的包>/scraping.py
-from __future__ import annotations
-import os, asyncio
+import os
 from typing import Tuple
-from .config import CHALLENGE_SIZE_BYTES, KEEP_TINY_FILES, ARTICLE_DELAY_RANGE, ARTICLE_TIMEOUT
-from .utils import humanize_page, slight_mouse_move, gentle_scroll, polite_sleep, looks_like_challenge
+from playwright.async_api import BrowserContext, TimeoutError
 
-async def fetch_article_text(context, url: str, save_dir: str, file_stem: str) -> Tuple[bool, bool, int]:
+RESULT_SELECTOR = 'a[href*="papers.cfm?abstract_id="]'  # 目录中每条论文都有
+CHALLENGE_SIZE_BYTES = 1024  # 你已有的阈值，必要时调低到 512 看看
+
+def _ensure_dirs(path: str):
+    os.makedirs(path, exist_ok=True)
+    os.makedirs(os.path.join(path, "_challenge"), exist_ok=True)
+
+async def fetch_list_page_text(
+    context: BrowserContext,
+    url: str,
+    save_dir: str,
+    file_stem: str,   # 例如 "page_00045"
+) -> Tuple[bool, bool, int]:
     """
-    return: (saved_ok, hit_challenge, size_bytes)
-    file_stem: 已按你的规则拼好的名字（不含扩展名）
+    抓目录页：
+      - 等 RESULT_SELECTOR 出现（最长 20s）
+      - 成功→保存完整 HTML 到 save_dir/file_stem.html
+      - 失败/挑战→保存完整 HTML 到 save_dir/_challenge/file_stem.html
+    返回: (saved_normal, hit_challenge, size_bytes)
     """
+    _ensure_dirs(save_dir)
+    chal_dir = os.path.join(save_dir, "_challenge")
+
     page = await context.new_page()
     try:
-        await page.goto(url, wait_until="domcontentloaded", timeout=ARTICLE_TIMEOUT * 1000)
-        await humanize_page(page)
-        await slight_mouse_move(page)
-        await gentle_scroll(page)
-        await polite_sleep(*ARTICLE_DELAY_RANGE)
+        await page.goto(url, wait_until="domcontentloaded", timeout=45_000)
 
-        body = await page.inner_text("body")
+        # 给点“人类停顿”
+        await page.wait_for_timeout(500)
 
-        os.makedirs(save_dir, exist_ok=True)
-        path = os.path.join(save_dir, f"{file_stem}.txt")
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(body)
+        # 可选：滚动一下，触发可能的惰性加载
+        await page.evaluate("""() => { window.scrollTo(0, document.body.scrollHeight/2); }""")
+        await page.wait_for_timeout(300)
+        await page.evaluate("""() => { window.scrollTo(0, document.body.scrollHeight); }""")
+        await page.wait_for_timeout(300)
 
-        size_bytes = os.path.getsize(path)
-        is_tiny = size_bytes <= CHALLENGE_SIZE_BYTES or looks_like_challenge(body)
-
-        if is_tiny:
-            if not KEEP_TINY_FILES:
-                try: os.remove(path)
-                except: pass
-            else:
-                chall_dir = os.path.join(save_dir, "_challenge")
-                os.makedirs(chall_dir, exist_ok=True)
-                try: os.replace(path, os.path.join(chall_dir, f"{file_stem}.txt"))
-                except: pass
-            print(f"🧱 小文件/疑似验证（{size_bytes}B），跳过计数: {url}")
+        # 等结果元素出现（若 20s 内没出现，多半被降级/要登录/被风控）
+        try:
+            await page.wait_for_selector(RESULT_SELECTOR, state="visible", timeout=20_000)
+        except TimeoutError:
+            html = await page.content()
+            size_bytes = len(html.encode("utf-8", errors="ignore"))
+            out = os.path.join(chal_dir, f"{file_stem}.html")
+            with open(out, "w", encoding="utf-8", newline="") as f:
+                f.write(html)
             return (False, True, size_bytes)
 
-        print(f"✅ 保存 {path} ({size_bytes}B) ({url})")
+        # 正常：保存完整 HTML
+        html = await page.content()
+        size_bytes = len(html.encode("utf-8", errors="ignore"))
+
+        # 过小仍按“挑战/降级”归档
+        if size_bytes <= CHALLENGE_SIZE_BYTES:
+            out = os.path.join(chal_dir, f"{file_stem}.html")
+            with open(out, "w", encoding="utf-8", newline="") as f:
+                f.write(html)
+            return (False, True, size_bytes)
+
+        out = os.path.join(save_dir, f"{file_stem}.html")
+        with open(out, "w", encoding="utf-8", newline="") as f:
+            f.write(html)
         return (True, False, size_bytes)
 
-    except asyncio.TimeoutError:
-        print(f"⚠️ 超时 {ARTICLE_TIMEOUT}s，跳过: {url}")
-        return (False, False, 0)
-    except Exception as e:
-        print(f"❌ 详情异常: {url} -> {e}")
-        return (False, False, 0)
     finally:
-        await page.close()
+        try:
+            await page.close()
+        except Exception:
+            pass

@@ -23,24 +23,24 @@ KEEP_TINY_FILES = True
 
 YEAR_INCLUDE: Set[int] = set()
 ENABLE_GLOBAL_DEDUP = True
+# 单页命中验证/失败时的重试上限
+RETRY_PER_PAGE = 5
 
-#单篇文章在命中验证/失败时的重试次数上限
-RETRY_PER_ARTICLE = 3
 # 期刊列表仍可手工配置起始页；end_page 将被忽略（自动到尾页）
 JOURNAL_IDS = {
-    "Emerging Legal Issues in Information Systems eJournal": 4621655,
-    "Frontiers in Information Systems Research & Applications eJournal": 4621663,
-    "Information Systems & Economics eJournal": 1475407,
-    "Information Systems Education eJournal": 4621661,
+    #"Emerging Legal Issues in Information Systems eJournal": 4621655,
+    "eBusiness & eCommerce eJournal": 1475385,
+    "Information Systems Legislation & Regulations eJournal": 2495585,
+    "Information Systems & eBusiness Negative Results eJournal": 3045514,
     "Behavioral & Social Methods eJournal": 1475411,
     "Technology & Systems eJournal": 1475394
 
 }
 JOURNAL_PAGE_RANGE: Dict[str, Tuple[int, int]] = {
-    "Emerging Legal Issues in Information Systems eJournal": (1, 200),   # 结束页不再使用；仅保留起始页
-    "Frontiers in Information Systems Research & Applications eJournal": (1, 200),
-    "Information Systems & Economics eJournal":(1, 200),
-    "Information Systems Education eJournal": (1, 200),
+    #"Emerging Legal Issues in Information Systems eJournal": (1, 200),   # 结束页不再使用；仅保留起始页
+    "eBusiness & eCommerce eJournal": (1, 79),
+    "Information Systems Legislation & Regulations eJournal":(1, 128),
+    "Information Systems & eBusiness Negative Results eJournal": (1, 7),
     "Behavioral & Social Methods eJournal": (1,86),
     "Technology & Systems eJournal": (1,62)
 
