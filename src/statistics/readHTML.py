@@ -189,7 +189,7 @@ def main(input_dir: str) -> Path:
     out_csv = result_dir / f"{root.name}.csv"
 
     rows: List[dict] = []
-    for p in sorted(root.glob('*.html')):
+    for p in sorted(root.rglob('*.html')):
         rows.extend(parse_one_list_html(p))
 
     # write CSV with BOM for Excel

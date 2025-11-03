@@ -8,3 +8,4 @@ cookies.json
 *.log
 */_challenge/
 article_*.txt
+data/
