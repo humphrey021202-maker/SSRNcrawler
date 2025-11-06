@@ -2,7 +2,7 @@ from __future__ import annotations
 import sys
 import re
 from pathlib import Path
-from typing import List, Tuple, Optional, Dict, Set
+from typing import List, Optional, Set
 from bs4 import BeautifulSoup
 import csv
 import unicodedata
@@ -14,19 +14,13 @@ except Exception:
     detect_from_bytes = None
 
 DELIM = ';'  # 英文分号
-
-AND_RE = re.compile(r"\band\b", re.I)
-SPLIT_RE = re.compile(r"\s*,\s*|\s+and\s+", re.I)
 ABSTRACT_ID_RE = re.compile(r"abstract_id=(\d+)")
-
 
 def normalize_space(s: str) -> str:
     return re.sub(r"\s+", " ", s or "").strip()
 
-
 def nfc(text: str) -> str:
     return unicodedata.normalize('NFC', text)
-
 
 def read_html_text(path: Path) -> str:
     """Robustly read HTML file with fallback decoding."""
@@ -41,99 +35,45 @@ def read_html_text(path: Path) -> str:
             txt = raw.decode('latin-1', errors='replace')
     return nfc(txt)
 
-
 def find_abstract_id(href: str) -> Optional[str]:
     if not href:
         return None
     m = ABSTRACT_ID_RE.search(href)
     return m.group(1) if m else None
 
-
-def simple_split_by_commas_and_and(text: str, n: int) -> Tuple[List[str], bool]:
-    t = normalize_space(text)
-    comma_cnt = t.count(',')
-    and_cnt = len(AND_RE.findall(t))
-    if n <= 1:
-        return ([t] if t else []), False
-    if and_cnt == 1 and comma_cnt == (n - 2):
-        parts = [normalize_space(p) for p in SPLIT_RE.split(t) if normalize_space(p)]
-        if len(parts) == n:
-            return parts, False
-        return parts if parts else [t], True
-    return [t], True
-
-
-def try_fix_multiple_and(text: str, n: int) -> Tuple[List[str], bool]:
-    t = normalize_space(text)
-    if len(AND_RE.findall(t)) <= 1:
-        return [t], True
-    last_comma = t.rfind(',')
-    if last_comma == -1:
-        return [t], True
-    tail = t[last_comma + 1 :]
-    if len(AND_RE.findall(tail)) == 1:
-        parts = [normalize_space(p) for p in SPLIT_RE.split(t) if normalize_space(p)]
-        if len(parts) == n:
-            return parts, False
-        return parts if parts else [t], True
-    return [t], True
-
-
-def try_keep_universities_only(text: str, n: int) -> Tuple[List[str], bool]:
-    t = normalize_space(text)
-    tokens = [normalize_space(p) for p in SPLIT_RE.split(t) if normalize_space(p)]
-    uni_tokens = [p for p in tokens if 'university' in p.lower()]
-    if len(uni_tokens) == n and n > 0:
-        return uni_tokens, False
-    return [t], True
-
-
-def split_affiliations(raw_text: str, n_authors: int) -> Tuple[List[str], int]:
-    t = normalize_space(raw_text)
-    if not t:
-        return [], 1 if n_authors > 0 else 0
-    parts, bad = simple_split_by_commas_and_and(t, n_authors)
-    if not bad:
-        return parts, 0
-    parts2, bad2 = try_fix_multiple_and(t, n_authors)
-    if not bad2 and parts2 != [t]:
-        return parts2, 0
-    parts3, bad3 = try_keep_universities_only(t, n_authors)
-    if not bad3 and parts3 != [t]:
-        return parts3, 0
-    return [t], 1
-
-
 def parse_one_list_html(path: Path) -> List[dict]:
     html = read_html_text(path)
-    soup = BeautifulSoup(html, 'lxml')
+    soup = BeautifulSoup(html, 'lxml')  # 若没有 lxml，可改为 'html.parser'
     out = []
+
     for paper in soup.select('div.paper'):
         title_tag = paper.select_one('.paper-info .title a, .title a')
         title = normalize_space(title_tag.get_text()) if title_tag else ''
         href = title_tag['href'] if (title_tag and title_tag.has_attr('href')) else ''
         abstract_id = find_abstract_id(href) or ''
+
         posted_date = ''
         for sp in paper.select('.stats span'):
             txt = sp.get_text(strip=True)
             if txt.lower().startswith('posted'):
                 posted_date = normalize_space(txt)
                 break
+
         authors = [normalize_space(nfc(a.get_text())) for a in paper.select('.authors a')]
+
+        # 直接拉取 affiliations 原始纯文本（不做拆分/识别）
         aff_raw_tag = paper.select_one('.affiliations')
         aff_raw = normalize_space(nfc(aff_raw_tag.get_text())) if aff_raw_tag else ''
-        aff_list, needs = split_affiliations(aff_raw, len(authors))
+
         out.append({
             'abstract_id': abstract_id,
             'title': title,
             'posted': posted_date,
             'authors': DELIM.join(authors) if authors else '',
-            'affiliations': DELIM.join(aff_list) if aff_list else '',
-            'affil_needs_review': needs,
+            'affiliations': aff_raw,         # 直接原样写入
             'source_file': str(path.name),
         })
     return out
-
 
 def main(input_dir: str) -> Path:
     root = Path(input_dir).resolve()
@@ -180,12 +120,19 @@ def main(input_dir: str) -> Path:
     dedup_count = len(dedup_rows)
 
     # ===== 写入 CSV（仅去重后的数据）=====
-    fieldnames = ['abstract_id', 'title', 'posted', 'authors', 'affiliations', 'affil_needs_review', 'source_file']
+    fieldnames = ['abstract_id', 'title', 'posted', 'authors', 'affiliations', 'source_file']
     with out_csv.open('w', newline='', encoding='utf-8-sig') as f:
         w = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
         w.writeheader()
         for r in dedup_rows:
-            w.writerow({k: nfc(str(v)) if isinstance(v, str) else v for k, v in r.items()})
+            # 统一 NFC & 去除多余空白
+            cleaned = {}
+            for k, v in r.items():
+                if isinstance(v, str):
+                    cleaned[k] = nfc(normalize_space(v))
+                else:
+                    cleaned[k] = v
+            w.writerow(cleaned)
 
     # ===== 汇总输出 =====
     print("\n===== 统计汇总 =====")
@@ -198,12 +145,9 @@ def main(input_dir: str) -> Path:
 
     return out_csv
 
-
 if __name__ == '__main__':
     if len(sys.argv) < 2:
         print('Usage: python parse_ssrn_dir_v2.py <folder_with_html_files>')
         sys.exit(1)
     output = main(sys.argv[1])
     print(f"\n✅ Done. CSV saved to: {output}")
-
-

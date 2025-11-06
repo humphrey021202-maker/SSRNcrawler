@@ -393,7 +393,7 @@ if __name__ == "__main__":
     import sys
     sys.argv = [
         sys.argv[0],
-        "-i", "E:/SSRNPaperResearch/data/isn/result/TechnologySystemseJournal.csv",
+        "-i", "E:/SSRNPaperResearch/data/result/ERN.csv",
         "-m", "E:/SSRNPaperResearch/data/ror_name_country_norm.tsv",
         "--progress-every", "500",
         "--precount"

@@ -28,22 +28,53 @@ RETRY_PER_PAGE = 5
 
 # 期刊列表仍可手工配置起始页；end_page 将被忽略（自动到尾页）
 JOURNAL_IDS = {
-    #"Emerging Legal Issues in Information Systems eJournal": 4621655,
-    "eBusiness & eCommerce eJournal": 1475385,
-    "Information Systems Legislation & Regulations eJournal": 2495585,
-    "Information Systems & eBusiness Negative Results eJournal": 3045514,
-    "Behavioral & Social Methods eJournal": 1475411,
-    "Technology & Systems eJournal": 1475394
+    #"Biochemistry" : 2929808,
+    #"Computing_Bio" : 2878323,
+    #"Pharmacology":2878529,
+    #"Biodiversity":4521845,
+    #"Ecology":2878344,
+    #"Physiology":2878551,
+    #"Bio_Cognitive": 2878603,
+    #"Genetics":2878360,
+    "Stem_Cell":2878342,
+    "Bio_law":2878626,
+    "Human_Health":2929907,
+    "Bio_Physiology":2878612,
+    "Toxicology":2878568,
+    "Immunology":4266118,
+    "Virology":4266124,
+    "Bio_Sustainability":2878646,
+    "MicroBiology":4266116,
+    "Zoology":2929811,
+    "BioTech":2878497,
+    "Botany":2878299,
+    "Neurobiology":2878517,
+    "Parasitology":4266119
 
 }
 JOURNAL_PAGE_RANGE: Dict[str, Tuple[int, int]] = {
-    #"Emerging Legal Issues in Information Systems eJournal": (1, 200),   # 结束页不再使用；仅保留起始页
-    "eBusiness & eCommerce eJournal": (1, 79),
-    "Information Systems Legislation & Regulations eJournal":(1, 128),
-    "Information Systems & eBusiness Negative Results eJournal": (1, 7),
-    "Behavioral & Social Methods eJournal": (1,86),
-    "Technology & Systems eJournal": (1,62)
-
+    #"Biochemistry": (1, 168),
+    #"Computing_Bio": (1, 78),
+    #"Pharmacology": (1, 70),
+    #"Biodiversity": (1, 50),
+    #"Ecology": (1, 132),
+    #"Physiology":(1,48),
+    #"Bio_Cognitive":(1,36),
+    #"Genetics": (1,167),
+    "Stem_Cell":(1,25),
+    "Bio_law":(1,66),
+    "Human_Health":(1,200),
+    "Bio_Physiology":(1,15),
+    "Toxicology":(1,39),
+    "Immunology":(1,52),
+    "Virology":(1,29),
+    "Bio_Sustainability":(1,131),
+    "MicroBiology":(1,120),
+    "Zoology":(1,38),
+    "BioTech":(1,169),
+    "Botany":(1,72),
+    "NeuroBiology":(1,98),
+    "Parasitology":(1,19)
 }
 
 JOURNAL_URL_TEMPLATE = (
