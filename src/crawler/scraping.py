@@ -1,6 +1,10 @@
 import os
 from typing import Tuple
-from playwright.async_api import BrowserContext, TimeoutError
+from playwright.async_api import BrowserContext, TimeoutError,  Page
+from pathlib import Path
+from .utils import polite_sleep
+from .config import DATA_DIR, WILEY_ISSUE_URLS_V56, WILEY_SAVE_DIRNAME
+
 
 RESULT_SELECTOR = 'a[href*="papers.cfm?abstract_id="]'  # 目录中每条论文都有
 CHALLENGE_SIZE_BYTES = 1024  # 你已有的阈值，必要时调低到 512 看看
@@ -65,6 +69,37 @@ async def fetch_list_page_text(
             f.write(html)
         return (True, False, size_bytes)
 
+    finally:
+        try:
+            await page.close()
+        except Exception:
+            pass
+def _safe_filename(url: str) -> str:
+    # 生成可作文件名的短字符串（按你项目习惯可改）
+    name = url.replace("://", "_").replace("/", "_").replace("?", "_").replace("&", "_")
+    return (name[:200] if len(name) > 200 else name) + ".html"
+
+async def snapshot_wiley_v56_issues(context: BrowserContext) -> None:
+    """
+    只保存 Wiley Volume 56，Issues 1-5 的 TOC 整页 HTML。
+    不解析、不落断点。
+    输出目录：data/<WILEY_SAVE_DIRNAME>/
+    文件名：按 URL 生成的 .html
+    """
+    save_dir = Path(DATA_DIR) / WILEY_SAVE_DIRNAME
+    save_dir.mkdir(parents=True, exist_ok=True)
+
+    page: Page = await context.new_page()
+    try:
+        for idx, issue_url in enumerate(WILEY_ISSUE_URLS_V56, start=1):
+            print(f"[Wiley] ({idx}/{len(WILEY_ISSUE_URLS_V56)}) {issue_url}")
+            await page.goto(issue_url, wait_until="domcontentloaded", timeout=45_000)
+            await polite_sleep(0.2, 0.6)  # 轻微节流
+
+            html = await page.content()
+            out_path = save_dir / _safe_filename(issue_url)
+            out_path.write_text(html, encoding="utf-8")
+            print(f"  ↳ 保存 {out_path}")
     finally:
         try:
             await page.close()
