@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b377bd90-f10f-4d73-a7bb-48a99dae24aa" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/statistics/fix_unavailable_affiliation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statistics/readWiley.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SSRNPaperResearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SSRNPaperResearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backgroundcheck/newRORjson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backgroundcheck/new_Judge_Background.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crawler/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawler/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crawler/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawler/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crawler/scraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawler/scraping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,8 @@
     "Python.config.executor": "Run",
     "Python.fix_unavailable_affiliation.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.newRORjson.executor": "Run",
+    "Python.new_Judge_Background.executor": "Run",
     "Python.process_affiliations.executor": "Run",
     "Python.readHTML.executor": "Run",
     "Python.readWiley.executor": "Run",
